@@ -477,7 +477,7 @@
         "en" : "Passau"
       },
       "name" : "Passau",
-      "packVersion" : 10,
+      "packVersion" : 12,
       "stats" : {
         "estHours" : 9.5,
         "nodeCount" : 1580,
