@@ -1,5 +1,6 @@
 {
   "attribution" : "© OpenStreetMap contributors",
+  "license" : "ODbL 1.0 — https://opendatacommons.org/licenses/odbl/1-0/",
   "boundary" : [
     [
       48.8113,
@@ -4859,15 +4860,15 @@
       "id" : "f-pivovar-eggenberg",
       "kind" : "other",
       "localizedStory" : {
-        "de" : "Die Nové Město führt zur Brauerei Pivovar Eggenberg, die schon 1560 gegründet wurde — hier wird seit weit über vierhundert Jahren Bier gebraut.",
-        "en" : "Nové Město leads to Pivovar Eggenberg, a brewery founded back in 1560 — making beer here for well over four hundred years."
+        "de" : "Die Nové Město führt zum Pivovar Eggenberg, der schon 1560 gegründet wurde — hier wird seit weit über vierhundert Jahren dasselbe Handwerk ausgeübt.",
+        "en" : "Nové Město leads to Pivovar Eggenberg, founded back in 1560 — the same trade has been practised here for well over four hundred years."
       },
       "name" : "Pivovar Eggenberg",
       "pos" : [
         48.812642,
         14.320058
       ],
-      "story" : "Nové Město leads to Pivovar Eggenberg, a brewery founded back in 1560 — making beer here for well over four hundred years."
+      "story" : "Nové Město leads to Pivovar Eggenberg, founded back in 1560 — the same trade has been practised here for well over four hundred years."
     },
     {
       "icon" : "choice",
@@ -4934,15 +4935,15 @@
       "id" : "f-mestsky-pivovar",
       "kind" : "attraction",
       "localizedStory" : {
-        "de" : "Gleich an der Hradební liegt die städtische Brauerei Městský pivovar — hier wird seit 1605 an derselben Stelle Bier gebraut, seit über vierhundert Jahren.",
-        "en" : "Just off Hradební sits the town brewery, Městský pivovar, where beer has been brewed on this very spot since 1605 — over four hundred years."
+        "de" : "Gleich an der Hradební liegt der Městský pivovar — hier wird seit 1605 an derselben Stelle gearbeitet, seit über vierhundert Jahren.",
+        "en" : "Just off Hradební sits Městský pivovar, at work on this very spot since 1605 — over four hundred years of the same town craft."
       },
       "name" : "Městský pivovar",
       "pos" : [
         48.810666,
         14.313231
       ],
-      "story" : "Just off Hradební sits the town brewery, Městský pivovar, where beer has been brewed on this very spot since 1605 — over four hundred years."
+      "story" : "Just off Hradební sits Městský pivovar, at work on this very spot since 1605 — over four hundred years of the same town craft."
     },
     {
       "icon" : "everyday",
@@ -4988,7 +4989,7 @@
     "en" : "Český Krumlov"
   },
   "name" : "Český Krumlov",
-  "packVersion" : 8,
+  "packVersion" : 9,
   "schemaVersion" : 1,
   "source" : "OpenStreetMap via Overpass API",
   "stats" : {

@@ -1,5 +1,6 @@
 {
   "attribution" : "© OpenStreetMap contributors",
+  "license" : "ODbL 1.0 — https://opendatacommons.org/licenses/odbl/1-0/",
   "boundary" : [
     [
       48.137498,
@@ -23939,15 +23940,15 @@
       "id" : "f-viktualienmarkt",
       "kind" : "market",
       "localizedStory" : {
-        "de" : "Seit 1807 drängen sich hier Marktstände rund um einen Biergarten und einen hohen Maibaum.",
-        "en" : "Food stalls have crowded this square since 1807, gathered around a beer garden and a tall maypole."
+        "de" : "Seit 1807 drängen sich hier Marktstände rund um einen hohen Maibaum.",
+        "en" : "Food stalls have crowded this square since 1807, gathered around a tall maypole."
       },
       "name" : "Viktualienmarkt",
       "pos" : [
         48.135504,
         11.576178
       ],
-      "story" : "Food stalls have crowded this square since 1807, gathered around a beer garden and a tall maypole."
+      "story" : "Food stalls have crowded this square since 1807, gathered around a tall maypole."
     },
     {
       "icon" : "everyday",
@@ -24037,7 +24038,7 @@
     "en" : "Munich"
   },
   "name" : "Munich",
-  "packVersion" : 8,
+  "packVersion" : 9,
   "schemaVersion" : 1,
   "source" : "OpenStreetMap via Overpass API",
   "stats" : {
