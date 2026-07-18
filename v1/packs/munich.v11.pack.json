@@ -1,6 +1,5 @@
 {
   "attribution" : "© OpenStreetMap contributors",
-  "license" : "ODbL 1.0 — https://opendatacommons.org/licenses/odbl/1-0/",
   "boundary" : [
     [
       48.137498,
@@ -294,7 +293,7 @@
     "adjustedStreets" : [
 
     ],
-    "fromVersion" : 7,
+    "fromVersion" : 10,
     "removedStreets" : [
 
     ]
@@ -8601,6 +8600,36 @@
       [
         48.139139,
         11.581496
+      ]
+    ],
+    [
+      [
+        48.133758,
+        11.56945
+      ],
+      [
+        48.133743,
+        11.569459
+      ],
+      [
+        48.13365,
+        11.569372
+      ],
+      [
+        48.133518,
+        11.569407
+      ],
+      [
+        48.133551,
+        11.569376
+      ],
+      [
+        48.133676,
+        11.568993
+      ],
+      [
+        48.133703,
+        11.568995
       ]
     ],
     [
@@ -23906,24 +23935,34 @@
   ],
   "fruits" : [
     {
+      "extendedStory" : "Those two towers with round green caps are Munich's mark on the sky. The church was begun in 1401, and a builder named Jörg von Halsbach shaped it. It was consecrated in 1494, and the caps were added later, in 1525. The towers rise about 99 metres, so you can find them from far across the city. Look up, count the two caps, and you have spotted the heart of Munich.",
       "icon" : "hero",
       "id" : "f-frauenkirche",
       "kind" : "church",
+      "localizedExtendedStory" : {
+        "de" : "Diese zwei Türme mit runden grünen Hauben sind Münchens Zeichen am Himmel. Die Kirche wurde 1401 begonnen, und ein Baumeister namens Jörg von Halspach formte sie. Geweiht wurde sie 1494, und die Hauben kamen später dazu, im Jahr 1525. Die Türme sind etwa 99 Meter hoch, so findest du sie von weit her. Schau hinauf, zähl die zwei Hauben, und du hast Münchens Herz entdeckt.",
+        "en" : "Those two towers with round green caps are Munich's mark on the sky. The church was begun in 1401, and a builder named Jörg von Halsbach shaped it. It was consecrated in 1494, and the caps were added later, in 1525. The towers rise about 99 metres, so you can find them from far across the city. Look up, count the two caps, and you have spotted the heart of Munich."
+      },
       "localizedStory" : {
         "de" : "Nahe dem Eingang trägt ein dunkler Fleck im Steinboden den Spitznamen Teufelstritt.",
         "en" : "Near the entrance, a dark mark in the stone floor is nicknamed the Devil's Footstep."
       },
       "name" : "Frauenkirche",
       "pos" : [
-        48.138601,
-        11.573598
+        48.13856,
+        11.572857
       ],
       "story" : "Near the entrance, a dark mark in the stone floor is nicknamed the Devil's Footstep."
     },
     {
+      "extendedStory" : "Look high up at the town hall tower. Each day, 43 bells ring out while a jousting knight charges and coopers dance below. People have gathered here since 1158, long ago. Nearby, a golden figure of Mary stands on a tall column, raised in 1638. Stop, look up, and wait for the bells to begin.",
       "icon" : "choice",
       "id" : "f-marienplatz",
       "kind" : "square",
+      "localizedExtendedStory" : {
+        "de" : "Schau hoch hinauf zum Rathausturm. Jeden Tag läuten 43 Glocken, ein Turnierritter reitet los und Schäffler tanzen darunter. Hier treffen sich Menschen schon seit 1158, vor langer Zeit. Ganz in der Nähe steht eine goldene Marienfigur auf einer hohen Säule, errichtet 1638. Bleib stehen, schau hinauf und warte, bis die Glocken beginnen.",
+        "en" : "Look high up at the town hall tower. Each day, 43 bells ring out while a jousting knight charges and coopers dance below. People have gathered here since 1158, long ago. Nearby, a golden figure of Mary stands on a tall column, raised in 1638. Stop, look up, and wait for the bells to begin."
+      },
       "localizedStory" : {
         "de" : "Am Rathausturm drehen und tanzen bunte Figuren, sobald das große Glockenspiel erklingt.",
         "en" : "At its town-hall tower, colourful figures spin and dance when the giant chimes play."
@@ -23936,9 +23975,14 @@
       "story" : "At its town-hall tower, colourful figures spin and dance when the giant chimes play."
     },
     {
+      "extendedStory" : "This market has sold food in the same square since 1807. About 100 stalls stand in a ring, and right at the heart sits a big beer garden. So the middle of a market is a place to sit down and share a table. Look up and you will spot the tall blue-and-white maypole, raised here back in 1962. People still meet under it today.",
       "icon" : "choice",
       "id" : "f-viktualienmarkt",
       "kind" : "market",
+      "localizedExtendedStory" : {
+        "de" : "Dieser Markt verkauft hier schon seit 1807 Lebensmittel, immer auf demselben Platz. Rund 100 Stände stehen im Kreis, und mittendrin liegt ein großer Biergarten. Die Mitte eines Marktes ist also ein Ort zum Sitzen und Teilen. Schau nach oben, dort ragt der blau-weiße Maibaum, erstmals 1962 aufgestellt. Noch heute treffen sich Leute unter ihm.",
+        "en" : "This market has sold food in the same square since 1807. About 100 stalls stand in a ring, and right at the heart sits a big beer garden. So the middle of a market is a place to sit down and share a table. Look up and you will spot the tall blue-and-white maypole, raised here back in 1962. People still meet under it today."
+      },
       "localizedStory" : {
         "de" : "Seit 1807 drängen sich hier Marktstände rund um einen hohen Maibaum.",
         "en" : "Food stalls have crowded this square since 1807, gathered around a tall maypole."
@@ -23951,103 +23995,129 @@
       "story" : "Food stalls have crowded this square since 1807, gathered around a tall maypole."
     },
     {
+      "extendedStory" : "This old fort is called the Alter Hof. From 1253, it was the home of the Wittelsbachs, the family who ruled Bavaria for centuries. Kings and dukes walked through these gates and made their plans here. Look on the wall and you will find a small plaque for Wolfgang Amadeus Mozart. Touch the old stone, and you touch a wall that has watched the city for a very long time.",
       "icon" : "everyday",
       "id" : "f-alter-hof",
       "kind" : "fortress",
+      "localizedExtendedStory" : {
+        "de" : "Diese alte Burg heißt der Alte Hof. Ab 1253 war sie der Sitz der Wittelsbacher, der Familie, die Bayern über Jahrhunderte regierte. Könige und Herzöge gingen durch diese Tore und schmiedeten hier ihre Pläne. Schau an die Mauer, dort findest du eine kleine Tafel für Wolfgang Amadeus Mozart. Leg die Hand auf den alten Stein, und du berührst eine Mauer, die die Stadt schon sehr lange begleitet.",
+        "en" : "This old fort is called the Alter Hof. From 1253, it was the home of the Wittelsbachs, the family who ruled Bavaria for centuries. Kings and dukes walked through these gates and made their plans here. Look on the wall and you will find a small plaque for Wolfgang Amadeus Mozart. Touch the old stone, and you touch a wall that has watched the city for a very long time."
+      },
       "localizedStory" : {
-        "de" : "Der Alte Hof — eine Burg, die seit 1253 über München wacht, nur ein paar Schritte vom Trubel des Marienplatzes entfernt.",
-        "en" : "The Old Court — a fortress that has watched over Munich since 1253, just a short step from the bustle of Marienplatz."
+        "de" : "Such die Mozart-Gedenktafel an der Mauer dieser alten Burg. Bayerns Herrscherfamilie, die Wittelsbacher, lebte hier ab 1253.",
+        "en" : "Find the Mozart plaque on the wall of this old fort. Bavaria's ruling family, the Wittelsbachs, lived here from 1253."
       },
       "name" : "Alter Hof",
       "pos" : [
         48.138204,
         11.578015
       ],
-      "story" : "The Old Court — a fortress that has watched over Munich since 1253, just a short step from the bustle of Marienplatz."
+      "story" : "Find the Mozart plaque on the wall of this old fort. Bavaria's ruling family, the Wittelsbachs, lived here from 1253."
     },
     {
+      "extendedStory" : "Stand under the big gateway arch and look up at the two towers on either side. Each one has six sides, not four. People have walked through this gate since 1308. It was restored in 1860, so what you see is old and cared for. Trace the six corners of a tower with your finger as you pass.",
       "icon" : "everyday",
       "id" : "f-sendlinger-tor",
       "kind" : "gate_tower",
+      "localizedExtendedStory" : {
+        "de" : "Stell dich unter den großen Torbogen und schau zu den zwei Türmen an den Seiten hoch. Jeder hat sechs Seiten, nicht vier. Durch dieses Tor gehen Menschen schon seit 1308. Im Jahr 1860 wurde es neu hergerichtet, also ist es alt und gut gepflegt. Fahr mit dem Finger die sechs Ecken eines Turms nach, wenn du vorbeigehst.",
+        "en" : "Stand under the big gateway arch and look up at the two towers on either side. Each one has six sides, not four. People have walked through this gate since 1308. It was restored in 1860, so what you see is old and cared for. Trace the six corners of a tower with your finger as you pass."
+      },
       "localizedStory" : {
         "de" : "Seit dem 15. Jahrhundert bewacht dieses hohe Tor den südlichen Weg in die Altstadt.",
-        "en" : "Since the 1400s, this tall gate has watched over the southern road into the old town."
+        "en" : "Since the 1400s, this tall gate has watched over the southern road into the Old Town."
       },
       "name" : "Sendlinger Tor",
       "pos" : [
         48.134055,
         11.567715
       ],
-      "story" : "Since the 1400s, this tall gate has watched over the southern road into the old town."
+      "story" : "Since the 1400s, this tall gate has watched over the southern road into the Old Town."
     },
     {
+      "extendedStory" : "On Lenbachplatz stands the Künstlerhaus, a house built just for artists. Gabriel von Seidl designed it, and its foundation stone was laid in 1893. Years later, in 1900, the doors opened. Imagine a whole building made so painters, sculptors and musicians could meet, work, and show their creations. So when you pass, picture the artists who wanted a home of their own.",
       "icon" : "everyday",
       "id" : "f-little-art-munchner-kunstlerhaus",
       "kind" : "civic",
+      "localizedExtendedStory" : {
+        "de" : "Am Lenbachplatz steht das Künstlerhaus, ein Haus, das eigens für Künstler gebaut wurde. Gabriel von Seidl entwarf es, und 1893 wurde der Grundstein gelegt. Jahre später, im Jahr 1900, öffneten sich die Türen. Stell dir ein ganzes Gebäude vor, in dem Maler, Bildhauer und Musiker sich treffen, arbeiten und ihre Werke zeigen. Geh vorbei und denk an die Künstler, die sich ein eigenes Zuhause wünschten.",
+        "en" : "On Lenbachplatz stands the Künstlerhaus, a house built just for artists. Gabriel von Seidl designed it, and its foundation stone was laid in 1893. Years later, in 1900, the doors opened. Imagine a whole building made so painters, sculptors and musicians could meet, work, and show their creations. So when you pass, picture the artists who wanted a home of their own."
+      },
       "localizedStory" : {
-        "de" : "little ART, ein Münchner Künstlerhaus an der Maxburgstraße — eine kleine Bühne für die Kunstschaffenden der Stadt, nahe der Frauenkirche.",
-        "en" : "little ART, a Munich artists' house on Maxburgstraße — a small stage for the city's makers, a few streets from the Frauenkirche."
+        "de" : "Schau auf dem Lenbachplatz: Das ist das Künstlerhaus, ein Haus für Künstler. Gabriel von Seidl entwarf es, 1900 wurde es eröffnet.",
+        "en" : "Look up on Lenbachplatz: this is the Künstlerhaus, a house built for artists. Gabriel von Seidl designed it, and it opened in 1900."
       },
       "name" : "little ART - Münchner Künstlerhaus",
       "pos" : [
         48.140125,
         11.567863
       ],
-      "story" : "little ART, a Munich artists' house on Maxburgstraße — a small stage for the city's makers, a few streets from the Frauenkirche."
+      "story" : "Look up on Lenbachplatz: this is the Künstlerhaus, a house built for artists. Gabriel von Seidl designed it, and it opened in 1900."
     },
     {
+      "extendedStory" : "This hall stands at the head of the open space, and two stone lions keep watch from its steps. See if you can find both of them. The hall was copied from one far away in Florence, called the Loggia dei Lanzi. The open square around it took shape in 1827. The lions have watched the city ever since.",
       "icon" : "choice",
       "id" : "f-odeonsplatz",
       "kind" : "square",
+      "localizedExtendedStory" : {
+        "de" : "Diese Halle steht am oberen Ende des Platzes, und zwei steinerne Löwen halten von den Stufen aus Wache. Findest du beide? Die Halle wurde einer weit entfernten in Florenz nachgebaut, der Loggia dei Lanzi. Der Platz ringsum entstand im Jahr 1827. Seitdem bewachen die Löwen die Stadt.",
+        "en" : "This hall stands at the head of the open space, and two stone lions keep watch from its steps. See if you can find both of them. The hall was copied from one far away in Florence, called the Loggia dei Lanzi. The open square around it took shape in 1827. The lions have watched the city ever since."
+      },
       "localizedStory" : {
-        "de" : "Der Odeonsplatz — ein weiter, festlicher Platz von 1827, groß genug, dass sich hier die ganze Stadt versammeln kann.",
-        "en" : "Odeonsplatz — a grand open square laid out in 1827, wide enough for the whole city to gather at once."
+        "de" : "Am Ende steht eine Halle, bewacht von zwei steinernen Löwen. Findest du beide Löwen auf ihrem Posten?",
+        "en" : "At the far end stands a hall with two stone lions on watch. Find both lions keeping guard."
       },
       "name" : "Odeonsplatz",
       "pos" : [
         48.143581,
         11.578033
       ],
-      "story" : "Odeonsplatz — a grand open square laid out in 1827, wide enough for the whole city to gather at once."
+      "story" : "At the far end stands a hall with two stone lions on watch. Find both lions keeping guard."
     },
     {
+      "extendedStory" : "Stop and look up at the towers guarding the gate. Each one has eight flat sides — count them as you pass. Across the front, three arches open in a row. This gate has stood here since 1337. Much later, in 1833, a builder named Friedrich von Gärtner gave it a careful restoration. So you are looking at something very old, watched over and cared for.",
       "icon" : "everyday",
       "id" : "f-isartor",
       "kind" : "gate_tower",
+      "localizedExtendedStory" : {
+        "de" : "Bleib kurz stehen und schau zu den Türmen hinauf, die das Tor bewachen. Jeder hat acht flache Seiten — zähl sie im Vorbeigehen. Über der Front öffnen sich drei Bögen in einer Reihe. Dieses Tor steht hier schon seit 1337. Viel später, im Jahr 1833, hat ein Baumeister namens Friedrich von Gärtner es sorgfältig restauriert. Du schaust also auf etwas sehr Altes, das behütet und gepflegt wurde.",
+        "en" : "Stop and look up at the towers guarding the gate. Each one has eight flat sides — count them as you pass. Across the front, three arches open in a row. This gate has stood here since 1337. Much later, in 1833, a builder named Friedrich von Gärtner gave it a careful restoration. So you are looking at something very old, watched over and cared for."
+      },
       "localizedStory" : {
-        "de" : "Das Isartor — ein mächtiges Stadttor von 1337, dessen Turm 40 Meter über die Straße ins alte München ragt, beim Viktualienmarkt.",
-        "en" : "The Isartor, a mighty city gate from 1337 — its tower climbs 40 metres over the road into old Munich, near the Viktualienmarkt."
+        "de" : "Zähl die Seiten an jedem Seitenturm: acht! Drei Bögen spannen sich über die Front, und das schon seit 1337.",
+        "en" : "Count the sides on each tower here: eight! Three arches line up across the front, standing on this spot since 1337."
       },
       "name" : "Isartor",
       "pos" : [
         48.13511,
         11.58183
       ],
-      "story" : "The Isartor, a mighty city gate from 1337 — its tower climbs 40 metres over the road into old Munich, near the Viktualienmarkt."
+      "story" : "Count the sides on each tower here: eight! Three arches line up across the front, standing on this spot since 1337."
     }
   ],
-  "generatedAt" : "2026-07-12T09:38:34Z",
+  "generatedAt" : "2026-07-17T18:53:34Z",
   "icon" : {
     "paths" : [
       "M93.2 34.2L102.2 33.2 118.9 34.7 126.9 37.3 133.7 42.1 139.2 49.6 143.2 61.1 126.4 61.3 121.2 64.4 124.0 69.5 131.9 74.1 148.6 75.2 166.3 71.0 167.6 69.6 167.1 64.8 172.1 61.7 170.0 57.3 182.9 50.7 192.2 69.7 179.2 76.8 173.7 65.1 172.7 71.9 168.0 75.1 168.5 77.1 172.3 75.6 174.6 72.0 176.9 76.8 163.3 85.1 163.3 198.4 150.8 194.5 145.8 187.9 144.3 115.3 139.4 105.8 132.4 100.8 132.4 196.6 84.3 196.4 84.3 102.2 76.6 106.7 72.3 114.3 71.0 185.8 63.5 194.7 52.9 197.2 53.1 83.0 30.8 71.0 31.8 68.8 37.4 71.0 37.9 69.5 32.5 67.4 34.1 66.0 39.4 67.8 39.4 66.1 25.9 58.6 26.7 57.0 35.0 61.9 35.5 60.6 27.4 55.1 28.5 53.1 40.8 62.2 42.7 70.3 46.7 73.1 42.8 62.2 38.2 57.0 38.6 54.0 49.4 62.8 49.8 68.2 53.1 70.9 72.8 75.2 88.6 72.9 95.7 69.3 101.6 63.6 90.1 63.0 89.4 56.3 87.0 55.8 88.4 39.6Z"
     ],
     "viewBox" : "25.9 33.2 166.3 165.3"
   },
+  "license" : "ODbL 1.0 — https://opendatacommons.org/licenses/odbl/1-0/",
   "localizedNames" : {
     "de" : "München",
     "en" : "Munich"
   },
   "name" : "Munich",
-  "packVersion" : 9,
+  "packVersion" : 11,
   "schemaVersion" : 1,
   "source" : "OpenStreetMap via Overpass API",
   "stats" : {
     "estHours" : 11.4,
-    "nodeCount" : 1930,
+    "nodeCount" : 1926,
     "routeFactor" : 1.33,
-    "routeKm" : 39.9,
-    "streetCount" : 166,
-    "totalKm" : 30
+    "routeKm" : 39.8,
+    "streetCount" : 165,
+    "totalKm" : 29.93
   },
   "streets" : [
     {
@@ -34202,61 +34272,6 @@
           [
             48.134776,
             11.5736
-          ]
-        ]
-      ]
-    },
-    {
-      "id" : "s-nikolaus-gradl-weg",
-      "lengthM" : 67.8,
-      "name" : "Nikolaus-Gradl-Weg",
-      "nodes" : [
-        [
-          48.133758,
-          11.56945
-        ],
-        [
-          48.133597,
-          11.569386
-        ],
-        [
-          48.133578,
-          11.569294
-        ],
-        [
-          48.133657,
-          11.569052
-        ]
-      ],
-      "polylines" : [
-        [
-          [
-            48.133758,
-            11.56945
-          ],
-          [
-            48.133743,
-            11.569459
-          ],
-          [
-            48.13365,
-            11.569372
-          ],
-          [
-            48.133518,
-            11.569407
-          ],
-          [
-            48.133551,
-            11.569376
-          ],
-          [
-            48.133676,
-            11.568993
-          ],
-          [
-            48.133703,
-            11.568995
           ]
         ]
       ]

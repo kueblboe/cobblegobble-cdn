@@ -1,6 +1,5 @@
 {
   "attribution" : "© OpenStreetMap contributors",
-  "license" : "ODbL 1.0 — https://opendatacommons.org/licenses/odbl/1-0/",
   "boundary" : [
     [
       50.0814,
@@ -306,7 +305,7 @@
     "adjustedStreets" : [
 
     ],
-    "fromVersion" : 7,
+    "fromVersion" : 10,
     "removedStreets" : [
 
     ]
@@ -2115,12 +2114,12 @@
     ],
     [
       [
-        50.082115,
-        14.407838
+        50.082116,
+        14.407834
       ],
       [
         50.082101,
-        14.407838
+        14.407824
       ],
       [
         50.082103,
@@ -20151,16 +20150,16 @@
     ],
     [
       [
-        50.083158,
+        50.083161,
         14.407735
       ],
       [
-        50.083322,
-        14.407801
+        50.083323,
+        14.407794
       ],
       [
-        50.083468,
-        14.407859
+        50.083461,
+        14.407851
       ],
       [
         50.083565,
@@ -21791,50 +21790,28 @@
     ],
     [
       [
-        50.082069,
-        14.407877
+        50.08211,
+        14.407871
       ],
-      [
-        50.08209,
-        14.407878
-      ]
-    ],
-    [
       [
         50.082143,
-        14.407838
-      ],
-      [
-        50.082115,
-        14.407838
+        14.407871
       ]
     ],
     [
       [
-        50.08209,
-        14.407878
+        50.082145,
+        14.407836
       ],
       [
-        50.082105,
-        14.407881
-      ],
+        50.082116,
+        14.407834
+      ]
+    ],
+    [
       [
-        50.082153,
+        50.082101,
         14.407872
-      ],
-      [
-        50.082152,
-        14.407838
-      ],
-      [
-        50.082143,
-        14.407838
-      ]
-    ],
-    [
-      [
-        50.082105,
-        14.407881
       ],
       [
         50.082117,
@@ -21842,15 +21819,15 @@
       ],
       [
         50.082133,
-        14.407951
+        14.407969
       ],
       [
-        50.082181,
-        14.40799
+        50.082182,
+        14.408016
       ],
       [
-        50.082275,
-        14.408045
+        50.082282,
+        14.408067
       ],
       [
         50.082488,
@@ -21859,6 +21836,10 @@
       [
         50.082704,
         14.408258
+      ],
+      [
+        50.08276,
+        14.408278
       ],
       [
         50.082797,
@@ -23215,18 +23196,22 @@
         14.407926
       ],
       [
-        50.083428,
-        14.407972
+        50.083437,
+        14.407975
       ],
       [
-        50.083468,
-        14.407859
+        50.083461,
+        14.407851
       ]
     ],
     [
       [
         50.083565,
         14.407898
+      ],
+      [
+        50.083521,
+        14.408025
       ],
       [
         50.083441,
@@ -23597,15 +23582,19 @@
     ],
     [
       [
-        50.083128,
-        14.407996
+        50.083062,
+        14.407938
+      ],
+      [
+        50.08311,
+        14.40788
       ],
       [
         50.08315,
         14.407871
       ],
       [
-        50.083297,
+        50.083295,
         14.407925
       ],
       [
@@ -24467,8 +24456,8 @@
     ],
     [
       [
-        50.082917,
-        14.408027
+        50.082893,
+        14.408026
       ],
       [
         50.08288,
@@ -26111,6 +26100,54 @@
       [
         50.091913,
         14.422234
+      ]
+    ],
+    [
+      [
+        50.082785,
+        14.408091
+      ],
+      [
+        50.082772,
+        14.408162
+      ]
+    ],
+    [
+      [
+        50.082772,
+        14.408162
+      ],
+      [
+        50.08276,
+        14.408278
+      ]
+    ],
+    [
+      [
+        50.082143,
+        14.407871
+      ],
+      [
+        50.082157,
+        14.40787
+      ],
+      [
+        50.082157,
+        14.407836
+      ],
+      [
+        50.082145,
+        14.407836
+      ]
+    ],
+    [
+      [
+        50.081991,
+        14.407979
+      ],
+      [
+        50.08202,
+        14.408018
       ]
     ],
     [
@@ -29582,39 +29619,54 @@
   ],
   "fruits" : [
     {
+      "extendedStory" : "This is the Old Town clock, built by Mikuláš of Kadaň in 1410. Every hour its little windows open, and twelve wooden apostles glide past, one after another. People have gathered in the square below to watch them for a very long time. In the fire of May 1945, the carved figures were lost. But a woodcarver named Vojtěch Sucharda made them all again by 1948, so the apostles still take their turn today.",
       "icon" : "hero",
       "id" : "f-staromestsky-orloj",
       "kind" : "attraction",
+      "localizedExtendedStory" : {
+        "de" : "Das ist die Altstädter Uhr, gebaut von Mikuláš von Kadaň im Jahr 1410. Jede volle Stunde öffnen sich ihre kleinen Fenster, und zwölf hölzerne Apostel ziehen vorbei, einer nach dem anderen. Auf dem Platz darunter schauen die Menschen ihnen schon sehr lange zu. Beim Brand vom Mai 1945 gingen die geschnitzten Figuren verloren. Doch ein Holzschnitzer namens Vojtěch Sucharda machte sie bis 1948 alle neu, und so nehmen die Apostel bis heute ihren Lauf.",
+        "en" : "This is the Old Town clock, built by Mikuláš of Kadaň in 1410. Every hour its little windows open, and twelve wooden apostles glide past, one after another. People have gathered in the square below to watch them for a very long time. In the fire of May 1945, the carved figures were lost. But a woodcarver named Vojtěch Sucharda made them all again by 1948, so the apostles still take their turn today."
+      },
       "localizedStory" : {
         "de" : "Diese astronomische Uhr am Altstädter Rathaus zeigt schon seit 1410 die Zeit — über sechshundert Jahre alt.",
-        "en" : "An astronomical clock from 1410 still marks the hours on the old town hall — over six centuries old."
+        "en" : "An astronomical clock from 1410 still marks the hours on the Old Town Hall — over six centuries old."
       },
       "name" : "Staroměstský orloj",
       "pos" : [
         50.08698,
         14.420714
       ],
-      "story" : "An astronomical clock from 1410 still marks the hours on the old town hall — over six centuries old."
+      "story" : "An astronomical clock from 1410 still marks the hours on the Old Town Hall — over six centuries old."
     },
     {
+      "extendedStory" : "You are crossing the Vltava, and the stones under your feet were set in 1357. Peter Parler designed this bridge, arch by arch. It opened in 1402, and people have crossed it ever since. Charles the Fourth was the king who wanted it built, and the bridge still carries his name. Look down at the water and imagine all the feet that walked here before yours.",
       "icon" : "choice",
       "id" : "f-karluv-most",
       "kind" : "bridge",
+      "localizedExtendedStory" : {
+        "de" : "Du überquerst gerade die Moldau, und die Steine unter deinen Füßen wurden 1357 gesetzt. Peter Parler entwarf diese Brücke, Bogen für Bogen. Sie wurde 1402 eröffnet, und seither gehen die Menschen darüber. Karl der Vierte war der König, der sie bauen wollte, und die Brücke trägt bis heute seinen Namen. Schau hinunter aufs Wasser und stell dir all die Füße vor, die vor dir hier gingen.",
+        "en" : "You are crossing the Vltava, and the stones under your feet were set in 1357. Peter Parler designed this bridge, arch by arch. It opened in 1402, and people have crossed it ever since. Charles the Fourth was the king who wanted it built, and the bridge still carries his name. Look down at the water and imagine all the feet that walked here before yours."
+      },
       "localizedStory" : {
-        "de" : "Ab 1357 entstand diese Steinbrücke über die Moldau, eine der ältesten Europas.",
-        "en" : "Builders began this stone bridge across the Vltava in 1357, one of the oldest in all of Europe."
+        "de" : "Geh über die Moldau auf Steinen, die seit 1357 hier liegen. Peter Parler entwarf die Brücke, 1402 wurde sie eröffnet.",
+        "en" : "Walk across the Vltava on stones laid since 1357. Peter Parler designed this bridge, and it opened in 1402."
       },
       "name" : "Karlův most",
       "pos" : [
         50.086627,
         14.41056
       ],
-      "story" : "Builders began this stone bridge across the Vltava in 1357, one of the oldest in all of Europe."
+      "story" : "Walk across the Vltava on stones laid since 1357. Peter Parler designed this bridge, and it opened in 1402."
     },
     {
+      "extendedStory" : "Stand at the foot of this tower on Celetná and look straight up its 44 metres. Builders began raising it in 1475. The name is the surprise: people once stored gunpowder inside these Gothic walls, so it became the Powder Tower. Picture that, then picture how many barrels a tower this tall could hold. Now it just holds the view, waiting for you to tip your head back and take it in.",
       "icon" : "choice",
       "id" : "f-prasna-brana",
       "kind" : "viewpoint",
+      "localizedExtendedStory" : {
+        "de" : "Stell dich in der Celetná an den Fuß des Turms und schau die vollen 44 Meter hinauf. Die Bauleute begannen 1475 mit dem Werk. Der Name ist die Überraschung: früher lagerte man Schwarzpulver in diesen gotischen Mauern, und so wurde er zum Pulverturm. Stell dir vor, wie viele Fässer ein so hoher Turm fasst. Heute hält er nur die Aussicht bereit und wartet darauf, dass du den Kopf in den Nacken legst.",
+        "en" : "Stand at the foot of this tower on Celetná and look straight up its 44 metres. Builders began raising it in 1475. The name is the surprise: people once stored gunpowder inside these Gothic walls, so it became the Powder Tower. Picture that, then picture how many barrels a tower this tall could hold. Now it just holds the view, waiting for you to tip your head back and take it in."
+      },
       "localizedStory" : {
         "de" : "Diesen gotischen Turm nennt man Pulverturm — nach dem Schwarzpulver, das man hier einst aufbewahrte.",
         "en" : "People call this Gothic tower the Powder Tower, after the gunpowder once kept inside it."
@@ -29627,9 +29679,14 @@
       "story" : "People call this Gothic tower the Powder Tower, after the gunpowder once kept inside it."
     },
     {
+      "extendedStory" : "This is the gate at the end of Charles Bridge, standing about 47 metres tall. Bohemia's kings once rode through it on the day they were crowned. Emperor Charles IV wanted it built, and Petr Parléř drew the design in the middle of the fourteenth century. Inside, 138 steps climb to a gallery near the top. Stand below and picture a king passing under the arch, on his way to the crown.",
       "icon" : "everyday",
       "id" : "f-staromestska-mostecka-vez",
       "kind" : "viewpoint",
+      "localizedExtendedStory" : {
+        "de" : "Das ist das Tor am Ende der Karlsbrücke, etwa 47 Meter hoch. Durch diesen Bogen ritten Böhmens Könige an ihrem Krönungstag. Kaiser Karl IV. gab es in Auftrag, und Petr Parléř entwarf es Mitte des vierzehnten Jahrhunderts. Drinnen führen 138 Stufen hinauf zu einer Galerie nahe der Spitze. Stell dir einen König vor, der hier unter dem Bogen hindurchzieht, auf dem Weg zur Krone.",
+        "en" : "This is the gate at the end of Charles Bridge, standing about 47 metres tall. Bohemia's kings once rode through it on the day they were crowned. Emperor Charles IV wanted it built, and Petr Parléř drew the design in the middle of the fourteenth century. Inside, 138 steps climb to a gallery near the top. Stand below and picture a king passing under the arch, on his way to the crown."
+      },
       "localizedStory" : {
         "de" : "Am Ostende der Karlsbrücke bewacht dieser gotische Turm den Weg — entworfen von Petr Parléř.",
         "en" : "Guarding the eastern end of Charles Bridge, this Gothic tower rose from a design by Petr Parléř."
@@ -29642,100 +29699,116 @@
       "story" : "Guarding the eastern end of Charles Bridge, this Gothic tower rose from a design by Petr Parléř."
     },
     {
+      "extendedStory" : "Long ago this square was the Horse Market, where people came to trade real horses. Today one horse still stands here, but it is made of bronze. At the top of the square, in front of the National Museum, a knight rides high on his mount. He is St Wenceslas, and his statue was set here in 1912. The whole square was laid out in 1348, when Charles the Fourth founded the New Town. Look up the long slope and find the rider.",
       "icon" : "choice",
       "id" : "f-vaclavske-namesti",
       "kind" : "square",
+      "localizedExtendedStory" : {
+        "de" : "Vor langer Zeit war dieser Platz der Rossmarkt. Hier kamen die Leute, um echte Pferde zu handeln. Heute steht nur noch ein Pferd hier, und das ist aus Bronze. Ganz oben am Platz, vor dem Nationalmuseum, sitzt ein Ritter hoch zu Ross. Es ist der heilige Wenzel, und sein Standbild kam 1912 hierher. Der ganze Platz entstand schon 1348, als Karl der Vierte die Neustadt gründete. Schau den langen Hang hinauf und finde den Reiter.",
+        "en" : "Long ago this square was the Horse Market, where people came to trade real horses. Today one horse still stands here, but it is made of bronze. At the top of the square, in front of the National Museum, a knight rides high on his mount. He is St Wenceslas, and his statue was set here in 1912. The whole square was laid out in 1348, when Charles the Fourth founded the New Town. Look up the long slope and find the rider."
+      },
       "localizedStory" : {
-        "de" : "Einst ein Rossmarkt, ist dieser Platz rund 750 Meter lang — einer der größten Europas.",
-        "en" : "Once a medieval horse market, this square stretches about 750 metres — among the largest in Europe."
+        "de" : "Vor langer Zeit war dieser Platz der Rossmarkt. Hier wurden echte Pferde gehandelt.",
+        "en" : "Long ago this square was the Horse Market. Real horses were traded right where you walk."
       },
       "name" : "Václavské náměstí",
       "pos" : [
         50.081593,
         14.427081
       ],
-      "story" : "Once a medieval horse market, this square stretches about 750 metres — among the largest in Europe."
+      "story" : "Long ago this square was the Horse Market. Real horses were traded right where you walk."
     },
     {
       "icon" : "everyday",
       "id" : "f-krannerova-kasna",
       "kind" : "fountain",
       "localizedStory" : {
-        "de" : "Der Krannerbrunnen plätschert seit 1850 am Smetana-Ufer — ein kühler Halt an der Moldau, nahe dem Altstädter Brückenturm.",
-        "en" : "Kranner's Fountain has splashed on the Smetana Embankment since 1850 — a cool stop beside the Vltava, near the Old Town bridge tower."
+        "de" : "Ein Steinbrunnen am Fluss, entworfen von Josef Andreas Kranner und 1850 erbaut. Lausche seinem plätschernden Wasser.",
+        "en" : "A stone fountain beside the river, designed by Josef Andreas Kranner and built in 1850. Listen for its splashing water."
       },
       "name" : "Krannerova kašna",
       "pos" : [
-        50.082969,
-        14.413534
+        50.082943,
+        14.413326
       ],
-      "story" : "Kranner's Fountain has splashed on the Smetana Embankment since 1850 — a cool stop beside the Vltava, near the Old Town bridge tower."
+      "story" : "A stone fountain beside the river, designed by Josef Andreas Kranner and built in 1850. Listen for its splashing water."
     },
     {
+      "extendedStory" : "This is a synagogue, a house of prayer for Jewish families. People call it the Spanish Synagogue, but no Spanish community ever worshipped here. The name comes from the walls. Every surface is covered in swirling patterns, copied from the Alhambra, a grand palace in Spain. An architect named Vojtěch Ignác Ullmann designed it, and it was finished in 1868. Step inside and you feel like you have travelled far south.",
       "icon" : "everyday",
       "id" : "f-spanelska-synagoga",
       "kind" : "church",
+      "localizedExtendedStory" : {
+        "de" : "Das ist eine Synagoge, ein Bethaus für jüdische Familien. Man nennt sie Spanische Synagoge, doch hier betete nie eine spanische Gemeinde. Der Name kommt von den Wänden. Jede Fläche trägt geschwungene Muster, nachgeahmt von der Alhambra, einem prächtigen Palast in Spanien. Der Architekt Vojtěch Ignác Ullmann entwarf sie, fertig wurde sie 1868. Tritt ein, und du fühlst dich weit in den Süden versetzt.",
+        "en" : "This is a synagogue, a house of prayer for Jewish families. People call it the Spanish Synagogue, but no Spanish community ever worshipped here. The name comes from the walls. Every surface is covered in swirling patterns, copied from the Alhambra, a grand palace in Spain. An architect named Vojtěch Ignác Ullmann designed it, and it was finished in 1868. Step inside and you feel like you have travelled far south."
+      },
       "localizedStory" : {
-        "de" : "Die Spanische Synagoge von 1868 steht in der Dušní-Straße nahe dem Haštal-Platz — schon ihr Name führt bis ins ferne Spanien.",
-        "en" : "The Spanish Synagogue, built in 1868, stands on Dušní street near Haštal Square — its name hints at far-away Spain."
+        "de" : "Schau an die Wände: überall geschwungene Muster. Sie ahmen einen Palast in Spanien nach, die Alhambra. Darum heißt es Spanische Synagoge.",
+        "en" : "Look at the walls: swirling patterns everywhere. They copy a palace in Spain called the Alhambra. That is why people call it the Spanish Synagogue."
       },
       "name" : "Španělská synagoga",
       "pos" : [
         50.090371,
         14.42082
       ],
-      "story" : "The Spanish Synagogue, built in 1868, stands on Dušní street near Haštal Square — its name hints at far-away Spain."
+      "story" : "Look at the walls: swirling patterns everywhere. They copy a palace in Spain called the Alhambra. That is why people call it the Spanish Synagogue."
     },
     {
+      "extendedStory" : "This wide square is named for a student, Jan Palach. Two grand buildings stand beside it. One is the university's Faculty of Arts, where students come to study. The other is the Rudolfinum, a concert hall. Inside, the Czech Philharmonic fills it with music. This orchestra has played in that hall since 1896. Stand still on the square, and you might hear the music drift out through the doors.",
       "icon" : "everyday",
       "id" : "f-namesti-jana-palacha",
       "kind" : "square",
+      "localizedExtendedStory" : {
+        "de" : "Dieser weite Platz ist nach dem Studenten Jan Palach benannt. Zwei große Gebäude stehen an seinem Rand. Das eine ist die Philosophische Fakultät der Universität, wo Studenten lernen. Das andere ist das Rudolfinum, ein Konzertsaal. Darin macht die Tschechische Philharmonie Musik. Dieses Orchester spielt seit 1896 in diesem Saal. Bleib einen Moment stehen, dann hörst du die Musik vielleicht durch die Türen klingen.",
+        "en" : "This wide square is named for a student, Jan Palach. Two grand buildings stand beside it. One is the university's Faculty of Arts, where students come to study. The other is the Rudolfinum, a concert hall. Inside, the Czech Philharmonic fills it with music. This orchestra has played in that hall since 1896. Stand still on the square, and you might hear the music drift out through the doors."
+      },
       "localizedStory" : {
-        "de" : "Der Jan-Palach-Platz — ein weiter Platz, den Prag zu Ehren eines mutigen jungen Mannes benannte, nahe dem Altstädter Brückenturm am Fluss.",
-        "en" : "Jan Palach Square — an open space Prague named to honour a brave young man, near the river's Old Town bridge tower."
+        "de" : "Auf diesem Platz steht der Konzertsaal Rudolfinum. Darin spielt die Tschechische Philharmonie, ein Orchester, das dort seit 1896 auftritt.",
+        "en" : "The Rudolfinum concert hall stands on this square. Inside, the Czech Philharmonic plays, an orchestra that has played here since 1896."
       },
       "name" : "náměstí Jana Palacha",
       "pos" : [
         50.089081,
         14.415132
       ],
-      "story" : "Jan Palach Square — an open space Prague named to honour a brave young man, near the river's Old Town bridge tower."
+      "story" : "The Rudolfinum concert hall stands on this square. Inside, the Czech Philharmonic plays, an orchestra that has played here since 1896."
     },
     {
       "icon" : "everyday",
       "id" : "f-hastalske-namesti",
       "kind" : "square",
       "localizedStory" : {
-        "de" : "Der Haštal-Platz — eine stille Ecke der Altstadt an der Haštalská-Straße, nur einen kurzen Weg von der Spanischen Synagoge entfernt.",
-        "en" : "Haštal Square — a quiet old-town corner off Haštalská street, a short walk from the Spanish Synagogue."
+        "de" : "Der Platz trägt den Namen der Kastuluskirche gleich nebenan. Findet die gotische Kirche - ihre Spitzbögen stammen aus dem 14. Jahrhundert.",
+        "en" : "This square is named for St Castulus church right beside it. Find the Gothic church - its pointed arches date from the 14th century."
       },
       "name" : "Haštalské náměstí",
       "pos" : [
         50.091225,
         14.42443
       ],
-      "story" : "Haštal Square — a quiet old-town corner off Haštalská street, a short walk from the Spanish Synagogue."
+      "story" : "This square is named for St Castulus church right beside it. Find the Gothic church - its pointed arches date from the 14th century."
     }
   ],
-  "generatedAt" : "2026-07-12T09:40:47Z",
+  "generatedAt" : "2026-07-18T09:31:32Z",
   "icon" : {
     "paths" : [
       "M8 90 L8 30 L16 30 L16 38 L22 38 L22 30 L30 30 L30 52 L38 52 L38 16 L47 16 L47 26 L53 26 L53 16 L62 16 L62 52 L70 52 L70 30 L78 30 L78 38 L84 38 L84 30 L92 30 L92 90 Z M42 90 L58 90 L58 66 C58 60 42 60 42 66 Z"
     ],
     "viewBox" : "0 0 100 100"
   },
+  "license" : "ODbL 1.0 — https://opendatacommons.org/licenses/odbl/1-0/",
   "localizedNames" : {
     "cs" : "Praha",
     "de" : "Prag",
     "en" : "Prague"
   },
   "name" : "Prague",
-  "packVersion" : 8,
+  "packVersion" : 11,
   "schemaVersion" : 1,
   "source" : "OpenStreetMap via Overpass API",
   "stats" : {
     "estHours" : 10.6,
-    "nodeCount" : 1822,
+    "nodeCount" : 1821,
     "routeFactor" : 1.31,
     "routeKm" : 37.2,
     "streetCount" : 131,
@@ -44047,7 +44120,7 @@
     },
     {
       "id" : "s-u-sovovych-mlynu",
-      "lengthM" : 557.6,
+      "lengthM" : 562.1,
       "name" : "U Sovových mlýnů",
       "nodes" : [
         [
@@ -44127,40 +44200,40 @@
           14.408468
         ],
         [
-          50.083322,
-          14.407801
+          50.083323,
+          14.407794
         ],
         [
-          50.082152,
-          14.407838
+          50.082157,
+          14.407836
         ],
         [
-          50.082318,
+          50.082323,
           14.407875
         ],
         [
-          50.082485,
-          14.407955
+          50.08249,
+          14.407959
         ],
         [
-          50.082657,
-          14.408036
+          50.082662,
+          14.408038
         ],
         [
-          50.082831,
-          14.40811
+          50.082836,
+          14.408112
         ],
         [
-          50.083003,
-          14.408192
+          50.083008,
+          14.408195
         ],
         [
-          50.083173,
-          14.40828
+          50.083178,
+          14.408283
         ],
         [
-          50.083343,
-          14.408374
+          50.083348,
+          14.408377
         ],
         [
           50.08111,
@@ -44187,8 +44260,8 @@
           14.407988
         ],
         [
-          50.082069,
-          14.407877
+          50.08211,
+          14.407871
         ]
       ],
       "polylines" : [
@@ -44292,8 +44365,8 @@
         ],
         [
           [
-            50.083322,
-            14.407801
+            50.083323,
+            14.407794
           ],
           [
             50.083316,
@@ -44306,8 +44379,8 @@
         ],
         [
           [
-            50.082152,
-            14.407838
+            50.082157,
+            14.407836
           ],
           [
             50.082223,
@@ -44322,8 +44395,8 @@
             14.407875
           ],
           [
-            50.082402,
-            14.407913
+            50.082416,
+            14.40789
           ],
           [
             50.082444,
@@ -44336,6 +44409,10 @@
           [
             50.082613,
             14.408018
+          ],
+          [
+            50.082785,
+            14.408091
           ],
           [
             50.08288,
@@ -44372,12 +44449,20 @@
             14.408009
           ],
           [
+            50.081991,
+            14.407979
+          ],
+          [
             50.082035,
             14.407881
           ],
           [
-            50.082069,
-            14.407877
+            50.082101,
+            14.407872
+          ],
+          [
+            50.08211,
+            14.407871
           ]
         ]
       ]
@@ -45280,7 +45365,7 @@
     },
     {
       "id" : "s-vaclavske-namesti",
-      "lengthM" : 2115.7,
+      "lengthM" : 2109.8,
       "name" : "Václavské náměstí",
       "nodes" : [
         [
@@ -45648,48 +45733,44 @@
           14.424865
         ],
         [
-          50.079605,
-          14.429789
+          50.079637,
+          14.429745
         ],
         [
-          50.079764,
-          14.429856
+          50.079791,
+          14.429825
         ],
         [
-          50.079896,
-          14.429667
+          50.07992,
+          14.42963
         ],
         [
-          50.080025,
-          14.429472
+          50.080049,
+          14.429435
         ],
         [
-          50.080154,
-          14.429276
-        ],
-        [
-          50.080196,
-          14.429147
+          50.080174,
+          14.429234
         ],
         [
           50.079623,
           14.429722
         ],
         [
-          50.079749,
-          14.429616
+          50.079764,
+          14.429597
         ],
         [
-          50.079893,
-          14.429448
+          50.079909,
+          14.429429
         ],
         [
-          50.080037,
-          14.42928
+          50.080053,
+          14.429262
         ],
         [
-          50.080193,
-          14.429148
+          50.080196,
+          14.429147
         ],
         [
           50.079809,
@@ -46203,12 +46284,8 @@
         ],
         [
           [
-            50.079605,
-            14.429789
-          ],
-          [
-            50.079625,
-            14.42976
+            50.079637,
+            14.429745
           ],
           [
             50.079763,
@@ -46241,8 +46318,8 @@
             14.429722
           ],
           [
-            50.079625,
-            14.42976
+            50.079637,
+            14.429745
           ],
           [
             50.080101,

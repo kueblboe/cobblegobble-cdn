@@ -419,14 +419,14 @@
         "en" : "Munich"
       },
       "name" : "Munich",
-      "packVersion" : 9,
+      "packVersion" : 11,
       "stats" : {
         "estHours" : 11.4,
-        "nodeCount" : 1930,
+        "nodeCount" : 1926,
         "routeFactor" : 1.33,
-        "routeKm" : 39.9,
-        "streetCount" : 166,
-        "totalKm" : 30
+        "routeKm" : 39.8,
+        "streetCount" : 165,
+        "totalKm" : 29.93
       },
       "status" : "published"
     },
@@ -535,10 +535,10 @@
         "en" : "Prague"
       },
       "name" : "Prague",
-      "packVersion" : 8,
+      "packVersion" : 11,
       "stats" : {
         "estHours" : 10.6,
-        "nodeCount" : 1822,
+        "nodeCount" : 1821,
         "routeFactor" : 1.31,
         "routeKm" : 37.2,
         "streetCount" : 131,
