@@ -105,8 +105,8 @@
     },
     {
       "center" : [
-        47.498997,
-        19.039167
+        47.496094,
+        19.046582
       ],
       "cityId" : "budapest",
       "icon" : {
@@ -120,14 +120,14 @@
         "en" : "Budapest"
       },
       "name" : "Budapest",
-      "packVersion" : 1,
+      "packVersion" : 5,
       "stats" : {
-        "estHours" : 24.7,
-        "nodeCount" : 4028,
-        "routeFactor" : 1.32,
-        "routeKm" : 86.4,
-        "streetCount" : 274,
-        "totalKm" : 65.68
+        "estHours" : 16.4,
+        "nodeCount" : 2665,
+        "routeFactor" : 1.3,
+        "routeKm" : 57.3,
+        "streetCount" : 176,
+        "totalKm" : 43.98
       },
       "status" : "coming-soon"
     },
@@ -185,8 +185,8 @@
     },
     {
       "center" : [
-        53.347259,
-        -6.259995
+        53.347202,
+        -6.261848
       ],
       "cityId" : "dublin",
       "icon" : {
@@ -200,14 +200,14 @@
         "en" : "Dublin"
       },
       "name" : "Dublin",
-      "packVersion" : 1,
+      "packVersion" : 6,
       "stats" : {
-        "estHours" : 12.9,
-        "nodeCount" : 2110,
-        "routeFactor" : 1.37,
-        "routeKm" : 45.1,
-        "streetCount" : 210,
-        "totalKm" : 32.89
+        "estHours" : 11.8,
+        "nodeCount" : 1904,
+        "routeFactor" : 1.38,
+        "routeKm" : 41.2,
+        "streetCount" : 186,
+        "totalKm" : 29.81
       },
       "status" : "coming-soon"
     },
@@ -235,8 +235,8 @@
     },
     {
       "center" : [
-        43.770753,
-        11.253717
+        43.770884,
+        11.254945
       ],
       "cityId" : "florence",
       "icon" : {
@@ -250,14 +250,14 @@
         "en" : "Florence"
       },
       "name" : "Florence",
-      "packVersion" : 1,
+      "packVersion" : 5,
       "stats" : {
-        "estHours" : 10.7,
-        "nodeCount" : 1901,
-        "routeFactor" : 1.29,
-        "routeKm" : 37.5,
-        "streetCount" : 254,
-        "totalKm" : 29.12
+        "estHours" : 12,
+        "nodeCount" : 2144,
+        "routeFactor" : 1.26,
+        "routeKm" : 42.1,
+        "streetCount" : 265,
+        "totalKm" : 33.49
       },
       "status" : "coming-soon"
     },
@@ -336,8 +336,8 @@
     },
     {
       "center" : [
-        46.051784,
-        14.507945
+        46.050635,
+        14.5072
       ],
       "cityId" : "ljubljana",
       "icon" : {
@@ -351,14 +351,14 @@
         "en" : "Ljubljana"
       },
       "name" : "Ljubljana",
-      "packVersion" : 1,
+      "packVersion" : 7,
       "stats" : {
-        "estHours" : 10,
-        "nodeCount" : 1677,
-        "routeFactor" : 1.33,
-        "routeKm" : 35,
-        "streetCount" : 126,
-        "totalKm" : 26.35
+        "estHours" : 8.3,
+        "nodeCount" : 1419,
+        "routeFactor" : 1.3,
+        "routeKm" : 29.2,
+        "streetCount" : 109,
+        "totalKm" : 22.41
       },
       "status" : "coming-soon"
     },
@@ -375,8 +375,8 @@
     },
     {
       "center" : [
-        45.76407,
-        4.831231
+        45.765752,
+        4.831938
       ],
       "cityId" : "lyon",
       "icon" : {
@@ -390,14 +390,14 @@
         "en" : "Lyon"
       },
       "name" : "Lyon",
-      "packVersion" : 1,
+      "packVersion" : 4,
       "stats" : {
-        "estHours" : 11.3,
-        "nodeCount" : 1976,
-        "routeFactor" : 1.33,
-        "routeKm" : 39.5,
-        "streetCount" : 218,
-        "totalKm" : 29.75
+        "estHours" : 13.7,
+        "nodeCount" : 2394,
+        "routeFactor" : 1.3,
+        "routeKm" : 48.1,
+        "streetCount" : 254,
+        "totalKm" : 37.02
       },
       "status" : "coming-soon"
     },
@@ -490,8 +490,8 @@
     },
     {
       "center" : [
-        41.147667,
-        -8.611607
+        41.145752,
+        -8.61133
       ],
       "cityId" : "porto",
       "icon" : {
@@ -505,14 +505,14 @@
         "en" : "Porto"
       },
       "name" : "Porto",
-      "packVersion" : 1,
+      "packVersion" : 6,
       "stats" : {
-        "estHours" : 12,
-        "nodeCount" : 1979,
-        "routeFactor" : 1.36,
-        "routeKm" : 42.1,
-        "streetCount" : 202,
-        "totalKm" : 30.96
+        "estHours" : 8.7,
+        "nodeCount" : 1557,
+        "routeFactor" : 1.29,
+        "routeKm" : 30.3,
+        "streetCount" : 176,
+        "totalKm" : 23.44
       },
       "status" : "coming-soon"
     },
@@ -617,8 +617,8 @@
     },
     {
       "center" : [
-        37.385142,
-        -5.995423
+        37.388364,
+        -5.99512
       ],
       "cityId" : "seville",
       "icon" : {
@@ -632,14 +632,14 @@
         "en" : "Seville"
       },
       "name" : "Seville",
-      "packVersion" : 1,
+      "packVersion" : 7,
       "stats" : {
-        "estHours" : 9.3,
-        "nodeCount" : 1505,
-        "routeFactor" : 1.35,
-        "routeKm" : 32.5,
-        "streetCount" : 173,
-        "totalKm" : 24.14
+        "estHours" : 10.2,
+        "nodeCount" : 1717,
+        "routeFactor" : 1.29,
+        "routeKm" : 35.7,
+        "streetCount" : 210,
+        "totalKm" : 27.65
       },
       "status" : "coming-soon"
     },
