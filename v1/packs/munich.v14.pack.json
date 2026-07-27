@@ -293,7 +293,7 @@
     "adjustedStreets" : [
 
     ],
-    "fromVersion" : 10,
+    "fromVersion" : 13,
     "removedStreets" : [
 
     ]
@@ -8742,16 +8742,6 @@
     ],
     [
       [
-        48.138485,
-        11.577959
-      ],
-      [
-        48.138521,
-        11.577758
-      ]
-    ],
-    [
-      [
         48.138007,
         11.578338
       ],
@@ -9616,16 +9606,6 @@
     ],
     [
       [
-        48.141674,
-        11.578045
-      ],
-      [
-        48.141715,
-        11.577771
-      ]
-    ],
-    [
-      [
         48.138855,
         11.57414
       ],
@@ -9726,28 +9706,6 @@
       [
         48.141652,
         11.581238
-      ]
-    ],
-    [
-      [
-        48.141845,
-        11.573264
-      ],
-      [
-        48.141889,
-        11.573255
-      ],
-      [
-        48.14199,
-        11.573205
-      ],
-      [
-        48.142016,
-        11.573221
-      ],
-      [
-        48.142064,
-        11.573377
       ]
     ],
     [
@@ -9890,24 +9848,6 @@
       [
         48.13503,
         11.567181
-      ]
-    ],
-    [
-      [
-        48.134758,
-        11.56731
-      ],
-      [
-        48.134821,
-        11.567281
-      ],
-      [
-        48.134841,
-        11.567272
-      ],
-      [
-        48.13495,
-        11.567223
       ]
     ],
     [
@@ -10058,34 +9998,6 @@
       [
         48.133873,
         11.573929
-      ]
-    ],
-    [
-      [
-        48.1342,
-        11.573356
-      ],
-      [
-        48.134365,
-        11.573554
-      ],
-      [
-        48.13444,
-        11.573606
-      ]
-    ],
-    [
-      [
-        48.134232,
-        11.573285
-      ],
-      [
-        48.13432,
-        11.57328
-      ],
-      [
-        48.134377,
-        11.573294
       ]
     ],
     [
@@ -11560,26 +11472,6 @@
       [
         48.138627,
         11.579965
-      ]
-    ],
-    [
-      [
-        48.138521,
-        11.577758
-      ],
-      [
-        48.138554,
-        11.57753
-      ]
-    ],
-    [
-      [
-        48.138554,
-        11.57753
-      ],
-      [
-        48.138593,
-        11.577304
       ]
     ],
     [
@@ -13356,20 +13248,6 @@
       [
         48.140398,
         11.571606
-      ]
-    ],
-    [
-      [
-        48.134377,
-        11.573294
-      ],
-      [
-        48.134399,
-        11.573288
-      ],
-      [
-        48.134481,
-        11.573348
       ]
     ],
     [
@@ -15264,20 +15142,6 @@
     ],
     [
       [
-        48.141947,
-        11.577114
-      ],
-      [
-        48.141892,
-        11.57742
-      ],
-      [
-        48.141844,
-        11.577692
-      ]
-    ],
-    [
-      [
         48.142397,
         11.577266
       ],
@@ -16090,48 +15954,6 @@
       [
         48.135156,
         11.569402
-      ]
-    ],
-    [
-      [
-        48.132109,
-        11.57036
-      ],
-      [
-        48.132177,
-        11.570071
-      ],
-      [
-        48.132302,
-        11.569674
-      ],
-      [
-        48.132326,
-        11.569602
-      ],
-      [
-        48.132428,
-        11.569215
-      ],
-      [
-        48.132485,
-        11.569074
-      ],
-      [
-        48.132524,
-        11.568979
-      ],
-      [
-        48.132474,
-        11.568928
-      ],
-      [
-        48.132508,
-        11.568822
-      ],
-      [
-        48.132514,
-        11.568799
       ]
     ],
     [
@@ -18438,34 +18260,6 @@
       [
         48.141898,
         11.573837
-      ]
-    ],
-    [
-      [
-        48.135032,
-        11.572207
-      ],
-      [
-        48.134973,
-        11.572091
-      ],
-      [
-        48.134843,
-        11.571923
-      ]
-    ],
-    [
-      [
-        48.134843,
-        11.571923
-      ],
-      [
-        48.134639,
-        11.57219
-      ],
-      [
-        48.134584,
-        11.572265
       ]
     ],
     [
@@ -23975,24 +23769,24 @@
       "story" : "At its town-hall tower, colourful figures spin and dance when the giant chimes play."
     },
     {
-      "extendedStory" : "This market has sold food in the same square since 1807. About 100 stalls stand in a ring, and right at the heart sits a big beer garden. So the middle of a market is a place to sit down and share a table. Look up and you will spot the tall blue-and-white maypole, raised here back in 1962. People still meet under it today.",
+      "extendedStory" : "Viktualien is an old word for food, and this square has sold it since 1807. Two hundred years of the same trade on the same ground is a rare thing in the middle of a city. The maypole is far younger than the market itself: the blue-and-white one went up in 1962. People have met under it ever since.",
       "icon" : "choice",
       "id" : "f-viktualienmarkt",
       "kind" : "market",
       "localizedExtendedStory" : {
-        "de" : "Dieser Markt verkauft hier schon seit 1807 Lebensmittel, immer auf demselben Platz. Rund 100 Stände stehen im Kreis, und mittendrin liegt ein großer Biergarten. Die Mitte eines Marktes ist also ein Ort zum Sitzen und Teilen. Schau nach oben, dort ragt der blau-weiße Maibaum, erstmals 1962 aufgestellt. Noch heute treffen sich Leute unter ihm.",
-        "en" : "This market has sold food in the same square since 1807. About 100 stalls stand in a ring, and right at the heart sits a big beer garden. So the middle of a market is a place to sit down and share a table. Look up and you will spot the tall blue-and-white maypole, raised here back in 1962. People still meet under it today."
+        "de" : "Viktualien ist ein altes Wort für Lebensmittel, und genau die verkauft dieser Platz seit 1807. Zweihundert Jahre derselbe Handel am selben Ort, das ist mitten in einer Großstadt selten. Der Maibaum ist viel jünger als der Markt: Der blau-weiße wurde 1962 aufgestellt. Seitdem trifft man sich unter ihm.",
+        "en" : "Viktualien is an old word for food, and this square has sold it since 1807. Two hundred years of the same trade on the same ground is a rare thing in the middle of a city. The maypole is far younger than the market itself: the blue-and-white one went up in 1962. People have met under it ever since."
       },
       "localizedStory" : {
-        "de" : "Seit 1807 drängen sich hier Marktstände rund um einen hohen Maibaum.",
-        "en" : "Food stalls have crowded this square since 1807, gathered around a tall maypole."
+        "de" : "Rund 100 Stände stehen im Kreis um einen Garten, in dem man sich zusammensetzt. Schau nach oben zum blau-weißen Maibaum.",
+        "en" : "About 100 stalls stand in a ring around a garden where people sit down together. Look up for the blue-and-white maypole."
       },
       "name" : "Viktualienmarkt",
       "pos" : [
         48.135504,
         11.576178
       ],
-      "story" : "Food stalls have crowded this square since 1807, gathered around a tall maypole."
+      "story" : "About 100 stalls stand in a ring around a garden where people sit down together. Look up for the blue-and-white maypole."
     },
     {
       "extendedStory" : "This old fort is called the Alter Hof. From 1253, it was the home of the Wittelsbachs, the family who ruled Bavaria for centuries. Kings and dukes walked through these gates and made their plans here. Look on the wall and you will find a small plaque for Wolfgang Amadeus Mozart. Touch the old stone, and you touch a wall that has watched the city for a very long time.",
@@ -24024,15 +23818,15 @@
         "en" : "Stand under the big gateway arch and look up at the two towers on either side. Each one has six sides, not four. People have walked through this gate since 1308. It was restored in 1860, so what you see is old and cared for. Trace the six corners of a tower with your finger as you pass."
       },
       "localizedStory" : {
-        "de" : "Seit dem 15. Jahrhundert bewacht dieses hohe Tor den südlichen Weg in die Altstadt.",
-        "en" : "Since the 1400s, this tall gate has watched over the southern road into the Old Town."
+        "de" : "Zähl die Seiten der zwei Türme neben dem großen Torbogen: je sechs. Dieses Tor steht seit 1308.",
+        "en" : "Count the sides of the two towers beside the big archway: six each. This gate has stood since 1308."
       },
       "name" : "Sendlinger Tor",
       "pos" : [
         48.134055,
         11.567715
       ],
-      "story" : "Since the 1400s, this tall gate has watched over the southern road into the Old Town."
+      "story" : "Count the sides of the two towers beside the big archway: six each. This gate has stood since 1308."
     },
     {
       "extendedStory" : "On Lenbachplatz stands the Künstlerhaus, a house built just for artists. Gabriel von Seidl designed it, and its foundation stone was laid in 1893. Years later, in 1900, the doors opened. Imagine a whole building made so painters, sculptors and musicians could meet, work, and show their creations. So when you pass, picture the artists who wanted a home of their own.",
@@ -24095,7 +23889,7 @@
       "story" : "Count the sides on each tower here: eight! Three arches line up across the front, standing on this spot since 1337."
     }
   ],
-  "generatedAt" : "2026-07-17T18:53:34Z",
+  "generatedAt" : "2026-07-27T05:08:57Z",
   "icon" : {
     "paths" : [
       "M93.2 34.2L102.2 33.2 118.9 34.7 126.9 37.3 133.7 42.1 139.2 49.6 143.2 61.1 126.4 61.3 121.2 64.4 124.0 69.5 131.9 74.1 148.6 75.2 166.3 71.0 167.6 69.6 167.1 64.8 172.1 61.7 170.0 57.3 182.9 50.7 192.2 69.7 179.2 76.8 173.7 65.1 172.7 71.9 168.0 75.1 168.5 77.1 172.3 75.6 174.6 72.0 176.9 76.8 163.3 85.1 163.3 198.4 150.8 194.5 145.8 187.9 144.3 115.3 139.4 105.8 132.4 100.8 132.4 196.6 84.3 196.4 84.3 102.2 76.6 106.7 72.3 114.3 71.0 185.8 63.5 194.7 52.9 197.2 53.1 83.0 30.8 71.0 31.8 68.8 37.4 71.0 37.9 69.5 32.5 67.4 34.1 66.0 39.4 67.8 39.4 66.1 25.9 58.6 26.7 57.0 35.0 61.9 35.5 60.6 27.4 55.1 28.5 53.1 40.8 62.2 42.7 70.3 46.7 73.1 42.8 62.2 38.2 57.0 38.6 54.0 49.4 62.8 49.8 68.2 53.1 70.9 72.8 75.2 88.6 72.9 95.7 69.3 101.6 63.6 90.1 63.0 89.4 56.3 87.0 55.8 88.4 39.6Z"
@@ -24108,16 +23902,16 @@
     "en" : "Munich"
   },
   "name" : "Munich",
-  "packVersion" : 11,
+  "packVersion" : 14,
   "schemaVersion" : 1,
   "source" : "OpenStreetMap via Overpass API",
   "stats" : {
-    "estHours" : 11.4,
-    "nodeCount" : 1926,
-    "routeFactor" : 1.33,
-    "routeKm" : 39.8,
+    "estHours" : 11.5,
+    "nodeCount" : 1955,
+    "routeFactor" : 1.32,
+    "routeKm" : 40.2,
     "streetCount" : 165,
-    "totalKm" : 29.93
+    "totalKm" : 30.36
   },
   "streets" : [
     {
@@ -24454,7 +24248,7 @@
     },
     {
       "id" : "s-alter-hof",
-      "lengthM" : 252.4,
+      "lengthM" : 302.4,
       "name" : "Alter Hof",
       "nodes" : [
         [
@@ -24528,6 +24322,18 @@
         [
           48.138046,
           11.57832
+        ],
+        [
+          48.138521,
+          11.577758
+        ],
+        [
+          48.138554,
+          11.57753
+        ],
+        [
+          48.138593,
+          11.577304
         ]
       ],
       "polylines" : [
@@ -24631,6 +24437,36 @@
           [
             48.138007,
             11.578338
+          ]
+        ],
+        [
+          [
+            48.138485,
+            11.577959
+          ],
+          [
+            48.138521,
+            11.577758
+          ]
+        ],
+        [
+          [
+            48.138521,
+            11.577758
+          ],
+          [
+            48.138554,
+            11.57753
+          ]
+        ],
+        [
+          [
+            48.138554,
+            11.57753
+          ],
+          [
+            48.138593,
+            11.577304
           ]
         ]
       ]
@@ -24933,7 +24769,7 @@
     },
     {
       "id" : "s-an-der-hauptfeuerwache",
-      "lengthM" : 202.3,
+      "lengthM" : 332.3,
       "name" : "An der Hauptfeuerwache",
       "nodes" : [
         [
@@ -24995,6 +24831,38 @@
         [
           48.132738,
           11.56889
+        ],
+        [
+          48.132109,
+          11.57036
+        ],
+        [
+          48.132169,
+          11.570106
+        ],
+        [
+          48.132243,
+          11.569861
+        ],
+        [
+          48.13232,
+          11.569618
+        ],
+        [
+          48.132387,
+          11.569368
+        ],
+        [
+          48.132464,
+          11.569125
+        ],
+        [
+          48.132476,
+          11.568921
+        ],
+        [
+          48.132514,
+          11.568799
         ]
       ],
       "polylines" : [
@@ -25072,6 +24940,48 @@
           [
             48.132758,
             11.568844
+          ]
+        ],
+        [
+          [
+            48.132109,
+            11.57036
+          ],
+          [
+            48.132177,
+            11.570071
+          ],
+          [
+            48.132302,
+            11.569674
+          ],
+          [
+            48.132326,
+            11.569602
+          ],
+          [
+            48.132428,
+            11.569215
+          ],
+          [
+            48.132485,
+            11.569074
+          ],
+          [
+            48.132524,
+            11.568979
+          ],
+          [
+            48.132474,
+            11.568928
+          ],
+          [
+            48.132508,
+            11.568822
+          ],
+          [
+            48.132514,
+            11.568799
           ]
         ]
       ]
@@ -28420,7 +28330,7 @@
     },
     {
       "id" : "s-herzog-wilhelm-strasse",
-      "lengthM" : 1001.8,
+      "lengthM" : 1024.1,
       "name" : "Herzog-Wilhelm-Straße",
       "nodes" : [
         [
@@ -28650,6 +28560,14 @@
         [
           48.134103,
           11.567931
+        ],
+        [
+          48.134758,
+          11.56731
+        ],
+        [
+          48.13493,
+          11.567232
         ]
       ],
       "polylines" : [
@@ -28961,6 +28879,24 @@
           [
             48.134103,
             11.567931
+          ]
+        ],
+        [
+          [
+            48.134758,
+            11.56731
+          ],
+          [
+            48.134821,
+            11.567281
+          ],
+          [
+            48.134841,
+            11.567272
+          ],
+          [
+            48.13495,
+            11.567223
           ]
         ]
       ]
@@ -30040,7 +29976,7 @@
     },
     {
       "id" : "s-jungfernturmstrasse",
-      "lengthM" : 108.6,
+      "lengthM" : 141.2,
       "name" : "Jungfernturmstraße",
       "nodes" : [
         [
@@ -30070,6 +30006,14 @@
         [
           48.142064,
           11.573377
+        ],
+        [
+          48.141845,
+          11.573264
+        ],
+        [
+          48.142016,
+          11.573223
         ]
       ],
       "polylines" : [
@@ -30089,6 +30033,28 @@
           [
             48.142221,
             11.574417
+          ],
+          [
+            48.142064,
+            11.573377
+          ]
+        ],
+        [
+          [
+            48.141845,
+            11.573264
+          ],
+          [
+            48.141889,
+            11.573255
+          ],
+          [
+            48.14199,
+            11.573205
+          ],
+          [
+            48.142016,
+            11.573221
           ],
           [
             48.142064,
@@ -37097,7 +37063,7 @@
     },
     {
       "id" : "s-pralat-zistl-strasse",
-      "lengthM" : 226.3,
+      "lengthM" : 287.8,
       "name" : "Prälat-Zistl-Straße",
       "nodes" : [
         [
@@ -37151,6 +37117,30 @@
         [
           48.134348,
           11.574148
+        ],
+        [
+          48.1342,
+          11.573356
+        ],
+        [
+          48.134341,
+          11.573525
+        ],
+        [
+          48.13444,
+          11.573606
+        ],
+        [
+          48.134232,
+          11.573285
+        ],
+        [
+          48.134377,
+          11.573294
+        ],
+        [
+          48.134481,
+          11.573348
         ]
       ],
       "polylines" : [
@@ -37221,6 +37211,48 @@
             48.134386,
             11.574207
           ]
+        ],
+        [
+          [
+            48.1342,
+            11.573356
+          ],
+          [
+            48.134365,
+            11.573554
+          ],
+          [
+            48.13444,
+            11.573606
+          ]
+        ],
+        [
+          [
+            48.134232,
+            11.573285
+          ],
+          [
+            48.13432,
+            11.57328
+          ],
+          [
+            48.134377,
+            11.573294
+          ]
+        ],
+        [
+          [
+            48.134377,
+            11.573294
+          ],
+          [
+            48.134399,
+            11.573288
+          ],
+          [
+            48.134481,
+            11.573348
+          ]
         ]
       ]
     },
@@ -37289,7 +37321,7 @@
     },
     {
       "id" : "s-residenz",
-      "lengthM" : 812,
+      "lengthM" : 832.8,
       "name" : "Residenz",
       "nodes" : [
         [
@@ -37539,6 +37571,10 @@
         [
           48.140603,
           11.578413
+        ],
+        [
+          48.141714,
+          11.577782
         ]
       ],
       "polylines" : [
@@ -37919,6 +37955,16 @@
             48.140504,
             11.578366
           ]
+        ],
+        [
+          [
+            48.141674,
+            11.578045
+          ],
+          [
+            48.141715,
+            11.577771
+          ]
         ]
       ]
     },
@@ -37999,7 +38045,7 @@
     },
     {
       "id" : "s-residenzstrasse",
-      "lengthM" : 452.3,
+      "lengthM" : 496.7,
       "name" : "Residenzstraße",
       "nodes" : [
         [
@@ -38129,6 +38175,18 @@
         [
           48.141453,
           11.577608
+        ],
+        [
+          48.141947,
+          11.577114
+        ],
+        [
+          48.1419,
+          11.577374
+        ],
+        [
+          48.141854,
+          11.577635
         ]
       ],
       "polylines" : [
@@ -38304,6 +38362,20 @@
           [
             48.141453,
             11.577608
+          ]
+        ],
+        [
+          [
+            48.141947,
+            11.577114
+          ],
+          [
+            48.141892,
+            11.57742
+          ],
+          [
+            48.141844,
+            11.577692
           ]
         ]
       ]
@@ -39668,7 +39740,7 @@
     },
     {
       "id" : "s-sankt-jakobs-platz",
-      "lengthM" : 466.7,
+      "lengthM" : 535,
       "name" : "Sankt-Jakobs-Platz",
       "nodes" : [
         [
@@ -39782,6 +39854,22 @@
         [
           48.134886,
           11.57237
+        ],
+        [
+          48.13491,
+          11.57201
+        ],
+        [
+          48.134843,
+          11.571923
+        ],
+        [
+          48.134707,
+          11.5721
+        ],
+        [
+          48.134584,
+          11.572265
         ]
       ],
       "polylines" : [
@@ -39933,6 +40021,34 @@
           [
             48.134797,
             11.572469
+          ]
+        ],
+        [
+          [
+            48.135032,
+            11.572207
+          ],
+          [
+            48.134973,
+            11.572091
+          ],
+          [
+            48.134843,
+            11.571923
+          ]
+        ],
+        [
+          [
+            48.134843,
+            11.571923
+          ],
+          [
+            48.134639,
+            11.57219
+          ],
+          [
+            48.134584,
+            11.572265
           ]
         ]
       ]

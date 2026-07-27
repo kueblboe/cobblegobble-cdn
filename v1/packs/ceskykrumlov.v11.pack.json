@@ -1,6 +1,5 @@
 {
   "attribution" : "© OpenStreetMap contributors",
-  "license" : "ODbL 1.0 — https://opendatacommons.org/licenses/odbl/1-0/",
   "boundary" : [
     [
       48.8113,
@@ -52,15 +51,7 @@
     ],
     [
       48.814,
-      14.3173
-    ],
-    [
-      48.8148,
       14.3172
-    ],
-    [
-      48.8148,
-      14.3171
     ],
     [
       48.8137,
@@ -84,17 +75,19 @@
     ]
   ],
   "center" : [
-    48.812035,
-    14.316125
+    48.811728,
+    14.316006
   ],
   "changes" : {
     "addedStreets" : [
 
     ],
     "adjustedStreets" : [
-
+      "Hradní",
+      "Latrán",
+      "Rybářská"
     ],
-    "fromVersion" : 7,
+    "fromVersion" : 10,
     "removedStreets" : [
 
     ]
@@ -215,16 +208,26 @@
     ],
     [
       [
-        48.81475,
-        14.317135
+        48.814,
+        14.317204
       ],
       [
-        48.814757,
-        14.317185
+        48.813955,
+        14.317208
+      ]
+    ],
+    [
+      [
+        48.813898,
+        14.318062
       ],
       [
-        48.814759,
-        14.317205
+        48.813906,
+        14.318065
+      ],
+      [
+        48.813907,
+        14.318066
       ]
     ],
     [
@@ -711,20 +714,6 @@
     ],
     [
       [
-        48.814791,
-        14.317079
-      ],
-      [
-        48.814769,
-        14.317097
-      ],
-      [
-        48.814758,
-        14.317103
-      ]
-    ],
-    [
-      [
         48.813955,
         14.317208
       ],
@@ -733,22 +722,14 @@
         14.31725
       ],
       [
-        48.814254,
-        14.317223
-      ],
-      [
-        48.814389,
-        14.317219
-      ],
-      [
-        48.814588,
-        14.317193
+        48.813995,
+        14.317248
       ]
     ],
     [
       [
-        48.814758,
-        14.317103
+        48.813995,
+        14.317156
       ],
       [
         48.813953,
@@ -757,16 +738,6 @@
       [
         48.813955,
         14.317208
-      ]
-    ],
-    [
-      [
-        48.814588,
-        14.317193
-      ],
-      [
-        48.814757,
-        14.317185
       ]
     ],
     [
@@ -883,16 +854,6 @@
       [
         48.81193,
         14.316671
-      ]
-    ],
-    [
-      [
-        48.814588,
-        14.317193
-      ],
-      [
-        48.814591,
-        14.317226
       ]
     ],
     [
@@ -2069,24 +2030,6 @@
     ],
     [
       [
-        48.810561,
-        14.315124
-      ],
-      [
-        48.810344,
-        14.315107
-      ],
-      [
-        48.810308,
-        14.315084
-      ],
-      [
-        48.810282,
-        14.315065
-      ]
-    ],
-    [
-      [
         48.812367,
         14.313134
       ],
@@ -2169,22 +2112,8 @@
     ],
     [
       [
-        48.813898,
-        14.318062
-      ],
-      [
-        48.813906,
-        14.318065
-      ],
-      [
-        48.813915,
-        14.318068
-      ]
-    ],
-    [
-      [
-        48.813937,
-        14.317829
+        48.813914,
+        14.318006
       ],
       [
         48.813906,
@@ -2229,40 +2158,6 @@
       [
         48.811658,
         14.317169
-      ]
-    ],
-    [
-      [
-        48.811658,
-        14.317169
-      ],
-      [
-        48.811701,
-        14.317041
-      ],
-      [
-        48.81177,
-        14.317046
-      ],
-      [
-        48.811794,
-        14.316976
-      ],
-      [
-        48.811864,
-        14.316957
-      ],
-      [
-        48.811938,
-        14.316961
-      ],
-      [
-        48.811947,
-        14.316962
-      ],
-      [
-        48.811981,
-        14.316951
       ]
     ],
     [
@@ -2705,20 +2600,6 @@
     ],
     [
       [
-        48.81308,
-        14.31763
-      ],
-      [
-        48.813044,
-        14.31766
-      ],
-      [
-        48.813122,
-        14.31787
-      ]
-    ],
-    [
-      [
         48.813796,
         14.316509
       ],
@@ -2929,36 +2810,6 @@
     ],
     [
       [
-        48.810281,
-        14.316461
-      ],
-      [
-        48.810285,
-        14.31641
-      ],
-      [
-        48.810303,
-        14.316369
-      ],
-      [
-        48.810335,
-        14.316209
-      ],
-      [
-        48.810332,
-        14.316033
-      ],
-      [
-        48.81032,
-        14.31597
-      ],
-      [
-        48.810306,
-        14.315914
-      ]
-    ],
-    [
-      [
         48.810794,
         14.317939
       ],
@@ -3141,16 +2992,6 @@
       [
         48.812367,
         14.313134
-      ]
-    ],
-    [
-      [
-        48.810282,
-        14.315065
-      ],
-      [
-        48.810004,
-        14.314888
       ]
     ],
     [
@@ -3535,54 +3376,14 @@
         14.31617
       ],
       [
-        48.813921,
-        14.316322
-      ],
-      [
-        48.813999,
-        14.316419
-      ],
-      [
-        48.814117,
-        14.316518
-      ],
-      [
-        48.814219,
-        14.316556
-      ],
-      [
-        48.814398,
-        14.31658
-      ],
-      [
-        48.814514,
-        14.316566
-      ],
-      [
-        48.814559,
-        14.316538
-      ],
-      [
-        48.814561,
-        14.316536
+        48.813899,
+        14.316289
       ]
     ],
     [
       [
-        48.814036,
-        14.315295
-      ],
-      [
-        48.814009,
-        14.315259
-      ],
-      [
-        48.813882,
-        14.315072
-      ],
-      [
-        48.813816,
-        14.314965
+        48.813735,
+        14.314816
       ],
       [
         48.813651,
@@ -3845,52 +3646,6 @@
     ],
     [
       [
-        48.814559,
-        14.316538
-      ],
-      [
-        48.814558,
-        14.316618
-      ],
-      [
-        48.814548,
-        14.316686
-      ],
-      [
-        48.814537,
-        14.316717
-      ]
-    ],
-    [
-      [
-        48.812257,
-        14.320218
-      ],
-      [
-        48.812348,
-        14.32005
-      ],
-      [
-        48.812503,
-        14.31977
-      ]
-    ],
-    [
-      [
-        48.812137,
-        14.320511
-      ],
-      [
-        48.812178,
-        14.320412
-      ],
-      [
-        48.812203,
-        14.320351
-      ]
-    ],
-    [
-      [
         48.812026,
         14.320235
       ],
@@ -4011,16 +3766,6 @@
       [
         48.811781,
         14.313566
-      ]
-    ],
-    [
-      [
-        48.813923,
-        14.317764
-      ],
-      [
-        48.813937,
-        14.317829
       ]
     ],
     [
@@ -4858,62 +4603,57 @@
     {
       "icon" : "choice",
       "id" : "f-pivovar-eggenberg",
-      "kind" : "other",
+      "kind" : "food_landmark",
       "localizedStory" : {
-        "de" : "Die Nové Město führt zum Pivovar Eggenberg, der schon 1560 gegründet wurde — hier wird seit weit über vierhundert Jahren dasselbe Handwerk ausgeübt.",
-        "en" : "Nové Město leads to Pivovar Eggenberg, founded back in 1560 — the same trade has been practised here for well over four hundred years."
+        "de" : "Die Náplavka Miroslava Párala führt am Pivovar Eggenberg vorbei, gegründet 1560. Seit über vierhundert Jahren wird hier dasselbe Handwerk ausgeübt.",
+        "en" : "Náplavka Miroslava Párala runs past Pivovar Eggenberg, founded in 1560. The same trade has gone on here for over four hundred years."
       },
       "name" : "Pivovar Eggenberg",
       "pos" : [
-        48.812642,
-        14.320058
+        48.812548,
+        14.319899
       ],
-      "story" : "Nové Město leads to Pivovar Eggenberg, founded back in 1560 — the same trade has been practised here for well over four hundred years."
+      "story" : "Náplavka Miroslava Párala runs past Pivovar Eggenberg, founded in 1560. The same trade has gone on here for over four hundred years."
     },
     {
+      "extendedStory" : "The church takes its name from Saint Vitus. Work began in 1309, and the building was still rising in 1407. That is a hundred years of masons on one church, and the people who started it never saw it done. Its style is Gothic, which means pointed arches and windows that reach for height. Stand on Horní and look up at what took a century to finish.",
       "icon" : "choice",
       "id" : "f-svaty-vit",
       "kind" : "church",
+      "localizedExtendedStory" : {
+        "de" : "Die Kirche trägt den Namen des heiligen Veit. Der Bau begann 1309, und 1407 wurde immer noch daran gearbeitet. Das sind hundert Jahre Steinmetzarbeit an ein und derselben Kirche, und wer damit anfing, hat sie nie fertig gesehen. Ihr Stil ist gotisch: Spitzbögen und Fenster, die in die Höhe streben. Bleib auf der Horní stehen und schau hinauf, was ein Jahrhundert gebraucht hat.",
+        "en" : "The church takes its name from Saint Vitus. Work began in 1309, and the building was still rising in 1407. That is a hundred years of masons on one church, and the people who started it never saw it done. Its style is Gothic, which means pointed arches and windows that reach for height. Stand on Horní and look up at what took a century to finish."
+      },
       "localizedStory" : {
-        "de" : "Kostelní bedeutet 'Kirchgasse' — und führt zu genau einer: svatý Vít, der Kirche des heiligen Veit, die hier seit mehr als sechshundert Jahren steht.",
-        "en" : "Kostelní means 'church street' — and it leads to svatý Vít, the church of St. Vitus, which has stood here more than six hundred years."
+        "de" : "Die Horní führt zu svatý Vít, der Kirche des heiligen Veit. Der Bau begann 1309, vor mehr als siebenhundert Jahren.",
+        "en" : "Horní leads to svatý Vít, the church of St Vitus. Building began in 1309, more than seven hundred years ago."
       },
       "name" : "svatý Vít",
       "pos" : [
-        48.810164,
-        14.316137
+        48.810255,
+        14.315963
       ],
-      "story" : "Kostelní means 'church street' — and it leads to svatý Vít, the church of St. Vitus, which has stood here more than six hundred years."
+      "story" : "Horní leads to svatý Vít, the church of St Vitus. Building began in 1309, more than seven hundred years ago."
     },
     {
+      "extendedStory" : "Witiko II ordered a castle built on this rock. What stands there today is Renaissance work, rebuilt long after his time. The site sits 497 metres above sea level, and that height is the reason anyone built here at all. People have climbed this same street to reach it for more than seven hundred years. The street is called Zámek for a reason.",
       "icon" : "hero",
       "id" : "f-hrad-a-zamek-cesky-krumlov",
       "kind" : "fortress",
+      "localizedExtendedStory" : {
+        "de" : "Witiko II. ließ auf diesem Felsen eine Burg errichten. Was heute dort steht, ist Renaissance, lange nach seiner Zeit umgebaut. Der Ort liegt 497 Meter über dem Meer, und diese Höhe ist der Grund, warum hier überhaupt jemand baute. Seit mehr als siebenhundert Jahren steigen Menschen diese Gasse hinauf, die nicht umsonst Zámek heißt.",
+        "en" : "Witiko II ordered a castle built on this rock. What stands there today is Renaissance work, rebuilt long after his time. The site sits 497 metres above sea level, and that height is the reason anyone built here at all. People have climbed this same street to reach it for more than seven hundred years. The street is called Zámek for a reason."
+      },
       "localizedStory" : {
-        "de" : "Zámek heißt 'Schlossgasse' — und führt genau dorthin: hinauf zum Krumauer Schloss, das man um das Jahr 1300 zu bauen begann.",
-        "en" : "Zámek — 'castle street' — climbs to Krumlov's castle itself, begun around the year 1300 and standing above the town ever since."
+        "de" : "Zámek heißt 'Schlossgasse', und genau dorthin führt sie: hinauf zum Schloss, das Witiko II. um 1300 zu bauen begann.",
+        "en" : "Zámek means 'castle street', and it climbs to exactly that: the castle Witiko II began around 1300."
       },
       "name" : "hrad a zámek Český Krumlov",
       "pos" : [
-        48.812891,
-        14.314571
+        48.813604,
+        14.316764
       ],
-      "story" : "Zámek — 'castle street' — climbs to Krumlov's castle itself, begun around the year 1300 and standing above the town ever since."
-    },
-    {
-      "icon" : "everyday",
-      "id" : "f-budejovicka-brana",
-      "kind" : "gate_tower",
-      "localizedStory" : {
-        "de" : "Der Latrán führt geradewegs zur Budějovická brána, dem Stadttor von 1602 — ein steinernes Tor, durch das man seit über vierhundert Jahren geht.",
-        "en" : "Latrán leads to the Budějovická brána, the town gate built in 1602 — a stone doorway people have walked through for four hundred years."
-      },
-      "name" : "Budějovická brána",
-      "pos" : [
-        48.8148,
-        14.317106
-      ],
-      "story" : "Latrán leads to the Budějovická brána, the town gate built in 1602 — a stone doorway people have walked through for four hundred years."
+      "story" : "Zámek means 'castle street', and it climbs to exactly that: the castle Witiko II began around 1300."
     },
     {
       "icon" : "everyday",
@@ -4921,29 +4661,29 @@
       "kind" : "bridge",
       "localizedStory" : {
         "de" : "Die Baderbrücke über die Moldau — geh hier hinüber, und du bist in Krumaus Altstadt.",
-        "en" : "The Barber's Bridge over the Vltava — cross here and you're in Krumlov's old town."
+        "en" : "The Barber's Bridge over the Vltava — cross here and you're in Krumlov's Old Town."
       },
       "name" : "Lazebnický most",
       "pos" : [
         48.811797,
         14.315689
       ],
-      "story" : "The Barber's Bridge over the Vltava — cross here and you're in Krumlov's old town."
+      "story" : "The Barber's Bridge over the Vltava — cross here and you're in Krumlov's Old Town."
     },
     {
       "icon" : "everyday",
       "id" : "f-mestsky-pivovar",
       "kind" : "attraction",
       "localizedStory" : {
-        "de" : "Gleich an der Hradební liegt der Městský pivovar — hier wird seit 1605 an derselben Stelle gearbeitet, seit über vierhundert Jahren.",
-        "en" : "Just off Hradební sits Městský pivovar, at work on this very spot since 1605 — over four hundred years of the same town craft."
+        "de" : "Gleich an der Hradební liegt der Městský pivovar, der städtische Betrieb. Die Arbeit an dieser Stelle reicht bis 1605 zurück, das heutige Unternehmen bis 1992.",
+        "en" : "Just off Hradební sits Městský pivovar, the town's own. Work here goes back to 1605, and the present business dates from 1992."
       },
       "name" : "Městský pivovar",
       "pos" : [
         48.810666,
         14.313231
       ],
-      "story" : "Just off Hradební sits Městský pivovar, at work on this very spot since 1605 — over four hundred years of the same town craft."
+      "story" : "Just off Hradební sits Městský pivovar, the town's own. Work here goes back to 1605, and the present business dates from 1992."
     },
     {
       "icon" : "everyday",
@@ -4961,6 +4701,21 @@
       "story" : "On Horní stands the Regionální muzeum, Krumlov's regional museum — full of things from the town's past to look at."
     },
     {
+      "icon" : "everyday",
+      "id" : "f-most-dr-e-benese",
+      "kind" : "bridge",
+      "localizedStory" : {
+        "de" : "Die Dr.-E.-Beneš-Brücke führt über die Moldau. Von hier sind es nur ein paar Minuten zur Kirche svatý Vít.",
+        "en" : "The Dr. E. Beneš Bridge crosses the Vltava. Walk on and the church of svatý Vít is a couple of minutes away."
+      },
+      "name" : "most Dr. E. Beneše",
+      "pos" : [
+        48.809301,
+        14.314785
+      ],
+      "story" : "The Dr. E. Beneš Bridge crosses the Vltava. Walk on and the church of svatý Vít is a couple of minutes away."
+    },
+    {
       "icon" : "choice",
       "id" : "f-plastovy-most",
       "kind" : "bridge",
@@ -4976,29 +4731,30 @@
       "story" : "A covered 'Cloak Bridge' high on stone arches carried the lords straight from the castle to their theatre and gardens."
     }
   ],
-  "generatedAt" : "2026-07-13T13:54:24Z",
+  "generatedAt" : "2026-07-26T18:51:44Z",
   "icon" : {
     "paths" : [
       "m50 45c-15 -11 -25 -40 0 -40c25 0 15 29 0 40zm4.76 3.45c5.83 -17.67 30.32 -36.14 38.04 -12.36c7.73 23.78 -22.95 23.23 -38.04 12.36zm-1.82 5.59c18.6 0.08 43.74 17.67 23.51 32.36c-20.23 14.69 -29.18 -14.64 -23.51 -32.36zm-5.88 0c5.67 17.72 -3.29 47.06 -23.51 32.36c-20.23 -14.69 4.91 -32.28 23.51 -32.36zm-1.82 -5.59c-15.1 10.87 -45.77 11.42 -38.04 -12.36c7.73 -23.78 32.22 -5.3 38.04 12.36zm18.61 -8.17l6.72 -18.6l-15.62 12.14zm-0.34 19.89l19.77 0.64l-16.37 -11.1zm-19.02 5.82l5.5 19l5.5 -19zm-11.42 -16.29l-16.37 11.1l19.77 -0.64zm11.96 -15.89l-15.62 -12.14l6.72 18.6zm17.95 16.18c0 7.18 -5.82 13 -13 13c-7.18 0 -13 -5.82 -13 -13c0 -7.18 5.82 -13 13 -13c7.18 0 13 5.82 13 13zm-7 0c0 -3.31 -2.69 -6 -6 -6c-3.31 0 -6 2.69 -6 6c0 3.31 2.69 6 6 6c3.31 0 6 -2.69 6 -6z"
     ],
     "viewBox" : "0 0 100 100"
   },
+  "license" : "ODbL 1.0 — https://opendatacommons.org/licenses/odbl/1-0/",
   "localizedNames" : {
     "cs" : "Český Krumlov",
     "de" : "Krumau",
     "en" : "Český Krumlov"
   },
   "name" : "Český Krumlov",
-  "packVersion" : 9,
+  "packVersion" : 11,
   "schemaVersion" : 1,
   "source" : "OpenStreetMap via Overpass API",
   "stats" : {
-    "estHours" : 2.4,
-    "nodeCount" : 412,
-    "routeFactor" : 1.34,
-    "routeKm" : 8.4,
+    "estHours" : 2.5,
+    "nodeCount" : 423,
+    "routeFactor" : 1.36,
+    "routeKm" : 8.7,
     "streetCount" : 39,
-    "totalKm" : 6.24
+    "totalKm" : 6.38
   },
   "streets" : [
     {
@@ -5151,7 +4907,7 @@
     },
     {
       "id" : "s-horni",
-      "lengthM" : 229.4,
+      "lengthM" : 336.3,
       "name" : "Horní",
       "nodes" : [
         [
@@ -5209,6 +4965,38 @@
         [
           48.810602,
           14.315225
+        ],
+        [
+          48.810561,
+          14.315124
+        ],
+        [
+          48.810381,
+          14.31511
+        ],
+        [
+          48.810282,
+          14.315065
+        ],
+        [
+          48.810116,
+          14.31496
+        ],
+        [
+          48.810004,
+          14.314888
+        ],
+        [
+          48.810281,
+          14.316461
+        ],
+        [
+          48.810335,
+          14.316204
+        ],
+        [
+          48.810311,
+          14.315936
         ]
       ],
       "polylines" : [
@@ -5304,6 +5092,64 @@
           [
             48.810602,
             14.315225
+          ]
+        ],
+        [
+          [
+            48.810561,
+            14.315124
+          ],
+          [
+            48.810344,
+            14.315107
+          ],
+          [
+            48.810308,
+            14.315084
+          ],
+          [
+            48.810282,
+            14.315065
+          ]
+        ],
+        [
+          [
+            48.810282,
+            14.315065
+          ],
+          [
+            48.810004,
+            14.314888
+          ]
+        ],
+        [
+          [
+            48.810281,
+            14.316461
+          ],
+          [
+            48.810285,
+            14.31641
+          ],
+          [
+            48.810303,
+            14.316369
+          ],
+          [
+            48.810335,
+            14.316209
+          ],
+          [
+            48.810332,
+            14.316033
+          ],
+          [
+            48.81032,
+            14.31597
+          ],
+          [
+            48.810306,
+            14.315914
           ]
         ]
       ]
@@ -5913,7 +5759,7 @@
     },
     {
       "id" : "s-klaster-klarisek",
-      "lengthM" : 36.6,
+      "lengthM" : 58.9,
       "name" : "Klášter klarisek",
       "nodes" : [
         [
@@ -5927,6 +5773,14 @@
         [
           48.813398,
           14.318268
+        ],
+        [
+          48.81308,
+          14.31763
+        ],
+        [
+          48.813112,
+          14.317843
         ]
       ],
       "polylines" : [
@@ -5948,6 +5802,20 @@
           [
             48.813398,
             14.318268
+          ]
+        ],
+        [
+          [
+            48.81308,
+            14.31763
+          ],
+          [
+            48.813044,
+            14.31766
+          ],
+          [
+            48.813122,
+            14.31787
           ]
         ]
       ]
@@ -6595,7 +6463,7 @@
     },
     {
       "id" : "s-latran",
-      "lengthM" : 464.5,
+      "lengthM" : 415.3,
       "name" : "Latrán",
       "nodes" : [
         [
@@ -6627,10 +6495,6 @@
           14.31721
         ],
         [
-          48.8148,
-          14.317119
-        ],
-        [
           48.812607,
           14.317693
         ],
@@ -6653,30 +6517,6 @@
         [
           48.811981,
           14.316951
-        ],
-        [
-          48.814763,
-          14.317133
-        ],
-        [
-          48.814583,
-          14.317151
-        ],
-        [
-          48.814403,
-          14.317167
-        ],
-        [
-          48.814224,
-          14.317183
-        ],
-        [
-          48.814044,
-          14.3172
-        ],
-        [
-          48.813955,
-          14.317208
         ],
         [
           48.812689,
@@ -6729,6 +6569,18 @@
         [
           48.811991,
           14.316413
+        ],
+        [
+          48.811658,
+          14.317169
+        ],
+        [
+          48.811777,
+          14.317024
+        ],
+        [
+          48.811937,
+          14.316961
         ]
       ],
       "polylines" : [
@@ -6790,16 +6642,6 @@
         ],
         [
           [
-            48.8148,
-            14.317119
-          ],
-          [
-            48.814763,
-            14.317133
-          ]
-        ],
-        [
-          [
             48.812607,
             14.317693
           ],
@@ -6830,20 +6672,6 @@
           [
             48.811981,
             14.316951
-          ]
-        ],
-        [
-          [
-            48.814763,
-            14.317133
-          ],
-          [
-            48.81475,
-            14.317135
-          ],
-          [
-            48.813955,
-            14.317208
           ]
         ],
         [
@@ -6938,6 +6766,40 @@
           [
             48.81201,
             14.316273
+          ]
+        ],
+        [
+          [
+            48.811658,
+            14.317169
+          ],
+          [
+            48.811701,
+            14.317041
+          ],
+          [
+            48.81177,
+            14.317046
+          ],
+          [
+            48.811794,
+            14.316976
+          ],
+          [
+            48.811864,
+            14.316957
+          ],
+          [
+            48.811938,
+            14.316961
+          ],
+          [
+            48.811947,
+            14.316962
+          ],
+          [
+            48.811981,
+            14.316951
           ]
         ]
       ]
@@ -7454,7 +7316,7 @@
     },
     {
       "id" : "s-naplavka-miroslava-parala",
-      "lengthM" : 558.7,
+      "lengthM" : 615.2,
       "name" : "Náplavka Miroslava Párala",
       "nodes" : [
         [
@@ -7580,6 +7442,26 @@
         [
           48.813589,
           14.321225
+        ],
+        [
+          48.812257,
+          14.320218
+        ],
+        [
+          48.812372,
+          14.320007
+        ],
+        [
+          48.812488,
+          14.319798
+        ],
+        [
+          48.812137,
+          14.320511
+        ],
+        [
+          48.812203,
+          14.320351
         ]
       ],
       "polylines" : [
@@ -7817,6 +7699,34 @@
           [
             48.813541,
             14.321251
+          ]
+        ],
+        [
+          [
+            48.812257,
+            14.320218
+          ],
+          [
+            48.812348,
+            14.32005
+          ],
+          [
+            48.812503,
+            14.31977
+          ]
+        ],
+        [
+          [
+            48.812137,
+            14.320511
+          ],
+          [
+            48.812178,
+            14.320412
+          ],
+          [
+            48.812203,
+            14.320351
           ]
         ]
       ]
