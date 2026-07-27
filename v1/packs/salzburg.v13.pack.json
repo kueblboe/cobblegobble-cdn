@@ -1,6 +1,5 @@
 {
   "attribution" : "© OpenStreetMap contributors",
-  "license" : "ODbL 1.0 — https://opendatacommons.org/licenses/odbl/1-0/",
   "boundary" : [
     [
       47.7986,
@@ -116,9 +115,12 @@
 
     ],
     "adjustedStreets" : [
-
+      "Aula Passage",
+      "Festungsgasse",
+      "Getreidegasse",
+      "Panoramaweg"
     ],
-    "fromVersion" : 11,
+    "fromVersion" : 12,
     "removedStreets" : [
 
     ]
@@ -8933,24 +8935,6 @@
     ],
     [
       [
-        47.796994,
-        13.045896
-      ],
-      [
-        47.796932,
-        13.045881
-      ],
-      [
-        47.796937,
-        13.045714
-      ],
-      [
-        47.796924,
-        13.045631
-      ]
-    ],
-    [
-      [
         47.800291,
         13.04926
       ],
@@ -9049,16 +9033,6 @@
       [
         47.798926,
         13.037283
-      ]
-    ],
-    [
-      [
-        47.7992,
-        13.035122
-      ],
-      [
-        47.799086,
-        13.035535
       ]
     ],
     [
@@ -14949,16 +14923,6 @@
     ],
     [
       [
-        47.799779,
-        13.042091
-      ],
-      [
-        47.799658,
-        13.042121
-      ]
-    ],
-    [
-      [
         47.799588,
         13.042471
       ],
@@ -16331,16 +16295,6 @@
       [
         47.799682,
         13.041475
-      ]
-    ],
-    [
-      [
-        47.799655,
-        13.043189
-      ],
-      [
-        47.799781,
-        13.043202
       ]
     ],
     [
@@ -22661,8 +22615,8 @@
         13.043225
       ],
       [
-        47.804505,
-        13.043239
+        47.804507,
+        13.043237
       ],
       [
         47.804489,
@@ -24184,14 +24138,14 @@
       "kind" : "museum",
       "localizedStory" : {
         "de" : "Getreidegasse — in dieser Gasse steht das Haus, in dem Mozart geboren wurde, heute ein Museum.",
-        "en" : "Getreidegasse — the street where the house Mozart was born in still stands, kept today as a museum."
+        "en" : "Getreidegasse holds Mozart's birth house. The rooms behind that front are a museum today."
       },
       "name" : "Mozarts Geburtshaus",
       "pos" : [
         47.799933,
         13.043555
       ],
-      "story" : "Getreidegasse — the street where the house Mozart was born in still stands, kept today as a museum."
+      "story" : "Getreidegasse holds Mozart's birth house. The rooms behind that front are a museum today."
     },
     {
       "icon" : "everyday",
@@ -24203,8 +24157,8 @@
       },
       "name" : "Fernrohr",
       "pos" : [
-        47.800483,
-        13.038789
+        47.800578,
+        13.038998
       ],
       "story" : "A lookout point where a telescope peers out over the rooftops — stop and take in the view."
     },
@@ -24218,8 +24172,8 @@
       },
       "name" : "Schloss Mirabell",
       "pos" : [
-        47.805547,
-        13.042052
+        47.805602,
+        13.042253
       ],
       "story" : "Mirabellplatz — the open square in front of Schloss Mirabell, a grand palace that sits 426 metres above the faraway sea."
     },
@@ -24229,14 +24183,14 @@
       "kind" : "square",
       "localizedStory" : {
         "de" : "Kajetanerplatz — ein ruhiger kleiner Platz, den du beim Bummeln durch die Altstadt überquerst.",
-        "en" : "Kajetanerplatz — a calm little square to cross as you wander the old town."
+        "en" : "Kajetanerplatz — a calm little square to cross as you wander the Old Town."
       },
       "name" : "Kajetanerplatz",
       "pos" : [
         47.796826,
         13.051772
       ],
-      "story" : "Kajetanerplatz — a calm little square to cross as you wander the old town."
+      "story" : "Kajetanerplatz — a calm little square to cross as you wander the Old Town."
     },
     {
       "icon" : "choice",
@@ -24248,8 +24202,8 @@
       },
       "name" : "Müllner Kirche",
       "pos" : [
-        47.805588,
-        13.035285
+        47.805724,
+        13.03572
       ],
       "story" : "Up in the Mülln quarter, its church looks out over the lanes below — a gentle climb to reach it."
     },
@@ -24329,28 +24283,29 @@
       "story" : "On Linzer Gasse, St. Sebastian's — its quiet churchyard remembers Mozart's father, Leopold, and the old doctor Paracelsus."
     }
   ],
-  "generatedAt" : "2026-07-13T13:54:22Z",
+  "generatedAt" : "2026-07-27T09:28:53Z",
   "icon" : {
     "paths" : [
       "m 8,92 l 0,-38 l 4,0 l 0,-14 l 4,0 l 0,6 l 3,0 l 0,-6 l 4,0 l 0,6 l 3,0 l 0,-6 l 4,0 l 0,14 l 3,0 l 0,6 l 3,0 l 0,-6 l 3,0 l 0,-36 l 5,0 l 0,7 l 3.5,0 l 0,-7 l 5,0 l 0,7 l 3.5,0 l 0,-7 l 5,0 l 0,36 l 3,0 l 0,6 l 3,0 l 0,-6 l 3,0 l 0,-14 l 4,0 l 0,6 l 3,0 l 0,-6 l 4,0 l 0,6 l 3,0 l 0,-6 l 4,0 l 0,14 l 4,0 l 0,38 z m 51,0 l 0,-22 c -3,-10 -15,-10 -18,0 l 0,22 z"
     ],
     "viewBox" : "0 0 100 100"
   },
+  "license" : "ODbL 1.0 — https://opendatacommons.org/licenses/odbl/1-0/",
   "localizedNames" : {
     "de" : "Salzburg",
     "en" : "Salzburg"
   },
   "name" : "Salzburg",
-  "packVersion" : 12,
+  "packVersion" : 13,
   "schemaVersion" : 1,
   "source" : "OpenStreetMap via Overpass API",
   "stats" : {
-    "estHours" : 9.7,
-    "nodeCount" : 1580,
-    "routeFactor" : 1.33,
-    "routeKm" : 33.9,
+    "estHours" : 9.8,
+    "nodeCount" : 1586,
+    "routeFactor" : 1.34,
+    "routeKm" : 34.2,
     "streetCount" : 127,
-    "totalKm" : 25.39
+    "totalKm" : 25.48
   },
   "streets" : [
     {
@@ -24812,7 +24767,7 @@
     },
     {
       "id" : "s-aula-passage",
-      "lengthM" : 28.1,
+      "lengthM" : 41.8,
       "name" : "Aula Passage",
       "nodes" : [
         [
@@ -24847,6 +24802,16 @@
           [
             47.799604,
             13.042112
+          ]
+        ],
+        [
+          [
+            47.799779,
+            13.042091
+          ],
+          [
+            47.799658,
+            13.042121
           ]
         ]
       ]
@@ -28352,7 +28317,7 @@
     },
     {
       "id" : "s-festungsgasse",
-      "lengthM" : 413.5,
+      "lengthM" : 439.4,
       "name" : "Festungsgasse",
       "nodes" : [
         [
@@ -28446,6 +28411,14 @@
         [
           47.796004,
           13.04773
+        ],
+        [
+          47.796994,
+          13.045896
+        ],
+        [
+          47.796936,
+          13.045708
         ]
       ],
       "polylines" : [
@@ -28569,6 +28542,24 @@
           [
             47.795945,
             13.047607
+          ]
+        ],
+        [
+          [
+            47.796994,
+            13.045896
+          ],
+          [
+            47.796932,
+            13.045881
+          ],
+          [
+            47.796937,
+            13.045714
+          ],
+          [
+            47.796924,
+            13.045631
           ]
         ]
       ]
@@ -29131,7 +29122,7 @@
     },
     {
       "id" : "s-getreidegasse",
-      "lengthM" : 455.5,
+      "lengthM" : 469.6,
       "name" : "Getreidegasse",
       "nodes" : [
         [
@@ -29277,6 +29268,14 @@
         [
           47.80002,
           13.04285
+        ],
+        [
+          47.799655,
+          13.043189
+        ],
+        [
+          47.799781,
+          13.043202
         ]
       ],
       "polylines" : [
@@ -29520,6 +29519,16 @@
           [
             47.800028,
             13.042849
+          ]
+        ],
+        [
+          [
+            47.799655,
+            13.043189
+          ],
+          [
+            47.799781,
+            13.043202
           ]
         ]
       ]
@@ -35250,7 +35259,7 @@
     },
     {
       "id" : "s-panoramaweg",
-      "lengthM" : 1258,
+      "lengthM" : 1291.3,
       "name" : "Panoramaweg",
       "nodes" : [
         [
@@ -35528,6 +35537,14 @@
         [
           47.801781,
           13.033962
+        ],
+        [
+          47.7992,
+          13.035122
+        ],
+        [
+          47.799132,
+          13.035369
         ]
       ],
       "polylines" : [
@@ -35785,6 +35802,16 @@
           [
             47.801742,
             13.033959
+          ]
+        ],
+        [
+          [
+            47.7992,
+            13.035122
+          ],
+          [
+            47.799086,
+            13.035535
           ]
         ]
       ]

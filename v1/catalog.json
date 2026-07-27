@@ -241,14 +241,14 @@
         "en" : "Bamberg"
       },
       "name" : "Bamberg",
-      "packVersion" : 8,
+      "packVersion" : 9,
       "stats" : {
-        "estHours" : 7.9,
-        "nodeCount" : 1519,
-        "routeFactor" : 1.37,
-        "routeKm" : 27.8,
+        "estHours" : 8,
+        "nodeCount" : 1535,
+        "routeFactor" : 1.36,
+        "routeKm" : 28.2,
         "streetCount" : 125,
-        "totalKm" : 20.37
+        "totalKm" : 20.64
       },
       "status" : "published"
     },
@@ -346,14 +346,14 @@
         "it" : "Bologna"
       },
       "name" : "Bologna",
-      "packVersion" : 9,
+      "packVersion" : 10,
       "stats" : {
         "estHours" : 31.4,
-        "nodeCount" : 5087,
+        "nodeCount" : 5084,
         "routeFactor" : 1.29,
-        "routeKm" : 110,
+        "routeKm" : 109.9,
         "streetCount" : 425,
-        "totalKm" : 84.95
+        "totalKm" : 84.91
       },
       "status" : "published"
     },
@@ -1392,14 +1392,14 @@
         "en" : "Freyung"
       },
       "name" : "Freyung",
-      "packVersion" : 7,
+      "packVersion" : 8,
       "stats" : {
-        "estHours" : 3,
-        "nodeCount" : 439,
-        "routeFactor" : 1.39,
-        "routeKm" : 10.6,
+        "estHours" : 3.1,
+        "nodeCount" : 456,
+        "routeFactor" : 1.36,
+        "routeKm" : 10.7,
         "streetCount" : 36,
-        "totalKm" : 7.64
+        "totalKm" : 7.88
       },
       "status" : "testflight"
     },
@@ -2598,14 +2598,14 @@
         "en" : "Nuremberg"
       },
       "name" : "Nuremberg",
-      "packVersion" : 15,
+      "packVersion" : 16,
       "stats" : {
-        "estHours" : 15.1,
-        "nodeCount" : 2613,
+        "estHours" : 15.3,
+        "nodeCount" : 2642,
         "routeFactor" : 1.28,
-        "routeKm" : 53,
+        "routeKm" : 53.7,
         "streetCount" : 257,
-        "totalKm" : 41.39
+        "totalKm" : 41.78
       },
       "status" : "published"
     },
@@ -3222,14 +3222,14 @@
         "en" : "Prague"
       },
       "name" : "Prague",
-      "packVersion" : 11,
+      "packVersion" : 12,
       "stats" : {
-        "estHours" : 10.6,
-        "nodeCount" : 1821,
-        "routeFactor" : 1.31,
-        "routeKm" : 37.2,
+        "estHours" : 10.8,
+        "nodeCount" : 1854,
+        "routeFactor" : 1.32,
+        "routeKm" : 37.8,
         "streetCount" : 131,
-        "totalKm" : 28.29
+        "totalKm" : 28.77
       },
       "status" : "published"
     },
@@ -3382,14 +3382,14 @@
         "en" : "Regensburg"
       },
       "name" : "Regensburg",
-      "packVersion" : 9,
+      "packVersion" : 10,
       "stats" : {
-        "estHours" : 11.3,
-        "nodeCount" : 1864,
-        "routeFactor" : 1.3,
-        "routeKm" : 39.6,
-        "streetCount" : 207,
-        "totalKm" : 30.4
+        "estHours" : 11.5,
+        "nodeCount" : 1903,
+        "routeFactor" : 1.29,
+        "routeKm" : 40.1,
+        "streetCount" : 203,
+        "totalKm" : 31.11
       },
       "status" : "published"
     },
@@ -3518,14 +3518,14 @@
         "en" : "Salzburg"
       },
       "name" : "Salzburg",
-      "packVersion" : 12,
+      "packVersion" : 13,
       "stats" : {
-        "estHours" : 9.7,
-        "nodeCount" : 1580,
-        "routeFactor" : 1.33,
-        "routeKm" : 33.9,
+        "estHours" : 9.8,
+        "nodeCount" : 1586,
+        "routeFactor" : 1.34,
+        "routeKm" : 34.2,
         "streetCount" : 127,
-        "totalKm" : 25.39
+        "totalKm" : 25.48
       },
       "status" : "published"
     },
@@ -4053,14 +4053,14 @@
         "en" : "Vienna"
       },
       "name" : "Vienna",
-      "packVersion" : 8,
+      "packVersion" : 9,
       "stats" : {
-        "estHours" : 15.6,
-        "nodeCount" : 2741,
+        "estHours" : 15.7,
+        "nodeCount" : 2770,
         "routeFactor" : 1.27,
-        "routeKm" : 54.5,
-        "streetCount" : 238,
-        "totalKm" : 42.94
+        "routeKm" : 55.1,
+        "streetCount" : 239,
+        "totalKm" : 43.32
       },
       "status" : "published"
     },

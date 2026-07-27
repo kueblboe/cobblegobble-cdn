@@ -1,6 +1,5 @@
 {
   "attribution" : "© OpenStreetMap contributors",
-  "license" : "ODbL 1.0 — https://opendatacommons.org/licenses/odbl/1-0/",
   "boundary" : [
     [
       49.8873,
@@ -212,9 +211,13 @@
 
     ],
     "adjustedStreets" : [
-
+      "Frauenplatz",
+      "Geyerswörthplatz",
+      "Geyerswörthstraße",
+      "Habergasse",
+      "Hinterer Bach"
     ],
-    "fromVersion" : 7,
+    "fromVersion" : 8,
     "removedStreets" : [
 
     ]
@@ -2513,16 +2516,6 @@
     ],
     [
       [
-        49.890554,
-        10.888063
-      ],
-      [
-        49.890299,
-        10.887787
-      ]
-    ],
-    [
-      [
         49.891462,
         10.88868
       ],
@@ -2539,20 +2532,6 @@
       [
         49.891205,
         10.888569
-      ]
-    ],
-    [
-      [
-        49.891019,
-        10.886805
-      ],
-      [
-        49.890984,
-        10.886629
-      ],
-      [
-        49.890921,
-        10.886387
       ]
     ],
     [
@@ -2723,20 +2702,6 @@
       [
         49.892067,
         10.885025
-      ]
-    ],
-    [
-      [
-        49.889695,
-        10.88478
-      ],
-      [
-        49.889535,
-        10.884392
-      ],
-      [
-        49.889306,
-        10.883939
       ]
     ],
     [
@@ -3637,16 +3602,6 @@
     ],
     [
       [
-        49.889585,
-        10.883894
-      ],
-      [
-        49.889445,
-        10.884054
-      ]
-    ],
-    [
-      [
         49.891282,
         10.883925
       ],
@@ -4429,52 +4384,6 @@
       [
         49.888818,
         10.884826
-      ]
-    ],
-    [
-      [
-        49.891547,
-        10.887729
-      ],
-      [
-        49.891559,
-        10.887681
-      ],
-      [
-        49.891575,
-        10.887645
-      ],
-      [
-        49.891589,
-        10.887626
-      ],
-      [
-        49.891684,
-        10.887517
-      ],
-      [
-        49.891762,
-        10.887444
-      ],
-      [
-        49.892102,
-        10.887155
-      ],
-      [
-        49.892176,
-        10.887094
-      ],
-      [
-        49.892251,
-        10.887029
-      ],
-      [
-        49.89231,
-        10.886949
-      ],
-      [
-        49.892375,
-        10.88697
       ]
     ],
     [
@@ -10997,8 +10906,8 @@
       },
       "name" : "Alte Hofhaltung",
       "pos" : [
-        49.891194,
-        10.881511
+        49.891392,
+        10.881546
       ],
       "story" : "On Domplatz stands the Alte Hofhaltung — the old court where Bamberg's prince-bishops, church leaders who also ruled the town, once lived."
     },
@@ -11027,8 +10936,8 @@
       },
       "name" : "Bamberger Dom",
       "pos" : [
-        49.890721,
-        10.882527
+        49.890879,
+        10.882513
       ],
       "story" : "Domplatz — the cathedral square where the Bamberger Dom, begun in 1004, has stood for over a thousand years."
     },
@@ -11083,14 +10992,14 @@
       "kind" : "bridge",
       "localizedStory" : {
         "de" : "Marienbrücke — eine Brücke über das Wasser in der Altstadt. Geh einfach hinüber und weiter geht's.",
-        "en" : "Marienbrücke — a bridge across the water in Bamberg's old town. Cross over and keep going."
+        "en" : "Marienbrücke — a bridge across the water in Bamberg's Old Town. Cross over and keep going."
       },
       "name" : "Marienbrücke",
       "pos" : [
         49.892413,
         10.898835
       ],
-      "story" : "Marienbrücke — a bridge across the water in Bamberg's old town. Cross over and keep going."
+      "story" : "Marienbrücke — a bridge across the water in Bamberg's Old Town. Cross over and keep going."
     },
     {
       "icon" : "choice",
@@ -11102,8 +11011,8 @@
       },
       "name" : "Sankt Stephan",
       "pos" : [
-        49.888336,
-        10.886218
+        49.888281,
+        10.885888
       ],
       "story" : "Stephansplatz — the square beside Sankt Stephan, a church standing 256 metres above the sea."
     },
@@ -11128,14 +11037,14 @@
       "kind" : "bridge",
       "localizedStory" : {
         "de" : "Nonnenbrücke — noch eine Brücke über das Wasser in der Altstadt. Geh hier hinüber und weiter.",
-        "en" : "Nonnenbrücke — another bridge over the water in the old town. Cross here and keep going."
+        "en" : "Nonnenbrücke — another bridge over the water in the Old Town. Cross here and keep going."
       },
       "name" : "Nonnenbrücke",
       "pos" : [
         49.889425,
         10.889925
       ],
-      "story" : "Nonnenbrücke — another bridge over the water in the old town. Cross here and keep going."
+      "story" : "Nonnenbrücke — another bridge over the water in the Old Town. Cross here and keep going."
     },
     {
       "icon" : "everyday",
@@ -11143,38 +11052,39 @@
       "kind" : "church",
       "localizedStory" : {
         "de" : "Obere Königstraße — die Straße an der Kirche Sankt Gangolf in der Altstadt. Geh sie ab und sammle unterwegs.",
-        "en" : "Obere Königstraße — the street by Sankt Gangolf, a church in Bamberg's old town. Walk it and collect as you go."
+        "en" : "Obere Königstraße — the street by Sankt Gangolf, a church in Bamberg's Old Town. Walk it and collect as you go."
       },
       "name" : "Sankt Gangolf",
       "pos" : [
-        49.897281,
-        10.896625
+        49.897029,
+        10.896283
       ],
-      "story" : "Obere Königstraße — the street by Sankt Gangolf, a church in Bamberg's old town. Walk it and collect as you go."
+      "story" : "Obere Königstraße — the street by Sankt Gangolf, a church in Bamberg's Old Town. Walk it and collect as you go."
     }
   ],
-  "generatedAt" : "2026-07-13T13:54:20Z",
+  "generatedAt" : "2026-07-27T09:23:19Z",
   "icon" : {
     "paths" : [
       "m 34 29 c 0 -16 20 -16 20 0 l 9 8 0 7 14 0 0 8 -16 0 -2 14 4 9 -4 2 -3 16 -7 0 -3 -22 -3 22 -7 0 -3 -16 -5 -2 2 -15 -3 -16 -2 -7 z m 39 -26 l 7 14 -3 2 0 75 -8 0 0 -75 -3 -2 z"
     ],
     "viewBox" : "0 0 100 100"
   },
+  "license" : "ODbL 1.0 — https://opendatacommons.org/licenses/odbl/1-0/",
   "localizedNames" : {
     "de" : "Bamberg",
     "en" : "Bamberg"
   },
   "name" : "Bamberg",
-  "packVersion" : 8,
+  "packVersion" : 9,
   "schemaVersion" : 1,
   "source" : "OpenStreetMap via Overpass API",
   "stats" : {
-    "estHours" : 7.9,
-    "nodeCount" : 1519,
-    "routeFactor" : 1.37,
-    "routeKm" : 27.8,
+    "estHours" : 8,
+    "nodeCount" : 1535,
+    "routeFactor" : 1.36,
+    "routeKm" : 28.2,
     "streetCount" : 125,
-    "totalKm" : 20.37
+    "totalKm" : 20.64
   },
   "streets" : [
     {
@@ -15138,7 +15048,7 @@
     },
     {
       "id" : "s-frauenplatz",
-      "lengthM" : 103.3,
+      "lengthM" : 177.5,
       "name" : "Frauenplatz",
       "nodes" : [
         [
@@ -15184,6 +15094,22 @@
         [
           49.889055,
           10.884233
+        ],
+        [
+          49.889695,
+          10.88478
+        ],
+        [
+          49.889598,
+          10.884544
+        ],
+        [
+          49.889496,
+          10.884315
+        ],
+        [
+          49.889385,
+          10.884095
         ]
       ],
       "polylines" : [
@@ -15281,6 +15207,20 @@
           [
             49.889075,
             10.88431
+          ]
+        ],
+        [
+          [
+            49.889695,
+            10.88478
+          ],
+          [
+            49.889535,
+            10.884392
+          ],
+          [
+            49.889306,
+            10.883939
           ]
         ]
       ]
@@ -16106,7 +16046,7 @@
     },
     {
       "id" : "s-geyersworthplatz",
-      "lengthM" : 55.8,
+      "lengthM" : 87.7,
       "name" : "Geyerswörthplatz",
       "nodes" : [
         [
@@ -16132,6 +16072,14 @@
         [
           49.891227,
           10.886128
+        ],
+        [
+          49.891019,
+          10.886805
+        ],
+        [
+          49.890961,
+          10.886541
         ]
       ],
       "polylines" : [
@@ -16188,12 +16136,26 @@
             49.891131,
             10.886209
           ]
+        ],
+        [
+          [
+            49.891019,
+            10.886805
+          ],
+          [
+            49.890984,
+            10.886629
+          ],
+          [
+            49.890921,
+            10.886387
+          ]
         ]
       ]
     },
     {
       "id" : "s-geyersworthstrasse",
-      "lengthM" : 260.7,
+      "lengthM" : 295.2,
       "name" : "Geyerswörthstraße",
       "nodes" : [
         [
@@ -16271,6 +16233,18 @@
         [
           49.889258,
           10.889169
+        ],
+        [
+          49.890554,
+          10.888063
+        ],
+        [
+          49.890406,
+          10.887903
+        ],
+        [
+          49.890299,
+          10.887787
         ]
       ],
       "polylines" : [
@@ -16418,6 +16392,16 @@
           [
             49.889257,
             10.88917
+          ]
+        ],
+        [
+          [
+            49.890554,
+            10.888063
+          ],
+          [
+            49.890299,
+            10.887787
           ]
         ]
       ]
@@ -16632,7 +16616,7 @@
     },
     {
       "id" : "s-habergasse",
-      "lengthM" : 208.9,
+      "lengthM" : 319.1,
       "name" : "Habergasse",
       "nodes" : [
         [
@@ -16702,6 +16686,30 @@
         [
           49.891596,
           10.889164
+        ],
+        [
+          49.89167,
+          10.887533
+        ],
+        [
+          49.891824,
+          10.887391
+        ],
+        [
+          49.891982,
+          10.887257
+        ],
+        [
+          49.89214,
+          10.887124
+        ],
+        [
+          49.892291,
+          10.886975
+        ],
+        [
+          49.892375,
+          10.88697
         ]
       ],
       "polylines" : [
@@ -16857,6 +16865,52 @@
           [
             49.891574,
             10.8894
+          ]
+        ],
+        [
+          [
+            49.891547,
+            10.887729
+          ],
+          [
+            49.891559,
+            10.887681
+          ],
+          [
+            49.891575,
+            10.887645
+          ],
+          [
+            49.891589,
+            10.887626
+          ],
+          [
+            49.891684,
+            10.887517
+          ],
+          [
+            49.891762,
+            10.887444
+          ],
+          [
+            49.892102,
+            10.887155
+          ],
+          [
+            49.892176,
+            10.887094
+          ],
+          [
+            49.892251,
+            10.887029
+          ],
+          [
+            49.89231,
+            10.886949
+          ],
+          [
+            49.892375,
+            10.88697
           ]
         ]
       ]
@@ -18106,7 +18160,7 @@
     },
     {
       "id" : "s-hinterer-bach",
-      "lengthM" : 128.2,
+      "lengthM" : 147.6,
       "name" : "Hinterer Bach",
       "nodes" : [
         [
@@ -18152,6 +18206,10 @@
         [
           49.889626,
           10.883205
+        ],
+        [
+          49.889445,
+          10.884054
         ]
       ],
       "polylines" : [
@@ -18245,6 +18303,16 @@
           [
             49.889711,
             10.883144
+          ]
+        ],
+        [
+          [
+            49.889585,
+            10.883894
+          ],
+          [
+            49.889445,
+            10.884054
           ]
         ]
       ]
@@ -27229,8 +27297,8 @@
           10.887297
         ],
         [
-          49.890781,
-          10.887386
+          49.890777,
+          10.887279
         ]
       ],
       "polylines" : [
@@ -27325,6 +27393,12 @@
             49.890771,
             10.887132
           ],
+          [
+            49.890777,
+            10.887279
+          ]
+        ],
+        [
           [
             49.890777,
             10.887279
