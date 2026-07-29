@@ -115,12 +115,9 @@
 
     ],
     "adjustedStreets" : [
-      "Aula Passage",
-      "Festungsgasse",
-      "Getreidegasse",
-      "Panoramaweg"
+
     ],
-    "fromVersion" : 12,
+    "fromVersion" : 21,
     "removedStreets" : [
 
     ]
@@ -24118,9 +24115,14 @@
   ],
   "fruits" : [
     {
+      "extendedStory" : "Santino Solari gave the cathedral the shape you see today. He built in the Baroque style, which favours curves, domes and light falling from above. The church carries the name of Rupert of Salzburg. A church has stood on this ground since the year 701, so Solari built on very old land.",
       "icon" : "hero",
       "id" : "f-salzburger-dom",
       "kind" : "church",
+      "localizedExtendedStory" : {
+        "de" : "Santino Solari gab dem Dom die Gestalt, die du heute siehst. Er baute im Barock, der Schwünge, Kuppeln und Licht von oben liebt. Die Kirche trägt den Namen des heiligen Rupert von Salzburg. Auf diesem Boden steht seit dem Jahr 701 ein Gotteshaus, Solari baute also auf sehr altem Grund.",
+        "en" : "Santino Solari gave the cathedral the shape you see today. He built in the Baroque style, which favours curves, domes and light falling from above. The church carries the name of Rupert of Salzburg. A church has stood on this ground since the year 701, so Solari built on very old land."
+      },
       "localizedStory" : {
         "de" : "Kapitelplatz — neben dem Salzburger Dom, einer großen Kirche, die schon im Jahr 701 begonnen wurde und deren Türme 78 Meter hoch aufragen.",
         "en" : "Kapitelplatz — beside the Salzburger Dom, a great church begun in the year 701, its towers rising 78 metres high."
@@ -24133,9 +24135,14 @@
       "story" : "Kapitelplatz — beside the Salzburger Dom, a great church begun in the year 701, its towers rising 78 metres high."
     },
     {
+      "extendedStory" : "The family did not have the whole house to themselves. They had a single apartment, up on the third floor, and they stayed there for 26 years. A child born in those rooms in 1756 would grow up to write music the world still plays. Today you can walk through those same rooms yourself.",
       "icon" : "choice",
       "id" : "f-mozarts-geburtshaus",
       "kind" : "museum",
+      "localizedExtendedStory" : {
+        "de" : "Im Jänner 1756 wurde Mozart in diesem Haus geboren. Die Wohnung der Familie lag im dritten Obergeschoss, hoch über der engen Gasse. Sie blieben 26 Jahre und zogen 1773 in das Mozart-Wohnhaus. Die Internationale Stiftung Mozarteum eröffnete hier 1880 das Museum, das du besuchen kannst.",
+        "en" : "The family did not have the whole house to themselves. They had a single apartment, up on the third floor, and they stayed there for 26 years. A child born in those rooms in 1756 would grow up to write music the world still plays. Today you can walk through those same rooms yourself."
+      },
       "localizedStory" : {
         "de" : "Getreidegasse — in dieser Gasse steht das Haus, in dem Mozart geboren wurde, heute ein Museum.",
         "en" : "Getreidegasse holds Mozart's birth house. The rooms behind that front are a museum today."
@@ -24148,69 +24155,14 @@
       "story" : "Getreidegasse holds Mozart's birth house. The rooms behind that front are a museum today."
     },
     {
-      "icon" : "everyday",
-      "id" : "f-fernrohr",
-      "kind" : "viewpoint",
-      "localizedStory" : {
-        "de" : "Ein Aussichtspunkt, wo ein Fernrohr über die Dächer blickt — bleib stehen und genieß die Aussicht.",
-        "en" : "A lookout point where a telescope peers out over the rooftops — stop and take in the view."
-      },
-      "name" : "Fernrohr",
-      "pos" : [
-        47.800578,
-        13.038998
-      ],
-      "story" : "A lookout point where a telescope peers out over the rooftops — stop and take in the view."
-    },
-    {
-      "icon" : "choice",
-      "id" : "f-schloss-mirabell",
-      "kind" : "fortress",
-      "localizedStory" : {
-        "de" : "Mirabellplatz — der weite Platz vor dem Schloss Mirabell, das ganze 426 Meter über dem fernen Meer liegt.",
-        "en" : "Mirabellplatz — the open square in front of Schloss Mirabell, a grand palace that sits 426 metres above the faraway sea."
-      },
-      "name" : "Schloss Mirabell",
-      "pos" : [
-        47.805602,
-        13.042253
-      ],
-      "story" : "Mirabellplatz — the open square in front of Schloss Mirabell, a grand palace that sits 426 metres above the faraway sea."
-    },
-    {
-      "icon" : "everyday",
-      "id" : "f-kajetanerplatz",
-      "kind" : "square",
-      "localizedStory" : {
-        "de" : "Kajetanerplatz — ein ruhiger kleiner Platz, den du beim Bummeln durch die Altstadt überquerst.",
-        "en" : "Kajetanerplatz — a calm little square to cross as you wander the Old Town."
-      },
-      "name" : "Kajetanerplatz",
-      "pos" : [
-        47.796826,
-        13.051772
-      ],
-      "story" : "Kajetanerplatz — a calm little square to cross as you wander the Old Town."
-    },
-    {
-      "icon" : "choice",
-      "id" : "f-mullner-kirche",
-      "kind" : "church",
-      "localizedStory" : {
-        "de" : "Oben im Stadtteil Mülln blickt die Kirche über die Gassen hinab — ein sanfter Anstieg führt hinauf.",
-        "en" : "Up in the Mülln quarter, its church looks out over the lanes below — a gentle climb to reach it."
-      },
-      "name" : "Müllner Kirche",
-      "pos" : [
-        47.805724,
-        13.03572
-      ],
-      "story" : "Up in the Mülln quarter, its church looks out over the lanes below — a gentle climb to reach it."
-    },
-    {
+      "extendedStory" : "The bridge opened on 29 March 1903, and you had to pay to cross it. A society formed to push the crossing through, and its art nouveau ironwork is still there. The toll lasted until 1921. Look for the old toll house at the end: it still stands, and now holds the smallest coffee shop in Salzburg.",
       "icon" : "everyday",
       "id" : "f-mozartsteg",
       "kind" : "bridge",
+      "localizedExtendedStory" : {
+        "de" : "Die Brücke wurde im März 1903 eröffnet, und das Überqueren kostete Geld. Ein Verein setzte den Übergang durch, sein Jugendstilschmuck ist bis heute da. Bis 1921 musste man Maut zahlen. Schau am Ende nach dem alten Mauthäuschen: Es steht noch und beherbergt das kleinste Kaffeehaus Salzburgs.",
+        "en" : "The bridge opened on 29 March 1903, and you had to pay to cross it. A society formed to push the crossing through, and its art nouveau ironwork is still there. The toll lasted until 1921. Look for the old toll house at the end: it still stands, and now holds the smallest coffee shop in Salzburg."
+      },
       "localizedStory" : {
         "de" : "Der Mozartsteg führt schmal über die Salzach, benannt nach Mozart — geh einfach hinüber.",
         "en" : "Mozartsteg — a slender footbridge over the Salzach, named for Mozart. Cross to the other bank."
@@ -24223,24 +24175,114 @@
       "story" : "Mozartsteg — a slender footbridge over the Salzach, named for Mozart. Cross to the other bank."
     },
     {
+      "extendedStory" : "The bastion was thrown up around 1630, in the years of the Thirty Years' War. Its guns pointed down at the main bridge over the Salzach. Whoever held this rock held the crossing and the houses at the far end of it. Three little watch turrets stand along the wall, each with a wide slit to look out of. The name is much younger: it was given in 1924, after Emil Hettwer, a colonel and map-maker.",
       "icon" : "everyday",
-      "id" : "f-humboldt-terrasse",
+      "id" : "f-hettwerbastei",
       "kind" : "viewpoint",
-      "localizedStory" : {
-        "de" : "Steig hinauf zur Humboldt Terrasse, einem Aussichtspunkt, wo sich die Stadt vor dir öffnet.",
-        "en" : "Climb up to the Humboldt Terrasse, a viewpoint where the city opens out before you."
+      "localizedExtendedStory" : {
+        "de" : "Die Bastei entstand um 1630, in den Jahren des Dreißigjährigen Krieges. Ihre Geschütze zielten hinunter auf die Hauptbrücke über die Salzach. Wer diesen Felsen hielt, hielt den Übergang und die Häuser am anderen Ende. Drei Wachetürmchen stehen auf der Mauer, jedes mit einer breiten Luke zum Ausschauen. Der Name ist viel jünger: Er kam 1924, nach Emil Hettwer, einem Oberst und Kartografen.",
+        "en" : "The bastion was thrown up around 1630, in the years of the Thirty Years' War. Its guns pointed down at the main bridge over the Salzach. Whoever held this rock held the crossing and the houses at the far end of it. Three little watch turrets stand along the wall, each with a wide slit to look out of. The name is much younger: it was given in 1924, after Emil Hettwer, a colonel and map-maker."
       },
-      "name" : "Humboldt Terrasse",
+      "localizedStory" : {
+        "de" : "Eine Bastei über dem Fluss, drei Wachetürmchen auf der Mauer. Schau hinunter: Dort liegt die Hauptbrücke, die sie einst bewachte.",
+        "en" : "A bastion above the river, with three little watch turrets on its wall. Look down and you see the main bridge it once guarded."
+      },
+      "name" : "Hettwerbastei",
       "pos" : [
-        47.803164,
-        13.037783
+        47.801649,
+        13.046186
       ],
-      "story" : "Climb up to the Humboldt Terrasse, a viewpoint where the city opens out before you."
+      "story" : "A bastion above the river, with three little watch turrets on its wall. Look down and you see the main bridge it once guarded."
     },
     {
+      "extendedStory" : "Archbishop Wolf Dietrich von Raitenau had this built around 1606, outside the town walls of the day. It was for Salome Alt, his companion, and it took her name: Schloss Altenau. The two of them had 15 children together. Over a hundred years later Johann Lucas von Hildebrandt made it over into the baroque palace you see. That work ran from 1721 to 1727.",
+      "icon" : "choice",
+      "id" : "f-schloss-mirabell",
+      "kind" : "fortress",
+      "localizedExtendedStory" : {
+        "de" : "Erzbischof Wolf Dietrich von Raitenau ließ es um 1606 bauen, vor den damaligen Stadtmauern. Es war für seine Gefährtin Salome Alt, und es trug ihren Namen: Schloss Altenau. Die beiden hatten 15 Kinder. Über hundert Jahre später machte Johann Lucas von Hildebrandt das barocke Schloss daraus, das du siehst. Diese Arbeit lief von 1721 bis 1727.",
+        "en" : "Archbishop Wolf Dietrich von Raitenau had this built around 1606, outside the town walls of the day. It was for Salome Alt, his companion, and it took her name: Schloss Altenau. The two of them had 15 children together. Over a hundred years later Johann Lucas von Hildebrandt made it over into the baroque palace you see. That work ran from 1721 to 1727."
+      },
+      "localizedStory" : {
+        "de" : "Mirabellplatz — der weite Platz vor dem Schloss Mirabell, das ganze 426 Meter über dem fernen Meer liegt.",
+        "en" : "Mirabellplatz — the open square in front of Schloss Mirabell, a grand palace that sits 426 metres above the faraway sea."
+      },
+      "name" : "Schloss Mirabell",
+      "pos" : [
+        47.805602,
+        13.042253
+      ],
+      "story" : "Mirabellplatz — the open square in front of Schloss Mirabell, a grand palace that sits 426 metres above the faraway sea."
+    },
+    {
+      "extendedStory" : "A drinking fountain was set here in 1957, the Trude-Hillinger-Brunnen, so you can fill up as you pass. The church beside the square is the Kajetanerkirche. Inside it stands a copy of the Holy Stairs of Rome, built in 1712. People who climb those stairs do it on their knees, the way it is done in Rome.",
+      "icon" : "everyday",
+      "id" : "f-kajetanerplatz",
+      "kind" : "square",
+      "localizedExtendedStory" : {
+        "de" : "1957 kam hier ein Trinkbrunnen dazu, der Trude-Hillinger-Brunnen, an dem du im Vorbeigehen trinken kannst. Neben dem Platz steht die Kajetanerkirche. Darin gibt es eine Nachbildung der Heiligen Stiege aus Rom, gebaut 1712. Wer sie hinaufsteigt, tut das auf den Knien, so wie in Rom.",
+        "en" : "A drinking fountain was set here in 1957, the Trude-Hillinger-Brunnen, so you can fill up as you pass. The church beside the square is the Kajetanerkirche. Inside it stands a copy of the Holy Stairs of Rome, built in 1712. People who climb those stairs do it on their knees, the way it is done in Rome."
+      },
+      "localizedStory" : {
+        "de" : "Kajetanerplatz — ein ruhiger kleiner Platz, den du beim Bummeln durch die Altstadt überquerst.",
+        "en" : "Kajetanerplatz — a calm little square to cross as you wander the Old Town."
+      },
+      "name" : "Kajetanerplatz",
+      "pos" : [
+        47.796826,
+        13.051772
+      ],
+      "story" : "Kajetanerplatz — a calm little square to cross as you wander the Old Town."
+    },
+    {
+      "extendedStory" : "Clemens Holzmeister built the house that opened here in 1925. Since then it has been taken apart and put back together again and again. That happened in 1938, in 1939, in 1963 and in 2006. Few buildings get remade that often. Each time the town wanted a better room for music, and each time it stayed on this same spot behind the Toscaninihof.",
+      "icon" : "choice",
+      "id" : "f-haus-fur-mozart",
+      "kind" : "theatre",
+      "localizedExtendedStory" : {
+        "de" : "Clemens Holzmeister baute das Haus, das hier 1925 eröffnete. Seither wurde es immer wieder auseinandergenommen und neu gefügt: 1938, 1939, 1963 und 2006. Wenige Häuser werden so oft umgebaut. Jedes Mal wollte die Stadt einen besseren Raum für Musik, und jedes Mal blieb es an derselben Stelle hinter dem Toscaninihof.",
+        "en" : "Clemens Holzmeister built the house that opened here in 1925. Since then it has been taken apart and put back together again and again. That happened in 1938, in 1939, in 1963 and in 2006. Few buildings get remade that often. Each time the town wanted a better room for music, and each time it stayed on this same spot behind the Toscaninihof."
+      },
+      "localizedStory" : {
+        "de" : "Hinter dem Toscaninihof steht das Haus für Mozart, 1925 eröffnet und seither immer wieder umgebaut.",
+        "en" : "Behind the Toscaninihof stands the Haus für Mozart, opened in 1925 and rebuilt more times than almost any hall in town."
+      },
+      "name" : "Haus für Mozart",
+      "pos" : [
+        47.797776,
+        13.042604
+      ],
+      "story" : "Behind the Toscaninihof stands the Haus für Mozart, opened in 1925 and rebuilt more times than almost any hall in town."
+    },
+    {
+      "extendedStory" : "Building began in 1439 under Johann the Second of Reisberg, the prince-archbishop of the day. The church was consecrated in 1453, and the carved image of Our Lady of Mülln has stood on its altar since. In 1605 Archbishop Wolf Dietrich handed it to Augustinian hermits he had brought from Munich. It sits raised on the northern spur of the Mönchsberg.",
+      "icon" : "everyday",
+      "id" : "f-mullner-kirche",
+      "kind" : "church",
+      "localizedExtendedStory" : {
+        "de" : "Der Bau begann 1439 unter Johann dem Zweiten von Reisberg, dem Fürsterzbischof jener Zeit. 1453 wurde die Kirche geweiht, und seither steht das Gnadenbild Unserer Lieben Frau von Mülln auf dem Altar. Erzbischof Wolf Dietrich holte 1605 Augustiner-Eremiten aus München und übergab ihnen das Haus. Sie steht hoch oben, dort wo der Mönchsberg nach Norden ausläuft.",
+        "en" : "Building began in 1439 under Johann the Second of Reisberg, the prince-archbishop of the day. The church was consecrated in 1453, and the carved image of Our Lady of Mülln has stood on its altar since. In 1605 Archbishop Wolf Dietrich handed it to Augustinian hermits he had brought from Munich. It sits raised on the northern spur of the Mönchsberg."
+      },
+      "localizedStory" : {
+        "de" : "Oben im Stadtteil Mülln blickt die Kirche über die Gassen hinab — ein sanfter Anstieg führt hinauf.",
+        "en" : "Up in the Mülln quarter, its church looks out over the lanes below — a gentle climb to reach it."
+      },
+      "name" : "Müllner Kirche",
+      "pos" : [
+        47.805724,
+        13.03572
+      ],
+      "story" : "Up in the Mülln quarter, its church looks out over the lanes below — a gentle climb to reach it."
+    },
+    {
+      "extendedStory" : "The square is named after Hans Makart, who was born in Salzburg in 1840. He became a painter, went to Vienna, and died there in 1884. People admired his work so much that the 1870s were called the Makart years. The square keeps his name, though the house that draws visitors here belonged to the Mozarts.",
       "icon" : "everyday",
       "id" : "f-makartplatz",
       "kind" : "square",
+      "localizedExtendedStory" : {
+        "de" : "Der Platz trägt den Namen von Hans Makart, der 1840 in Salzburg geboren wurde. Er wurde Maler, ging nach Wien und starb dort 1884. Man bewunderte seine Arbeit so sehr, dass man die 1870er Jahre die Makart-Zeit nannte. Der Platz behält seinen Namen, auch wenn das Haus, das die Leute herzieht, den Mozarts gehörte.",
+        "en" : "The square is named after Hans Makart, who was born in Salzburg in 1840. He became a painter, went to Vienna, and died there in 1884. People admired his work so much that the 1870s were called the Makart years. The square keeps his name, though the house that draws visitors here belonged to the Mozarts."
+      },
       "localizedStory" : {
         "de" : "Makartplatz — der Platz, an dem die Familie Mozart wohnte; ihr Haus, das Mozart-Wohnhaus, steht bis heute hier.",
         "en" : "Makartplatz — the square where the Mozart family made their home; their house, the Mozart-Wohnhaus, still stands here."
@@ -24253,24 +24295,14 @@
       "story" : "Makartplatz — the square where the Mozart family made their home; their house, the Mozart-Wohnhaus, still stands here."
     },
     {
+      "extendedStory" : "Kassian Singer drew the plans for the church you see, and it was built between 1749 and 1753. A fire in 1818 gutted it, and putting it back took until 1821. The rebuilding was done plainly, without the ornament it had before. The church is built together with the graveyard beside it, whose arcaded walks run along the walls.",
       "icon" : "everyday",
-      "id" : "f-salzburger-kastenfenster",
-      "kind" : "fortress",
-      "localizedStory" : {
-        "de" : "Schau an der Steingasse nach oben: ein Kastenfenster — eines von Salzburgs behaglichen Erkerfenstern über der Gasse.",
-        "en" : "Look up along Steingasse for a Kastenfenster — one of Salzburg's snug box windows leaning out over the lane."
-      },
-      "name" : "Salzburger Kastenfenster",
-      "pos" : [
-        47.800249,
-        13.052632
-      ],
-      "story" : "Look up along Steingasse for a Kastenfenster — one of Salzburg's snug box windows leaning out over the lane."
-    },
-    {
-      "icon" : "choice",
       "id" : "f-sebastianskirche",
       "kind" : "church",
+      "localizedExtendedStory" : {
+        "de" : "Kassian Singer entwarf die Kirche, die du siehst, gebaut zwischen 1749 und 1753. Ein Brand zerstörte sie 1818, und die Wiederherstellung dauerte bis 1821. Man baute sie schlichter wieder auf, ohne den früheren Zierrat. Die Kirche ist mit dem Friedhof nebenan verbunden, dessen Arkadengänge an den Mauern entlanglaufen.",
+        "en" : "Kassian Singer drew the plans for the church you see, and it was built between 1749 and 1753. A fire in 1818 gutted it, and putting it back took until 1821. The rebuilding was done plainly, without the ornament it had before. The church is built together with the graveyard beside it, whose arcaded walks run along the walls."
+      },
       "localizedStory" : {
         "de" : "An der Linzer Gasse steht St. Sebastian — sein stiller Friedhof erinnert an Mozarts Vater Leopold und den alten Arzt Paracelsus.",
         "en" : "On Linzer Gasse, St. Sebastian's — its quiet churchyard remembers Mozart's father, Leopold, and the old doctor Paracelsus."
@@ -24281,9 +24313,29 @@
         13.04745
       ],
       "story" : "On Linzer Gasse, St. Sebastian's — its quiet churchyard remembers Mozart's father, Leopold, and the old doctor Paracelsus."
+    },
+    {
+      "extendedStory" : "The house up here on the Mönchsberg opened in 2004. The museum itself goes back further: the Rupertinum, down in the old town, opened in 1983. A lift carries you straight up through the rock to the door. Karl Leitner built that lift in 1890. Inside hang Austrian works of the modern age, along with a large collection of photographs taken after 1945.",
+      "icon" : "choice",
+      "id" : "f-museum-der-moderne",
+      "kind" : "museum",
+      "localizedExtendedStory" : {
+        "de" : "Wer hier heraufwill, fährt mitten durch den Berg. Karl Leitner baute diesen Aufzug schon 1890. Oben steht seit 2004 ein Haus für Kunst. Sein älteres Geschwister, das Rupertinum, liegt unten in der Stadt und öffnete 1983. Drinnen hängen Bilder österreichischer Künstler und viele Fotografien aus der Zeit nach 1945.",
+        "en" : "The house up here on the Mönchsberg opened in 2004. The museum itself goes back further: the Rupertinum, down in the old town, opened in 1983. A lift carries you straight up through the rock to the door. Karl Leitner built that lift in 1890. Inside hang Austrian works of the modern age, along with a large collection of photographs taken after 1945."
+      },
+      "localizedStory" : {
+        "de" : "Hoch auf dem Mönchsberg, erreichbar mit einem Aufzug durch den Fels. Das Haus hier oben öffnete 2004.",
+        "en" : "High on the Mönchsberg, reached by a lift through the rock. The gallery opened up here in 2004."
+      },
+      "name" : "Museum der Moderne",
+      "pos" : [
+        47.800688,
+        13.038247
+      ],
+      "story" : "High on the Mönchsberg, reached by a lift through the rock. The gallery opened up here in 2004."
     }
   ],
-  "generatedAt" : "2026-07-27T09:28:53Z",
+  "generatedAt" : "2026-07-27T17:07:42Z",
   "icon" : {
     "paths" : [
       "m 8,92 l 0,-38 l 4,0 l 0,-14 l 4,0 l 0,6 l 3,0 l 0,-6 l 4,0 l 0,6 l 3,0 l 0,-6 l 4,0 l 0,14 l 3,0 l 0,6 l 3,0 l 0,-6 l 3,0 l 0,-36 l 5,0 l 0,7 l 3.5,0 l 0,-7 l 5,0 l 0,7 l 3.5,0 l 0,-7 l 5,0 l 0,36 l 3,0 l 0,6 l 3,0 l 0,-6 l 3,0 l 0,-14 l 4,0 l 0,6 l 3,0 l 0,-6 l 4,0 l 0,6 l 3,0 l 0,-6 l 4,0 l 0,14 l 4,0 l 0,38 z m 51,0 l 0,-22 c -3,-10 -15,-10 -18,0 l 0,22 z"
@@ -24296,7 +24348,7 @@
     "en" : "Salzburg"
   },
   "name" : "Salzburg",
-  "packVersion" : 13,
+  "packVersion" : 22,
   "schemaVersion" : 1,
   "source" : "OpenStreetMap via Overpass API",
   "stats" : {

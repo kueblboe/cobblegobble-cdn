@@ -293,7 +293,7 @@
     "adjustedStreets" : [
 
     ],
-    "fromVersion" : 13,
+    "fromVersion" : 15,
     "removedStreets" : [
 
     ]
@@ -23770,7 +23770,7 @@
     },
     {
       "extendedStory" : "Viktualien is an old word for food, and this square has sold it since 1807. Two hundred years of the same trade on the same ground is a rare thing in the middle of a city. The maypole is far younger than the market itself: the blue-and-white one went up in 1962. People have met under it ever since.",
-      "icon" : "choice",
+      "icon" : "everyday",
       "id" : "f-viktualienmarkt",
       "kind" : "market",
       "localizedExtendedStory" : {
@@ -23849,26 +23849,6 @@
       "story" : "Look up on Lenbachplatz: this is the Künstlerhaus, a house built for artists. Gabriel von Seidl designed it, and it opened in 1900."
     },
     {
-      "extendedStory" : "This hall stands at the head of the open space, and two stone lions keep watch from its steps. See if you can find both of them. The hall was copied from one far away in Florence, called the Loggia dei Lanzi. The open square around it took shape in 1827. The lions have watched the city ever since.",
-      "icon" : "choice",
-      "id" : "f-odeonsplatz",
-      "kind" : "square",
-      "localizedExtendedStory" : {
-        "de" : "Diese Halle steht am oberen Ende des Platzes, und zwei steinerne Löwen halten von den Stufen aus Wache. Findest du beide? Die Halle wurde einer weit entfernten in Florenz nachgebaut, der Loggia dei Lanzi. Der Platz ringsum entstand im Jahr 1827. Seitdem bewachen die Löwen die Stadt.",
-        "en" : "This hall stands at the head of the open space, and two stone lions keep watch from its steps. See if you can find both of them. The hall was copied from one far away in Florence, called the Loggia dei Lanzi. The open square around it took shape in 1827. The lions have watched the city ever since."
-      },
-      "localizedStory" : {
-        "de" : "Am Ende steht eine Halle, bewacht von zwei steinernen Löwen. Findest du beide Löwen auf ihrem Posten?",
-        "en" : "At the far end stands a hall with two stone lions on watch. Find both lions keeping guard."
-      },
-      "name" : "Odeonsplatz",
-      "pos" : [
-        48.143581,
-        11.578033
-      ],
-      "story" : "At the far end stands a hall with two stone lions on watch. Find both lions keeping guard."
-    },
-    {
       "extendedStory" : "Stop and look up at the towers guarding the gate. Each one has eight flat sides — count them as you pass. Across the front, three arches open in a row. This gate has stood here since 1337. Much later, in 1833, a builder named Friedrich von Gärtner gave it a careful restoration. So you are looking at something very old, watched over and cared for.",
       "icon" : "everyday",
       "id" : "f-isartor",
@@ -23887,9 +23867,49 @@
         11.58183
       ],
       "story" : "Count the sides on each tower here: eight! Three arches line up across the front, standing on this spot since 1337."
+    },
+    {
+      "extendedStory" : "The foundation stone went down in 1663, and the doors opened twelve years later in 1675. He built it in the baroque manner. Baroque means curves instead of straight lines, and decoration that spills over every edge. It is a style built to make you look up and then keep looking. The church was given the name of Saint Cajetan.",
+      "icon" : "choice",
+      "id" : "f-theatinerkirche-st-kajetan",
+      "kind" : "church",
+      "localizedExtendedStory" : {
+        "de" : "Der Grundstein wurde 1663 gelegt, und zwölf Jahre später, 1675, öffnete die Kirche. Er baute sie im Stil des Barock. Barock heißt: Kurven statt gerader Linien, und Zierrat, der über jede Kante quillt. Es ist ein Stil, der dich nach oben schauen lässt und dort hält. Den Namen bekam die Kirche von Kajetan von Thiene.",
+        "en" : "The foundation stone went down in 1663, and the doors opened twelve years later in 1675. He built it in the baroque manner. Baroque means curves instead of straight lines, and decoration that spills over every edge. It is a style built to make you look up and then keep looking. The church was given the name of Saint Cajetan."
+      },
+      "localizedStory" : {
+        "de" : "Ein Italiener, Agostino Barelli, entwarf diese Kirche. Sie ragt 71 Meter über die Residenzstraße.",
+        "en" : "An Italian, Agostino Barelli, drew this church. It rises 71 metres over Residenzstraße."
+      },
+      "name" : "Theatinerkirche St. Kajetan",
+      "pos" : [
+        48.141971,
+        11.576984
+      ],
+      "story" : "An Italian, Agostino Barelli, drew this church. It rises 71 metres over Residenzstraße."
+    },
+    {
+      "extendedStory" : "This hall stands at the head of the open space, and two stone lions keep watch from its steps. See if you can find both of them. The hall was copied from one far away in Florence, called the Loggia dei Lanzi. The open square around it took shape in 1827. The lions have watched the city ever since.",
+      "icon" : "choice",
+      "id" : "f-odeonsplatz",
+      "kind" : "square",
+      "localizedExtendedStory" : {
+        "de" : "Diese Halle steht am oberen Ende des Platzes, und zwei steinerne Löwen halten von den Stufen aus Wache. Findest du beide? Die Halle wurde einer weit entfernten in Florenz nachgebaut, der Loggia dei Lanzi. Der Platz ringsum entstand im Jahr 1827. Seitdem bewachen die Löwen die Stadt.",
+        "en" : "This hall stands at the head of the open space, and two stone lions keep watch from its steps. See if you can find both of them. The hall was copied from one far away in Florence, called the Loggia dei Lanzi. The open square around it took shape in 1827. The lions have watched the city ever since."
+      },
+      "localizedStory" : {
+        "de" : "Am Ende steht eine Halle, bewacht von zwei steinernen Löwen. Findest du beide Löwen auf ihrem Posten?",
+        "en" : "At the far end stands a hall with two stone lions on watch. Find both lions keeping guard."
+      },
+      "name" : "Odeonsplatz",
+      "pos" : [
+        48.143581,
+        11.578033
+      ],
+      "story" : "At the far end stands a hall with two stone lions on watch. Find both lions keeping guard."
     }
   ],
-  "generatedAt" : "2026-07-27T05:08:57Z",
+  "generatedAt" : "2026-07-28T07:14:29Z",
   "icon" : {
     "paths" : [
       "M93.2 34.2L102.2 33.2 118.9 34.7 126.9 37.3 133.7 42.1 139.2 49.6 143.2 61.1 126.4 61.3 121.2 64.4 124.0 69.5 131.9 74.1 148.6 75.2 166.3 71.0 167.6 69.6 167.1 64.8 172.1 61.7 170.0 57.3 182.9 50.7 192.2 69.7 179.2 76.8 173.7 65.1 172.7 71.9 168.0 75.1 168.5 77.1 172.3 75.6 174.6 72.0 176.9 76.8 163.3 85.1 163.3 198.4 150.8 194.5 145.8 187.9 144.3 115.3 139.4 105.8 132.4 100.8 132.4 196.6 84.3 196.4 84.3 102.2 76.6 106.7 72.3 114.3 71.0 185.8 63.5 194.7 52.9 197.2 53.1 83.0 30.8 71.0 31.8 68.8 37.4 71.0 37.9 69.5 32.5 67.4 34.1 66.0 39.4 67.8 39.4 66.1 25.9 58.6 26.7 57.0 35.0 61.9 35.5 60.6 27.4 55.1 28.5 53.1 40.8 62.2 42.7 70.3 46.7 73.1 42.8 62.2 38.2 57.0 38.6 54.0 49.4 62.8 49.8 68.2 53.1 70.9 72.8 75.2 88.6 72.9 95.7 69.3 101.6 63.6 90.1 63.0 89.4 56.3 87.0 55.8 88.4 39.6Z"
@@ -23902,7 +23922,7 @@
     "en" : "Munich"
   },
   "name" : "Munich",
-  "packVersion" : 14,
+  "packVersion" : 16,
   "schemaVersion" : 1,
   "source" : "OpenStreetMap via Overpass API",
   "stats" : {

@@ -203,10 +203,9 @@
 
     ],
     "adjustedStreets" : [
-      "Gallusovo nabrežje",
-      "Grajska planota"
+
     ],
-    "fromVersion" : 7,
+    "fromVersion" : 12,
     "removedStreets" : [
 
     ]
@@ -15578,24 +15577,24 @@
   ],
   "fruits" : [
     {
-      "extendedStory" : "Ljubljana's castle has watched over the old town since around the year 900. For centuries a fire guard lived in its tower. When flames appeared he fired a cannon to warn everyone below. Climb the lookout tower today for the view. Its very top stands exactly 400 metres above the sea.",
-      "icon" : "hero",
-      "id" : "f-ljubljanski-grad",
-      "kind" : "fortress",
+      "extendedStory" : "Look at the base and you will find carved figures pouring water. Each one stands for a river: the Sava, the Krka and the Ljubljanica. Above them a marble obelisk lifts ten metres over Mestni trg. All of it was set up in 1743, and it has not moved since. Watch where the water leaves each figure and you follow all three at once.",
+      "icon" : "choice",
+      "id" : "f-robbov-vodnjak",
+      "kind" : "fountain",
       "localizedExtendedStory" : {
-        "de" : "Ljubljanas Burg wacht seit ungefähr dem Jahr 900 über die Altstadt. Jahrhundertelang wohnte ein Feuerwächter in ihrem Turm. Wenn Flammen auftauchten, feuerte er eine Kanone ab, um alle unten zu warnen. Steig heute für die Aussicht auf den Aussichtsturm. Seine Spitze liegt genau 400 Meter über dem Meer.",
-        "en" : "Ljubljana's castle has watched over the old town since around the year 900. For centuries a fire guard lived in its tower. When flames appeared he fired a cannon to warn everyone below. Climb the lookout tower today for the view. Its very top stands exactly 400 metres above the sea."
+        "de" : "Die drei Marmorfiguren am Fuß sind Flussgötter. Sie stehen für die Save, die Gurk und die Ljubljanica. Hinter ihnen steigt ein steinerner Obelisk zehn Meter in die Höhe. Das Ganze entstand 1743 und steht seither auf dem Mestni trg. Schau, wie das Wasser jede Figur verlässt, dann folgst du drei Flüssen auf einmal.",
+        "en" : "Look at the base and you will find carved figures pouring water. Each one stands for a river: the Sava, the Krka and the Ljubljanica. Above them a marble obelisk lifts ten metres over Mestni trg. All of it was set up in 1743, and it has not moved since. Watch where the water leaves each figure and you follow all three at once."
       },
       "localizedStory" : {
-        "de" : "Oben auf der Burg hielt einst ein Wächter vom Turm aus Ausschau. Brach unten ein Feuer aus, feuerte er eine Kanone ab, um zu warnen.",
-        "en" : "Up at the castle, a fire guard once watched from the tower. If flames rose below, he fired a cannon to warn the city."
+        "de" : "Drei Flussgötter aus Marmor bewachen einen schlanken Obelisken, der zehn Meter in die Höhe schießt.",
+        "en" : "Three carved rivermen guard a slim marble spire that shoots ten metres into the air."
       },
-      "name" : "Ljubljanski grad",
+      "name" : "Robbov vodnjak",
       "pos" : [
-        46.04885,
-        14.50857
+        46.050099,
+        14.507009
       ],
-      "story" : "Up at the castle, a fire guard once watched from the tower. If flames rose below, he fired a cannon to warn the city."
+      "story" : "Three carved rivermen guard a slim marble spire that shoots ten metres into the air."
     },
     {
       "extendedStory" : "Look up as you stand here and you will notice soft, flowing lines across the buildings. This is the Art Nouveau style, full of gentle curves and ornament. One of the grand fronts was designed by the architect Edvard Ravnikar. Slow down and let your eyes climb from the shop windows to the rooftops.",
@@ -15618,6 +15617,26 @@
       "story" : "People gather on this square named for the poet France Prešeren, meeting under buildings dressed in flowing Art Nouveau curves."
     },
     {
+      "extendedStory" : "Ljubljana's castle has watched over the old town since around the year 900. For centuries a fire guard lived in its tower. When flames appeared he fired a cannon to warn everyone below. Climb the lookout tower today for the view. Its very top stands exactly 400 metres above the sea.",
+      "icon" : "hero",
+      "id" : "f-ljubljanski-grad",
+      "kind" : "fortress",
+      "localizedExtendedStory" : {
+        "de" : "Ljubljanas Burg wacht seit ungefähr dem Jahr 900 über die Altstadt. Jahrhundertelang wohnte ein Feuerwächter in ihrem Turm. Wenn Flammen auftauchten, feuerte er eine Kanone ab, um alle unten zu warnen. Steig heute für die Aussicht auf den Aussichtsturm. Seine Spitze liegt genau 400 Meter über dem Meer.",
+        "en" : "Ljubljana's castle has watched over the old town since around the year 900. For centuries a fire guard lived in its tower. When flames appeared he fired a cannon to warn everyone below. Climb the lookout tower today for the view. Its very top stands exactly 400 metres above the sea."
+      },
+      "localizedStory" : {
+        "de" : "Oben auf der Burg hielt einst ein Wächter vom Turm aus Ausschau. Brach unten ein Feuer aus, feuerte er eine Kanone ab, um zu warnen.",
+        "en" : "Up at the castle, a fire guard once watched from the tower. If flames rose below, he fired a cannon to warn the city."
+      },
+      "name" : "Ljubljanski grad",
+      "pos" : [
+        46.04885,
+        14.50857
+      ],
+      "story" : "Up at the castle, a fire guard once watched from the tower. If flames rose below, he fired a cannon to warn the city."
+    },
+    {
       "extendedStory" : "The architect Jože Plečnik designed this library as a journey toward knowledge. Inside, a grand dark staircase climbs upward past 32 pillars of black Podpeč marble. The steps feel serious and quiet, like the hush of a reading room. Climb them slowly and imagine the winged horse from the door carrying you up toward the books.",
       "icon" : "choice",
       "id" : "f-narodna-in-univerzitetna-knjiznica",
@@ -15638,29 +15657,54 @@
       "story" : "Each handle on the library's main door is a head of Pegasus, the winged horse, guiding readers toward knowledge."
     },
     {
-      "extendedStory" : "This national gallery opened its doors in 1918. For a long time the Robba Fountain stood outdoors on its square, until a fresh copy took its place there in 2006. The delicate original was then carried inside these walls, safe from wind and rain. So the fountain out on the square and the one resting in here are two versions of the same work.",
-      "icon" : "choice",
-      "id" : "f-narodna-galerija",
-      "kind" : "museum",
+      "extendedStory" : "The church dates from 1613 and is named for St James the Elder. Francesco Robba shaped it, the same hand behind the river-god fountain over on Mestni trg. Its style is baroque, which means movement everywhere: curves, swirls and stone that seems to be moving. Step inside and your eye is pulled upward before you have decided to look.",
+      "icon" : "everyday",
+      "id" : "f-cerkev-sv-jakoba",
+      "kind" : "church",
       "localizedExtendedStory" : {
-        "de" : "Diese Nationalgalerie öffnete ihre Türen im Jahr 1918. Lange Zeit stand der Robba-Brunnen draußen auf seinem Platz, bis 2006 eine frische Kopie dort seinen Platz einnahm. Das empfindliche Original wurde dann in diese Mauern getragen, geschützt vor Wind und Regen. So sind der Brunnen draußen auf dem Platz und der hier drinnen zwei Fassungen desselben Werks.",
-        "en" : "This national gallery opened its doors in 1918. For a long time the Robba Fountain stood outdoors on its square, until a fresh copy took its place there in 2006. The delicate original was then carried inside these walls, safe from wind and rain. So the fountain out on the square and the one resting in here are two versions of the same work."
+        "de" : "Die Kirche stammt von 1613 und ist dem heiligen Jakobus dem Älteren geweiht. Francesco Robba arbeitete an ihr, dieselbe Hand wie beim Flussgötter-Brunnen drüben am Mestni trg. Ihr Stil ist Barock, also überall Bewegung: Schwünge, Wirbel und Stein, der sich zu bewegen scheint. Tritt ein, und der Blick wird nach oben gezogen, ehe du es entschieden hast.",
+        "en" : "The church dates from 1613 and is named for St James the Elder. Francesco Robba shaped it, the same hand behind the river-god fountain over on Mestni trg. Its style is baroque, which means movement everywhere: curves, swirls and stone that seems to be moving. Step inside and your eye is pulled upward before you have decided to look."
       },
       "localizedStory" : {
-        "de" : "Tritt ein und du triffst den echten Robba-Brunnen: Sein restauriertes Original wurde 2008 in diese Galerie gebracht.",
-        "en" : "Step inside and you can meet the real Robba Fountain: its restored original was brought into this gallery in 2008."
+        "de" : "Francesco Robba, von dem die Flussgötter am Mestni trg stammen, gestaltete diese barocke Kirche von 1613.",
+        "en" : "Francesco Robba, who carved the river gods on Mestni trg, shaped this baroque church of 1613."
       },
-      "name" : "Narodna galerija",
+      "name" : "Cerkev sv. Jakoba",
       "pos" : [
-        46.054014,
-        14.500463
+        46.046183,
+        14.507084
       ],
-      "story" : "Step inside and you can meet the real Robba Fountain: its restored original was brought into this gallery in 2008."
+      "story" : "Francesco Robba, who carved the river gods on Mestni trg, shaped this baroque church of 1613."
     },
     {
+      "extendedStory" : "The house opened its doors in 1892. Since then it has been rebuilt again and again: in 1940, in 1998, in 2003 and once more in 2008. Not many buildings get worked on that often, and each round left something of its own behind. What you walk past is a theatre that has never quite stopped being finished.",
+      "icon" : "everyday",
+      "id" : "f-sng-opera-in-balet-ljubljana",
+      "kind" : "theatre",
+      "localizedExtendedStory" : {
+        "de" : "Das Haus öffnete 1892 seine Türen. Seither wurde es immer wieder umgebaut: 1940, dann 1998, dann 2003 und noch einmal 2008. Nicht viele Gebäude werden so oft angefasst, und jede Runde ließ etwas Eigenes zurück. Woran man hier vorbeigeht, ist ein Theater, das nie ganz fertig geworden ist.",
+        "en" : "The house opened its doors in 1892. Since then it has been rebuilt again and again: in 1940, in 1998, in 2003 and once more in 2008. Not many buildings get worked on that often, and each round left something of its own behind. What you walk past is a theatre that has never quite stopped being finished."
+      },
+      "localizedStory" : {
+        "de" : "Das Opernhaus wurde 1892 eröffnet und seither viermal umgebaut.",
+        "en" : "The opera house opened in 1892 and has been rebuilt four times since."
+      },
+      "name" : "SNG Opera in balet Ljubljana",
+      "pos" : [
+        46.052837,
+        14.501129
+      ],
+      "story" : "The opera house opened in 1892 and has been rebuilt four times since."
+    },
+    {
+      "extendedStory" : "The bridge is 36 metres long and 3.8 metres wide, which is narrow for a crossing. But in the middle it opens out to 5.3 metres. The architect called that wider part a little piazza, somewhere to stop, talk, or watch the water go by. So it is more than a way over the river. It is a small square hung above it.",
       "icon" : "everyday",
       "id" : "f-zitni-most",
       "kind" : "bridge",
+      "localizedExtendedStory" : {
+        "de" : "Die Brücke ist 36 Meter lang und 3,8 Meter breit, für einen Übergang also schmal. In der Mitte aber weitet sie sich auf 5,3 Meter. Diesen breiteren Teil nannte der Architekt eine kleine Piazza, einen Ort zum Stehenbleiben, Reden oder Schauen. Sie ist also mehr als ein Weg über den Fluss. Sie ist ein kleiner Platz über dem Wasser.",
+        "en" : "The bridge is 36 metres long and 3.8 metres wide, which is narrow for a crossing. But in the middle it opens out to 5.3 metres. The architect called that wider part a little piazza, somewhere to stop, talk, or watch the water go by. So it is more than a way over the river. It is a small square hung above it."
+      },
       "localizedStory" : {
         "de" : "Diese Fußgängerbrücke weitet sich in der Mitte zu einer kleinen Aussichtsplattform. Ihr Name stammt vom alten Getreideplatz, wo in den 1800er Jahren Getreide gehandelt wurde.",
         "en" : "This footbridge widens at its middle into a lookout platform. It is named for the old Grain Square where grain was sold in the 1800s."
@@ -15673,24 +15717,14 @@
       "story" : "This footbridge widens at its middle into a lookout platform. It is named for the old Grain Square where grain was sold in the 1800s."
     },
     {
-      "icon" : "choice",
-      "id" : "f-robbov-vodnjak",
-      "kind" : "fountain",
-      "localizedStory" : {
-        "de" : "1743 erbaut, hebt dieser Brunnen einen steinernen Obelisken zehn Meter in die Höhe über der Altstadt, umringt von Marmorfiguren.",
-        "en" : "Three carved rivermen guard a slim marble spire that shoots ten metres into the air."
-      },
-      "name" : "Robbov vodnjak",
-      "pos" : [
-        46.050099,
-        14.507009
-      ],
-      "story" : "Three carved rivermen guard a slim marble spire that shoots ten metres into the air."
-    },
-    {
+      "extendedStory" : "The bronze figure on this square is the poet Valentin Vodnik, and the square carries his name. It was unveiled in 1889. What made it matter was not the sculpture but the idea behind it: the first public monument raised to Slovenia itself. Before that, no such statue stood anywhere in the country.",
       "icon" : "everyday",
       "id" : "f-vodnikov-trg",
       "kind" : "square",
+      "localizedExtendedStory" : {
+        "de" : "Die Bronzefigur auf diesem Platz ist der Dichter Valentin Vodnik, und der Platz trägt seinen Namen. Enthüllt wurde sie 1889. Wichtig war dabei nicht die Statue selbst, sondern der Gedanke dahinter: das erste öffentliche Denkmal für Slowenien. Vorher stand nirgends im Land ein solches.",
+        "en" : "The bronze figure on this square is the poet Valentin Vodnik, and the square carries his name. It was unveiled in 1889. What made it matter was not the sculpture but the idea behind it: the first public monument raised to Slovenia itself. Before that, no such statue stood anywhere in the country."
+      },
       "localizedStory" : {
         "de" : "Die Bronzestatue des Dichters Valentin Vodnik war das erste öffentliche Denkmal für Slowenien, enthüllt 1889.",
         "en" : "The bronze statue of the poet Valentin Vodnik here was the first public monument to honour Slovenia, unveiled in 1889."
@@ -15703,42 +15737,27 @@
       "story" : "The bronze statue of the poet Valentin Vodnik here was the first public monument to honour Slovenia, unveiled in 1889."
     },
     {
-      "icon" : "everyday",
-      "id" : "f-herkulov-vodnjak",
-      "kind" : "fountain",
-      "localizedStory" : {
-        "de" : "Dieser Brunnen zeigt Herkules im Ringkampf mit einem Löwen. Das Original steht heute im Rathaus, eine Kopie von 1991 steht hier im Freien.",
-        "en" : "This fountain shows Hercules wrestling a lion. The original now stands inside the Town Hall, and a copy from 1991 stands here outdoors."
-      },
-      "name" : "Herkulov vodnjak",
-      "pos" : [
-        46.046758,
-        14.506701
-      ],
-      "story" : "This fountain shows Hercules wrestling a lion. The original now stands inside the Town Hall, and a copy from 1991 stands here outdoors."
-    },
-    {
-      "icon" : "everyday",
-      "id" : "f-mali-trg",
-      "kind" : "square",
-      "name" : "Mali trg",
-      "pos" : [
-        46.052251,
-        14.507344
-      ]
-    },
-    {
+      "extendedStory" : "The horses went up in 1997. The sculptor Lujo Vodopivec made them, working with the architects Jože and Miha Dobrina. They are small enough that you can walk right up to them, and one stands larger than the rest. Look for them along Dalmatinova ulica, low down by the water rather than up on a plinth.",
       "icon" : "everyday",
       "id" : "f-konjicki",
       "kind" : "fountain",
+      "localizedExtendedStory" : {
+        "de" : "Die Pferde kamen 1997 hierher. Der Bildhauer Lujo Vodopivec schuf sie, zusammen mit den Architekten Jože und Miha Dobrina. Sie sind klein genug, dass man direkt an sie herantreten kann, und eines ist größer als die anderen. Such sie an der Dalmatinova ulica, unten am Wasser statt oben auf einem Sockel.",
+        "en" : "The horses went up in 1997. The sculptor Lujo Vodopivec made them, working with the architects Jože and Miha Dobrina. They are small enough that you can walk right up to them, and one stands larger than the rest. Look for them along Dalmatinova ulica, low down by the water rather than up on a plinth."
+      },
+      "localizedStory" : {
+        "de" : "Kleine Bronzepferde stehen hier am Wasser, ein größeres mitten darunter.",
+        "en" : "Small bronze horses stand at the water here, with a bigger one among them."
+      },
       "name" : "Konjički",
       "pos" : [
         46.053274,
         14.506498
-      ]
+      ],
+      "story" : "Small bronze horses stand at the water here, with a bigger one among them."
     }
   ],
-  "generatedAt" : "2026-07-27T05:59:21Z",
+  "generatedAt" : "2026-07-28T08:30:50Z",
   "icon" : {
     "paths" : [
       "M10.00 88.00C10.00 79.72,27.91 73.00,50.00 73.00C72.09 73.00,90.00 79.72,90.00 88.00C90.00 96.28,72.09 103.00,50.00 103.00C27.91 103.00,10.00 96.28,10.00 88.00ZM15.00 68.00L85.00 68.00L85.00 80.00L15.00 80.00ZM15.00 63.00L19.67 63.00L19.67 68.00L15.00 68.00ZM24.33 63.00L29.00 63.00L29.00 68.00L24.33 68.00ZM33.67 63.00L38.33 63.00L38.33 68.00L33.67 68.00ZM43.00 63.00L47.67 63.00L47.67 68.00L43.00 68.00ZM52.33 63.00L57.00 63.00L57.00 68.00L52.33 68.00ZM61.67 63.00L66.33 63.00L66.33 68.00L61.67 68.00ZM71.00 63.00L75.67 63.00L75.67 68.00L71.00 68.00ZM80.33 63.00L85.00 63.00L85.00 68.00L80.33 68.00ZM56.00 20.00L74.00 20.00L74.00 80.00L56.00 80.00ZM54.50 20.00L75.50 20.00L75.50 27.00L54.50 27.00ZM54.50 14.50L58.70 14.50L58.70 20.00L54.50 20.00ZM62.90 14.50L67.10 14.50L67.10 20.00L62.90 20.00ZM71.30 14.50L75.50 14.50L75.50 20.00L71.30 20.00ZM28 80L28 68C28 64,38 64,38 68L38 80ZM62 50L62 36L68 36L68 50Z"
@@ -15751,7 +15770,7 @@
     "en" : "Ljubljana"
   },
   "name" : "Ljubljana",
-  "packVersion" : 8,
+  "packVersion" : 13,
   "schemaVersion" : 1,
   "source" : "OpenStreetMap via Overpass API",
   "stats" : {

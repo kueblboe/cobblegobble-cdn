@@ -211,19 +211,9 @@
 
     ],
     "adjustedStreets" : [
-      "Largo Amor de Perdição",
-      "Praça do General Humberto Delgado",
-      "Rua Chã",
-      "Rua Tareija Vaz de Altaro",
-      "Rua da Madeira",
-      "Rua das Flores",
-      "Rua de Passos Manuel",
-      "Rua de Ricardo Jorge",
-      "Rua de São Francisco",
-      "Rua do Almada",
-      "Rua do Bonjardim"
+
     ],
-    "fromVersion" : 6,
+    "fromVersion" : 11,
     "removedStreets" : [
 
     ]
@@ -33325,36 +33315,6 @@
   ],
   "fruits" : [
     {
-      "icon" : "everyday",
-      "id" : "f-miradouro-da-muralha-fernandina",
-      "kind" : "viewpoint",
-      "localizedStory" : {
-        "de" : "Von dieser alten Mauer öffnet sich der Blick auf den Douro. Er reicht vorbei an der Maria-Pia- und der Luís-I-Brücke bis zum Kai von Gaia.",
-        "en" : "From this old wall the Douro opens up past the Maria Pia and Luís I bridges toward the Gaia quay."
-      },
-      "name" : "Miradouro da Muralha Fernandina",
-      "pos" : [
-        41.140928,
-        -8.609975
-      ],
-      "story" : "From this old wall the Douro opens up past the Maria Pia and Luís I bridges toward the Gaia quay."
-    },
-    {
-      "icon" : "choice",
-      "id" : "f-mercado-do-bolhao",
-      "kind" : "market",
-      "localizedStory" : {
-        "de" : "Ein Stadterlass öffnete diesen Markt im Jahr 1839.",
-        "en" : "A city order opened this market back in 1839."
-      },
-      "name" : "Mercado do Bolhão",
-      "pos" : [
-        41.14934,
-        -8.607123
-      ],
-      "story" : "A city order opened this market back in 1839."
-    },
-    {
       "extendedStory" : "The Muralhas Fernandinas once ran about 3,000 paces long and stood some 30 feet high, a stone belt around old Porto. King Fernando had the wall rebuilt between 1368 and 1437. That decades-long rebuild is why his name stayed attached to it ever after. Sections still rise above the streets today. Follow what remains and you trace the old edge of the city.",
       "icon" : "choice",
       "id" : "f-muralhas-fernandinas-do-porto",
@@ -33375,24 +33335,84 @@
       "story" : "This old city wall still carries the name of King Fernando, who had it rebuilt."
     },
     {
-      "extendedStory" : "Praça da Batalha, or Battle Square, sits in the heart of Porto. Since 1866 a monument to King Pedro V has stood watch over it. The square's name reaches much further back, to an old clash between the people of Porto and the army of Almanzor. Today it is a calm open space where those old stories still echo in the name.",
+      "extendedStory" : "Look closely and this is not the fountain those neighbours put up. The one they paid for in 1772 was swapped out before the century ended, for something in the newer neoclassical taste. Neoclassical means plain lines and calm shapes, the fashion that came after all the curves. The water kept running right through the change, in the same corner of the same street.",
       "icon" : "everyday",
-      "id" : "f-praca-da-batalha",
-      "kind" : "square",
+      "id" : "f-chafariz-da-rua-das-taipas",
+      "kind" : "fountain",
       "localizedExtendedStory" : {
-        "de" : "Die Praça da Batalha, der Platz der Schlacht, liegt mitten in Porto. Seit 1866 wacht hier ein Denkmal für König Pedro V. über den Platz. Sein Name reicht viel weiter zurück, zu einem alten Kampf zwischen den Menschen von Porto und dem Heer Almanzors. Heute ist es ein ruhiger, offener Platz, in dessen Namen die alten Geschichten weiterklingen.",
-        "en" : "Praça da Batalha, or Battle Square, sits in the heart of Porto. Since 1866 a monument to King Pedro V has stood watch over it. The square's name reaches much further back, to an old clash between the people of Porto and the army of Almanzor. Today it is a calm open space where those old stories still echo in the name."
+        "de" : "Der Brunnen, den die Nachbarn 1772 bauten, ist nicht der, den man hier sieht. Ihrer wurde noch vor dem Ende des Jahrhunderts ersetzt, im klassizistischen Geschmack der Zeit. Klassizistisch heißt klare Linien und ruhige Formen, die Mode nach all den Schnörkeln. Das Wasser läuft also dort, wo jene Nachbarn es zuerst hinleiteten, nur hinter einem neueren Gesicht.",
+        "en" : "Look closely and this is not the fountain those neighbours put up. The one they paid for in 1772 was swapped out before the century ended, for something in the newer neoclassical taste. Neoclassical means plain lines and calm shapes, the fashion that came after all the curves. The water kept running right through the change, in the same corner of the same street."
       },
       "localizedStory" : {
-        "de" : "Der Name des Platzes erinnert an eine alte Schlacht, die hier einst ausgetragen wurde.",
-        "en" : "The square's name recalls an old battle once fought right here."
+        "de" : "Schon 1772 bauten Nachbarn vom Postigo das Virtudes diesen Brunnen mit eigenen Händen.",
+        "en" : "Back in 1772, neighbours from Postigo das Virtudes built this fountain with their own hands."
       },
-      "name" : "Praça da Batalha",
+      "name" : "Chafariz da Rua das Taipas",
       "pos" : [
-        41.145444,
-        -8.607094
+        41.143129,
+        -8.617822
       ],
-      "story" : "The square's name recalls an old battle once fought right here."
+      "story" : "Back in 1772, neighbours from Postigo das Virtudes built this fountain with their own hands."
+    },
+    {
+      "extendedStory" : "This walkway runs along the Guindais stretch, by Rua Arnaldo Gama. Just two pieces of Porto's old wall are still standing, and this is one of them. The other sits over by the Escadas do Caminho Novo. Everything between them has gone, swallowed by the streets. So the parapet you lean on here is half of a surviving pair.",
+      "icon" : "everyday",
+      "id" : "f-miradouro-da-muralha-fernandina",
+      "kind" : "viewpoint",
+      "localizedExtendedStory" : {
+        "de" : "Dieser Weg führt am Abschnitt von Guindais entlang, an der Rua Arnaldo Gama. Von der alten Stadtmauer Portos stehen nur noch zwei Stücke, und dies ist eines davon. Das andere liegt drüben an den Escadas do Caminho Novo. Die Brüstung, an der man hier lehnt, ist also eines der letzten beiden Mauerstücke der Stadt.",
+        "en" : "This walkway runs along the Guindais stretch, by Rua Arnaldo Gama. Just two pieces of Porto's old wall are still standing, and this is one of them. The other sits over by the Escadas do Caminho Novo. Everything between them has gone, swallowed by the streets. So the parapet you lean on here is half of a surviving pair."
+      },
+      "localizedStory" : {
+        "de" : "Von dieser alten Mauer öffnet sich der Douro vorbei an der Luís-I-Brücke und der Standseilbahn von Guindais bis zum Kai von Gaia.",
+        "en" : "From this old wall the Douro opens up past the Luís I bridge and the Guindais funicular down to the Gaia quay."
+      },
+      "name" : "Miradouro da Muralha Fernandina",
+      "pos" : [
+        41.140928,
+        -8.609975
+      ],
+      "story" : "From this old wall the Douro opens up past the Luís I bridge and the Guindais funicular down to the Gaia quay."
+    },
+    {
+      "extendedStory" : "A bishop has lived on this spot since about the 13th century, perhaps on something older still. The palace you see today is owed to Bishop João Rafael de Mendonça, who led the diocese from 1771 to 1793. An earlier rebuild in 1737 is credited by some writers to Nicolau Nasoni. What stands there now is baroque, all curves and carved stone, filling one whole side of the cathedral square.",
+      "icon" : "everyday",
+      "id" : "f-paco-episcopal-do-porto",
+      "kind" : "fortress",
+      "localizedExtendedStory" : {
+        "de" : "Seit etwa dem 13. Jahrhundert wohnt hier ein Bischof, vielleicht schon auf etwas Älterem. Den heutigen Palast verdankt die Stadt Bischof João Rafael de Mendonça, der das Bistum von 1771 bis 1793 leitete. Einen früheren Umbau von 1737 schreiben manche Autoren Nicolau Nasoni zu. Was dort steht, ist Barock, voller Schwünge und gemeißelter Steine, und füllt eine ganze Seite des Domplatzes.",
+        "en" : "A bishop has lived on this spot since about the 13th century, perhaps on something older still. The palace you see today is owed to Bishop João Rafael de Mendonça, who led the diocese from 1771 to 1793. An earlier rebuild in 1737 is credited by some writers to Nicolau Nasoni. What stands there now is baroque, all curves and carved stone, filling one whole side of the cathedral square."
+      },
+      "localizedStory" : {
+        "de" : "Von 1916 bis 1957 war dieser Bischofspalast neben der Kathedrale das Rathaus von Porto.",
+        "en" : "From 1916 to 1957 this bishops' palace by the cathedral was Porto's town hall."
+      },
+      "name" : "Paço Episcopal do Porto",
+      "pos" : [
+        41.142158,
+        -8.611667
+      ],
+      "story" : "From 1916 to 1957 this bishops' palace by the cathedral was Porto's town hall."
+    },
+    {
+      "extendedStory" : "The order that opened Bolhão in 1839 did more than start a market. It pulled every other market in the city into this one spot, and left just Ribeira and Anjo where they stood. At the start there was no hall here at all. The traders worked inside nothing but an iron railing around them.",
+      "icon" : "choice",
+      "id" : "f-mercado-do-bolhao",
+      "kind" : "market",
+      "localizedExtendedStory" : {
+        "de" : "Der Erlass, der den Bolhão 1839 eröffnete, gründete mehr als nur einen Markt. Er zog alle anderen Märkte der Stadt an diesen einen Ort, nur Ribeira und Anjo blieben, wo sie waren. Und am Anfang gab es hier gar keine Halle. Die Händler standen hinter nichts als einem eisernen Gitter.",
+        "en" : "The order that opened Bolhão in 1839 did more than start a market. It pulled every other market in the city into this one spot, and left just Ribeira and Anjo where they stood. At the start there was no hall here at all. The traders worked inside nothing but an iron railing around them."
+      },
+      "localizedStory" : {
+        "de" : "Ein Stadterlass öffnete diesen Markt im Jahr 1839.",
+        "en" : "A city order opened this market back in 1839."
+      },
+      "name" : "Mercado do Bolhão",
+      "pos" : [
+        41.14934,
+        -8.607123
+      ],
+      "story" : "A city order opened this market back in 1839."
     },
     {
       "extendedStory" : "The Torre dos Clérigos began to rise in 1763. The architect Nicolau Nasoni shaped it in the baroque style, full of curves and carved detail. At about 75 metres, it lifts high above the rooftops of Porto. The tower has marked the city skyline ever since. Climb toward it through the old streets and it seems to grow with every step.",
@@ -33415,19 +33435,24 @@
       "story" : "This baroque tower rises 75 metres over the city, the work of Nicolau Nasoni."
     },
     {
+      "extendedStory" : "Battle Square has been Porto's theatre corner for over two centuries. An opera house went up along its south side between 1796 and 1798, drawn by the Italian stage designer Vicente Mazzoneschi. The theatre standing on that same spot today opened in 1920, to a design by José Marques da Silva. And since 1866 a monument to King Pedro V has watched over the whole square.",
       "icon" : "everyday",
-      "id" : "f-chafariz-da-rua-das-taipas",
-      "kind" : "fountain",
-      "localizedStory" : {
-        "de" : "1772 baten die Bewohner des Postigo das Virtudes den Stadtrat, hier einen Brunnen zu errichten.",
-        "en" : "Back in 1772, the people around the Postigo das Virtudes were thirsty. So they asked the city council to build them this fountain."
+      "id" : "f-praca-da-batalha",
+      "kind" : "square",
+      "localizedExtendedStory" : {
+        "de" : "Der Platz der Schlacht ist seit über zwei Jahrhunderten die Theaterecke von Porto. An seiner Südseite entstand zwischen 1796 und 1798 ein Opernhaus, entworfen vom italienischen Bühnenbildner Vicente Mazzoneschi. Das Theater, das heute an derselben Stelle steht, wurde von José Marques da Silva entworfen und 1920 eröffnet. Und seit 1866 wacht ein Denkmal für König Pedro V. über den ganzen Platz.",
+        "en" : "Battle Square has been Porto's theatre corner for over two centuries. An opera house went up along its south side between 1796 and 1798, drawn by the Italian stage designer Vicente Mazzoneschi. The theatre standing on that same spot today opened in 1920, to a design by José Marques da Silva. And since 1866 a monument to King Pedro V has watched over the whole square."
       },
-      "name" : "Chafariz da Rua das Taipas",
+      "localizedStory" : {
+        "de" : "Der Name des Platzes erinnert an eine alte Schlacht, die hier einst ausgetragen wurde.",
+        "en" : "The square's name recalls an old battle once fought right here."
+      },
+      "name" : "Praça da Batalha",
       "pos" : [
-        41.143129,
-        -8.617822
+        41.145444,
+        -8.607094
       ],
-      "story" : "Back in 1772, the people around the Postigo das Virtudes were thirsty. So they asked the city council to build them this fountain."
+      "story" : "The square's name recalls an old battle once fought right here."
     },
     {
       "extendedStory" : "The Câmara Municipal is Porto's city hall. The architect António Correia da Silva drew up its design, and the building took shape by 1957. A tower of about 30 metres rises from its front, a clear landmark above the square. Its clean lines mark the newer face of the old city. Stand before it and the wide open space stretches out around you.",
@@ -33448,29 +33473,9 @@
         -8.610705
       ],
       "story" : "Porto's city hall rose here in 1957, its tower climbing about 30 metres."
-    },
-    {
-      "extendedStory" : "This square carries the name of Prince Henry the Navigator. It is one of Porto's calm open squares, ringed by old streets. The monument at its centre was begun in 1894 and finished in 1900. For years the sculptors shaped it before it finally stood complete. Look up at it and you meet the figure whose name the whole square shares.",
-      "icon" : "everyday",
-      "id" : "f-praca-do-infante-dom-henrique",
-      "kind" : "square",
-      "localizedExtendedStory" : {
-        "de" : "Dieser Platz trägt den Namen von Heinrich dem Seefahrer. Er ist einer der ruhigen, offenen Plätze Portos, umgeben von alten Gassen. Das Denkmal in seiner Mitte wurde 1894 begonnen und 1900 vollendet. Jahrelang formten die Bildhauer daran, bis es schließlich fertig dastand. Blickt man hinauf, begegnet man der Gestalt, deren Namen der ganze Platz trägt.",
-        "en" : "This square carries the name of Prince Henry the Navigator. It is one of Porto's calm open squares, ringed by old streets. The monument at its centre was begun in 1894 and finished in 1900. For years the sculptors shaped it before it finally stood complete. Look up at it and you meet the figure whose name the whole square shares."
-      },
-      "localizedStory" : {
-        "de" : "In der Mitte steht ein Denkmal für Heinrich den Seefahrer, nach dem der Platz benannt ist.",
-        "en" : "At its centre stands a monument to Prince Henry the Navigator, who gives the square its name."
-      },
-      "name" : "Praça do Infante Dom Henrique",
-      "pos" : [
-        41.141206,
-        -8.614847
-      ],
-      "story" : "At its centre stands a monument to Prince Henry the Navigator, who gives the square its name."
     }
   ],
-  "generatedAt" : "2026-07-27T05:54:53Z",
+  "generatedAt" : "2026-07-28T08:22:26Z",
   "icon" : {
     "paths" : [
       "M 12.00 52.00 L 21.00 52.00 L 21.00 90.00 L 12.00 90.00 Z M 79.00 52.00 L 88.00 52.00 L 88.00 90.00 L 79.00 90.00 Z M 9.00 84.00 L 23.00 84.00 L 23.00 90.00 L 9.00 90.00 Z M 77.00 84.00 L 91.00 84.00 L 91.00 90.00 L 77.00 90.00 Z M 15.00 62.00 C 15.00 37.35 30.75 33.00 50.00 33.00 C 69.25 33.00 85.00 37.35 85.00 62.00 L 85.00 70.00 C 85.00 48.75 67.50 45.00 50.00 45.00 C 32.50 45.00 15.00 48.75 15.00 70.00 Z M 9.00 15.00 L 91.00 15.00 L 91.00 23.00 L 9.00 23.00 Z M 21.90 42.00 L 26.10 42.00 L 26.10 62.00 L 21.90 62.00 Z M 33.90 34.00 L 38.10 34.00 L 38.10 62.00 L 33.90 62.00 Z M 47.90 33.00 L 52.10 33.00 L 52.10 62.00 L 47.90 62.00 Z M 61.90 34.00 L 66.10 34.00 L 66.10 62.00 L 61.90 62.00 Z M 73.90 42.00 L 78.10 42.00 L 78.10 62.00 L 73.90 62.00 Z"
@@ -33483,7 +33488,7 @@
     "en" : "Porto"
   },
   "name" : "Porto",
-  "packVersion" : 7,
+  "packVersion" : 12,
   "schemaVersion" : 1,
   "source" : "OpenStreetMap via Overpass API",
   "stats" : {

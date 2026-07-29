@@ -231,9 +231,9 @@
 
     ],
     "adjustedStreets" : [
-      "Plaza del Cabildo"
+
     ],
-    "fromVersion" : 7,
+    "fromVersion" : 11,
     "removedStreets" : [
 
     ]
@@ -7897,13 +7897,13 @@
   ],
   "fruits" : [
     {
-      "extendedStory" : "One tower here climbs to about 105 metres, high enough to see from far across the rooftops. A lower part rises near 49 metres. The whole church has grown since the work began in 1402. Stand at the foot of the wall and tip your head right back to follow the stone up into the sky.",
+      "extendedStory" : "One tower here climbs to about 105 metres, high enough to see from far across the rooftops. A lower part of the building rises near 49 metres. The whole church has grown since the work began in 1402. Stand at the foot of the wall and tip your head right back to follow the stone up into the sky.",
       "icon" : "hero",
       "id" : "f-catedral-de-sevilla",
       "kind" : "church",
       "localizedExtendedStory" : {
         "de" : "Ein Turm hier steigt auf rund 105 Meter, hoch genug, um ihn weit über den Dächern zu sehen. Ein niedrigerer Teil reicht an die 49 Meter. Die ganze Kirche wächst, seit der Bau 1402 begann. Stell dich an die Mauer und leg den Kopf ganz in den Nacken, um dem Stein nach oben zu folgen.",
-        "en" : "One tower here climbs to about 105 metres, high enough to see from far across the rooftops. A lower part rises near 49 metres. The whole church has grown since the work began in 1402. Stand at the foot of the wall and tip your head right back to follow the stone up into the sky."
+        "en" : "One tower here climbs to about 105 metres, high enough to see from far across the rooftops. A lower part of the building rises near 49 metres. The whole church has grown since the work began in 1402. Stand at the foot of the wall and tip your head right back to follow the stone up into the sky."
       },
       "localizedStory" : {
         "de" : "Eine gewaltige Kirche, deren Bau 1402 begann, mitten im alten Herzen von Sevilla.",
@@ -7917,44 +7917,34 @@
       "story" : "A vast church whose building began in 1402, deep in the old heart of Seville."
     },
     {
-      "extendedStory" : "About ten metres of brick rise here in eight flat sides. A wall once linked this tower to the Torre del Oro, the Tower of Gold, down by the river. One guarded silver, the other gold, and the rampart tied them together. Trace the eight corners and imagine that lost stretch of wall running to the water.",
-      "icon" : "everyday",
-      "id" : "f-torre-de-la-plata",
-      "kind" : "fortress",
-      "localizedExtendedStory" : {
-        "de" : "Rund zehn Meter Backstein steigen hier in acht flachen Seiten auf. Eine Mauer verband diesen Turm einst mit dem Torre del Oro, dem Goldturm, unten am Fluss. Der eine hütete das Silber, der andere das Gold, und der Wall hielt sie zusammen. Zeichne die acht Ecken nach und stell dir die verlorene Mauer bis zum Wasser vor.",
-        "en" : "About ten metres of brick rise here in eight flat sides. A wall once linked this tower to the Torre del Oro, the Tower of Gold, down by the river. One guarded silver, the other gold, and the rampart tied them together. Trace the eight corners and imagine that lost stretch of wall running to the water."
-      },
-      "localizedStory" : {
-        "de" : "Ein achteckiger Wachturm, dessen Name Silberturm bedeutet, im 13. Jahrhundert von den Almohaden errichtet.",
-        "en" : "An eight-sided watchtower whose name means Tower of Silver, raised by the Almohads in the 13th century."
-      },
-      "name" : "Torre de la Plata",
-      "pos" : [
-        37.383202,
-        -5.995405
-      ],
-      "story" : "An eight-sided watchtower whose name means Tower of Silver, raised by the Almohads in the 13th century."
-    },
-    {
+      "extendedStory" : "The tower dates from 1221. Its style belongs to the art of the Almoravids and Almohades, the rulers whose builders shaped it. Thirty metres of it rise straight from the riverbank, so it reads as a marker from a long way off. Nothing stands between it and the water. Walk the quay and it grows in front of you step by step.",
       "icon" : "choice",
-      "id" : "f-plaza-nueva",
-      "kind" : "square",
-      "localizedStory" : {
-        "de" : "In der Mitte steht ein bronzener König zu Pferd, Ferdinand III., enthüllt 1924.",
-        "en" : "In the middle stands a bronze king on horseback, Ferdinand III, unveiled in 1924."
+      "id" : "f-torre-del-oro",
+      "kind" : "gate_tower",
+      "localizedExtendedStory" : {
+        "de" : "Der Turm stammt von 1221. Sein Stil gehört zur Kunst der Almoraviden und Almohaden, der Herrscher, deren Baumeister ihn formten. Dreißig Meter steigen unmittelbar vom Flussufer auf, sodass er von weither als Marke zu lesen ist. Zwischen ihm und dem Wasser steht nichts. Geh die Uferpromenade entlang, und er wächst dir Schritt für Schritt entgegen.",
+        "en" : "The tower dates from 1221. Its style belongs to the art of the Almoravids and Almohades, the rulers whose builders shaped it. Thirty metres of it rise straight from the riverbank, so it reads as a marker from a long way off. Nothing stands between it and the water. Walk the quay and it grows in front of you step by step."
       },
-      "name" : "Plaza Nueva",
+      "localizedStory" : {
+        "de" : "Dieser Turm am Fluss entstand 1221 und ragt 30 Meter über das Wasser.",
+        "en" : "This riverside tower went up in 1221 and stands 30 metres over the water."
+      },
+      "name" : "Torre del Oro",
       "pos" : [
-        37.388613,
-        -5.995544
+        37.382502,
+        -5.996676
       ],
-      "story" : "In the middle stands a bronze king on horseback, Ferdinand III, unveiled in 1924."
+      "story" : "This riverside tower went up in 1221 and stands 30 metres over the water."
     },
     {
+      "extendedStory" : "Queen Isabella the Second gave the bridge its name. What stood here before was very different: boats tied side by side, rocking on the water. People walked that swaying line from Moorish times in the twelfth century onwards. A crossing of solid stone and iron finally took over from it in 1852.",
       "icon" : "choice",
       "id" : "f-puente-de-isabel-ii",
       "kind" : "bridge",
+      "localizedExtendedStory" : {
+        "de" : "Königin Isabella die Zweite gab der Brücke ihren Namen. Was zuvor hier lag, war ganz anders: Boote, Seite an Seite vertäut, die auf dem Wasser schaukelten. Über diese schwankende Reihe ging man seit der Maurenzeit im 12. Jahrhundert. Ein fester Übergang aus Stein und Eisen löste sie 1852 ab.",
+        "en" : "Queen Isabella the Second gave the bridge its name. What stood here before was very different: boats tied side by side, rocking on the water. People walked that swaying line from Moorish times in the twelfth century onwards. A crossing of solid stone and iron finally took over from it in 1852."
+      },
       "localizedStory" : {
         "de" : "Sevillas erste feste Brücke, 1852 vollendet, wo einst eine schwimmende Bootsbrücke den Fluss überquerte.",
         "en" : "Seville's first solid bridge, finished in 1852 where a floating bridge of boats once crossed the river."
@@ -7967,33 +7957,33 @@
       "story" : "Seville's first solid bridge, finished in 1852 where a floating bridge of boats once crossed the river."
     },
     {
-      "extendedStory" : "This grand town house dates from around 1600, in the Renaissance style of arches and courtyards. Its real treasure lies underfoot. Floors and walls hold 580 square metres of Roman mosaics, patterns pieced from tiny coloured stones. Walk softly and picture the Roman rooms they first covered.",
+      "extendedStory" : "Residents here wanted somewhere grand to gather, and they asked for it. San Francisco convent came down to make room, and work began on the ground in 1849. Seven years later, in 1856, everything was done. Ferdinand the Third arrived much later still, a bronze rider unveiled at its centre in 1924.",
       "icon" : "choice",
-      "id" : "f-museo-palacio-de-lebrija",
-      "kind" : "civic",
+      "id" : "f-plaza-nueva",
+      "kind" : "square",
       "localizedExtendedStory" : {
-        "de" : "Dieses vornehme Stadthaus stammt aus der Zeit um 1600, im Renaissancestil mit Bögen und Höfen. Sein wahrer Schatz liegt unter den Füßen. Böden und Wände tragen 580 Quadratmeter römische Mosaike, Muster aus winzigen bunten Steinen. Geh leise und stell dir die römischen Räume vor, die sie einst bedeckten.",
-        "en" : "This grand town house dates from around 1600, in the Renaissance style of arches and courtyards. Its real treasure lies underfoot. Floors and walls hold 580 square metres of Roman mosaics, patterns pieced from tiny coloured stones. Walk softly and picture the Roman rooms they first covered."
+        "de" : "Die Anwohner wollten einen großen Ort zum Zusammenkommen, und sie baten darum. Das Kloster San Francisco musste weichen, und 1849 begannen die Arbeiten am Boden. Sieben Jahre später, 1856, war alles fertig. Ferdinand III. kam noch viel später dazu, ein bronzener Reiter, 1924 in der Mitte enthüllt.",
+        "en" : "Residents here wanted somewhere grand to gather, and they asked for it. San Francisco convent came down to make room, and work began on the ground in 1849. Seven years later, in 1856, everything was done. Ferdinand the Third arrived much later still, a bronze rider unveiled at its centre in 1924."
       },
       "localizedStory" : {
-        "de" : "Seine Böden und Wände tragen 580 Quadratmeter römische Mosaike zum Darüberlaufen.",
-        "en" : "Its floors and walls hold 580 square metres of Roman mosaics to walk across."
+        "de" : "In der Mitte steht ein bronzener König zu Pferd, Ferdinand III., enthüllt 1924.",
+        "en" : "In the middle stands a bronze king on horseback, Ferdinand III, unveiled in 1924."
       },
-      "name" : "Museo Palacio de Lebrija",
+      "name" : "Plaza Nueva",
       "pos" : [
-        37.392286,
-        -5.994
+        37.388613,
+        -5.995544
       ],
-      "story" : "Its floors and walls hold 580 square metres of Roman mosaics to walk across."
+      "story" : "In the middle stands a bronze king on horseback, Ferdinand III, unveiled in 1924."
     },
     {
-      "extendedStory" : "The architect Juan Talavera y Heredia drew the plans for this covered market. It opened in 1947. The ground beneath it once held the Convento del Pópulo, and before that a prison stood here in the eighteen-hundreds. Where cells once stood, stalls of food now line the aisles.",
+      "extendedStory" : "The architect Juan Talavera y Heredia drew the plans for this covered market. It opened in 1947. The ground beneath it once held the Convento del Pópulo, and before that a prison stood here in the eighteen-hundreds. Where cells once stood, stalls of food now line the aisles from end to end.",
       "icon" : "everyday",
       "id" : "f-mercado-del-arenal",
       "kind" : "market",
       "localizedExtendedStory" : {
-        "de" : "Der Architekt Juan Talavera y Heredia entwarf die Pläne für diese Markthalle. 1947 wurde sie eröffnet. Der Boden darunter trug einst das Convento del Pópulo, und davor stand hier im 19. Jahrhundert ein Gefängnis. Wo einst Zellen waren, reihen sich heute die Marktstände.",
-        "en" : "The architect Juan Talavera y Heredia drew the plans for this covered market. It opened in 1947. The ground beneath it once held the Convento del Pópulo, and before that a prison stood here in the eighteen-hundreds. Where cells once stood, stalls of food now line the aisles."
+        "de" : "Der Architekt Juan Talavera y Heredia entwarf die Pläne für diese Markthalle. 1947 wurde sie eröffnet. Der Boden darunter trug einst das Convento del Pópulo, und davor stand hier im 19. Jahrhundert ein Gefängnis. Wo einst Zellen waren, reihen sich heute die Marktstände von einem Ende zum anderen.",
+        "en" : "The architect Juan Talavera y Heredia drew the plans for this covered market. It opened in 1947. The ground beneath it once held the Convento del Pópulo, and before that a prison stood here in the eighteen-hundreds. Where cells once stood, stalls of food now line the aisles from end to end."
       },
       "localizedStory" : {
         "de" : "Eine Markthalle von 1947, erbaut auf dem Gelände eines alten Klosters, wo im 19. Jahrhundert einst ein Gefängnis stand.",
@@ -8007,24 +7997,54 @@
       "story" : "A market hall built in 1947 on the site of an old convent, where a prison once stood in the 19th century."
     },
     {
+      "extendedStory" : "The building went up in the 17th century, on an oval plan modelled on the cathedral's chapter house. That oval is unusual, since halls of the time were normally built as rectangles. It rises 18 metres. Three hundred years after it was finished, it took on a new job. From December 1985 to February 1992 the parliament of Andalusia sat here.",
       "icon" : "everyday",
-      "id" : "f-puerta-del-leon",
-      "kind" : "gate_tower",
-      "localizedStory" : {
-        "de" : "Schau über dem Tor nach dem gekachelten Löwen, 1892 in einer Werkstatt in Triana gefertigt.",
-        "en" : "Look up at the doorway for a tiled lion, made in 1892 in a Triana workshop."
+      "id" : "f-sala-san-hermenegildo",
+      "kind" : "civic",
+      "localizedExtendedStory" : {
+        "de" : "Der Bau entstand im 17. Jahrhundert, auf ovalem Grundriss nach dem Vorbild des Kapitelsaals der Kathedrale. Das Oval ist ungewöhnlich, denn Säle jener Zeit baute man sonst rechteckig. Achtzehn Meter hoch ist er. Dreihundert Jahre später bekam er eine neue Aufgabe: Von Dezember 1985 bis Februar 1992 tagte hier das Parlament Andalusiens.",
+        "en" : "The building went up in the 17th century, on an oval plan modelled on the cathedral's chapter house. That oval is unusual, since halls of the time were normally built as rectangles. It rises 18 metres. Three hundred years after it was finished, it took on a new job. From December 1985 to February 1992 the parliament of Andalusia sat here."
       },
-      "name" : "Puerta del León",
+      "localizedStory" : {
+        "de" : "In dieser alten Barockkirche tagte von 1985 bis 1992 das Parlament Andalusiens.",
+        "en" : "This old baroque church became the meeting place of Andalusia's parliament, from 1985 to 1992."
+      },
+      "name" : "Sala San Hermenegildo",
       "pos" : [
-        37.384499,
-        -5.992165
+        37.393965,
+        -5.99604
       ],
-      "story" : "Look up at the doorway for a tiled lion, made in 1892 in a Triana workshop."
+      "story" : "This old baroque church became the meeting place of Andalusia's parliament, from 1985 to 1992."
     },
     {
+      "extendedStory" : "Under the square lie Roman houses from the first century. Islamic remains from the twelfth sit alongside them, more than 2,000 years in one place. The best-loved find is a mosaic of the loves of Neptune. Above all of it stand the parasols the German architect Jürgen Mayer designed, opened in 2011. They make up the largest wooden structure in the world.",
+      "icon" : "everyday",
+      "id" : "f-plaza-de-la-encarnacion",
+      "kind" : "square",
+      "localizedExtendedStory" : {
+        "de" : "Unter dem Platz liegen römische Häuser aus dem 1. Jahrhundert und islamische Reste aus dem 12., mehr als 2.000 Jahre an einem Ort. Der beliebteste Fund ist ein Mosaik von den Liebschaften Neptuns. Darüber stehen die Sonnenschirme, die der deutsche Architekt Jürgen Mayer entwarf und die 2011 eröffnet wurden. Sie bilden das größte Holzbauwerk der Welt.",
+        "en" : "Under the square lie Roman houses from the first century. Islamic remains from the twelfth sit alongside them, more than 2,000 years in one place. The best-loved find is a mosaic of the loves of Neptune. Above all of it stand the parasols the German architect Jürgen Mayer designed, opened in 2011. They make up the largest wooden structure in the world."
+      },
+      "localizedStory" : {
+        "de" : "Die Stadt grub hier für eine Tiefgarage und stieß stattdessen auf römische Häuser.",
+        "en" : "The city dug here for a car park and found Roman houses instead."
+      },
+      "name" : "Plaza de la Encarnación",
+      "pos" : [
+        37.393057,
+        -5.991868
+      ],
+      "story" : "The city dug here for a car park and found Roman houses instead."
+    },
+    {
+      "extendedStory" : "The church dates from around 1400 and is Gothic, so look for pointed arches and windows that climb. It carries the name of Isidore of Seville. Six centuries have passed since it was begun. In that time the streets around it have been rebuilt many times over, and the church has stayed put.",
       "icon" : "everyday",
       "id" : "f-iglesia-de-san-isidoro",
       "kind" : "church",
+      "localizedExtendedStory" : {
+        "de" : "Die Kirche stammt aus der Zeit um 1400 und ist gotisch, achte also auf Spitzbögen und aufsteigende Fenster. Sie trägt den Namen von Isidor von Sevilla. Sechs Jahrhunderte sind vergangen, seit sie begonnen wurde. In dieser Zeit wurden die Gassen ringsum viele Male neu gebaut, die Kirche aber blieb.",
+        "en" : "The church dates from around 1400 and is Gothic, so look for pointed arches and windows that climb. It carries the name of Isidore of Seville. Six centuries have passed since it was begun. In that time the streets around it have been rebuilt many times over, and the church has stayed put."
+      },
       "localizedStory" : {
         "de" : "Eine Kirche aus der Zeit um 1400, benannt nach Isidor von Sevilla.",
         "en" : "A church from around 1400, named after Isidore of Seville."
@@ -8037,7 +8057,7 @@
       "story" : "A church from around 1400, named after Isidore of Seville."
     }
   ],
-  "generatedAt" : "2026-07-27T05:55:56Z",
+  "generatedAt" : "2026-07-28T08:34:17Z",
   "icon" : {
     "paths" : [
       "M 28.00 89.00 L 72.00 89.00 L 72.00 93.00 L 28.00 93.00 Z M 32.00 40.00 L 68.00 40.00 L 68.00 89.00 L 32.00 89.00 Z M 29.00 38.00 L 71.00 38.00 L 71.00 41.00 L 29.00 41.00 Z M 37.00 22.00 L 63.00 22.00 L 63.00 38.00 L 37.00 38.00 Z M 35.00 20.00 L 65.00 20.00 L 65.00 23.00 L 35.00 23.00 Z M 41.00 14.00 L 59.00 14.00 L 59.00 21.00 L 41.00 21.00 Z M 44.00 10.00 L 56.00 10.00 L 56.00 15.00 L 44.00 15.00 Z M 49.00 6.00 L 51.00 6.00 L 51.00 11.00 L 49.00 11.00 Z M 46.00 4.50 L 54.00 4.50 L 54.00 7.00 L 46.00 7.00 Z M 49.20 3.00 L 50.80 3.00 L 50.80 5.50 L 49.20 5.50 Z M 45.00 58.00 L 45.00 50.00 C 45.00 47.80 48.50 46.00 50.00 46.00 C 51.50 46.00 55.00 47.80 55.00 50.00 L 55.00 58.00 Z M 45.00 72.00 L 45.00 64.00 C 45.00 61.80 48.50 60.00 50.00 60.00 C 51.50 60.00 55.00 61.80 55.00 64.00 L 55.00 72.00 Z M 45.00 86.00 L 45.00 78.00 C 45.00 75.80 48.50 74.00 50.00 74.00 C 51.50 74.00 55.00 75.80 55.00 78.00 L 55.00 86.00 Z M 47.50 35.00 L 47.50 28.00 C 47.50 26.35 49.25 25.00 50.00 25.00 C 50.75 25.00 52.50 26.35 52.50 28.00 L 52.50 35.00 Z"
@@ -8050,7 +8070,7 @@
     "en" : "Seville"
   },
   "name" : "Seville",
-  "packVersion" : 8,
+  "packVersion" : 12,
   "schemaVersion" : 1,
   "source" : "OpenStreetMap via Overpass API",
   "stats" : {

@@ -211,13 +211,9 @@
 
     ],
     "adjustedStreets" : [
-      "Frauenplatz",
-      "Geyerswörthplatz",
-      "Geyerswörthstraße",
-      "Habergasse",
-      "Hinterer Bach"
+
     ],
-    "fromVersion" : 8,
+    "fromVersion" : 15,
     "removedStreets" : [
 
     ]
@@ -10897,9 +10893,14 @@
   ],
   "fruits" : [
     {
+      "extendedStory" : "Look for the gate on the courtyard side. Pankraz Wagner carved it in 1573, and it shows Mary with Henry and Kunigunde beside her. The two of them hold a small model of the cathedral. The range behind it went up from 1570 for prince-bishop Veit II, built by Erasmus Braun. Emperor Henry the Second once had his palace on this same ground. In summer the courtyard fills with an open-air theatre festival.",
       "icon" : "choice",
       "id" : "f-alte-hofhaltung",
       "kind" : "attraction",
+      "localizedExtendedStory" : {
+        "de" : "Schau am Hof nach dem Portal. Pankraz Wagner schuf es 1573; es zeigt Maria, daneben Heinrich und Kunigunde. Die beiden halten ein kleines Modell des Doms. Der Bau dahinter entstand ab 1570 für Fürstbischof Veit II., errichtet von Erasmus Braun. Auf demselben Boden stand einst die Pfalz Kaiser Heinrichs II. Im Sommer füllt ein Freilichtfestspiel den Innenhof.",
+        "en" : "Look for the gate on the courtyard side. Pankraz Wagner carved it in 1573, and it shows Mary with Henry and Kunigunde beside her. The two of them hold a small model of the cathedral. The range behind it went up from 1570 for prince-bishop Veit II, built by Erasmus Braun. Emperor Henry the Second once had his palace on this same ground. In summer the courtyard fills with an open-air theatre festival."
+      },
       "localizedStory" : {
         "de" : "Die Alte Hofhaltung am Domplatz — hier hielten Bambergs Fürstbischöfe Hof; sie waren Kirchenleute und Stadtherren in einem.",
         "en" : "On Domplatz stands the Alte Hofhaltung — the old court where Bamberg's prince-bishops, church leaders who also ruled the town, once lived."
@@ -10912,9 +10913,14 @@
       "story" : "On Domplatz stands the Alte Hofhaltung — the old court where Bamberg's prince-bishops, church leaders who also ruled the town, once lived."
     },
     {
+      "extendedStory" : "The house has a name older than the nickname. It is the Blue Lion, written down in 1405. The nickname came much later, from Andreas Graser, who ran the place from 1875 to 1905. Horses bolted while he was unloading, and the injury left him swinging his arms as he walked. People teased him for that walk, and the name stuck to the house.",
       "icon" : "choice",
       "id" : "f-schlenkerla",
       "kind" : "food_landmark",
+      "localizedExtendedStory" : {
+        "de" : "Das Haus trägt einen älteren Namen als der Spitzname. Es heißt Zum Blauen Löwen und steht 1405 in den Urkunden. Der Spitzname kam später, von Andreas Graser, der das Haus von 1875 bis 1905 führte. Pferde gingen ihm beim Abladen durch, und nach dem Unfall schlenkerte er beim Gehen mit den Armen. Man neckte ihn damit, und der Name blieb am Haus.",
+        "en" : "The house has a name older than the nickname. It is the Blue Lion, written down in 1405. The nickname came much later, from Andreas Graser, who ran the place from 1875 to 1905. Horses bolted while he was unloading, and the injury left him swinging his arms as he walked. People teased him for that walk, and the name stuck to the house."
+      },
       "localizedStory" : {
         "de" : "Ringleinsgasse — in dieser Gasse gibt es das Schlenkerla schon seit 1405, seit über sechshundert Jahren.",
         "en" : "Ringleinsgasse — the lane where Schlenkerla has stood since 1405, over six hundred years ago."
@@ -10927,9 +10933,14 @@
       "story" : "Ringleinsgasse — the lane where Schlenkerla has stood since 1405, over six hundred years ago."
     },
     {
+      "extendedStory" : "The cathedral carries the name of Saint Peter, and that dedication is as old as the building. Its Romanesque parts came early, which means round arches and thick, calm walls rather than pointed ones. Centuries later Friedrich von Gärtner worked on the building, so what you see mixes the hands of very different ages.",
       "icon" : "hero",
       "id" : "f-bamberger-dom",
       "kind" : "church",
+      "localizedExtendedStory" : {
+        "de" : "Der Dom trägt den Namen des heiligen Petrus, und diese Widmung ist so alt wie das Gebäude. Der romanische Teil entstand früh, das heißt runde Bögen und dicke, ruhige Mauern statt gotischer Spitzen. Jahrhunderte später arbeitete Friedrich von Gärtner am Bau, was du siehst, mischt also die Hände sehr verschiedener Zeiten.",
+        "en" : "The cathedral carries the name of Saint Peter, and that dedication is as old as the building. Its Romanesque parts came early, which means round arches and thick, calm walls rather than pointed ones. Centuries later Friedrich von Gärtner worked on the building, so what you see mixes the hands of very different ages."
+      },
       "localizedStory" : {
         "de" : "Domplatz — auf diesem Platz steht der Bamberger Dom, im Jahr 1004 begonnen, seit über tausend Jahren.",
         "en" : "Domplatz — the cathedral square where the Bamberger Dom, begun in 1004, has stood for over a thousand years."
@@ -10942,9 +10953,54 @@
       "story" : "Domplatz — the cathedral square where the Bamberger Dom, begun in 1004, has stood for over a thousand years."
     },
     {
+      "extendedStory" : "The figure standing in the water is Neptune, the Roman god of the sea. He holds a three-pronged spear called a trident. People here thought it looked like a kitchen fork, and the nickname stuck. The Neptune you see was made in 1698, while the fountain he stands in dates from 1566.",
+      "icon" : "everyday",
+      "id" : "f-gabelmann",
+      "kind" : "fountain",
+      "localizedExtendedStory" : {
+        "de" : "Die Figur, die im Wasser steht, ist Neptun, der römische Meeresgott. Er hält einen dreizackigen Speer in der Hand, einen Dreizack. Die Leute hier fanden, er sehe aus wie eine Gabel, und der Spitzname blieb hängen. Der Neptun stammt aus dem Jahr 1698, der Brunnen darunter schon von 1566.",
+        "en" : "The figure standing in the water is Neptune, the Roman god of the sea. He holds a three-pronged spear called a trident. People here thought it looked like a kitchen fork, and the nickname stuck. The Neptune you see was made in 1698, while the fountain he stands in dates from 1566."
+      },
+      "localizedStory" : {
+        "de" : "Keßlerstraße — die Figur im Brunnen hält einen Dreizack, und der sieht aus wie eine Gabel. Darum heißt sie hier Gabelmann.",
+        "en" : "Keßlerstraße — the fountain here is Neptune, but Bamberg calls him Gabelmann, the fork man, for the trident in his hand."
+      },
+      "name" : "Gabelmann",
+      "pos" : [
+        49.892732,
+        10.888546
+      ],
+      "story" : "Keßlerstraße — the fountain here is Neptune, but Bamberg calls him Gabelmann, the fork man, for the trident in his hand."
+    },
+    {
+      "extendedStory" : "Bishop Gunther of Bamberg founded it between 1057 and 1059, together with Count Reginold Waldpot von Zwernitz. Its core stone dates from the third quarter of the eleventh century. That makes it the oldest sacred building still standing in the city. Everything else you have passed today is younger.",
+      "icon" : "everyday",
+      "id" : "f-sankt-gangolf",
+      "kind" : "church",
+      "localizedExtendedStory" : {
+        "de" : "Bischof Gunther von Bamberg gründete das Stift zwischen 1057 und 1059. Mitgegründet hat es Graf Reginold Waldpot von Zwernitz. Der Kern des Baus stammt noch aus dem elften Jahrhundert. Keine andere Kirche in Bamberg, die heute noch steht, ist älter als diese. Alles andere, woran du heute vorbeigekommen bist, ist jünger.",
+        "en" : "Bishop Gunther of Bamberg founded it between 1057 and 1059, together with Count Reginold Waldpot von Zwernitz. Its core stone dates from the third quarter of the eleventh century. That makes it the oldest sacred building still standing in the city. Everything else you have passed today is younger."
+      },
+      "localizedStory" : {
+        "de" : "Obere Königstraße — Sankt Gangolf ist die älteste erhaltene Kirche Bambergs, gegründet 1057.",
+        "en" : "Obere Königstraße — Sankt Gangolf is the oldest church still standing in Bamberg, founded in 1057."
+      },
+      "name" : "Sankt Gangolf",
+      "pos" : [
+        49.897029,
+        10.896283
+      ],
+      "story" : "Obere Königstraße — Sankt Gangolf is the oldest church still standing in Bamberg, founded in 1057."
+    },
+    {
+      "extendedStory" : "Fishermen lived in the row of houses across the water, and Bamberg has long called it Little Venice. Those timber-framed houses mostly go back to the Middle Ages. Look at the small gardens that run right down to the river. Boats are still tied up there, bobbing at their moorings.",
       "icon" : "everyday",
       "id" : "f-ausblick-auf-klein-venedig",
       "kind" : "viewpoint",
+      "localizedExtendedStory" : {
+        "de" : "Drüben am Wasser wohnten die Fischer, und Bamberg nennt die Häuserzeile seit langem Klein Venedig. Diese Fachwerkhäuser stammen überwiegend aus dem Mittelalter. Schau auf die kleinen Gärten, die bis ans Wasser reichen. Dort liegen noch immer Kähne und schaukeln an ihren Anlegestellen.",
+        "en" : "Fishermen lived in the row of houses across the water, and Bamberg has long called it Little Venice. Those timber-framed houses mostly go back to the Middle Ages. Look at the small gardens that run right down to the river. Boats are still tied up there, bobbing at their moorings."
+      },
       "localizedStory" : {
         "de" : "Am Leinritt — von diesem Aussichtspunkt schaust du in Ruhe hinüber zu Klein Venedig.",
         "en" : "Am Leinritt — the spot where you stand and look across to Klein Venedig, Bamberg's own 'Little Venice.'"
@@ -10957,9 +11013,14 @@
       "story" : "Am Leinritt — the spot where you stand and look across to Klein Venedig, Bamberg's own 'Little Venice.'"
     },
     {
+      "extendedStory" : "The town hall needed ground of its own, so Bambergers drove piles into the Regnitz and built an island. The walls are painted with fake architecture that makes the flat front look moulded and deep. Look closely at the frescoes and find a putto. One of its legs is not painted at all: it juts out of the wall as real sculpture.",
       "icon" : "choice",
       "id" : "f-altes-rathaus",
       "kind" : "civic",
+      "localizedExtendedStory" : {
+        "de" : "Das Rathaus brauchte eigenen Boden, also rammten die Bamberger Pfähle in die Regnitz und schufen eine Insel. Auf die Wände ist eine Scheinarchitektur gemalt, die die flache Front tief und plastisch wirken lässt. Schau genau hin und such einen Putto. Eines seiner Beine ist nicht gemalt: Es ragt als echte Skulptur aus der Wand.",
+        "en" : "The town hall needed ground of its own, so Bambergers drove piles into the Regnitz and built an island. The walls are painted with fake architecture that makes the flat front look moulded and deep. Look closely at the frescoes and find a putto. One of its legs is not painted at all: it juts out of the wall as real sculpture."
+      },
       "localizedStory" : {
         "de" : "Obere Brücke — auf dieser Brücke steht das Alte Rathaus von Bamberg. Geh einfach hinüber.",
         "en" : "Obere Brücke — the 'Upper Bridge' where the Altes Rathaus, Bamberg's old town hall, stands right on the bridge itself."
@@ -10972,97 +11033,67 @@
       "story" : "Obere Brücke — the 'Upper Bridge' where the Altes Rathaus, Bamberg's old town hall, stands right on the bridge itself."
     },
     {
-      "icon" : "everyday",
-      "id" : "f-maximiliansbrunnen",
-      "kind" : "fountain",
-      "localizedStory" : {
-        "de" : "Maximiliansplatz — auf diesem Platz plätschert der Maximiliansbrunnen schon seit 1888.",
-        "en" : "Maximiliansplatz — the square where the Maximiliansbrunnen fountain has stood and splashed since 1888."
-      },
-      "name" : "Maximiliansbrunnen",
-      "pos" : [
-        49.89432,
-        10.889561
-      ],
-      "story" : "Maximiliansplatz — the square where the Maximiliansbrunnen fountain has stood and splashed since 1888."
-    },
-    {
-      "icon" : "everyday",
-      "id" : "f-marienbrucke",
-      "kind" : "bridge",
-      "localizedStory" : {
-        "de" : "Marienbrücke — eine Brücke über das Wasser in der Altstadt. Geh einfach hinüber und weiter geht's.",
-        "en" : "Marienbrücke — a bridge across the water in Bamberg's Old Town. Cross over and keep going."
-      },
-      "name" : "Marienbrücke",
-      "pos" : [
-        49.892413,
-        10.898835
-      ],
-      "story" : "Marienbrücke — a bridge across the water in Bamberg's Old Town. Cross over and keep going."
-    },
-    {
+      "extendedStory" : "The house opened its doors in 1808. It carries the name of the writer E. T. A. Hoffmann. The building was made over in 1862, then again in 1953, and once more in 1981. Each generation seems to have wanted its own theatre inside the same walls. The address on Schillerplatz has stayed put through all of it.",
       "icon" : "choice",
-      "id" : "f-sankt-stephan",
-      "kind" : "church",
-      "localizedStory" : {
-        "de" : "Stephansplatz — der Platz an der Kirche Sankt Stephan, die 256 Meter über dem Meer steht.",
-        "en" : "Stephansplatz — the square beside Sankt Stephan, a church standing 256 metres above the sea."
+      "id" : "f-e-t-a-hoffmann-theater",
+      "kind" : "theatre",
+      "localizedExtendedStory" : {
+        "de" : "Das Haus öffnete 1808 seine Türen. Es trägt den Namen des Dichters E. T. A. Hoffmann. Umgebaut wurde es 1862, dann 1953 und noch einmal 1981. Jede Generation wollte offenbar ihr eigenes Theater in denselben Mauern. Die Adresse am Schillerplatz blieb durch alles hindurch dieselbe.",
+        "en" : "The house opened its doors in 1808. It carries the name of the writer E. T. A. Hoffmann. The building was made over in 1862, then again in 1953, and once more in 1981. Each generation seems to have wanted its own theatre inside the same walls. The address on Schillerplatz has stayed put through all of it."
       },
-      "name" : "Sankt Stephan",
+      "localizedStory" : {
+        "de" : "Bambergs Theater am Schillerplatz öffnete 1808 und trägt den Namen des Dichters E. T. A. Hoffmann.",
+        "en" : "Bamberg's theatre on Schillerplatz opened in 1808 and carries the name of the writer E. T. A. Hoffmann."
+      },
+      "name" : "E.T.A.-Hoffmann-Theater",
       "pos" : [
-        49.888281,
-        10.885888
+        49.890699,
+        10.891089
       ],
-      "story" : "Stephansplatz — the square beside Sankt Stephan, a church standing 256 metres above the sea."
+      "story" : "Bamberg's theatre on Schillerplatz opened in 1808 and carries the name of the writer E. T. A. Hoffmann."
     },
     {
+      "extendedStory" : "Ignaz Tobias Böttinger, an official at court, had this house built between 1716 and 1722. The design is probably by Johann Dientzenhofer. For a long time it was a grand private home by the river. Since 1997 it has belonged to artists. Painters, writers and musicians move in for five or eleven months at a time, and work here.",
       "icon" : "everyday",
-      "id" : "f-gabelmann",
+      "id" : "f-villa-concordia",
+      "kind" : "civic",
+      "localizedExtendedStory" : {
+        "de" : "Ignaz Tobias Böttinger, ein Beamter bei Hof, ließ dieses Haus zwischen 1716 und 1722 bauen. Der Entwurf stammt wohl von Johann Dientzenhofer. Lange war es ein vornehmes Wohnhaus am Fluss. Seit 1997 gehört es den Künstlern. Malerinnen, Dichter und Musiker ziehen für fünf oder elf Monate ein und arbeiten hier.",
+        "en" : "Ignaz Tobias Böttinger, an official at court, had this house built between 1716 and 1722. The design is probably by Johann Dientzenhofer. For a long time it was a grand private home by the river. Since 1997 it has belonged to artists. Painters, writers and musicians move in for five or eleven months at a time, and work here."
+      },
+      "localizedStory" : {
+        "de" : "Ein barockes Haus in der Concordiastraße, für einen Hofbeamten erbaut. Heute leben und arbeiten hier Malerinnen, Dichter und Musiker.",
+        "en" : "A baroque house on Concordiastraße, built for a court official. Painters, writers and musicians live and work here today."
+      },
+      "name" : "Villa Concordia",
+      "pos" : [
+        49.888088,
+        10.888358
+      ],
+      "story" : "A baroque house on Concordiastraße, built for a court official. Painters, writers and musicians live and work here today."
+    },
+    {
+      "extendedStory" : "The man who carved her was a Bamberger himself. Robert Bauer-Haderlein was born in the city in 1914. He learned the trade as an apprentice to his own father, the sculptor Anton Bauer. From 1948 he worked here on his own account, as a sculptor and a restorer. Look for his hand a second time on Seehofstraße, where the Kunigundenbrunnen is his as well.",
+      "icon" : "everyday",
+      "id" : "f-marienbrunnen",
       "kind" : "fountain",
-      "localizedStory" : {
-        "de" : "Keßlerstraße — an dieser Straße plätschert der Brunnen Gabelmann schon seit 1566.",
-        "en" : "Keßlerstraße — the street where the Gabelmann fountain, the 'fork man,' has splashed away since 1566."
+      "localizedExtendedStory" : {
+        "de" : "Der Mann, der sie schuf, war selbst Bamberger. Robert Bauer-Haderlein kam 1914 in der Stadt zur Welt. Er absolvierte eine Lehre bei seinem Vater, dem Bildhauer Anton Bauer. Ab 1948 arbeitete er hier freischaffend als Bildhauer und Restaurator. Seine Handschrift findest du ein zweites Mal in der Seehofstraße, wo auch der Kunigundenbrunnen von ihm stammt.",
+        "en" : "The man who carved her was a Bamberger himself. Robert Bauer-Haderlein was born in the city in 1914. He learned the trade as an apprentice to his own father, the sculptor Anton Bauer. From 1948 he worked here on his own account, as a sculptor and a restorer. Look for his hand a second time on Seehofstraße, where the Kunigundenbrunnen is his as well."
       },
-      "name" : "Gabelmann",
-      "pos" : [
-        49.892732,
-        10.888546
-      ],
-      "story" : "Keßlerstraße — the street where the Gabelmann fountain, the 'fork man,' has splashed away since 1566."
-    },
-    {
-      "icon" : "everyday",
-      "id" : "f-nonnenbrucke",
-      "kind" : "bridge",
       "localizedStory" : {
-        "de" : "Nonnenbrücke — noch eine Brücke über das Wasser in der Altstadt. Geh hier hinüber und weiter.",
-        "en" : "Nonnenbrücke — another bridge over the water in the Old Town. Cross here and keep going."
+        "de" : "Am Marienplatz steht eine steinerne Maria über ihrem Becken. Der Bildhauer Robert Bauer-Haderlein schuf sie 1954.",
+        "en" : "On Marienplatz, a stone Mary stands over her basin. The sculptor Robert Bauer-Haderlein cut her in 1954."
       },
-      "name" : "Nonnenbrücke",
+      "name" : "Marienbrunnen",
       "pos" : [
-        49.889425,
-        10.889925
+        49.89343,
+        10.900355
       ],
-      "story" : "Nonnenbrücke — another bridge over the water in the Old Town. Cross here and keep going."
-    },
-    {
-      "icon" : "everyday",
-      "id" : "f-sankt-gangolf",
-      "kind" : "church",
-      "localizedStory" : {
-        "de" : "Obere Königstraße — die Straße an der Kirche Sankt Gangolf in der Altstadt. Geh sie ab und sammle unterwegs.",
-        "en" : "Obere Königstraße — the street by Sankt Gangolf, a church in Bamberg's Old Town. Walk it and collect as you go."
-      },
-      "name" : "Sankt Gangolf",
-      "pos" : [
-        49.897029,
-        10.896283
-      ],
-      "story" : "Obere Königstraße — the street by Sankt Gangolf, a church in Bamberg's Old Town. Walk it and collect as you go."
+      "story" : "On Marienplatz, a stone Mary stands over her basin. The sculptor Robert Bauer-Haderlein cut her in 1954."
     }
   ],
-  "generatedAt" : "2026-07-27T09:23:19Z",
+  "generatedAt" : "2026-07-28T06:07:14Z",
   "icon" : {
     "paths" : [
       "m 34 29 c 0 -16 20 -16 20 0 l 9 8 0 7 14 0 0 8 -16 0 -2 14 4 9 -4 2 -3 16 -7 0 -3 -22 -3 22 -7 0 -3 -16 -5 -2 2 -15 -3 -16 -2 -7 z m 39 -26 l 7 14 -3 2 0 75 -8 0 0 -75 -3 -2 z"
@@ -11075,7 +11106,7 @@
     "en" : "Bamberg"
   },
   "name" : "Bamberg",
-  "packVersion" : 9,
+  "packVersion" : 16,
   "schemaVersion" : 1,
   "source" : "OpenStreetMap via Overpass API",
   "stats" : {

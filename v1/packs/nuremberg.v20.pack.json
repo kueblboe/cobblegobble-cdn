@@ -203,17 +203,9 @@
 
     ],
     "adjustedStreets" : [
-      "Burg",
-      "Obere Schmiedgasse",
-      "Obere Wörthstraße",
-      "Paniersplatz",
-      "Spittlertormauer",
-      "Vestnertorgraben",
-      "Webersplatz",
-      "Weinmarkt",
-      "Weißgerbergasse"
+
     ],
-    "fromVersion" : 15,
+    "fromVersion" : 19,
     "removedStreets" : [
 
     ]
@@ -16453,9 +16445,14 @@
   ],
   "fruits" : [
     {
+      "extendedStory" : "Building began in 1225 and went on for generations. The Parler family, masons who worked across central Europe, had a hand in it. The church is Gothic, so the weight is carried on ribs and arches rather than thick walls. That is why the windows can be so tall. It carries the name of Sebaldus, the hermit the town took as its patron.",
       "icon" : "choice",
       "id" : "f-st-sebald",
       "kind" : "church",
+      "localizedExtendedStory" : {
+        "de" : "Der Bau begann 1225 und zog sich über Generationen. Die Parler, Steinmetzen, die in ganz Mitteleuropa arbeiteten, hatten daran Anteil. Die Kirche ist gotisch, das Gewicht ruht also auf Rippen und Bögen statt auf dicken Mauern. Darum können die Fenster so hoch sein. Sie trägt den Namen des Sebaldus, des Einsiedlers, den die Stadt zum Patron nahm.",
+        "en" : "Building began in 1225 and went on for generations. The Parler family, masons who worked across central Europe, had a hand in it. The church is Gothic, so the weight is carried on ribs and arches rather than thick walls. That is why the windows can be so tall. It carries the name of Sebaldus, the hermit the town took as its patron."
+      },
       "localizedStory" : {
         "de" : "Sebalder Platz — der Platz an St. Sebald, einer Kirche, die man ab 1225 zu bauen begann.",
         "en" : "Sebalder Platz — the square beside St. Sebald, a church people began building back in 1225."
@@ -16468,9 +16465,14 @@
       "story" : "Sebalder Platz — the square beside St. Sebald, a church people began building back in 1225."
     },
     {
+      "extendedStory" : "The fountain rises about 19 metres above the market. Forty painted figures climb it in four tiers. They set out a whole view of the world. At the bottom are the liberal arts, then evangelists, prince-electors, and Moses with seven prophets. Two of the eight railings hold a ring that turns. One is said to bring luck, and a tale promises children to whoever turns it.",
       "icon" : "choice",
       "id" : "f-schoner-brunnen",
       "kind" : "fountain",
+      "localizedExtendedStory" : {
+        "de" : "Der Brunnen ragt rund 19 Meter über den Markt. Vierzig bemalte Figuren steigen in vier Stockwerken auf. Sie legen ein ganzes Weltbild aus: unten die Freien Künste, dann Evangelisten, Kurfürsten und Moses mit sieben Propheten. In zwei der acht Gitter steckt ein Ring, der sich dreht. Einer gilt als Glücksbringer, und eine Sage verspricht Kindersegen, wer daran dreht.",
+        "en" : "The fountain rises about 19 metres above the market. Forty painted figures climb it in four tiers. They set out a whole view of the world. At the bottom are the liberal arts, then evangelists, prince-electors, and Moses with seven prophets. Two of the eight railings hold a ring that turns. One is said to bring luck, and a tale promises children to whoever turns it."
+      },
       "localizedStory" : {
         "de" : "Halt am Hauptmarkt kurz an und schau nach oben: So ein hohes, spitzes Steintürmchen sprudelt hier schon seit den 1380er-Jahren.",
         "en" : "Hauptmarkt — the market square where the Schöner Brunnen fountain has splashed away since the 1380s."
@@ -16483,9 +16485,14 @@
       "story" : "Hauptmarkt — the market square where the Schöner Brunnen fountain has splashed away since the 1380s."
     },
     {
+      "extendedStory" : "Albrecht Dürer lived and worked in this house from 1509 onwards. It is a big timber-framed house, and it came through the centuries undamaged when much around it did not survive. Of all the artists' houses built in northern Europe in the sixteenth century, this is the only one left.",
       "icon" : "everyday",
       "id" : "f-albrecht-durer-haus",
       "kind" : "museum",
+      "localizedExtendedStory" : {
+        "de" : "Albrecht Dürer wohnte und arbeitete ab 1509 in diesem Haus. Es ist ein mächtiges Fachwerkhaus, und es blieb über die Jahrhunderte unzerstört, während vieles ringsum verschwand. Von allen Künstlerhäusern, die im sechzehnten Jahrhundert in Nordeuropa gebaut wurden, steht nur dieses noch.",
+        "en" : "Albrecht Dürer lived and worked in this house from 1509 onwards. It is a big timber-framed house, and it came through the centuries undamaged when much around it did not survive. Of all the artists' houses built in northern Europe in the sixteenth century, this is the only one left."
+      },
       "localizedStory" : {
         "de" : "Neutormauer — die Gasse am Albrecht-Dürer-Haus, einem Haus, das schon 1826 zu einem Museum zum Besuchen wurde.",
         "en" : "Neutormauer — the lane at the Albrecht-Dürer-Haus, a house that became a museum to visit way back in 1826."
@@ -16498,9 +16505,14 @@
       "story" : "Neutormauer — the lane at the Albrecht-Dürer-Haus, a house that became a museum to visit way back in 1826."
     },
     {
+      "extendedStory" : "Peter Parler was the master mason behind it. The style is Gothic, so look for pointed arches and windows that reach up like fingers. The church is named for Mary, and that name is why people call it the Frauenkirche. It stands right on the market square, so the building and the market have shared this spot for centuries.",
       "icon" : "choice",
       "id" : "f-frauenkirche",
       "kind" : "church",
+      "localizedExtendedStory" : {
+        "de" : "Peter Parler war der Baumeister, der diese Kirche entworfen hat. Der Stil ist gotisch, achte auf die Spitzbögen und die Fenster, die nach oben greifen. Benannt ist sie nach Maria, daher der Name Frauenkirche. Sie steht direkt am Marktplatz, Bau und Markt teilen sich diesen Ort seit Jahrhunderten.",
+        "en" : "Peter Parler was the master mason behind it. The style is Gothic, so look for pointed arches and windows that reach up like fingers. The church is named for Mary, and that name is why people call it the Frauenkirche. It stands right on the market square, so the building and the market have shared this spot for centuries."
+      },
       "localizedStory" : {
         "de" : "Hauptmarkt — schau vom Marktplatz zur Frauenkirche: Diese Kirche wacht hier schon seit 1352 über den Platz.",
         "en" : "Hauptmarkt — face the Frauenkirche from the market square; this church has watched over it since 1352."
@@ -16513,9 +16525,14 @@
       "story" : "Hauptmarkt — face the Frauenkirche from the market square; this church has watched over it since 1352."
     },
     {
+      "extendedStory" : "Look up at the windows: they end in points, and the stone around them is cut as fine as lace. That pointed shape is what Gothic means. One of the masons who worked here was Conrad Roritzer. People kept building on this spot for centuries after 1250, and a long repair wrapped up in 1900.",
       "icon" : "choice",
       "id" : "f-st-lorenz",
       "kind" : "church",
+      "localizedExtendedStory" : {
+        "de" : "Conrad Roritzer gehörte zu den Baumeistern, die diese Kirche über die Jahre formten. Die Gotik zeigt sich in den spitzen Fenstern und im Stein, fein wie Spitze gearbeitet. Ihren Namen hat die Kirche von Laurentius von Rom. Noch Jahrhunderte nach 1250 wurde gebaut, ein langer Umbau endete 1900.",
+        "en" : "Look up at the windows: they end in points, and the stone around them is cut as fine as lace. That pointed shape is what Gothic means. One of the masons who worked here was Conrad Roritzer. People kept building on this spot for centuries after 1250, and a long repair wrapped up in 1900."
+      },
       "localizedStory" : {
         "de" : "Lorenzer Platz — der Platz vor St. Lorenz, einer Kirche, die 80 Meter hoch in den Himmel ragt.",
         "en" : "Stand on Lorenzer Platz and crane your neck — St. Lorenz lifts its towers a full 80 metres up."
@@ -16528,9 +16545,14 @@
       "story" : "Stand on Lorenzer Platz and crane your neck — St. Lorenz lifts its towers a full 80 metres up."
     },
     {
+      "extendedStory" : "This ground was once a place of refuge. Anyone being pursued who reached it stood under the old right of asylum, and no court could touch them here. The strip also divided the burgraves' castle from the emperor's. Today it serves as the castle's terrace, and the roofs of the old town open out below you.",
       "icon" : "everyday",
       "id" : "f-freiung",
       "kind" : "viewpoint",
+      "localizedExtendedStory" : {
+        "de" : "Dieser Boden war einst ein Zufluchtsort. Wer verfolgt wurde und ihn erreichte, stand unter dem alten Asylrecht, und kein Gericht kam hier an ihn heran. Der Streifen trennte auch die Burggrafenburg von der Kaiserburg. Heute dient er als Terrasse der Burg, und unter dir öffnen sich die Dächer der Altstadt.",
+        "en" : "This ground was once a place of refuge. Anyone being pursued who reached it stood under the old right of asylum, and no court could touch them here. The strip also divided the burgraves' castle from the emperor's. Today it serves as the castle's terrace, and the roofs of the old town open out below you."
+      },
       "localizedStory" : {
         "de" : "Freiung — gerade stehst du auf der Freiung selbst, einem der weiten offenen Plätze der Altstadt.",
         "en" : "Freiung — right now you're standing on the Freiung itself, one of the Old Town's wide open squares."
@@ -16543,9 +16565,14 @@
       "story" : "Freiung — right now you're standing on the Freiung itself, one of the Old Town's wide open squares."
     },
     {
+      "extendedStory" : "In the courtyard there is a well, and it goes over 50 metres straight down into solid rock. Someone had to cut all of that by hand. A castle under siege needed water it could reach without going outside, so the well mattered as much as the walls. The round tower beside it is the Sinwellturm, a keep from the thirteenth century.",
       "icon" : "hero",
       "id" : "f-kaiserburg",
       "kind" : "fortress",
+      "localizedExtendedStory" : {
+        "de" : "Im Hof gibt es einen Brunnen, und der reicht über 50 Meter senkrecht in den Fels hinab. Das alles musste von Hand geschlagen werden. Eine belagerte Burg brauchte Wasser, an das sie ohne den Weg nach draußen kam. Der runde Turm daneben ist der Sinwellturm, ein Bergfried aus dem dreizehnten Jahrhundert.",
+        "en" : "In the courtyard there is a well, and it goes over 50 metres straight down into solid rock. Someone had to cut all of that by hand. A castle under siege needed water it could reach without going outside, so the well mattered as much as the walls. The round tower beside it is the Sinwellturm, a keep from the thirteenth century."
+      },
       "localizedStory" : {
         "de" : "Burghof — der Innenhof der Kaiserburg, die oben auf ihrem eigenen Berg thront, 334 Meter über dem Meer.",
         "en" : "Burghof — the courtyard inside Nuremberg's imperial castle, which crowns its own hill, 334 metres above the sea."
@@ -16558,9 +16585,14 @@
       "story" : "Burghof — the courtyard inside Nuremberg's imperial castle, which crowns its own hill, 334 metres above the sea."
     },
     {
+      "extendedStory" : "The tower went up around 1250, on what was then the second-to-last ring of town walls. It worked as a toll post: goods stopped here and someone counted them. Its name comes from white plaster that once covered the brickwork, long since weathered away. The fountain beside it is known to everyone here as the Ehekarussell, the marriage carousel.",
       "icon" : "everyday",
       "id" : "f-weisser-turm",
       "kind" : "gate_tower",
+      "localizedExtendedStory" : {
+        "de" : "Der Turm entstand um 1250, an der damals vorletzten Stadtbefestigung. Er diente als Mautstelle: Hier hielten die Waren an, und jemand zählte sie. Sein Name kommt von weißem Verputz, der einst das Backsteinmauerwerk bedeckte und längst abgewittert ist. Der Brunnen daneben heißt bei allen hier Ehekarussell.",
+        "en" : "The tower went up around 1250, on what was then the second-to-last ring of town walls. It worked as a toll post: goods stopped here and someone counted them. Its name comes from white plaster that once covered the brickwork, long since weathered away. The fountain beside it is known to everyone here as the Ehekarussell, the marriage carousel."
+      },
       "localizedStory" : {
         "de" : "Ludwigsplatz — der Platz am Weißen Turm, einem alten Torturm aus hellem Stein, der 44 Meter in den Himmel ragt.",
         "en" : "Ludwigsplatz — the square beside the Weißer Turm, a white stone gate-tower rising 44 metres into the sky."
@@ -16573,9 +16605,14 @@
       "story" : "Ludwigsplatz — the square beside the Weißer Turm, a white stone gate-tower rising 44 metres into the sky."
     },
     {
+      "extendedStory" : "The city architect Bernhard Solger built the bridge here in 1847. It carries the way over both arms of the Pegnitz, just before they reach the old town. The name arrived later, in 1930. It honours Friedrich Wilhelm von Steuben, who was born in this country and went on to serve as a general in America.",
       "icon" : "everyday",
       "id" : "f-steubenbrucke",
       "kind" : "bridge",
+      "localizedExtendedStory" : {
+        "de" : "Der Stadtbaumeister Bernhard Solger baute die Brücke hier 1847. Sie führt über beide Pegnitzarme, kurz bevor sie die Altstadt erreichen. Der Name kam später, 1930. Er ehrt Friedrich Wilhelm von Steuben, der in diesem Land geboren wurde und später in Amerika als General diente.",
+        "en" : "The city architect Bernhard Solger built the bridge here in 1847. It carries the way over both arms of the Pegnitz, just before they reach the old town. The name arrived later, in 1930. It honours Friedrich Wilhelm von Steuben, who was born in this country and went on to serve as a general in America."
+      },
       "localizedStory" : {
         "de" : "Steubenbrücke — du überquerst gerade die Steubenbrücke, eine Brücke über die Pegnitz. Schau dem Wasser unter dir zu.",
         "en" : "Steubenbrücke — you're crossing the Steubenbrücke, a bridge over the river Pegnitz. Watch the water slide by below."
@@ -16588,9 +16625,14 @@
       "story" : "Steubenbrücke — you're crossing the Steubenbrücke, a bridge over the river Pegnitz. Watch the water slide by below."
     },
     {
+      "extendedStory" : "This is where the town began. The ground here holds its earliest church site and one of its earliest settled quarters, and Nuremberg's earliest monastery stood on it. The church of St. Egidien beside you is baroque, which is unusual here: no other church in the town is. The square keeps the saint's name.",
       "icon" : "everyday",
       "id" : "f-egidienplatz",
       "kind" : "square",
+      "localizedExtendedStory" : {
+        "de" : "Hier fing die Stadt an. Dieser Boden trägt ihren frühesten Kirchenort und eines ihrer frühesten Siedlungsviertel, und Nürnbergs frühestes Kloster stand darauf. Die Kirche St. Egidien neben dir ist barock, was hier ungewöhnlich ist: Keine andere Kirche der Stadt ist es. Der Platz behält den Namen des Heiligen.",
+        "en" : "This is where the town began. The ground here holds its earliest church site and one of its earliest settled quarters, and Nuremberg's earliest monastery stood on it. The church of St. Egidien beside you is baroque, which is unusual here: no other church in the town is. The square keeps the saint's name."
+      },
       "localizedStory" : {
         "de" : "Egidienplatz — hier stehst du auf einem der weiten alten Plätze in Nürnbergs Altstadt.",
         "en" : "Egidienplatz — you're crossing the Egidienplatz, one of the Old Town's open squares."
@@ -16603,9 +16645,14 @@
       "story" : "Egidienplatz — you're crossing the Egidienplatz, one of the Old Town's open squares."
     },
     {
+      "extendedStory" : "The gate was standing by 1386, because the man who locked it was being paid from that year. In 1558 Jörg Unger rebuilt it into the round tower you see, one of four such main towers on the wall. Behind the gate lay the arms yard, where weapons were kept. Since 1971 that yard has held a courtyard of craft workshops instead.",
       "icon" : "everyday",
       "id" : "f-frauentorturm",
       "kind" : "fortress",
+      "localizedExtendedStory" : {
+        "de" : "Das Tor stand 1386, denn der Mann, der es schloss, wurde ab diesem Jahr bezahlt. 1558 baute Jörg Unger es zu dem Rundturm um, den du siehst, einem von vier solchen Haupttürmen der Mauer. Hinter dem Tor lag der Waffenhof, in dem die Waffen lagerten. Seit 1971 steht dort stattdessen ein Hof mit Handwerkswerkstätten.",
+        "en" : "The gate was standing by 1386, because the man who locked it was being paid from that year. In 1558 Jörg Unger rebuilt it into the round tower you see, one of four such main towers on the wall. Behind the gate lay the arms yard, where weapons were kept. Since 1971 that yard has held a courtyard of craft workshops instead."
+      },
       "localizedStory" : {
         "de" : "Königs- und Frauentorzwinger — schau nach oben zum Frauentorturm, einem der Türme der alten Stadtmauer.",
         "en" : "Königs- und Frauentorzwinger — look up for the Frauentorturm, one of the towers of the Old Town wall."
@@ -16618,9 +16665,14 @@
       "story" : "Königs- und Frauentorzwinger — look up for the Frauentorturm, one of the towers of the Old Town wall."
     },
     {
+      "extendedStory" : "Paul and Wally Schmidt started this in 1983, travelling from place to place with puppets. In 1997 they settled into a former cinema and stopped touring. It is the town's permanent home for puppet theatre, with room for 120 people. Figures on strings and rods play here for children and for grown-ups.",
       "icon" : "everyday",
       "id" : "f-salz-pfeffer",
       "kind" : "theatre",
+      "localizedExtendedStory" : {
+        "de" : "Paul und Wally Schmidt fingen 1983 damit an und zogen mit Figuren von Ort zu Ort. 1997 richteten sie sich in einem ehemaligen Kino ein und hörten auf zu reisen. Es ist das feste Haus der Stadt für Figurentheater, mit Platz für 120 Leute. Figuren an Fäden und Stäben spielen hier für Kinder und für Erwachsene.",
+        "en" : "Paul and Wally Schmidt started this in 1983, travelling from place to place with puppets. In 1997 they settled into a former cinema and stopped touring. It is the town's permanent home for puppet theatre, with room for 120 people. Figures on strings and rods play here for children and for grown-ups."
+      },
       "localizedStory" : {
         "de" : "Frauentorgraben — hier entlang liegt das Salz+Pfeffer, eine kleine Bühne, deren Name einfach 'Salz und Pfeffer' bedeutet.",
         "en" : "Frauentorgraben — along here is Salz+Pfeffer, a little stage whose name simply means 'salt and pepper'."
@@ -16633,9 +16685,14 @@
       "story" : "Frauentorgraben — along here is Salz+Pfeffer, a little stage whose name simply means 'salt and pepper'."
     },
     {
+      "extendedStory" : "Baron Hans von und zu Aufseß founded the museum in 1852. Five years later it moved into a late-medieval charterhouse, where monks had once lived in silence. The collection has grown to around 1.3 million objects. About 25,000 are on show at any time, so the rest waits in store.",
       "icon" : "choice",
       "id" : "f-germanisches-nationalmuseum",
       "kind" : "museum",
+      "localizedExtendedStory" : {
+        "de" : "Freiherr Hans von und zu Aufseß begründete das Museum 1852. Fünf Jahre später zog es in eine spätmittelalterliche Kartause, in der einst Mönche schweigend lebten. Die Sammlung zählt heute etwa 1,3 Millionen Stücke. Gezeigt werden davon rund 25.000, alles Übrige wartet im Depot.",
+        "en" : "Baron Hans von und zu Aufseß founded the museum in 1852. Five years later it moved into a late-medieval charterhouse, where monks had once lived in silence. The collection has grown to around 1.3 million objects. About 25,000 are on show at any time, so the rest waits in store."
+      },
       "localizedStory" : {
         "de" : "Kartäusergasse — die Gasse am Germanischen Nationalmuseum, einem Museum zum Durchstreifen, eröffnet 1852.",
         "en" : "Kartäusergasse — the lane beside the Germanisches Nationalmuseum, a museum you can wander through, opened in 1852."
@@ -16648,9 +16705,14 @@
       "story" : "Kartäusergasse — the lane beside the Germanisches Nationalmuseum, a museum you can wander through, opened in 1852."
     },
     {
+      "extendedStory" : "The Tucher family built this between 1533 and 1544. They were merchants, and this was not their town house. It went up as a garden estate for summer parties, a place to bring guests. Nobody lived here through the year. It still keeps the family's furniture, tapestries and paintings, from the 15th century through to the 19th.",
       "icon" : "everyday",
       "id" : "f-tucherschloss",
       "kind" : "fortress",
+      "localizedExtendedStory" : {
+        "de" : "Die Familie Tucher baute dies zwischen 1533 und 1544. Sie waren Kaufleute, und dies war nicht ihr Stadthaus. Es entstand als Gartengut für Sommerfeste, ein Ort, an den man Gäste brachte. Das ganze Jahr über wohnte hier niemand. Bis heute bewahrt es Möbel, Tapisserien und Gemälde der Familie, vom 15. bis ins 19. Jahrhundert.",
+        "en" : "The Tucher family built this between 1533 and 1544. They were merchants, and this was not their town house. It went up as a garden estate for summer parties, a place to bring guests. Nobody lived here through the year. It still keeps the family's furniture, tapestries and paintings, from the 15th century through to the 19th."
+      },
       "localizedStory" : {
         "de" : "Hirschelgasse — die Gasse am Tucherschloss, einem stattlichen Herrenhaus der Kaufmannsfamilie Tucher, heute ein kleines Museum zum Hineingehen.",
         "en" : "Hirschelgasse — the lane at the Tucherschloss, a grand mansion the Tucher merchant family built, now a little museum to step into."
@@ -16663,7 +16725,7 @@
       "story" : "Hirschelgasse — the lane at the Tucherschloss, a grand mansion the Tucher merchant family built, now a little museum to step into."
     }
   ],
-  "generatedAt" : "2026-07-27T09:24:03Z",
+  "generatedAt" : "2026-07-27T17:15:03Z",
   "icon" : {
     "paths" : [
       "m 43.0 37.0 l 14.0 0.0 l 1.0 15.0 l -3.0 16.0 l -10.0 0.0 l -3.0 -16.0 z m 2.0 -33.0 l 12.0 0.0 l 4.0 7.0 l -4.0 9.0 l -12.0 0.0 l -4.0 -9.0 z m 1.0 5.0 l -12.0 -4.0 l 12.0 -4.0 z m 6.0 30.0 l -18.0 4.0 l 5.0 -7.0 l -13.0 -1.0 l 5.0 -7.0 l -11.0 -2.0 l -8.0 -12.0 l 39.0 11.0 z m 8.0 0.0 l 39.0 -11.0 l -8.0 12.0 l -11.0 2.0 l 5.0 7.0 l -13.0 1.0 l 5.0 7.0 l -18.0 -4.0 z m 4.0 13.0 l 8.0 26.0 l -10.0 -11.0 l -5.0 13.0 l -5.0 -13.0 l -10.0 11.0 l 8.0 -26.0 z"
@@ -16676,7 +16738,7 @@
     "en" : "Nuremberg"
   },
   "name" : "Nuremberg",
-  "packVersion" : 16,
+  "packVersion" : 20,
   "schemaVersion" : 1,
   "source" : "OpenStreetMap via Overpass API",
   "stats" : {

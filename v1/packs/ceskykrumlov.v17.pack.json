@@ -83,11 +83,9 @@
 
     ],
     "adjustedStreets" : [
-      "Hradní",
-      "Latrán",
-      "Rybářská"
+
     ],
-    "fromVersion" : 10,
+    "fromVersion" : 16,
     "removedStreets" : [
 
     ]
@@ -4601,9 +4599,14 @@
   ],
   "fruits" : [
     {
+      "extendedStory" : "The yard began as a widow's house, built in 1546 for Anna of Rogendorf. She was the mother of William of Rosenberg. At the end of that century Peter Vok of Rosenberg put an armoury on the site. Between 1625 and 1630 the buildings were remade for the work that still goes on here. The same walls have held a home, a store of weapons and a workplace in turn.",
       "icon" : "choice",
       "id" : "f-pivovar-eggenberg",
       "kind" : "food_landmark",
+      "localizedExtendedStory" : {
+        "de" : "Der Hof begann als Witwenhaus, 1546 für Anna von Rogendorf erbaut. Sie war die Mutter Wilhelms von Rosenberg. Am Ende desselben Jahrhunderts ließ Peter Wok von Rosenberg hier ein Zeughaus errichten. Zwischen 1625 und 1630 baute man die Gebäude für die Arbeit um, die hier bis heute läuft. Dieselben Mauern trugen nacheinander ein Zuhause, ein Waffenlager und eine Werkstatt.",
+        "en" : "The yard began as a widow's house, built in 1546 for Anna of Rogendorf. She was the mother of William of Rosenberg. At the end of that century Peter Vok of Rosenberg put an armoury on the site. Between 1625 and 1630 the buildings were remade for the work that still goes on here. The same walls have held a home, a store of weapons and a workplace in turn."
+      },
       "localizedStory" : {
         "de" : "Die Náplavka Miroslava Párala führt am Pivovar Eggenberg vorbei, gegründet 1560. Seit über vierhundert Jahren wird hier dasselbe Handwerk ausgeübt.",
         "en" : "Náplavka Miroslava Párala runs past Pivovar Eggenberg, founded in 1560. The same trade has gone on here for over four hundred years."
@@ -4656,9 +4659,14 @@
       "story" : "Zámek means 'castle street', and it climbs to exactly that: the castle Witiko II began around 1300."
     },
     {
+      "extendedStory" : "The name comes from a bath-house that stood next door, at Latrán number one. Before this bridge there was a footbridge, and in 1830 ice floes on the river wrecked it. The stone bridge you are standing on was built to replace it. Two stone abutments carry it, with a single pier out in midstream. A figure of St John of Nepomuk and a cross keep watch from the middle.",
       "icon" : "everyday",
       "id" : "f-lazebnicky-most",
       "kind" : "bridge",
+      "localizedExtendedStory" : {
+        "de" : "Der Name kommt von einer Badestube, die nebenan stand, im Haus Latrán Nummer eins. Vor dieser Brücke gab es einen Steg, den 1830 Eisschollen zerstörten. Die steinerne Brücke, auf der du stehst, wurde als Ersatz gebaut. Zwei steinerne Widerlager tragen sie, dazu ein Pfeiler mitten im Fluss. Eine Figur des heiligen Johannes von Nepomuk und ein Kreuz wachen von der Mitte.",
+        "en" : "The name comes from a bath-house that stood next door, at Latrán number one. Before this bridge there was a footbridge, and in 1830 ice floes on the river wrecked it. The stone bridge you are standing on was built to replace it. Two stone abutments carry it, with a single pier out in midstream. A figure of St John of Nepomuk and a cross keep watch from the middle."
+      },
       "localizedStory" : {
         "de" : "Die Baderbrücke über die Moldau — geh hier hinüber, und du bist in Krumaus Altstadt.",
         "en" : "The Barber's Bridge over the Vltava — cross here and you're in Krumlov's Old Town."
@@ -4671,9 +4679,14 @@
       "story" : "The Barber's Bridge over the Vltava — cross here and you're in Krumlov's Old Town."
     },
     {
+      "extendedStory" : "The townspeople built this house for themselves in 1605, in Široká street at number 71. It belonged to the town rather than to the lords up at the castle. Work began again after 1945, then stopped for good in January 1949. The doors stayed shut for more than forty years. What goes on inside today was started fresh in 1992.",
       "icon" : "everyday",
       "id" : "f-mestsky-pivovar",
       "kind" : "attraction",
+      "localizedExtendedStory" : {
+        "de" : "Die Bürger bauten sich dieses Haus 1605, in der Straße Široká, Nummer 71. Es gehörte der Stadt und nicht den Herren oben auf dem Schloss. Nach 1945 lief die Arbeit wieder an, endete aber im Januar 1949 endgültig. Über vierzig Jahre blieben die Türen zu. Was heute darin geschieht, begann 1992 neu.",
+        "en" : "The townspeople built this house for themselves in 1605, in Široká street at number 71. It belonged to the town rather than to the lords up at the castle. Work began again after 1945, then stopped for good in January 1949. The doors stayed shut for more than forty years. What goes on inside today was started fresh in 1992."
+      },
       "localizedStory" : {
         "de" : "Gleich an der Hradební liegt der Městský pivovar, der städtische Betrieb. Die Arbeit an dieser Stelle reicht bis 1605 zurück, das heutige Unternehmen bis 1992.",
         "en" : "Just off Hradební sits Městský pivovar, the town's own. Work here goes back to 1605, and the present business dates from 1992."
@@ -4686,24 +4699,14 @@
       "story" : "Just off Hradební sits Městský pivovar, the town's own. Work here goes back to 1605, and the present business dates from 1992."
     },
     {
-      "icon" : "everyday",
-      "id" : "f-regionalni-muzeum-v-ceskem-krumlove",
-      "kind" : "museum",
-      "localizedStory" : {
-        "de" : "An der Horní steht das Regionální muzeum, das Regionalmuseum von Krumau — voller Dinge aus der Vergangenheit der Stadt zum Anschauen.",
-        "en" : "On Horní stands the Regionální muzeum, Krumlov's regional museum — full of things from the town's past to look at."
-      },
-      "name" : "Regionální muzeum v Českém Krumlově",
-      "pos" : [
-        48.810687,
-        14.317792
-      ],
-      "story" : "On Horní stands the Regionální muzeum, Krumlov's regional museum — full of things from the town's past to look at."
-    },
-    {
+      "extendedStory" : "This crossing dates from the 1930s. A granite plaque is still set into it. It names the bridge for president Edvard Beneš, as it was named at the start. That plaque came through the rebuilding of October 2024 to May 2025. The work cost 42 million crowns. The bridge is meant to carry another hundred years of coming and going.",
       "icon" : "everyday",
       "id" : "f-most-dr-e-benese",
       "kind" : "bridge",
+      "localizedExtendedStory" : {
+        "de" : "Der Übergang stammt aus den 1930er Jahren. Eine Granittafel steckt noch immer in ihm. Sie nennt die Brücke nach Präsident Edvard Beneš, so wie sie am Anfang hieß. Diese Tafel überstand den Umbau von Oktober 2024 bis Mai 2025. Die Arbeiten kosteten 42 Millionen Kronen. Die Brücke soll weitere hundert Jahre Kommen und Gehen tragen.",
+        "en" : "This crossing dates from the 1930s. A granite plaque is still set into it. It names the bridge for president Edvard Beneš, as it was named at the start. That plaque came through the rebuilding of October 2024 to May 2025. The work cost 42 million crowns. The bridge is meant to carry another hundred years of coming and going."
+      },
       "localizedStory" : {
         "de" : "Die Dr.-E.-Beneš-Brücke führt über die Moldau. Von hier sind es nur ein paar Minuten zur Kirche svatý Vít.",
         "en" : "The Dr. E. Beneš Bridge crosses the Vltava. Walk on and the church of svatý Vít is a couple of minutes away."
@@ -4716,9 +4719,14 @@
       "story" : "The Dr. E. Beneš Bridge crosses the Vltava. Walk on and the church of svatý Vít is a couple of minutes away."
     },
     {
+      "extendedStory" : "A ditch used to cut across here, crossed by a footbridge with a drawbridge. The bridge that replaced it went up a stage at a time, from 1686 to 1765. It stands on three tiers of arches, with one open level carrying sculpture and three closed ones above. Four saints in stone watch from the parapet.",
       "icon" : "choice",
       "id" : "f-plastovy-most",
       "kind" : "bridge",
+      "localizedExtendedStory" : {
+        "de" : "Früher lief hier ein Graben, überquert von einem Steg mit Zugbrücke. Die Brücke, die ihn ersetzte, entstand Abschnitt für Abschnitt, von 1686 bis 1765. Sie ruht auf drei Reihen von Bögen, darüber ein offenes Geschoss mit Figuren und drei geschlossene. Vier steinerne Heilige schauen vom Geländer herab.",
+        "en" : "A ditch used to cut across here, crossed by a footbridge with a drawbridge. The bridge that replaced it went up a stage at a time, from 1686 to 1765. It stands on three tiers of arches, with one open level carrying sculpture and three closed ones above. Four saints in stone watch from the parapet."
+      },
       "localizedStory" : {
         "de" : "Die überdachte 'Mantelbrücke' hoch auf steinernen Bögen brachte die Herren vom Schloss direkt zu Theater und Gärten.",
         "en" : "A covered 'Cloak Bridge' high on stone arches carried the lords straight from the castle to their theatre and gardens."
@@ -4729,9 +4737,29 @@
         14.312969
       ],
       "story" : "A covered 'Cloak Bridge' high on stone arches carried the lords straight from the castle to their theatre and gardens."
+    },
+    {
+      "extendedStory" : "The museum looks after 22,000 registered objects from the town's past. The exhibit people remember is a ceramic model of the whole town. It lays out the historic centre, roof by roof, so you can find every street you have already walked. Look for your own route across it, and see how far you have come.",
+      "icon" : "everyday",
+      "id" : "f-regionalni-muzeum-v-ceskem-krumlove",
+      "kind" : "museum",
+      "localizedExtendedStory" : {
+        "de" : "Das Museum betreut über zwanzigtausend verzeichnete Objekte aus der Geschichte der Stadt. Am besten merkt man sich das Keramikmodell der Stadt. Es zeigt die ganze Altstadt, Dach für Dach, sodass du die Gassen wiederfindest, die du schon gegangen bist. Such deinen eigenen Weg darauf.",
+        "en" : "The museum looks after 22,000 registered objects from the town's past. The exhibit people remember is a ceramic model of the whole town. It lays out the historic centre, roof by roof, so you can find every street you have already walked. Look for your own route across it, and see how far you have come."
+      },
+      "localizedStory" : {
+        "de" : "An der Horní steht das Regionální muzeum, das Regionalmuseum von Krumau — voller Dinge aus der Vergangenheit der Stadt zum Anschauen.",
+        "en" : "On Horní stands the Regionální muzeum, Krumlov's regional museum — full of things from the town's past to look at."
+      },
+      "name" : "Regionální muzeum v Českém Krumlově",
+      "pos" : [
+        48.810687,
+        14.317792
+      ],
+      "story" : "On Horní stands the Regionální muzeum, Krumlov's regional museum — full of things from the town's past to look at."
     }
   ],
-  "generatedAt" : "2026-07-26T18:51:44Z",
+  "generatedAt" : "2026-07-27T17:00:08Z",
   "icon" : {
     "paths" : [
       "m50 45c-15 -11 -25 -40 0 -40c25 0 15 29 0 40zm4.76 3.45c5.83 -17.67 30.32 -36.14 38.04 -12.36c7.73 23.78 -22.95 23.23 -38.04 12.36zm-1.82 5.59c18.6 0.08 43.74 17.67 23.51 32.36c-20.23 14.69 -29.18 -14.64 -23.51 -32.36zm-5.88 0c5.67 17.72 -3.29 47.06 -23.51 32.36c-20.23 -14.69 4.91 -32.28 23.51 -32.36zm-1.82 -5.59c-15.1 10.87 -45.77 11.42 -38.04 -12.36c7.73 -23.78 32.22 -5.3 38.04 12.36zm18.61 -8.17l6.72 -18.6l-15.62 12.14zm-0.34 19.89l19.77 0.64l-16.37 -11.1zm-19.02 5.82l5.5 19l5.5 -19zm-11.42 -16.29l-16.37 11.1l19.77 -0.64zm11.96 -15.89l-15.62 -12.14l6.72 18.6zm17.95 16.18c0 7.18 -5.82 13 -13 13c-7.18 0 -13 -5.82 -13 -13c0 -7.18 5.82 -13 13 -13c7.18 0 13 5.82 13 13zm-7 0c0 -3.31 -2.69 -6 -6 -6c-3.31 0 -6 2.69 -6 6c0 3.31 2.69 6 6 6c3.31 0 6 -2.69 6 -6z"
@@ -4745,7 +4773,7 @@
     "en" : "Český Krumlov"
   },
   "name" : "Český Krumlov",
-  "packVersion" : 11,
+  "packVersion" : 17,
   "schemaVersion" : 1,
   "source" : "OpenStreetMap via Overpass API",
   "stats" : {

@@ -303,16 +303,9 @@
 
     ],
     "adjustedStreets" : [
-      "Bartolomějská",
-      "Dušní",
-      "Haštalská",
-      "Jilská",
-      "Karlova",
-      "Na Kampě",
-      "Pařížská",
-      "U Sovových mlýnů"
+
     ],
-    "fromVersion" : 11,
+    "fromVersion" : 16,
     "removedStreets" : [
 
     ]
@@ -29404,24 +29397,24 @@
   ],
   "fruits" : [
     {
-      "extendedStory" : "This is the Old Town clock, built by Mikuláš of Kadaň in 1410. Every hour its little windows open, and twelve wooden apostles glide past, one after another. People have gathered in the square below to watch them for a very long time. In the fire of May 1945, the carved figures were lost. But a woodcarver named Vojtěch Sucharda made them all again by 1948, so the apostles still take their turn today.",
+      "extendedStory" : "Mikuláš of Kadaň built the clock, and more than once it has needed mending. There was already a repair in 1552. The twelve carved apostles were lost in the fire of May 1945. A woodcarver named Vojtěch Sucharda carved all twelve again, and finished them in 1948. So the apostles you watch on the hour are his.",
       "icon" : "hero",
       "id" : "f-staromestsky-orloj",
       "kind" : "attraction",
       "localizedExtendedStory" : {
-        "de" : "Das ist die Altstädter Uhr, gebaut von Mikuláš von Kadaň im Jahr 1410. Jede volle Stunde öffnen sich ihre kleinen Fenster, und zwölf hölzerne Apostel ziehen vorbei, einer nach dem anderen. Auf dem Platz darunter schauen die Menschen ihnen schon sehr lange zu. Beim Brand vom Mai 1945 gingen die geschnitzten Figuren verloren. Doch ein Holzschnitzer namens Vojtěch Sucharda machte sie bis 1948 alle neu, und so nehmen die Apostel bis heute ihren Lauf.",
-        "en" : "This is the Old Town clock, built by Mikuláš of Kadaň in 1410. Every hour its little windows open, and twelve wooden apostles glide past, one after another. People have gathered in the square below to watch them for a very long time. In the fire of May 1945, the carved figures were lost. But a woodcarver named Vojtěch Sucharda made them all again by 1948, so the apostles still take their turn today."
+        "de" : "Mikuláš von Kadaň baute die Uhr, und mehr als einmal musste sie ausgebessert werden. Schon 1552 wurde an ihr repariert. Beim Brand vom Mai 1945 gingen die zwölf geschnitzten Apostel verloren. Ein Holzschnitzer namens Vojtěch Sucharda schnitzte alle zwölf neu und wurde 1948 fertig. Die Apostel, denen du zur vollen Stunde zuschaust, sind seine.",
+        "en" : "Mikuláš of Kadaň built the clock, and more than once it has needed mending. There was already a repair in 1552. The twelve carved apostles were lost in the fire of May 1945. A woodcarver named Vojtěch Sucharda carved all twelve again, and finished them in 1948. So the apostles you watch on the hour are his."
       },
       "localizedStory" : {
-        "de" : "Diese astronomische Uhr am Altstädter Rathaus zeigt schon seit 1410 die Zeit — über sechshundert Jahre alt.",
-        "en" : "An astronomical clock from 1410 still marks the hours on the Old Town Hall — over six centuries old."
+        "de" : "Warte auf die volle Stunde. Zwölf Apostel ziehen an den Fenstern der Uhr vorbei, so wie schon seit 1410.",
+        "en" : "Watch the clock's windows on the hour. Twelve apostles appear, one by one, just as they have since 1410."
       },
       "name" : "Staroměstský orloj",
       "pos" : [
         50.08698,
         14.420714
       ],
-      "story" : "An astronomical clock from 1410 still marks the hours on the Old Town Hall — over six centuries old."
+      "story" : "Watch the clock's windows on the hour. Twelve apostles appear, one by one, just as they have since 1410."
     },
     {
       "extendedStory" : "You are crossing the Vltava, and the stones under your feet were set in 1357. Peter Parler designed this bridge, arch by arch. It opened in 1402, and people have crossed it ever since. Charles the Fourth was the king who wanted it built, and the bridge still carries his name. Look down at the water and imagine all the feet that walked here before yours.",
@@ -29484,13 +29477,13 @@
       "story" : "Guarding the eastern end of Charles Bridge, this Gothic tower rose from a design by Petr Parléř."
     },
     {
-      "extendedStory" : "Long ago this square was the Horse Market, where people came to trade real horses. Today one horse still stands here, but it is made of bronze. At the top of the square, in front of the National Museum, a knight rides high on his mount. He is St Wenceslas, and his statue was set here in 1912. The whole square was laid out in 1348, when Charles the Fourth founded the New Town. Look up the long slope and find the rider.",
+      "extendedStory" : "Today one horse still stands here, and it is made of bronze. At the top of the square, in front of the National Museum, a knight rides high on his mount. He is St Wenceslas, and his statue was set here in 1912. The square was laid out in 1348, when Charles the Fourth founded the New Town. It runs 750 metres from end to end, so look up the long slope to find the rider.",
       "icon" : "choice",
       "id" : "f-vaclavske-namesti",
       "kind" : "square",
       "localizedExtendedStory" : {
-        "de" : "Vor langer Zeit war dieser Platz der Rossmarkt. Hier kamen die Leute, um echte Pferde zu handeln. Heute steht nur noch ein Pferd hier, und das ist aus Bronze. Ganz oben am Platz, vor dem Nationalmuseum, sitzt ein Ritter hoch zu Ross. Es ist der heilige Wenzel, und sein Standbild kam 1912 hierher. Der ganze Platz entstand schon 1348, als Karl der Vierte die Neustadt gründete. Schau den langen Hang hinauf und finde den Reiter.",
-        "en" : "Long ago this square was the Horse Market, where people came to trade real horses. Today one horse still stands here, but it is made of bronze. At the top of the square, in front of the National Museum, a knight rides high on his mount. He is St Wenceslas, and his statue was set here in 1912. The whole square was laid out in 1348, when Charles the Fourth founded the New Town. Look up the long slope and find the rider."
+        "de" : "Heute steht hier nur noch ein Pferd, und das ist aus Bronze. Ganz oben am Platz, vor dem Nationalmuseum, sitzt ein Ritter hoch zu Ross. Es ist der heilige Wenzel, und sein Standbild kam 1912 hierher. Der Platz entstand 1348, als Karl der Vierte die Neustadt gründete. Er misst 750 Meter, also schau den langen Hang hinauf und finde den Reiter.",
+        "en" : "Today one horse still stands here, and it is made of bronze. At the top of the square, in front of the National Museum, a knight rides high on his mount. He is St Wenceslas, and his statue was set here in 1912. The square was laid out in 1348, when Charles the Fourth founded the New Town. It runs 750 metres from end to end, so look up the long slope to find the rider."
       },
       "localizedStory" : {
         "de" : "Vor langer Zeit war dieser Platz der Rossmarkt. Hier wurden echte Pferde gehandelt.",
@@ -29502,21 +29495,6 @@
         14.427081
       ],
       "story" : "Long ago this square was the Horse Market. Real horses were traded right where you walk."
-    },
-    {
-      "icon" : "everyday",
-      "id" : "f-krannerova-kasna",
-      "kind" : "fountain",
-      "localizedStory" : {
-        "de" : "Ein Steinbrunnen am Fluss, entworfen von Josef Andreas Kranner und 1850 erbaut. Lausche seinem plätschernden Wasser.",
-        "en" : "A stone fountain beside the river, designed by Josef Andreas Kranner and built in 1850. Listen for its splashing water."
-      },
-      "name" : "Krannerova kašna",
-      "pos" : [
-        50.082943,
-        14.413326
-      ],
-      "story" : "A stone fountain beside the river, designed by Josef Andreas Kranner and built in 1850. Listen for its splashing water."
     },
     {
       "extendedStory" : "This is a synagogue, a house of prayer for Jewish families. People call it the Spanish Synagogue, but no Spanish community ever worshipped here. The name comes from the walls. Every surface is covered in swirling patterns, copied from the Alhambra, a grand palace in Spain. An architect named Vojtěch Ignác Ullmann designed it, and it was finished in 1868. Step inside and you feel like you have travelled far south.",
@@ -29539,6 +29517,26 @@
       "story" : "Look at the walls: swirling patterns everywhere. They copy a palace in Spain called the Alhambra. That is why people call it the Spanish Synagogue."
     },
     {
+      "extendedStory" : "Look at the ring of stone figures around the base. They stand for the regions of Bohemia as they were then, and for Prague itself. Higher up are figures for peace and plenty, and for science, art, trade, ploughing and mining. The bronze rider in the middle went away to a museum store in June 1919. A copy was lifted back into place on 29 August 2003.",
+      "icon" : "everyday",
+      "id" : "f-krannerova-kasna",
+      "kind" : "fountain",
+      "localizedExtendedStory" : {
+        "de" : "Schau dir den Kranz steinerner Figuren am Sockel an. Sie stehen für die böhmischen Kreise von damals und für Prag selbst. Weiter oben stehen Figuren für Frieden und Fülle, für Wissenschaft, Kunst, Handel, Ackerbau und Bergbau. Der bronzene Reiter in der Mitte kam im Juni 1919 in ein Museumsdepot. Am 29. August 2003 hob man eine Kopie zurück an seinen Platz.",
+        "en" : "Look at the ring of stone figures around the base. They stand for the regions of Bohemia as they were then, and for Prague itself. Higher up are figures for peace and plenty, and for science, art, trade, ploughing and mining. The bronze rider in the middle went away to a museum store in June 1919. A copy was lifted back into place on 29 August 2003."
+      },
+      "localizedStory" : {
+        "de" : "Ein Steinbrunnen am Fluss, entworfen von Josef Andreas Kranner und 1850 erbaut. Lausche seinem plätschernden Wasser.",
+        "en" : "A stone fountain beside the river, designed by Josef Andreas Kranner and built in 1850. Listen for its splashing water."
+      },
+      "name" : "Krannerova kašna",
+      "pos" : [
+        50.082943,
+        14.413326
+      ],
+      "story" : "A stone fountain beside the river, designed by Josef Andreas Kranner and built in 1850. Listen for its splashing water."
+    },
+    {
       "extendedStory" : "This wide square is named for a student, Jan Palach. Two grand buildings stand beside it. One is the university's Faculty of Arts, where students come to study. The other is the Rudolfinum, a concert hall. Inside, the Czech Philharmonic fills it with music. This orchestra has played in that hall since 1896. Stand still on the square, and you might hear the music drift out through the doors.",
       "icon" : "everyday",
       "id" : "f-namesti-jana-palacha",
@@ -29559,9 +29557,14 @@
       "story" : "The Rudolfinum concert hall stands on this square. Inside, the Czech Philharmonic plays, an orchestra that has played here since 1896."
     },
     {
+      "extendedStory" : "The church beside you turns up in writing as early as 1234. For centuries nobody called this a square. People said they were going to St Castulus, and later they called it the little Haštal place. Street and square did not take separate names until 1928. A burial ground lay around the church until 1784, and it was closed for good in 1832.",
       "icon" : "everyday",
       "id" : "f-hastalske-namesti",
       "kind" : "square",
+      "localizedExtendedStory" : {
+        "de" : "Die Kirche neben dir taucht schon 1234 in Schriften auf. Jahrhundertelang nannte hier niemand den Ort einen Platz. Man ging zum heiligen Haštal, später hieß es der Haštalský plácek. Erst 1928 bekamen Straße und Platz getrennte Namen. Rings um die Kirche lag bis 1784 ein Friedhof, 1832 wurde er endgültig aufgelassen.",
+        "en" : "The church beside you turns up in writing as early as 1234. For centuries nobody called this a square. People said they were going to St Castulus, and later they called it the little Haštal place. Street and square did not take separate names until 1928. A burial ground lay around the church until 1784, and it was closed for good in 1832."
+      },
       "localizedStory" : {
         "de" : "Der Platz trägt den Namen der Kastuluskirche gleich nebenan. Findet die gotische Kirche - ihre Spitzbögen stammen aus dem 14. Jahrhundert.",
         "en" : "This square is named for St Castulus church right beside it. Find the Gothic church - its pointed arches date from the 14th century."
@@ -29574,7 +29577,7 @@
       "story" : "This square is named for St Castulus church right beside it. Find the Gothic church - its pointed arches date from the 14th century."
     }
   ],
-  "generatedAt" : "2026-07-27T09:23:59Z",
+  "generatedAt" : "2026-07-28T14:00:44Z",
   "icon" : {
     "paths" : [
       "M8 90 L8 30 L16 30 L16 38 L22 38 L22 30 L30 30 L30 52 L38 52 L38 16 L47 16 L47 26 L53 26 L53 16 L62 16 L62 52 L70 52 L70 30 L78 30 L78 38 L84 38 L84 30 L92 30 L92 90 Z M42 90 L58 90 L58 66 C58 60 42 60 42 66 Z"
@@ -29588,7 +29591,7 @@
     "en" : "Prague"
   },
   "name" : "Prague",
-  "packVersion" : 12,
+  "packVersion" : 17,
   "schemaVersion" : 1,
   "source" : "OpenStreetMap via Overpass API",
   "stats" : {

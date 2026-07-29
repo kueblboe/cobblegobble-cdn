@@ -255,10 +255,9 @@
 
     ],
     "adjustedStreets" : [
-      "Passage de l'Argue",
-      "Passerelle Pierre Truche"
+
     ],
-    "fromVersion" : 4,
+    "fromVersion" : 7,
     "removedStreets" : [
 
     ]
@@ -49758,21 +49757,6 @@
   ],
   "fruits" : [
     {
-      "icon" : "everyday",
-      "id" : "f-vue-sous-terraine-du-parking-des-celestins",
-      "kind" : "viewpoint",
-      "localizedStory" : {
-        "de" : "Blick durch das Periskop auf dem Platz, und du erspähst Daniel Burens Kunstwerk 'Sens dessus dessous' in der Tiefgarage darunter.",
-        "en" : "Peer down the periscope from the square and glimpse Daniel Buren's artwork 'Sens dessus dessous' in the car park hidden below."
-      },
-      "name" : "Vue sous-terraine du Parking des Célestins",
-      "pos" : [
-        45.759616,
-        4.831812
-      ],
-      "story" : "Peer down the periscope from the square and glimpse Daniel Buren's artwork 'Sens dessus dessous' in the car park hidden below."
-    },
-    {
       "extendedStory" : "Step out here and the ground simply opens. At 62,000 square metres this is the largest square in Lyon, a vast field of stone with little to interrupt it. All that space makes it the city's natural meeting place. The equestrian king at the centre serves as the landmark everyone steers toward.",
       "icon" : "choice",
       "id" : "f-place-bellecour",
@@ -49791,36 +49775,6 @@
         4.832034
       ],
       "story" : "At its centre stands an equestrian statue of Louis XIV, the king cast on horseback as a Roman emperor."
-    },
-    {
-      "icon" : "choice",
-      "id" : "f-fontaine-bartholdi",
-      "kind" : "fountain",
-      "localizedStory" : {
-        "de" : "Rund 6 Meter hoch steht dieser Brunnen auf der Place des Terreaux und trägt den Namen seines Bildhauers Frédéric-Auguste Bartholdi.",
-        "en" : "Standing about 6 metres tall on the Place des Terreaux, this fountain carries the name of its sculptor, Frédéric Auguste Bartholdi."
-      },
-      "name" : "Fontaine Bartholdi",
-      "pos" : [
-        45.767631,
-        4.833461
-      ],
-      "story" : "Standing about 6 metres tall on the Place des Terreaux, this fountain carries the name of its sculptor, Frédéric Auguste Bartholdi."
-    },
-    {
-      "icon" : "everyday",
-      "id" : "f-pont-de-la-feuillee",
-      "kind" : "bridge",
-      "localizedStory" : {
-        "de" : "Von René Dardel entworfen, wurde diese Brücke 1949 begonnen und 1950 eröffnet.",
-        "en" : "Designed by René Dardel, this bridge was started in 1949 and opened in 1950."
-      },
-      "name" : "Pont de la Feuillée",
-      "pos" : [
-        45.766515,
-        4.829439
-      ],
-      "story" : "Designed by René Dardel, this bridge was started in 1949 and opened in 1950."
     },
     {
       "extendedStory" : "Work on this cathedral began in 1175, yet it was not opened until 1480. Long lifetimes of masons passed while it slowly rose. Its builder was Jacques de Beaujeu, and its early parts follow the Romanesque manner. That is the rounded-arch style of its early years, still visible low in the walls.",
@@ -49843,6 +49797,66 @@
       "story" : "Rising about 44 metres over the Old Town, this cathedral is dedicated to John the Baptist."
     },
     {
+      "extendedStory" : "Daniel Buren's piece went in on 20 November 1994, and it was made to stay. The car park it lives in was built by the architects Targe and Wilmotte. So the artwork and the building were thought about together, which almost never happens with a car park. Put your eye to the periscope on the square and the whole thing opens up beneath you.",
+      "icon" : "everyday",
+      "id" : "f-vue-sous-terraine-du-parking-des-celestins",
+      "kind" : "viewpoint",
+      "localizedExtendedStory" : {
+        "de" : "Daniel Burens Werk kam am 20. November 1994 an seinen Platz und sollte dort bleiben. Die Tiefgarage, in der es steckt, bauten die Architekten Targe und Wilmotte. Kunstwerk und Gebäude wurden also zusammen gedacht, was bei einer Tiefgarage fast nie vorkommt. Halt das Auge ans Periskop auf dem Platz, und das Ganze öffnet sich unter dir.",
+        "en" : "Daniel Buren's piece went in on 20 November 1994, and it was made to stay. The car park it lives in was built by the architects Targe and Wilmotte. So the artwork and the building were thought about together, which almost never happens with a car park. Put your eye to the periscope on the square and the whole thing opens up beneath you."
+      },
+      "localizedStory" : {
+        "de" : "Blick durch das Periskop auf dem Platz, und du erspähst Daniel Burens Kunstwerk 'Sens dessus dessous' in der Tiefgarage darunter.",
+        "en" : "Peer down the periscope from the square and glimpse Daniel Buren's artwork 'Sens dessus dessous' in the car park hidden below."
+      },
+      "name" : "Vue sous-terraine du Parking des Célestins",
+      "pos" : [
+        45.759616,
+        4.831812
+      ],
+      "story" : "Peer down the periscope from the square and glimpse Daniel Buren's artwork 'Sens dessus dessous' in the car park hidden below."
+    },
+    {
+      "extendedStory" : "The sculptor was Frédéric Auguste Bartholdi, and the fountain carries his name rather than a saint's or a king's. Two dates are attached to it, 1888 and 1889, and the records do not agree. About six metres of it rises from the Place des Terreaux. Walk right around it, because a fountain this size is meant to be read from every side.",
+      "icon" : "choice",
+      "id" : "f-fontaine-bartholdi",
+      "kind" : "fountain",
+      "localizedExtendedStory" : {
+        "de" : "Der Bildhauer war Frédéric-Auguste Bartholdi, und der Brunnen trägt seinen Namen, nicht den eines Heiligen oder Königs. Zwei Jahreszahlen hängen an ihm, 1888 und 1889, und die Quellen sind sich uneins. Rund sechs Meter erheben sich über der Place des Terreaux. Geh einmal ganz herum, denn ein Brunnen dieser Größe will von allen Seiten gelesen werden.",
+        "en" : "The sculptor was Frédéric Auguste Bartholdi, and the fountain carries his name rather than a saint's or a king's. Two dates are attached to it, 1888 and 1889, and the records do not agree. About six metres of it rises from the Place des Terreaux. Walk right around it, because a fountain this size is meant to be read from every side."
+      },
+      "localizedStory" : {
+        "de" : "Rund 6 Meter hoch steht dieser Brunnen auf der Place des Terreaux und trägt den Namen seines Bildhauers Frédéric-Auguste Bartholdi.",
+        "en" : "Standing about 6 metres tall on the Place des Terreaux, this fountain carries the name of its sculptor, Frédéric Auguste Bartholdi."
+      },
+      "name" : "Fontaine Bartholdi",
+      "pos" : [
+        45.767631,
+        4.833461
+      ],
+      "story" : "Standing about 6 metres tall on the Place des Terreaux, this fountain carries the name of its sculptor, Frédéric Auguste Bartholdi."
+    },
+    {
+      "extendedStory" : "The bridge went up quickly. Work started in 1949 and it was inaugurated the next year, in 1950. René Dardel is the name attached to its design. One year from groundwork to opening day is brisk for a river crossing. You can see it in the result, which is plain and direct with no decoration at all.",
+      "icon" : "everyday",
+      "id" : "f-pont-de-la-feuillee",
+      "kind" : "bridge",
+      "localizedExtendedStory" : {
+        "de" : "Die Brücke entstand schnell. Die Arbeiten begannen 1949, und schon im Jahr darauf, 1950, wurde sie eingeweiht. Der Entwurf trägt den Namen René Dardel. Ein Jahr vom Baubeginn bis zum Eröffnungstag ist zügig für einen Flussübergang. Man sieht es dem Ergebnis an: schlicht und direkt, ohne jeden Zierrat.",
+        "en" : "The bridge went up quickly. Work started in 1949 and it was inaugurated the next year, in 1950. René Dardel is the name attached to its design. One year from groundwork to opening day is brisk for a river crossing. You can see it in the result, which is plain and direct with no decoration at all."
+      },
+      "localizedStory" : {
+        "de" : "Von René Dardel entworfen, wurde diese Brücke 1949 begonnen und 1950 eröffnet.",
+        "en" : "Designed by René Dardel, this bridge was started in 1949 and opened in 1950."
+      },
+      "name" : "Pont de la Feuillée",
+      "pos" : [
+        45.766515,
+        4.829439
+      ],
+      "story" : "Designed by René Dardel, this bridge was started in 1949 and opened in 1950."
+    },
+    {
       "extendedStory" : "The courtyard is named after the Voraces, a group of silk-weavers. They took part in Lyon's uprising of 1848, and their trade filled these tall buildings. The buildings were raised around 1840, high enough for the weavers' work. Standing here, you sense the busy weaving world that once filled these walls.",
       "icon" : "everyday",
       "id" : "f-cour-des-voraces",
@@ -49863,24 +49877,24 @@
       "story" : "Step into the courtyard for its unmistakable staircase, zig-zagging up in the open across the walls."
     },
     {
-      "extendedStory" : "Long ago, the Romans raised an amphitheatre on this ground, the arena of the Three Gauls. Over the centuries it vanished under the city and was forgotten. The garden was laid out on top, unaware of what lay below. From 1956 the ancient arena was dug back into the daylight. Today calm paths cover what was once a ring of Roman seats.",
+      "extendedStory" : "Gothic Revival means exactly what it sounds like. Architects went back to the pointed arches and tall windows of the Middle Ages and built them fresh. Pierre Bossan did that here from 1848, and the result can fool the eye at a glance. The church is dedicated to Saint George, and it wears its borrowed age lightly.",
       "icon" : "everyday",
-      "id" : "f-jardin-des-plantes",
-      "kind" : "park_garden",
+      "id" : "f-eglise-saint-georges",
+      "kind" : "church",
       "localizedExtendedStory" : {
-        "de" : "Vor langer Zeit errichteten die Römer hier ein Amphitheater, die Arena der Drei Gallien. Über die Jahrhunderte verschwand es unter der Stadt und geriet in Vergessenheit. Der Garten wurde darüber angelegt, ohne zu ahnen, was darunter lag. Erst ab 1956 wurde die alte Arena wieder ans Licht gegraben. Heute decken ruhige Wege, was einst ein Rund aus römischen Sitzen war.",
-        "en" : "Long ago, the Romans raised an amphitheatre on this ground, the arena of the Three Gauls. Over the centuries it vanished under the city and was forgotten. The garden was laid out on top, unaware of what lay below. From 1956 the ancient arena was dug back into the daylight. Today calm paths cover what was once a ring of Roman seats."
+        "de" : "Neugotik heißt genau das, wonach es klingt. Architekten griffen die Spitzbögen und hohen Fenster des Mittelalters wieder auf und bauten sie neu. Pierre Bossan tat das hier ab 1848, und das Ergebnis täuscht das Auge zunächst. Geweiht ist die Kirche dem heiligen Georg, und sie trägt ihr geliehenes Alter leicht.",
+        "en" : "Gothic Revival means exactly what it sounds like. Architects went back to the pointed arches and tall windows of the Middle Ages and built them fresh. Pierre Bossan did that here from 1848, and the result can fool the eye at a glance. The church is dedicated to Saint George, and it wears its borrowed age lightly."
       },
       "localizedStory" : {
-        "de" : "Diese Grünanlage begann 1794 als botanischer Garten, angelegt unter dem Botaniker Jean-Emmanuel Gilibert.",
-        "en" : "This green space began as a botanical garden in 1794, planted under the botanist Jean-Emmanuel Gilibert."
+        "de" : "Diese Kirche wirkt mittelalterlich, stammt aber von 1848: Pierre Bossan baute sie im neugotischen Stil.",
+        "en" : "This church looks medieval but dates from 1848: Pierre Bossan built it in the Gothic Revival style."
       },
-      "name" : "Jardin des Plantes",
+      "name" : "Église Saint-Georges",
       "pos" : [
-        45.770469,
-        4.82976
+        45.757672,
+        4.825388
       ],
-      "story" : "This green space began as a botanical garden in 1794, planted under the botanist Jean-Emmanuel Gilibert."
+      "story" : "This church looks medieval but dates from 1848: Pierre Bossan built it in the Gothic Revival style."
     },
     {
       "extendedStory" : "This square was laid out in 1980, in the years when Lyon's métro was being dug beneath the city. It takes its name from Louis Pradel, and today it feels like an outdoor gallery. A fountain plays here, with sculptures by Ipoustéguy set around it. The one people point to is César's skater, 'Le Patineur'.",
@@ -49923,7 +49937,7 @@
       "story" : "Look up at the north tower: its Gothic spire is built of pink brick, unmistakable against the sky."
     }
   ],
-  "generatedAt" : "2026-07-27T05:52:31Z",
+  "generatedAt" : "2026-07-28T08:34:16Z",
   "icon" : {
     "paths" : [
       "M 8.00,93.00 L 92.00,93.00 L 84.00,88.00 L 16.00,88.00 Z M 12.00,76.00 L 88.00,76.00 L 88.00,90.00 L 12.00,90.00 Z M 15.00,48.00 L 23.00,48.00 L 26.00,51.00 L 26.00,87.00 L 23.00,90.00 L 15.00,90.00 L 12.00,87.00 L 12.00,51.00 Z M 15.00,48.00 L 23.00,48.00 L 19.00,30.00 Z M 77.00,48.00 L 85.00,48.00 L 88.00,51.00 L 88.00,87.00 L 85.00,90.00 L 77.00,90.00 L 74.00,87.00 L 74.00,51.00 Z M 77.00,48.00 L 85.00,48.00 L 81.00,30.00 Z M 32.00,40.00 L 38.00,40.00 L 41.00,43.00 L 41.00,87.00 L 38.00,90.00 L 32.00,90.00 L 29.00,87.00 L 29.00,43.00 Z M 32.00,40.00 L 38.00,40.00 L 35.00,22.00 Z M 62.00,40.00 L 68.00,40.00 L 71.00,43.00 L 71.00,87.00 L 68.00,90.00 L 62.00,90.00 L 59.00,87.00 L 59.00,43.00 Z M 62.00,40.00 L 68.00,40.00 L 65.00,22.00 Z M 41.00,35.00 L 59.00,35.00 L 59.00,90.00 L 41.00,90.00 Z M 41.00,35.00 L 59.00,35.00 L 50.00,14.00 Z"
@@ -49936,7 +49950,7 @@
     "en" : "Lyon"
   },
   "name" : "Lyon",
-  "packVersion" : 5,
+  "packVersion" : 8,
   "schemaVersion" : 1,
   "source" : "OpenStreetMap via Overpass API",
   "stats" : {

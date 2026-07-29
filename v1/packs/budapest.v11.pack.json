@@ -371,18 +371,9 @@
 
     ],
     "adjustedStreets" : [
-      "Anjou bástya",
-      "Balta köz",
-      "Dísz tér",
-      "Fortuna utca",
-      "Kapisztrán tér",
-      "Lovas út",
-      "Szent György utca",
-      "Szentháromság utca",
-      "Tóth Árpád sétány",
-      "Várkert rakpart"
+
     ],
-    "fromVersion" : 5,
+    "fromVersion" : 10,
     "removedStreets" : [
 
     ]
@@ -28610,104 +28601,24 @@
   ],
   "fruits" : [
     {
-      "extendedStory" : "An Ottoman lord named Veli bej probably raised this gun tower around 1570. A gun tower was a round stone tower that once held cannons. Today a bronze horseman stands on top of it. The statue honours the Transylvanian hussars and was made by the sculptor Lajos Petri. Cast in bronze, the rider still keeps watch over the old walls.",
-      "icon" : "everyday",
-      "id" : "f-veli-bej-tornya",
-      "kind" : "viewpoint",
-      "localizedExtendedStory" : {
-        "de" : "Ein osmanischer Herr namens Veli bej errichtete diesen Kanonenturm wohl um 1570. Ein Kanonenturm war ein runder Steinturm, in dem früher Kanonen standen. Heute steht oben ein bronzener Reiter. Das Denkmal ehrt die Siebenbürger Husaren und stammt vom Bildhauer Lajos Petri. In Bronze gegossen, wacht der Reiter noch heute über die alten Mauern.",
-        "en" : "An Ottoman lord named Veli bej probably raised this gun tower around 1570. A gun tower was a round stone tower that once held cannons. Today a bronze horseman stands on top of it. The statue honours the Transylvanian hussars and was made by the sculptor Lajos Petri. Cast in bronze, the rider still keeps watch over the old walls."
-      },
-      "localizedStory" : {
-        "de" : "Ein osmanischer Herr namens Veli bej errichtete diesen Kanonenturm um 1570; heute steht ein bronzener Reiter darauf.",
-        "en" : "An Ottoman lord named Veli bej raised this gun tower around 1570; a bronze horseman now stands on top."
-      },
-      "name" : "Veli bej tornya",
-      "pos" : [
-        47.502251,
-        19.029029
-      ],
-      "story" : "An Ottoman lord named Veli bej raised this gun tower around 1570; a bronze horseman now stands on top."
-    },
-    {
-      "icon" : "hero",
-      "id" : "f-budavari-palota",
-      "kind" : "fortress",
-      "localizedStory" : {
-        "de" : "Ein Palast, 1714 begonnen und vom Architekten Jean Nicolas Jadot de Ville-Issey entworfen.",
-        "en" : "A palace begun in 1714, designed by the architect Jean-Nicolas Jadot de Ville-Issey."
-      },
-      "name" : "Budavári Palota",
-      "pos" : [
-        47.495887,
-        19.039381
-      ],
-      "story" : "A palace begun in 1714, designed by the architect Jean-Nicolas Jadot de Ville-Issey."
-    },
-    {
+      "extendedStory" : "This church's story reaches back to 1255. Much later the architect Frigyes Schulek rebuilt it, and the new work was finished in 1896. He shaped it in the Gothic style, with pointed arches that reach upward. The church itself is named after Matthias Corvinus. More than six centuries lie between those medieval stones and the finished work of 1896.",
       "icon" : "choice",
-      "id" : "f-kozponti-vasarcsarnok",
-      "kind" : "market",
-      "localizedStory" : {
-        "de" : "Eine überdachte Markthalle, ab 1897 erbaut und von Samu Pecz im Jugendstil entworfen.",
-        "en" : "A covered market hall begun in 1897, designed by Samu Pecz in the Art Nouveau style."
-      },
-      "name" : "Központi Vásárcsarnok",
-      "pos" : [
-        47.486598,
-        19.058866
-      ],
-      "story" : "A covered market hall begun in 1897, designed by Samu Pecz in the Art Nouveau style."
-    },
-    {
-      "extendedStory" : "This square is named for liberty. It was laid out in 1900 on the ground of the old Újépület barracks. In that barracks yard, the prime minister Lajos Batthyány was put to death in 1849. Where soldiers once drilled, the city today keeps an open square whose very name means freedom.",
-      "icon" : "everyday",
-      "id" : "f-szabadsag-ter",
-      "kind" : "square",
+      "id" : "f-budavari-nagyboldogasszony-templom",
+      "kind" : "church",
       "localizedExtendedStory" : {
-        "de" : "Dieser Platz ist nach der Freiheit benannt. Er wurde 1900 dort angelegt, wo die alte Újépület-Kaserne stand. In ihrem Hof wurde der Ministerpräsident Lajos Batthyány 1849 hingerichtet. Wo einst Soldaten übten, hält die Stadt heute einen offenen Platz, dessen Name Freiheit bedeutet.",
-        "en" : "This square is named for liberty. It was laid out in 1900 on the ground of the old Újépület barracks. In that barracks yard, the prime minister Lajos Batthyány was put to death in 1849. Where soldiers once drilled, the city today keeps an open square whose very name means freedom."
+        "de" : "Die Geschichte dieser Kirche reicht bis ins Jahr 1255 zurück. Viel später baute der Architekt Frigyes Schulek sie um, und 1896 war das neue Werk vollendet. Er gestaltete sie im gotischen Stil, mit Spitzbögen, die nach oben streben. Benannt ist die Kirche nach Matthias Corvinus. Zwischen ihren mittelalterlichen Steinen und dem Bau von 1896 liegen mehr als sechs Jahrhunderte.",
+        "en" : "This church's story reaches back to 1255. Much later the architect Frigyes Schulek rebuilt it, and the new work was finished in 1896. He shaped it in the Gothic style, with pointed arches that reach upward. The church itself is named after Matthias Corvinus. More than six centuries lie between those medieval stones and the finished work of 1896."
       },
       "localizedStory" : {
-        "de" : "Der Freiheitsplatz, 1900 angelegt, wo einst eine alte Kaserne stand.",
-        "en" : "Liberty Square, laid out in 1900 where an old army barracks once stood."
+        "de" : "Eine Kirche mit Wurzeln im Jahr 1255, benannt nach Matthias Corvinus.",
+        "en" : "A church with roots in 1255, named after Matthias Corvinus."
       },
-      "name" : "Szabadság tér",
+      "name" : "Budavári Nagyboldogasszony-templom",
       "pos" : [
-        47.503921,
-        19.050699
+        47.501789,
+        19.034006
       ],
-      "story" : "Liberty Square, laid out in 1900 where an old army barracks once stood."
-    },
-    {
-      "icon" : "everyday",
-      "id" : "f-erzsebet-hid",
-      "kind" : "bridge",
-      "localizedStory" : {
-        "de" : "Diese Brücke von 1964 ist nach Kaiserin Elisabeth von Österreich-Ungarn benannt.",
-        "en" : "This crossing dates from 1964 and honours Empress Elisabeth of Austria."
-      },
-      "name" : "Erzsébet híd",
-      "pos" : [
-        47.491116,
-        19.04991
-      ],
-      "story" : "This crossing dates from 1964 and honours Empress Elisabeth of Austria."
-    },
-    {
-      "icon" : "everyday",
-      "id" : "f-pesti-vigado",
-      "kind" : "civic",
-      "localizedStory" : {
-        "de" : "Dieser Saalbau in Pest ragt 44 Meter hoch und wurde ab 1865 von Frigyes Feszl entworfen.",
-        "en" : "This civic hall in Pest rises 44 metres and was begun in 1865, designed by Frigyes Feszl."
-      },
-      "name" : "Pesti Vigadó",
-      "pos" : [
-        47.495874,
-        19.049259
-      ],
-      "story" : "This civic hall in Pest rises 44 metres and was begun in 1865, designed by Frigyes Feszl."
+      "story" : "A church with roots in 1255, named after Matthias Corvinus."
     },
     {
       "extendedStory" : "In 1926 a chapel was cut into the Saint Ivan cave, high on the south face of Gellért Hill. Its shape copies the grotto at Lourdes, a cave shrine in another land. In 1951 the state sent the Pauline monks away and later sealed the entrance. Years on, the doors opened again, and the church still hides quietly inside the rock.",
@@ -28730,24 +28641,144 @@
       "story" : "A church carved into a cave in the side of Gellért Hill, shaped after the grotto at Lourdes."
     },
     {
-      "extendedStory" : "Work on this palace began in 1832. After the Pest flood of 1838, György Károlyi's secretary László Bártfay came to live here. In these rooms he ran a lively literary salon, a gathering where writers met to talk and read aloud. Among his guests were Vörösmarty and Kölcsey. Since 1957 the palace has housed the Petőfi Literary Museum, which was founded in 1954.",
+      "extendedStory" : "The bastion is a wedge of stone pushed out from the castle wall. It runs 50 metres out and 22 metres across, which is a lot of masonry for one corner. King János Szapolyai had it built in the 1530s. Stand at its tip and you are out beyond the line of the wall, with the ground falling away on both sides.",
       "icon" : "everyday",
-      "id" : "f-karolyi-palota",
-      "kind" : "fortress",
+      "id" : "f-erdelyi-bastya",
+      "kind" : "viewpoint",
       "localizedExtendedStory" : {
-        "de" : "Die Arbeit an diesem Palast begann 1832. Nach der Pester Flut von 1838 zog György Károlyis Sekretär László Bártfay hier ein. In diesen Räumen führte er einen lebhaften literarischen Salon, eine Runde, in der sich Schriftsteller zum Reden und Vorlesen trafen. Zu seinen Gästen zählten Vörösmarty und Kölcsey. Seit 1957 beherbergt der Palast das Petőfi-Literaturmuseum, das 1954 gegründet wurde.",
-        "en" : "Work on this palace began in 1832. After the Pest flood of 1838, György Károlyi's secretary László Bártfay came to live here. In these rooms he ran a lively literary salon, a gathering where writers met to talk and read aloud. Among his guests were Vörösmarty and Kölcsey. Since 1957 the palace has housed the Petőfi Literary Museum, which was founded in 1954."
+        "de" : "Die Bastei ist ein Keil aus Stein, der aus der Burgmauer herausgeschoben ist. Sie ragt 50 Meter hinaus und misst 22 Meter in der Breite, viel Mauerwerk für eine Ecke. König János Szapolyai ließ sie in den 1530er Jahren errichten. Steht man an ihrer Spitze, ist man jenseits der Mauerlinie, und der Boden fällt zu beiden Seiten ab.",
+        "en" : "The bastion is a wedge of stone pushed out from the castle wall. It runs 50 metres out and 22 metres across, which is a lot of masonry for one corner. King János Szapolyai had it built in the 1530s. Stand at its tip and you are out beyond the line of the wall, with the ground falling away on both sides."
       },
       "localizedStory" : {
-        "de" : "Dieser Palast von 1832 beherbergte einen literarischen Salon der Reformzeit; heute ist er das Petőfi-Literaturmuseum.",
-        "en" : "This 1832 palace held a literary salon of the Reform Era; today it's the Petőfi Literary Museum."
+        "de" : "Diese Bastei ragt 50 Meter aus der Burgmauer heraus, in den 1530er Jahren für König János Szapolyai erbaut.",
+        "en" : "This bastion juts 50 metres out from the castle wall, built for King János Szapolyai in the 1530s."
       },
-      "name" : "Károlyi-palota",
+      "name" : "Erdélyi bástya",
       "pos" : [
-        47.491829,
-        19.058267
+        47.504696,
+        19.032828
       ],
-      "story" : "This 1832 palace held a literary salon of the Reform Era; today it's the Petőfi Literary Museum."
+      "story" : "This bastion juts 50 metres out from the castle wall, built for King János Szapolyai in the 1530s."
+    },
+    {
+      "extendedStory" : "Work on the palace began in 1714, to a design by Jean-Nicolas Jadot de Ville-Issey. It stands on the hill above the Danube, at the top of Szent György utca, so every approach is a climb. Its lines are Gothic, all pointed arches and height. The building was made to be seen from the whole city spread out below it.",
+      "icon" : "hero",
+      "id" : "f-budavari-palota",
+      "kind" : "fortress",
+      "localizedExtendedStory" : {
+        "de" : "Die Arbeit am Palast begann 1714, nach einem Entwurf von Jean Nicolas Jadot de Ville-Issey. Er steht auf dem Hügel über der Donau, am oberen Ende der Szent György utca, jeder Weg hinauf ist ein Aufstieg. Seine Linien sind gotisch, lauter Spitzbögen und Höhe. Gebaut wurde er, um von der ganzen Stadt unten gesehen zu werden.",
+        "en" : "Work on the palace began in 1714, to a design by Jean-Nicolas Jadot de Ville-Issey. It stands on the hill above the Danube, at the top of Szent György utca, so every approach is a climb. Its lines are Gothic, all pointed arches and height. The building was made to be seen from the whole city spread out below it."
+      },
+      "localizedStory" : {
+        "de" : "Ein Palast, 1714 begonnen und vom Architekten Jean Nicolas Jadot de Ville-Issey entworfen.",
+        "en" : "A palace begun in 1714, designed by the architect Jean-Nicolas Jadot de Ville-Issey."
+      },
+      "name" : "Budavári Palota",
+      "pos" : [
+        47.495887,
+        19.039381
+      ],
+      "story" : "A palace begun in 1714, designed by the architect Jean-Nicolas Jadot de Ville-Issey."
+    },
+    {
+      "extendedStory" : "Building started in 1897, and the architect was Samu Pecz. He worked in the Art Nouveau style, which favours flowing lines and ornament over plain straight walls. It was a bold choice for a food market, a building other cities treated as pure function. Traders have been working under that roof ever since.",
+      "icon" : "choice",
+      "id" : "f-kozponti-vasarcsarnok",
+      "kind" : "market",
+      "localizedExtendedStory" : {
+        "de" : "Der Bau begann 1897, der Architekt war Samu Pecz. Er arbeitete im Jugendstil, der fließende Linien und Zierrat den glatten geraden Wänden vorzieht. Für eine Markthalle war das eine kühne Wahl, anderswo galt so ein Bau als reine Zwecksache. Seither arbeiten die Händler unter diesem Dach.",
+        "en" : "Building started in 1897, and the architect was Samu Pecz. He worked in the Art Nouveau style, which favours flowing lines and ornament over plain straight walls. It was a bold choice for a food market, a building other cities treated as pure function. Traders have been working under that roof ever since."
+      },
+      "localizedStory" : {
+        "de" : "Eine überdachte Markthalle, ab 1897 erbaut und von Samu Pecz im Jugendstil entworfen.",
+        "en" : "A covered market hall begun in 1897, designed by Samu Pecz in the Art Nouveau style."
+      },
+      "name" : "Központi Vásárcsarnok",
+      "pos" : [
+        47.486598,
+        19.058866
+      ],
+      "story" : "A covered market hall begun in 1897, designed by Samu Pecz in the Art Nouveau style."
+    },
+    {
+      "extendedStory" : "This square is named for liberty. Before it existed, an army barracks called the Újépület filled the ground here. The city cleared that away and laid out the open square in 1900. Where soldiers were once quartered, Budapest chose to put a wide public space and give it the name freedom.",
+      "icon" : "everyday",
+      "id" : "f-szabadsag-ter",
+      "kind" : "square",
+      "localizedExtendedStory" : {
+        "de" : "Dieser Platz ist nach der Freiheit benannt. Vorher stand hier eine Kaserne, das Újépület, und füllte den ganzen Boden aus. Die Stadt räumte sie weg und legte 1900 den offenen Platz an. Wo einst Soldaten untergebracht waren, hält Budapest heute einen weiten Platz, dessen Name Freiheit bedeutet.",
+        "en" : "This square is named for liberty. Before it existed, an army barracks called the Újépület filled the ground here. The city cleared that away and laid out the open square in 1900. Where soldiers were once quartered, Budapest chose to put a wide public space and give it the name freedom."
+      },
+      "localizedStory" : {
+        "de" : "Der Freiheitsplatz, 1900 angelegt, wo einst eine alte Kaserne stand.",
+        "en" : "Liberty Square, laid out in 1900 where an old army barracks once stood."
+      },
+      "name" : "Szabadság tér",
+      "pos" : [
+        47.503921,
+        19.050699
+      ],
+      "story" : "Liberty Square, laid out in 1900 where an old army barracks once stood."
+    },
+    {
+      "extendedStory" : "There was a crossing here long before this one. A chain suspension bridge went up between 1897 and 1903, carrying the same name. What stands today dates from 1964 and took a far plainer shape. Its main span reaches 290 metres, and nothing at all holds it up midstream. You can walk the whole way across without passing a single pier.",
+      "icon" : "everyday",
+      "id" : "f-erzsebet-hid",
+      "kind" : "bridge",
+      "localizedExtendedStory" : {
+        "de" : "Lange vor dieser Brücke gab es hier schon einen Übergang. Zwischen 1897 und 1903 entstand eine Kettenhängebrücke, die denselben Namen trug. Was heute dort steht, stammt von 1964 und bekam eine viel schlichtere Form. Ihre Hauptspannweite reicht 290 Meter, in der Flussmitte trägt sie überhaupt nichts. Man geht ganz hinüber, ohne unterwegs an einem Pfeiler vorbeizukommen.",
+        "en" : "There was a crossing here long before this one. A chain suspension bridge went up between 1897 and 1903, carrying the same name. What stands today dates from 1964 and took a far plainer shape. Its main span reaches 290 metres, and nothing at all holds it up midstream. You can walk the whole way across without passing a single pier."
+      },
+      "localizedStory" : {
+        "de" : "Diese Brücke von 1964 ist nach Kaiserin Elisabeth von Österreich-Ungarn benannt.",
+        "en" : "This crossing dates from 1964 and honours Empress Elisabeth of Austria."
+      },
+      "name" : "Erzsébet híd",
+      "pos" : [
+        47.491116,
+        19.04991
+      ],
+      "story" : "This crossing dates from 1964 and honours Empress Elisabeth of Austria."
+    },
+    {
+      "extendedStory" : "The hall was begun in 1865, to a design by Frigyes Feszl. It rises 44 metres from Vigadó tér, standing square on to the Danube. That is tall for a hall rather than a tower, and it was meant to be noticed. Look across from the far bank and it still holds its stretch of the riverfront.",
+      "icon" : "everyday",
+      "id" : "f-pesti-vigado",
+      "kind" : "civic",
+      "localizedExtendedStory" : {
+        "de" : "Der Saalbau wurde 1865 begonnen, nach einem Entwurf von Frigyes Feszl. Er ragt 44 Meter über den Vigadó tér und steht der Donau frontal gegenüber. Das ist hoch für einen Saal statt eines Turms, und auffallen sollte er auch. Vom anderen Ufer aus hält er sein Stück Uferfront bis heute.",
+        "en" : "The hall was begun in 1865, to a design by Frigyes Feszl. It rises 44 metres from Vigadó tér, standing square on to the Danube. That is tall for a hall rather than a tower, and it was meant to be noticed. Look across from the far bank and it still holds its stretch of the riverfront."
+      },
+      "localizedStory" : {
+        "de" : "Dieser Saalbau in Pest ragt 44 Meter hoch und wurde ab 1865 von Frigyes Feszl entworfen.",
+        "en" : "This civic hall in Pest rises 44 metres and was begun in 1865, designed by Frigyes Feszl."
+      },
+      "name" : "Pesti Vigadó",
+      "pos" : [
+        47.495874,
+        19.049259
+      ],
+      "story" : "This civic hall in Pest rises 44 metres and was begun in 1865, designed by Frigyes Feszl."
+    },
+    {
+      "extendedStory" : "This fort was raised above the city in 1854. Unlike an ordinary fortress, it was built not to defend the streets below but to overawe the people of Pest. Its cannons never joined a single battle. They boomed out just for ceremonial salutes on special days. Today the walls simply look out over the rooftops.",
+      "icon" : "choice",
+      "id" : "f-citadella",
+      "kind" : "fortress",
+      "localizedExtendedStory" : {
+        "de" : "Diese Festung entstand 1854 über der Stadt. Anders als eine gewöhnliche Festung wurde sie nicht gebaut, um die Stadt unten zu schützen, sondern um die Menschen von Pest einzuschüchtern. Ihre Kanonen kamen am Ende in keiner Schlacht zum Einsatz. Sie feuerten nur bei feierlichen Salutschüssen, die an besonderen Tagen über die Stadt hallten. Heute schauen die Mauern einfach über die Dächer.",
+        "en" : "This fort was raised above the city in 1854. Unlike an ordinary fortress, it was built not to defend the streets below but to overawe the people of Pest. Its cannons never joined a single battle. They boomed out just for ceremonial salutes on special days. Today the walls simply look out over the rooftops."
+      },
+      "localizedStory" : {
+        "de" : "Diese Festung von 1854 sollte über Pest thronen, nicht es schützen; ihre Kanonen feuerten nur bei Zeremonien, nie im Kampf.",
+        "en" : "This fort was built in 1854 to loom over Pest, not defend it. Its cannons fired in ceremony, never in battle."
+      },
+      "name" : "Citadella",
+      "pos" : [
+        47.487191,
+        19.046005
+      ],
+      "story" : "This fort was built in 1854 to loom over Pest, not defend it. Its cannons fired in ceremony, never in battle."
     },
     {
       "extendedStory" : "This chain bridge was designed by the engineer William Tierney Clark. Work began in 1840 and it opened in 1849. Its towers follow the Renaissance Revival style, which brings back the look of older grand buildings. The bridge carries the name of István Széchenyi. Nine years passed between the foundation stone and the opening day.",
@@ -28770,67 +28801,27 @@
       "story" : "This chain bridge, opened in 1849, is named after István Széchenyi."
     },
     {
-      "extendedStory" : "Murad pasha built this bastion between 1650 and 1653. A bastion is a strong part of a fortress wall that juts out to guard it. The tower was badly damaged in 1686, when Buda was retaken. Its casemate, a vaulted room built into the wall, stayed buried until workers dug it out in 1960. Now the old bastion stands open to the sky again.",
+      "extendedStory" : "Work on this palace began in 1832. After the Pest flood of 1838, György Károlyi's secretary László Bártfay came to live here. In these rooms he ran a lively literary salon, a gathering where writers met to talk and read aloud. Among his guests were Vörösmarty and Kölcsey. Since 1957 the palace has housed the Petőfi Literary Museum, which was founded in 1954.",
       "icon" : "everyday",
-      "id" : "f-murad-pasa-bastyaja",
-      "kind" : "viewpoint",
-      "localizedExtendedStory" : {
-        "de" : "Murad Pascha baute diese Bastei zwischen 1650 und 1653. Eine Bastei ist ein starker, vorspringender Teil einer Festungsmauer, der sie schützt. Der Turm wurde 1686 schwer beschädigt, als Buda zurückerobert wurde. Seine Kasematte, ein Gewölberaum in der Mauer, blieb verschüttet, bis man sie 1960 ausgrub. Heute steht die alte Bastei wieder offen unter dem Himmel.",
-        "en" : "Murad pasha built this bastion between 1650 and 1653. A bastion is a strong part of a fortress wall that juts out to guard it. The tower was badly damaged in 1686, when Buda was retaken. Its casemate, a vaulted room built into the wall, stayed buried until workers dug it out in 1960. Now the old bastion stands open to the sky again."
-      },
-      "localizedStory" : {
-        "de" : "Murad Pascha baute diese Bastei zwischen 1650 und 1653; ein verborgener Raum darin wurde erst 1960 ausgegraben.",
-        "en" : "Murad pasha built this bastion between 1650 and 1653; a hidden room inside it was dug out in 1960."
-      },
-      "name" : "Murad pasa bástyája",
-      "pos" : [
-        47.505367,
-        19.029724
-      ],
-      "story" : "Murad pasha built this bastion between 1650 and 1653; a hidden room inside it was dug out in 1960."
-    },
-    {
-      "extendedStory" : "This church's story reaches back to 1255. Much later the architect Frigyes Schulek rebuilt it, and the new work was finished in 1896. He shaped it in the Gothic style, with pointed arches that reach upward. The church itself is named after Matthias Corvinus. More than six centuries lie between those medieval stones and the finished work of 1896.",
-      "icon" : "choice",
-      "id" : "f-budavari-nagyboldogasszony-templom",
-      "kind" : "church",
-      "localizedExtendedStory" : {
-        "de" : "Die Geschichte dieser Kirche reicht bis ins Jahr 1255 zurück. Viel später baute der Architekt Frigyes Schulek sie um, und 1896 war das neue Werk vollendet. Er gestaltete sie im gotischen Stil, mit Spitzbögen, die nach oben streben. Benannt ist die Kirche nach Matthias Corvinus. Zwischen ihren mittelalterlichen Steinen und dem Bau von 1896 liegen mehr als sechs Jahrhunderte.",
-        "en" : "This church's story reaches back to 1255. Much later the architect Frigyes Schulek rebuilt it, and the new work was finished in 1896. He shaped it in the Gothic style, with pointed arches that reach upward. The church itself is named after Matthias Corvinus. More than six centuries lie between those medieval stones and the finished work of 1896."
-      },
-      "localizedStory" : {
-        "de" : "Eine Kirche mit Wurzeln im Jahr 1255, benannt nach Matthias Corvinus.",
-        "en" : "A church with roots in 1255, named after Matthias Corvinus."
-      },
-      "name" : "Budavári Nagyboldogasszony-templom",
-      "pos" : [
-        47.501789,
-        19.034006
-      ],
-      "story" : "A church with roots in 1255, named after Matthias Corvinus."
-    },
-    {
-      "extendedStory" : "This fort was raised above the city in 1854. Unlike an ordinary fortress, it was built not to defend the streets below but to overawe the people of Pest. Its cannons never joined a single battle. They boomed out just for ceremonial salutes on special days. Today the walls simply look out over the rooftops.",
-      "icon" : "choice",
-      "id" : "f-citadella",
+      "id" : "f-karolyi-palota",
       "kind" : "fortress",
       "localizedExtendedStory" : {
-        "de" : "Diese Festung entstand 1854 über der Stadt. Anders als eine gewöhnliche Festung wurde sie nicht gebaut, um die Stadt unten zu schützen, sondern um die Menschen von Pest einzuschüchtern. Ihre Kanonen kamen am Ende in keiner Schlacht zum Einsatz. Sie feuerten nur bei feierlichen Salutschüssen, die an besonderen Tagen über die Stadt hallten. Heute schauen die Mauern einfach über die Dächer.",
-        "en" : "This fort was raised above the city in 1854. Unlike an ordinary fortress, it was built not to defend the streets below but to overawe the people of Pest. Its cannons never joined a single battle. They boomed out just for ceremonial salutes on special days. Today the walls simply look out over the rooftops."
+        "de" : "Die Arbeit an diesem Palast begann 1832. Nach der Pester Flut von 1838 zog György Károlyis Sekretär László Bártfay hier ein. In diesen Räumen führte er einen lebhaften literarischen Salon, eine Runde, in der sich Schriftsteller zum Reden und Vorlesen trafen. Zu seinen Gästen zählten Vörösmarty und Kölcsey. Seit 1957 beherbergt der Palast das Petőfi-Literaturmuseum, das 1954 gegründet wurde.",
+        "en" : "Work on this palace began in 1832. After the Pest flood of 1838, György Károlyi's secretary László Bártfay came to live here. In these rooms he ran a lively literary salon, a gathering where writers met to talk and read aloud. Among his guests were Vörösmarty and Kölcsey. Since 1957 the palace has housed the Petőfi Literary Museum, which was founded in 1954."
       },
       "localizedStory" : {
-        "de" : "Diese Festung von 1854 sollte über Pest thronen, nicht es schützen; ihre Kanonen feuerten nur bei Zeremonien, nie im Kampf.",
-        "en" : "This fort was built in 1854 to loom over Pest, not defend it. Its cannons fired in ceremony, never in battle."
+        "de" : "Dieser Palast von 1832 beherbergte einen literarischen Salon der Reformzeit; heute ist er das Petőfi-Literaturmuseum.",
+        "en" : "This 1832 palace held a literary salon of the Reform Era; today it's the Petőfi Literary Museum."
       },
-      "name" : "Citadella",
+      "name" : "Károlyi-palota",
       "pos" : [
-        47.487191,
-        19.046005
+        47.491829,
+        19.058267
       ],
-      "story" : "This fort was built in 1854 to loom over Pest, not defend it. Its cannons fired in ceremony, never in battle."
+      "story" : "This 1832 palace held a literary salon of the Reform Era; today it's the Petőfi Literary Museum."
     }
   ],
-  "generatedAt" : "2026-07-27T06:02:47Z",
+  "generatedAt" : "2026-07-28T08:31:04Z",
   "icon" : {
     "paths" : [
       "M8.00,62.00 L92.00,62.00 L92.00,70.00 L8.00,70.00 Z M18.00,12.00 L34.00,12.00 L34.00,82.00 L18.00,82.00 Z M17.00,12 L26.00,4 L35.00,12 Z M22.00,22.00 L22.00,40.00 L30.00,40.00 L30.00,22.00 Z M22.00,48.00 L22.00,60.00 L30.00,60.00 L30.00,48.00 Z M66.00,12.00 L82.00,12.00 L82.00,82.00 L66.00,82.00 Z M65.00,12 L74.00,4 L83.00,12 Z M70.00,22.00 L70.00,40.00 L78.00,40.00 L78.00,22.00 Z M70.00,48.00 L70.00,60.00 L78.00,60.00 L78.00,48.00 Z M23.59,6.67 L24.76,10.88 L26.01,14.88 L27.33,18.60 L28.71,22.07 L30.16,25.27 L31.66,28.22 L33.22,30.90 L34.84,33.33 L36.52,35.50 L38.26,37.41 L40.06,39.06 L41.93,40.44 L43.87,41.54 L45.87,42.34 L47.92,42.83 L50.00,43.00 L52.08,42.83 L54.13,42.34 L56.13,41.54 L58.07,40.44 L59.94,39.06 L61.74,37.41 L63.48,35.50 L65.16,33.33 L66.78,30.90 L68.34,28.22 L69.84,25.27 L71.29,22.07 L72.67,18.60 L73.99,14.88 L75.24,10.88 L76.41,6.67 L71.59,5.33 L70.44,9.47 L69.24,13.30 L67.99,16.85 L66.68,20.12 L65.33,23.11 L63.95,25.83 L62.53,28.26 L61.09,30.42 L59.64,32.29 L58.19,33.89 L56.75,35.20 L55.34,36.25 L53.95,37.04 L52.60,37.58 L51.29,37.90 L50.00,38.00 L48.71,37.90 L47.40,37.58 L46.05,37.04 L44.66,36.25 L43.25,35.20 L41.81,33.89 L40.36,32.29 L38.91,30.42 L37.47,28.26 L36.05,25.83 L34.67,23.11 L33.32,20.12 L32.01,16.85 L30.76,13.30 L29.56,9.47 L28.41,5.33 Z M28.50,17.72 L31.50,17.72 L31.50,62.00 L28.50,62.00 Z M38.50,35.65 L41.50,35.65 L41.50,62.00 L38.50,62.00 Z M48.50,40.50 L51.50,40.50 L51.50,62.00 L48.50,62.00 Z M58.50,35.65 L61.50,35.65 L61.50,62.00 L58.50,62.00 Z M68.50,17.72 L71.50,17.72 L71.50,62.00 L68.50,62.00 Z "
@@ -28843,7 +28834,7 @@
     "en" : "Budapest"
   },
   "name" : "Budapest",
-  "packVersion" : 6,
+  "packVersion" : 11,
   "schemaVersion" : 1,
   "source" : "OpenStreetMap via Overpass API",
   "stats" : {
