@@ -305,7 +305,7 @@
     "adjustedStreets" : [
 
     ],
-    "fromVersion" : 17,
+    "fromVersion" : 18,
     "removedStreets" : [
 
     ]
@@ -29566,18 +29566,18 @@
         "en" : "The church beside you turns up in writing as early as 1234. For centuries nobody called this a square. People said they were going to St Castulus, and later they called it the little Haštal place. Street and square did not take separate names until 1928. A burial ground lay around the church until 1784, and it was closed for good in 1832."
       },
       "localizedStory" : {
-        "de" : "Der Platz trägt den Namen der Kastuluskirche gleich nebenan. Findet die gotische Kirche - ihre Spitzbögen stammen aus dem 14. Jahrhundert.",
-        "en" : "This square is named for St Castulus church right beside it. Find the Gothic church - its pointed arches date from the 14th century."
+        "de" : "Der Platz trägt den Namen der Kastuluskirche gleich nebenan. Findet die gotische Kirche. Ihre Spitzbögen stammen aus dem 14. Jahrhundert.",
+        "en" : "This square is named for St Castulus church right beside it. Find the Gothic church. Its pointed arches date from the 14th century."
       },
       "name" : "Haštalské náměstí",
       "pos" : [
         50.091225,
         14.42443
       ],
-      "story" : "This square is named for St Castulus church right beside it. Find the Gothic church - its pointed arches date from the 14th century."
+      "story" : "This square is named for St Castulus church right beside it. Find the Gothic church. Its pointed arches date from the 14th century."
     }
   ],
-  "generatedAt" : "2026-07-29T15:54:40Z",
+  "generatedAt" : "2026-07-29T16:53:12Z",
   "icon" : {
     "paths" : [
       "M8 90 L8 30 L16 30 L16 38 L22 38 L22 30 L30 30 L30 52 L38 52 L38 16 L47 16 L47 26 L53 26 L53 16 L62 16 L62 52 L70 52 L70 30 L78 30 L78 38 L84 38 L84 30 L92 30 L92 90 Z M42 90 L58 90 L58 66 C58 60 42 60 42 66 Z"
@@ -29591,7 +29591,7 @@
     "en" : "Prague"
   },
   "name" : "Prague",
-  "packVersion" : 18,
+  "packVersion" : 19,
   "schemaVersion" : 1,
   "source" : "OpenStreetMap via Overpass API",
   "stats" : {

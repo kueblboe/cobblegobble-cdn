@@ -3647,7 +3647,7 @@
         "en" : "Passau"
       },
       "name" : "Passau",
-      "packVersion" : 21,
+      "packVersion" : 22,
       "stats" : {
         "estHours" : 5.8,
         "nodeCount" : 963,
@@ -4144,7 +4144,7 @@
         "en" : "Prague"
       },
       "name" : "Prague",
-      "packVersion" : 18,
+      "packVersion" : 19,
       "stats" : {
         "estHours" : 10.8,
         "nodeCount" : 1854,
