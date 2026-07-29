@@ -489,7 +489,7 @@
     "adjustedStreets" : [
 
     ],
-    "fromVersion" : 8,
+    "fromVersion" : 9,
     "removedStreets" : [
 
     ]
@@ -15013,9 +15013,14 @@
       "story" : "A fire in 1655 left the church on this square in a poor state for more than two hundred years."
     },
     {
+      "extendedStory" : "Something guarded this spot long before the stonework. An earthwork went up here in 1258 under the podestà Bonifazio da Bologna, and from it the city began spreading outward. Masonry followed around 1325. A Sienese chronicler grumbles that even in 1327 just a portion stood finished. The travertine doorway is credited to Agnolo di Ventura. Its name looks outward, toward a hamlet called I Tufi that answered to that name until the late 1800s.",
       "icon" : "everyday",
       "id" : "f-porta-tufi",
       "kind" : "gate_tower",
+      "localizedExtendedStory" : {
+        "de" : "Das Tor liess sich Zeit. Schon 1258 stand hier ein Erdwerk, errichtet unter dem Podestà Bonifazio da Bologna, und von hier aus begann die Stadt zu wachsen. Um 1325 fing man in Stein an, und eine sienesische Chronik notiert, 1327 sei erst ein Teil fertig gewesen. Das Travertinportal schreibt man Agnolo di Ventura zu. Der Name weist nach draussen, auf einen Ort namens I Tufi, der bis ans Ende der 1800er-Jahre so hiess.",
+        "en" : "Something guarded this spot long before the stonework. An earthwork went up here in 1258 under the podestà Bonifazio da Bologna, and from it the city began spreading outward. Masonry followed around 1325. A Sienese chronicler grumbles that even in 1327 just a portion stood finished. The travertine doorway is credited to Agnolo di Ventura. Its name looks outward, toward a hamlet called I Tufi that answered to that name until the late 1800s."
+      },
       "localizedStory" : {
         "de" : "1325 mit dem letzten Mauerring der Stadt gebaut und Agnolo di Ventura zugeschrieben.",
         "en" : "Built in 1325 with the city's last ring of walls, and credited to Agnolo di Ventura."
@@ -15048,7 +15053,7 @@
       "story" : "A painting of the Virgin once filled this archway. In 1978 it came down and moved into San Francesco."
     }
   ],
-  "generatedAt" : "2026-07-28T09:10:18Z",
+  "generatedAt" : "2026-07-29T12:02:12Z",
   "icon" : {
     "paths" : [
       "M 42.00 30.00 L 58.00 30.00 L 58.00 88.00 L 42.00 88.00 Z M 39.00 84.00 L 61.00 84.00 L 61.00 88.00 L 39.00 88.00 Z M 25.00 18.00 L 75.00 18.00 L 75.00 32.00 L 25.00 32.00 Z M 30.00 30.00 L 70.00 30.00 L 70.00 34.00 L 30.00 34.00 Z M 20.00 10.00 L 28.00 10.00 L 28.00 18.00 L 20.00 18.00 Z M 33.00 10.00 L 41.00 10.00 L 41.00 18.00 L 33.00 18.00 Z M 46.00 10.00 L 54.00 10.00 L 54.00 18.00 L 46.00 18.00 Z M 59.00 10.00 L 67.00 10.00 L 67.00 18.00 L 59.00 18.00 Z M 72.00 10.00 L 80.00 10.00 L 80.00 18.00 L 72.00 18.00 Z"
@@ -15061,7 +15066,7 @@
     "en" : "Siena"
   },
   "name" : "Siena",
-  "packVersion" : 9,
+  "packVersion" : 10,
   "schemaVersion" : 1,
   "source" : "OpenStreetMap via Overpass API",
   "stats" : {

@@ -141,7 +141,7 @@
     "adjustedStreets" : [
 
     ],
-    "fromVersion" : 7,
+    "fromVersion" : 8,
     "removedStreets" : [
 
     ]
@@ -7975,9 +7975,14 @@
       "story" : "This church carries the name of Olaf the Second of Norway, and has stood here since 1201."
     },
     {
+      "extendedStory" : "Look straight up, past the arcade, sixty-four metres to the spire. The warrior turning up there answers to Old Thomas. He was hoisted into place in 1530 and stayed on duty until an air raid struck him in 1944. His scorched original now retires downstairs in the cellar, and a later copy took over the weather. Below him the chambers were remade between 1402 and 1404 into two floors of feasting rooms, work rooms and offices.",
       "icon" : "choice",
       "id" : "f-raekoda",
       "kind" : "civic",
+      "localizedExtendedStory" : {
+        "de" : "Seine heutige Gestalt bekam das Haus zwischen 1402 und 1404. Damals baute man es zu einem zweigeschossigen Bau mit Festsälen, Arbeitsräumen und Kontoren um. Es steht neben dem Marktplatz und sieht dem Handel seit über 700 Jahren zu. Schau ganz nach oben, 64 Meter vom Fuss der Arkade bis zur Spitze. Der Krieger dort oben heisst Alter Thomas. Er kam 1530 hinauf und hielt Wache, bis ihn 1944 ein Luftangriff traf. Das Original steht heute unten im Keller.",
+        "en" : "Look straight up, past the arcade, sixty-four metres to the spire. The warrior turning up there answers to Old Thomas. He was hoisted into place in 1530 and stayed on duty until an air raid struck him in 1944. His scorched original now retires downstairs in the cellar, and a later copy took over the weather. Below him the chambers were remade between 1402 and 1404 into two floors of feasting rooms, work rooms and offices."
+      },
       "localizedStory" : {
         "de" : "Tallinns Rathaus wurde 1404 eröffnet und steht bis heute an seinem eigenen Platz.",
         "en" : "Tallinn's town hall opened in 1404 and still stands on its own square."
@@ -8050,9 +8055,14 @@
       "story" : "Voldemar Mellik made this fountain in 1947 — and the creature the boys are holding is a fish."
     },
     {
+      "extendedStory" : "This one changed jobs completely. The tower went up between 1370 and 1380, built to hold a wall, not an audience. Centuries later the rooms behind it belonged to the Tallinn Conservatory. Then on 1 March 1934 the Estonian Theatre and Music Museum opened inside. So the stone that was raised to keep people out now keeps instruments, scores and stage costumes in.",
       "icon" : "everyday",
       "id" : "f-assauwe-torn",
       "kind" : "gate_tower",
+      "localizedExtendedStory" : {
+        "de" : "Dieser Turm hat den Beruf gewechselt. Zwischen 1370 und 1380 wurde er gebaut, für die Mauer, nicht für Publikum. Jahrhunderte später lagen dahinter die Räume des Tallinner Konservatoriums. Am 1. März 1934 zog dann das Estnische Theater- und Musikmuseum ein. Der Stein, den man einst aufrichtete, um Leute draussen zu halten, hält heute Instrumente, Noten und Bühnenkostüme drinnen. Ein schöner Berufswechsel.",
+        "en" : "This one changed jobs completely. The tower went up between 1370 and 1380, built to hold a wall, not an audience. Centuries later the rooms behind it belonged to the Tallinn Conservatory. Then on 1 March 1934 the Estonian Theatre and Music Museum opened inside. So the stone that was raised to keep people out now keeps instruments, scores and stage costumes in."
+      },
       "localizedStory" : {
         "de" : "Schau hoch: vierundzwanzig Meter Turm stehen hier an der Müürivahe.",
         "en" : "Look up: twenty-four metres of stone tower stand here on Müürivahe."
@@ -8065,7 +8075,7 @@
       "story" : "Look up: twenty-four metres of stone tower stand here on Müürivahe."
     }
   ],
-  "generatedAt" : "2026-07-28T12:01:15Z",
+  "generatedAt" : "2026-07-29T12:01:48Z",
   "icon" : {
     "paths" : [
       "M 8.00 62.00 L 92.00 62.00 L 92.00 80.00 L 8.00 80.00 Z M 44.00 52.00 L 48.00 52.00 L 48.00 62.00 L 44.00 62.00 Z M 52.00 52.00 L 56.00 52.00 L 56.00 62.00 L 52.00 62.00 Z M 12.00 30.00 L 42.00 30.00 L 42.00 78.00 L 12.00 78.00 Z M 8.00 26.00 L 46.00 26.00 L 46.00 32.00 L 8.00 32.00 Z M 27.00 8.00 L 46.00 27.00 L 8.00 27.00 Z M 58.00 30.00 L 88.00 30.00 L 88.00 78.00 L 58.00 78.00 Z M 54.00 26.00 L 92.00 26.00 L 92.00 32.00 L 54.00 32.00 Z M 73.00 8.00 L 92.00 27.00 L 54.00 27.00 Z"
@@ -8078,7 +8088,7 @@
     "en" : "Tallinn"
   },
   "name" : "Tallinn",
-  "packVersion" : 8,
+  "packVersion" : 9,
   "schemaVersion" : 1,
   "source" : "OpenStreetMap via Overpass API",
   "stats" : {

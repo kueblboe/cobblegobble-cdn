@@ -249,7 +249,7 @@
     "adjustedStreets" : [
 
     ],
-    "fromVersion" : 14,
+    "fromVersion" : 15,
     "removedStreets" : [
 
     ]
@@ -23325,9 +23325,14 @@
       "story" : "James Mossman lived here for certain. John Knox, whose name it carries, may just be a good story."
     },
     {
+      "extendedStory" : "Eviction created this congregation. James VII claimed their older meeting place, wanting it for his Order of the Thistle. Suddenly nobody hereabouts had anywhere to gather. Funding arrived sideways. A merchant, Thomas Moodie, had willed money to the Crown in 1649, and James spent that legacy hereabouts. Worship began on this ground in 1691. Soldiers adopted it too, so the garrison up on the rock counts this their own.",
       "icon" : "everyday",
       "id" : "f-canongate-kirk",
       "kind" : "church",
+      "localizedExtendedStory" : {
+        "de" : "Diese Gemeinde entstand durch einen Umzug. Jakob VII. wollte ihr altes Haus beim Palast für seinen Distelorden. Damit standen die Leute der Canongate ohne Kirche da. Bezahlt wurde der Neubau aus einem Vermächtnis: Der Kaufmann Thomas Moodie hatte es 1649 der Krone hinterlassen. 1691 ging hier auf. Auch Soldaten zählen es zu ihrem, denn es ist zugleich die Kirche der Burg oben am Hügel.",
+        "en" : "Eviction created this congregation. James VII claimed their older meeting place, wanting it for his Order of the Thistle. Suddenly nobody hereabouts had anywhere to gather. Funding arrived sideways. A merchant, Thomas Moodie, had willed money to the Crown in 1649, and James spent that legacy hereabouts. Worship began on this ground in 1691. Soldiers adopted it too, so the garrison up on the rock counts this their own."
+      },
       "localizedStory" : {
         "de" : "Adam Smith liegt auf diesem Kirchhof, ein paar Schritte neben der Canongate.",
         "en" : "Adam Smith rests in this kirkyard, a few steps off the Canongate."
@@ -23340,9 +23345,14 @@
       "story" : "Adam Smith rests in this kirkyard, a few steps off the Canongate."
     },
     {
+      "extendedStory" : "Amateurs commissioned this. Calling themselves the Edinburgh Musical Society, they had wearied of renting somewhere to play. Robert Mylne drew them something permanent. Nowhere in Scotland was raised earlier for the sole business of performing. He shaped an ellipse and refused it windows entirely. Daylight arrives through the oval cupola alone, so nothing outside can tug your eyes off the players. The university took it over in 1959.",
       "icon" : "everyday",
       "id" : "f-st-cecilia-s-hall",
       "kind" : "museum",
+      "localizedExtendedStory" : {
+        "de" : "Bezahlt hat das ein Verein von Liebhabern. Sie nannten sich Edinburgh Musical Society und hatten das Mieten von Räumen satt. Robert Mylne entwarf ihnen etwas Eigenes. Früher wurde in Schottland kein Saal eigens zum Konzertieren gebaut. Den Raum formte er als Ellipse, ganz ohne Fenster. Licht fiel allein durch die ovale Kuppel. Nichts von draussen sollte den Blick von den Spielenden ziehen. 1959 kaufte die Universität das Haus.",
+        "en" : "Amateurs commissioned this. Calling themselves the Edinburgh Musical Society, they had wearied of renting somewhere to play. Robert Mylne drew them something permanent. Nowhere in Scotland was raised earlier for the sole business of performing. He shaped an ellipse and refused it windows entirely. Daylight arrives through the oval cupola alone, so nothing outside can tug your eyes off the players. The university took it over in 1959."
+      },
       "localizedStory" : {
         "de" : "Robert Mylne entwarf diesen Saal 1763; er trägt den Namen der heiligen Cäcilia.",
         "en" : "Down Dickson's Close there is a concert room from 1763, named for Saint Cecilia."
@@ -23355,9 +23365,14 @@
       "story" : "Down Dickson's Close there is a concert room from 1763, named for Saint Cecilia."
     },
     {
+      "extendedStory" : "Prince Albert set the foundation stone down on 30 August 1850. Count the porticoes: two, one north, one south. They betray a house that spent decades leading a double life. Sliced lengthwise, its eastern half hosted Academy exhibitions while the western half held the nation's own paintings. Everything shifted in 1912. The Academy moved north into the former Royal Institution, leaving the whole place to the pictures.",
       "icon" : "choice",
       "id" : "f-national-gallery",
       "kind" : "museum",
+      "localizedExtendedStory" : {
+        "de" : "Am 30. August 1850 setzte Prinz Albert den Grundstein. Zähl die Säulenvorbauten: zwei, einer nach Norden, einer nach Süden. Sie verraten ein Haus, das lange ein Doppelleben führte. Der Länge nach geteilt, zeigte der Ostflügel die Ausstellungen der Akademie. Im Westflügel hing die nationale Sammlung des Landes. So blieb es viele Jahrzehnte. 1912 änderte sich das. Die Akademie zog nach Norden ins alte Royal Institution, und das Haus gehörte fortan den Bildern.",
+        "en" : "Prince Albert set the foundation stone down on 30 August 1850. Count the porticoes: two, one north, one south. They betray a house that spent decades leading a double life. Sliced lengthwise, its eastern half hosted Academy exhibitions while the western half held the nation's own paintings. Everything shifted in 1912. The Academy moved north into the former Royal Institution, leaving the whole place to the pictures."
+      },
       "localizedStory" : {
         "de" : "William Henry Playfair entwarf diese Galerie am Mound; eröffnet wurde sie 1859.",
         "en" : "Cross the Mound and you pass its front: a gallery here since 1859, drawn by William Henry Playfair."
@@ -23370,9 +23385,14 @@
       "story" : "Cross the Mound and you pass its front: a gallery here since 1859, drawn by William Henry Playfair."
     },
     {
+      "extendedStory" : "Follow his eyes uphill. The kilted figure sits with a rifle over his knees, caught just before rising, staring toward the castle. Tait MacKenzie shaped him. Walk the wall behind: fifty feet of stone carrying a relief twenty-five feet long. A pipe band heads the procession. Miners come next, then shepherds with a sheep dog, fishermen carrying nets, clerks, children. Folk of Scottish blood living in America sent the whole thing over as a gift.",
       "icon" : "everyday",
       "id" : "f-scottish-american-war-memorial",
       "kind" : "memorial_art",
+      "localizedExtendedStory" : {
+        "de" : "Folge seinem Blick den Hügel hinauf. Die Gestalt im Kilt sitzt da, das Gewehr über den Knien, kurz vorm Aufstehen. Tait MacKenzie hat sie geformt. Geh die Mauer dahinter ab, fünfzehn Meter Stein mit einem langen Relief. Voran zieht eine Pfeifenkapelle. Dann kommen Bergleute, Hirten mit Hütehund, Fischer mit Netzen, Kontoristen, Kinder. Geschickt haben es Menschen schottischer Herkunft in Amerika, als Geschenk.",
+        "en" : "Follow his eyes uphill. The kilted figure sits with a rifle over his knees, caught just before rising, staring toward the castle. Tait MacKenzie shaped him. Walk the wall behind: fifty feet of stone carrying a relief twenty-five feet long. A pipe band heads the procession. Miners come next, then shepherds with a sheep dog, fishermen carrying nets, clerks, children. Folk of Scottish blood living in America sent the whole thing over as a gift."
+      },
       "localizedStory" : {
         "de" : "1927 vollendet – und leicht zu übersehen.",
         "en" : "Finished in 1927, and easy to walk straight past."
@@ -23385,7 +23405,7 @@
       "story" : "Finished in 1927, and easy to walk straight past."
     }
   ],
-  "generatedAt" : "2026-07-28T14:26:14Z",
+  "generatedAt" : "2026-07-29T12:02:14Z",
   "icon" : {
     "paths" : [
       "M8 92L14 82L22 86L30 76L40 82L50 74L60 82L70 77L79 85L86 80L92 92ZM20.00 56.00L80.00 56.00L80.00 84.00L20.00 84.00ZM20.00 51.00L26.67 51.00L26.67 56.00L20.00 56.00ZM33.33 51.00L40.00 51.00L40.00 56.00L33.33 56.00ZM46.67 51.00L53.33 51.00L53.33 56.00L46.67 56.00ZM60.00 51.00L66.67 51.00L66.67 56.00L60.00 56.00ZM73.33 51.00L80.00 51.00L80.00 56.00L73.33 56.00ZM17.00 42.00L33.00 42.00L33.00 84.00L17.00 84.00ZM17.00 37.00L20.20 37.00L20.20 42.00L17.00 42.00ZM23.40 37.00L26.60 37.00L26.60 42.00L23.40 42.00ZM29.80 37.00L33.00 37.00L33.00 42.00L29.80 42.00ZM67.00 42.00L83.00 42.00L83.00 84.00L67.00 84.00ZM67.00 37.00L70.20 37.00L70.20 42.00L67.00 42.00ZM73.40 37.00L76.60 37.00L76.60 42.00L73.40 42.00ZM79.80 37.00L83.00 37.00L83.00 42.00L79.80 42.00ZM40.00 30.00L60.00 30.00L60.00 84.00L40.00 84.00ZM40.00 24.00L44.00 24.00L44.00 30.00L40.00 30.00ZM48.00 24.00L52.00 24.00L52.00 30.00L48.00 30.00ZM56.00 24.00L60.00 24.00L60.00 30.00L56.00 30.00ZM49.2 30L49.2 18L50.8 18L50.8 30ZM50.8 19L62 22L50.8 25ZM44 84L44 66C44 60,56 60,56 66L56 84Z"
@@ -23398,7 +23418,7 @@
     "en" : "Edinburgh"
   },
   "name" : "Edinburgh",
-  "packVersion" : 15,
+  "packVersion" : 16,
   "schemaVersion" : 1,
   "source" : "OpenStreetMap via Overpass API",
   "stats" : {
