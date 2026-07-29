@@ -141,7 +141,7 @@
     "adjustedStreets" : [
 
     ],
-    "fromVersion" : 8,
+    "fromVersion" : 9,
     "removedStreets" : [
 
     ]
@@ -8044,15 +8044,15 @@
         "en" : "The map here says dolphin. The records say something else: Poisid kalaga, boys with a fish. Voldemar Mellik shaped the two figures, and the fountain dates from 1947. Look closely at what they are gripping and decide for yourself."
       },
       "localizedStory" : {
-        "de" : "Voldemar Mellik schuf diesen Brunnen 1947 — und das Tier, das die Jungen halten, ist ein Fisch.",
-        "en" : "Voldemar Mellik made this fountain in 1947 — and the creature the boys are holding is a fish."
+        "de" : "Voldemar Mellik schuf diesen Brunnen 1947. Und das Tier, das die Jungen halten, ist ein Fisch.",
+        "en" : "Voldemar Mellik made this fountain in 1947. And the creature the boys are holding is a fish."
       },
       "name" : "Poisid delfiiniga",
       "pos" : [
         59.436572,
         24.751703
       ],
-      "story" : "Voldemar Mellik made this fountain in 1947 — and the creature the boys are holding is a fish."
+      "story" : "Voldemar Mellik made this fountain in 1947. And the creature the boys are holding is a fish."
     },
     {
       "extendedStory" : "This one changed jobs completely. The tower went up between 1370 and 1380, built to hold a wall, not an audience. Centuries later the rooms behind it belonged to the Tallinn Conservatory. Then on 1 March 1934 the Estonian Theatre and Music Museum opened inside. So the stone that was raised to keep people out now keeps instruments, scores and stage costumes in.",
@@ -8075,7 +8075,7 @@
       "story" : "Look up: twenty-four metres of stone tower stand here on Müürivahe."
     }
   ],
-  "generatedAt" : "2026-07-29T12:01:48Z",
+  "generatedAt" : "2026-07-29T15:54:44Z",
   "icon" : {
     "paths" : [
       "M 8.00 62.00 L 92.00 62.00 L 92.00 80.00 L 8.00 80.00 Z M 44.00 52.00 L 48.00 52.00 L 48.00 62.00 L 44.00 62.00 Z M 52.00 52.00 L 56.00 52.00 L 56.00 62.00 L 52.00 62.00 Z M 12.00 30.00 L 42.00 30.00 L 42.00 78.00 L 12.00 78.00 Z M 8.00 26.00 L 46.00 26.00 L 46.00 32.00 L 8.00 32.00 Z M 27.00 8.00 L 46.00 27.00 L 8.00 27.00 Z M 58.00 30.00 L 88.00 30.00 L 88.00 78.00 L 58.00 78.00 Z M 54.00 26.00 L 92.00 26.00 L 92.00 32.00 L 54.00 32.00 Z M 73.00 8.00 L 92.00 27.00 L 54.00 27.00 Z"
@@ -8088,7 +8088,7 @@
     "en" : "Tallinn"
   },
   "name" : "Tallinn",
-  "packVersion" : 9,
+  "packVersion" : 10,
   "schemaVersion" : 1,
   "source" : "OpenStreetMap via Overpass API",
   "stats" : {

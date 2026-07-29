@@ -85,7 +85,7 @@
     "adjustedStreets" : [
 
     ],
-    "fromVersion" : 13,
+    "fromVersion" : 14,
     "removedStreets" : [
 
     ]
@@ -21536,15 +21536,15 @@
         "en" : "The horses are Lipizzaners. They come to Vienna from the Lipizzaner stud at Piber. They perform in the Winter Riding School inside the Hofburg, a baroque hall built under Charles the Sixth. The hall was built for riding, with room enough for horses to move and turn under a high roof."
       },
       "localizedStory" : {
-        "de" : "Such die Spanische Hofreitschule an der Habsburgergasse. Diese Reitschule gibt es seit 1572 — stell dir die Pferde vor, die hier geübt haben.",
-        "en" : "On Habsburgergasse you'll find the Spanische Hofreitschule, a court riding school dating back to 1572 — picture the horses trained here."
+        "de" : "Such die Spanische Hofreitschule an der Habsburgergasse. Diese Reitschule gibt es seit 1572. Stell dir die Pferde vor, die hier geübt haben.",
+        "en" : "On Habsburgergasse you'll find the Spanische Hofreitschule, a court riding school dating back to 1572. Picture the horses trained here."
       },
       "name" : "Spanische Hofreitschule",
       "pos" : [
         48.207372,
         16.366916
       ],
-      "story" : "On Habsburgergasse you'll find the Spanische Hofreitschule, a court riding school dating back to 1572 — picture the horses trained here."
+      "story" : "On Habsburgergasse you'll find the Spanische Hofreitschule, a court riding school dating back to 1572. Picture the horses trained here."
     },
     {
       "extendedStory" : "The house is named after Albert Casimir, Duke of Teschen, who began collecting here. Emanuel Silva-Tarouca had a hand in the building. It sits on top of the Augustinerbastei, a piece of the old town wall that was never pulled down. So the collection stands on a fortification: a place built to keep people out now exists to let them in.",
@@ -21556,15 +21556,15 @@
         "en" : "The house is named after Albert Casimir, Duke of Teschen, who began collecting here. Emanuel Silva-Tarouca had a hand in the building. It sits on top of the Augustinerbastei, a piece of the old town wall that was never pulled down. So the collection stands on a fortification: a place built to keep people out now exists to let them in."
       },
       "localizedStory" : {
-        "de" : "Die Albertina thront seit 1776 auf der Augustinerbastei — steig die alte Bastei hinauf, und oben erwartet dich das Gebäude.",
-        "en" : "The Albertina has stood atop the Augustinerbastei since 1776 — climb the old bastion and the building is waiting at the top."
+        "de" : "Die Albertina thront seit 1776 auf der Augustinerbastei. Steig die alte Bastei hinauf, und oben erwartet dich das Gebäude.",
+        "en" : "The Albertina has stood atop the Augustinerbastei since 1776. Climb the old bastion and the building is waiting at the top."
       },
       "name" : "Albertina",
       "pos" : [
         48.204589,
         16.368068
       ],
-      "story" : "The Albertina has stood atop the Augustinerbastei since 1776 — climb the old bastion and the building is waiting at the top."
+      "story" : "The Albertina has stood atop the Augustinerbastei since 1776. Climb the old bastion and the building is waiting at the top."
     },
     {
       "extendedStory" : "Work on the church began as far back as 1137, and a new building phase started in 1365. Romanesque stonework survives in parts of it, with round arches rather than pointed Gothic ones. Fire swept the roof in 1945, and the city rebuilt it stone by stone. The south tower still draws every eye on the square.",
@@ -21576,15 +21576,15 @@
         "en" : "Work on the church began as far back as 1137, and a new building phase started in 1365. Romanesque stonework survives in parts of it, with round arches rather than pointed Gothic ones. Fire swept the roof in 1945, and the city rebuilt it stone by stone. The south tower still draws every eye on the square."
       },
       "localizedStory" : {
-        "de" : "Stell dich auf den Stephansplatz und schau hinauf — der Südturm des Doms ragt hoch über die Altstadt, benannt nach dem heiligen Stephanus.",
-        "en" : "Stand on Stephansplatz and tip your head back — the cathedral's south tower rises high over the Old Town, named for Saint Stephen."
+        "de" : "Stell dich auf den Stephansplatz und schau hinauf. Der Südturm des Doms ragt hoch über die Altstadt, benannt nach dem heiligen Stephanus.",
+        "en" : "Stand on Stephansplatz and tip your head back. The cathedral's south tower rises high over the Old Town, named for Saint Stephen."
       },
       "name" : "Stephansdom",
       "pos" : [
         48.208743,
         16.372589
       ],
-      "story" : "Stand on Stephansplatz and tip your head back — the cathedral's south tower rises high over the Old Town, named for Saint Stephen."
+      "story" : "Stand on Stephansplatz and tip your head back. The cathedral's south tower rises high over the Old Town, named for Saint Stephen."
     },
     {
       "extendedStory" : "147 coffins and four urns rest down here, among them 12 emperors and 19 empresses. The Habsburgs often had themselves buried in more than one place. For 41 of them the body lies here and the heart in a silver vessel in the Augustinerkirche nearby. The latest burial was on 7 October 2023, and it took the last free places.",
@@ -21596,15 +21596,15 @@
         "en" : "147 coffins and four urns rest down here, among them 12 emperors and 19 empresses. The Habsburgs often had themselves buried in more than one place. For 41 of them the body lies here and the heart in a silver vessel in the Augustinerkirche nearby. The latest burial was on 7 October 2023, and it took the last free places."
       },
       "localizedStory" : {
-        "de" : "Tief unter dem Neuen Markt verbirgt sich die Kaisergruft, ein kaiserliches Gewölbe von 1633 — eine stille Steinwelt unter der Stadt.",
-        "en" : "Below Neuer Markt hides the Kaisergruft, an emperors' vault built in 1633 — a hushed stone world tucked under the busy square."
+        "de" : "Tief unter dem Neuen Markt verbirgt sich die Kaisergruft, ein kaiserliches Gewölbe von 1633. Eine stille Steinwelt unter der Stadt.",
+        "en" : "Below Neuer Markt hides the Kaisergruft, an emperors' vault built in 1633. A hushed stone world tucked under the busy square."
       },
       "name" : "Kaisergruft",
       "pos" : [
         48.205773,
         16.370165
       ],
-      "story" : "Below Neuer Markt hides the Kaisergruft, an emperors' vault built in 1633 — a hushed stone world tucked under the busy square."
+      "story" : "Below Neuer Markt hides the Kaisergruft, an emperors' vault built in 1633. A hushed stone world tucked under the busy square."
     },
     {
       "extendedStory" : "Egon Dorn opened this little stage on 25 October 1912. Its full name was Simplicissimus, which Vienna quickly shortened to Simpl. It grew into one of the best-loved and longest-lived small stages in the city. People have been laughing together in this room for well over a hundred years.",
@@ -21636,15 +21636,15 @@
         "en" : "Emperor Francis the Second ordered the temple, and Pietro Nobile drew the design. It was finished in 1823, three years after work began in 1820. The building is small, about ten and a half metres tall. It went up to hold one thing, a marble Theseus wrestling the centaur, carved by Antonio Canova."
       },
       "localizedStory" : {
-        "de" : "Der Theseustempel von 1820 ist nach dem griechischen Helden Theseus benannt, der einen Kentauren besiegt — halb Mensch, halb Pferd.",
-        "en" : "The Theseustempel was built in 1820. Its name comes from the Greek hero Theseus, who fought a centaur — half man, half horse."
+        "de" : "Der Theseustempel von 1820 ist nach dem griechischen Helden Theseus benannt, der einen Kentauren besiegt. Halb Mensch, halb Pferd.",
+        "en" : "The Theseustempel was built in 1820. Its name comes from the Greek hero Theseus, who fought a centaur. Half man, half horse."
       },
       "name" : "Theseustempel",
       "pos" : [
         48.208411,
         16.361688
       ],
-      "story" : "The Theseustempel was built in 1820. Its name comes from the Greek hero Theseus, who fought a centaur — half man, half horse."
+      "story" : "The Theseustempel was built in 1820. Its name comes from the Greek hero Theseus, who fought a centaur. Half man, half horse."
     },
     {
       "extendedStory" : "What began as a fortress kept growing for centuries. Filiberto Lucchese shaped part of it in the Renaissance style, all balance and straight lines. A newer wing opened as late as 1913, so the building spans more than six hundred years. Fire broke out in 1992, and the halls were brought back.",
@@ -21656,15 +21656,15 @@
         "en" : "What began as a fortress kept growing for centuries. Filiberto Lucchese shaped part of it in the Renaissance style, all balance and straight lines. A newer wing opened as late as 1913, so the building spans more than six hundred years. Fire broke out in 1992, and the halls were brought back."
       },
       "localizedStory" : {
-        "de" : "Die Hofburg — eine Festung, erbaut ab 1279. Sogar die Gasse, auf der du gehst, trägt ihren Namen.",
-        "en" : "The Hofburg — a stronghold built from 1279 onwards. The very street you walk carries its name."
+        "de" : "Die Hofburg. Eine Festung, erbaut ab 1279. Sogar die Gasse, auf der du gehst, trägt ihren Namen.",
+        "en" : "The Hofburg. A stronghold built from 1279 onwards. The very street you walk carries its name."
       },
       "name" : "Hofburg",
       "pos" : [
         48.20641,
         16.36597
       ],
-      "story" : "The Hofburg — a stronghold built from 1279 onwards. The very street you walk carries its name."
+      "story" : "The Hofburg. A stronghold built from 1279 onwards. The very street you walk carries its name."
     },
     {
       "extendedStory" : "People have crossed here far longer than the ironwork suggests. A bridge at this spot is written down in 1295, then a simple wooden one. From the middle of the 15th century a stone bridge with a Gothic pointed arch carried the street. Josef Hackhofer designed the one you are standing on, in the flowing Jugendstil manner of its day. Look over the parapet: the street below is the Tiefer Graben.",
@@ -21676,7 +21676,7 @@
         "en" : "People have crossed here far longer than the ironwork suggests. A bridge at this spot is written down in 1295, then a simple wooden one. From the middle of the 15th century a stone bridge with a Gothic pointed arch carried the street. Josef Hackhofer designed the one you are standing on, in the flowing Jugendstil manner of its day. Look over the parapet: the street below is the Tiefer Graben."
       },
       "localizedStory" : {
-        "de" : "Hohe Brücke — hoch heißt sie zu Recht: Seit 1903 führt sie über die tief gelegene Gasse Tiefer Graben hinweg.",
+        "de" : "Hohe Brücke. Hoch heißt sie zu Recht: Seit 1903 führt sie über die tief gelegene Gasse Tiefer Graben hinweg.",
         "en" : "The Hohe Brücke, or 'high bridge', has carried walkers since 1903. Below it runs Tiefer Graben, the 'deep ditch'."
       },
       "name" : "Hohe Brücke",
@@ -21696,15 +21696,15 @@
         "en" : "The name goes back to 1181, when the monastery quarter here was freed from the town's courts. Anyone in trouble who reached this ground was beyond their reach. The whole square has carried the name Freyung since 1710. In the middle stands the Austriabrunnen, set up in 1846 by Ludwig von Schwanthaler."
       },
       "localizedStory" : {
-        "de" : "Freyung — der Name bedeutet 'Freiung': Wer früher in Not war und die Tür der Mönche hier erreichte, war sicher.",
-        "en" : "Freyung — its name means 'freeing': long ago, someone in trouble who reached the monks' door here was safe."
+        "de" : "Freyung. Der Name bedeutet 'Freiung': Wer früher in Not war und die Tür der Mönche hier erreichte, war sicher.",
+        "en" : "Freyung. Its name means 'freeing': long ago, someone in trouble who reached the monks' door here was safe."
       },
       "name" : "Freyung",
       "pos" : [
         48.211602,
         16.365275
       ],
-      "story" : "Freyung — its name means 'freeing': long ago, someone in trouble who reached the monks' door here was safe."
+      "story" : "Freyung. Its name means 'freeing': long ago, someone in trouble who reached the monks' door here was safe."
     },
     {
       "extendedStory" : "Ludwig Baumann built these fountains between 1909 and 1913, while the great ministry behind them was going up. The city took them into its care in 1914. Look at the shape: a stepped base, a basin like a cloverleaf, four animal heads spouting water. On top sits a crowned double eagle, made by Fritz Zerritsch the elder.",
@@ -21736,15 +21736,15 @@
         "en" : "Raimund Hochleitner opened the coffee house after the building went up between 1861 and 1863. It has carried the name Schwarzenberg since 1902. Vienna's other famous cafes filled up with painters and poets; this one filled up with people from business. The architect Josef Hoffmann was among its regulars, and drew many of his designs at these tables."
       },
       "localizedStory" : {
-        "de" : "An der Schwarzenbergstraße findest du das Schwarzenberg — ein einladender Ort für eine kleine Rast.",
-        "en" : "On Schwarzenbergstraße you'll find Schwarzenberg — a welcoming spot to stop and rest your feet."
+        "de" : "An der Schwarzenbergstraße findest du das Schwarzenberg. Ein einladender Ort für eine kleine Rast.",
+        "en" : "On Schwarzenbergstraße you'll find Schwarzenberg. A welcoming spot to stop and rest your feet."
       },
       "name" : "Schwarzenberg",
       "pos" : [
         48.201852,
         16.373918
       ],
-      "story" : "On Schwarzenbergstraße you'll find Schwarzenberg — a welcoming spot to stop and rest your feet."
+      "story" : "On Schwarzenbergstraße you'll find Schwarzenberg. A welcoming spot to stop and rest your feet."
     },
     {
       "extendedStory" : "The church is dated to 801, which makes it very old indeed for this city. It is built in the Romanesque manner, heavy and plain, with round arches rather than pointed ones. It stands about 15 metres high, small beside the towers that came later. The name belongs to Rupert of Salzburg, the patron of the salt traders who worked on the river below.",
@@ -21787,7 +21787,7 @@
       "story" : "A 73-metre tower from 1955 on the Franz-Josefs-Kai, built when Vienna was putting itself back together."
     }
   ],
-  "generatedAt" : "2026-07-27T17:12:56Z",
+  "generatedAt" : "2026-07-29T15:54:45Z",
   "icon" : {
     "paths" : [
       "m34 10 l32 0 l0 24 l24 0 l0 32 l-24 0 l0 24 l-32 0 l0 -24 l-24 0 l0 -32 l24 0 z"
@@ -21800,7 +21800,7 @@
     "en" : "Vienna"
   },
   "name" : "Vienna",
-  "packVersion" : 14,
+  "packVersion" : 15,
   "schemaVersion" : 1,
   "source" : "OpenStreetMap via Overpass API",
   "stats" : {

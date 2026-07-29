@@ -141,7 +141,7 @@
     "adjustedStreets" : [
 
     ],
-    "fromVersion" : 14,
+    "fromVersion" : 15,
     "removedStreets" : [
 
     ]
@@ -7810,15 +7810,15 @@
         "en" : "This was the north gate of a Roman camp called Castra Regina. It went up under the emperor Marcus Aurelius, on the south bank of the Danube. The Third Italian Legion was stationed here, sent in answer to the Marcomannic Wars. Of all the Roman gates once built north of the Alps, this is the only one still standing."
       },
       "localizedStory" : {
-        "de" : "Geh unter der Porta praetoria hindurch: Dieses Steintor bauten die Römer schon im Jahr 179 — über achtzehn Jahrhunderte alt.",
-        "en" : "Duck under the Porta praetoria — a stone gate Roman builders raised in the year 179, still standing more than eighteen centuries later."
+        "de" : "Geh unter der Porta praetoria hindurch: Dieses Steintor bauten die Römer schon im Jahr 179. Über achtzehn Jahrhunderte alt.",
+        "en" : "Duck under the Porta praetoria. A stone gate Roman builders raised in the year 179, still standing more than eighteen centuries later."
       },
       "name" : "Porta praetoria",
       "pos" : [
         49.020132,
         12.098584
       ],
-      "story" : "Duck under the Porta praetoria — a stone gate Roman builders raised in the year 179, still standing more than eighteen centuries later."
+      "story" : "Duck under the Porta praetoria. A stone gate Roman builders raised in the year 179, still standing more than eighteen centuries later."
     },
     {
       "extendedStory" : "The kitchen has stood over 500 years beside the Steinerne Brücke, right at the Donaustrudel. Stonemasons ate here in the Middle Ages, and so did the men who worked the river boats. They wanted the same thing you can smell now. The same smell has drifted along this lane for centuries.",
@@ -7831,14 +7831,14 @@
       },
       "localizedStory" : {
         "de" : "Folg deiner Nase zur Weiße-Lamm-Gasse. In einer winzigen Küche brutzeln dort die Würste über dem Feuer.",
-        "en" : "The Historische Wurstkuchl is a tiny 'sausage kitchen' — follow your nose to Weiße-Lamm-Gasse and watch the sausages sizzle on the grill."
+        "en" : "The Historische Wurstkuchl is a tiny 'sausage kitchen'. Follow your nose to Weiße-Lamm-Gasse and watch the sausages sizzle on the grill."
       },
       "name" : "Historische Wurstkuchl",
       "pos" : [
         49.020915,
         12.097549
       ],
-      "story" : "The Historische Wurstkuchl is a tiny 'sausage kitchen' — follow your nose to Weiße-Lamm-Gasse and watch the sausages sizzle on the grill."
+      "story" : "The Historische Wurstkuchl is a tiny 'sausage kitchen'. Follow your nose to Weiße-Lamm-Gasse and watch the sausages sizzle on the grill."
     },
     {
       "extendedStory" : "Work on the cathedral started in 1275, and the building was not counted as finished until 1520. It is Gothic, so the windows rise in points and the stone is cut fine as lace. Much later Franz Joseph Denzinger took the work in hand and carried it on. The church is named for Saint Peter.",
@@ -7851,14 +7851,14 @@
       },
       "localizedStory" : {
         "de" : "Auf dem Domplatz lohnt der Blick nach oben. Die beiden Turmspitzen des Doms erreichen 105 Meter. Feiner Stein bis hinauf in die Wolken.",
-        "en" : "Stand on Domplatz and look up — the cathedral's twin spires climb 105 m into the sky, stone lace against the clouds."
+        "en" : "Stand on Domplatz and look up. The cathedral's twin spires climb 105 m into the sky, stone lace against the clouds."
       },
       "name" : "Dom Sankt Peter",
       "pos" : [
         49.019384,
         12.097581
       ],
-      "story" : "Stand on Domplatz and look up — the cathedral's twin spires climb 105 m into the sky, stone lace against the clouds."
+      "story" : "Stand on Domplatz and look up. The cathedral's twin spires climb 105 m into the sky, stone lace against the clouds."
     },
     {
       "extendedStory" : "The tower belongs to the Dreieinigkeitskirche, and it is open to climb. 157 steps wind up to the platform, where the roofs of the old town spread out below you. Nobody is paid to run it. A team of volunteers keeps the climb open right through the season, taking turns at the top. The hours depend on people giving their time.",
@@ -7870,15 +7870,15 @@
         "en" : "The tower belongs to the Dreieinigkeitskirche, and it is open to climb. 157 steps wind up to the platform, where the roofs of the old town spread out below you. Nobody is paid to run it. A team of volunteers keeps the climb open right through the season, taking turns at the top. The hours depend on people giving their time."
       },
       "localizedStory" : {
-        "de" : "Nordturm heißt 'Nordturm', der Turm im Norden — schau von der Gesandtenstraße nach oben und entdecke ihn über den Dächern.",
-        "en" : "Nordturm means 'north tower' — look up from Gesandtenstraße and pick it out above the rooftops."
+        "de" : "Nordturm heißt 'Nordturm', der Turm im Norden. Schau von der Gesandtenstraße nach oben und entdecke ihn über den Dächern.",
+        "en" : "Nordturm means 'north tower'. Look up from Gesandtenstraße and pick it out above the rooftops."
       },
       "name" : "Nordturm",
       "pos" : [
         49.018457,
         12.092065
       ],
-      "story" : "Nordturm means 'north tower' — look up from Gesandtenstraße and pick it out above the rooftops."
+      "story" : "Nordturm means 'north tower'. Look up from Gesandtenstraße and pick it out above the rooftops."
     },
     {
       "extendedStory" : "Before it was a palace it was an abbey. The Imperial Abbey of Sankt Emmeram stood here, one of the largest Benedictine monasteries in Germany. The princely house of Thurn und Taxis took it over and made it their home. Jean-Baptiste Métivier shaped much of what you see today. It holds well over 500 rooms, which makes it the largest privately inhabited castle.",
@@ -7910,15 +7910,15 @@
         "en" : "This was one of six gate towers that once guarded the old city wall. Five storeys of Gothic stone rise straight above the road. Look at the wall beside the arch and find the long slots cut into the stone. A portcullis once dropped down those slots on chains, let go from the floor above."
       },
       "localizedStory" : {
-        "de" : "Geh durch das Ostentor, Regensburgs altes Osttor: Seine Türme bewachen diesen Weg schon seit 1284 — über sieben Jahrhunderte lang.",
-        "en" : "Walk through the Ostentor, Regensburg's old east gate — its towers have watched this road since 1284, more than seven centuries."
+        "de" : "Geh durch das Ostentor, Regensburgs altes Osttor: Seine Türme bewachen diesen Weg schon seit 1284. Über sieben Jahrhunderte lang.",
+        "en" : "Walk through the Ostentor, Regensburg's old east gate. Its towers have watched this road since 1284, more than seven centuries."
       },
       "name" : "Ostentor",
       "pos" : [
         49.018175,
         12.107732
       ],
-      "story" : "Walk through the Ostentor, Regensburg's old east gate — its towers have watched this road since 1284, more than seven centuries."
+      "story" : "Walk through the Ostentor, Regensburg's old east gate. Its towers have watched this road since 1284, more than seven centuries."
     },
     {
       "extendedStory" : "An iron bridge stood here from 1863. It was destroyed in April 1945, and the crossing fell back on wood. That makeshift bridge carried people from 1946 all the way to 1991. The bridge under your feet was built between 1988 and 1991, to a design by Auer and Weber. It runs 82 metres long and 16 metres wide.",
@@ -7970,15 +7970,15 @@
         "en" : "A convent of Benedictine nuns stood on this ground from 983. Wolfgang, the bishop of Regensburg, founded it. In 1588 Pope Sixtus V dissolved the house. Its buildings passed to the Jesuits, who ran a college in them. What remains is the name over the square, long after both the nuns and the Jesuits were gone."
       },
       "localizedStory" : {
-        "de" : "Jesuitenplatz — ein Platz, benannt nach den Jesuiten, der sich Am Mittelmünster öffnet. Bleib kurz stehen und schau dich um.",
-        "en" : "Jesuitenplatz — a square named for the Jesuits, opening off Am Mittelmünster. Stand a moment and look around."
+        "de" : "Jesuitenplatz. Ein Platz, benannt nach den Jesuiten, der sich Am Mittelmünster öffnet. Bleib kurz stehen und schau dich um.",
+        "en" : "Jesuitenplatz. A square named for the Jesuits, opening off Am Mittelmünster. Stand a moment and look around."
       },
       "name" : "Jesuitenplatz",
       "pos" : [
         49.015938,
         12.097286
       ],
-      "story" : "Jesuitenplatz — a square named for the Jesuits, opening off Am Mittelmünster. Stand a moment and look around."
+      "story" : "Jesuitenplatz. A square named for the Jesuits, opening off Am Mittelmünster. Stand a moment and look around."
     },
     {
       "extendedStory" : "The tower goes back to the middle of the 13th century. Rich families then built their houses like small castles. It stands 55 metres high. In the hall upstairs the Perpetual Imperial Diet sat from 1663 to 1806. Envoys from across the empire came here to talk, year after year, for generations. The Gothic wooden ceiling above them is still in place.",
@@ -7990,15 +7990,15 @@
         "en" : "The tower goes back to the middle of the 13th century. Rich families then built their houses like small castles. It stands 55 metres high. In the hall upstairs the Perpetual Imperial Diet sat from 1663 to 1806. Envoys from across the empire came here to talk, year after year, for generations. The Gothic wooden ceiling above them is still in place."
       },
       "localizedStory" : {
-        "de" : "Neptunhof — steig hinauf zum Alten Rathaus, wo einst der Immerwährende Reichstag tagte, das lange Parlament des Reichs.",
-        "en" : "Neptunhof — step up to the Altes Rathaus, the old town hall where the Perpetual Imperial Diet, the empire's long parliament, once met."
+        "de" : "Neptunhof. Steig hinauf zum Alten Rathaus, wo einst der Immerwährende Reichstag tagte, das lange Parlament des Reichs.",
+        "en" : "Neptunhof. Step up to the Altes Rathaus, the old town hall where the Perpetual Imperial Diet, the empire's long parliament, once met."
       },
       "name" : "Altes Rathaus",
       "pos" : [
         49.020357,
         12.094563
       ],
-      "story" : "Neptunhof — step up to the Altes Rathaus, the old town hall where the Perpetual Imperial Diet, the empire's long parliament, once met."
+      "story" : "Neptunhof. Step up to the Altes Rathaus, the old town hall where the Perpetual Imperial Diet, the empire's long parliament, once met."
     },
     {
       "extendedStory" : "Georg Friedrich Ritter von Müller bought this ground in 1804 and laid out a private garden. It stayed private for a long time. The city bought it in 1935, and between 1950 and 1952 the garden was remade for everyone. At about 1.5 hectares it is one of the smaller parks here, with the Württembergisches Palais along its south side.",
@@ -8010,15 +8010,15 @@
         "en" : "Georg Friedrich Ritter von Müller bought this ground in 1804 and laid out a private garden. It stayed private for a long time. The city bought it in 1935, and between 1950 and 1952 the garden was remade for everyone. At about 1.5 hectares it is one of the smaller parks here, with the Württembergisches Palais along its south side."
       },
       "localizedStory" : {
-        "de" : "Herzogspark heißt 'Herzogs Park' — grüne Wege zum Schlendern und eine ruhige Ecke von Regensburg zum Durchatmen.",
-        "en" : "Herzogspark means 'duke's park' — green paths to wander and a quiet corner of Regensburg to catch your breath."
+        "de" : "Herzogspark heißt 'Herzogs Park'. Grüne Wege zum Schlendern und eine ruhige Ecke von Regensburg zum Durchatmen.",
+        "en" : "Herzogspark means 'duke's park'. Green paths to wander and a quiet corner of Regensburg to catch your breath."
       },
       "name" : "Herzogspark",
       "pos" : [
         49.022763,
         12.081505
       ],
-      "story" : "Herzogspark means 'duke's park' — green paths to wander and a quiet corner of Regensburg to catch your breath."
+      "story" : "Herzogspark means 'duke's park'. Green paths to wander and a quiet corner of Regensburg to catch your breath."
     },
     {
       "extendedStory" : "Carl Schad drew this church, and his day job was chief building officer to the house of Thurn und Taxis. The foundation stone went down in July 1929. Bishop Michael Buchberger consecrated the finished church in November 1930. Look at its shape: a strict cube under a saddle roof, built in a late-Expressionist style.",
@@ -8031,17 +8031,17 @@
       },
       "localizedStory" : {
         "de" : "An der Kreuzgasse steht Herz Jesu. Diese Kirche entstand 1928 und ist damit viel jünger als die Gassen ringsum.",
-        "en" : "Herz Jesu church has risen over Kreuzgasse since 1928 — young stone among Regensburg's ancient lanes."
+        "en" : "Herz Jesu church has risen over Kreuzgasse since 1928. Young stone among Regensburg's ancient lanes."
       },
       "name" : "Herz Jesu",
       "pos" : [
         49.020159,
         12.086519
       ],
-      "story" : "Herz Jesu church has risen over Kreuzgasse since 1928 — young stone among Regensburg's ancient lanes."
+      "story" : "Herz Jesu church has risen over Kreuzgasse since 1928. Young stone among Regensburg's ancient lanes."
     }
   ],
-  "generatedAt" : "2026-07-27T17:02:39Z",
+  "generatedAt" : "2026-07-29T15:54:41Z",
   "icon" : {
     "paths" : [
       "m 77.67 14.43 l 7.91 7.91 l -60.81 60.81 l -7.91 -7.91 z m 2.74 5.17 l 9.73 9.73 l -4.86 4.86 l -9.73 -9.73 z m -9.73 9.73 l 12.16 12.16 l -4.86 4.86 l -12.16 -12.16 z m -41.35 63.24 c -6.05 6.05 -15.85 6.05 -21.89 0 c -6.05 -6.05 -6.05 -15.85 0 -21.89 c 6.05 -6.05 15.85 -6.05 21.89 0 c 6.05 6.05 6.05 15.85 0 21.89 z m -5.47 -5.47 c 3.02 -3.02 3.02 -7.92 0 -10.95 c -3.02 -3.02 -7.92 -3.02 -10.95 0 c -3.02 3.02 -3.02 7.92 0 10.95 c 3.02 3.02 7.92 3.02 10.95 0 z m -9.43 -64.76 l 7.91 -7.91 l 60.81 60.81 l -7.91 7.91 z m -4.56 6.99 l 9.73 -9.73 l 4.86 4.86 l -9.73 9.73 z m 7.3 12.16 l 12.16 -12.16 l 4.86 4.86 l -12.16 12.16 z m 75.41 29.19 c 6.05 6.05 6.05 15.85 0 21.89 c -6.05 6.05 -15.85 6.05 -21.89 0 c -6.05 -6.05 -6.05 -15.85 0 -21.89 c 6.05 -6.05 15.85 -6.05 21.89 0 z m -5.47 5.47 c -3.02 -3.02 -7.92 -3.02 -10.95 0 c -3.02 3.02 -3.02 7.92 0 10.95 c 3.02 3.02 7.92 3.02 10.95 0 c 3.02 -3.02 3.02 -7.92 0 -10.95 z"
@@ -8054,7 +8054,7 @@
     "en" : "Regensburg"
   },
   "name" : "Regensburg",
-  "packVersion" : 15,
+  "packVersion" : 16,
   "schemaVersion" : 1,
   "source" : "OpenStreetMap via Overpass API",
   "stats" : {

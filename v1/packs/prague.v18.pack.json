@@ -305,7 +305,7 @@
     "adjustedStreets" : [
 
     ],
-    "fromVersion" : 16,
+    "fromVersion" : 17,
     "removedStreets" : [
 
     ]
@@ -29446,7 +29446,7 @@
         "en" : "Stand at the foot of this tower on Celetná and look straight up its 44 metres. Builders began raising it in 1475. The name is the surprise: people once stored gunpowder inside these Gothic walls, so it became the Powder Tower. Picture that, then picture how many barrels a tower this tall could hold. Now it just holds the view, waiting for you to tip your head back and take it in."
       },
       "localizedStory" : {
-        "de" : "Diesen gotischen Turm nennt man Pulverturm — nach dem Schwarzpulver, das man hier einst aufbewahrte.",
+        "de" : "Diesen gotischen Turm nennt man Pulverturm. Nach dem Schwarzpulver, das man hier einst aufbewahrte.",
         "en" : "People call this Gothic tower the Powder Tower, after the gunpowder once kept inside it."
       },
       "name" : "Prašná brána",
@@ -29466,7 +29466,7 @@
         "en" : "This is the gate at the end of Charles Bridge, standing about 47 metres tall. Bohemia's kings once rode through it on the day they were crowned. Emperor Charles IV wanted it built, and Petr Parléř drew the design in the middle of the fourteenth century. Inside, 138 steps climb to a gallery near the top. Stand below and picture a king passing under the arch, on his way to the crown."
       },
       "localizedStory" : {
-        "de" : "Am Ostende der Karlsbrücke bewacht dieser gotische Turm den Weg — entworfen von Petr Parléř.",
+        "de" : "Am Ostende der Karlsbrücke bewacht dieser gotische Turm den Weg. Entworfen von Petr Parléř.",
         "en" : "Guarding the eastern end of Charles Bridge, this Gothic tower rose from a design by Petr Parléř."
       },
       "name" : "Staroměstská mostecká věž",
@@ -29577,7 +29577,7 @@
       "story" : "This square is named for St Castulus church right beside it. Find the Gothic church - its pointed arches date from the 14th century."
     }
   ],
-  "generatedAt" : "2026-07-28T14:00:44Z",
+  "generatedAt" : "2026-07-29T15:54:40Z",
   "icon" : {
     "paths" : [
       "M8 90 L8 30 L16 30 L16 38 L22 38 L22 30 L30 30 L30 52 L38 52 L38 16 L47 16 L47 26 L53 26 L53 16 L62 16 L62 52 L70 52 L70 30 L78 30 L78 38 L84 38 L84 30 L92 30 L92 90 Z M42 90 L58 90 L58 66 C58 60 42 60 42 66 Z"
@@ -29591,7 +29591,7 @@
     "en" : "Prague"
   },
   "name" : "Prague",
-  "packVersion" : 17,
+  "packVersion" : 18,
   "schemaVersion" : 1,
   "source" : "OpenStreetMap via Overpass API",
   "stats" : {

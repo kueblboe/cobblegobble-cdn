@@ -85,7 +85,7 @@
     "adjustedStreets" : [
 
     ],
-    "fromVersion" : 16,
+    "fromVersion" : 17,
     "removedStreets" : [
 
     ]
@@ -4668,15 +4668,15 @@
         "en" : "The name comes from a bath-house that stood next door, at Latrán number one. Before this bridge there was a footbridge, and in 1830 ice floes on the river wrecked it. The stone bridge you are standing on was built to replace it. Two stone abutments carry it, with a single pier out in midstream. A figure of St John of Nepomuk and a cross keep watch from the middle."
       },
       "localizedStory" : {
-        "de" : "Die Baderbrücke über die Moldau — geh hier hinüber, und du bist in Krumaus Altstadt.",
-        "en" : "The Barber's Bridge over the Vltava — cross here and you're in Krumlov's Old Town."
+        "de" : "Die Baderbrücke über die Moldau. Geh hier hinüber, und du bist in Krumaus Altstadt.",
+        "en" : "The Barber's Bridge over the Vltava. Cross here and you're in Krumlov's Old Town."
       },
       "name" : "Lazebnický most",
       "pos" : [
         48.811797,
         14.315689
       ],
-      "story" : "The Barber's Bridge over the Vltava — cross here and you're in Krumlov's Old Town."
+      "story" : "The Barber's Bridge over the Vltava. Cross here and you're in Krumlov's Old Town."
     },
     {
       "extendedStory" : "The townspeople built this house for themselves in 1605, in Široká street at number 71. It belonged to the town rather than to the lords up at the castle. Work began again after 1945, then stopped for good in January 1949. The doors stayed shut for more than forty years. What goes on inside today was started fresh in 1992.",
@@ -4748,18 +4748,18 @@
         "en" : "The museum looks after 22,000 registered objects from the town's past. The exhibit people remember is a ceramic model of the whole town. It lays out the historic centre, roof by roof, so you can find every street you have already walked. Look for your own route across it, and see how far you have come."
       },
       "localizedStory" : {
-        "de" : "An der Horní steht das Regionální muzeum, das Regionalmuseum von Krumau — voller Dinge aus der Vergangenheit der Stadt zum Anschauen.",
-        "en" : "On Horní stands the Regionální muzeum, Krumlov's regional museum — full of things from the town's past to look at."
+        "de" : "An der Horní steht das Regionální muzeum, das Regionalmuseum von Krumau. Es ist voller Dinge aus der Vergangenheit der Stadt zum Anschauen.",
+        "en" : "On Horní stands the Regionální muzeum, Krumlov's regional museum. It is full of things from the town's past to look at."
       },
       "name" : "Regionální muzeum v Českém Krumlově",
       "pos" : [
         48.810687,
         14.317792
       ],
-      "story" : "On Horní stands the Regionální muzeum, Krumlov's regional museum — full of things from the town's past to look at."
+      "story" : "On Horní stands the Regionální muzeum, Krumlov's regional museum. It is full of things from the town's past to look at."
     }
   ],
-  "generatedAt" : "2026-07-27T17:00:08Z",
+  "generatedAt" : "2026-07-29T15:54:29Z",
   "icon" : {
     "paths" : [
       "m50 45c-15 -11 -25 -40 0 -40c25 0 15 29 0 40zm4.76 3.45c5.83 -17.67 30.32 -36.14 38.04 -12.36c7.73 23.78 -22.95 23.23 -38.04 12.36zm-1.82 5.59c18.6 0.08 43.74 17.67 23.51 32.36c-20.23 14.69 -29.18 -14.64 -23.51 -32.36zm-5.88 0c5.67 17.72 -3.29 47.06 -23.51 32.36c-20.23 -14.69 4.91 -32.28 23.51 -32.36zm-1.82 -5.59c-15.1 10.87 -45.77 11.42 -38.04 -12.36c7.73 -23.78 32.22 -5.3 38.04 12.36zm18.61 -8.17l6.72 -18.6l-15.62 12.14zm-0.34 19.89l19.77 0.64l-16.37 -11.1zm-19.02 5.82l5.5 19l5.5 -19zm-11.42 -16.29l-16.37 11.1l19.77 -0.64zm11.96 -15.89l-15.62 -12.14l6.72 18.6zm17.95 16.18c0 7.18 -5.82 13 -13 13c-7.18 0 -13 -5.82 -13 -13c0 -7.18 5.82 -13 13 -13c7.18 0 13 5.82 13 13zm-7 0c0 -3.31 -2.69 -6 -6 -6c-3.31 0 -6 2.69 -6 6c0 3.31 2.69 6 6 6c3.31 0 6 -2.69 6 -6z"
@@ -4773,7 +4773,7 @@
     "en" : "Český Krumlov"
   },
   "name" : "Český Krumlov",
-  "packVersion" : 17,
+  "packVersion" : 18,
   "schemaVersion" : 1,
   "source" : "OpenStreetMap via Overpass API",
   "stats" : {

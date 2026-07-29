@@ -213,7 +213,7 @@
     "adjustedStreets" : [
 
     ],
-    "fromVersion" : 15,
+    "fromVersion" : 16,
     "removedStreets" : [
 
     ]
@@ -10902,15 +10902,15 @@
         "en" : "Look for the gate on the courtyard side. Pankraz Wagner carved it in 1573, and it shows Mary with Henry and Kunigunde beside her. The two of them hold a small model of the cathedral. The range behind it went up from 1570 for prince-bishop Veit II, built by Erasmus Braun. Emperor Henry the Second once had his palace on this same ground. In summer the courtyard fills with an open-air theatre festival."
       },
       "localizedStory" : {
-        "de" : "Die Alte Hofhaltung am Domplatz — hier hielten Bambergs Fürstbischöfe Hof; sie waren Kirchenleute und Stadtherren in einem.",
-        "en" : "On Domplatz stands the Alte Hofhaltung — the old court where Bamberg's prince-bishops, church leaders who also ruled the town, once lived."
+        "de" : "Die Alte Hofhaltung am Domplatz. Hier hielten Bambergs Fürstbischöfe Hof; sie waren Kirchenleute und Stadtherren in einem.",
+        "en" : "On Domplatz stands the Alte Hofhaltung. The old court where Bamberg's prince-bishops, church leaders who also ruled the town, once lived."
       },
       "name" : "Alte Hofhaltung",
       "pos" : [
         49.891392,
         10.881546
       ],
-      "story" : "On Domplatz stands the Alte Hofhaltung — the old court where Bamberg's prince-bishops, church leaders who also ruled the town, once lived."
+      "story" : "On Domplatz stands the Alte Hofhaltung. The old court where Bamberg's prince-bishops, church leaders who also ruled the town, once lived."
     },
     {
       "extendedStory" : "The house has a name older than the nickname. It is the Blue Lion, written down in 1405. The nickname came much later, from Andreas Graser, who ran the place from 1875 to 1905. Horses bolted while he was unloading, and the injury left him swinging his arms as he walked. People teased him for that walk, and the name stuck to the house.",
@@ -10922,15 +10922,15 @@
         "en" : "The house has a name older than the nickname. It is the Blue Lion, written down in 1405. The nickname came much later, from Andreas Graser, who ran the place from 1875 to 1905. Horses bolted while he was unloading, and the injury left him swinging his arms as he walked. People teased him for that walk, and the name stuck to the house."
       },
       "localizedStory" : {
-        "de" : "Ringleinsgasse — in dieser Gasse gibt es das Schlenkerla schon seit 1405, seit über sechshundert Jahren.",
-        "en" : "Ringleinsgasse — the lane where Schlenkerla has stood since 1405, over six hundred years ago."
+        "de" : "Ringleinsgasse. In dieser Gasse gibt es das Schlenkerla schon seit 1405, seit über sechshundert Jahren.",
+        "en" : "Ringleinsgasse. The lane where Schlenkerla has stood since 1405, over six hundred years ago."
       },
       "name" : "Schlenkerla",
       "pos" : [
         49.891687,
         10.885009
       ],
-      "story" : "Ringleinsgasse — the lane where Schlenkerla has stood since 1405, over six hundred years ago."
+      "story" : "Ringleinsgasse. The lane where Schlenkerla has stood since 1405, over six hundred years ago."
     },
     {
       "extendedStory" : "The cathedral carries the name of Saint Peter, and that dedication is as old as the building. Its Romanesque parts came early, which means round arches and thick, calm walls rather than pointed ones. Centuries later Friedrich von Gärtner worked on the building, so what you see mixes the hands of very different ages.",
@@ -10942,15 +10942,15 @@
         "en" : "The cathedral carries the name of Saint Peter, and that dedication is as old as the building. Its Romanesque parts came early, which means round arches and thick, calm walls rather than pointed ones. Centuries later Friedrich von Gärtner worked on the building, so what you see mixes the hands of very different ages."
       },
       "localizedStory" : {
-        "de" : "Domplatz — auf diesem Platz steht der Bamberger Dom, im Jahr 1004 begonnen, seit über tausend Jahren.",
-        "en" : "Domplatz — the cathedral square where the Bamberger Dom, begun in 1004, has stood for over a thousand years."
+        "de" : "Domplatz. Auf diesem Platz steht der Bamberger Dom, im Jahr 1004 begonnen, seit über tausend Jahren.",
+        "en" : "Domplatz. The cathedral square where the Bamberger Dom, begun in 1004, has stood for over a thousand years."
       },
       "name" : "Bamberger Dom",
       "pos" : [
         49.890879,
         10.882513
       ],
-      "story" : "Domplatz — the cathedral square where the Bamberger Dom, begun in 1004, has stood for over a thousand years."
+      "story" : "Domplatz. The cathedral square where the Bamberger Dom, begun in 1004, has stood for over a thousand years."
     },
     {
       "extendedStory" : "The figure standing in the water is Neptune, the Roman god of the sea. He holds a three-pronged spear called a trident. People here thought it looked like a kitchen fork, and the nickname stuck. The Neptune you see was made in 1698, while the fountain he stands in dates from 1566.",
@@ -10962,15 +10962,15 @@
         "en" : "The figure standing in the water is Neptune, the Roman god of the sea. He holds a three-pronged spear called a trident. People here thought it looked like a kitchen fork, and the nickname stuck. The Neptune you see was made in 1698, while the fountain he stands in dates from 1566."
       },
       "localizedStory" : {
-        "de" : "Keßlerstraße — die Figur im Brunnen hält einen Dreizack, und der sieht aus wie eine Gabel. Darum heißt sie hier Gabelmann.",
-        "en" : "Keßlerstraße — the fountain here is Neptune, but Bamberg calls him Gabelmann, the fork man, for the trident in his hand."
+        "de" : "Keßlerstraße. Die Figur im Brunnen hält einen Dreizack, und der sieht aus wie eine Gabel. Darum heißt sie hier Gabelmann.",
+        "en" : "Keßlerstraße. The fountain here is Neptune, but Bamberg calls him Gabelmann, the fork man, for the trident in his hand."
       },
       "name" : "Gabelmann",
       "pos" : [
         49.892732,
         10.888546
       ],
-      "story" : "Keßlerstraße — the fountain here is Neptune, but Bamberg calls him Gabelmann, the fork man, for the trident in his hand."
+      "story" : "Keßlerstraße. The fountain here is Neptune, but Bamberg calls him Gabelmann, the fork man, for the trident in his hand."
     },
     {
       "extendedStory" : "Bishop Gunther of Bamberg founded it between 1057 and 1059, together with Count Reginold Waldpot von Zwernitz. Its core stone dates from the third quarter of the eleventh century. That makes it the oldest sacred building still standing in the city. Everything else you have passed today is younger.",
@@ -10982,15 +10982,15 @@
         "en" : "Bishop Gunther of Bamberg founded it between 1057 and 1059, together with Count Reginold Waldpot von Zwernitz. Its core stone dates from the third quarter of the eleventh century. That makes it the oldest sacred building still standing in the city. Everything else you have passed today is younger."
       },
       "localizedStory" : {
-        "de" : "Obere Königstraße — Sankt Gangolf ist die älteste erhaltene Kirche Bambergs, gegründet 1057.",
-        "en" : "Obere Königstraße — Sankt Gangolf is the oldest church still standing in Bamberg, founded in 1057."
+        "de" : "Obere Königstraße. Sankt Gangolf ist die älteste erhaltene Kirche Bambergs, gegründet 1057.",
+        "en" : "Obere Königstraße. Sankt Gangolf is the oldest church still standing in Bamberg, founded in 1057."
       },
       "name" : "Sankt Gangolf",
       "pos" : [
         49.897029,
         10.896283
       ],
-      "story" : "Obere Königstraße — Sankt Gangolf is the oldest church still standing in Bamberg, founded in 1057."
+      "story" : "Obere Königstraße. Sankt Gangolf is the oldest church still standing in Bamberg, founded in 1057."
     },
     {
       "extendedStory" : "Fishermen lived in the row of houses across the water, and Bamberg has long called it Little Venice. Those timber-framed houses mostly go back to the Middle Ages. Look at the small gardens that run right down to the river. Boats are still tied up there, bobbing at their moorings.",
@@ -11002,15 +11002,15 @@
         "en" : "Fishermen lived in the row of houses across the water, and Bamberg has long called it Little Venice. Those timber-framed houses mostly go back to the Middle Ages. Look at the small gardens that run right down to the river. Boats are still tied up there, bobbing at their moorings."
       },
       "localizedStory" : {
-        "de" : "Am Leinritt — von diesem Aussichtspunkt schaust du in Ruhe hinüber zu Klein Venedig.",
-        "en" : "Am Leinritt — the spot where you stand and look across to Klein Venedig, Bamberg's own 'Little Venice.'"
+        "de" : "Am Leinritt. Von diesem Aussichtspunkt schaust du in Ruhe hinüber zu Klein Venedig.",
+        "en" : "Am Leinritt. The spot where you stand and look across to Klein Venedig, Bamberg's own 'Little Venice.'"
       },
       "name" : "Ausblick auf Klein Venedig",
       "pos" : [
         49.893018,
         10.884398
       ],
-      "story" : "Am Leinritt — the spot where you stand and look across to Klein Venedig, Bamberg's own 'Little Venice.'"
+      "story" : "Am Leinritt. The spot where you stand and look across to Klein Venedig, Bamberg's own 'Little Venice.'"
     },
     {
       "extendedStory" : "The town hall needed ground of its own, so Bambergers drove piles into the Regnitz and built an island. The walls are painted with fake architecture that makes the flat front look moulded and deep. Look closely at the frescoes and find a putto. One of its legs is not painted at all: it juts out of the wall as real sculpture.",
@@ -11022,15 +11022,15 @@
         "en" : "The town hall needed ground of its own, so Bambergers drove piles into the Regnitz and built an island. The walls are painted with fake architecture that makes the flat front look moulded and deep. Look closely at the frescoes and find a putto. One of its legs is not painted at all: it juts out of the wall as real sculpture."
       },
       "localizedStory" : {
-        "de" : "Obere Brücke — auf dieser Brücke steht das Alte Rathaus von Bamberg. Geh einfach hinüber.",
-        "en" : "Obere Brücke — the 'Upper Bridge' where the Altes Rathaus, Bamberg's old town hall, stands right on the bridge itself."
+        "de" : "Obere Brücke. Auf dieser Brücke steht das Alte Rathaus von Bamberg. Geh einfach hinüber.",
+        "en" : "Obere Brücke. The 'Upper Bridge' where the Altes Rathaus, Bamberg's old town hall, stands right on the bridge itself."
       },
       "name" : "Altes Rathaus",
       "pos" : [
         49.891574,
         10.886839
       ],
-      "story" : "Obere Brücke — the 'Upper Bridge' where the Altes Rathaus, Bamberg's old town hall, stands right on the bridge itself."
+      "story" : "Obere Brücke. The 'Upper Bridge' where the Altes Rathaus, Bamberg's old town hall, stands right on the bridge itself."
     },
     {
       "extendedStory" : "The house opened its doors in 1808. It carries the name of the writer E. T. A. Hoffmann. The building was made over in 1862, then again in 1953, and once more in 1981. Each generation seems to have wanted its own theatre inside the same walls. The address on Schillerplatz has stayed put through all of it.",
@@ -11093,7 +11093,7 @@
       "story" : "On Marienplatz, a stone Mary stands over her basin. The sculptor Robert Bauer-Haderlein cut her in 1954."
     }
   ],
-  "generatedAt" : "2026-07-28T06:07:14Z",
+  "generatedAt" : "2026-07-29T15:54:26Z",
   "icon" : {
     "paths" : [
       "m 34 29 c 0 -16 20 -16 20 0 l 9 8 0 7 14 0 0 8 -16 0 -2 14 4 9 -4 2 -3 16 -7 0 -3 -22 -3 22 -7 0 -3 -16 -5 -2 2 -15 -3 -16 -2 -7 z m 39 -26 l 7 14 -3 2 0 75 -8 0 0 -75 -3 -2 z"
@@ -11106,7 +11106,7 @@
     "en" : "Bamberg"
   },
   "name" : "Bamberg",
-  "packVersion" : 16,
+  "packVersion" : 17,
   "schemaVersion" : 1,
   "source" : "OpenStreetMap via Overpass API",
   "stats" : {

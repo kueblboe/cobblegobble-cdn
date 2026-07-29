@@ -249,7 +249,7 @@
     "adjustedStreets" : [
 
     ],
-    "fromVersion" : 15,
+    "fromVersion" : 16,
     "removedStreets" : [
 
     ]
@@ -23394,7 +23394,7 @@
         "en" : "Follow his eyes uphill. The kilted figure sits with a rifle over his knees, caught just before rising, staring toward the castle. Tait MacKenzie shaped him. Walk the wall behind: fifty feet of stone carrying a relief twenty-five feet long. A pipe band heads the procession. Miners come next, then shepherds with a sheep dog, fishermen carrying nets, clerks, children. Folk of Scottish blood living in America sent the whole thing over as a gift."
       },
       "localizedStory" : {
-        "de" : "1927 vollendet – und leicht zu übersehen.",
+        "de" : "1927 vollendet. Und leicht zu übersehen.",
         "en" : "Finished in 1927, and easy to walk straight past."
       },
       "name" : "Scottish American War Memorial",
@@ -23405,7 +23405,7 @@
       "story" : "Finished in 1927, and easy to walk straight past."
     }
   ],
-  "generatedAt" : "2026-07-29T12:02:14Z",
+  "generatedAt" : "2026-07-29T15:54:31Z",
   "icon" : {
     "paths" : [
       "M8 92L14 82L22 86L30 76L40 82L50 74L60 82L70 77L79 85L86 80L92 92ZM20.00 56.00L80.00 56.00L80.00 84.00L20.00 84.00ZM20.00 51.00L26.67 51.00L26.67 56.00L20.00 56.00ZM33.33 51.00L40.00 51.00L40.00 56.00L33.33 56.00ZM46.67 51.00L53.33 51.00L53.33 56.00L46.67 56.00ZM60.00 51.00L66.67 51.00L66.67 56.00L60.00 56.00ZM73.33 51.00L80.00 51.00L80.00 56.00L73.33 56.00ZM17.00 42.00L33.00 42.00L33.00 84.00L17.00 84.00ZM17.00 37.00L20.20 37.00L20.20 42.00L17.00 42.00ZM23.40 37.00L26.60 37.00L26.60 42.00L23.40 42.00ZM29.80 37.00L33.00 37.00L33.00 42.00L29.80 42.00ZM67.00 42.00L83.00 42.00L83.00 84.00L67.00 84.00ZM67.00 37.00L70.20 37.00L70.20 42.00L67.00 42.00ZM73.40 37.00L76.60 37.00L76.60 42.00L73.40 42.00ZM79.80 37.00L83.00 37.00L83.00 42.00L79.80 42.00ZM40.00 30.00L60.00 30.00L60.00 84.00L40.00 84.00ZM40.00 24.00L44.00 24.00L44.00 30.00L40.00 30.00ZM48.00 24.00L52.00 24.00L52.00 30.00L48.00 30.00ZM56.00 24.00L60.00 24.00L60.00 30.00L56.00 30.00ZM49.2 30L49.2 18L50.8 18L50.8 30ZM50.8 19L62 22L50.8 25ZM44 84L44 66C44 60,56 60,56 66L56 84Z"
@@ -23418,7 +23418,7 @@
     "en" : "Edinburgh"
   },
   "name" : "Edinburgh",
-  "packVersion" : 16,
+  "packVersion" : 17,
   "schemaVersion" : 1,
   "source" : "OpenStreetMap via Overpass API",
   "stats" : {

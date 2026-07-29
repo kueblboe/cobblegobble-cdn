@@ -241,7 +241,7 @@
         "en" : "Bamberg"
       },
       "name" : "Bamberg",
-      "packVersion" : 16,
+      "packVersion" : 17,
       "stats" : {
         "estHours" : 8,
         "nodeCount" : 1535,
@@ -798,7 +798,7 @@
         "it" : "Bologna"
       },
       "name" : "Bologna",
-      "packVersion" : 21,
+      "packVersion" : 22,
       "stats" : {
         "estHours" : 12.3,
         "nodeCount" : 1860,
@@ -1175,7 +1175,7 @@
         "en" : "Český Krumlov"
       },
       "name" : "Český Krumlov",
-      "packVersion" : 17,
+      "packVersion" : 18,
       "stats" : {
         "estHours" : 2.5,
         "nodeCount" : 423,
@@ -1743,7 +1743,7 @@
         "en" : "Edinburgh"
       },
       "name" : "Edinburgh",
-      "packVersion" : 16,
+      "packVersion" : 17,
       "stats" : {
         "estHours" : 8.8,
         "nodeCount" : 1603,
@@ -2095,7 +2095,7 @@
         "en" : "Freyung"
       },
       "name" : "Freyung",
-      "packVersion" : 9,
+      "packVersion" : 10,
       "stats" : {
         "estHours" : 3.1,
         "nodeCount" : 456,
@@ -2303,7 +2303,7 @@
         "en" : "Heidelberg"
       },
       "name" : "Heidelberg",
-      "packVersion" : 4,
+      "packVersion" : 5,
       "stats" : {
         "estHours" : 6.1,
         "nodeCount" : 1041,
@@ -2459,7 +2459,7 @@
         "en" : "Kraków"
       },
       "name" : "Kraków",
-      "packVersion" : 5,
+      "packVersion" : 6,
       "stats" : {
         "estHours" : 5.5,
         "nodeCount" : 952,
@@ -3215,7 +3215,7 @@
         "en" : "Munich"
       },
       "name" : "Munich",
-      "packVersion" : 16,
+      "packVersion" : 17,
       "stats" : {
         "estHours" : 11.5,
         "nodeCount" : 1955,
@@ -3439,7 +3439,7 @@
         "en" : "Nuremberg"
       },
       "name" : "Nuremberg",
-      "packVersion" : 20,
+      "packVersion" : 21,
       "stats" : {
         "estHours" : 15.3,
         "nodeCount" : 2642,
@@ -3647,7 +3647,7 @@
         "en" : "Passau"
       },
       "name" : "Passau",
-      "packVersion" : 20,
+      "packVersion" : 21,
       "stats" : {
         "estHours" : 5.8,
         "nodeCount" : 963,
@@ -4144,7 +4144,7 @@
         "en" : "Prague"
       },
       "name" : "Prague",
-      "packVersion" : 17,
+      "packVersion" : 18,
       "stats" : {
         "estHours" : 10.8,
         "nodeCount" : 1854,
@@ -4304,7 +4304,7 @@
         "en" : "Regensburg"
       },
       "name" : "Regensburg",
-      "packVersion" : 15,
+      "packVersion" : 16,
       "stats" : {
         "estHours" : 11.5,
         "nodeCount" : 1903,
@@ -4440,7 +4440,7 @@
         "en" : "Salzburg"
       },
       "name" : "Salzburg",
-      "packVersion" : 22,
+      "packVersion" : 23,
       "stats" : {
         "estHours" : 9.8,
         "nodeCount" : 1586,
@@ -5140,7 +5140,7 @@
         "en" : "Tallinn"
       },
       "name" : "Tallinn",
-      "packVersion" : 9,
+      "packVersion" : 10,
       "stats" : {
         "estHours" : 4.5,
         "nodeCount" : 727,
@@ -5304,7 +5304,7 @@
         "en" : "Vienna"
       },
       "name" : "Vienna",
-      "packVersion" : 14,
+      "packVersion" : 15,
       "stats" : {
         "estHours" : 15.7,
         "nodeCount" : 2770,

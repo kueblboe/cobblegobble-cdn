@@ -405,7 +405,7 @@
     "adjustedStreets" : [
 
     ],
-    "fromVersion" : 20,
+    "fromVersion" : 21,
     "removedStreets" : [
 
     ]
@@ -19976,7 +19976,7 @@
         "en" : "In 1790 Giovanni Battista Guglielmini climbed to the top with a ball of lead. He let it go and watched where it landed. It did not fall straight down, but drifted a little to the east. That small drift was his evidence that the Earth is turning under us. The tower carries the name of the Asinelli, and a document of 1185 already knew it."
       },
       "localizedStory" : {
-        "de" : "In diesem schiefen Backsteinturm winden sich 498 Stufen fast 97 Meter empor — seit 1150 steht er über der Strada Maggiore.",
+        "de" : "In diesem schiefen Backsteinturm winden sich 498 Stufen fast 97 Meter empor. Seit 1150 steht er über der Strada Maggiore.",
         "en" : "Inside this leaning brick tower, 498 steps wind nearly 97 metres up. It has stood over Strada Maggiore since 1150."
       },
       "name" : "Asinelli",
@@ -19996,15 +19996,15 @@
         "en" : "The tower stands 61 metres tall, and it went up in the second half of the twelfth century. The family it is named for, the Azzoguidi, appear in Bologna's written records from 1228. Bologna once bristled with towers like this one. About twenty of them are still standing in the old centre."
       },
       "localizedStory" : {
-        "de" : "Der Torre Azzoguidi ragt 61 Meter hoch — einer von etwa zwanzig Geschlechtertürmen, die Bologna noch hat.",
-        "en" : "The Torre Azzoguidi rises 61 metres — one of about twenty family towers Bologna still has standing."
+        "de" : "Der Torre Azzoguidi ragt 61 Meter hoch. Einer von etwa zwanzig Geschlechtertürmen, die Bologna noch hat.",
+        "en" : "The Torre Azzoguidi rises 61 metres. One of about twenty family towers Bologna still has standing."
       },
       "name" : "Torre Azzoguidi",
       "pos" : [
         44.495212,
         11.344354
       ],
-      "story" : "The Torre Azzoguidi rises 61 metres — one of about twenty family towers Bologna still has standing."
+      "story" : "The Torre Azzoguidi rises 61 metres. One of about twenty family towers Bologna still has standing."
     },
     {
       "extendedStory" : "The square measures 115 metres by 60, which is room enough for a crowd. Its middle is a little higher than the rest, a rectangle of white and pink granite laid in 1934. It stands 15 centimetres above the paving. Bologna calls it the crescentone, after the crescente, a salted flatbread from its own kitchens.",
@@ -20056,15 +20056,15 @@
         "en" : "Carlo Francesco Dotti drew the building. Work started in 1712, but the doors did not open to readers until 1756. That is forty-four years between the laying of the stone and the reading of the books. The shelves sit in the university quarter, where students have walked for centuries."
       },
       "localizedStory" : {
-        "de" : "Die Universitätsbibliothek Bolognas an der Via Zamboni — 1712 begonnen, 1756 für Leser geöffnet.",
-        "en" : "Bologna's university library on Via Zamboni — begun in 1712 and opened to readers in 1756."
+        "de" : "Die Universitätsbibliothek Bolognas an der Via Zamboni. 1712 begonnen, 1756 für Leser geöffnet.",
+        "en" : "Bologna's university library on Via Zamboni. Begun in 1712 and opened to readers in 1756."
       },
       "name" : "Biblioteca Universitaria",
       "pos" : [
         44.497078,
         11.35302
       ],
-      "story" : "Bologna's university library on Via Zamboni — begun in 1712 and opened to readers in 1756."
+      "story" : "Bologna's university library on Via Zamboni. Begun in 1712 and opened to readers in 1756."
     },
     {
       "extendedStory" : "Before you go in, step under the covered walkway that runs along its side. That portico is credited to Antonio di Vincenzo, around 1392. The church itself had grown by then, made bigger in 1383 by Andrea da Faenza. Inside hangs a painted panel of the Maestà by Cimabue, from about 1285. It is older than the church that holds it.",
@@ -20136,15 +20136,15 @@
         "en" : "This gate belonged to the third ring of walls that Bologna built around itself. Antonio Paltroni rebuilt it in 1508. For centuries it had walls running away on either side. Those came down in the early 1900s, and the gate was left standing on its own. That is why it stands by itself today, a gate with no wall to guard."
       },
       "localizedStory" : {
-        "de" : "Bolognas westliches Stadttor seit 1250, hin zur Via Emilia — der alten Römerstraße aus der Stadt.",
-        "en" : "Bologna's western gate since 1250, opening onto the Via Emilia — the old Roman road out of town."
+        "de" : "Bolognas westliches Stadttor seit 1250, hin zur Via Emilia. Das war die alte Römerstraße aus der Stadt.",
+        "en" : "Bologna's western gate since 1250, opening onto the Via Emilia. The old Roman road out of town."
       },
       "name" : "Porta San Felice",
       "pos" : [
         44.499233,
         11.327234
       ],
-      "story" : "Bologna's western gate since 1250, opening onto the Via Emilia — the old Roman road out of town."
+      "story" : "Bologna's western gate since 1250, opening onto the Via Emilia. The old Roman road out of town."
     },
     {
       "extendedStory" : "Bologna wrapped itself in walls three times over, and this tower belonged to the second ring. The city calls that ring the cerchia del mille, the ring of the thousand. Work on it began in the late twelfth century. A torresotto is a gate-tower set into the wall, watching whoever came through. Stand under it and you are standing in what was once a hole in the wall.",
@@ -20167,7 +20167,7 @@
       "story" : "This gate-tower has stood over Via Portanova since 1150, a short walk from the Mercato delle Erbe."
     }
   ],
-  "generatedAt" : "2026-07-28T06:10:55Z",
+  "generatedAt" : "2026-07-29T15:54:28Z",
   "icon" : {
     "paths" : [
       "M34 84 L34 12 L39 12 L39 17 L43 17 L43 12 L48 12 L48 84 Z M56 84 L66 38 L66 33 L71 33 L71 38 L75 38 L75 33 L80 33 L80 38 L70 84 Z M28 84 L78 84 L78 90 L28 90 Z"
@@ -20181,7 +20181,7 @@
     "it" : "Bologna"
   },
   "name" : "Bologna",
-  "packVersion" : 21,
+  "packVersion" : 22,
   "schemaVersion" : 1,
   "source" : "OpenStreetMap via Overpass API",
   "stats" : {

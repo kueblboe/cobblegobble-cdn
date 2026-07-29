@@ -137,7 +137,7 @@
     "adjustedStreets" : [
 
     ],
-    "fromVersion" : 4,
+    "fromVersion" : 5,
     "removedStreets" : [
 
     ]
@@ -8672,7 +8672,7 @@
         "en" : "City documents name this gate already in 1307. Since the Middle Ages it was the main one of the seven ways into Kraków. It stands 34.5 metres to the ball on its helm. From here the kings rode the length of the city and up to Wawel. The Barbakan covers the approach a few steps further out."
       },
       "localizedStory" : {
-        "de" : "An diesem Tor begann der Königsweg zum Wawel – dem Haupttor unter sieben.",
+        "de" : "An diesem Tor begann der Königsweg zum Wawel. Es war das Haupttor unter sieben.",
         "en" : "The royal road to Wawel began at this gate, the main one of seven."
       },
       "name" : "Brama Floriańska",
@@ -8803,7 +8803,7 @@
       "story" : "This is the oldest university building in Poland, handed to the university in 1400."
     }
   ],
-  "generatedAt" : "2026-07-29T05:39:13Z",
+  "generatedAt" : "2026-07-29T15:54:34Z",
   "icon" : {
     "paths" : [
       "M 28.00 70.00 L 66.00 70.00 L 66.00 90.00 L 28.00 90.00 Z M 12.00 26.00 L 38.00 26.00 L 38.00 90.00 L 12.00 90.00 Z M 12.00 26.00 L 38.00 26.00 L 25.00 8.00 Z M 25.00 3.00 C 27.21 3.00 29.00 4.79 29.00 7.00 C 29.00 9.21 27.21 11.00 25.00 11.00 C 22.79 11.00 21.00 9.21 21.00 7.00 C 21.00 4.79 22.79 3.00 25.00 3.00 Z M 23.50 2.00 L 26.50 2.00 L 26.50 8.00 L 23.50 8.00 Z M 20.00 46.00 L 20.00 62.00 L 30.00 62.00 L 30.00 46.00 Z M 21.00 74.00 L 21.00 84.00 L 29.00 84.00 L 29.00 74.00 Z M 58.00 44.00 L 84.00 44.00 L 84.00 90.00 L 58.00 90.00 Z M 58.00 44.00 C 58.00 34.76 63.85 30.00 71.00 30.00 C 78.15 30.00 84.00 34.76 84.00 44.00 L 58.00 44.00 Z M 71.00 24.00 C 72.66 24.00 74.00 25.34 74.00 27.00 C 74.00 28.66 72.66 30.00 71.00 30.00 C 69.34 30.00 68.00 28.66 68.00 27.00 C 68.00 25.34 69.34 24.00 71.00 24.00 Z M 64.00 58.00 L 64.00 74.00 L 74.00 74.00 L 74.00 58.00 Z"
@@ -8816,7 +8816,7 @@
     "en" : "Kraków"
   },
   "name" : "Kraków",
-  "packVersion" : 5,
+  "packVersion" : 6,
   "schemaVersion" : 1,
   "source" : "OpenStreetMap via Overpass API",
   "stats" : {
