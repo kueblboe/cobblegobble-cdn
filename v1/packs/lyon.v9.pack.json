@@ -257,7 +257,7 @@
     "adjustedStreets" : [
 
     ],
-    "fromVersion" : 7,
+    "fromVersion" : 8,
     "removedStreets" : [
 
     ]
@@ -49797,26 +49797,6 @@
       "story" : "Rising about 44 metres over the Old Town, this cathedral is dedicated to John the Baptist."
     },
     {
-      "extendedStory" : "Daniel Buren's piece went in on 20 November 1994, and it was made to stay. The car park it lives in was built by the architects Targe and Wilmotte. So the artwork and the building were thought about together, which almost never happens with a car park. Put your eye to the periscope on the square and the whole thing opens up beneath you.",
-      "icon" : "everyday",
-      "id" : "f-vue-sous-terraine-du-parking-des-celestins",
-      "kind" : "viewpoint",
-      "localizedExtendedStory" : {
-        "de" : "Daniel Burens Werk kam am 20. November 1994 an seinen Platz und sollte dort bleiben. Die Tiefgarage, in der es steckt, bauten die Architekten Targe und Wilmotte. Kunstwerk und Gebäude wurden also zusammen gedacht, was bei einer Tiefgarage fast nie vorkommt. Halt das Auge ans Periskop auf dem Platz, und das Ganze öffnet sich unter dir.",
-        "en" : "Daniel Buren's piece went in on 20 November 1994, and it was made to stay. The car park it lives in was built by the architects Targe and Wilmotte. So the artwork and the building were thought about together, which almost never happens with a car park. Put your eye to the periscope on the square and the whole thing opens up beneath you."
-      },
-      "localizedStory" : {
-        "de" : "Blick durch das Periskop auf dem Platz, und du erspähst Daniel Burens Kunstwerk 'Sens dessus dessous' in der Tiefgarage darunter.",
-        "en" : "Peer down the periscope from the square and glimpse Daniel Buren's artwork 'Sens dessus dessous' in the car park hidden below."
-      },
-      "name" : "Vue sous-terraine du Parking des Célestins",
-      "pos" : [
-        45.759616,
-        4.831812
-      ],
-      "story" : "Peer down the periscope from the square and glimpse Daniel Buren's artwork 'Sens dessus dessous' in the car park hidden below."
-    },
-    {
       "extendedStory" : "The sculptor was Frédéric Auguste Bartholdi, and the fountain carries his name rather than a saint's or a king's. Two dates are attached to it, 1888 and 1889, and the records do not agree. About six metres of it rises from the Place des Terreaux. Walk right around it, because a fountain this size is meant to be read from every side.",
       "icon" : "choice",
       "id" : "f-fontaine-bartholdi",
@@ -49897,6 +49877,26 @@
       "story" : "This church looks medieval but dates from 1848: Pierre Bossan built it in the Gothic Revival style."
     },
     {
+      "extendedStory" : "The square takes its name from the Celestine monks, who founded a convent here in 1407. It was gone by 1778, and a theatre went up in its place, opening in 1792. Fire took that theatre in 1871 and again in 1877. The Lyon architect Gaspard André was given the rebuilding, and it reopened in 1881 just as it had been. Buren's piece went in beneath the square on 20 November 1994, and it was made to stay.",
+      "icon" : "everyday",
+      "id" : "f-place-des-celestins",
+      "kind" : "square",
+      "localizedExtendedStory" : {
+        "de" : "Der Platz trägt den Namen der Cölestinermönche, die hier 1407 ein Kloster gründeten. 1778 war es verschwunden, und an seiner Stelle entstand ein Theater, das 1792 öffnete. 1871 und noch einmal 1877 fiel dieses Theater einem Brand zum Opfer. Der Lyoner Architekt Gaspard André bekam den Wiederaufbau, und 1881 öffnete es wieder, genau wie zuvor. Burens Werk kam am 20. November 1994 unter den Platz und sollte dort bleiben.",
+        "en" : "The square takes its name from the Celestine monks, who founded a convent here in 1407. It was gone by 1778, and a theatre went up in its place, opening in 1792. Fire took that theatre in 1871 and again in 1877. The Lyon architect Gaspard André was given the rebuilding, and it reopened in 1881 just as it had been. Buren's piece went in beneath the square on 20 November 1994, and it was made to stay."
+      },
+      "localizedStory" : {
+        "de" : "Auf diesem Platz steht ein Periskop. Schau hinein, und Daniel Burens Kunstwerk liegt unter dir in der Tiefgarage.",
+        "en" : "There is a periscope on this square. Look down it and Daniel Buren's artwork is under your feet, in the car park."
+      },
+      "name" : "Place des Célestins",
+      "pos" : [
+        45.759686,
+        4.831646
+      ],
+      "story" : "There is a periscope on this square. Look down it and Daniel Buren's artwork is under your feet, in the car park."
+    },
+    {
       "extendedStory" : "This square was laid out in 1980, in the years when Lyon's métro was being dug beneath the city. It takes its name from Louis Pradel, and today it feels like an outdoor gallery. A fountain plays here, with sculptures by Ipoustéguy set around it. The one people point to is César's skater, 'Le Patineur'.",
       "icon" : "everyday",
       "id" : "f-place-louis-pradel",
@@ -49937,7 +49937,7 @@
       "story" : "Look up at the north tower: its Gothic spire is built of pink brick, unmistakable against the sky."
     }
   ],
-  "generatedAt" : "2026-07-28T08:34:16Z",
+  "generatedAt" : "2026-08-01T16:25:56Z",
   "icon" : {
     "paths" : [
       "M 8.00,93.00 L 92.00,93.00 L 84.00,88.00 L 16.00,88.00 Z M 12.00,76.00 L 88.00,76.00 L 88.00,90.00 L 12.00,90.00 Z M 15.00,48.00 L 23.00,48.00 L 26.00,51.00 L 26.00,87.00 L 23.00,90.00 L 15.00,90.00 L 12.00,87.00 L 12.00,51.00 Z M 15.00,48.00 L 23.00,48.00 L 19.00,30.00 Z M 77.00,48.00 L 85.00,48.00 L 88.00,51.00 L 88.00,87.00 L 85.00,90.00 L 77.00,90.00 L 74.00,87.00 L 74.00,51.00 Z M 77.00,48.00 L 85.00,48.00 L 81.00,30.00 Z M 32.00,40.00 L 38.00,40.00 L 41.00,43.00 L 41.00,87.00 L 38.00,90.00 L 32.00,90.00 L 29.00,87.00 L 29.00,43.00 Z M 32.00,40.00 L 38.00,40.00 L 35.00,22.00 Z M 62.00,40.00 L 68.00,40.00 L 71.00,43.00 L 71.00,87.00 L 68.00,90.00 L 62.00,90.00 L 59.00,87.00 L 59.00,43.00 Z M 62.00,40.00 L 68.00,40.00 L 65.00,22.00 Z M 41.00,35.00 L 59.00,35.00 L 59.00,90.00 L 41.00,90.00 Z M 41.00,35.00 L 59.00,35.00 L 50.00,14.00 Z"
@@ -49950,7 +49950,7 @@
     "en" : "Lyon"
   },
   "name" : "Lyon",
-  "packVersion" : 8,
+  "packVersion" : 9,
   "schemaVersion" : 1,
   "source" : "OpenStreetMap via Overpass API",
   "stats" : {

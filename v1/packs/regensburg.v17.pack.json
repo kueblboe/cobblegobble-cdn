@@ -141,7 +141,7 @@
     "adjustedStreets" : [
 
     ],
-    "fromVersion" : 15,
+    "fromVersion" : 16,
     "removedStreets" : [
 
     ]
@@ -7861,26 +7861,6 @@
       "story" : "Stand on Domplatz and look up. The cathedral's twin spires climb 105 m into the sky, stone lace against the clouds."
     },
     {
-      "extendedStory" : "The tower belongs to the Dreieinigkeitskirche, and it is open to climb. 157 steps wind up to the platform, where the roofs of the old town spread out below you. Nobody is paid to run it. A team of volunteers keeps the climb open right through the season, taking turns at the top. The hours depend on people giving their time.",
-      "icon" : "everyday",
-      "id" : "f-nordturm",
-      "kind" : "viewpoint",
-      "localizedExtendedStory" : {
-        "de" : "Der Turm gehört zur Dreieinigkeitskirche, und man darf hinauf. 157 Stufen winden sich zur Plattform, von der aus sich die Dächer der Altstadt unter dir ausbreiten. Bezahlt wird dafür niemand. Ein Team von Ehrenamtlichen hält den Aufstieg die Saison über offen und wechselt sich oben ab. Die Öffnungszeiten hängen davon ab, dass Menschen ihre Zeit schenken.",
-        "en" : "The tower belongs to the Dreieinigkeitskirche, and it is open to climb. 157 steps wind up to the platform, where the roofs of the old town spread out below you. Nobody is paid to run it. A team of volunteers keeps the climb open right through the season, taking turns at the top. The hours depend on people giving their time."
-      },
-      "localizedStory" : {
-        "de" : "Nordturm heißt 'Nordturm', der Turm im Norden. Schau von der Gesandtenstraße nach oben und entdecke ihn über den Dächern.",
-        "en" : "Nordturm means 'north tower'. Look up from Gesandtenstraße and pick it out above the rooftops."
-      },
-      "name" : "Nordturm",
-      "pos" : [
-        49.018457,
-        12.092065
-      ],
-      "story" : "Nordturm means 'north tower'. Look up from Gesandtenstraße and pick it out above the rooftops."
-    },
-    {
       "extendedStory" : "Before it was a palace it was an abbey. The Imperial Abbey of Sankt Emmeram stood here, one of the largest Benedictine monasteries in Germany. The princely house of Thurn und Taxis took it over and made it their home. Jean-Baptiste Métivier shaped much of what you see today. It holds well over 500 rooms, which makes it the largest privately inhabited castle.",
       "icon" : "choice",
       "id" : "f-schloss-st-emmeram",
@@ -8021,6 +8001,26 @@
       "story" : "Herzogspark means 'duke's park'. Green paths to wander and a quiet corner of Regensburg to catch your breath."
     },
     {
+      "extendedStory" : "Building started in 1627, to a design by Hans Johann Carl, and the church is named for the Holy Trinity. Its tower is open, and 157 steps wind up to the platform. From up there the roofs of the old town spread out below you. Nobody is paid to run it. A team of volunteers takes turns at the top and keeps the climb open through the season.",
+      "icon" : "everyday",
+      "id" : "f-dreieinigkeitskirche",
+      "kind" : "church",
+      "localizedExtendedStory" : {
+        "de" : "Der Bau begann 1627 nach einem Entwurf von Hans Johann Carl, und die Kirche trägt den Namen der Heiligen Dreieinigkeit. Ihr Turm ist offen, 157 Stufen winden sich hinauf zur Plattform. Von dort oben breiten sich die Dächer der Altstadt unter dir aus. Bezahlt wird dafür niemand. Ein Team von Ehrenamtlichen wechselt sich oben ab und hält den Aufstieg über die Saison offen.",
+        "en" : "Building started in 1627, to a design by Hans Johann Carl, and the church is named for the Holy Trinity. Its tower is open, and 157 steps wind up to the platform. From up there the roofs of the old town spread out below you. Nobody is paid to run it. A team of volunteers takes turns at the top and keeps the climb open through the season."
+      },
+      "localizedStory" : {
+        "de" : "Der Turm hier hat 157 Stufen, und ehrenamtliche Turmaufseher halten den Aufstieg über die Saison offen.",
+        "en" : "The tower here has 157 steps, and a team of volunteers keeps the climb open through the season."
+      },
+      "name" : "Dreieinigkeitskirche",
+      "pos" : [
+        49.018525,
+        12.091732
+      ],
+      "story" : "The tower here has 157 steps, and a team of volunteers keeps the climb open through the season."
+    },
+    {
       "extendedStory" : "Carl Schad drew this church, and his day job was chief building officer to the house of Thurn und Taxis. The foundation stone went down in July 1929. Bishop Michael Buchberger consecrated the finished church in November 1930. Look at its shape: a strict cube under a saddle roof, built in a late-Expressionist style.",
       "icon" : "everyday",
       "id" : "f-herz-jesu",
@@ -8041,7 +8041,7 @@
       "story" : "Herz Jesu church has risen over Kreuzgasse since 1928. Young stone among Regensburg's ancient lanes."
     }
   ],
-  "generatedAt" : "2026-07-29T15:54:41Z",
+  "generatedAt" : "2026-08-01T16:56:14Z",
   "icon" : {
     "paths" : [
       "m 77.67 14.43 l 7.91 7.91 l -60.81 60.81 l -7.91 -7.91 z m 2.74 5.17 l 9.73 9.73 l -4.86 4.86 l -9.73 -9.73 z m -9.73 9.73 l 12.16 12.16 l -4.86 4.86 l -12.16 -12.16 z m -41.35 63.24 c -6.05 6.05 -15.85 6.05 -21.89 0 c -6.05 -6.05 -6.05 -15.85 0 -21.89 c 6.05 -6.05 15.85 -6.05 21.89 0 c 6.05 6.05 6.05 15.85 0 21.89 z m -5.47 -5.47 c 3.02 -3.02 3.02 -7.92 0 -10.95 c -3.02 -3.02 -7.92 -3.02 -10.95 0 c -3.02 3.02 -3.02 7.92 0 10.95 c 3.02 3.02 7.92 3.02 10.95 0 z m -9.43 -64.76 l 7.91 -7.91 l 60.81 60.81 l -7.91 7.91 z m -4.56 6.99 l 9.73 -9.73 l 4.86 4.86 l -9.73 9.73 z m 7.3 12.16 l 12.16 -12.16 l 4.86 4.86 l -12.16 12.16 z m 75.41 29.19 c 6.05 6.05 6.05 15.85 0 21.89 c -6.05 6.05 -15.85 6.05 -21.89 0 c -6.05 -6.05 -6.05 -15.85 0 -21.89 c 6.05 -6.05 15.85 -6.05 21.89 0 z m -5.47 5.47 c -3.02 -3.02 -7.92 -3.02 -10.95 0 c -3.02 3.02 -3.02 7.92 0 10.95 c 3.02 3.02 7.92 3.02 10.95 0 c 3.02 -3.02 3.02 -7.92 0 -10.95 z"
@@ -8054,7 +8054,7 @@
     "en" : "Regensburg"
   },
   "name" : "Regensburg",
-  "packVersion" : 16,
+  "packVersion" : 17,
   "schemaVersion" : 1,
   "source" : "OpenStreetMap via Overpass API",
   "stats" : {

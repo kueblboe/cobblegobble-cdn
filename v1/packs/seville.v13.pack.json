@@ -233,7 +233,7 @@
     "adjustedStreets" : [
 
     ],
-    "fromVersion" : 11,
+    "fromVersion" : 12,
     "removedStreets" : [
 
     ]
@@ -8017,13 +8017,13 @@
       "story" : "This old baroque church became the meeting place of Andalusia's parliament, from 1985 to 1992."
     },
     {
-      "extendedStory" : "Under the square lie Roman houses from the first century. Islamic remains from the twelfth sit alongside them, more than 2,000 years in one place. The best-loved find is a mosaic of the loves of Neptune. Above all of it stand the parasols the German architect Jürgen Mayer designed, opened in 2011. They make up the largest wooden structure in the world.",
+      "extendedStory" : "Under the square lie Roman houses from the 1st century. Islamic remains from the 12th sit alongside them, more than 2,000 years in one place. The best-loved find is a mosaic of the loves of Neptune. Above all of it stand the parasols the German architect Jürgen Mayer designed, opened in 2011. They make up the largest wooden structure in the world.",
       "icon" : "everyday",
       "id" : "f-plaza-de-la-encarnacion",
       "kind" : "square",
       "localizedExtendedStory" : {
         "de" : "Unter dem Platz liegen römische Häuser aus dem 1. Jahrhundert und islamische Reste aus dem 12., mehr als 2.000 Jahre an einem Ort. Der beliebteste Fund ist ein Mosaik von den Liebschaften Neptuns. Darüber stehen die Sonnenschirme, die der deutsche Architekt Jürgen Mayer entwarf und die 2011 eröffnet wurden. Sie bilden das größte Holzbauwerk der Welt.",
-        "en" : "Under the square lie Roman houses from the first century. Islamic remains from the twelfth sit alongside them, more than 2,000 years in one place. The best-loved find is a mosaic of the loves of Neptune. Above all of it stand the parasols the German architect Jürgen Mayer designed, opened in 2011. They make up the largest wooden structure in the world."
+        "en" : "Under the square lie Roman houses from the 1st century. Islamic remains from the 12th sit alongside them, more than 2,000 years in one place. The best-loved find is a mosaic of the loves of Neptune. Above all of it stand the parasols the German architect Jürgen Mayer designed, opened in 2011. They make up the largest wooden structure in the world."
       },
       "localizedStory" : {
         "de" : "Die Stadt grub hier für eine Tiefgarage und stieß stattdessen auf römische Häuser.",
@@ -8057,7 +8057,7 @@
       "story" : "A church from around 1400, named after Isidore of Seville."
     }
   ],
-  "generatedAt" : "2026-07-28T08:34:17Z",
+  "generatedAt" : "2026-08-01T17:06:08Z",
   "icon" : {
     "paths" : [
       "M 28.00 89.00 L 72.00 89.00 L 72.00 93.00 L 28.00 93.00 Z M 32.00 40.00 L 68.00 40.00 L 68.00 89.00 L 32.00 89.00 Z M 29.00 38.00 L 71.00 38.00 L 71.00 41.00 L 29.00 41.00 Z M 37.00 22.00 L 63.00 22.00 L 63.00 38.00 L 37.00 38.00 Z M 35.00 20.00 L 65.00 20.00 L 65.00 23.00 L 35.00 23.00 Z M 41.00 14.00 L 59.00 14.00 L 59.00 21.00 L 41.00 21.00 Z M 44.00 10.00 L 56.00 10.00 L 56.00 15.00 L 44.00 15.00 Z M 49.00 6.00 L 51.00 6.00 L 51.00 11.00 L 49.00 11.00 Z M 46.00 4.50 L 54.00 4.50 L 54.00 7.00 L 46.00 7.00 Z M 49.20 3.00 L 50.80 3.00 L 50.80 5.50 L 49.20 5.50 Z M 45.00 58.00 L 45.00 50.00 C 45.00 47.80 48.50 46.00 50.00 46.00 C 51.50 46.00 55.00 47.80 55.00 50.00 L 55.00 58.00 Z M 45.00 72.00 L 45.00 64.00 C 45.00 61.80 48.50 60.00 50.00 60.00 C 51.50 60.00 55.00 61.80 55.00 64.00 L 55.00 72.00 Z M 45.00 86.00 L 45.00 78.00 C 45.00 75.80 48.50 74.00 50.00 74.00 C 51.50 74.00 55.00 75.80 55.00 78.00 L 55.00 86.00 Z M 47.50 35.00 L 47.50 28.00 C 47.50 26.35 49.25 25.00 50.00 25.00 C 50.75 25.00 52.50 26.35 52.50 28.00 L 52.50 35.00 Z"
@@ -8070,7 +8070,7 @@
     "en" : "Seville"
   },
   "name" : "Seville",
-  "packVersion" : 12,
+  "packVersion" : 13,
   "schemaVersion" : 1,
   "source" : "OpenStreetMap via Overpass API",
   "stats" : {

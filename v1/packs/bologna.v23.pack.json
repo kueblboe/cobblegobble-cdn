@@ -405,7 +405,7 @@
     "adjustedStreets" : [
 
     ],
-    "fromVersion" : 21,
+    "fromVersion" : 22,
     "removedStreets" : [
 
     ]
@@ -19987,26 +19987,6 @@
       "story" : "Inside this leaning brick tower, 498 steps wind nearly 97 metres up. It has stood over Strada Maggiore since 1150."
     },
     {
-      "extendedStory" : "The tower stands 61 metres tall, and it went up in the second half of the twelfth century. The family it is named for, the Azzoguidi, appear in Bologna's written records from 1228. Bologna once bristled with towers like this one. About twenty of them are still standing in the old centre.",
-      "icon" : "everyday",
-      "id" : "f-torre-azzoguidi",
-      "kind" : "viewpoint",
-      "localizedExtendedStory" : {
-        "de" : "Der Turm ist 61 Meter hoch und entstand in der zweiten Hälfte des zwölften Jahrhunderts. Die Familie, nach der er heißt, die Azzoguidi, taucht ab 1228 in Bolognas Aufzeichnungen auf. Früher standen in Bologna viele solcher Türme. Etwa zwanzig davon stehen heute noch in der Altstadt.",
-        "en" : "The tower stands 61 metres tall, and it went up in the second half of the twelfth century. The family it is named for, the Azzoguidi, appear in Bologna's written records from 1228. Bologna once bristled with towers like this one. About twenty of them are still standing in the old centre."
-      },
-      "localizedStory" : {
-        "de" : "Der Torre Azzoguidi ragt 61 Meter hoch. Einer von etwa zwanzig Geschlechtertürmen, die Bologna noch hat.",
-        "en" : "The Torre Azzoguidi rises 61 metres. One of about twenty family towers Bologna still has standing."
-      },
-      "name" : "Torre Azzoguidi",
-      "pos" : [
-        44.495212,
-        11.344354
-      ],
-      "story" : "The Torre Azzoguidi rises 61 metres. One of about twenty family towers Bologna still has standing."
-    },
-    {
       "extendedStory" : "The square measures 115 metres by 60, which is room enough for a crowd. Its middle is a little higher than the rest, a rectangle of white and pink granite laid in 1934. It stands 15 centimetres above the paving. Bologna calls it the crescentone, after the crescente, a salted flatbread from its own kitchens.",
       "icon" : "choice",
       "id" : "f-piazza-maggiore",
@@ -20108,7 +20088,7 @@
     },
     {
       "extendedStory" : "The drawing behind that front is probably Baldassarre Peruzzi's. Look up and you will see a band of stone running right across it. That band was Lazzaro Casario's idea, added in 1584. Then step and look into the courtyard, where Roman stone tablets are set into the wall. They record the baths that Augustus founded here, back when the city was called Bononia.",
-      "icon" : "choice",
+      "icon" : "everyday",
       "id" : "f-palazzo-albergati",
       "kind" : "palace",
       "localizedExtendedStory" : {
@@ -20125,6 +20105,26 @@
         11.334476
       ],
       "story" : "Walk along Via Saragozza and you pass a grand front the Albergati have given their name to since about 1520."
+    },
+    {
+      "extendedStory" : "The tower stands 61 metres tall, and it went up in the second half of the twelfth century. The family it is named for, the Azzoguidi, appear in Bologna's written records from 1228. Bologna once bristled with towers like this one. About twenty of them are still standing in the old centre.",
+      "icon" : "choice",
+      "id" : "f-torre-degli-azzoguidi",
+      "kind" : "gate_tower",
+      "localizedExtendedStory" : {
+        "de" : "Der Turm ist 61 Meter hoch und entstand in der zweiten Hälfte des zwölften Jahrhunderts. Die Familie, nach der er heißt, die Azzoguidi, taucht ab 1228 in Bolognas Aufzeichnungen auf. Früher standen in Bologna viele solcher Türme. Etwa zwanzig davon stehen heute noch in der Altstadt.",
+        "en" : "The tower stands 61 metres tall, and it went up in the second half of the twelfth century. The family it is named for, the Azzoguidi, appear in Bologna's written records from 1228. Bologna once bristled with towers like this one. About twenty of them are still standing in the old centre."
+      },
+      "localizedStory" : {
+        "de" : "Der Torre degli Azzoguidi ragt 61 Meter hoch. Einer von etwa zwanzig Geschlechtertürmen, die Bologna noch hat.",
+        "en" : "The Torre degli Azzoguidi rises 61 metres. One of about twenty family towers Bologna still has standing."
+      },
+      "name" : "Torre degli Azzoguidi",
+      "pos" : [
+        44.495199,
+        11.344343
+      ],
+      "story" : "The Torre degli Azzoguidi rises 61 metres. One of about twenty family towers Bologna still has standing."
     },
     {
       "extendedStory" : "This gate belonged to the third ring of walls that Bologna built around itself. Antonio Paltroni rebuilt it in 1508. For centuries it had walls running away on either side. Those came down in the early 1900s, and the gate was left standing on its own. That is why it stands by itself today, a gate with no wall to guard.",
@@ -20167,7 +20167,7 @@
       "story" : "This gate-tower has stood over Via Portanova since 1150, a short walk from the Mercato delle Erbe."
     }
   ],
-  "generatedAt" : "2026-07-29T15:54:28Z",
+  "generatedAt" : "2026-08-01T15:36:59Z",
   "icon" : {
     "paths" : [
       "M34 84 L34 12 L39 12 L39 17 L43 17 L43 12 L48 12 L48 84 Z M56 84 L66 38 L66 33 L71 33 L71 38 L75 38 L75 33 L80 33 L80 38 L70 84 Z M28 84 L78 84 L78 90 L28 90 Z"
@@ -20181,7 +20181,7 @@
     "it" : "Bologna"
   },
   "name" : "Bologna",
-  "packVersion" : 22,
+  "packVersion" : 23,
   "schemaVersion" : 1,
   "source" : "OpenStreetMap via Overpass API",
   "stats" : {
