@@ -167,17 +167,9 @@
 
     ],
     "adjustedStreets" : [
-      "Alter Hof",
-      "Georg-Kronawitter-Platz",
-      "Herzog-Max-Straße",
-      "Herzog-Wilhelm-Straße",
-      "Neues Rathaus",
-      "Neuhauser Straße",
-      "Oberanger",
-      "Odeonsplatz",
-      "Promenadeplatz"
+
     ],
-    "fromVersion" : 21,
+    "fromVersion" : 23,
     "removedStreets" : [
 
     ]
@@ -21625,24 +21617,24 @@
       "story" : "Near the entrance, a dark mark in the stone floor is nicknamed the Devil's Footstep."
     },
     {
-      "extendedStory" : "Look high up at the town hall tower. At eleven and at noon every day, 43 bells ring while a jousting knight charges and coopers dance below. From March to October they play again at five. People have gathered here since 1158, long ago. Nearby, a golden figure of Mary stands on a tall column, raised in 1638. If the tower is quiet, come back at the hour.",
+      "extendedStory" : "People have met on this square since 1158. It takes its name from Mary, whose golden figure was raised here on a tall column in 1638. High in the tower, coopers dance beside the jousting knight while the bells play. From March to October they play once more, at five in the afternoon. If the tower is quiet, come back at one of those times.",
       "icon" : "choice",
       "id" : "f-marienplatz",
       "kind" : "square",
       "localizedExtendedStory" : {
-        "de" : "Schau hoch hinauf zum Rathausturm. Um elf und um zwölf läuten jeden Tag 43 Glocken, ein Turnierritter reitet los und Schäffler tanzen darunter. Von März bis Oktober spielt es noch einmal um fünf. Hier treffen sich Menschen schon seit 1158, vor langer Zeit. Ganz in der Nähe steht eine goldene Marienfigur auf einer hohen Säule, errichtet 1638. Ist der Turm still, komm zur vollen Stunde wieder.",
-        "en" : "Look high up at the town hall tower. At eleven and at noon every day, 43 bells ring while a jousting knight charges and coopers dance below. From March to October they play again at five. People have gathered here since 1158, long ago. Nearby, a golden figure of Mary stands on a tall column, raised in 1638. If the tower is quiet, come back at the hour."
+        "de" : "Auf diesem Platz treffen sich Menschen schon seit 1158. Seinen Namen hat er von Maria, deren goldene Figur hier 1638 auf einer hohen Säule aufgestellt wurde. Hoch im Turm tanzen die Schäffler neben dem Turnierritter, während die Glocken spielen. Von März bis Oktober spielen sie noch einmal, um fünf am Nachmittag. Ist der Turm still, komm zu einer dieser Zeiten wieder.",
+        "en" : "People have met on this square since 1158. It takes its name from Mary, whose golden figure was raised here on a tall column in 1638. High in the tower, coopers dance beside the jousting knight while the bells play. From March to October they play once more, at five in the afternoon. If the tower is quiet, come back at one of those times."
       },
       "localizedStory" : {
-        "de" : "Um elf und um zwölf tanzen jeden Tag bunte Figuren am Rathausturm, während 43 Glocken läuten.",
-        "en" : "At eleven and at noon each day, colourful figures spin and dance on the town-hall tower while 43 bells ring."
+        "de" : "Schau hinauf zum Rathausturm. Jeden Tag um elf und um zwölf läuten 43 Glocken, und ein Turnierritter reitet los.",
+        "en" : "Look up at the town hall tower. Every day at eleven and at noon, 43 bells ring and a jousting knight charges."
       },
       "name" : "Marienplatz",
       "pos" : [
         48.137033,
         11.575815
       ],
-      "story" : "At eleven and at noon each day, colourful figures spin and dance on the town-hall tower while 43 bells ring."
+      "story" : "Look up at the town hall tower. Every day at eleven and at noon, 43 bells ring and a jousting knight charges."
     },
     {
       "extendedStory" : "Viktualien is an old word for food, and this square has sold it since 1807. Two hundred years of the same trade on the same ground is a rare thing in the middle of a city. The maypole is far younger than the market itself: the blue-and-white one went up in 1962. People have met under it ever since.",
@@ -21765,7 +21757,7 @@
       "story" : "An Italian, Agostino Barelli, drew this church. It rises 71 metres over Residenzstraße."
     }
   ],
-  "generatedAt" : "2026-08-09T20:06:50Z",
+  "generatedAt" : "2026-08-10T20:06:22Z",
   "icon" : {
     "paths" : [
       "M93.2 34.2L102.2 33.2 118.9 34.7 126.9 37.3 133.7 42.1 139.2 49.6 143.2 61.1 126.4 61.3 121.2 64.4 124.0 69.5 131.9 74.1 148.6 75.2 166.3 71.0 167.6 69.6 167.1 64.8 172.1 61.7 170.0 57.3 182.9 50.7 192.2 69.7 179.2 76.8 173.7 65.1 172.7 71.9 168.0 75.1 168.5 77.1 172.3 75.6 174.6 72.0 176.9 76.8 163.3 85.1 163.3 198.4 150.8 194.5 145.8 187.9 144.3 115.3 139.4 105.8 132.4 100.8 132.4 196.6 84.3 196.4 84.3 102.2 76.6 106.7 72.3 114.3 71.0 185.8 63.5 194.7 52.9 197.2 53.1 83.0 30.8 71.0 31.8 68.8 37.4 71.0 37.9 69.5 32.5 67.4 34.1 66.0 39.4 67.8 39.4 66.1 25.9 58.6 26.7 57.0 35.0 61.9 35.5 60.6 27.4 55.1 28.5 53.1 40.8 62.2 42.7 70.3 46.7 73.1 42.8 62.2 38.2 57.0 38.6 54.0 49.4 62.8 49.8 68.2 53.1 70.9 72.8 75.2 88.6 72.9 95.7 69.3 101.6 63.6 90.1 63.0 89.4 56.3 87.0 55.8 88.4 39.6Z"
@@ -21778,7 +21770,7 @@
     "en" : "Munich"
   },
   "name" : "Munich",
-  "packVersion" : 22,
+  "packVersion" : 24,
   "schemaVersion" : 1,
   "source" : "OpenStreetMap via Overpass API",
   "stats" : {

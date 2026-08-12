@@ -303,21 +303,9 @@
 
     ],
     "adjustedStreets" : [
-      "Anenské náměstí",
-      "Dlouhá",
-      "Jakubská",
-      "Karoliny Světlé",
-      "Křižovnická",
-      "Na Kampě",
-      "Týnská",
-      "U Milosrdných",
-      "Uhelný trh",
-      "náměstí Curieových",
-      "náměstí Miloše Formana",
-      "Řásnovka",
-      "Železná"
+
     ],
-    "fromVersion" : 19,
+    "fromVersion" : 20,
     "removedStreets" : [
 
     ]
@@ -29674,15 +29662,15 @@
         "en" : "This is the gate at the end of Charles Bridge, standing about 47 metres tall. Bohemia's kings once rode through it on the day they were crowned. Emperor Charles IV wanted it built, and Petr Parléř drew the design in the middle of the fourteenth century. Inside, 138 steps climb to a gallery near the top. Stand below and picture a king passing under the arch, on his way to the crown."
       },
       "localizedStory" : {
-        "de" : "Am Ostende der Karlsbrücke bewacht dieser gotische Turm den Weg. Entworfen von Petr Parléř.",
-        "en" : "Guarding the eastern end of Charles Bridge, this Gothic tower rose from a design by Petr Parléř."
+        "de" : "Schau nach oben: 138 Stufen führen hinauf zur Galerie. Durch dieses Tor zogen Böhmens Könige an ihrem Krönungstag.",
+        "en" : "Look up: 138 steps climb inside to a gallery near the top. Bohemia's kings rode through this gate on their crowning day."
       },
       "name" : "Staroměstská mostecká věž",
       "pos" : [
         50.086164,
         14.413607
       ],
-      "story" : "Guarding the eastern end of Charles Bridge, this Gothic tower rose from a design by Petr Parléř."
+      "story" : "Look up: 138 steps climb inside to a gallery near the top. Bohemia's kings rode through this gate on their crowning day."
     },
     {
       "extendedStory" : "Stand at the foot of this tower on Celetná and look straight up its 44 metres. Builders began raising it in 1475. The name is the surprise: people once stored gunpowder inside these Gothic walls, so it became the Powder Tower. Picture that, then picture how many barrels a tower this tall could hold. Now it just holds the view, waiting for you to tip your head back and take it in.",
@@ -29694,15 +29682,15 @@
         "en" : "Stand at the foot of this tower on Celetná and look straight up its 44 metres. Builders began raising it in 1475. The name is the surprise: people once stored gunpowder inside these Gothic walls, so it became the Powder Tower. Picture that, then picture how many barrels a tower this tall could hold. Now it just holds the view, waiting for you to tip your head back and take it in."
       },
       "localizedStory" : {
-        "de" : "Diesen gotischen Turm nennt man Pulverturm. Nach dem Schwarzpulver, das man hier einst aufbewahrte.",
-        "en" : "People call this Gothic tower the Powder Tower, after the gunpowder once kept inside it."
+        "de" : "Schau hoch: dieser Turm ist 44 Meter hoch. Früher lagerte hier Schwarzpulver, und genau davon hat er seinen Namen. Stell dich in die Celetná und blick hinauf.",
+        "en" : "Look up: this tower is 44 metres tall. People once kept gunpowder inside it, which is how it got its name. Stand on Celetná and crane your neck."
       },
       "name" : "Prašná brána",
       "pos" : [
         50.087244,
         14.427757
       ],
-      "story" : "People call this Gothic tower the Powder Tower, after the gunpowder once kept inside it."
+      "story" : "Look up: this tower is 44 metres tall. People once kept gunpowder inside it, which is how it got its name. Stand on Celetná and crane your neck."
     },
     {
       "extendedStory" : "Today one horse still stands here, and it is made of bronze. At the top of the square, in front of the National Museum, a knight rides high on his mount. He is St Wenceslas, and his statue was set here in 1912. The square was laid out in 1348, when Charles the Fourth founded the New Town. It runs 750 metres from end to end, so look up the long slope to find the rider.",
@@ -29805,7 +29793,7 @@
       "story" : "This square is named for St Castulus church right beside it. Find the Gothic church. Its pointed arches date from the 14th century."
     }
   ],
-  "generatedAt" : "2026-08-09T20:06:51Z",
+  "generatedAt" : "2026-08-10T20:20:48Z",
   "icon" : {
     "paths" : [
       "M8 90 L8 30 L16 30 L16 38 L22 38 L22 30 L30 30 L30 52 L38 52 L38 16 L47 16 L47 26 L53 26 L53 16 L62 16 L62 52 L70 52 L70 30 L78 30 L78 38 L84 38 L84 30 L92 30 L92 90 Z M42 90 L58 90 L58 66 C58 60 42 60 42 66 Z"
@@ -29819,7 +29807,7 @@
     "en" : "Prague"
   },
   "name" : "Prague",
-  "packVersion" : 20,
+  "packVersion" : 21,
   "schemaVersion" : 1,
   "source" : "OpenStreetMap via Overpass API",
   "stats" : {
