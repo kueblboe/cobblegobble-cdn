@@ -1687,12 +1687,13 @@
         "en" : "Český Krumlov"
       },
       "name" : "Český Krumlov",
-      "packVersion" : 19,
+      "packVersion" : 20,
       "stats" : {
         "estHours" : 2.5,
         "nodeCount" : 422,
         "routeFactor" : 1.36,
         "routeKm" : 8.6,
+        "stepsStreetCount" : 3,
         "streetCount" : 39,
         "totalKm" : 6.35
       },
@@ -7845,12 +7846,13 @@
         "en" : "Třeboň"
       },
       "name" : "Třeboň",
-      "packVersion" : 1,
+      "packVersion" : 2,
       "stats" : {
         "estHours" : 2.5,
         "nodeCount" : 410,
         "routeFactor" : 1.28,
         "routeKm" : 8.7,
+        "stepsStreetCount" : 0,
         "streetCount" : 32,
         "totalKm" : 6.81
       },

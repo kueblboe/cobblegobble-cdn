@@ -83,9 +83,9 @@
 
     ],
     "adjustedStreets" : [
-      "Kájovská"
+
     ],
-    "fromVersion" : 18,
+    "fromVersion" : 19,
     "removedStreets" : [
 
     ]
@@ -4781,7 +4781,7 @@
       "story" : "On Horní stands the Regionální muzeum, Krumlov's regional museum. It is full of things from the town's past to look at."
     }
   ],
-  "generatedAt" : "2026-08-09T20:06:46Z",
+  "generatedAt" : "2026-08-14T11:02:02Z",
   "icon" : {
     "paths" : [
       "m50 45c-15 -11 -25 -40 0 -40c25 0 15 29 0 40zm4.76 3.45c5.83 -17.67 30.32 -36.14 38.04 -12.36c7.73 23.78 -22.95 23.23 -38.04 12.36zm-1.82 5.59c18.6 0.08 43.74 17.67 23.51 32.36c-20.23 14.69 -29.18 -14.64 -23.51 -32.36zm-5.88 0c5.67 17.72 -3.29 47.06 -23.51 32.36c-20.23 -14.69 4.91 -32.28 23.51 -32.36zm-1.82 -5.59c-15.1 10.87 -45.77 11.42 -38.04 -12.36c7.73 -23.78 32.22 -5.3 38.04 12.36zm18.61 -8.17l6.72 -18.6l-15.62 12.14zm-0.34 19.89l19.77 0.64l-16.37 -11.1zm-19.02 5.82l5.5 19l5.5 -19zm-11.42 -16.29l-16.37 11.1l19.77 -0.64zm11.96 -15.89l-15.62 -12.14l6.72 18.6zm17.95 16.18c0 7.18 -5.82 13 -13 13c-7.18 0 -13 -5.82 -13 -13c0 -7.18 5.82 -13 13 -13c7.18 0 13 5.82 13 13zm-7 0c0 -3.31 -2.69 -6 -6 -6c-3.31 0 -6 2.69 -6 6c0 3.31 2.69 6 6 6c3.31 0 6 -2.69 6 -6z"
@@ -4795,7 +4795,7 @@
     "en" : "Český Krumlov"
   },
   "name" : "Český Krumlov",
-  "packVersion" : 19,
+  "packVersion" : 20,
   "schemaVersion" : 1,
   "source" : "OpenStreetMap via Overpass API",
   "stats" : {
@@ -4803,6 +4803,7 @@
     "nodeCount" : 422,
     "routeFactor" : 1.36,
     "routeKm" : 8.6,
+    "stepsStreetCount" : 3,
     "streetCount" : 39,
     "totalKm" : 6.35
   },
@@ -5517,6 +5518,7 @@
       ]
     },
     {
+      "hasSteps" : true,
       "id" : "s-i-nadvori",
       "lengthM" : 258,
       "name" : "I. nádvoří",
@@ -8955,6 +8957,7 @@
       ]
     },
     {
+      "hasSteps" : true,
       "id" : "s-zamecke-schody",
       "lengthM" : 71.6,
       "name" : "Zámecké schody",
@@ -9391,6 +9394,7 @@
       ]
     },
     {
+      "hasSteps" : true,
       "id" : "s-hrad-a-zamek-cesky-krumlov",
       "lengthM" : 33.2,
       "name" : "hrad a zámek Český Krumlov",
