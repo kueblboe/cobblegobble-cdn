@@ -1620,12 +1620,16 @@
           14.318
         ],
         [
-          48.8105,
-          14.3183
+          48.8101,
+          14.3187
         ],
         [
-          48.8106,
-          14.3183
+          48.8104,
+          14.3189
+        ],
+        [
+          48.8108,
+          14.3191
         ],
         [
           48.8116,
@@ -1652,12 +1656,12 @@
           14.3145
         ],
         [
-          48.8132,
-          14.3128
+          48.8131,
+          14.3132
         ],
         [
           48.813,
-          14.3127
+          14.3129
         ],
         [
           48.8126,
@@ -1669,8 +1673,8 @@
         ]
       ],
       "center" : [
-        48.811728,
-        14.316006
+        48.811642,
+        14.316253
       ],
       "cityId" : "ceskykrumlov",
       "country" : "CZ",
@@ -1687,15 +1691,15 @@
         "en" : "Český Krumlov"
       },
       "name" : "Český Krumlov",
-      "packVersion" : 20,
+      "packVersion" : 24,
       "stats" : {
-        "estHours" : 2.5,
-        "nodeCount" : 422,
-        "routeFactor" : 1.36,
-        "routeKm" : 8.6,
-        "stepsStreetCount" : 3,
+        "estHours" : 2.4,
+        "nodeCount" : 430,
+        "routeFactor" : 1.3,
+        "routeKm" : 8.3,
+        "stepsStreetCount" : 4,
         "streetCount" : 39,
-        "totalKm" : 6.35
+        "totalKm" : 6.43
       },
       "status" : "published"
     },
