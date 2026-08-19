@@ -2048,10 +2048,10 @@
         "en" : "Copenhagen"
       },
       "name" : "Copenhagen",
-      "packVersion" : 6,
+      "packVersion" : 7,
       "stats" : {
         "estHours" : 9.3,
-        "nodeCount" : 1589,
+        "nodeCount" : 1588,
         "routeFactor" : 1.26,
         "routeKm" : 32.5,
         "stepsStreetCount" : 6,
@@ -6849,10 +6849,10 @@
         "en" : "Seville"
       },
       "name" : "Seville",
-      "packVersion" : 15,
+      "packVersion" : 16,
       "stats" : {
         "estHours" : 10.2,
-        "nodeCount" : 1721,
+        "nodeCount" : 1720,
         "routeFactor" : 1.29,
         "routeKm" : 35.8,
         "stepsStreetCount" : 5,
