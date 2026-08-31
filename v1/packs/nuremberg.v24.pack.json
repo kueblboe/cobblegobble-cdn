@@ -203,22 +203,9 @@
 
     ],
     "adjustedStreets" : [
-      "Bauhof",
-      "Fleischbrücke",
-      "Grasersgasse",
-      "Hauptmarkt",
-      "Irrerstraße",
-      "Kolpinggasse",
-      "Königstraße",
-      "Maxplatz",
-      "Maxtormauer",
-      "Museumsbrücke",
-      "Rathausplatz",
-      "Tetzelgasse",
-      "Theresienplatz",
-      "Webersplatz"
+
     ],
-    "fromVersion" : 22,
+    "fromVersion" : 23,
     "removedStreets" : [
 
     ]
@@ -16502,24 +16489,24 @@
   ],
   "fruits" : [
     {
-      "extendedStory" : "Building began in 1225 and went on for generations. The Parler family, masons who worked across central Europe, had a hand in it. The church is Gothic, so the weight is carried on ribs and arches rather than thick walls. That is why the windows can be so tall. It carries the name of Sebaldus, the hermit the town took as its patron.",
+      "extendedStory" : "Building began around 1230 and went on for generations. The Parler family, masons who worked across central Europe, had a hand in it. The church is Gothic, so the weight is carried on ribs and arches rather than thick walls. That is why the windows can be so tall. It carries the name of Sebaldus, the hermit the town took as its patron.",
       "icon" : "choice",
       "id" : "f-st-sebald",
       "kind" : "church",
       "localizedExtendedStory" : {
-        "de" : "Der Bau begann 1225 und zog sich über Generationen. Die Parler, Steinmetzen, die in ganz Mitteleuropa arbeiteten, hatten daran Anteil. Die Kirche ist gotisch, das Gewicht ruht also auf Rippen und Bögen statt auf dicken Mauern. Darum können die Fenster so hoch sein. Sie trägt den Namen des Sebaldus, des Einsiedlers, den die Stadt zum Patron nahm.",
-        "en" : "Building began in 1225 and went on for generations. The Parler family, masons who worked across central Europe, had a hand in it. The church is Gothic, so the weight is carried on ribs and arches rather than thick walls. That is why the windows can be so tall. It carries the name of Sebaldus, the hermit the town took as its patron."
+        "de" : "Der Bau begann um 1230 und zog sich über Generationen. Die Parler, Steinmetzen, die in ganz Mitteleuropa arbeiteten, hatten daran Anteil. Die Kirche ist gotisch, das Gewicht ruht also auf Rippen und Bögen statt auf dicken Mauern. Darum können die Fenster so hoch sein. Sie trägt den Namen des Sebaldus, des Einsiedlers, den die Stadt zum Patron nahm.",
+        "en" : "Building began around 1230 and went on for generations. The Parler family, masons who worked across central Europe, had a hand in it. The church is Gothic, so the weight is carried on ribs and arches rather than thick walls. That is why the windows can be so tall. It carries the name of Sebaldus, the hermit the town took as its patron."
       },
       "localizedStory" : {
-        "de" : "Sebalder Platz. Der Platz an St. Sebald, einer Kirche, die man ab 1225 zu bauen begann.",
-        "en" : "Sebalder Platz. The square beside St. Sebald, a church people began building back in 1225."
+        "de" : "Sebalder Platz. Der Platz an St. Sebald, einer Kirche, die man um 1230 zu bauen begann.",
+        "en" : "Sebalder Platz. The square beside St. Sebald, a church people began building around 1230."
       },
       "name" : "St. Sebald",
       "pos" : [
         49.455437,
         11.07653
       ],
-      "story" : "Sebalder Platz. The square beside St. Sebald, a church people began building back in 1225."
+      "story" : "Sebalder Platz. The square beside St. Sebald, a church people began building around 1230."
     },
     {
       "extendedStory" : "The fountain rises about 19 metres above the market. Forty painted figures climb it in four tiers. They set out a whole view of the world. At the bottom are the liberal arts, then evangelists, prince-electors, and Moses with seven prophets. Two of the eight railings hold a ring that turns. One is said to bring luck, and a tale promises children to whoever turns it.",
@@ -16551,15 +16538,15 @@
         "en" : "Albrecht Dürer lived and worked in this house from 1509 onwards. It is a big timber-framed house, and it came through the centuries undamaged when much around it did not survive. Of all the artists' houses built in northern Europe in the sixteenth century, this is the only one left."
       },
       "localizedStory" : {
-        "de" : "Neutormauer. Die Gasse am Albrecht-Dürer-Haus, einem Haus, das schon 1826 zu einem Museum zum Besuchen wurde.",
-        "en" : "Neutormauer. The lane at the Albrecht-Dürer-Haus, a house that became a museum to visit way back in 1826."
+        "de" : "Neutormauer. Die Gasse am Albrecht-Dürer-Haus, einem Haus, das schon 1828 zu einem Museum zum Besuchen wurde.",
+        "en" : "Neutormauer. The lane at the Albrecht-Dürer-Haus, a house that became a museum to visit way back in 1828."
       },
       "name" : "Albrecht-Dürer-Haus",
       "pos" : [
         49.457188,
         11.073963
       ],
-      "story" : "Neutormauer. The lane at the Albrecht-Dürer-Haus, a house that became a museum to visit way back in 1826."
+      "story" : "Neutormauer. The lane at the Albrecht-Dürer-Haus, a house that became a museum to visit way back in 1828."
     },
     {
       "extendedStory" : "Peter Parler was the master mason behind it. The style is Gothic, so look for pointed arches and windows that reach up like fingers. The church is named for Mary, and that name is why people call it the Frauenkirche. It stands right on the market square, so the building and the market have shared this spot for centuries.",
@@ -16582,13 +16569,13 @@
       "story" : "Hauptmarkt. Face the Frauenkirche from the market square; this church has watched over it since 1352."
     },
     {
-      "extendedStory" : "Look up at the windows: they end in points, and the stone around them is cut as fine as lace. That pointed shape is what Gothic means. One of the masons who worked here was Conrad Roritzer. People kept building on this spot for centuries after 1250, and a long repair wrapped up in 1900.",
+      "extendedStory" : "Look up at the windows: they end in points, and the stone around them is cut as fine as lace. That pointed shape is what Gothic means. One of the masons who worked here was Conrad Roritzer. People kept building on this spot for centuries after 1260, and a long repair ran from 1903 to 1907.",
       "icon" : "choice",
       "id" : "f-st-lorenz",
       "kind" : "church",
       "localizedExtendedStory" : {
-        "de" : "Conrad Roritzer gehörte zu den Baumeistern, die diese Kirche über die Jahre formten. Die Gotik zeigt sich in den spitzen Fenstern und im Stein, fein wie Spitze gearbeitet. Ihren Namen hat die Kirche von Laurentius von Rom. Noch Jahrhunderte nach 1250 wurde gebaut, ein langer Umbau endete 1900.",
-        "en" : "Look up at the windows: they end in points, and the stone around them is cut as fine as lace. That pointed shape is what Gothic means. One of the masons who worked here was Conrad Roritzer. People kept building on this spot for centuries after 1250, and a long repair wrapped up in 1900."
+        "de" : "Conrad Roritzer gehörte zu den Baumeistern, die diese Kirche über die Jahre formten. Die Gotik zeigt sich in den spitzen Fenstern und im Stein, fein wie Spitze gearbeitet. Ihren Namen hat die Kirche von Laurentius von Rom. Noch Jahrhunderte nach 1260 wurde gebaut, ein langer Umbau lief von 1903 bis 1907.",
+        "en" : "Look up at the windows: they end in points, and the stone around them is cut as fine as lace. That pointed shape is what Gothic means. One of the masons who worked here was Conrad Roritzer. People kept building on this spot for centuries after 1260, and a long repair ran from 1903 to 1907."
       },
       "localizedStory" : {
         "de" : "Lorenzer Platz. Der Platz vor St. Lorenz, einer Kirche, die 80 Meter hoch in den Himmel ragt.",
@@ -16782,7 +16769,7 @@
       "story" : "Hirschelgasse. The lane at the Tucherschloss, a grand mansion the Tucher merchant family built, now a little museum to step into."
     }
   ],
-  "generatedAt" : "2026-08-18T12:38:55Z",
+  "generatedAt" : "2026-08-25T15:47:05Z",
   "icon" : {
     "paths" : [
       "m 43.0 37.0 l 14.0 0.0 l 1.0 15.0 l -3.0 16.0 l -10.0 0.0 l -3.0 -16.0 z m 2.0 -33.0 l 12.0 0.0 l 4.0 7.0 l -4.0 9.0 l -12.0 0.0 l -4.0 -9.0 z m 1.0 5.0 l -12.0 -4.0 l 12.0 -4.0 z m 6.0 30.0 l -18.0 4.0 l 5.0 -7.0 l -13.0 -1.0 l 5.0 -7.0 l -11.0 -2.0 l -8.0 -12.0 l 39.0 11.0 z m 8.0 0.0 l 39.0 -11.0 l -8.0 12.0 l -11.0 2.0 l 5.0 7.0 l -13.0 1.0 l 5.0 7.0 l -18.0 -4.0 z m 4.0 13.0 l 8.0 26.0 l -10.0 -11.0 l -5.0 13.0 l -5.0 -13.0 l -10.0 11.0 l 8.0 -26.0 z"
@@ -16795,7 +16782,7 @@
     "en" : "Nuremberg"
   },
   "name" : "Nuremberg",
-  "packVersion" : 23,
+  "packVersion" : 24,
   "schemaVersion" : 1,
   "source" : "OpenStreetMap via Overpass API",
   "stats" : {

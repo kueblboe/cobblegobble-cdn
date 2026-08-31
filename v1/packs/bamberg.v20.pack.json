@@ -208,44 +208,12 @@
   ],
   "changes" : {
     "addedStreets" : [
-      "Theuerstadt"
+
     ],
     "adjustedStreets" : [
-      "Doktor-von-Schmitt-Straße",
-      "Domplatz",
-      "Domstraße",
-      "Eisgrube",
-      "Fischerei",
-      "Franz-Ludwig-Straße",
-      "Frauenplatz",
-      "Gangolfsweg",
-      "Geyerswörthstraße",
-      "Habergasse",
-      "Heinrichsdamm",
-      "Hinterer Bach",
-      "Im Domgrund",
-      "Josephstraße",
-      "Kapuzinerstraße",
-      "Karmelitenplatz",
-      "Karolinenstraße",
-      "Kunigundendamm",
-      "Lange Straße",
-      "Luisenstraße",
-      "Luitpoldstraße",
-      "Martin-Luther-Straße",
-      "Maternstraße",
-      "Mühlwörth",
-      "Obere Königstraße",
-      "Obstmarkt",
-      "Promenadestraße",
-      "Roppeltsgasse",
-      "Schillerplatz",
-      "Sutte",
-      "Theatergassen",
-      "Unterer Kaulberg",
-      "Vorderer Bach"
+
     ],
-    "fromVersion" : 18,
+    "fromVersion" : 19,
     "removedStreets" : [
 
     ]
@@ -8556,15 +8524,15 @@
         "en" : "The cathedral carries the name of Saint Peter, and that dedication is as old as the building. Its Romanesque parts came early, which means round arches and thick, calm walls rather than pointed ones. Centuries later Friedrich von Gärtner worked on the building, so what you see mixes the hands of very different ages."
       },
       "localizedStory" : {
-        "de" : "Domplatz. Auf diesem Platz steht der Bamberger Dom, im Jahr 1004 begonnen, seit über tausend Jahren.",
-        "en" : "Domplatz. The cathedral square where the Bamberger Dom, begun in 1004, has stood for over a thousand years."
+        "de" : "Domplatz. Auf diesem Platz steht der Bamberger Dom seit etwa 1200, erbaut über den Resten eines älteren Doms.",
+        "en" : "Domplatz. The square where the Bamberger Dom has stood since about 1200, built over the remains of an older cathedral."
       },
       "name" : "Bamberger Dom",
       "pos" : [
         49.890879,
         10.882513
       ],
-      "story" : "Domplatz. The cathedral square where the Bamberger Dom, begun in 1004, has stood for over a thousand years."
+      "story" : "Domplatz. The square where the Bamberger Dom has stood since about 1200, built over the remains of an older cathedral."
     },
     {
       "extendedStory" : "The figure standing in the water is Neptune, the Roman god of the sea. He holds a three-pronged spear called a trident. People here thought it looked like a kitchen fork, and the nickname stuck. The Neptune you see was made in 1698, while the fountain he stands in dates from 1566.",
@@ -8707,7 +8675,7 @@
       "story" : "On Marienplatz, a stone Mary stands over her basin. The sculptor Robert Bauer-Haderlein cut her in 1954."
     }
   ],
-  "generatedAt" : "2026-08-18T12:38:53Z",
+  "generatedAt" : "2026-08-25T15:47:03Z",
   "icon" : {
     "paths" : [
       "m 34 29 c 0 -16 20 -16 20 0 l 9 8 0 7 14 0 0 8 -16 0 -2 14 4 9 -4 2 -3 16 -7 0 -3 -22 -3 22 -7 0 -3 -16 -5 -2 2 -15 -3 -16 -2 -7 z m 39 -26 l 7 14 -3 2 0 75 -8 0 0 -75 -3 -2 z"
@@ -8720,7 +8688,7 @@
     "en" : "Bamberg"
   },
   "name" : "Bamberg",
-  "packVersion" : 19,
+  "packVersion" : 20,
   "schemaVersion" : 1,
   "source" : "OpenStreetMap via Overpass API",
   "stats" : {

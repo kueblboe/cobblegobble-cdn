@@ -167,22 +167,9 @@
 
     ],
     "adjustedStreets" : [
-      "Alter Hof",
-      "Herzog-Max-Straße",
-      "Herzog-Wilhelm-Straße",
-      "Max-Joseph-Platz",
-      "Oberanger",
-      "Odeonsplatz",
-      "Promenadeplatz",
-      "Residenz",
-      "Residenzstraße",
-      "Rindermarkt",
-      "Sankt-Jakobs-Platz",
-      "Sendlinger Straße",
-      "Theatinerstraße",
-      "Viktualienmarkt"
+
     ],
-    "fromVersion" : 24,
+    "fromVersion" : 26,
     "removedStreets" : [
 
     ]
@@ -21078,13 +21065,13 @@
   ],
   "fruits" : [
     {
-      "extendedStory" : "Those two towers with round green caps are Munich's mark on the sky. The church was begun in 1401, and a builder named Jörg von Halsbach shaped it. It was consecrated in 1494, and the caps were added later, in 1525. The towers rise about 99 metres, so you can spot them from far across the city. Look up for the green caps, and you have found the heart of Munich.",
+      "extendedStory" : "Those two towers with round green caps are Munich's mark on the sky. The church was begun in 1468, and a builder named Jörg von Halsbach shaped it. It was consecrated in 1494, and the caps were added later, in 1525. The towers rise about 99 metres, so you can spot them from far across the city. Look up for the green caps, and you have found the heart of Munich.",
       "icon" : "hero",
       "id" : "f-frauenkirche",
       "kind" : "church",
       "localizedExtendedStory" : {
-        "de" : "Diese zwei Türme mit runden grünen Hauben sind Münchens Zeichen am Himmel. Die Kirche wurde 1401 begonnen, und ein Baumeister namens Jörg von Halspach formte sie. Geweiht wurde sie 1494, und die Hauben kamen später dazu, im Jahr 1525. Die Türme sind etwa 99 Meter hoch, so siehst du sie von weit her. Schau nach den grünen Hauben, und du hast Münchens Herz gefunden.",
-        "en" : "Those two towers with round green caps are Munich's mark on the sky. The church was begun in 1401, and a builder named Jörg von Halsbach shaped it. It was consecrated in 1494, and the caps were added later, in 1525. The towers rise about 99 metres, so you can spot them from far across the city. Look up for the green caps, and you have found the heart of Munich."
+        "de" : "Diese zwei Türme mit runden grünen Hauben sind Münchens Zeichen am Himmel. Die Kirche wurde 1468 begonnen, und ein Baumeister namens Jörg von Halspach formte sie. Geweiht wurde sie 1494, und die Hauben kamen später dazu, im Jahr 1525. Die Türme sind etwa 99 Meter hoch, so siehst du sie von weit her. Schau nach den grünen Hauben, und du hast Münchens Herz gefunden.",
+        "en" : "Those two towers with round green caps are Munich's mark on the sky. The church was begun in 1468, and a builder named Jörg von Halsbach shaped it. It was consecrated in 1494, and the caps were added later, in 1525. The towers rise about 99 metres, so you can spot them from far across the city. Look up for the green caps, and you have found the heart of Munich."
       },
       "localizedStory" : {
         "de" : "Nahe dem Eingang trägt ein dunkler Fleck im Steinboden den Spitznamen Teufelstritt.",
@@ -21158,24 +21145,24 @@
       "story" : "Find the Mozart plaque on the wall of this old fort. Bavaria's ruling family, the Wittelsbachs, lived here from 1253."
     },
     {
-      "extendedStory" : "Stand under the big gateway arch and look up at the two towers on either side. Each one has six sides, not four. People have walked through this gate since 1308. It was restored in 1860, so what you see is old and cared for. Trace the six corners of a tower with your finger as you pass.",
+      "extendedStory" : "Stand under the big gateway arch and look up at the two towers on either side. Each one has six sides, not four. The heart of this gate was built in the fifteenth century. It was restored in 1860, so what you see is old and cared for. Trace the six corners of a tower with your finger as you pass.",
       "icon" : "everyday",
       "id" : "f-sendlinger-tor",
       "kind" : "gate_tower",
       "localizedExtendedStory" : {
-        "de" : "Stell dich unter den großen Torbogen und schau zu den zwei Türmen an den Seiten hoch. Jeder hat sechs Seiten, nicht vier. Durch dieses Tor gehen Menschen schon seit 1308. Im Jahr 1860 wurde es neu hergerichtet, also ist es alt und gut gepflegt. Fahr mit dem Finger die sechs Ecken eines Turms nach, wenn du vorbeigehst.",
-        "en" : "Stand under the big gateway arch and look up at the two towers on either side. Each one has six sides, not four. People have walked through this gate since 1308. It was restored in 1860, so what you see is old and cared for. Trace the six corners of a tower with your finger as you pass."
+        "de" : "Stell dich unter den großen Torbogen und schau zu den zwei Türmen an den Seiten hoch. Jeder hat sechs Seiten, nicht vier. Der Kern dieses Tors stammt aus dem 15. Jahrhundert. Im Jahr 1860 wurde es neu hergerichtet, also ist es alt und gut gepflegt. Fahr mit dem Finger die sechs Ecken eines Turms nach, wenn du vorbeigehst.",
+        "en" : "Stand under the big gateway arch and look up at the two towers on either side. Each one has six sides, not four. The heart of this gate was built in the fifteenth century. It was restored in 1860, so what you see is old and cared for. Trace the six corners of a tower with your finger as you pass."
       },
       "localizedStory" : {
-        "de" : "Zähl die Seiten der zwei Türme neben dem großen Torbogen: je sechs. Dieses Tor steht seit 1308.",
-        "en" : "Count the sides of the two towers beside the big archway: six each. This gate has stood since 1308."
+        "de" : "Zähl die Seiten der zwei Türme neben dem großen Torbogen: je sechs. Ihr Stein steht hier seit über fünfhundert Jahren.",
+        "en" : "Count the sides of the two towers beside the big archway: six each. The stone in them has been standing for over five hundred years."
       },
       "name" : "Sendlinger Tor",
       "pos" : [
         48.134055,
         11.567715
       ],
-      "story" : "Count the sides of the two towers beside the big archway: six each. This gate has stood since 1308."
+      "story" : "Count the sides of the two towers beside the big archway: six each. The stone in them has been standing for over five hundred years."
     },
     {
       "extendedStory" : "On Lenbachplatz stands the Künstlerhaus, a house built just for artists. Gabriel von Seidl designed it, and its foundation stone was laid in 1893. Years later, in 1900, the doors opened. Imagine a whole building made so painters, sculptors and musicians could meet, work, and show their creations. So when you pass, picture the artists who wanted a home of their own.",
@@ -21238,7 +21225,7 @@
       "story" : "An Italian, Agostino Barelli, drew this church. It rises 71 metres over Residenzstraße."
     }
   ],
-  "generatedAt" : "2026-08-18T12:38:49Z",
+  "generatedAt" : "2026-08-25T15:28:28Z",
   "icon" : {
     "paths" : [
       "M93.2 34.2L102.2 33.2 118.9 34.7 126.9 37.3 133.7 42.1 139.2 49.6 143.2 61.1 126.4 61.3 121.2 64.4 124.0 69.5 131.9 74.1 148.6 75.2 166.3 71.0 167.6 69.6 167.1 64.8 172.1 61.7 170.0 57.3 182.9 50.7 192.2 69.7 179.2 76.8 173.7 65.1 172.7 71.9 168.0 75.1 168.5 77.1 172.3 75.6 174.6 72.0 176.9 76.8 163.3 85.1 163.3 198.4 150.8 194.5 145.8 187.9 144.3 115.3 139.4 105.8 132.4 100.8 132.4 196.6 84.3 196.4 84.3 102.2 76.6 106.7 72.3 114.3 71.0 185.8 63.5 194.7 52.9 197.2 53.1 83.0 30.8 71.0 31.8 68.8 37.4 71.0 37.9 69.5 32.5 67.4 34.1 66.0 39.4 67.8 39.4 66.1 25.9 58.6 26.7 57.0 35.0 61.9 35.5 60.6 27.4 55.1 28.5 53.1 40.8 62.2 42.7 70.3 46.7 73.1 42.8 62.2 38.2 57.0 38.6 54.0 49.4 62.8 49.8 68.2 53.1 70.9 72.8 75.2 88.6 72.9 95.7 69.3 101.6 63.6 90.1 63.0 89.4 56.3 87.0 55.8 88.4 39.6Z"
@@ -21251,7 +21238,7 @@
     "en" : "Munich"
   },
   "name" : "Munich",
-  "packVersion" : 25,
+  "packVersion" : 27,
   "schemaVersion" : 1,
   "source" : "OpenStreetMap via Overpass API",
   "stats" : {
