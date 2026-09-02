@@ -4395,87 +4395,167 @@
   ],
   "fruits" : [
     {
-      "icon" : "choice",
+      "extendedStory" : "Jörg Tünzl, a master builder from the town, put this hall up between 1457 and 1459. No other building of his is known anywhere. In 1458 the carpenter Hans Mülperger was sent to Donauwörth to look at the town hall there, apparently for ideas. The siege of 1422 lasted a month and failed, and stone balls had rained into the town. About 500 of them were stacked into a pyramid in 1826, and it stands in the western entrance hall.",
+      "icon" : "everyday",
       "id" : "f-rathaus",
       "kind" : "civic",
+      "localizedExtendedStory" : {
+        "de" : "Jörg Tünzl, ein Baumeister aus der Stadt, stellte diesen Bau zwischen 1457 und 1459 hin. Ein weiteres Gebäude von ihm ist nirgends bekannt. 1458 schickte man den Zimmermeister Hans Mülperger nach Donauwörth, um das dortige Rathaus anzuschauen, offenbar für Anregungen. Die Belagerung von 1422 dauerte einen Monat und scheiterte, und Steinkugeln waren in die Stadt geflogen. Etwa 500 davon schichtete man 1826 zu einer Pyramide, die in der westlichen Vorhalle steht.",
+        "en" : "Jörg Tünzl, a master builder from the town, put this hall up between 1457 and 1459. No other building of his is known anywhere. In 1458 the carpenter Hans Mülperger was sent to Donauwörth to look at the town hall there, apparently for ideas. The siege of 1422 lasted a month and failed, and stone balls had rained into the town. About 500 of them were stacked into a pyramid in 1826, and it stands in the western entrance hall."
+      },
+      "localizedStory" : {
+        "de" : "Etwa 500 steinerne Kanonenkugeln liegen als Pyramide im westlichen Eingang, gesammelt aus der gescheiterten Belagerung von 1422.",
+        "en" : "About 500 stone cannonballs are stacked in a pyramid by the west entrance, gathered from the failed siege of 1422."
+      },
       "name" : "Rathaus",
       "pos" : [
         48.061178,
         12.23303
-      ]
+      ],
+      "story" : "About 500 stone cannonballs are stacked in a pyramid by the west entrance, gathered from the failed siege of 1422."
     },
     {
+      "extendedStory" : "The work here outlasted the men who started it. Hans von Burghausen led the building from 1410 until 1432. His nephew Hans Stethaimer took over from him. Stephan Krumenauer built the new choir from 1445, and the tower went up from 1461 under Wolfgang Wiser. It was finished in 1478, sixty eight years after the work began. The date 1445 that you sometimes read marks the completed nave, not the start.",
       "icon" : "choice",
       "id" : "f-st-jakob",
       "kind" : "church",
+      "localizedExtendedStory" : {
+        "de" : "Der Bau hier überdauerte die Männer, die ihn begannen. Hans von Burghausen leitete ihn von 1410 bis 1432. Sein Neffe Hans Stethaimer übernahm danach. Stephan Krumenauer baute ab 1445 den neuen Chor, und ab 1461 führte Wolfgang Wiser den Turm hoch. 1478 war alles fertig, achtundsechzig Jahre nach dem Baubeginn. Die Jahreszahl 1445, die man manchmal liest, meint das vollendete Langhaus, nicht den Anfang.",
+        "en" : "The work here outlasted the men who started it. Hans von Burghausen led the building from 1410 until 1432. His nephew Hans Stethaimer took over from him. Stephan Krumenauer built the new choir from 1445, and the tower went up from 1461 under Wolfgang Wiser. It was finished in 1478, sixty eight years after the work began. The date 1445 that you sometimes read marks the completed nave, not the start."
+      },
+      "localizedStory" : {
+        "de" : "Der Bau begann 1410 und war 1478 fertig. Vier Baumeister leiteten ihn nacheinander, jeder übernahm vom vorigen.",
+        "en" : "Work began in 1410 and was finished in 1478. Four master builders led it, each taking over from the one before."
+      },
       "name" : "St. Jakob",
       "pos" : [
         48.060895,
         12.230867
-      ]
+      ],
+      "story" : "Work began in 1410 and was finished in 1478. Four master builders led it, each taking over from the one before."
     },
     {
+      "extendedStory" : "Everything the town needed to control its bridge sat in one building. The ground floor beside the arch held the gate watch, the toll counter and the town defence. The citizens built the tower twice. They raised it from 1415 under Duke Ludwig the Bearded. Then they built it again between October 1470 and July 1471, under the masters Wolfgang Wiser and Steffan. The south face was painted in 1568, and in 1630 Wolfgang Pittenharter renewed the sundial and added two orbs.",
       "icon" : "choice",
       "id" : "f-brucktor",
       "kind" : "gate_tower",
+      "localizedExtendedStory" : {
+        "de" : "Alles, was die Stadt zur Kontrolle ihrer Brücke brauchte, saß in einem Gebäude. Im Erdgeschoss neben der Durchfahrt lagen die Torwache, die Zolleinnahme und die Stadtverteidigung. Die Bürger bauten den Turm zweimal. Sie errichteten ihn ab 1415 unter Herzog Ludwig dem Gebarteten. Dann bauten sie ihn von Oktober 1470 bis Juli 1471 erneut, unter den Meistern Wolfgang Wiser und Steffan. 1568 wurde die Südseite bemalt, und 1630 erneuerte Wolfgang Pittenharter die Sonnenuhr.",
+        "en" : "Everything the town needed to control its bridge sat in one building. The ground floor beside the arch held the gate watch, the toll counter and the town defence. The citizens built the tower twice. They raised it from 1415 under Duke Ludwig the Bearded. Then they built it again between October 1470 and July 1471, under the masters Wolfgang Wiser and Steffan. The south face was painted in 1568, and in 1630 Wolfgang Pittenharter renewed the sundial and added two orbs."
+      },
+      "localizedStory" : {
+        "de" : "Das Stadttor an der Brücke. 1630 erneuerte der Maler Wolfgang Pittenharter hier die Sonnenuhr, für 3 Gulden 10 Kreuzer.",
+        "en" : "The gate at the bridge. In 1630 the painter Wolfgang Pittenharter renewed its sundial for 3 gulden 10 kreuzer."
+      },
       "name" : "Brucktor",
       "pos" : [
         48.059986,
         12.232458
-      ]
+      ],
+      "story" : "The gate at the bridge. In 1630 the painter Wolfgang Pittenharter renewed its sundial for 3 gulden 10 kreuzer."
     },
     {
+      "extendedStory" : "The market church was already standing in 1324, when someone paid for an early morning mass here. In 1342 Emperor Ludwig the Bavarian gave it the income of the town's public weighing scales. That money kept its eternal light burning. Its tower did a second job into the nineteenth century, watching over the roofs for fire. Wolfgang Wiser built the spire in 1501/02. He is the same master who finished the tower of St Jakob and rebuilt the Brucktor.",
+      "icon" : "choice",
+      "id" : "f-frauenkirche",
+      "kind" : "church",
+      "localizedExtendedStory" : {
+        "de" : "Die Marktkirche stand schon 1324, als jemand hier eine Frühmesse stiftete. Kaiser Ludwig der Bayer schenkte ihr 1342 die Erträge der Stadtfronwaage, damit ihr Ewiges Licht weiterbrennen konnte. Ihr Turm hatte bis ins 19. Jahrhundert eine zweite Aufgabe und wachte über den Dächern gegen Feuer. Wolfgang Wiser baute 1501/02 den Spitzhelm. Es ist derselbe Meister, der den Turm von St. Jakob vollendete und das Brucktor neu errichtete.",
+        "en" : "The market church was already standing in 1324, when someone paid for an early morning mass here. In 1342 Emperor Ludwig the Bavarian gave it the income of the town's public weighing scales. That money kept its eternal light burning. Its tower did a second job into the nineteenth century, watching over the roofs for fire. Wolfgang Wiser built the spire in 1501/02. He is the same master who finished the tower of St Jakob and rebuilt the Brucktor."
+      },
+      "localizedStory" : {
+        "de" : "1342 schenkte Kaiser Ludwig der Bayer dieser Kirche die Erträge der Stadtwaage, damit ihr Ewiges Licht weiterbrennt.",
+        "en" : "In 1342 Emperor Ludwig the Bavarian gave this church the income of the town scales, to keep its eternal light burning."
+      },
+      "name" : "Frauenkirche",
+      "pos" : [
+        48.060883,
+        12.232881
+      ],
+      "story" : "In 1342 Emperor Ludwig the Bavarian gave this church the income of the town scales, to keep its eternal light burning."
+    },
+    {
+      "extendedStory" : "The salt road made this corner what it is. It crossed the Inn bridge, came through the Brucktor and turned at a right angle into the market place. The duke's toll collector sat in the old toll house here until 1497. Then the office moved to the new one at the corner of the Schmidzeile, built that same year. An angel by W. Leb sits on its corner oriel. The older house goes back to about 1400, and Renaissance oriels reached its Bruckgasse front in 1539.",
+      "icon" : "everyday",
+      "id" : "f-mauthaus",
+      "kind" : "other",
+      "localizedExtendedStory" : {
+        "de" : "Die Salzstraße hat diese Ecke gemacht. Sie kam über die Innbrücke, führte durch das Brucktor und bog im rechten Winkel in den Markt ein. Bis 1497 saß der herzogliche Mautner hier im Alten Mauthaus. Dann zog das Amt in das Neue Mauthaus an der Ecke der Schmidzeile, das im selben Jahr entstand. Am Eckerker sitzt eine Engelsfigur von W. Leb. Das ältere Haus geht auf etwa 1400 zurück, und 1539 kamen Renaissanceerker an seine Fassade zur Bruckgasse.",
+        "en" : "The salt road made this corner what it is. It crossed the Inn bridge, came through the Brucktor and turned at a right angle into the market place. The duke's toll collector sat in the old toll house here until 1497. Then the office moved to the new one at the corner of the Schmidzeile, built that same year. An angel by W. Leb sits on its corner oriel. The older house goes back to about 1400, and Renaissance oriels reached its Bruckgasse front in 1539."
+      },
+      "localizedStory" : {
+        "de" : "Bis 1497 saß hier der herzogliche Mautner, an der Salzstraße, die über die Innbrücke kam und in den Markt einbog.",
+        "en" : "The duke's toll collector sat here until 1497, on the salt road that crossed the Inn bridge and turned into the market."
+      },
+      "name" : "Mauthaus",
+      "pos" : [
+        48.060427,
+        12.232017
+      ],
+      "story" : "The duke's toll collector sat here until 1497, on the salt road that crossed the Inn bridge and turned into the market."
+    },
+    {
+      "extendedStory" : "A castle stood on this spur long before the palace you see today. Its chapel of St Ägidius rises over a building already mentioned in 1137. By 1200 the castle had given the town its name, which simply means water castle. Duke Wilhelm IV then had the older building rebuilt into a ducal palace between 1529 and 1535. His master builder was probably Leonhard Halder. The draw well that belongs to the palace was sunk in 1536.",
       "icon" : "hero",
       "id" : "f-wasserburg",
       "kind" : "fortress",
+      "localizedExtendedStory" : {
+        "de" : "Auf diesem Sporn stand lange vor dem heutigen Schloss eine Burg. Ihre Kapelle St. Ägidius steht über einem Bau, der schon 1137 erwähnt wird. Um 1200 hatte die Burg der Stadt ihren Namen gegeben, und der heißt einfach Wasserburg. Herzog Wilhelm IV. ließ den älteren Bau dann zwischen 1529 und 1535 zum herzoglichen Schloss umbauen. Sein Baumeister war wohl Leonhard Halder. Der zugehörige Ziehbrunnen entstand 1536.",
+        "en" : "A castle stood on this spur long before the palace you see today. Its chapel of St Ägidius rises over a building already mentioned in 1137. By 1200 the castle had given the town its name, which simply means water castle. Duke Wilhelm IV then had the older building rebuilt into a ducal palace between 1529 and 1535. His master builder was probably Leonhard Halder. The draw well that belongs to the palace was sunk in 1536."
+      },
+      "localizedStory" : {
+        "de" : "Die Burg, die der Stadt ihren Namen gab. Herzog Wilhelm IV. ließ sie zwischen 1529 und 1535 zum herzoglichen Schloss umbauen.",
+        "en" : "The castle that gave the town its name. Duke Wilhelm IV had it rebuilt as a ducal palace between 1529 and 1535."
+      },
       "name" : "Wasserburg",
       "pos" : [
         48.060714,
         12.229363
-      ]
+      ],
+      "story" : "The castle that gave the town its name. Duke Wilhelm IV had it rebuilt as a ducal palace between 1529 and 1535."
     },
     {
+      "extendedStory" : "Wasserburg's own citizens raised this tower from 1415, under Duke Ludwig the Seventh, called the Bearded. It closed the end of the inner cross wall and stood right on the river bank. The name belongs to the Pfendner, the officer who collected unpaid debts and at times sat here. Later the tower simply became a home. It passed into private hands early in the nineteenth century. In 1900 the mason Johann Herfurter was allowed to fit a stable, a cellar and a flat inside.",
       "icon" : "everyday",
       "id" : "f-hungerturm",
       "kind" : "gate_tower",
+      "localizedExtendedStory" : {
+        "de" : "Die Wasserburger Bürger errichteten diesen Turm ab 1415, unter Herzog Ludwig VII., dem Gebarteten. Er schloss die innere Zwerchmauer ab und stand unmittelbar am Innufer. Der Name gehört dem Pfendner, dem Amtsträger für die Pfändung, der zeitweise hier saß. Später wurde der Turm einfach ein Wohnhaus. Anfang des 19. Jahrhunderts kam er in Privatbesitz, und 1900 durfte der Maurer Johann Herfurter Stallung, Keller und eine Wohnung einbauen.",
+        "en" : "Wasserburg's own citizens raised this tower from 1415, under Duke Ludwig the Seventh, called the Bearded. It closed the end of the inner cross wall and stood right on the river bank. The name belongs to the Pfendner, the officer who collected unpaid debts and at times sat here. Later the tower simply became a home. It passed into private hands early in the nineteenth century. In 1900 the mason Johann Herfurter was allowed to fit a stable, a cellar and a flat inside."
+      },
+      "localizedStory" : {
+        "de" : "Benannt nach dem Pfendner, dem Amtsträger für die Pfändung, der zeitweise selbst im Turm saß.",
+        "en" : "Named for the Pfendner, the officer who collected unpaid debts and at times sat up in the tower himself."
+      },
       "name" : "Hungerturm",
       "pos" : [
         48.063156,
         12.230935
-      ]
+      ],
+      "story" : "Named for the Pfendner, the officer who collected unpaid debts and at times sat up in the tower himself."
     },
     {
-      "icon" : "everyday",
-      "id" : "f-innfahre",
-      "kind" : "museum",
-      "name" : "Innfähre",
-      "pos" : [
-        48.062224,
-        12.237074
-      ]
-    },
-    {
+      "extendedStory" : "This began as a defence tower on the outer cross wall. It has three storeys under a hipped roof and probably dates from the seventeenth century. Its neighbour on the inner wall stored the town's gunpowder, until lightning struck that one in 1680. The powder came here instead, and people began calling this the new powder tower. The lane outside carried the name unofficially in the 1930s and got it officially in 1955.",
       "icon" : "everyday",
       "id" : "f-pulverturm",
       "kind" : "gate_tower",
+      "localizedExtendedStory" : {
+        "de" : "Das hier war zuerst ein Verteidigungsturm an der äußeren Zwerchmauer. Er hat drei Geschosse unter einem Walmdach und stammt wohl aus dem 17. Jahrhundert. Sein Nachbar an der inneren Mauer lagerte das Schießpulver der Stadt, bis dort 1680 der Blitz einschlug. Das Pulver kam daraufhin hierher, und man sprach vom neuen Pulverturm. Die Gasse davor trug den Namen in den 1930er Jahren inoffiziell und bekam ihn 1955 amtlich.",
+        "en" : "This began as a defence tower on the outer cross wall. It has three storeys under a hipped roof and probably dates from the seventeenth century. Its neighbour on the inner wall stored the town's gunpowder, until lightning struck that one in 1680. The powder came here instead, and people began calling this the new powder tower. The lane outside carried the name unofficially in the 1930s and got it officially in 1955."
+      },
+      "localizedStory" : {
+        "de" : "Das Schießpulver der Stadt kam hierher, nachdem ein Blitz 1680 den älteren Pulverturm zerstört hatte.",
+        "en" : "The town's gunpowder moved here after lightning destroyed the older powder tower in 1680."
+      },
       "name" : "Pulverturm",
       "pos" : [
         48.061637,
         12.22344
-      ]
-    },
-    {
-      "icon" : "everyday",
-      "id" : "f-wasserburger-moschee",
-      "kind" : "church",
-      "name" : "Wasserburger Moschee",
-      "pos" : [
-        48.062157,
-        12.227168
-      ]
+      ],
+      "story" : "The town's gunpowder moved here after lightning destroyed the older powder tower in 1680."
     }
   ],
-  "generatedAt" : "2026-08-30T16:39:36Z",
+  "generatedAt" : "2026-09-02T15:13:34Z",
   "license" : "ODbL 1.0 — https://opendatacommons.org/licenses/odbl/1-0/",
   "localizedNames" : {
     "de" : "Wasserburg am Inn",
