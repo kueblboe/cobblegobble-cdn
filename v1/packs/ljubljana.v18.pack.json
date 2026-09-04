@@ -205,7 +205,7 @@
     "adjustedStreets" : [
 
     ],
-    "fromVersion" : 16,
+    "fromVersion" : 17,
     "removedStreets" : [
 
     ]
@@ -15475,24 +15475,24 @@
   ],
   "fruits" : [
     {
-      "extendedStory" : "Look at the base and you will find carved figures pouring water. Each one stands for a river: the Sava, the Krka and the Ljubljanica. Above them a marble obelisk lifts ten metres over Mestni trg. All of it was set up in 1743, and it has not moved since. Watch where the water leaves each figure and you follow all three at once.",
+      "extendedStory" : "Look at the base and you will find carved figures pouring water. Each one stands for a river: the Sava, the Krka and the Ljubljanica. Above them a stone obelisk lifts ten metres over Mestni trg. Francesco Robba carved it between 1743 and 1751. The one you see today is a copy, and the restored original stands in the National Gallery. Watch where the water leaves each figure and you follow all three at once.",
       "icon" : "choice",
       "id" : "f-robbov-vodnjak",
       "kind" : "fountain",
       "localizedExtendedStory" : {
-        "de" : "Die drei Marmorfiguren am Fuß sind Flussgötter. Sie stehen für die Save, die Gurk und die Ljubljanica. Hinter ihnen steigt ein steinerner Obelisk zehn Meter in die Höhe. Das Ganze entstand 1743 und steht seither auf dem Mestni trg. Schau, wie das Wasser jede Figur verlässt, dann folgst du drei Flüssen auf einmal.",
-        "en" : "Look at the base and you will find carved figures pouring water. Each one stands for a river: the Sava, the Krka and the Ljubljanica. Above them a marble obelisk lifts ten metres over Mestni trg. All of it was set up in 1743, and it has not moved since. Watch where the water leaves each figure and you follow all three at once."
+        "de" : "Die drei Marmorfiguren am Fuß sind Flussgötter. Sie stehen für die Save, die Gurk und die Ljubljanica. Hinter ihnen steigt ein steinerner Obelisk zehn Meter in die Höhe. Francesco Robba schuf ihn zwischen 1743 und 1751. Auf dem Mestni trg steht heute eine Kopie und das restaurierte Original in der Nationalgalerie. Schau, wie das Wasser jede Figur verlässt, dann folgst du drei Flüssen auf einmal.",
+        "en" : "Look at the base and you will find carved figures pouring water. Each one stands for a river: the Sava, the Krka and the Ljubljanica. Above them a stone obelisk lifts ten metres over Mestni trg. Francesco Robba carved it between 1743 and 1751. The one you see today is a copy, and the restored original stands in the National Gallery. Watch where the water leaves each figure and you follow all three at once."
       },
       "localizedStory" : {
         "de" : "Drei Flussgötter aus Marmor bewachen einen schlanken Obelisken, der zehn Meter in die Höhe schießt.",
-        "en" : "Three carved rivermen guard a slim marble spire that shoots ten metres into the air."
+        "en" : "Three carved rivermen in marble guard a slim stone spire that shoots ten metres into the air."
       },
       "name" : "Robbov vodnjak",
       "pos" : [
         46.050099,
         14.507009
       ],
-      "story" : "Three carved rivermen guard a slim marble spire that shoots ten metres into the air."
+      "story" : "Three carved rivermen in marble guard a slim stone spire that shoots ten metres into the air."
     },
     {
       "extendedStory" : "Look up as you stand here and you will notice soft, flowing lines across the buildings. This is the Art Nouveau style, full of gentle curves and ornament. One of the grand fronts was designed by the architect Edvard Ravnikar. Slow down and let your eyes climb from the shop windows to the rooftops.",
@@ -15515,13 +15515,13 @@
       "story" : "People gather on this square named for the poet France Prešeren, meeting under buildings dressed in flowing Art Nouveau curves."
     },
     {
-      "extendedStory" : "Ljubljana's castle has watched over the old town since around the year 900. For centuries a fire guard lived in its tower. When flames appeared he fired a cannon to warn everyone below. Climb the lookout tower today for the view. Its very top stands exactly 400 metres above the sea.",
+      "extendedStory" : "Ljubljana's castle has watched over the Old Town since the eleventh century, when a wooden fort stood on this hill. For centuries a fire guard lived in its tower. When flames appeared he fired a cannon to warn everyone below. Climb the lookout tower today for the view. Its very top stands exactly 400 metres above the sea.",
       "icon" : "hero",
       "id" : "f-ljubljanski-grad",
       "kind" : "fortress",
       "localizedExtendedStory" : {
-        "de" : "Ljubljanas Burg wacht seit ungefähr dem Jahr 900 über die Altstadt. Jahrhundertelang wohnte ein Feuerwächter in ihrem Turm. Wenn Flammen auftauchten, feuerte er eine Kanone ab, um alle unten zu warnen. Steig heute für die Aussicht auf den Aussichtsturm. Seine Spitze liegt genau 400 Meter über dem Meer.",
-        "en" : "Ljubljana's castle has watched over the old town since around the year 900. For centuries a fire guard lived in its tower. When flames appeared he fired a cannon to warn everyone below. Climb the lookout tower today for the view. Its very top stands exactly 400 metres above the sea."
+        "de" : "Ljubljanas Burg wacht über die Altstadt, seit im elften Jahrhundert oben auf dem Hügel eine Holzburg stand. Jahrhundertelang wohnte ein Feuerwächter in ihrem Turm. Wenn Flammen auftauchten, feuerte er eine Kanone ab, um alle unten zu warnen. Steig heute für die Aussicht auf den Aussichtsturm. Seine Spitze liegt genau 400 Meter über dem Meer.",
+        "en" : "Ljubljana's castle has watched over the Old Town since the eleventh century, when a wooden fort stood on this hill. For centuries a fire guard lived in its tower. When flames appeared he fired a cannon to warn everyone below. Climb the lookout tower today for the view. Its very top stands exactly 400 metres above the sea."
       },
       "localizedStory" : {
         "de" : "Oben auf der Burg hielt einst ein Wächter vom Turm aus Ausschau. Brach unten ein Feuer aus, feuerte er eine Kanone ab, um zu warnen.",
@@ -15655,7 +15655,7 @@
       "story" : "Small bronze horses stand at the water here, with a bigger one among them."
     }
   ],
-  "generatedAt" : "2026-08-25T16:02:53Z",
+  "generatedAt" : "2026-09-04T13:31:14Z",
   "icon" : {
     "paths" : [
       "M10.00 88.00C10.00 79.72,27.91 73.00,50.00 73.00C72.09 73.00,90.00 79.72,90.00 88.00C90.00 96.28,72.09 103.00,50.00 103.00C27.91 103.00,10.00 96.28,10.00 88.00ZM15.00 68.00L85.00 68.00L85.00 80.00L15.00 80.00ZM15.00 63.00L19.67 63.00L19.67 68.00L15.00 68.00ZM24.33 63.00L29.00 63.00L29.00 68.00L24.33 68.00ZM33.67 63.00L38.33 63.00L38.33 68.00L33.67 68.00ZM43.00 63.00L47.67 63.00L47.67 68.00L43.00 68.00ZM52.33 63.00L57.00 63.00L57.00 68.00L52.33 68.00ZM61.67 63.00L66.33 63.00L66.33 68.00L61.67 68.00ZM71.00 63.00L75.67 63.00L75.67 68.00L71.00 68.00ZM80.33 63.00L85.00 63.00L85.00 68.00L80.33 68.00ZM56.00 20.00L74.00 20.00L74.00 80.00L56.00 80.00ZM54.50 20.00L75.50 20.00L75.50 27.00L54.50 27.00ZM54.50 14.50L58.70 14.50L58.70 20.00L54.50 20.00ZM62.90 14.50L67.10 14.50L67.10 20.00L62.90 20.00ZM71.30 14.50L75.50 14.50L75.50 20.00L71.30 20.00ZM28 80L28 68C28 64,38 64,38 68L38 80ZM62 50L62 36L68 36L68 50Z"
@@ -15668,14 +15668,14 @@
     "en" : "Ljubljana"
   },
   "name" : "Ljubljana",
-  "packVersion" : 17,
+  "packVersion" : 18,
   "schemaVersion" : 1,
   "source" : "OpenStreetMap via Overpass API",
   "stats" : {
     "estHours" : 8.1,
     "nodeCount" : 1404,
-    "routeFactor" : 1.29,
-    "routeKm" : 28.4,
+    "routeFactor" : 1.3,
+    "routeKm" : 28.3,
     "stepsStreetCount" : 12,
     "streetCount" : 109,
     "totalKm" : 21.97

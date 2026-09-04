@@ -151,15 +151,9 @@
 
     ],
     "adjustedStreets" : [
-      "Dam",
-      "Nieuwezijds Voorburgwal",
-      "Oudezijds Voorburgwal",
-      "Pijlsteeg",
-      "Rokin",
-      "Spui",
-      "Spuistraat"
+
     ],
-    "fromVersion" : 6,
+    "fromVersion" : 7,
     "removedStreets" : [
 
     ]
@@ -9493,24 +9487,24 @@
       "story" : "The new church next to the palace. New here means 1408."
     },
     {
-      "extendedStory" : "The foundation stone went down in 1648, to a design by Jacob van Campen. The building opened in 1665. The style is Dutch Baroque: severe, wide, with a gable full of carved figures. At 90 metres it stands over the whole Dam. What you are looking at is a citizens' building at palace size, put up when the city could afford anything it wanted.",
+      "extendedStory" : "The foundation stone went down in 1648, to a design by Jacob van Campen. The building was finished in 1665. The style is Dutch Baroque: severe, wide, with a gable full of carved figures. At 90 metres it stands over the whole Dam. What you are looking at is a citizens' building at palace size, put up when the city could afford anything it wanted.",
       "icon" : "hero",
       "id" : "f-koninklijk-paleis",
       "kind" : "fortress",
       "localizedExtendedStory" : {
         "de" : "Der Grundstein wurde 1648 gelegt, nach einem Entwurf von Jacob van Campen. 1665 war das Haus fertig. Der Stil ist niederländischer Barock: streng, breit, mit einem Giebel voller Figuren. Mit 90 Metern überragt das Gebäude den ganzen Dam. Wer davorsteht, sieht ein Bürgerhaus im Palastformat, gebaut in einer Zeit, in der die Stadt sich alles leisten konnte.",
-        "en" : "The foundation stone went down in 1648, to a design by Jacob van Campen. The building opened in 1665. The style is Dutch Baroque: severe, wide, with a gable full of carved figures. At 90 metres it stands over the whole Dam. What you are looking at is a citizens' building at palace size, put up when the city could afford anything it wanted."
+        "en" : "The foundation stone went down in 1648, to a design by Jacob van Campen. The building was finished in 1665. The style is Dutch Baroque: severe, wide, with a gable full of carved figures. At 90 metres it stands over the whole Dam. What you are looking at is a citizens' building at palace size, put up when the city could afford anything it wanted."
       },
       "localizedStory" : {
-        "de" : "Ein Palast, der als Rathaus geplant war. Jacob van Campen begann 1648, 1665 wurde eröffnet.",
-        "en" : "A palace that was planned as a town hall. Jacob van Campen began in 1648 and it opened in 1665."
+        "de" : "Ein Palast, der als Rathaus geplant war. Jacob van Campen begann 1648. 1655 zog die Stadt ein, bevor der Bau fertig war.",
+        "en" : "A palace that was planned as a town hall. Jacob van Campen began in 1648. The city moved into it in 1655, unfinished."
       },
       "name" : "Koninklijk Paleis",
       "pos" : [
         52.373128,
         4.890917
       ],
-      "story" : "A palace that was planned as a town hall. Jacob van Campen began in 1648 and it opened in 1665."
+      "story" : "A palace that was planned as a town hall. Jacob van Campen began in 1648. The city moved into it in 1655, unfinished."
     },
     {
       "extendedStory" : "The houses of this court belonged to the beguines themselves, as private property. That is how the community kept going when others were closed down. In 1671 the architect Philips Vingboons turned two dwelling houses opposite the chapel entrance into the Saints John and Ursula chapel. From the court you see house fronts and nothing else. Across the grass stands a wooden house from about 1528, with stone side walls and a jettied medieval attic floor.",
@@ -9613,7 +9607,7 @@
       "story" : "The tower's crown was drawn by Hendrick de Keyser, the city's Renaissance architect."
     }
   ],
-  "generatedAt" : "2026-08-18T12:39:45Z",
+  "generatedAt" : "2026-09-04T13:37:47Z",
   "icon" : {
     "paths" : [
       "M34.53 14.47L40.47 8.53L65.47 33.53L59.53 39.47ZM65.47 14.47L59.53 8.53L34.53 33.53L40.47 39.47ZM34.53 40.47L40.47 34.53L65.47 59.53L59.53 65.47ZM65.47 40.47L59.53 34.53L34.53 59.53L40.47 65.47ZM34.53 66.47L40.47 60.53L65.47 85.53L59.53 91.47ZM65.47 66.47L59.53 60.53L34.53 85.53L40.47 91.47Z"
@@ -9626,14 +9620,14 @@
     "en" : "Amsterdam"
   },
   "name" : "Amsterdam",
-  "packVersion" : 7,
+  "packVersion" : 8,
   "schemaVersion" : 1,
   "source" : "OpenStreetMap via Overpass API",
   "stats" : {
     "estHours" : 9.5,
     "nodeCount" : 1636,
-    "routeFactor" : 1.24,
-    "routeKm" : 33.4,
+    "routeFactor" : 1.25,
+    "routeKm" : 33.2,
     "stepsStreetCount" : 5,
     "streetCount" : 163,
     "totalKm" : 26.82
