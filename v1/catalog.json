@@ -149,6 +149,7 @@
       ],
       "cityId" : "amsterdam",
       "country" : "NL",
+      "hasPage" : true,
       "iapProductId" : "cobblegobble.city.amsterdam",
       "icon" : {
         "paths" : [
@@ -161,15 +162,15 @@
         "en" : "Amsterdam"
       },
       "name" : "Amsterdam",
-      "packVersion" : 8,
+      "packVersion" : 9,
       "stats" : {
         "estHours" : 9.5,
-        "nodeCount" : 1636,
-        "routeFactor" : 1.25,
-        "routeKm" : 33.2,
+        "nodeCount" : 1653,
+        "routeFactor" : 1.24,
+        "routeKm" : 33.3,
         "stepsStreetCount" : 5,
         "streetCount" : 163,
-        "totalKm" : 26.82
+        "totalKm" : 27.02
       },
       "status" : "published"
     },
@@ -382,6 +383,7 @@
       ],
       "cityId" : "bamberg",
       "country" : "DE",
+      "hasPage" : true,
       "iapProductId" : "cobblegobble.city.bamberg",
       "icon" : {
         "paths" : [
@@ -394,15 +396,15 @@
         "en" : "Bamberg"
       },
       "name" : "Bamberg",
-      "packVersion" : 20,
+      "packVersion" : 21,
       "stats" : {
-        "estHours" : 8.5,
-        "nodeCount" : 1718,
-        "routeFactor" : 1.3,
-        "routeKm" : 29.7,
+        "estHours" : 8.4,
+        "nodeCount" : 1743,
+        "routeFactor" : 1.27,
+        "routeKm" : 29.3,
         "stepsStreetCount" : 5,
         "streetCount" : 126,
-        "totalKm" : 22.82
+        "totalKm" : 23.17
       },
       "status" : "published"
     },
@@ -523,6 +525,7 @@
       ],
       "cityId" : "bath",
       "country" : "GB",
+      "hasPage" : true,
       "iapProductId" : "cobblegobble.city.bath",
       "icon" : {
         "paths" : [
@@ -535,15 +538,15 @@
         "en" : "Bath"
       },
       "name" : "Bath",
-      "packVersion" : 5,
+      "packVersion" : 6,
       "stats" : {
-        "estHours" : 5,
-        "nodeCount" : 854,
-        "routeFactor" : 1.36,
-        "routeKm" : 17.5,
+        "estHours" : 5.1,
+        "nodeCount" : 909,
+        "routeFactor" : 1.31,
+        "routeKm" : 17.7,
         "stepsStreetCount" : 2,
         "streetCount" : 112,
-        "totalKm" : 12.94
+        "totalKm" : 13.61
       },
       "status" : "published"
     },
@@ -732,6 +735,7 @@
       ],
       "cityId" : "berlin",
       "country" : "DE",
+      "hasPage" : false,
       "iapProductId" : "cobblegobble.city.berlin",
       "icon" : {
         "paths" : [
@@ -744,15 +748,15 @@
         "en" : "Berlin"
       },
       "name" : "Berlin",
-      "packVersion" : 8,
+      "packVersion" : 10,
       "stats" : {
-        "estHours" : 12.9,
-        "nodeCount" : 2312,
-        "routeFactor" : 1.32,
-        "routeKm" : 45,
+        "estHours" : 12.2,
+        "nodeCount" : 2153,
+        "routeFactor" : 1.34,
+        "routeKm" : 42.8,
         "stepsStreetCount" : 12,
         "streetCount" : 117,
-        "totalKm" : 34.67
+        "totalKm" : 32.2
       },
       "status" : "pending-stories"
     },
@@ -1001,6 +1005,7 @@
       ],
       "cityId" : "bern",
       "country" : "CH",
+      "hasPage" : true,
       "iapProductId" : "cobblegobble.city.bern",
       "icon" : {
         "paths" : [
@@ -1013,15 +1018,15 @@
         "en" : "Bern"
       },
       "name" : "Bern",
-      "packVersion" : 6,
+      "packVersion" : 7,
       "stats" : {
-        "estHours" : 6.7,
-        "nodeCount" : 1194,
-        "routeFactor" : 1.29,
-        "routeKm" : 23.5,
+        "estHours" : 6.6,
+        "nodeCount" : 1216,
+        "routeFactor" : 1.27,
+        "routeKm" : 23,
         "stepsStreetCount" : 11,
         "streetCount" : 105,
-        "totalKm" : 18.19
+        "totalKm" : 18.55
       },
       "status" : "published"
     },
@@ -1270,6 +1275,7 @@
       ],
       "cityId" : "bologna",
       "country" : "IT",
+      "hasPage" : true,
       "iapProductId" : "cobblegobble.city.bologna",
       "icon" : {
         "paths" : [
@@ -1283,15 +1289,15 @@
         "it" : "Bologna"
       },
       "name" : "Bologna",
-      "packVersion" : 25,
+      "packVersion" : 26,
       "stats" : {
-        "estHours" : 12.3,
-        "nodeCount" : 1860,
-        "routeFactor" : 1.41,
-        "routeKm" : 43.2,
+        "estHours" : 11.6,
+        "nodeCount" : 1898,
+        "routeFactor" : 1.31,
+        "routeKm" : 40.6,
         "stepsStreetCount" : 1,
         "streetCount" : 181,
-        "totalKm" : 30.65
+        "totalKm" : 31.3
       },
       "status" : "published"
     },
@@ -1532,6 +1538,7 @@
       ],
       "cityId" : "bruges",
       "country" : "BE",
+      "hasPage" : true,
       "iapProductId" : "cobblegobble.city.bruges",
       "icon" : {
         "paths" : [
@@ -1544,15 +1551,15 @@
         "en" : "Bruges"
       },
       "name" : "Bruges",
-      "packVersion" : 9,
+      "packVersion" : 10,
       "stats" : {
-        "estHours" : 6.9,
-        "nodeCount" : 1194,
-        "routeFactor" : 1.32,
-        "routeKm" : 24,
+        "estHours" : 6.6,
+        "nodeCount" : 1200,
+        "routeFactor" : 1.28,
+        "routeKm" : 23.2,
         "stepsStreetCount" : 2,
         "streetCount" : 130,
-        "totalKm" : 18.15
+        "totalKm" : 18.2
       },
       "status" : "published"
     },
@@ -1785,6 +1792,7 @@
       ],
       "cityId" : "budapest",
       "country" : "HU",
+      "hasPage" : true,
       "iapProductId" : "cobblegobble.city.budapest",
       "icon" : {
         "paths" : [
@@ -1894,6 +1902,7 @@
       ],
       "cityId" : "ceskykrumlov",
       "country" : "CZ",
+      "hasPage" : true,
       "iapProductId" : "cobblegobble.city.ceskykrumlov",
       "icon" : {
         "paths" : [
@@ -1907,15 +1916,15 @@
         "en" : "Český Krumlov"
       },
       "name" : "Český Krumlov",
-      "packVersion" : 25,
+      "packVersion" : 27,
       "stats" : {
         "estHours" : 2.5,
-        "nodeCount" : 470,
-        "routeFactor" : 1.28,
-        "routeKm" : 8.9,
+        "nodeCount" : 489,
+        "routeFactor" : 1.24,
+        "routeKm" : 8.8,
         "stepsStreetCount" : 5,
         "streetCount" : 39,
-        "totalKm" : 6.93
+        "totalKm" : 7.2
       },
       "status" : "published"
     },
@@ -2024,6 +2033,7 @@
       ],
       "cityId" : "colmar",
       "country" : "FR",
+      "hasPage" : true,
       "iapProductId" : "cobblegobble.city.colmar",
       "icon" : {
         "paths" : [
@@ -2036,15 +2046,15 @@
         "en" : "Colmar"
       },
       "name" : "Colmar",
-      "packVersion" : 5,
+      "packVersion" : 6,
       "stats" : {
-        "estHours" : 6.5,
-        "nodeCount" : 1130,
-        "routeFactor" : 1.29,
-        "routeKm" : 22.9,
+        "estHours" : 6.6,
+        "nodeCount" : 1165,
+        "routeFactor" : 1.27,
+        "routeKm" : 23,
         "stepsStreetCount" : 0,
         "streetCount" : 115,
-        "totalKm" : 17.67
+        "totalKm" : 18.14
       },
       "status" : "published"
     },
@@ -2245,6 +2255,7 @@
       ],
       "cityId" : "copenhagen",
       "country" : "DK",
+      "hasPage" : true,
       "iapProductId" : "cobblegobble.city.copenhagen",
       "icon" : {
         "paths" : [
@@ -2257,15 +2268,15 @@
         "en" : "Copenhagen"
       },
       "name" : "Copenhagen",
-      "packVersion" : 7,
+      "packVersion" : 8,
       "stats" : {
-        "estHours" : 9.3,
-        "nodeCount" : 1588,
-        "routeFactor" : 1.26,
-        "routeKm" : 32.5,
+        "estHours" : 9.2,
+        "nodeCount" : 1612,
+        "routeFactor" : 1.24,
+        "routeKm" : 32.2,
         "stepsStreetCount" : 6,
         "streetCount" : 125,
-        "totalKm" : 25.73
+        "totalKm" : 26.08
       },
       "status" : "published"
     },
@@ -2510,6 +2521,7 @@
       ],
       "cityId" : "dublin",
       "country" : "IE",
+      "hasPage" : true,
       "iapProductId" : "cobblegobble.city.dublin",
       "icon" : {
         "paths" : [
@@ -2522,15 +2534,15 @@
         "en" : "Dublin"
       },
       "name" : "Dublin",
-      "packVersion" : 19,
+      "packVersion" : 20,
       "stats" : {
-        "estHours" : 12.3,
-        "nodeCount" : 2094,
-        "routeFactor" : 1.32,
-        "routeKm" : 43.2,
+        "estHours" : 12.4,
+        "nodeCount" : 2142,
+        "routeFactor" : 1.31,
+        "routeKm" : 43.5,
         "stepsStreetCount" : 9,
         "streetCount" : 189,
-        "totalKm" : 32.75
+        "totalKm" : 33.51
       },
       "status" : "published"
     },
@@ -2755,6 +2767,7 @@
       ],
       "cityId" : "dubrovnik",
       "country" : "HR",
+      "hasPage" : true,
       "iapProductId" : "cobblegobble.city.dubrovnik",
       "icon" : {
         "paths" : [
@@ -2767,15 +2780,15 @@
         "en" : "Dubrovnik"
       },
       "name" : "Dubrovnik",
-      "packVersion" : 3,
+      "packVersion" : 4,
       "stats" : {
-        "estHours" : 3.2,
+        "estHours" : 3.1,
         "nodeCount" : 604,
-        "routeFactor" : 1.25,
-        "routeKm" : 11.3,
+        "routeFactor" : 1.23,
+        "routeKm" : 10.9,
         "stepsStreetCount" : 50,
         "streetCount" : 86,
-        "totalKm" : 9.06
+        "totalKm" : 9.07
       },
       "status" : "published"
     },
@@ -3024,6 +3037,7 @@
       ],
       "cityId" : "edinburgh",
       "country" : "GB",
+      "hasPage" : true,
       "iapProductId" : "cobblegobble.city.edinburgh",
       "icon" : {
         "paths" : [
@@ -3036,15 +3050,15 @@
         "en" : "Edinburgh"
       },
       "name" : "Edinburgh",
-      "packVersion" : 19,
+      "packVersion" : 20,
       "stats" : {
-        "estHours" : 8.8,
-        "nodeCount" : 1628,
-        "routeFactor" : 1.35,
-        "routeKm" : 31,
+        "estHours" : 9,
+        "nodeCount" : 1727,
+        "routeFactor" : 1.32,
+        "routeKm" : 31.6,
         "stepsStreetCount" : 42,
         "streetCount" : 175,
-        "totalKm" : 23.01
+        "totalKm" : 24.26
       },
       "status" : "published"
     },
@@ -3277,6 +3291,7 @@
       ],
       "cityId" : "florence",
       "country" : "IT",
+      "hasPage" : true,
       "iapProductId" : "cobblegobble.city.florence",
       "icon" : {
         "paths" : [
@@ -3378,6 +3393,7 @@
       ],
       "cityId" : "freyung",
       "country" : "DE",
+      "hasPage" : false,
       "iapProductId" : "cobblegobble.city.freyung",
       "icon" : {
         "paths" : [
@@ -3390,15 +3406,15 @@
         "en" : "Freyung"
       },
       "name" : "Freyung",
-      "packVersion" : 12,
+      "packVersion" : 13,
       "stats" : {
-        "estHours" : 3.1,
-        "nodeCount" : 456,
-        "routeFactor" : 1.36,
-        "routeKm" : 10.7,
+        "estHours" : 3.2,
+        "nodeCount" : 489,
+        "routeFactor" : 1.34,
+        "routeKm" : 11.3,
         "stepsStreetCount" : 2,
         "streetCount" : 36,
-        "totalKm" : 7.88
+        "totalKm" : 8.47
       },
       "status" : "testflight"
     },
@@ -3607,6 +3623,7 @@
       ],
       "cityId" : "ghent",
       "country" : "BE",
+      "hasPage" : true,
       "iapProductId" : "cobblegobble.city.ghent",
       "icon" : {
         "paths" : [
@@ -3619,15 +3636,15 @@
         "en" : "Ghent"
       },
       "name" : "Ghent",
-      "packVersion" : 5,
+      "packVersion" : 6,
       "stats" : {
-        "estHours" : 9.9,
-        "nodeCount" : 1760,
-        "routeFactor" : 1.29,
-        "routeKm" : 34.7,
+        "estHours" : 9.8,
+        "nodeCount" : 1775,
+        "routeFactor" : 1.26,
+        "routeKm" : 34.2,
         "stepsStreetCount" : 11,
         "streetCount" : 200,
-        "totalKm" : 26.98
+        "totalKm" : 27.21
       },
       "status" : "published"
     },
@@ -3776,6 +3793,7 @@
       ],
       "cityId" : "girona",
       "country" : "ES",
+      "hasPage" : true,
       "iapProductId" : "cobblegobble.city.girona",
       "icon" : {
         "paths" : [
@@ -3788,15 +3806,15 @@
         "en" : "Girona"
       },
       "name" : "Girona",
-      "packVersion" : 3,
+      "packVersion" : 4,
       "stats" : {
-        "estHours" : 4.1,
-        "nodeCount" : 796,
-        "routeFactor" : 1.28,
-        "routeKm" : 14.3,
+        "estHours" : 4,
+        "nodeCount" : 801,
+        "routeFactor" : 1.25,
+        "routeKm" : 13.9,
         "stepsStreetCount" : 26,
         "streetCount" : 95,
-        "totalKm" : 11.19
+        "totalKm" : 11.22
       },
       "status" : "published"
     },
@@ -3945,6 +3963,7 @@
       ],
       "cityId" : "heidelberg",
       "country" : "DE",
+      "hasPage" : true,
       "iapProductId" : "cobblegobble.city.heidelberg",
       "icon" : {
         "paths" : [
@@ -3957,15 +3976,15 @@
         "en" : "Heidelberg"
       },
       "name" : "Heidelberg",
-      "packVersion" : 7,
+      "packVersion" : 8,
       "stats" : {
-        "estHours" : 6.3,
-        "nodeCount" : 1055,
-        "routeFactor" : 1.34,
-        "routeKm" : 22.1,
+        "estHours" : 6.4,
+        "nodeCount" : 1129,
+        "routeFactor" : 1.28,
+        "routeKm" : 22.6,
         "stepsStreetCount" : 8,
         "streetCount" : 87,
-        "totalKm" : 16.46
+        "totalKm" : 17.82
       },
       "status" : "published"
     },
@@ -4102,6 +4121,7 @@
       ],
       "cityId" : "krakow",
       "country" : "PL",
+      "hasPage" : true,
       "iapProductId" : "cobblegobble.city.krakow",
       "icon" : {
         "paths" : [
@@ -4114,15 +4134,15 @@
         "en" : "Kraków"
       },
       "name" : "Kraków",
-      "packVersion" : 8,
+      "packVersion" : 9,
       "stats" : {
-        "estHours" : 5.5,
-        "nodeCount" : 965,
-        "routeFactor" : 1.26,
-        "routeKm" : 19.2,
+        "estHours" : 5.6,
+        "nodeCount" : 1010,
+        "routeFactor" : 1.25,
+        "routeKm" : 19.7,
         "stepsStreetCount" : 4,
         "streetCount" : 49,
-        "totalKm" : 15.23
+        "totalKm" : 15.95
       },
       "status" : "published"
     },
@@ -4307,21 +4327,22 @@
       ],
       "cityId" : "landshut",
       "country" : "DE",
+      "hasPage" : false,
       "iapProductId" : "cobblegobble.city.landshut",
       "localizedNames" : {
         "de" : "Landshut",
         "en" : "Landshut"
       },
       "name" : "Landshut",
-      "packVersion" : 9,
+      "packVersion" : 10,
       "stats" : {
         "estHours" : 4.9,
-        "nodeCount" : 869,
-        "routeFactor" : 1.29,
-        "routeKm" : 17.3,
+        "nodeCount" : 846,
+        "routeFactor" : 1.3,
+        "routeKm" : 17.1,
         "stepsStreetCount" : 4,
         "streetCount" : 72,
-        "totalKm" : 13.56
+        "totalKm" : 13.25
       },
       "status" : "pending-stories"
     },
@@ -4566,6 +4587,7 @@
       ],
       "cityId" : "leuven",
       "country" : "BE",
+      "hasPage" : true,
       "iapProductId" : "cobblegobble.city.leuven",
       "icon" : {
         "paths" : [
@@ -4579,15 +4601,15 @@
         "nl" : "Leuven"
       },
       "name" : "Leuven",
-      "packVersion" : 5,
+      "packVersion" : 6,
       "stats" : {
-        "estHours" : 7.4,
-        "nodeCount" : 1207,
-        "routeFactor" : 1.36,
-        "routeKm" : 25.9,
+        "estHours" : 6.9,
+        "nodeCount" : 1232,
+        "routeFactor" : 1.25,
+        "routeKm" : 24.1,
         "stepsStreetCount" : 8,
         "streetCount" : 98,
-        "totalKm" : 19.09
+        "totalKm" : 19.39
       },
       "status" : "published"
     },
@@ -4824,6 +4846,7 @@
       ],
       "cityId" : "lisbon",
       "country" : "PT",
+      "hasPage" : true,
       "iapProductId" : "cobblegobble.city.lisbon",
       "icon" : {
         "paths" : [
@@ -4836,15 +4859,15 @@
         "en" : "Lisbon"
       },
       "name" : "Lisbon",
-      "packVersion" : 5,
+      "packVersion" : 6,
       "stats" : {
-        "estHours" : 12.9,
-        "nodeCount" : 2314,
-        "routeFactor" : 1.28,
-        "routeKm" : 45.1,
+        "estHours" : 12.7,
+        "nodeCount" : 2352,
+        "routeFactor" : 1.26,
+        "routeKm" : 44.5,
         "stepsStreetCount" : 80,
         "streetCount" : 290,
-        "totalKm" : 35.31
+        "totalKm" : 35.78
       },
       "status" : "published"
     },
@@ -5049,6 +5072,7 @@
       ],
       "cityId" : "ljubljana",
       "country" : "SI",
+      "hasPage" : true,
       "iapProductId" : "cobblegobble.city.ljubljana",
       "icon" : {
         "paths" : [
@@ -5061,15 +5085,15 @@
         "en" : "Ljubljana"
       },
       "name" : "Ljubljana",
-      "packVersion" : 18,
+      "packVersion" : 19,
       "stats" : {
-        "estHours" : 8.1,
-        "nodeCount" : 1404,
-        "routeFactor" : 1.3,
-        "routeKm" : 28.3,
+        "estHours" : 8,
+        "nodeCount" : 1430,
+        "routeFactor" : 1.27,
+        "routeKm" : 27.9,
         "stepsStreetCount" : 12,
         "streetCount" : 109,
-        "totalKm" : 21.97
+        "totalKm" : 22.11
       },
       "status" : "published"
     },
@@ -5190,6 +5214,7 @@
       ],
       "cityId" : "lucca",
       "country" : "IT",
+      "hasPage" : true,
       "iapProductId" : "cobblegobble.city.lucca",
       "icon" : {
         "paths" : [
@@ -5202,15 +5227,15 @@
         "en" : "Lucca"
       },
       "name" : "Lucca",
-      "packVersion" : 10,
+      "packVersion" : 11,
       "stats" : {
         "estHours" : 11.5,
-        "nodeCount" : 1948,
-        "routeFactor" : 1.3,
+        "nodeCount" : 2001,
+        "routeFactor" : 1.27,
         "routeKm" : 40.1,
         "stepsStreetCount" : 0,
         "streetCount" : 230,
-        "totalKm" : 30.77
+        "totalKm" : 31.7
       },
       "status" : "published"
     },
@@ -5455,6 +5480,7 @@
       ],
       "cityId" : "lyon",
       "country" : "FR",
+      "hasPage" : true,
       "iapProductId" : "cobblegobble.city.lyon",
       "icon" : {
         "paths" : [
@@ -5467,15 +5493,15 @@
         "en" : "Lyon"
       },
       "name" : "Lyon",
-      "packVersion" : 13,
+      "packVersion" : 14,
       "stats" : {
-        "estHours" : 13.7,
-        "nodeCount" : 2379,
-        "routeFactor" : 1.31,
-        "routeKm" : 47.8,
+        "estHours" : 13.2,
+        "nodeCount" : 2414,
+        "routeFactor" : 1.27,
+        "routeKm" : 46,
         "stepsStreetCount" : 23,
         "streetCount" : 250,
-        "totalKm" : 36.56
+        "totalKm" : 36.94
       },
       "status" : "published"
     },
@@ -5644,6 +5670,7 @@
       ],
       "cityId" : "munich",
       "country" : "DE",
+      "hasPage" : true,
       "iapProductId" : "cobblegobble.city.munich",
       "icon" : {
         "paths" : [
@@ -5656,15 +5683,15 @@
         "en" : "Munich"
       },
       "name" : "Munich",
-      "packVersion" : 27,
+      "packVersion" : 28,
       "stats" : {
-        "estHours" : 10.3,
-        "nodeCount" : 1837,
-        "routeFactor" : 1.28,
-        "routeKm" : 36.1,
+        "estHours" : 10.6,
+        "nodeCount" : 1903,
+        "routeFactor" : 1.29,
+        "routeKm" : 37.1,
         "stepsStreetCount" : 6,
         "streetCount" : 152,
-        "totalKm" : 28.2
+        "totalKm" : 29
       },
       "status" : "published"
     },
@@ -5869,6 +5896,7 @@
       ],
       "cityId" : "nuremberg",
       "country" : "DE",
+      "hasPage" : true,
       "iapProductId" : "cobblegobble.city.nuremberg",
       "icon" : {
         "paths" : [
@@ -5881,15 +5909,15 @@
         "en" : "Nuremberg"
       },
       "name" : "Nuremberg",
-      "packVersion" : 24,
+      "packVersion" : 25,
       "stats" : {
-        "estHours" : 15.3,
-        "nodeCount" : 2633,
-        "routeFactor" : 1.29,
-        "routeKm" : 53.6,
+        "estHours" : 15.2,
+        "nodeCount" : 2720,
+        "routeFactor" : 1.24,
+        "routeKm" : 53.1,
         "stepsStreetCount" : 17,
         "streetCount" : 257,
-        "totalKm" : 41.63
+        "totalKm" : 42.79
       },
       "status" : "published"
     },
@@ -6050,6 +6078,7 @@
       ],
       "cityId" : "paris",
       "country" : "FR",
+      "hasPage" : false,
       "iapProductId" : "cobblegobble.city.paris",
       "icon" : {
         "paths" : [
@@ -6062,15 +6091,15 @@
         "en" : "Paris"
       },
       "name" : "Paris",
-      "packVersion" : 4,
+      "packVersion" : 5,
       "stats" : {
-        "estHours" : 12.4,
-        "nodeCount" : 2120,
+        "estHours" : 12.5,
+        "nodeCount" : 2140,
         "routeFactor" : 1.27,
-        "routeKm" : 43.5,
+        "routeKm" : 43.8,
         "stepsStreetCount" : 7,
         "streetCount" : 180,
-        "totalKm" : 34.48
+        "totalKm" : 34.74
       },
       "status" : "pending-stories"
     },
@@ -6259,6 +6288,7 @@
       ],
       "cityId" : "passau",
       "country" : "DE",
+      "hasPage" : true,
       "iapProductId" : "cobblegobble.city.passau",
       "icon" : {
         "paths" : [
@@ -6271,15 +6301,15 @@
         "en" : "Passau"
       },
       "name" : "Passau",
-      "packVersion" : 27,
+      "packVersion" : 28,
       "stats" : {
-        "estHours" : 5.8,
-        "nodeCount" : 967,
-        "routeFactor" : 1.31,
-        "routeKm" : 20.2,
+        "estHours" : 5.7,
+        "nodeCount" : 974,
+        "routeFactor" : 1.29,
+        "routeKm" : 19.8,
         "stepsStreetCount" : 14,
         "streetCount" : 84,
-        "totalKm" : 15.41
+        "totalKm" : 15.46
       },
       "status" : "published"
     },
@@ -6492,6 +6522,7 @@
       ],
       "cityId" : "porto",
       "country" : "PT",
+      "hasPage" : true,
       "iapProductId" : "cobblegobble.city.porto",
       "icon" : {
         "paths" : [
@@ -6504,15 +6535,15 @@
         "en" : "Porto"
       },
       "name" : "Porto",
-      "packVersion" : 14,
+      "packVersion" : 15,
       "stats" : {
-        "estHours" : 9.1,
-        "nodeCount" : 1622,
-        "routeFactor" : 1.3,
-        "routeKm" : 31.8,
+        "estHours" : 8.9,
+        "nodeCount" : 1657,
+        "routeFactor" : 1.27,
+        "routeKm" : 31.3,
         "stepsStreetCount" : 27,
         "streetCount" : 176,
-        "totalKm" : 24.42
+        "totalKm" : 24.9
       },
       "status" : "published"
     },
@@ -6757,6 +6788,7 @@
       ],
       "cityId" : "prague",
       "country" : "CZ",
+      "hasPage" : true,
       "iapProductId" : "cobblegobble.city.prague",
       "icon" : {
         "paths" : [
@@ -6770,15 +6802,15 @@
         "en" : "Prague"
       },
       "name" : "Prague",
-      "packVersion" : 22,
+      "packVersion" : 23,
       "stats" : {
         "estHours" : 10.9,
-        "nodeCount" : 1896,
-        "routeFactor" : 1.31,
-        "routeKm" : 38.3,
+        "nodeCount" : 1938,
+        "routeFactor" : 1.29,
+        "routeKm" : 38,
         "stepsStreetCount" : 9,
         "streetCount" : 131,
-        "totalKm" : 29.21
+        "totalKm" : 29.67
       },
       "status" : "published"
     },
@@ -6919,6 +6951,7 @@
       ],
       "cityId" : "regensburg",
       "country" : "DE",
+      "hasPage" : true,
       "iapProductId" : "cobblegobble.city.regensburg",
       "icon" : {
         "paths" : [
@@ -6931,15 +6964,15 @@
         "en" : "Regensburg"
       },
       "name" : "Regensburg",
-      "packVersion" : 19,
+      "packVersion" : 20,
       "stats" : {
-        "estHours" : 11.4,
-        "nodeCount" : 1927,
-        "routeFactor" : 1.28,
-        "routeKm" : 40,
+        "estHours" : 11.1,
+        "nodeCount" : 1947,
+        "routeFactor" : 1.25,
+        "routeKm" : 39,
         "stepsStreetCount" : 5,
         "streetCount" : 203,
-        "totalKm" : 31.23
+        "totalKm" : 31.41
       },
       "status" : "published"
     },
@@ -7128,6 +7161,7 @@
       ],
       "cityId" : "riga",
       "country" : "LV",
+      "hasPage" : false,
       "iapProductId" : "cobblegobble.city.riga",
       "icon" : {
         "paths" : [
@@ -7140,15 +7174,15 @@
         "en" : "Riga"
       },
       "name" : "Riga",
-      "packVersion" : 9,
+      "packVersion" : 10,
       "stats" : {
-        "estHours" : 5.3,
-        "nodeCount" : 937,
-        "routeFactor" : 1.24,
-        "routeKm" : 18.5,
+        "estHours" : 5.2,
+        "nodeCount" : 922,
+        "routeFactor" : 1.23,
+        "routeKm" : 18.1,
         "stepsStreetCount" : 3,
         "streetCount" : 81,
-        "totalKm" : 14.95
+        "totalKm" : 14.78
       },
       "status" : "pending-stories"
     },
@@ -7265,6 +7299,7 @@
       ],
       "cityId" : "salzburg",
       "country" : "AT",
+      "hasPage" : true,
       "iapProductId" : "cobblegobble.city.salzburg",
       "icon" : {
         "paths" : [
@@ -7277,15 +7312,15 @@
         "en" : "Salzburg"
       },
       "name" : "Salzburg",
-      "packVersion" : 25,
+      "packVersion" : 26,
       "stats" : {
-        "estHours" : 9.5,
-        "nodeCount" : 1569,
+        "estHours" : 10,
+        "nodeCount" : 1691,
         "routeFactor" : 1.33,
-        "routeKm" : 33.1,
+        "routeKm" : 35,
         "stepsStreetCount" : 11,
         "streetCount" : 127,
-        "totalKm" : 24.84
+        "totalKm" : 26.51
       },
       "status" : "published"
     },
@@ -7430,6 +7465,7 @@
       ],
       "cityId" : "santiago",
       "country" : "ES",
+      "hasPage" : true,
       "iapProductId" : "cobblegobble.city.santiago",
       "icon" : {
         "paths" : [
@@ -7442,15 +7478,15 @@
         "en" : "Santiago de Compostela"
       },
       "name" : "Santiago",
-      "packVersion" : 7,
+      "packVersion" : 8,
       "stats" : {
-        "estHours" : 7.6,
-        "nodeCount" : 1342,
-        "routeFactor" : 1.29,
-        "routeKm" : 26.6,
+        "estHours" : 7.2,
+        "nodeCount" : 1347,
+        "routeFactor" : 1.22,
+        "routeKm" : 25.1,
         "stepsStreetCount" : 14,
         "streetCount" : 144,
-        "totalKm" : 20.61
+        "totalKm" : 20.66
       },
       "status" : "published"
     },
@@ -7683,6 +7719,7 @@
       ],
       "cityId" : "seville",
       "country" : "ES",
+      "hasPage" : true,
       "iapProductId" : "cobblegobble.city.seville",
       "icon" : {
         "paths" : [
@@ -7695,15 +7732,15 @@
         "en" : "Seville"
       },
       "name" : "Seville",
-      "packVersion" : 16,
+      "packVersion" : 17,
       "stats" : {
-        "estHours" : 10.2,
-        "nodeCount" : 1720,
-        "routeFactor" : 1.29,
-        "routeKm" : 35.8,
+        "estHours" : 10.1,
+        "nodeCount" : 1735,
+        "routeFactor" : 1.27,
+        "routeKm" : 35.2,
         "stepsStreetCount" : 5,
         "streetCount" : 210,
-        "totalKm" : 27.66
+        "totalKm" : 27.9
       },
       "status" : "published"
     },
@@ -7892,6 +7929,7 @@
       ],
       "cityId" : "siena",
       "country" : "IT",
+      "hasPage" : true,
       "iapProductId" : "cobblegobble.city.siena",
       "icon" : {
         "paths" : [
@@ -7904,15 +7942,15 @@
         "en" : "Siena"
       },
       "name" : "Siena",
-      "packVersion" : 12,
+      "packVersion" : 13,
       "stats" : {
-        "estHours" : 11.7,
-        "nodeCount" : 2113,
-        "routeFactor" : 1.29,
-        "routeKm" : 40.9,
+        "estHours" : 11.8,
+        "nodeCount" : 2164,
+        "routeFactor" : 1.28,
+        "routeKm" : 41.1,
         "stepsStreetCount" : 32,
         "streetCount" : 228,
-        "totalKm" : 31.8
+        "totalKm" : 32.7
       },
       "status" : "published"
     },
@@ -8029,6 +8067,7 @@
       ],
       "cityId" : "split",
       "country" : "HR",
+      "hasPage" : true,
       "iapProductId" : "cobblegobble.city.split",
       "icon" : {
         "paths" : [
@@ -8041,15 +8080,15 @@
         "en" : "Split"
       },
       "name" : "Split",
-      "packVersion" : 2,
+      "packVersion" : 3,
       "stats" : {
         "estHours" : 2.6,
-        "nodeCount" : 521,
-        "routeFactor" : 1.28,
-        "routeKm" : 9.3,
+        "nodeCount" : 535,
+        "routeFactor" : 1.25,
+        "routeKm" : 9.1,
         "stepsStreetCount" : 9,
         "streetCount" : 78,
-        "totalKm" : 7.22
+        "totalKm" : 7.36
       },
       "status" : "published"
     },
@@ -8246,6 +8285,7 @@
       ],
       "cityId" : "stockholm",
       "country" : "SE",
+      "hasPage" : true,
       "iapProductId" : "cobblegobble.city.stockholm",
       "icon" : {
         "paths" : [
@@ -8258,15 +8298,15 @@
         "en" : "Stockholm"
       },
       "name" : "Stockholm",
-      "packVersion" : 7,
+      "packVersion" : 8,
       "stats" : {
-        "estHours" : 5.8,
-        "nodeCount" : 1047,
-        "routeFactor" : 1.27,
-        "routeKm" : 20.3,
+        "estHours" : 5.7,
+        "nodeCount" : 1059,
+        "routeFactor" : 1.26,
+        "routeKm" : 19.9,
         "stepsStreetCount" : 9,
         "streetCount" : 112,
-        "totalKm" : 15.97
+        "totalKm" : 16.11
       },
       "status" : "published"
     },
@@ -8487,6 +8527,7 @@
       ],
       "cityId" : "strasbourg",
       "country" : "FR",
+      "hasPage" : true,
       "iapProductId" : "cobblegobble.city.strasbourg",
       "icon" : {
         "paths" : [
@@ -8499,15 +8540,15 @@
         "en" : "Strasbourg"
       },
       "name" : "Strasbourg",
-      "packVersion" : 4,
+      "packVersion" : 5,
       "stats" : {
-        "estHours" : 9.4,
-        "nodeCount" : 1667,
-        "routeFactor" : 1.25,
-        "routeKm" : 33,
+        "estHours" : 9.3,
+        "nodeCount" : 1672,
+        "routeFactor" : 1.24,
+        "routeKm" : 32.7,
         "stepsStreetCount" : 2,
         "streetCount" : 190,
-        "totalKm" : 26.5
+        "totalKm" : 26.56
       },
       "status" : "published"
     },
@@ -8648,6 +8689,7 @@
       ],
       "cityId" : "tallinn",
       "country" : "EE",
+      "hasPage" : true,
       "iapProductId" : "cobblegobble.city.tallinn",
       "icon" : {
         "paths" : [
@@ -8660,15 +8702,15 @@
         "en" : "Tallinn"
       },
       "name" : "Tallinn",
-      "packVersion" : 12,
+      "packVersion" : 13,
       "stats" : {
-        "estHours" : 4.5,
-        "nodeCount" : 722,
-        "routeFactor" : 1.3,
-        "routeKm" : 15.7,
+        "estHours" : 4.4,
+        "nodeCount" : 740,
+        "routeFactor" : 1.27,
+        "routeKm" : 15.4,
         "stepsStreetCount" : 3,
         "streetCount" : 68,
-        "totalKm" : 12.03
+        "totalKm" : 12.2
       },
       "status" : "published"
     },
@@ -8781,6 +8823,7 @@
       ],
       "cityId" : "toledo",
       "country" : "ES",
+      "hasPage" : true,
       "iapProductId" : "cobblegobble.city.toledo",
       "icon" : {
         "paths" : [
@@ -8793,15 +8836,15 @@
         "en" : "Toledo"
       },
       "name" : "Toledo",
-      "packVersion" : 6,
+      "packVersion" : 7,
       "stats" : {
-        "estHours" : 12.4,
-        "nodeCount" : 2175,
-        "routeFactor" : 1.31,
-        "routeKm" : 43.4,
+        "estHours" : 12.1,
+        "nodeCount" : 2192,
+        "routeFactor" : 1.28,
+        "routeKm" : 42.4,
         "stepsStreetCount" : 66,
         "streetCount" : 334,
-        "totalKm" : 33.05
+        "totalKm" : 33.27
       },
       "status" : "published"
     },
@@ -8962,6 +9005,7 @@
       ],
       "cityId" : "trebon",
       "country" : "CZ",
+      "hasPage" : true,
       "iapProductId" : "cobblegobble.city.trebon",
       "icon" : {
         "paths" : [
@@ -8975,15 +9019,15 @@
         "en" : "Třeboň"
       },
       "name" : "Třeboň",
-      "packVersion" : 3,
+      "packVersion" : 4,
       "stats" : {
-        "estHours" : 2.5,
-        "nodeCount" : 411,
-        "routeFactor" : 1.28,
-        "routeKm" : 8.8,
+        "estHours" : 2.6,
+        "nodeCount" : 441,
+        "routeFactor" : 1.25,
+        "routeKm" : 9.1,
         "stepsStreetCount" : 0,
         "streetCount" : 32,
-        "totalKm" : 6.84
+        "totalKm" : 7.37
       },
       "status" : "published"
     },
@@ -9096,6 +9140,7 @@
       ],
       "cityId" : "venice",
       "country" : "IT",
+      "hasPage" : true,
       "iapProductId" : "cobblegobble.city.venice",
       "icon" : {
         "paths" : [
@@ -9108,15 +9153,15 @@
         "en" : "Venice"
       },
       "name" : "Venice",
-      "packVersion" : 8,
+      "packVersion" : 9,
       "stats" : {
-        "estHours" : 7.5,
-        "nodeCount" : 1461,
-        "routeFactor" : 1.34,
-        "routeKm" : 26.1,
+        "estHours" : 7.8,
+        "nodeCount" : 1490,
+        "routeFactor" : 1.41,
+        "routeKm" : 27.3,
         "stepsStreetCount" : 17,
         "streetCount" : 291,
-        "totalKm" : 19.55
+        "totalKm" : 19.75
       },
       "status" : "published"
     },
@@ -9245,6 +9290,7 @@
       ],
       "cityId" : "verona",
       "country" : "IT",
+      "hasPage" : true,
       "iapProductId" : "cobblegobble.city.verona",
       "icon" : {
         "paths" : [
@@ -9257,15 +9303,15 @@
         "en" : "Verona"
       },
       "name" : "Verona",
-      "packVersion" : 6,
+      "packVersion" : 7,
       "stats" : {
-        "estHours" : 10,
-        "nodeCount" : 1810,
-        "routeFactor" : 1.27,
-        "routeKm" : 34.9,
+        "estHours" : 9.9,
+        "nodeCount" : 1834,
+        "routeFactor" : 1.26,
+        "routeKm" : 34.6,
         "stepsStreetCount" : 8,
         "streetCount" : 242,
-        "totalKm" : 27.41
+        "totalKm" : 27.73
       },
       "status" : "published"
     },
@@ -9350,6 +9396,7 @@
       ],
       "cityId" : "vienna",
       "country" : "AT",
+      "hasPage" : true,
       "iapProductId" : "cobblegobble.city.vienna",
       "icon" : {
         "paths" : [
@@ -9362,15 +9409,15 @@
         "en" : "Vienna"
       },
       "name" : "Vienna",
-      "packVersion" : 17,
+      "packVersion" : 18,
       "stats" : {
-        "estHours" : 15.8,
-        "nodeCount" : 2774,
-        "routeFactor" : 1.27,
-        "routeKm" : 55.2,
+        "estHours" : 15.6,
+        "nodeCount" : 2833,
+        "routeFactor" : 1.24,
+        "routeKm" : 54.5,
         "stepsStreetCount" : 12,
         "streetCount" : 239,
-        "totalKm" : 43.34
+        "totalKm" : 44.13
       },
       "status" : "published"
     },
@@ -9583,6 +9630,7 @@
       ],
       "cityId" : "vilnius",
       "country" : "LT",
+      "hasPage" : true,
       "iapProductId" : "cobblegobble.city.vilnius",
       "icon" : {
         "paths" : [
@@ -9596,15 +9644,15 @@
         "lt" : "Vilnius"
       },
       "name" : "Vilnius",
-      "packVersion" : 1,
+      "packVersion" : 2,
       "stats" : {
-        "estHours" : 5.5,
-        "nodeCount" : 860,
-        "routeFactor" : 1.35,
-        "routeKm" : 19.4,
+        "estHours" : 5.3,
+        "nodeCount" : 874,
+        "routeFactor" : 1.29,
+        "routeKm" : 18.7,
         "stepsStreetCount" : 0,
         "streetCount" : 58,
-        "totalKm" : 14.36
+        "totalKm" : 14.56
       },
       "status" : "published"
     },
@@ -9669,6 +9717,7 @@
       ],
       "cityId" : "wasserburg",
       "country" : "DE",
+      "hasPage" : true,
       "iapProductId" : "cobblegobble.city.wasserburg",
       "icon" : {
         "paths" : [
@@ -9681,15 +9730,15 @@
         "en" : "Wasserburg am Inn"
       },
       "name" : "Wasserburg am Inn",
-      "packVersion" : 6,
+      "packVersion" : 7,
       "stats" : {
         "estHours" : 4.2,
-        "nodeCount" : 721,
-        "routeFactor" : 1.23,
-        "routeKm" : 14.7,
+        "nodeCount" : 703,
+        "routeFactor" : 1.25,
+        "routeKm" : 14.5,
         "stepsStreetCount" : 3,
         "streetCount" : 61,
-        "totalKm" : 11.95
+        "totalKm" : 11.67
       },
       "status" : "published"
     },
@@ -9858,6 +9907,7 @@
       ],
       "cityId" : "york",
       "country" : "GB",
+      "hasPage" : true,
       "iapProductId" : "cobblegobble.city.york",
       "icon" : {
         "paths" : [
@@ -9870,15 +9920,15 @@
         "en" : "York"
       },
       "name" : "York",
-      "packVersion" : 6,
+      "packVersion" : 7,
       "stats" : {
-        "estHours" : 9.6,
-        "nodeCount" : 1699,
-        "routeFactor" : 1.32,
-        "routeKm" : 33.8,
+        "estHours" : 10.1,
+        "nodeCount" : 1804,
+        "routeFactor" : 1.33,
+        "routeKm" : 35.5,
         "stepsStreetCount" : 7,
         "streetCount" : 200,
-        "totalKm" : 25.65
+        "totalKm" : 26.91
       },
       "status" : "published"
     },
@@ -10123,6 +10173,7 @@
       ],
       "cityId" : "zurich",
       "country" : "CH",
+      "hasPage" : false,
       "iapProductId" : "cobblegobble.city.zurich",
       "icon" : {
         "paths" : [
@@ -10135,15 +10186,15 @@
         "en" : "Zurich"
       },
       "name" : "Zurich",
-      "packVersion" : 8,
+      "packVersion" : 10,
       "stats" : {
-        "estHours" : 8,
-        "nodeCount" : 1536,
-        "routeFactor" : 1.25,
-        "routeKm" : 28.1,
+        "estHours" : 7.3,
+        "nodeCount" : 1376,
+        "routeFactor" : 1.29,
+        "routeKm" : 25.7,
         "stepsStreetCount" : 22,
         "streetCount" : 143,
-        "totalKm" : 22.85
+        "totalKm" : 20.2
       },
       "status" : "pending-stories"
     }
