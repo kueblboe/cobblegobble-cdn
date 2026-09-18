@@ -303,16 +303,9 @@
 
     ],
     "adjustedStreets" : [
-      "Anenská",
-      "Anenské náměstí",
-      "Karlův most",
-      "Klementinum",
-      "Křižovnické náměstí",
-      "Smetanovo nábřeží",
-      "náměstí Curieových",
-      "náměstí Jana Palacha"
+
     ],
-    "fromVersion" : 24,
+    "fromVersion" : 25,
     "removedStreets" : [
 
     ]
@@ -29926,187 +29919,187 @@
   ],
   "fruits" : [
     {
-      "extendedStory" : "Mikuláš of Kadaň built the clock, and more than once it has needed mending. There was already a repair in 1552. The twelve carved apostles were lost in the fire of May 1945. A woodcarver named Vojtěch Sucharda carved all twelve again, and finished them in 1948. So the apostles you watch on the hour are his.",
+      "extendedStory" : "One child can undo it, the tale says: a boy born on New Year's night. When the clock starts again, he must run from the Týn Church across the whole Old Town Square. He has to reach the clock before its last stroke. Until 1948 the clock kept Old Bohemian time, when each new day began at sunset. Mikuláš of Kadaň built it in 1410.",
       "icon" : "hero",
       "id" : "f-staromestsky-orloj",
       "kind" : "attraction",
       "localizedExtendedStory" : {
-        "de" : "Mikuláš von Kadaň baute die Uhr, und mehr als einmal musste sie ausgebessert werden. Schon 1552 wurde an ihr repariert. Beim Brand vom Mai 1945 gingen die zwölf geschnitzten Apostel verloren. Ein Holzschnitzer namens Vojtěch Sucharda schnitzte alle zwölf neu und wurde 1948 fertig. Die Apostel, denen du zur vollen Stunde zuschaust, sind seine.",
-        "en" : "Mikuláš of Kadaň built the clock, and more than once it has needed mending. There was already a repair in 1552. The twelve carved apostles were lost in the fire of May 1945. A woodcarver named Vojtěch Sucharda carved all twelve again, and finished them in 1948. So the apostles you watch on the hour are his."
+        "de" : "Nur einer kann das aufheben, erzählt man: ein Junge, der in der Neujahrsnacht geboren ist. Springt die Uhr wieder an, muss er von der Teynkirche quer über den ganzen Altstädter Ring rennen. Vor dem letzten Schlag muss er bei der Uhr sein. Bis 1948 lief die Uhr nach altböhmischer Zeit, bei der jeder neue Tag mit dem Sonnenuntergang begann. Gebaut hat sie Mikuláš von Kadaň im Jahr 1410.",
+        "en" : "One child can undo it, the tale says: a boy born on New Year's night. When the clock starts again, he must run from the Týn Church across the whole Old Town Square. He has to reach the clock before its last stroke. Until 1948 the clock kept Old Bohemian time, when each new day began at sunset. Mikuláš of Kadaň built it in 1410."
       },
       "localizedStory" : {
-        "de" : "Warte auf die volle Stunde. Zwölf Apostel ziehen an den Fenstern der Uhr vorbei, so wie schon seit 1410.",
-        "en" : "Watch the clock's windows on the hour. Twelve apostles appear, one by one, just as they have since 1410."
+        "de" : "Achte auf das Skelett. Der Sage nach nickt es, wenn die Uhr zu lange stillsteht: Dann kommen schwere Zeiten.",
+        "en" : "Watch the skeleton. The story goes that when the clock stays broken too long, he nods: hard times are coming."
       },
       "name" : "Staroměstský orloj",
       "pos" : [
         50.08698,
         14.420714
       ],
-      "story" : "Watch the clock's windows on the hour. Twelve apostles appear, one by one, just as they have since 1410."
+      "story" : "Watch the skeleton. The story goes that when the clock stays broken too long, he nods: hard times are coming."
     },
     {
-      "extendedStory" : "You are crossing the Vltava, and the stones under your feet were set in 1357. Peter Parler designed this bridge, arch by arch. It opened in 1402, and people have crossed it ever since. Charles the Fourth was the king who wanted it built, and the bridge still carries his name. Look down at the water and imagine all the feet that walked here before yours.",
+      "extendedStory" : "Prague did not have enough eggs, the tale says, so they were brought in from all over Bohemia on the king's orders. The people of Velvary worried theirs would break on the way, so they boiled them before sending them. There is a true number puzzle here too. Write the date and time the foundation stone was laid as one row of digits: 135797531. They climb up to nine and back down again. The bridge carries the name of Charles IV.",
       "icon" : "choice",
       "id" : "f-karluv-most",
       "kind" : "bridge",
       "localizedExtendedStory" : {
-        "de" : "Du überquerst gerade die Moldau, und die Steine unter deinen Füßen wurden 1357 gesetzt. Peter Parler entwarf diese Brücke, Bogen für Bogen. Sie wurde 1402 eröffnet, und seither gehen die Menschen darüber. Karl der Vierte war der König, der sie bauen wollte, und die Brücke trägt bis heute seinen Namen. Schau hinunter aufs Wasser und stell dir all die Füße vor, die vor dir hier gingen.",
-        "en" : "You are crossing the Vltava, and the stones under your feet were set in 1357. Peter Parler designed this bridge, arch by arch. It opened in 1402, and people have crossed it ever since. Charles the Fourth was the king who wanted it built, and the bridge still carries his name. Look down at the water and imagine all the feet that walked here before yours."
+        "de" : "Man erzählt, in Prag reichten die Eier nicht, also ließ der König sie aus ganz Böhmen herbeibringen. Die Leute aus Velvary fürchteten, ihre könnten unterwegs zerbrechen, und kochten sie vorher. Hier steckt auch ein echtes Zahlenrätsel. Schreib Datum und Uhrzeit der Grundsteinlegung als eine Ziffernreihe: 135797531. Die Ziffern steigen bis zur Neun und wieder hinab. Die Brücke trägt den Namen Karls IV.",
+        "en" : "Prague did not have enough eggs, the tale says, so they were brought in from all over Bohemia on the king's orders. The people of Velvary worried theirs would break on the way, so they boiled them before sending them. There is a true number puzzle here too. Write the date and time the foundation stone was laid as one row of digits: 135797531. They climb up to nine and back down again. The bridge carries the name of Charles IV."
       },
       "localizedStory" : {
-        "de" : "Geh über die Moldau auf Steinen, die seit 1357 hier liegen. Peter Parler entwarf die Brücke, 1402 wurde sie eröffnet.",
-        "en" : "Walk across the Vltava on stones laid since 1357. Peter Parler designed this bridge, and it opened in 1402."
+        "de" : "Der Sage nach mischte man rohe Eier in den Mörtel dieser Brücke. Ein Städtchen schickte seine hart gekocht, damit sie nicht zerbrachen.",
+        "en" : "The story goes the mortar in this bridge was mixed with raw eggs. One town sent theirs hard-boiled, so they would not break."
       },
       "name" : "Karlův most",
       "pos" : [
         50.086627,
         14.41056
       ],
-      "story" : "Walk across the Vltava on stones laid since 1357. Peter Parler designed this bridge, and it opened in 1402."
+      "story" : "The story goes the mortar in this bridge was mixed with raw eggs. One town sent theirs hard-boiled, so they would not break."
     },
     {
-      "extendedStory" : "This is the gate at the end of Charles Bridge, standing about 47 metres tall. Bohemia's kings once rode through it on the day they were crowned. Emperor Charles IV wanted it built, and Petr Parléř drew the design in the middle of the fourteenth century. Inside, 138 steps climb to a gallery near the top. Stand below and picture a king passing under the arch, on his way to the crown.",
+      "extendedStory" : "The tale says Prague's nobles held the king captive, but let him visit the baths to wash. Zuzana saw her chance and helped him slip away. He never forgot her loyalty and rewarded her generously. Look up, too, for a kingfisher sitting in a twisted bath towel. It was the king's own emblem. Bohemia's kings rode through this gate on their way to be crowned.",
       "icon" : "everyday",
       "id" : "f-staromestska-mostecka-vez",
       "kind" : "viewpoint",
       "localizedExtendedStory" : {
-        "de" : "Das ist das Tor am Ende der Karlsbrücke, etwa 47 Meter hoch. Durch diesen Bogen ritten Böhmens Könige an ihrem Krönungstag. Kaiser Karl IV. gab es in Auftrag, und Petr Parléř entwarf es Mitte des vierzehnten Jahrhunderts. Drinnen führen 138 Stufen hinauf zu einer Galerie nahe der Spitze. Stell dir einen König vor, der hier unter dem Bogen hindurchzieht, auf dem Weg zur Krone.",
-        "en" : "This is the gate at the end of Charles Bridge, standing about 47 metres tall. Bohemia's kings once rode through it on the day they were crowned. Emperor Charles IV wanted it built, and Petr Parléř drew the design in the middle of the fourteenth century. Inside, 138 steps climb to a gallery near the top. Stand below and picture a king passing under the arch, on his way to the crown."
+        "de" : "Man erzählt, Prags Adelige hielten den König gefangen, ließen ihn aber zum Waschen ins Bad. Zuzana nutzte die Gelegenheit und half ihm zu entkommen. Der König vergaß ihre Treue nie und belohnte sie reich. Such auch den Eisvogel, der in einem gedrehten Badetuch sitzt. Er war das Zeichen des Königs. Durch dieses Tor zogen die böhmischen Könige auf dem Weg zu ihrer Krönung.",
+        "en" : "The tale says Prague's nobles held the king captive, but let him visit the baths to wash. Zuzana saw her chance and helped him slip away. He never forgot her loyalty and rewarded her generously. Look up, too, for a kingfisher sitting in a twisted bath towel. It was the king's own emblem. Bohemia's kings rode through this gate on their way to be crowned."
       },
       "localizedStory" : {
-        "de" : "Schau nach oben: 138 Stufen führen hinauf zur Galerie. Durch dieses Tor zogen Böhmens Könige an ihrem Krönungstag.",
-        "en" : "Look up: 138 steps climb inside to a gallery near the top. Bohemia's kings rode through this gate on their crowning day."
+        "de" : "Such das Bademädchen mit dem Eimer. Der Sage nach half eine Bademagd namens Zuzana König Wenzel IV., aus dem Badehaus zu fliehen.",
+        "en" : "Look for the bath girl with a pail. The story goes a girl named Zuzana once helped King Wenceslas IV escape from the baths."
       },
       "name" : "Staroměstská mostecká věž",
       "pos" : [
         50.086164,
         14.413607
       ],
-      "story" : "Look up: 138 steps climb inside to a gallery near the top. Bohemia's kings rode through this gate on their crowning day."
+      "story" : "Look for the bath girl with a pail. The story goes a girl named Zuzana once helped King Wenceslas IV escape from the baths."
     },
     {
-      "extendedStory" : "Stand at the foot of this tower on Celetná and look straight up its 44 metres. Builders began raising it in 1475. The name is the surprise: people once stored gunpowder inside these Gothic walls, so it became the Powder Tower. Picture that, then picture how many barrels a tower this tall could hold. Now it just holds the view, waiting for you to tip your head back and take it in.",
+      "extendedStory" : "It was meant to be a grand way into the Old Town, while the king still lived down here. Then the royal household moved back up to the Castle, and work stopped. For centuries the gate waited without a proper top. The architect Josef Mocker finally completed it between 1875 and 1886, so the pointed roof above you is his. Its Czech name means Powder Gate, after gunpowder.",
       "icon" : "choice",
       "id" : "f-prasna-brana",
       "kind" : "viewpoint",
       "localizedExtendedStory" : {
-        "de" : "Stell dich in der Celetná an den Fuß des Turms und schau die vollen 44 Meter hinauf. Die Bauleute begannen 1475 mit dem Werk. Der Name ist die Überraschung: früher lagerte man Schwarzpulver in diesen gotischen Mauern, und so wurde er zum Pulverturm. Stell dir vor, wie viele Fässer ein so hoher Turm fasst. Heute hält er nur die Aussicht bereit und wartet darauf, dass du den Kopf in den Nacken legst.",
-        "en" : "Stand at the foot of this tower on Celetná and look straight up its 44 metres. Builders began raising it in 1475. The name is the surprise: people once stored gunpowder inside these Gothic walls, so it became the Powder Tower. Picture that, then picture how many barrels a tower this tall could hold. Now it just holds the view, waiting for you to tip your head back and take it in."
+        "de" : "Es sollte ein prächtiges Tor zur Altstadt werden, solange der König noch hier unten wohnte. Dann zog der Hof zurück hinauf auf die Burg, und die Arbeit ruhte. Jahrhundertelang wartete das Tor ohne richtiges Dach. Erst der Architekt Josef Mocker vollendete es zwischen 1875 und 1886, das spitze Dach über dir stammt also von ihm. Der tschechische Name bedeutet Pulvertor, nach dem Schießpulver.",
+        "en" : "It was meant to be a grand way into the Old Town, while the king still lived down here. Then the royal household moved back up to the Castle, and work stopped. For centuries the gate waited without a proper top. The architect Josef Mocker finally completed it between 1875 and 1886, so the pointed roof above you is his. Its Czech name means Powder Gate, after gunpowder."
       },
       "localizedStory" : {
-        "de" : "Schau hoch: dieser Turm ist 44 Meter hoch. Früher lagerte hier Schwarzpulver, und genau davon hat er seinen Namen. Stell dich in die Celetná und blick hinauf.",
-        "en" : "Look up: this tower is 44 metres tall. People once kept gunpowder inside it, which is how it got its name. Stand on Celetná and crane your neck."
+        "de" : "Der König zog weg, und dieses Tor verlor seinen Grund, fertig zu werden. Fast vierhundert Jahre lang stand es halb fertig da.",
+        "en" : "The king moved out, and this gate lost its reason to be finished. It stood half-built for almost four hundred years."
       },
       "name" : "Prašná brána",
       "pos" : [
         50.087244,
         14.427757
       ],
-      "story" : "Look up: this tower is 44 metres tall. People once kept gunpowder inside it, which is how it got its name. Stand on Celetná and crane your neck."
+      "story" : "The king moved out, and this gate lost its reason to be finished. It stood half-built for almost four hundred years."
     },
     {
-      "extendedStory" : "Today one horse still stands here, and it is made of bronze. At the top of the square, in front of the National Museum, a knight rides high on his mount. He is St Wenceslas, and his statue was set here in 1912. The square was laid out in 1348, when Charles the Fourth founded the New Town. It runs 750 metres from end to end, so look up the long slope to find the rider.",
+      "extendedStory" : "That horse had a real model, a black stallion called Ardo, seven years old. The sculptor Josef Václav Myslbek gave one of the saints on the monument, St Procopius, his own face. Long before the statue, this was the Horse Market, where horses were bought and sold. Charles IV laid it out in 1348, when he founded the New Town. Today the National Museum closes it off at the top.",
       "icon" : "choice",
       "id" : "f-vaclavske-namesti",
       "kind" : "square",
       "localizedExtendedStory" : {
-        "de" : "Heute steht hier nur noch ein Pferd, und das ist aus Bronze. Ganz oben am Platz, vor dem Nationalmuseum, sitzt ein Ritter hoch zu Ross. Es ist der heilige Wenzel, und sein Standbild kam 1912 hierher. Der Platz entstand 1348, als Karl der Vierte die Neustadt gründete. Er misst 750 Meter, also schau den langen Hang hinauf und finde den Reiter.",
-        "en" : "Today one horse still stands here, and it is made of bronze. At the top of the square, in front of the National Museum, a knight rides high on his mount. He is St Wenceslas, and his statue was set here in 1912. The square was laid out in 1348, when Charles the Fourth founded the New Town. It runs 750 metres from end to end, so look up the long slope to find the rider."
+        "de" : "Das Pferd hatte ein echtes Vorbild, einen schwarzen, siebenjährigen Hengst namens Ardo. Der Bildhauer Josef Václav Myslbek gab einem der Heiligen am Denkmal, dem heiligen Prokop, sein eigenes Gesicht. Schon vor dem Denkmal war hier der Rossmarkt, auf dem Pferde gehandelt wurden. Karl IV. legte ihn 1348 an, als er die Neustadt gründete. Heute schließt das Nationalmuseum den Platz nach oben ab.",
+        "en" : "That horse had a real model, a black stallion called Ardo, seven years old. The sculptor Josef Václav Myslbek gave one of the saints on the monument, St Procopius, his own face. Long before the statue, this was the Horse Market, where horses were bought and sold. Charles IV laid it out in 1348, when he founded the New Town. Today the National Museum closes it off at the top."
       },
       "localizedStory" : {
-        "de" : "Vor langer Zeit war dieser Platz der Rossmarkt. Hier wurden echte Pferde gehandelt.",
-        "en" : "Long ago this square was the Horse Market. Real horses were traded right where you walk."
+        "de" : "Man sagt hier: Wir treffen uns unterm Schwanz. Gemeint ist der Schwanz vom Pferd des heiligen Wenzel, oben am Denkmal.",
+        "en" : "People say meet me under the tail. Around here they mean the tail of St Wenceslas's horse, on the statue at the top."
       },
       "name" : "Václavské náměstí",
       "pos" : [
         50.081593,
         14.427081
       ],
-      "story" : "Long ago this square was the Horse Market. Real horses were traded right where you walk."
+      "story" : "People say meet me under the tail. Around here they mean the tail of St Wenceslas's horse, on the statue at the top."
     },
     {
-      "extendedStory" : "This is a synagogue, a house of prayer for Jewish families. People call it the Spanish Synagogue, but no Spanish community ever worshipped here. The name comes from the walls. Every surface is covered in swirling patterns, copied from the Alhambra, a grand palace in Spain. An architect named Vojtěch Ignác Ullmann designed it, and it was finished in 1868. Step inside and you feel like you have travelled far south.",
+      "extendedStory" : "That older house of prayer was called the Old Shul. The synagogue you see replaced it and opened in 1868, to a design by Vojtěch Ignác Ullmann. It is called Spanish because of its Moorish decoration, inspired by the Alhambra palace in Spain. Yet it never served a Spanish community. Step inside and look for patterns that echo that faraway palace.",
       "icon" : "everyday",
       "id" : "f-spanelska-synagoga",
       "kind" : "church",
       "localizedExtendedStory" : {
-        "de" : "Das ist eine Synagoge, ein Bethaus für jüdische Familien. Man nennt sie Spanische Synagoge, doch hier betete nie eine spanische Gemeinde. Der Name kommt von den Wänden. Jede Fläche trägt geschwungene Muster, nachgeahmt von der Alhambra, einem prächtigen Palast in Spanien. Der Architekt Vojtěch Ignác Ullmann entwarf sie, fertig wurde sie 1868. Tritt ein, und du fühlst dich weit in den Süden versetzt.",
-        "en" : "This is a synagogue, a house of prayer for Jewish families. People call it the Spanish Synagogue, but no Spanish community ever worshipped here. The name comes from the walls. Every surface is covered in swirling patterns, copied from the Alhambra, a grand palace in Spain. An architect named Vojtěch Ignác Ullmann designed it, and it was finished in 1868. Step inside and you feel like you have travelled far south."
+        "de" : "Diese ältere Synagoge hieß Altschul. Das Haus, das du siehst, ersetzte sie und wurde 1868 eröffnet, nach Plänen von Vojtěch Ignác Ullmann. Spanisch heißt es wegen seiner maurischen Ausstattung, inspiriert von der Alhambra in Spanien. Einer spanischen Gemeinde diente es dennoch nie. Such im Innern die Muster, die an diesen fernen Palast erinnern.",
+        "en" : "That older house of prayer was called the Old Shul. The synagogue you see replaced it and opened in 1868, to a design by Vojtěch Ignác Ullmann. It is called Spanish because of its Moorish decoration, inspired by the Alhambra palace in Spain. Yet it never served a Spanish community. Step inside and look for patterns that echo that faraway palace."
       },
       "localizedStory" : {
-        "de" : "Schau an die Wände: überall geschwungene Muster. Sie ahmen einen Palast in Spanien nach, die Alhambra. Darum heißt es Spanische Synagoge.",
-        "en" : "Look at the walls: swirling patterns everywhere. They copy a palace in Spain called the Alhambra. That is why people call it the Spanish Synagogue."
+        "de" : "František Škroup, der Komponist der tschechischen Nationalhymne, spielte die Orgel in der Synagoge, die vorher an dieser Stelle stand.",
+        "en" : "The composer of the Czech national anthem, František Škroup, played the organ in the synagogue that stood here before this one."
       },
       "name" : "Španělská synagoga",
       "pos" : [
         50.090371,
         14.42082
       ],
-      "story" : "Look at the walls: swirling patterns everywhere. They copy a palace in Spain called the Alhambra. That is why people call it the Spanish Synagogue."
+      "story" : "The composer of the Czech national anthem, František Škroup, played the organ in the synagogue that stood here before this one."
     },
     {
-      "extendedStory" : "Look at the ring of stone figures around the base. They stand for the regions of Bohemia as they were then, and for Prague itself. Higher up are figures for peace and plenty, and for science, art, trade, ploughing and mining. The bronze rider in the middle went away to a museum store in June 1919. A copy was lifted back into place on 29 August 2003.",
+      "extendedStory" : "Its mocker was Karel Havlíček Borovský, and the Czech pride of his rhyme is the ring of figures at the base. They stand for the Bohemian regions of the day and for Prague itself. Others stand for peace, plenty, science, art, trade, ploughing and mining. The bronze rider in the middle was taken away to a museum store in 1919. A copy came back in 2003.",
       "icon" : "everyday",
       "id" : "f-krannerova-kasna",
       "kind" : "fountain",
       "localizedExtendedStory" : {
-        "de" : "Schau dir den Kranz steinerner Figuren am Sockel an. Sie stehen für die böhmischen Kreise von damals und für Prag selbst. Weiter oben stehen Figuren für Frieden und Fülle, für Wissenschaft, Kunst, Handel, Ackerbau und Bergbau. Der bronzene Reiter in der Mitte kam im Juni 1919 in ein Museumsdepot. Am 29. August 2003 hob man eine Kopie zurück an seinen Platz.",
-        "en" : "Look at the ring of stone figures around the base. They stand for the regions of Bohemia as they were then, and for Prague itself. Higher up are figures for peace and plenty, and for science, art, trade, ploughing and mining. The bronze rider in the middle went away to a museum store in June 1919. A copy was lifted back into place on 29 August 2003."
+        "de" : "Der Schriftsteller hieß Karel Havlíček Borovský, und der Stolz aus seinem Reim ist der Figurenkranz am Sockel. Die Figuren stehen für die böhmischen Kreise von damals und für Prag selbst. Weitere stehen für Frieden, Fülle, Wissenschaft, Kunst, Handel, Ackerbau und Bergbau. Den bronzenen Reiter in der Mitte brachte man 1919 in ein Museumsdepot. Erst 2003 kehrte eine Kopie zurück.",
+        "en" : "Its mocker was Karel Havlíček Borovský, and the Czech pride of his rhyme is the ring of figures at the base. They stand for the Bohemian regions of the day and for Prague itself. Others stand for peace, plenty, science, art, trade, ploughing and mining. The bronze rider in the middle was taken away to a museum store in 1919. A copy came back in 2003."
       },
       "localizedStory" : {
-        "de" : "Ein Steinbrunnen am Fluss, entworfen von Josef Andreas Kranner und 1850 erbaut. Lausche seinem plätschernden Wasser.",
-        "en" : "A stone fountain beside the river, designed by Josef Andreas Kranner and built in 1850. Listen for its splashing water."
+        "de" : "Ein Schriftsteller verspottete dieses Denkmal in einem Reim: ringsum der Stolz der Tschechen, in der Mitte ein Trottel. Gemeint war der Kaiser.",
+        "en" : "A writer mocked this monument in a rhyme: all around, the pride of the Czechs. In the middle, a dolt. He meant the emperor."
       },
       "name" : "Krannerova kašna",
       "pos" : [
         50.082943,
         14.413326
       ],
-      "story" : "A stone fountain beside the river, designed by Josef Andreas Kranner and built in 1850. Listen for its splashing water."
+      "story" : "A writer mocked this monument in a rhyme: all around, the pride of the Czechs. In the middle, a dolt. He meant the emperor."
     },
     {
-      "extendedStory" : "This wide square is named for a student, Jan Palach. Two grand buildings stand beside it. One is the university's Faculty of Arts, where students come to study. The other is the Rudolfinum, a concert hall. Inside, the Czech Philharmonic fills it with music. This orchestra has played in that hall since 1896. Stand still on the square, and you might hear the music drift out through the doors.",
+      "extendedStory" : "The state took the building over for its parliament, and the stage was levelled to match the hall. The Czech Philharmonic began playing here in 1896, and it did not come back until 1946. Today the orchestra is at home in the Rudolfinum again. The square also holds the university's Faculty of Arts. It carries the name of the student Jan Palach.",
       "icon" : "everyday",
       "id" : "f-namesti-jana-palacha",
       "kind" : "square",
       "localizedExtendedStory" : {
-        "de" : "Dieser weite Platz ist nach dem Studenten Jan Palach benannt. Zwei große Gebäude stehen an seinem Rand. Das eine ist die Philosophische Fakultät der Universität, wo Studenten lernen. Das andere ist das Rudolfinum, ein Konzertsaal. Darin macht die Tschechische Philharmonie Musik. Dieses Orchester spielt seit 1896 in diesem Saal. Bleib einen Moment stehen, dann hörst du die Musik vielleicht durch die Türen klingen.",
-        "en" : "This wide square is named for a student, Jan Palach. Two grand buildings stand beside it. One is the university's Faculty of Arts, where students come to study. The other is the Rudolfinum, a concert hall. Inside, the Czech Philharmonic fills it with music. This orchestra has played in that hall since 1896. Stand still on the square, and you might hear the music drift out through the doors."
+        "de" : "Der Staat übernahm das Haus für sein Parlament, und die Bühne wurde auf die Höhe des Saals gebracht. Die Tschechische Philharmonie begann hier 1896 zu spielen und kam erst 1946 zurück. Heute ist das Orchester wieder im Rudolfinum zu Hause. Am Platz liegt auch die Philosophische Fakultät der Universität. Benannt ist er nach dem Studenten Jan Palach.",
+        "en" : "The state took the building over for its parliament, and the stage was levelled to match the hall. The Czech Philharmonic began playing here in 1896, and it did not come back until 1946. Today the orchestra is at home in the Rudolfinum again. The square also holds the university's Faculty of Arts. It carries the name of the student Jan Palach."
       },
       "localizedStory" : {
-        "de" : "Auf diesem Platz steht der Konzertsaal Rudolfinum. Darin spielt die Tschechische Philharmonie, ein Orchester, das dort seit 1896 auftritt.",
-        "en" : "The Rudolfinum concert hall stands on this square. Inside, the Czech Philharmonic plays, an orchestra that has played here since 1896."
+        "de" : "Stell dir einen Konzertsaal voller Politiker vor. Ab 1919 tagte im Rudolfinum hier das neue Parlament, und die Orgel wurde ausgebaut.",
+        "en" : "Imagine a concert hall full of politicians. From 1919, the Rudolfinum here housed the new parliament, and its organ was taken out."
       },
       "name" : "náměstí Jana Palacha",
       "pos" : [
         50.089081,
         14.415132
       ],
-      "story" : "The Rudolfinum concert hall stands on this square. Inside, the Czech Philharmonic plays, an orchestra that has played here since 1896."
+      "story" : "Imagine a concert hall full of politicians. From 1919, the Rudolfinum here housed the new parliament, and its organ was taken out."
     },
     {
-      "extendedStory" : "The church beside you turns up in writing as early as 1234. For centuries nobody called this a square. People said they were going to St Castulus, and later they called it the little Haštal place. Street and square did not take separate names until 1928. A burial ground lay around the church until 1784, and it was closed for good in 1832.",
+      "extendedStory" : "Look for the lane called Ve Stínadlech, which opens onto the square. It had no name at all until 2007, when it was named for Foglar's hundredth birthday. Long ago people called this spot U svatého Haštala, at St Castulus, after the Gothic church beside it. Later it became Haštalský plácek, the little Castulus square.",
       "icon" : "everyday",
       "id" : "f-hastalske-namesti",
       "kind" : "square",
       "localizedExtendedStory" : {
-        "de" : "Die Kirche neben dir taucht schon 1234 in Schriften auf. Jahrhundertelang nannte hier niemand den Ort einen Platz. Man ging zum heiligen Haštal, später hieß es der Haštalský plácek. Erst 1928 bekamen Straße und Platz getrennte Namen. Rings um die Kirche lag bis 1784 ein Friedhof, 1832 wurde er endgültig aufgelassen.",
-        "en" : "The church beside you turns up in writing as early as 1234. For centuries nobody called this a square. People said they were going to St Castulus, and later they called it the little Haštal place. Street and square did not take separate names until 1928. A burial ground lay around the church until 1784, and it was closed for good in 1832."
+        "de" : "Such die Gasse Ve Stínadlech, die auf den Platz mündet. Bis 2007 hatte sie gar keinen Namen, dann bekam sie ihn zu Foglars hundertstem Geburtstag. Früher nannten die Leute diesen Fleck U svatého Haštala, bei St. Kastulus, nach der gotischen Kirche daneben. Später hieß er Haštalský plácek, das Kastulus-Plätzchen.",
+        "en" : "Look for the lane called Ve Stínadlech, which opens onto the square. It had no name at all until 2007, when it was named for Foglar's hundredth birthday. Long ago people called this spot U svatého Haštala, at St Castulus, after the Gothic church beside it. Later it became Haštalský plácek, the little Castulus square."
       },
       "localizedStory" : {
-        "de" : "Der Platz trägt den Namen der Kastuluskirche gleich nebenan. Findet die gotische Kirche. Ihre Spitzbögen stammen aus dem 14. Jahrhundert.",
-        "en" : "This square is named for St Castulus church right beside it. Find the Gothic church. Its pointed arches date from the 14th century."
+        "de" : "Man sagt, der Schriftsteller Jaroslav Foglar habe seine beliebten Kindergeschichten höchstwahrscheinlich genau hier spielen lassen.",
+        "en" : "People say the writer Jaroslav Foglar probably set his popular children's stories right here."
       },
       "name" : "Haštalské náměstí",
       "pos" : [
         50.091225,
         14.42443
       ],
-      "story" : "This square is named for St Castulus church right beside it. Find the Gothic church. Its pointed arches date from the 14th century."
+      "story" : "People say the writer Jaroslav Foglar probably set his popular children's stories right here."
     }
   ],
-  "generatedAt" : "2026-09-13T14:38:53Z",
+  "generatedAt" : "2026-09-18T04:18:07Z",
   "icon" : {
     "paths" : [
       "M8 90 L8 30 L16 30 L16 38 L22 38 L22 30 L30 30 L30 52 L38 52 L38 16 L47 16 L47 26 L53 26 L53 16 L62 16 L62 52 L70 52 L70 30 L78 30 L78 38 L84 38 L84 30 L92 30 L92 90 Z M42 90 L58 90 L58 66 C58 60 42 60 42 66 Z"
@@ -30120,7 +30113,7 @@
     "en" : "Prague"
   },
   "name" : "Prague",
-  "packVersion" : 25,
+  "packVersion" : 26,
   "schemaVersion" : 1,
   "source" : "OpenStreetMap via Overpass API",
   "stats" : {

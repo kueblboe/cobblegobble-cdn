@@ -111,10 +111,9 @@
 
     ],
     "adjustedStreets" : [
-      "Campo Santo Stefano",
-      "Ponte di Rialto"
+
     ],
-    "fromVersion" : 9,
+    "fromVersion" : 10,
     "removedStreets" : [
 
     ]
@@ -10967,167 +10966,167 @@
   ],
   "fruits" : [
     {
-      "extendedStory" : "The number worth remembering here is not the height but the level: 0.3 metres above the sea. That is all that lies between this building and the water. Its story begins in 828, and building went on for centuries, among others under Domenico I Contarini. The style is Romanesque, with round arches and heavy walls. It is dedicated to Mark the Evangelist, whose sign is the winged lion.",
+      "extendedStory" : "Venice built this church to keep that promise, and named it for Mark the Evangelist. Its story starts in 828, and the building kept growing for centuries after that. For much of its life it was not the cathedral of Venice at all. The patriarch moved in here in 1807, and until then his seat had been San Pietro di Castello.",
       "icon" : "hero",
       "id" : "f-basilica-di-san-marco",
       "kind" : "church",
       "localizedExtendedStory" : {
-        "de" : "Die Zahl, die man sich merken sollte, ist nicht die Höhe, sondern die Höhenlage: 0,3 Meter über dem Meer. So knapp liegt dieses Haus über dem Wasser. Die Geschichte beginnt 828, gebaut wurde über Jahrhunderte weiter, unter anderem unter Domenico I. Contarini. Der Stil ist romanisch, mit runden Bögen und schweren Mauern. Geweiht ist sie Markus, dem Evangelisten, dessen Zeichen der geflügelte Löwe ist.",
-        "en" : "The number worth remembering here is not the height but the level: 0.3 metres above the sea. That is all that lies between this building and the water. Its story begins in 828, and building went on for centuries, among others under Domenico I Contarini. The style is Romanesque, with round arches and heavy walls. It is dedicated to Mark the Evangelist, whose sign is the winged lion."
+        "de" : "Venedig baute diese Kirche, um dieses Versprechen zu halten, und benannte sie nach Markus dem Evangelisten. Ihre Geschichte beginnt 828, und danach wuchs der Bau noch Jahrhunderte weiter. Lange Zeit war sie gar nicht die Kathedrale von Venedig. Der Patriarch zog erst 1807 hier ein, davor saß er in San Pietro di Castello.",
+        "en" : "Venice built this church to keep that promise, and named it for Mark the Evangelist. Its story starts in 828, and the building kept growing for centuries after that. For much of its life it was not the cathedral of Venice at all. The patriarch moved in here in 1807, and until then his seat had been San Pietro di Castello."
       },
       "localizedStory" : {
-        "de" : "Die Kirche steht 0,3 Meter über dem Meer. Ihre Geschichte reicht bis 828 zurück.",
-        "en" : "The church stands 0.3 metres above the sea. Its story goes back to 828."
+        "de" : "Der Sage nach sprach ein Engel in Gestalt eines geflügelten Löwen zu Markus. Hier wird dein Leib ruhen.",
+        "en" : "The story goes that an angel shaped like a winged lion spoke to Mark in the lagoon. Here your body shall rest."
       },
       "name" : "Basilica di San Marco",
       "pos" : [
         45.434307,
         12.339813
       ],
-      "story" : "The church stands 0.3 metres above the sea. Its story goes back to 828."
+      "story" : "The story goes that an angel shaped like a winged lion spoke to Mark in the lagoon. Here your body shall rest."
     },
     {
-      "extendedStory" : "This house belonged to no family. The Republic of Venice commissioned it and owned it, and the doge, the city's elected head, lived in it. Building began in 1340, in the Gothic style. Open arcades run along the bottom and a solid wall sits on top. It looks as though somebody set the building down upside down. Fire took hold three times, in 1483, 1547 and 1577, and three times the work carried on.",
+      "extendedStory" : "Look at the building itself and you will see it is put together the wrong way up. The heavy mass of the main block rests on two storeys of colonnades that look far too slender to carry it. Then go to the Piazzetta corner and look low down. Adam and Eve stand there stiff and straight, separated by a fig tree with the serpent wound around it. Not an apple tree.",
       "icon" : "choice",
       "id" : "f-palazzo-ducale",
       "kind" : "palace",
       "localizedExtendedStory" : {
-        "de" : "Das Haus gehörte nicht einer Familie, sondern der Republik Venedig, und sie gab es auch in Auftrag. Bewohnt wurde es vom Dogen, dem gewählten Oberhaupt der Stadt. Der Bau begann 1340, in Gotik: unten offene Bogengänge, oben eine geschlossene Wand. Das ist herum, als hätte jemand das Gebäude verkehrt aufgestellt. Dreimal brannte es, 1483, 1547 und 1577, und dreimal wurde weitergebaut.",
-        "en" : "This house belonged to no family. The Republic of Venice commissioned it and owned it, and the doge, the city's elected head, lived in it. Building began in 1340, in the Gothic style. Open arcades run along the bottom and a solid wall sits on top. It looks as though somebody set the building down upside down. Fire took hold three times, in 1483, 1547 and 1577, and three times the work carried on."
+        "de" : "Schau dir den Bau selbst an, dann siehst du: Er steht verkehrt herum. Die schwere Masse des Hauptteils ruht auf zwei Stockwerken aus Säulengängen, die viel zu zierlich dafür wirken. Geh dann zur Ecke zur Piazzetta und schau tief hinunter. Dort stehen Adam und Eva steif und gerade, getrennt von einem Feigenbaum, um den sich die Schlange windet. Kein Apfelbaum.",
+        "en" : "Look at the building itself and you will see it is put together the wrong way up. The heavy mass of the main block rests on two storeys of colonnades that look far too slender to carry it. Then go to the Piazzetta corner and look low down. Adam and Eve stand there stiff and straight, separated by a fig tree with the serpent wound around it. Not an apple tree."
       },
       "localizedStory" : {
-        "de" : "Der Palast des Dogen, in Auftrag gegeben von der Republik Venedig selbst.",
-        "en" : "The palace of the doge, commissioned by the Republic of Venice itself."
+        "de" : "Niemand weiß, warum das Tor neben der Basilika Papiertor heißt. Vielleicht hingen dort die Gesetze, vielleicht saßen dort die Schreiber.",
+        "en" : "Nobody knows why the gate beside the basilica is called the paper gate. Laws may have been posted there, or the scribes sat there."
       },
       "name" : "Palazzo Ducale",
       "pos" : [
         45.434924,
         12.340486
       ],
-      "story" : "The palace of the doge, commissioned by the Republic of Venice itself."
+      "story" : "Nobody knows why the gate beside the basilica is called the paper gate. Laws may have been posted there, or the scribes sat there."
     },
     {
-      "extendedStory" : "A tower of 98.6 metres, above a city as flat as a plate. That is why it shows from everywhere. Its history starts around the year 1000. What stands there now was raised again by Luca Beltrami, stone by stone on the old pattern. Its name comes from the basilica beside it. From ground level it reads as slender. Tip your head right back and the height arrives all at once.",
+      "extendedStory" : "In 1902 the whole tower folded in on itself and came down, and it took no life with it. Venice rebuilt it as it was and where it was, and reopened it on St Mark's day in 1912. Long before that, Galileo Galilei carried his new spyglass up here and showed the doge what it could do. The master of the house has had a good view of things.",
       "icon" : "choice",
       "id" : "f-campanile-di-san-marco",
       "kind" : "gate_tower",
       "localizedExtendedStory" : {
-        "de" : "Ein Turm von 98,6 Metern, und die Stadt darunter liegt flach wie ein Teller. Deshalb sieht man ihn von überall. Seine Geschichte beginnt um das Jahr 1000. Was heute dort steht, richtete Luca Beltrami wieder auf, Stein für Stein nach altem Vorbild. Benannt ist der Turm nach dem Markusdom, neben dem er steht. Von unten wirkt er schmal. Erst wenn man den Kopf ganz in den Nacken legt, merkt man die Höhe.",
-        "en" : "A tower of 98.6 metres, above a city as flat as a plate. That is why it shows from everywhere. Its history starts around the year 1000. What stands there now was raised again by Luca Beltrami, stone by stone on the old pattern. Its name comes from the basilica beside it. From ground level it reads as slender. Tip your head right back and the height arrives all at once."
+        "de" : "1902 sackte der ganze Turm in sich zusammen und fiel, ohne ein Leben mitzunehmen. Venedig baute ihn wieder auf, so wie er war und wo er war, und öffnete ihn 1912 am Markustag. Lange davor trug Galileo Galilei sein neues Fernrohr hier herauf und zeigte dem Dogen, was es kann. Der Herr des Hauses hat einen guten Blick auf die Dinge.",
+        "en" : "In 1902 the whole tower folded in on itself and came down, and it took no life with it. Venice rebuilt it as it was and where it was, and reopened it on St Mark's day in 1912. Long before that, Galileo Galilei carried his new spyglass up here and showed the doge what it could do. The master of the house has had a good view of things."
       },
       "localizedStory" : {
-        "de" : "98,6 Meter Backstein über dem Markusplatz. Der Turm ist nach der Kirche benannt, neben der er steht.",
-        "en" : "98.6 metres of brick standing over a city that lies flat as a plate."
+        "de" : "Sein Spitzname ist el paron de casa, der Herr des Hauses. Über dem Markusplatz steht er seit Jahrhunderten.",
+        "en" : "Its nickname alone tells you who runs this square. Locals call it el paron de casa, boss of the whole household."
       },
       "name" : "Campanile di San Marco",
       "pos" : [
         45.434036,
         12.339044
       ],
-      "story" : "98.6 metres of brick standing over a city that lies flat as a plate."
+      "story" : "Its nickname alone tells you who runs this square. Locals call it el paron de casa, boss of the whole household."
     },
     {
-      "extendedStory" : "Gian Antonio Selva began building in 1790, and the house opened in 1792. They named it for the phoenix, the bird that rises again out of its own ashes. Twice the building has had to make good on that name. It burned in 1836 and stood again in 1837. It burned once more in 1996 and was rebuilt by 2003. What you are looking at is a theatre that took its own name seriously.",
+      "extendedStory" : "Herodotus wrote about a bird that burns and then comes back. A court settlement had taken the society's old house away, so it borrowed the bird's name for the new one. The name turned out to fit. Fire took this theatre in 1836, and again in 1996. Both times Venice built it back, and both times the singing started again.",
       "icon" : "everyday",
       "id" : "f-teatro-la-fenice",
       "kind" : "theatre",
       "localizedExtendedStory" : {
-        "de" : "Gian Antonio Selva begann 1790 mit dem Bau, 1792 wurde eröffnet. Den Namen wählte man nach dem Phönix, dem Vogel, der aus seiner Asche wieder aufsteigt. Zweimal musste das Haus diesen Namen einlösen. 1836 brannte es, 1837 stand es wieder. 1996 brannte es erneut, und 2003 war es wieder aufgebaut. Wer heute davorsteht, sieht ein Gebäude, das seinen eigenen Namen ernst genommen hat.",
-        "en" : "Gian Antonio Selva began building in 1790, and the house opened in 1792. They named it for the phoenix, the bird that rises again out of its own ashes. Twice the building has had to make good on that name. It burned in 1836 and stood again in 1837. It burned once more in 1996 and was rebuilt by 2003. What you are looking at is a theatre that took its own name seriously."
+        "de" : "Herodot schrieb von einem Vogel, der in Flammen aufgeht und wiederkommt. Ein Gerichtsvergleich hatte der Gesellschaft ihr altes Haus genommen, also lieh sie sich den Namen des Vogels für das neue. Der Name passte besser, als ihr lieb war. 1836 holte das Feuer dieses Theater, und 1996 noch einmal. Beide Male baute Venedig es zurück, und beide Male wurde wieder gesungen.",
+        "en" : "Herodotus wrote about a bird that burns and then comes back. A court settlement had taken the society's old house away, so it borrowed the bird's name for the new one. The name turned out to fit. Fire took this theatre in 1836, and again in 1996. Both times Venice built it back, and both times the singing started again."
       },
       "localizedStory" : {
-        "de" : "Benannt nach dem Phönix, dem Vogel, der aus der Asche steigt. Der Name hat sich zweimal bewahrheitet.",
-        "en" : "Named after the phoenix, the bird that rises from its ashes. The name has come true twice."
+        "de" : "Nach dem Verlust ihres alten Hauses nannte die Gesellschaft dieses hier Fenice, nach dem Vogel, der aus seiner Asche aufsteigt.",
+        "en" : "The company that lost its old theatre named this one after the phoenix, the bird that rises from its own ashes."
       },
       "name" : "Teatro La Fenice",
       "pos" : [
         45.43371,
         12.333857
       ],
-      "story" : "Named after the phoenix, the bird that rises from its ashes. The name has come true twice."
+      "story" : "The company that lost its old theatre named this one after the phoenix, the bird that rises from its own ashes."
     },
     {
-      "extendedStory" : "Teodoro Correr, an art collector from an old Venetian family, left the city his works. He added the palazzo they were kept in, plus money to keep the collection growing. From 1830 it was a museum anyone could enter. In 1922 it moved into the Napoleonic Wing on St Mark's Square, where it sits today. So you walk through one person's collection, which now belongs to everybody.",
+      "extendedStory" : "Jacopo Sansovino rebuilt that church, San Geminiano, in the middle of the sixteenth century. Then it came down, and this wing went up in its place. What fills it now began as one man's gift. Teodoro Correr left the city his art, the palace it was kept in, and money to keep the collection growing. The museum moved into this wing on St Mark's Square in 1922.",
       "icon" : "everyday",
       "id" : "f-museo-correr",
       "kind" : "museum",
       "localizedExtendedStory" : {
-        "de" : "Teodoro Correr, Kunstsammler aus einer alten venezianischen Familie, hinterließ der Stadt seine Werke. Dazu den Palazzo, in dem sie standen, und Geld, damit die Sammlung weiterwächst. 1830 wurde daraus ein Museum für alle. 1922 zog es in den Napoleonischen Flügel am Markusplatz, wo es bis heute liegt. Man geht also durch die Sammlung eines einzelnen Menschen, die inzwischen der Stadt gehört.",
-        "en" : "Teodoro Correr, an art collector from an old Venetian family, left the city his works. He added the palazzo they were kept in, plus money to keep the collection growing. From 1830 it was a museum anyone could enter. In 1922 it moved into the Napoleonic Wing on St Mark's Square, where it sits today. So you walk through one person's collection, which now belongs to everybody."
+        "de" : "Jacopo Sansovino baute diese Kirche, San Geminiano, Mitte des sechzehnten Jahrhunderts neu. Dann fiel sie, und an ihrer Stelle entstand dieser Flügel. Was heute darin steht, fing als Geschenk eines Einzelnen an. Teodoro Correr hinterließ der Stadt seine Kunst, den Palazzo, in dem sie stand, und Geld, damit die Sammlung weiterwächst. 1922 zog das Museum in diesen Flügel am Markusplatz.",
+        "en" : "Jacopo Sansovino rebuilt that church, San Geminiano, in the middle of the sixteenth century. Then it came down, and this wing went up in its place. What fills it now began as one man's gift. Teodoro Correr left the city his art, the palace it was kept in, and money to keep the collection growing. The museum moved into this wing on St Mark's Square in 1922."
       },
       "localizedStory" : {
-        "de" : "Ein Sammler vermachte der Stadt alles: seine Werke, sein Haus und Geld zum Weitersammeln.",
-        "en" : "A collector left the city everything: his works, his house, and money to keep collecting."
+        "de" : "Hier stand einmal eine Kirche, und eine eingelassene Steinplatte unter den Arkaden zeigt bis heute die Stelle.",
+        "en" : "A church stood where this museum now stands, and a stone in the pavement under the arcade still marks the spot."
       },
       "name" : "Museo Correr",
       "pos" : [
         45.4336,
         12.337184
       ],
-      "story" : "A collector left the city everything: his works, his house, and money to keep collecting."
+      "story" : "A church stood where this museum now stands, and a stone in the pavement under the arcade still marks the spot."
     },
     {
-      "extendedStory" : "The bridge is the work of Antonio da Ponte. He began building in 1588, and the crossing opened in 1591. The walkway across it sits 6.7 metres above the water. The name is not the bridge's own. The Rialto was already the name of this place, and the crossing took it from there and kept it.",
+      "extendedStory" : "Look across from the ramp of the bridge to the Palazzo dei Camerlenghi. Two carved capitals there still poke fun at everyone who was sure the bridge would fall. Antonio da Ponte built it anyway, and he built downwards as much as upwards. His crew drove twelve thousand elm piles into the mud of the canal bed. The arch has rested on them ever since.",
       "icon" : "choice",
       "id" : "f-ponte-di-rialto",
       "kind" : "bridge",
       "localizedExtendedStory" : {
-        "de" : "Die Brücke ist das Werk von Antonio da Ponte. Er begann 1588 mit dem Bau, und 1591 wurde der Übergang eröffnet. Der Weg darüber liegt 6,7 Meter über dem Wasser. Der Name gehört nicht der Brücke selbst. Der Rialto hieß schon vorher so, und der Übergang übernahm ihn und behielt ihn.",
-        "en" : "The bridge is the work of Antonio da Ponte. He began building in 1588, and the crossing opened in 1591. The walkway across it sits 6.7 metres above the water. The name is not the bridge's own. The Rialto was already the name of this place, and the crossing took it from there and kept it."
+        "de" : "Schau von der Rampe der Brücke hinüber zum Palazzo dei Camerlenghi. Zwei geschnitzte Kapitelle machen sich dort bis heute über alle lustig, die den Einsturz der Brücke für sicher hielten. Antonio da Ponte baute sie trotzdem, und er baute nach unten so viel wie nach oben. Seine Leute rammten zwölftausend Ulmenpfähle in den Schlamm des Kanalbetts. Darauf steht sie bis heute.",
+        "en" : "Look across from the ramp of the bridge to the Palazzo dei Camerlenghi. Two carved capitals there still poke fun at everyone who was sure the bridge would fall. Antonio da Ponte built it anyway, and he built downwards as much as upwards. His crew drove twelve thousand elm piles into the mud of the canal bed. The arch has rested on them ever since."
       },
       "localizedStory" : {
-        "de" : "Antonio da Ponte errichtete diesen Steinbogen zwischen 1588 und 1591. Der Weg darüber liegt 6,7 Meter hoch, und der Name stammt vom Rialto.",
-        "en" : "Antonio da Ponte raised this stone arch between 1588 and 1591. The walkway across it stands 6.7 metres up, and it carries the Rialto's name."
+        "de" : "Der Sage nach war halb Venedig sicher, dass dieser steinerne Übergang in den Kanal stürzt. Er steht bis heute.",
+        "en" : "The story goes that many in Venice expected this stone arch to fall into the canal. It has not."
       },
       "name" : "Ponte di Rialto",
       "pos" : [
         45.438039,
         12.335929
       ],
-      "story" : "Antonio da Ponte raised this stone arch between 1588 and 1591. The walkway across it stands 6.7 metres up, and it carries the Rialto's name."
+      "story" : "The story goes that many in Venice expected this stone arch to fall into the canal. It has not."
     },
     {
-      "extendedStory" : "Venetians have a second name for this square. They call it Campo Francesco Morosini, after the doge who lived on it in the 17th century. The statue in the middle came much later. Part way through carving it, Barzaghi feared the figure would not stand on its own. So he cut a stack of four thick books behind its right leg, and they hold it up to this day.",
+      "extendedStory" : "Francesco Barzaghi was part way through carving Niccolò Tommaseo when he feared the figure would not stand. So he cut a stack of four thick books behind its right leg to hold it up. Now look north to the leaning bell tower at the end of the square. In 1904 the overhang at the bell chamber measured 1.72 metres. An engineer braced it rather than take it down.",
       "icon" : "everyday",
       "id" : "f-campo-santo-stefano",
       "kind" : "square",
       "localizedExtendedStory" : {
-        "de" : "Die Venezianer haben einen zweiten Namen für diesen Platz. Sie nennen ihn Campo Francesco Morosini, nach dem Dogen, der im 17. Jahrhundert hier wohnte. Die Statue in der Mitte kam viel später dazu. Mitten in der Arbeit fürchtete Barzaghi, die Figur werde nicht von allein stehen. Also schlug er hinter ihr rechtes Bein einen Stapel aus vier dicken Büchern, und der hält sie bis heute.",
-        "en" : "Venetians have a second name for this square. They call it Campo Francesco Morosini, after the doge who lived on it in the 17th century. The statue in the middle came much later. Part way through carving it, Barzaghi feared the figure would not stand on its own. So he cut a stack of four thick books behind its right leg, and they hold it up to this day."
+        "de" : "Francesco Barzaghi war mitten im Meißeln an Niccolò Tommaseo, als er fürchtete, die Figur würde nicht stehen bleiben. Also schlug er einen Stapel aus vier dicken Büchern hinter ihr rechtes Bein, damit er sie hält. Schau jetzt nach Norden zum schiefen Glockenturm am Ende des Campo. 1904 maß der Überhang an der Glockenstube 1,72 Meter. Ein Ingenieur stützte ihn ab, statt ihn abzutragen.",
+        "en" : "Francesco Barzaghi was part way through carving Niccolò Tommaseo when he feared the figure would not stand. So he cut a stack of four thick books behind its right leg to hold it up. Now look north to the leaning bell tower at the end of the square. In 1904 the overhang at the bell chamber measured 1.72 metres. An engineer braced it rather than take it down."
       },
       "localizedStory" : {
-        "de" : "In der Mitte steht der Schriftsteller Niccolò Tommaseo, 1882 von Francesco Barzaghi aus Carrara-Marmor gehauen.",
-        "en" : "In the middle stands the writer Niccolò Tommaseo, cut in Carrara marble by Francesco Barzaghi in 1882."
+        "de" : "Die Figur in der Mitte trägt einen Spitznamen, el Cagalibri, verdient durch die Bücher hinter ihren Beinen.",
+        "en" : "The statue in the middle has a nickname here, el Cagalibri, earned by the books stacked behind his legs."
       },
       "name" : "Campo Santo Stefano",
       "pos" : [
         45.433093,
         12.330213
       ],
-      "story" : "In the middle stands the writer Niccolò Tommaseo, cut in Carrara marble by Francesco Barzaghi in 1882."
+      "story" : "The statue in the middle has a nickname here, el Cagalibri, earned by the books stacked behind his legs."
     },
     {
-      "extendedStory" : "The descendants of doge Enrico Dandolo had this house built in the 13th century. Around 1670 it passed to the Farsetti family, who gave it its name. In the 18th century they turned it into a kind of cultural centre, open to thinkers, artists, citizens and foreign visitors alike. The city bought it in 1826 and made it the town hall the year after. It still is one, together with Ca' Loredan next door.",
+      "extendedStory" : "Abbot Filippo Farsetti filled the great rooms here with plaster copies of famous statues from Italy and Greece. He let people in to draw them, and Canova was one of them, around 1770. The house is older than any of that. Descendants of doge Enrico Dandolo had it built in the thirteenth century. The city bought it in 1826 and made it the town hall, which it still is.",
       "icon" : "everyday",
       "id" : "f-ca-farsetti",
       "kind" : "civic",
       "localizedExtendedStory" : {
-        "de" : "Die Nachfahren des Dogen Enrico Dandolo ließen dieses Haus im 13. Jahrhundert bauen. Um 1670 kam es an die Familie Farsetti, die ihm den Namen gab. Im 18. Jahrhundert machten sie eine Art Kulturzentrum daraus, offen für Denker, Künstler, Bürger und Reisende aus dem Ausland. 1826 kaufte es die Stadt und machte es im Jahr darauf zum Rathaus. Das ist es bis heute, zusammen mit der Ca' Loredan nebenan.",
-        "en" : "The descendants of doge Enrico Dandolo had this house built in the 13th century. Around 1670 it passed to the Farsetti family, who gave it its name. In the 18th century they turned it into a kind of cultural centre, open to thinkers, artists, citizens and foreign visitors alike. The city bought it in 1826 and made it the town hall the year after. It still is one, together with Ca' Loredan next door."
+        "de" : "Abt Filippo Farsetti füllte die großen Säle hier mit Gipsabgüssen berühmter Statuen aus Italien und Griechenland. Er ließ Leute herein, um sie zu zeichnen, und Canova war um 1770 einer von ihnen. Das Haus ist älter als all das. Nachfahren des Dogen Enrico Dandolo ließen es im dreizehnten Jahrhundert bauen. 1826 kaufte es die Stadt und machte es zum Rathaus, das es bis heute ist.",
+        "en" : "Abbot Filippo Farsetti filled the great rooms here with plaster copies of famous statues from Italy and Greece. He let people in to draw them, and Canova was one of them, around 1770. The house is older than any of that. Descendants of doge Enrico Dandolo had it built in the thirteenth century. The city bought it in 1826 and made it the town hall, which it still is."
       },
       "localizedStory" : {
-        "de" : "Ein Palast aus dem 13. Jahrhundert, gebaut von den Nachfahren eines Dogen. Heute ist er das Rathaus.",
-        "en" : "A palace from the 13th century, built by a doge's descendants. Today it is the town hall."
+        "de" : "Ein Junge namens Antonio Canova lernte in diesen Räumen das Meißeln, und sein Anfang waren zwei kleine Obstkörbe aus Marmor.",
+        "en" : "A boy called Antonio Canova learned to carve in these rooms, and what he made here were two little baskets of fruit."
       },
       "name" : "Ca' Farsetti",
       "pos" : [
         45.436201,
         12.33402
       ],
-      "story" : "A palace from the 13th century, built by a doge's descendants. Today it is the town hall."
+      "story" : "A boy called Antonio Canova learned to carve in these rooms, and what he made here were two little baskets of fruit."
     }
   ],
-  "generatedAt" : "2026-09-13T14:39:25Z",
+  "generatedAt" : "2026-09-17T20:52:10Z",
   "icon" : {
     "paths" : [
       "M38.0 30.0L62.0 30.0L62.0 84.0L38.0 84.0ZM33.0 84.0L67.0 84.0L67.0 90.0L33.0 90.0ZM35.0 16.0L65.0 16.0L65.0 30.0L35.0 30.0ZM42.3 29.0L42.3 22.2C42.3 20.4 43.7 19.0 45.5 19.0C47.3 19.0 48.7 20.4 48.7 22.2L48.7 29.0ZM51.3 29.0L51.3 22.2C51.3 20.4 52.7 19.0 54.5 19.0C56.3 19.0 57.7 20.4 57.7 22.2L57.7 29.0ZM33.0 14.0L67.0 14.0L67.0 17.0L33.0 17.0ZM33.0 15.0L67.0 15.0L50.0 4.0ZM48.5 1.0L51.5 1.0L51.5 5.0L48.5 5.0Z"
@@ -11140,7 +11139,7 @@
     "en" : "Venice"
   },
   "name" : "Venice",
-  "packVersion" : 10,
+  "packVersion" : 11,
   "schemaVersion" : 1,
   "source" : "OpenStreetMap via Overpass API",
   "stats" : {

@@ -295,10 +295,9 @@
 
     ],
     "adjustedStreets" : [
-      "Bubenbergplatz",
-      "Nydeggtreppe"
+
     ],
-    "fromVersion" : 8,
+    "fromVersion" : 10,
     "removedStreets" : [
 
     ]
@@ -17237,187 +17236,187 @@
   ],
   "fruits" : [
     {
-      "extendedStory" : "The name means church of the Holy Spirit. Albrecht Stürler designed it and it was finished in 1729. That makes it baroque, a style that prefers curves and round arches to the pointed shapes of older churches. It stands at 542.2 metres above sea level, on the flat western end of the old town. Bahnhofplatz runs right past the door, in the middle of the bustle.",
+      "extendedStory" : "Following the Reformed tradition, it also has a door in every wall, so you can step in from any direction. Its name means church of the Holy Spirit. Albrecht Stürler designed it in the baroque style, which loves soft curves and rich decoration. It was finished in 1729. Stand at the back, then at the front, and see whether you can tell which is which.",
       "icon" : "everyday",
       "id" : "f-heiliggeistkirche",
       "kind" : "church",
       "localizedExtendedStory" : {
-        "de" : "Der Name meint den Heiligen Geist, dem die Kirche geweiht ist. Entworfen hat sie Albrecht Stürler, fertig war sie im Jahr 1729. Barock heisst hier: Rundungen statt Spitzen, Rundbogen statt Spitzbogen, ein Stil, der lieber schwingt als aufragt. Sie steht auf 542,2 Metern über Meer, ganz am flachen Westende der Altstadt. Wer über den Bahnhofplatz geht, läuft direkt an ihrer Tür vorbei.",
-        "en" : "The name means church of the Holy Spirit. Albrecht Stürler designed it and it was finished in 1729. That makes it baroque, a style that prefers curves and round arches to the pointed shapes of older churches. It stands at 542.2 metres above sea level, on the flat western end of the old town. Bahnhofplatz runs right past the door, in the middle of the bustle."
+        "de" : "Nach reformierter Tradition hat sie ausserdem an jeder Seite einen Eingang, man tritt also von überall ein. Der Name meint den Heiligen Geist, dem die Kirche geweiht ist. Entworfen hat sie Albrecht Stürler, im Stil des Barock, der geschwungene Formen und reichen Schmuck liebt. Fertig war sie im Jahr 1729. Stell dich erst hinten, dann vorne hin, und rate einmal, welche Seite welche ist.",
+        "en" : "Following the Reformed tradition, it also has a door in every wall, so you can step in from any direction. Its name means church of the Holy Spirit. Albrecht Stürler designed it in the baroque style, which loves soft curves and rich decoration. It was finished in 1729. Stand at the back, then at the front, and see whether you can tell which is which."
       },
       "localizedStory" : {
-        "de" : "Albrecht Stürler baute sie 1729, barock und rundbogig, direkt am Bahnhofplatz.",
-        "en" : "Albrecht Stürler built this one in 1729, baroque and round-arched, right at the edge of Bahnhofplatz."
+        "de" : "Geh einmal um die Kirche herum. Ihre Hauptfassade und ihre Rückfassade sind genau gleich gebaut.",
+        "en" : "Walk all the way round. The front and the back of this church are built exactly alike."
       },
       "name" : "Heiliggeistkirche",
       "pos" : [
         46.947835,
         7.440802
       ],
-      "story" : "Albrecht Stürler built this one in 1729, baroque and round-arched, right at the edge of Bahnhofplatz."
+      "story" : "Walk all the way round. The front and the back of this church are built exactly alike."
     },
     {
-      "extendedStory" : "The tower is older than the job it is named for. It went up in 1256, part of Bern's outer city wall, where Marktgasse runs today. Then the fire of 1405 took the Zytglogge, and the prisoners quartered there were moved into this tower instead. That went on until 1897, when the last 70 inmates left for a new district prison. Since 2017 the tower has housed the Polit-Forum Bern.",
+      "extendedStory" : "Käfigturm means cage tower, and the name fits. When fire took the Zytglogge in 1405, the prisoners kept there were moved into this tower. It held prisoners until 1897, when the last inmates left for a new district prison. Some say Hodler was born in his mother's maid's room up here, but nobody has settled it. Today the tower houses the Polit-Forum Bern.",
       "icon" : "everyday",
       "id" : "f-kafigturm",
       "kind" : "gate_tower",
       "localizedExtendedStory" : {
-        "de" : "Der Turm ist älter als das, wofür er heisst. 1256 wurde er gebaut, als Teil der äusseren Stadtmauer, dort wo heute die Marktgasse durchgeht. Dann fiel 1405 der Zeitglockenturm dem Stadtbrand zum Opfer, und die dort einquartierten Gefangenen kamen hierher. So blieb es bis 1897, als die letzten 70 Insassen ins neue Bezirksgefängnis zogen. Seit 2017 beherbergt der Turm das Polit-Forum Bern.",
-        "en" : "The tower is older than the job it is named for. It went up in 1256, part of Bern's outer city wall, where Marktgasse runs today. Then the fire of 1405 took the Zytglogge, and the prisoners quartered there were moved into this tower instead. That went on until 1897, when the last 70 inmates left for a new district prison. Since 2017 the tower has housed the Polit-Forum Bern."
+        "de" : "Käfigturm heisst er, und der Name passt. Als 1405 der Zeitglockenturm dem Stadtbrand zum Opfer fiel, kamen die Gefangenen von dort hierher. So blieb es bis 1897, dann zogen die letzten Insassen ins neue Bezirksgefängnis. Man erzählt, Hodler sei in der Mägdekammer seiner Mutter hier im Turm geboren, doch das ist umstritten. Heute beherbergt der Turm das Polit-Forum Bern.",
+        "en" : "Käfigturm means cage tower, and the name fits. When fire took the Zytglogge in 1405, the prisoners kept there were moved into this tower. It held prisoners until 1897, when the last inmates left for a new district prison. Some say Hodler was born in his mother's maid's room up here, but nobody has settled it. Today the tower houses the Polit-Forum Bern."
       },
       "localizedStory" : {
-        "de" : "Käfigturm heisst er, weil er einer war: Bis 1897 sass man hier ein.",
-        "en" : "Käfigturm means cage tower, and it was one: people were locked in here until 1897."
+        "de" : "Die Mutter des Malers Ferdinand Hodler kochte hier für die Gefangenen. Ob Hodler selbst im Turm zur Welt kam, ist bis heute umstritten.",
+        "en" : "The painter Ferdinand Hodler's mother cooked for the prisoners here. People still argue whether Hodler himself was born inside the tower."
       },
       "name" : "Käfigturm",
       "pos" : [
         46.948075,
         7.44401
       ],
-      "story" : "Käfigturm means cage tower, and it was one: people were locked in here until 1897."
+      "story" : "The painter Ferdinand Hodler's mother cooked for the prisoners here. People still argue whether Hodler himself was born inside the tower."
     },
     {
-      "extendedStory" : "This is where Switzerland's parliament meets. Hans Wilhelm Auer designed the building and it opened in 1902. The style is Renaissance Revival, which means it borrows the columns and proportions of a much older age on purpose. It reaches 64 metres, so it reads as the tall thing at the end of Bundesplatz. The square in front stays open, and people cross it all day.",
+      "extendedStory" : "Inside stands the statue of the Three Confederates, cut from Botticino limestone, so it broke the architect's own rule. A canton is one of the states that together make up Switzerland. Auer's building opened in 1902, in the Renaissance Revival style. That style borrows columns and proportions from a much older age on purpose. The whole building rises 64 metres.",
       "icon" : "hero",
       "id" : "f-bundeshaus-parlamentsgebaude",
       "kind" : "other",
       "localizedExtendedStory" : {
-        "de" : "Hier tagt das Schweizer Parlament. Hans Wilhelm Auer hat das Gebäude entworfen, eröffnet wurde es im Jahr 1902. Der Stil heisst Neorenaissance, das heisst, er borgt sich Säulen und Verhältnisse aus einer viel älteren Zeit. 64 Meter misst der Bau, damit ist er das Hohe am Ende des Bundesplatzes. Der Platz davor bleibt offen, und den ganzen Tag laufen Leute darüber.",
-        "en" : "This is where Switzerland's parliament meets. Hans Wilhelm Auer designed the building and it opened in 1902. The style is Renaissance Revival, which means it borrows the columns and proportions of a much older age on purpose. It reaches 64 metres, so it reads as the tall thing at the end of Bundesplatz. The square in front stays open, and people cross it all day."
+        "de" : "In der Kuppelhalle stehen die drei Eidgenossen aus weissem Botticino-Kalk, und damit brechen sie die Regel des Architekten. Eigentlich schwören dort also drei Italiener. Ein Kanton ist einer der Gliedstaaten, aus denen die Schweiz gemeinsam besteht. Eröffnet wurde Auers Bau 1902, im Stil der Neorenaissance, der Säulen und Proportionen aus einer viel älteren Zeit borgt. Er misst 64 Meter und überragt alles ringsum.",
+        "en" : "Inside stands the statue of the Three Confederates, cut from Botticino limestone, so it broke the architect's own rule. A canton is one of the states that together make up Switzerland. Auer's building opened in 1902, in the Renaissance Revival style. That style borrows columns and proportions from a much older age on purpose. The whole building rises 64 metres."
       },
       "localizedStory" : {
-        "de" : "Hans Wilhelm Auer hat es gebaut, 1902 wurde es eröffnet. Vom Bundesplatz aus misst es 64 Meter.",
-        "en" : "Hans Wilhelm Auer built it, and it opened in 1902. From Bundesplatz it rises 64 metres."
+        "de" : "Architekt Hans Wilhelm Auer wollte Baustoffe aus allen Kantonen. Doch unter der Kuppel schwören drei Eidgenossen aus italienischem Kalkstein.",
+        "en" : "Architect Hans Wilhelm Auer wanted materials from every canton. Yet the three Swiss founders under the dome are carved from Italian limestone."
       },
       "name" : "Bundeshaus – Parlamentsgebäude",
       "pos" : [
         46.946391,
         7.443946
       ],
-      "story" : "Hans Wilhelm Auer built it, and it opened in 1902. From Bundesplatz it rises 64 metres."
+      "story" : "Architect Hans Wilhelm Auer wanted materials from every canton. Yet the three Swiss founders under the dome are carved from Italian limestone."
     },
     {
-      "extendedStory" : "Before it kept time, this tower kept watch. It went up around 1220 as a defensive tower that doubled as Bern's city gate. Then the city burned on 14 May 1405. The tower came through the fire, and a new bell was cast by that October, five months later. Among the figures up top is Chronos, the old god of time, with a rooster, a lion and the bears.",
+      "extendedStory" : "A Hans von Thann really did live down in the Matte quarter, below the Old Town. The clock keeper says striking the hours was probably his job, and the knight was probably named after him. The knight has a secret of his own. When he came down for repairs, tests dated his head to the late 16th or the beginning of the 17th century. His body is much younger.",
       "icon" : "choice",
       "id" : "f-zytglogge",
       "kind" : "gate_tower",
       "localizedExtendedStory" : {
-        "de" : "Bevor der Turm die Zeit hütete, hütete er die Stadt. Um 1220 wurde er als Wehrturm errichtet, der zugleich das Stadttor bildete. Am 14. Mai 1405 brannte Bern. Der Turm überstand das Feuer, und schon im Oktober war die neue Glocke gegossen, nur fünf Monate danach. Oben steht Chronos, der alte Gott der Zeit, dazu Hahn, Löwe und der Bärenreigen.",
-        "en" : "Before it kept time, this tower kept watch. It went up around 1220 as a defensive tower that doubled as Bern's city gate. Then the city burned on 14 May 1405. The tower came through the fire, and a new bell was cast by that October, five months later. Among the figures up top is Chronos, the old god of time, with a rooster, a lion and the bears."
+        "de" : "Im Mattequartier unterhalb der Altstadt hat wirklich ein Hans von Thann gelebt. Wahrscheinlich war das Zeitschlagen seine Aufgabe, und die Figur wurde nach ihm benannt. Der Ritter hat aber auch ein eigenes Geheimnis. Als er zur Reparatur herunterkam, zeigte eine Untersuchung: Sein Kopf stammt aus dem späten 16. oder frühen 17. Jahrhundert, sein Körper ist viel jünger. Vor der Uhr war dieser Turm ein Wehrturm und zugleich das Stadttor.",
+        "en" : "A Hans von Thann really did live down in the Matte quarter, below the Old Town. The clock keeper says striking the hours was probably his job, and the knight was probably named after him. The knight has a secret of his own. When he came down for repairs, tests dated his head to the late 16th or the beginning of the 17th century. His body is much younger."
       },
       "localizedStory" : {
-        "de" : "Bleib zur vollen Stunde stehen: Oben bewegen sich die Figuren, Chronos, Hahn, Löwe und der Bärenreigen.",
-        "en" : "Stand below on the hour and the figures move: Chronos, a rooster, a lion, and a round of bears."
+        "de" : "Schau hinauf zum vergoldeten Ritter, der die Stunden schlägt. Man erzählt, er heisst nach einem echten Hans von Thann aus dem Mattequartier.",
+        "en" : "Look up for the gilded knight who strikes the hours. People say he is named after a real Hans von Thann of the Matte quarter."
       },
       "name" : "Zytglogge",
       "pos" : [
         46.947937,
         7.447879
       ],
-      "story" : "Stand below on the hour and the figures move: Chronos, a rooster, a lion, and a round of bears."
+      "story" : "Look up for the gilded knight who strikes the hours. People say he is named after a real Hans von Thann of the Matte quarter."
     },
     {
-      "extendedStory" : "By day he sat in the patent office. His rank there was technical expert, third class, and each evening he came back to this address. He had the second floor. The stretch that mattered was short. Between March and September 1905 he sent out five papers covering three separate subjects. Visitors have been able to walk through the rooms since 1977.",
+      "extendedStory" : "Checking other people's inventions at the patent office was how he earned his money. His flat was on the second floor. Between March and September 1905, while still working at the office, he published five papers on very different subjects. He lived in these rented rooms right up to that year, one floor above the lane. Look up at the windows and picture him at his table after work.",
       "icon" : "everyday",
       "id" : "f-einsteinhaus",
       "kind" : "museum",
       "localizedExtendedStory" : {
-        "de" : "Tagsüber war er Beamter. Einstein arbeitete am Patentamt als technischer Experte 3. Klasse und kam abends in diese Wohnung im zweiten Stock zurück. Von 1903 bis 1905 hat er hier gewohnt. In den Monaten zwischen März und September 1905 veröffentlichte er fünf Arbeiten zu drei verschiedenen Themen. Seit 1977 kann man die Wohnung besuchen. Die Kramgasse läuft direkt unter den Fenstern durch.",
-        "en" : "By day he sat in the patent office. His rank there was technical expert, third class, and each evening he came back to this address. He had the second floor. The stretch that mattered was short. Between March and September 1905 he sent out five papers covering three separate subjects. Visitors have been able to walk through the rooms since 1977."
+        "de" : "Im Patentamt werden neue Erfindungen geprüft, und das war seine Arbeit. Seine Wohnung lag im zweiten Stock. Zwischen März und September 1905, neben der Arbeit im Amt, veröffentlichte er fünf Arbeiten zu drei verschiedenen Themen. In diesen Mieträumen wohnte er bis in dieses Jahr hinein. Schau zu den Fenstern hinauf und stell ihn dir nach Feierabend am Tisch vor.",
+        "en" : "Checking other people's inventions at the patent office was how he earned his money. His flat was on the second floor. Between March and September 1905, while still working at the office, he published five papers on very different subjects. He lived in these rented rooms right up to that year, one floor above the lane. Look up at the windows and picture him at his table after work."
       },
       "localizedStory" : {
-        "de" : "Einstein mietete hier die Wohnung im zweiten Stock, von 1903 bis 1905. Schau mal hinauf zu den Fenstern.",
-        "en" : "From 1903 to 1905 Einstein lived one floor up, at Kramgasse 49. Look at those windows."
+        "de" : "Ein technischer Experte 3. Klasse vom Patentamt mietete hier eine Wohnung. Sein Name: Albert Einstein.",
+        "en" : "A patent office expert, third class, rented the flat upstairs. His name was Albert Einstein."
       },
       "name" : "Einsteinhaus",
       "pos" : [
         46.947674,
         7.449971
       ],
-      "story" : "From 1903 to 1905 Einstein lived one floor up, at Kramgasse 49. Look at those windows."
+      "story" : "A patent office expert, third class, rented the flat upstairs. His name was Albert Einstein."
     },
     {
-      "extendedStory" : "The church is named for Saint Vincent of Saragossa. Work started in 1421. What you see is Gothic, which means pointed arches and tall windows that carry the eye upward. The building itself stands about 20.7 metres, and the rest is all tower. That ends 100.6 metres up. Stand back on Münstergasse if you want the whole of it in view.",
+      "extendedStory" : "How he survived, nobody can agree, and all that is clear is that he grew old as a village pastor. Now look up at the stone water spouts on the tower. The masons carved a monkey, a frog, and even the head of a former city president. At the main door, the great Last Judgment portal came through the Reformation's image breaking almost unharmed. Every free-standing figure there today is a copy, and the originals are kept in the Bern History Museum.",
       "icon" : "choice",
       "id" : "f-munster",
       "kind" : "church",
       "localizedExtendedStory" : {
-        "de" : "Die Kirche trägt den Namen des heiligen Vinzenz von Valencia. Angefangen wurde 1421. Was du siehst, ist Gotik: Spitzbogen und hohe Fenster, die den Blick nach oben ziehen. Das Gebäude selbst misst rund 20,7 Meter, alles Weitere ist Turm. Der endet erst bei 100,6 Metern. Stell dich auf der Münstergasse ein Stück zurück, dann hast du ihn ganz im Blick.",
-        "en" : "The church is named for Saint Vincent of Saragossa. Work started in 1421. What you see is Gothic, which means pointed arches and tall windows that carry the eye upward. The building itself stands about 20.7 metres, and the rest is all tower. That ends 100.6 metres up. Stand back on Münstergasse if you want the whole of it in view."
+        "de" : "Was genau geschah und wie er den Sturz überlebte, ist bis heute umstritten. Schau dann nach oben zu den Wasserspeiern am Turm. Die Steinmetze haben dort einen Affen, einen Frosch und sogar den Kopf eines früheren Stadtpräsidenten gemeisselt. Das Hauptportal mit dem Jüngsten Gericht hat die Zerstörungen der Reformationszeit erstaunlich gut überstanden. Alle freistehenden Figuren dort sind heute Kopien, die Originale stehen im Bernischen Historischen Museum.",
+        "en" : "How he survived, nobody can agree, and all that is clear is that he grew old as a village pastor. Now look up at the stone water spouts on the tower. The masons carved a monkey, a frog, and even the head of a former city president. At the main door, the great Last Judgment portal came through the Reformation's image breaking almost unharmed. Every free-standing figure there today is a copy, and the originals are kept in the Bern History Museum."
       },
       "localizedStory" : {
-        "de" : "1421 wurde angefangen, der Turm misst 100,6 Meter. Leg den Kopf in den Nacken, dann findest du die Spitze.",
-        "en" : "Building started in 1421, and the tower climbs 100.6 metres. Tip your head back to find the top."
+        "de" : "Der Sage nach stürzte ein Student mit seinem Pferd über die Mauer der Terrasse an dieser Kirche und überlebte. Eine Tafel erinnert daran.",
+        "en" : "The story goes that a student fell with his horse over the wall of the terrace beside this church, and lived. A plaque remembers him."
       },
       "name" : "Münster",
       "pos" : [
         46.947223,
         7.451038
       ],
-      "story" : "Building started in 1421, and the tower climbs 100.6 metres. Tip your head back to find the top."
+      "story" : "The story goes that a student fell with his horse over the wall of the terrace beside this church, and lived. A plaque remembers him."
     },
     {
-      "extendedStory" : "The building took eleven years. Work ran from 1406 to 1417. The bill came to more than 12,000 gold gulden, which drew a great deal of criticism. People thought it too slow and too dear. Six hundred years on, it is still doing the job it was built for. The cantonal parliament sits here, and the city parliament holds its sessions in the same house.",
+      "extendedStory" : "Later came fresh pieces in Gothic style, meaning pointed arches copied from medieval work. Those were meant to make an old house look older still. Work dragged from 1406 to 1417, and both its slow pace and its price drew loud complaints. Two parliaments still meet inside, one for the canton and one for the town. Both of them gather under one steep roof.",
       "icon" : "everyday",
       "id" : "f-rathaus",
       "kind" : "civic",
       "localizedExtendedStory" : {
-        "de" : "Elf Jahre hat der Bau gedauert. Von 1406 bis 1417 wurde gearbeitet. Die Rechnung lief auf über 12'000 Goldgulden hinaus, und dafür gab es viel Kritik. Zu langsam und zu teuer, fanden die Leute. Sechshundert Jahre später tut das Haus noch immer, wofür es gebaut wurde. Der Grosse Rat des Kantons tagt hier, und das Parlament der Stadt hält seine Sitzungen im selben Haus.",
-        "en" : "The building took eleven years. Work ran from 1406 to 1417. The bill came to more than 12,000 gold gulden, which drew a great deal of criticism. People thought it too slow and too dear. Six hundred years on, it is still doing the job it was built for. The cantonal parliament sits here, and the city parliament holds its sessions in the same house."
+        "de" : "Später kamen neue Teile im gotischen Stil dazu, dem spitzbogigen Stil des Mittelalters. Sie sollten das alte Haus noch älter aussehen lassen. Gebaut wurde es von 1406 bis 1417, und für die lange Bauzeit und die hohen Kosten gab es viel Kritik. Heute tagt hier das Parlament des Kantons. Auch das Parlament der Stadt hält seine Sitzungen im selben Haus ab.",
+        "en" : "Later came fresh pieces in Gothic style, meaning pointed arches copied from medieval work. Those were meant to make an old house look older still. Work dragged from 1406 to 1417, and both its slow pace and its price drew loud complaints. Two parliaments still meet inside, one for the canton and one for the town. Both of them gather under one steep roof."
       },
       "localizedStory" : {
-        "de" : "Kanton und Stadt tagen beide hier, jeder in seinem eigenen Parlament, unter einem Dach.",
-        "en" : "Two parliaments still sit in this one house: the canton's, and the city's."
+        "de" : "Such am Mansarddach den Knick. Dort sieht man, wo die Hauptfassade um eine Fensterachse verbreitert wurde, der Symmetrie zuliebe.",
+        "en" : "Look along the roof for a kink. It shows where the main front was once widened by an extra window bay, just for symmetry."
       },
       "name" : "Rathaus",
       "pos" : [
         46.948731,
         7.452391
       ],
-      "story" : "Two parliaments still sit in this one house: the canton's, and the city's."
+      "story" : "Look along the roof for a kink. It shows where the main front was once widened by an extra window bay, just for symmetry."
     },
     {
-      "extendedStory" : "Notice what your legs are not doing. The old way dropped into the gorge, crossed beside a span dating from about 1255, then climbed back out. Royal traffic put up with that dip for generations. Work here ran from 1840 to 1844 and did away with it. Now the road stays flat, 25 metres clear of the water below. Lean over and measure the drop you never made.",
+      "extendedStory" : "Arguments followed this crossing from day one. It never fully removed the steep slopes it was meant to spare travellers. Earlier traffic had to drop down the Nydeggstalden lane, cross a much older span from about 1255, then haul back up again. That route counted as part of a medieval royal road. Now you walk 25 metres above the water without noticing any dip.",
       "icon" : "everyday",
       "id" : "f-nydeggbrucke",
       "kind" : "bridge",
       "localizedExtendedStory" : {
-        "de" : "Diese Brücke macht aus einem Abstieg einen geraden Weg. Wer auf der hochmittelalterlichen Königsstrasse unterwegs war, musste den Nydeggstalden hinunter. Unten ging es über die Untertorbrücke von etwa 1255, dann wieder hinauf. Gebaut wurde zwischen 1840 und 1844. Heute läuft die Strasse eben, 25 Meter über dem Wasser. Schau über die Brüstung, dann siehst du das Tal, das du gerade überspringst.",
-        "en" : "Notice what your legs are not doing. The old way dropped into the gorge, crossed beside a span dating from about 1255, then climbed back out. Royal traffic put up with that dip for generations. Work here ran from 1840 to 1844 and did away with it. Now the road stays flat, 25 metres clear of the water below. Lean over and measure the drop you never made."
+        "de" : "Umstritten war die Brücke von Anfang an. Sie hob die Steigungen nur teilweise auf, obwohl sie genau die ersparen sollte. Vorher mussten alle über den steilen Nydeggstalden hinunter und auf der anderen Seite wieder hinauf. Dieser Weg führte zur Untertorbrücke, die um 1255 entstanden war, und war ein Stück der hochmittelalterlichen Königsstrasse. Heute ist die Brücke 25 Meter hoch, und oben geht es geradeaus hinüber.",
+        "en" : "Arguments followed this crossing from day one. It never fully removed the steep slopes it was meant to spare travellers. Earlier traffic had to drop down the Nydeggstalden lane, cross a much older span from about 1255, then haul back up again. That route counted as part of a medieval royal road. Now you walk 25 metres above the water without noticing any dip."
       },
       "localizedStory" : {
-        "de" : "Vor 1844 ging es hinunter zur Untertorbrücke von etwa 1255 und auf der anderen Seite wieder hinauf.",
-        "en" : "Before 1844 you crossed down at the Untertorbrücke of about 1255, then climbed back up the far side."
+        "de" : "Schau auf die kleinen Pavillons an beiden Enden. Sie waren als Zollhäuser geplant, doch die Zölle brachten stets weit weniger als erwartet.",
+        "en" : "Spot the little pavilions at each end. They were planned as toll houses, but the tolls brought in far less than expected."
       },
       "name" : "Nydeggbrücke",
       "pos" : [
         46.948469,
         7.458485
       ],
-      "story" : "Before 1844 you crossed down at the Untertorbrücke of about 1255, then climbed back up the far side."
+      "story" : "Spot the little pavilions at each end. They were planned as toll houses, but the tolls brought in far less than expected."
     },
     {
-      "extendedStory" : "Bears turned up here as war booty. Fighters carried a live one home from a battle in 1513. Two years later a pit was dug for it uphill, beside a square that still borrows its name. Bears reached these lower slopes in 1857, into a moat split down the middle. In 2009 the hillside below became open ground, tilting down to the water. Watch where they choose to sit.",
+      "extendedStory" : "Scholars now favour a duller source for that name: Berna, a Celtic word meaning gorge. Real animals came later, as spoils carried back from a battle at Novara in 1513. Soon one had a pit uphill, on a square that still carries its keepers' memory in its name. Since 1857 they have lived down by the water instead. Today they roam a broad park stepping down the slope.",
       "icon" : "choice",
       "id" : "f-barengraben",
       "kind" : "attraction",
       "localizedExtendedStory" : {
-        "de" : "Schau auf den Graben: Er ist in zwei Hälften geteilt. Seit 1857 leben die Bären hier unten nach der Nydeggbrücke. Davor waren sie oben in der Stadt. Ihr Graben wurde 1515 eröffnet, auf dem Platz, der bis heute Bärenplatz heisst. Ein Bär kam 1513 als Kriegsbeute aus der Schlacht von Novara. Am 22. Oktober 2009 wurde der Hang hinunter zur Aare als offene Anlage eröffnet.",
-        "en" : "Bears turned up here as war booty. Fighters carried a live one home from a battle in 1513. Two years later a pit was dug for it uphill, beside a square that still borrows its name. Bears reached these lower slopes in 1857, into a moat split down the middle. In 2009 the hillside below became open ground, tilting down to the water. Watch where they choose to sit."
+        "de" : "Die Namensforschung denkt heute eher an das keltische Wort Berna, eine Schlucht. Die echten Bären kamen als Kriegsbeute: Aus der Schlacht von Novara brachten die Berner 1513 einen mit. Bald bekam er einen Graben auf dem heutigen Bärenplatz, oben in der Stadt. Seit 1857 leben die Bären hier unten nach der Nydeggbrücke. Heute streifen sie durch eine offene Anlage am Hang hinunter zur Aare.",
+        "en" : "Scholars now favour a duller source for that name: Berna, a Celtic word meaning gorge. Real animals came later, as spoils carried back from a battle at Novara in 1513. Soon one had a pit uphill, on a square that still carries its keepers' memory in its name. Since 1857 they have lived down by the water instead. Today they roam a broad park stepping down the slope."
       },
       "localizedStory" : {
-        "de" : "1513 brachten Söldner einen lebenden Bären aus der Schlacht von Novara mit, als Kriegsbeute.",
-        "en" : "Swiss soldiers brought a live bear back from the battle of Novara in 1513, as war booty."
+        "de" : "Der Legende nach erlegte der Stadtgründer, Herzog Berchtold von Zähringen, hier gleich zu Beginn seiner Jagd einen Bären. Nach ihm soll die Stadt heissen.",
+        "en" : "Legend says a duke out hunting brought down a bear before anything else, and named his new town after it."
       },
       "name" : "Bärengraben",
       "pos" : [
         46.948267,
         7.459774
       ],
-      "story" : "Swiss soldiers brought a live bear back from the battle of Novara in 1513, as war booty."
+      "story" : "Legend says a duke out hunting brought down a bear before anything else, and named his new town after it."
     }
   ],
-  "generatedAt" : "2026-09-13T14:37:07Z",
+  "generatedAt" : "2026-09-17T20:59:26Z",
   "icon" : {
     "paths" : [
       "M114.2 145.8L114.5 146.3L114.0 145.7ZM114.9 146.8L114.9 146.8L115.5 147.5ZM121.2 154.8L119.8 153.0L119.3 152.4ZM122.4 156.3L121.3 155.0L122.9 157.0ZM123.5 157.7L123.5 157.7L122.9 157.0ZM128.2 163.8L128.2 163.8L127.6 163.0ZM132.2 168.9L131.2 167.6L132.7 169.5ZM133.6 170.7L133.6 170.7L133.5 170.5ZM136.6 174.5L136.6 174.5L135.8 173.5ZM138.9 177.4L139.6 178.4L138.1 176.4ZM141.2 180.4L141.2 180.4L140.4 179.4ZM145.4 185.7L142.4 181.9L144.5 184.6ZM70.1 148.4L49.6 145.2L54.8 154.0L34.0 154.3L40.3 159.5L23.3 167.7L30.2 172.5L23.2 176.2L18.2 182.4L33.8 193.5L32.9 203.2L36.4 218.8L43.3 241.8L50.8 258.1L58.8 264.1L70.5 266.6L118.8 264.1L110.9 275.4L146.6 270.9L196.1 273.1L198.9 254.1L196.0 250.4L198.9 254.1L200.7 226.8L195.5 191.8L94.2 198.1L91.9 176.8L97.4 165.6L95.8 154.4L82.2 143.7L62.4 139.5ZM81.1 192.2L83.9 176.7L78.4 178.9L75.1 187.9L86.9 243.2L85.3 252.3L78.3 261.9L88.3 256.4L93.4 245.4ZM153.5 196.0L152.5 194.9L154.4 197.3ZM160.3 204.7L159.3 203.5L160.5 205.0ZM162.3 207.3L161.9 206.8L163.3 208.6ZM171.9 219.6L171.4 218.9L172.6 220.4ZM175.4 224.0L174.2 222.5L173.7 221.9ZM177.6 226.9L177.4 226.6L177.8 227.2ZM181.1 231.4L182.3 232.9L179.9 229.8ZM183.5 234.4L182.3 232.9L184.7 236.0ZM185.8 65.6L190.3 76.1L207.1 64.2L202.2 58.8L197.0 57.2L199.5 57.0L195.4 57.3L193.0 57.8L189.2 59.6ZM198.9 254.1L200.0 255.5L201.3 257.2L200.0 255.5ZM28.6 76.0L36.6 84.2L51.2 93.3L110.5 115.7L123.7 124.3L100.7 124.6L89.0 112.7L87.9 124.0L84.5 127.4L87.4 137.9L131.8 149.7L172.6 167.8L186.8 149.2L184.6 164.7L201.9 193.9L207.3 217.9L206.0 242.1L195.6 314.7L200.0 335.8L198.7 336.9L194.7 332.9L190.2 316.3L169.4 296.7L161.4 281.8L153.0 276.7L146.1 276.2L125.7 287.8L132.3 289.7L132.9 292.1L124.8 299.1L119.9 309.5L130.0 308.9L118.6 328.5L118.8 331.5L124.4 329.5L124.5 350.3L133.6 345.1L136.3 356.4L141.8 364.7L148.4 355.6L153.3 354.9L167.4 364.6L204.4 379.2L222.5 382.4L232.9 379.5L239.6 370.5L250.8 344.1L258.1 352.3L266.1 308.8L273.6 317.4L274.6 315.2L286.9 238.2L286.1 227.0L280.8 213.4L287.7 219.7L291.3 235.2L286.8 282.6L328.9 288.1L301.1 300.8L292.7 308.8L287.6 319.4L287.1 325.0L302.6 374.5L304.5 388.3L289.4 379.4L284.0 370.4L273.4 365.3L262.4 368.2L247.9 386.0L255.9 385.2L247.5 402.7L256.5 400.4L247.6 420.7L252.9 418.6L254.4 421.1L252.9 432.0L260.9 430.0L263.2 445.7L266.4 448.2L274.7 440.3L279.6 438.5L300.9 447.8L328.6 455.0L339.8 452.9L349.3 446.6L357.3 431.1L362.9 397.5L371.6 401.9L373.2 373.3L364.1 346.6L370.9 324.9L378.2 315.7L370.9 343.2L372.3 354.6L398.0 399.5L424.6 437.3L441.0 453.1L433.6 452.6L420.0 441.6L396.7 446.5L382.4 440.7L367.2 446.7L360.6 456.1L357.2 473.1L366.6 469.2L364.3 480.4L366.1 489.7L373.7 481.2L373.6 501.4L382.2 493.0L382.0 504.4L386.0 514.7L388.9 514.6L391.2 509.5L394.5 509.4L399.8 518.6L409.7 523.4L406.9 519.8L411.0 523.8L415.6 523.1L411.8 512.6L415.2 503.7L452.5 481.7L478.1 460.9L483.7 450.9L484.3 445.1L478.7 415.1L488.8 416.7L474.8 378.0L484.8 378.8L460.8 301.8L478.1 303.3L457.4 251.2L452.3 242.4L444.5 234.6L399.8 212.9L410.0 207.7L409.9 205.3L361.0 189.3L362.8 186.6L373.9 183.7L372.0 181.6L300.2 152.0L297.6 150.4L292.1 135.7L284.4 128.9L225.1 101.4L221.7 97.9L227.5 81.7L226.6 74.9L218.2 67.9L202.8 71.8L189.5 83.7L177.6 69.2L151.6 55.0L129.5 56.0L78.0 33.0L78.7 43.8L76.1 60.4L83.0 75.9L85.1 87.1L92.1 79.3L95.8 80.2L121.9 96.5L126.5 105.9L129.1 121.8L112.6 105.6L77.9 85.7L60.9 69.8L54.8 59.8L52.5 49.1L58.6 35.0L42.2 30.9L31.6 34.4L25.7 40.2L21.8 50.4L21.8 57.6ZM292.8 395.8L284.9 386.3L284.0 394.3L289.2 400.0L339.7 418.8L346.7 425.9L350.1 434.8L350.3 423.1L342.6 414.0ZM107.2 137.0L107.0 136.7L107.1 136.8ZM107.6 137.4L107.5 137.4L107.4 137.2ZM109.0 139.3L109.0 139.3L109.1 139.4ZM109.9 140.4L110.0 140.6L109.5 139.9ZM208.1 265.9L206.7 264.1L209.5 267.6ZM215.2 274.9L221.0 282.3L218.0 278.6ZM222.4 284.2L221.0 282.3L223.0 284.9ZM231.5 295.7L230.0 293.8L233.0 297.7ZM244.1 311.8L237.7 303.7L240.9 307.7ZM247.4 316.0L247.2 315.8L247.5 316.2ZM250.6 320.2L249.8 319.1L252.3 322.3ZM259.0 330.9L260.7 333.1L255.6 326.6ZM306.4 391.4L305.1 389.8L307.4 392.7ZM345.1 440.8L343.9 439.3L349.4 446.3ZM371.3 474.3L370.1 472.8L372.5 475.8ZM378.0 482.9L376.6 481.1L380.3 485.8ZM389.5 497.6L387.2 494.6L390.8 499.2ZM274.7 350.9L272.9 348.6L271.9 347.3L272.9 348.6ZM278.3 355.5L276.5 353.2L274.7 350.9L276.5 353.2ZM298.7 381.6L300.6 384.0L296.8 379.1ZM494.0 444.5L493.9 445.5L494.1 444.2ZM492.8 446.4L492.4 447.5L493.0 446.7ZM353.7 451.8L351.5 449.0L349.5 446.4L351.5 449.0ZM359.1 458.7L358.0 457.4L355.8 454.6L358.0 457.4ZM409.7 523.4L410.7 524.7L413.1 527.8ZM418.0 534.0L415.6 530.9L413.1 527.8L415.6 530.9Z"
@@ -17430,7 +17429,7 @@
     "en" : "Bern"
   },
   "name" : "Bern",
-  "packVersion" : 9,
+  "packVersion" : 11,
   "schemaVersion" : 1,
   "source" : "OpenStreetMap via Overpass API",
   "stats" : {

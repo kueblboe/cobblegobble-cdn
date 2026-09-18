@@ -139,11 +139,9 @@
 
     ],
     "adjustedStreets" : [
-      "Arnulfsplatz",
-      "D.-Martin-Luther-Straße",
-      "Domplatz"
+
     ],
-    "fromVersion" : 21,
+    "fromVersion" : 23,
     "removedStreets" : [
 
     ]
@@ -7565,6 +7563,42 @@
         49.017235,
         12.097704
       ]
+    ],
+    [
+      [
+        49.015714,
+        12.091315
+      ],
+      [
+        49.015649,
+        12.090836
+      ],
+      [
+        49.01562,
+        12.09064
+      ],
+      [
+        49.015568,
+        12.090426
+      ]
+    ],
+    [
+      [
+        49.017477,
+        12.091887
+      ],
+      [
+        49.017439,
+        12.091881
+      ],
+      [
+        49.017287,
+        12.091852
+      ],
+      [
+        49.017195,
+        12.09183
+      ]
     ]
   ],
   "connectorsLayered" : [
@@ -7983,251 +8017,253 @@
     false,
     false,
     false,
+    false,
+    false,
     false
   ],
   "fruits" : [
     {
-      "extendedStory" : "This was the north gate of a Roman camp called Castra Regina. It went up under the emperor Marcus Aurelius, on the south bank of the Danube. The Third Italian Legion was stationed here, sent in answer to the Marcomannic Wars. Of all the Roman gates once built north of the Alps, this is the only one still standing.",
+      "extendedStory" : "In 1649 a new wing for the bishop's court swallowed it whole. Today it counts as the only surviving Roman gate north of the Alps. It dates from 179, under the emperor Marcus Aurelius, when the Castra Regina legionary camp rose on the Danube's south bank. The Third Italian Legion was stationed here because of the Marcomannic Wars.",
       "icon" : "choice",
       "id" : "f-porta-praetoria",
       "kind" : "attraction",
       "localizedExtendedStory" : {
-        "de" : "Dies war das Nordtor eines römischen Lagers namens Castra Regina. Es entstand unter Kaiser Marcus Aurelius, am Südufer der Donau. Hier lag die Dritte Italische Legion, hergeschickt wegen der Markomannenkriege. Von allen römischen Toren nördlich der Alpen steht heute nur noch dieses.",
-        "en" : "This was the north gate of a Roman camp called Castra Regina. It went up under the emperor Marcus Aurelius, on the south bank of the Danube. The Third Italian Legion was stationed here, sent in answer to the Marcomannic Wars. Of all the Roman gates once built north of the Alps, this is the only one still standing."
+        "de" : "1649 verschluckte ein neuer Anbau am Bischofshof das ganze Tor. Heute gilt es als das einzige erhaltene Römertor nördlich der Alpen. Es stammt aus dem Jahr 179, aus der Zeit von Kaiser Mark Aurel. Damals entstand am Südufer der Donau das Legionslager Castra Regina. Hier lag die Dritte Italische Legion, wegen der Markomannenkriege.",
+        "en" : "In 1649 a new wing for the bishop's court swallowed it whole. Today it counts as the only surviving Roman gate north of the Alps. It dates from 179, under the emperor Marcus Aurelius, when the Castra Regina legionary camp rose on the Danube's south bank. The Third Italian Legion was stationed here because of the Marcomannic Wars."
       },
       "localizedStory" : {
-        "de" : "Geh unter der Porta praetoria hindurch: Dieses Steintor bauten die Römer schon im Jahr 179. Über achtzehn Jahrhunderte alt.",
-        "en" : "Duck under the Porta praetoria. A stone gate Roman builders raised in the year 179, still standing more than eighteen centuries later."
+        "de" : "Über zwei Jahrhunderte steckte dieses römische Tor in einem späteren Bau. Erst als ein Nachbarhaus abgerissen wurde, kam es wieder zum Vorschein.",
+        "en" : "For over two centuries this Roman gate hid inside a later building. Nobody saw it again until a neighbouring house came down."
       },
       "name" : "Porta praetoria",
       "pos" : [
         49.020132,
         12.098584
       ],
-      "story" : "Duck under the Porta praetoria. A stone gate Roman builders raised in the year 179, still standing more than eighteen centuries later."
+      "story" : "For over two centuries this Roman gate hid inside a later building. Nobody saw it again until a neighbouring house came down."
     },
     {
-      "extendedStory" : "The kitchen has stood over 500 years beside the Steinerne Brücke, right at the Donaustrudel. Stonemasons ate here in the Middle Ages, and so did the men who worked the river boats. They wanted the same thing you can smell now. The same smell has drifted along this lane for centuries.",
+      "extendedStory" : "It leaned against the town wall while the bridge was being built. When the builders moved out, it became a cook-shop. Its early customers were the people who worked nearby: stonemasons and dock workers, eating here in the Middle Ages. It has stood beside the bridge for over 500 years. The Danube still swirls just beside it.",
       "icon" : "choice",
       "id" : "f-historische-wurstkuchl",
       "kind" : "food_landmark",
       "localizedExtendedStory" : {
-        "de" : "Die Küche steht seit über 500 Jahren neben der Steinernen Brücke, direkt am Donaustrudel. Schon im Mittelalter aßen hier Steinmetze und die Männer, die am Hafen arbeiteten. Sie wollten genau dasselbe, was du jetzt hier riechst. Derselbe Duft zieht seit Jahrhunderten durch diese Gasse.",
-        "en" : "The kitchen has stood over 500 years beside the Steinerne Brücke, right at the Donaustrudel. Stonemasons ate here in the Middle Ages, and so did the men who worked the river boats. They wanted the same thing you can smell now. The same smell has drifted along this lane for centuries."
+        "de" : "Es lehnte an der Stadtmauer, solange die Brücke gebaut wurde. Als das Baubüro auszog, wurde daraus eine Garküche. Zu den Gästen gehörten die Leute, die ringsum arbeiteten: Steinmetze und Hafenarbeiter, schon im Mittelalter. Seit über 500 Jahren steht die Küche neben der Steinernen Brücke. Gleich daneben strudelt bis heute die Donau.",
+        "en" : "It leaned against the town wall while the bridge was being built. When the builders moved out, it became a cook-shop. Its early customers were the people who worked nearby: stonemasons and dock workers, eating here in the Middle Ages. It has stood beside the bridge for over 500 years. The Danube still swirls just beside it."
       },
       "localizedStory" : {
-        "de" : "Folg deiner Nase zur Weiße-Lamm-Gasse. In einer winzigen Küche brutzeln dort die Würste über dem Feuer.",
-        "en" : "The Historische Wurstkuchl is a tiny 'sausage kitchen'. Follow your nose to Weiße-Lamm-Gasse and watch the sausages sizzle on the grill."
+        "de" : "Bevor hier gekocht wurde, war das kleine Gebäude das Baubüro für die Steinerne Brücke nebenan.",
+        "en" : "Before it cooked a single meal, this little building was the site office for the Stone Bridge next door."
       },
       "name" : "Historische Wurstkuchl",
       "pos" : [
         49.020915,
         12.097549
       ],
-      "story" : "The Historische Wurstkuchl is a tiny 'sausage kitchen'. Follow your nose to Weiße-Lamm-Gasse and watch the sausages sizzle on the grill."
+      "story" : "Before it cooked a single meal, this little building was the site office for the Stone Bridge next door."
     },
     {
-      "extendedStory" : "Work on the cathedral started in 1275, and the building was not counted as finished until 1520. It is Gothic, so the windows rise in points and the stone is cut fine as lace. Much later Franz Joseph Denzinger took the work in hand and carried it on. The church is named for Saint Peter.",
+      "extendedStory" : "One wears a monk's hood, and his body ends in a dragon's tail. The other looks like a dragon with shaggy, combed-back hair. High above, look for another odd name. The north-east tower is the Eselsturm, the donkey tower, left from an older cathedral. It never held donkeys. Esel meant a hoist, and the tower still carries building materials up today.",
       "icon" : "hero",
       "id" : "f-dom-sankt-peter",
       "kind" : "church",
       "localizedExtendedStory" : {
-        "de" : "Vom Baubeginn bis zur Vollendung vergingen Jahrhunderte, von 1275 bis 1520. Die Gotik erkennst du an den spitzen Fenstern und am Stein, der fein wie Spitze gearbeitet ist. Franz Joseph Denzinger nahm die Arbeit viel später wieder auf und führte sie zu Ende. Der Dom trägt den Namen des heiligen Petrus.",
-        "en" : "Work on the cathedral started in 1275, and the building was not counted as finished until 1520. It is Gothic, so the windows rise in points and the stone is cut fine as lace. Much later Franz Joseph Denzinger took the work in hand and carried it on. The church is named for Saint Peter."
+        "de" : "Einer trägt eine Mönchskappe, und sein Leib endet in einem Drachenschwanz. Der andere sieht aus wie ein Drache mit struppigem, nach hinten gekämmtem Haar. Weiter oben wartet noch ein seltsamer Name. Der Nordostturm heißt Eselsturm und stammt vom älteren romanischen Dom. Esel trugen dort nie etwas. Esel hieß ein Lastenaufzug, und bis heute bringt der Turm Baumaterial nach oben.",
+        "en" : "One wears a monk's hood, and his body ends in a dragon's tail. The other looks like a dragon with shaggy, combed-back hair. High above, look for another odd name. The north-east tower is the Eselsturm, the donkey tower, left from an older cathedral. It never held donkeys. Esel meant a hoist, and the tower still carries building materials up today."
       },
       "localizedStory" : {
-        "de" : "Auf dem Domplatz lohnt der Blick nach oben. Die beiden Turmspitzen des Doms erreichen 105 Meter. Feiner Stein bis hinauf in die Wolken.",
-        "en" : "Stand on Domplatz and look up. The cathedral's twin spires climb 105 m into the sky, stone lace against the clouds."
+        "de" : "Gleich innen am Westportal lauern zwei Steinfiguren in ihren Nischen. Der Sage nach sind es der Teufel und seine Großmutter.",
+        "en" : "Just inside the west portal, two stone figures lurk in their niches. The story goes they are the devil and his grandmother."
       },
       "name" : "Dom Sankt Peter",
       "pos" : [
         49.019584,
         12.097739
       ],
-      "story" : "Stand on Domplatz and look up. The cathedral's twin spires climb 105 m into the sky, stone lace against the clouds."
+      "story" : "Just inside the west portal, two stone figures lurk in their niches. The story goes they are the devil and his grandmother."
     },
     {
-      "extendedStory" : "Before it was a palace it was an abbey. The Imperial Abbey of Sankt Emmeram stood here, one of the largest Benedictine monasteries in Germany. The princely house of Thurn und Taxis took it over and made it their home. Jean-Baptiste Métivier shaped much of what you see today. It holds well over 500 rooms, which makes it the largest privately inhabited castle.",
+      "extendedStory" : "Before it was a castle, it was the Imperial Abbey of St. Emmeram, one of the great Benedictine monasteries of Germany. Monks once walked these halls. Later the princely house of Thurn und Taxis made the old abbey its home, and the castle carries their name. The architect Jean-Baptiste Métivier worked on it too. So a monastery full of monks became the home of one family.",
       "icon" : "choice",
       "id" : "f-schloss-st-emmeram",
       "kind" : "fortress",
       "localizedExtendedStory" : {
-        "de" : "Bevor es ein Schloss war, war es eine Abtei. Hier stand die Reichsabtei Sankt Emmeram, eines der größten Benediktinerklöster Deutschlands. Das Fürstenhaus Thurn und Taxis übernahm sie und machte sie zu seinem Zuhause. Jean-Baptiste Métivier prägte vieles von dem, was du heute siehst. Es hat weit über 500 Zimmer und ist damit das größte privat bewohnte Schloss.",
-        "en" : "Before it was a palace it was an abbey. The Imperial Abbey of Sankt Emmeram stood here, one of the largest Benedictine monasteries in Germany. The princely house of Thurn und Taxis took it over and made it their home. Jean-Baptiste Métivier shaped much of what you see today. It holds well over 500 rooms, which makes it the largest privately inhabited castle."
+        "de" : "Bevor es ein Schloss war, war es die Reichsabtei St. Emmeram, eines der großen Benediktinerklöster Deutschlands. Einst gingen hier Mönche durch die Gänge. Später machte das Fürstenhaus Thurn und Taxis die alte Abtei zu seinem Zuhause, und das Schloss trägt seinen Namen. Auch der Architekt Jean Baptiste Métivier hat daran gebaut. Aus einem Kloster voller Mönche wurde so das Heim einer Familie.",
+        "en" : "Before it was a castle, it was the Imperial Abbey of St. Emmeram, one of the great Benedictine monasteries of Germany. Monks once walked these halls. Later the princely house of Thurn und Taxis made the old abbey its home, and the castle carries their name. The architect Jean-Baptiste Métivier worked on it too. So a monastery full of monks became the home of one family."
       },
       "localizedStory" : {
-        "de" : "Tritt in den Schlosshof ein, den Innenhof von Schloss St. Emmeram: Hier umgibt dich ein echtes Schloss von allen Seiten.",
-        "en" : "Step into the Schlosshof, the courtyard of Schloss St. Emmeram. A real palace wraps around you on every side."
+        "de" : "Weit über 500 Zimmer, und hier wird noch gewohnt. Damit ist es das größte privat bewohnte Schloss.",
+        "en" : "Well over 500 rooms, and people still live in them. That makes this the largest privately inhabited castle."
       },
       "name" : "Schloss St. Emmeram",
       "pos" : [
         49.014629,
         12.09315
       ],
-      "story" : "Step into the Schlosshof, the courtyard of Schloss St. Emmeram. A real palace wraps around you on every side."
+      "story" : "Well over 500 rooms, and people still live in them. That makes this the largest privately inhabited castle."
     },
     {
-      "extendedStory" : "This was one of six gate towers that once guarded the old city wall. Five storeys of Gothic stone rise straight above the road. Look at the wall beside the arch and find the long slots cut into the stone. A portcullis once dropped down those slots on chains, let go from the floor above.",
+      "extendedStory" : "Look at the walls of the archway for tall slots. A portcullis, a heavy iron grille, could be let down them on chains from the floor above. The tower rises five storeys, and it was one of six gate towers in the old city walls. So the same arch that once shut the town tight later let a tram roll through.",
       "icon" : "everyday",
       "id" : "f-ostentor",
       "kind" : "gate_tower",
       "localizedExtendedStory" : {
-        "de" : "Sechs solcher Tortürme schützten früher die Stadtmauer, dieser ist einer davon. Fünf Geschosse gotischer Stein ragen hier über die Straße. Schau an der Mauer neben dem Bogen und such die langen Schlitze darin. An Ketten wurde dort früher ein Gitter heruntergelassen, von oben aus dem Turm.",
-        "en" : "This was one of six gate towers that once guarded the old city wall. Five storeys of Gothic stone rise straight above the road. Look at the wall beside the arch and find the long slots cut into the stone. A portcullis once dropped down those slots on chains, let go from the floor above."
+        "de" : "Schau dir die Wände der Durchfahrt an: Dort sitzen hohe Schlitze. In ihnen ließ man von oben ein schweres Gitter herunter, das Fallgatter, an Ketten. Fünf Stockwerke hoch ist der Turm, und sechs solche Tortürme gab es einst rund um die alte Stadt. Derselbe Bogen, der die Stadt einst verschloss, ließ später die Straßenbahn passieren.",
+        "en" : "Look at the walls of the archway for tall slots. A portcullis, a heavy iron grille, could be let down them on chains from the floor above. The tower rises five storeys, and it was one of six gate towers in the old city walls. So the same arch that once shut the town tight later let a tram roll through."
       },
       "localizedStory" : {
-        "de" : "Geh durch das Ostentor, Regensburgs altes Osttor: Seine Türme bewachen diesen Weg schon seit 1284. Über sieben Jahrhunderte lang.",
-        "en" : "Walk through the Ostentor, Regensburg's old east gate. Its towers have watched this road since 1284, more than seven centuries."
+        "de" : "Vierzig Jahre lang fuhr die Straßenbahnlinie 3 mitten durch dieses mittelalterliche Tor bis zur Endstation.",
+        "en" : "For forty years, tram line 3 ran straight through this medieval gate on its way to the end of the line."
       },
       "name" : "Ostentor",
       "pos" : [
         49.018175,
         12.107732
       ],
-      "story" : "Walk through the Ostentor, Regensburg's old east gate. Its towers have watched this road since 1284, more than seven centuries."
+      "story" : "For forty years, tram line 3 ran straight through this medieval gate on its way to the end of the line."
     },
     {
-      "extendedStory" : "An iron bridge stood here from 1863. It was destroyed in April 1945, and the crossing fell back on wood. That makeshift bridge carried people from 1946 all the way to 1991. The bridge under your feet was built between 1988 and 1991, to a design by Auer and Weber. It runs 82 metres long and 16 metres wide.",
+      "extendedStory" : "The bridge that stood here before was destroyed at the end of the war. A makeshift wooden bridge took over the year after, and it stayed until 1991. Today's crossing was designed by Auer & Weber and is 82 metres long. Where the Hengstenberg nickname comes from, ask an older local. They are the ones who still use it.",
       "icon" : "everyday",
       "id" : "f-eiserne-brucke",
       "kind" : "bridge",
       "localizedExtendedStory" : {
-        "de" : "Eine eiserne Brücke stand hier ab 1863. Im April 1945 wurde sie zerstört, und der Übergang behalf sich mit Holz. Diese Behelfsbrücke trug die Leute von 1946 bis 1991. Die Brücke unter deinen Füßen entstand zwischen 1988 und 1991, nach einem Entwurf von Auer und Weber. Sie misst 82 Meter in der Länge und 16 in der Breite.",
-        "en" : "An iron bridge stood here from 1863. It was destroyed in April 1945, and the crossing fell back on wood. That makeshift bridge carried people from 1946 all the way to 1991. The bridge under your feet was built between 1988 and 1991, to a design by Auer and Weber. It runs 82 metres long and 16 metres wide."
+        "de" : "Die Brücke, die vorher hier stand, wurde am Ende des Krieges zerstört. Schon im Jahr darauf übernahm eine hölzerne Behelfsbrücke, und sie hielt bis 1991. Die heutige Brücke entwarfen Auer & Weber, sie ist 82 Meter lang. Woher der Spitzname Hengstenberg kommt, fragst du am besten einen älteren Regensburger. Die benutzen ihn noch.",
+        "en" : "The bridge that stood here before was destroyed at the end of the war. A makeshift wooden bridge took over the year after, and it stayed until 1991. Today's crossing was designed by Auer & Weber and is 82 metres long. Where the Hengstenberg nickname comes from, ask an older local. They are the ones who still use it."
       },
       "localizedStory" : {
-        "de" : "Geh über die Eiserne Brücke: Metall unter den Füßen, das seit 1991 die beiden Flussufer zusammenhält.",
-        "en" : "Cross the Eiserne Brücke. Its name means 'iron bridge', and metal has linked the two banks here since 1991."
+        "de" : "Ihr Spitzname bei älteren Regensburgern: Hengstenberg Brücke. Fast ein halbes Jahrhundert lang trug hier eine hölzerne Behelfsbrücke die Leute über das Wasser.",
+        "en" : "Among older Regensburgers, its nickname is the Hengstenberg bridge. For nearly half a century, a wooden stand-in did its job."
       },
       "name" : "Eiserne Brücke",
       "pos" : [
         49.020739,
         12.101897
       ],
-      "story" : "Cross the Eiserne Brücke. Its name means 'iron bridge', and metal has linked the two banks here since 1991."
+      "story" : "Among older Regensburgers, its nickname is the Hengstenberg bridge. For nearly half a century, a wooden stand-in did its job."
     },
     {
-      "extendedStory" : "The museum lives in the old friary of St. Salvator. Minorite brothers once had their cloister here. The collection was founded in 1931, but nobody could visit until 1949. Walter Boll opened the doors that year. One treasure is a model of the town as it stood around 1700. It was made in 1930, at a scale of 1 to 4000.",
+      "extendedStory" : "At a scale of 1:4000, a house shrinks smaller than a grain of rice. The museum itself lives in the old Minorite friary of St. Salvator, once a quiet house of monks. It was founded long before it opened. Almost two decades went by before its director, Walter Boll, let visitors in.",
       "icon" : "everyday",
       "id" : "f-historisches-museum",
       "kind" : "museum",
       "localizedExtendedStory" : {
-        "de" : "Das Museum wohnt im alten Kloster St. Salvator. Hier hatten einst Minoriten ihren Kreuzgang. Gegründet wurde die Sammlung 1931, doch besuchen konnte man sie ab 1949. In jenem Jahr öffnete Walter Boll die Türen. Ein Schatz ist ein Modell der Stadt, wie sie um 1700 dastand. Es entstand 1930 im Maßstab 1 zu 4000.",
-        "en" : "The museum lives in the old friary of St. Salvator. Minorite brothers once had their cloister here. The collection was founded in 1931, but nobody could visit until 1949. Walter Boll opened the doors that year. One treasure is a model of the town as it stood around 1700. It was made in 1930, at a scale of 1 to 4000."
+        "de" : "Das Modell hat den Maßstab 1:4000, ein Haus wird darin kleiner als ein Reiskorn. Untergebracht ist das Museum im früheren Kloster der Minoriten, St. Salvator, einst ein Haus von Mönchen. Gegründet wurde es lange vor seiner Eröffnung. Achtzehn Jahre vergingen, bis Walter Boll als Direktor die Besucher hereinließ.",
+        "en" : "At a scale of 1:4000, a house shrinks smaller than a grain of rice. The museum itself lives in the old Minorite friary of St. Salvator, once a quiet house of monks. It was founded long before it opened. Almost two decades went by before its director, Walter Boll, let visitors in."
       },
       "localizedStory" : {
-        "de" : "Das Historische Museum füllt ein ehemaliges Kloster am Dachauplatz. Drinnen zeigt ein Modell Regensburg, wie es um 1700 aussah.",
-        "en" : "The Historisches Museum fills a former friary on Dachauplatz. Inside, a model shows Regensburg as it looked around 1700."
+        "de" : "Drinnen wartet die ganze Stadt im Kleinen: ein Modell von Regensburg, wie es vor über drei Jahrhunderten aussah.",
+        "en" : "Inside waits the whole town in miniature: a model of Regensburg as it looked over three centuries ago."
       },
       "name" : "Historisches Museum",
       "pos" : [
         49.01773,
         12.101921
       ],
-      "story" : "The Historisches Museum fills a former friary on Dachauplatz. Inside, a model shows Regensburg as it looked around 1700."
+      "story" : "Inside waits the whole town in miniature: a model of Regensburg as it looked over three centuries ago."
     },
     {
-      "extendedStory" : "A convent of Benedictine nuns stood on this ground from 983. Wolfgang, the bishop of Regensburg, founded it. In 1588 Pope Sixtus V dissolved the house. Its buildings passed to the Jesuits, who ran a college in them. What remains is the name over the square, long after both the nuns and the Jesuits were gone.",
+      "extendedStory" : "By then the convent was very old. Benedictine nuns had lived here for about six centuries, since Bishop Wolfgang of Regensburg founded their house in 983. In 1588 the pope dissolved it, and its buildings became a Jesuit college, a school run by priests. The name stayed. So the Jesuits you hear in it were just the later tenants of a very old address.",
       "icon" : "everyday",
       "id" : "f-jesuitenplatz",
       "kind" : "square",
       "localizedExtendedStory" : {
-        "de" : "Auf diesem Boden stand ab 983 ein Kloster von Benediktinerinnen. Wolfgang, der Bischof von Regensburg, gründete es. 1588 hob Papst Sixtus V. das Stift auf. Seine Gebäude gingen an die Jesuiten, die darin ein Kolleg führten. Geblieben ist der Name über dem Platz, lange nachdem beide fort waren.",
-        "en" : "A convent of Benedictine nuns stood on this ground from 983. Wolfgang, the bishop of Regensburg, founded it. In 1588 Pope Sixtus V dissolved the house. Its buildings passed to the Jesuits, who ran a college in them. What remains is the name over the square, long after both the nuns and the Jesuits were gone."
+        "de" : "Damals war das Stift schon sehr alt. Benediktinerinnen hatten hier rund sechs Jahrhunderte gelebt, seit Bischof Wolfgang von Regensburg ihr Kloster 983 gründete. 1588 hob der Papst es auf, und seine Gebäude wurden ein Jesuitenkolleg, eine Schule unter der Leitung von Priestern. Der Name blieb. Die Jesuiten darin sind also nur die späteren Bewohner einer sehr alten Adresse.",
+        "en" : "By then the convent was very old. Benedictine nuns had lived here for about six centuries, since Bishop Wolfgang of Regensburg founded their house in 983. In 1588 the pope dissolved it, and its buildings became a Jesuit college, a school run by priests. The name stayed. So the Jesuits you hear in it were just the later tenants of a very old address."
       },
       "localizedStory" : {
-        "de" : "Jesuitenplatz. Ein Platz, benannt nach den Jesuiten, der sich Am Mittelmünster öffnet. Bleib kurz stehen und schau dich um.",
-        "en" : "Jesuitenplatz. A square named for the Jesuits, opening off Am Mittelmünster. Stand a moment and look around."
+        "de" : "Papst Sixtus V. löste das Stift auf, das hier stand, und die Jesuiten zogen ein. Daher trägt dieser Ort ihren Namen.",
+        "en" : "A pope named Sixtus V closed the convent that stood here, and the Jesuits moved in. That is where this place gets its name."
       },
       "name" : "Jesuitenplatz",
       "pos" : [
         49.015938,
         12.097286
       ],
-      "story" : "Jesuitenplatz. A square named for the Jesuits, opening off Am Mittelmünster. Stand a moment and look around."
+      "story" : "A pope named Sixtus V closed the convent that stood here, and the Jesuits moved in. That is where this place gets its name."
     },
     {
-      "extendedStory" : "The tower goes back to the middle of the 13th century. Rich families then built their houses like small castles. It stands 55 metres high. In the hall upstairs the Perpetual Imperial Diet sat from 1663 to 1806. Envoys from across the empire came here to talk, year after year, for generations. The Gothic wooden ceiling above them is still in place.",
+      "extendedStory" : "That oriel is a little room jutting out from the outer wall. For well over a century, the Perpetual Imperial Diet, the empire's great assembly, met in the hall here. Its Gothic wooden ceiling is still in place. The tower is even older. It rises 55 metres and goes back to the days when rich families built their homes like small castles.",
       "icon" : "choice",
       "id" : "f-altes-rathaus",
       "kind" : "civic",
       "localizedExtendedStory" : {
-        "de" : "Der Turm reicht bis in die Mitte des 13. Jahrhunderts zurück. Reiche Familien bauten ihre Häuser damals wie kleine Burgen. Er ist 55 Meter hoch. Im Saal darüber tagte von 1663 bis 1806 der Immerwährende Reichstag. Gesandte aus dem ganzen Reich kamen her, Jahr für Jahr, über Generationen. Die gotische Holzdecke über ihnen ist bis heute erhalten.",
-        "en" : "The tower goes back to the middle of the 13th century. Rich families then built their houses like small castles. It stands 55 metres high. In the hall upstairs the Perpetual Imperial Diet sat from 1663 to 1806. Envoys from across the empire came here to talk, year after year, for generations. The Gothic wooden ceiling above them is still in place."
+        "de" : "Ein Erker ist ein kleiner Raum, der aus der Mauer vorspringt. Über hundertvierzig Jahre lang tagte im Saal hier der Immerwährende Reichstag, die große Versammlung des Reiches. Seine gotische Holzdecke ist bis heute erhalten. Der Turm ist noch älter. Er ist 55 Meter hoch und stammt aus der Zeit, als reiche Familien ihre Häuser wie kleine Burgen bauten.",
+        "en" : "That oriel is a little room jutting out from the outer wall. For well over a century, the Perpetual Imperial Diet, the empire's great assembly, met in the hall here. Its Gothic wooden ceiling is still in place. The tower is even older. It rises 55 metres and goes back to the days when rich families built their homes like small castles."
       },
       "localizedStory" : {
-        "de" : "Neptunhof. Steig hinauf zum Alten Rathaus, wo einst der Immerwährende Reichstag tagte, das lange Parlament des Reichs.",
-        "en" : "Neptunhof. Step up to the Altes Rathaus, the old town hall where the Perpetual Imperial Diet, the empire's long parliament, once met."
+        "de" : "Der Sage nach flogen Münzen aus dem Reichstagserker, wann immer der Kaiser hier war. Die Redensart vom hinausgeworfenen Geld soll daran erinnern.",
+        "en" : "People say throwing money out of the window began here: whenever the emperor stayed, coins were tossed from the Reichstag oriel."
       },
       "name" : "Altes Rathaus",
       "pos" : [
         49.020357,
         12.094563
       ],
-      "story" : "Neptunhof. Step up to the Altes Rathaus, the old town hall where the Perpetual Imperial Diet, the empire's long parliament, once met."
+      "story" : "People say throwing money out of the window began here: whenever the emperor stayed, coins were tossed from the Reichstag oriel."
     },
     {
-      "extendedStory" : "Georg Friedrich Ritter von Müller bought this ground in 1804 and laid out a private garden. It stayed private for a long time. The city bought it in 1935, and between 1950 and 1952 the garden was remade for everyone. At about 1.5 hectares it is one of the smaller parks here, with the Württembergisches Palais along its south side.",
+      "extendedStory" : "His name was Georg Friedrich Ritter von Müller, and he bought the land in 1804. The city bought the grounds much later. About a century and a half after his purchase, the garden was remade as a public park. It covers about a hectare and a half, which makes it one of the smaller parks in town. Along its south side stands the Württembergisches Palais, now home to the Naturkundemuseum Ostbayern.",
       "icon" : "everyday",
       "id" : "f-herzogspark",
       "kind" : "park_garden",
       "localizedExtendedStory" : {
-        "de" : "Georg Friedrich Ritter von Müller kaufte dieses Gelände 1804 und legte einen privaten Garten an. Lange blieb er privat. 1935 kaufte die Stadt das Gelände, und von 1950 bis 1952 wurde der Garten für alle umgestaltet. Mit rund 1,5 Hektar zählt er zu den kleineren Parks, an seiner Südseite steht das Württembergische Palais.",
-        "en" : "Georg Friedrich Ritter von Müller bought this ground in 1804 and laid out a private garden. It stayed private for a long time. The city bought it in 1935, and between 1950 and 1952 the garden was remade for everyone. At about 1.5 hectares it is one of the smaller parks here, with the Württembergisches Palais along its south side."
+        "de" : "Er hieß Georg Friedrich Ritter von Müller und kaufte das Land 1804. Viel später erwarb die Stadt das Gelände, und rund anderthalb Jahrhunderte nach seinem Kauf wurde der Garten zum öffentlichen Park. Mit etwa anderthalb Hektar zählt er zu den kleineren Parks der Stadt. An seiner Südseite steht das Württembergische Palais, in dem heute das Naturkundemuseum Ostbayern untergebracht ist.",
+        "en" : "His name was Georg Friedrich Ritter von Müller, and he bought the land in 1804. The city bought the grounds much later. About a century and a half after his purchase, the garden was remade as a public park. It covers about a hectare and a half, which makes it one of the smaller parks in town. Along its south side stands the Württembergisches Palais, now home to the Naturkundemuseum Ostbayern."
       },
       "localizedStory" : {
-        "de" : "Herzogspark heißt 'Herzogs Park'. Grüne Wege zum Schlendern und eine ruhige Ecke von Regensburg zum Durchatmen.",
-        "en" : "Herzogspark means 'duke's park'. Green paths to wander and a quiet corner of Regensburg to catch your breath."
+        "de" : "Ein Geheimer Rat der Fürsten von Thurn und Taxis kaufte dieses Gelände für seinen privaten Garten. Heute darf jeder hinein.",
+        "en" : "A privy councillor of the princes of Thurn und Taxis bought this ground for his own private garden. Today anyone can walk in."
       },
       "name" : "Herzogspark",
       "pos" : [
         49.022763,
         12.081505
       ],
-      "story" : "Herzogspark means 'duke's park'. Green paths to wander and a quiet corner of Regensburg to catch your breath."
+      "story" : "A privy councillor of the princes of Thurn und Taxis bought this ground for his own private garden. Today anyone can walk in."
     },
     {
-      "extendedStory" : "Building started in 1627, to a design by Hans Johann Carl, and the church is named for the Holy Trinity. Its tower is open, and 157 steps wind up to the platform. From up there the roofs of the old town spread out below you. Nobody is paid to run it. A team of volunteers takes turns at the top and keeps the climb open through the season.",
+      "extendedStory" : "The council ordered them from the sculptor Leonhard Kern. Four of them, Faith, Justice, Prudence and Hope, now stand in the town hall courtyard. The fifth was destroyed. Hans Carl designed the church, and it rose in just four years. Climbers get a reward: 157 steps lead to the town's best-loved rooftop view, kept open through the season by volunteer tower wardens.",
       "icon" : "everyday",
       "id" : "f-dreieinigkeitskirche",
       "kind" : "church",
       "localizedExtendedStory" : {
-        "de" : "Der Bau begann 1627 nach einem Entwurf von Hans Johann Carl, und die Kirche trägt den Namen der Heiligen Dreieinigkeit. Ihr Turm ist offen, 157 Stufen winden sich hinauf zur Plattform. Von dort oben breiten sich die Dächer der Altstadt unter dir aus. Bezahlt wird dafür niemand. Ein Team von Ehrenamtlichen wechselt sich oben ab und hält den Aufstieg über die Saison offen.",
-        "en" : "Building started in 1627, to a design by Hans Johann Carl, and the church is named for the Holy Trinity. Its tower is open, and 157 steps wind up to the platform. From up there the roofs of the old town spread out below you. Nobody is paid to run it. A team of volunteers takes turns at the top and keeps the climb open through the season."
+        "de" : "Der Rat bestellte sie beim Bildhauer Leonhard Kern. Vier davon, Glaube, Gerechtigkeit, Klugheit und Hoffnung, stehen heute im Rathaushof. Die fünfte wurde zerstört. Hanns Carl entwarf die Kirche, und in nur vier Jahren stand sie. Wer steigen mag: 157 Stufen führen zum beliebtesten Dächerblick der Stadt, und ehrenamtliche Turmaufseher halten den Aufstieg über die Saison offen.",
+        "en" : "The council ordered them from the sculptor Leonhard Kern. Four of them, Faith, Justice, Prudence and Hope, now stand in the town hall courtyard. The fifth was destroyed. Hans Carl designed the church, and it rose in just four years. Climbers get a reward: 157 steps lead to the town's best-loved rooftop view, kept open through the season by volunteer tower wardens."
       },
       "localizedStory" : {
-        "de" : "Der Turm hier hat 157 Stufen, und ehrenamtliche Turmaufseher halten den Aufstieg über die Saison offen.",
-        "en" : "The tower here has 157 steps, and a team of volunteers keeps the climb open through the season."
+        "de" : "Für die Portale dieser Kirche wurden sechs Statuen bestellt, aufgestellt wurde dort keine. Von der sechsten fehlt jede Spur.",
+        "en" : "Six statues were ordered for this church's doors, and none was ever put in place. Of the sixth, there is no trace at all."
       },
       "name" : "Dreieinigkeitskirche",
       "pos" : [
         49.018525,
         12.091732
       ],
-      "story" : "The tower here has 157 steps, and a team of volunteers keeps the climb open through the season."
+      "story" : "Six statues were ordered for this church's doors, and none was ever put in place. Of the sixth, there is no trace at all."
     },
     {
-      "extendedStory" : "Carl Schad drew this church, and his day job was chief building officer to the house of Thurn und Taxis. The foundation stone went down in July 1929. Bishop Michael Buchberger consecrated the finished church in November 1930. Look at its shape: a strict cube under a saddle roof, built in a late-Expressionist style.",
+      "extendedStory" : "Its foundation stone went down in July 1929. Bishop Michael Buchberger consecrated the finished church in November 1930, not much more than a year later. Carl Schad drew it in a late Expressionist style. That meant bold, simple shapes instead of carved stone lace. It is a basilica, with a tall central nave and lower aisles on either side.",
       "icon" : "everyday",
       "id" : "f-herz-jesu",
       "kind" : "church",
       "localizedExtendedStory" : {
-        "de" : "Carl Schad entwarf diese Kirche, im Hauptberuf war er Thurn und Taxischer Oberbaurat. Im Juli 1929 wurde der Grundstein gelegt. Im November 1930 weihte Bischof Michael Buchberger den fertigen Bau. Achte auf die Form: ein strenger Kubus unter einem Satteldach, spätexpressionistisch gebaut.",
-        "en" : "Carl Schad drew this church, and his day job was chief building officer to the house of Thurn und Taxis. The foundation stone went down in July 1929. Bishop Michael Buchberger consecrated the finished church in November 1930. Look at its shape: a strict cube under a saddle roof, built in a late-Expressionist style."
+        "de" : "Im Juli 1929 wurde der Grundstein gelegt. Schon im November 1930 weihte Bischof Michael Buchberger die fertige Kirche, kaum mehr als ein Jahr später. Carl Schad entwarf sie im späten Expressionismus. Das heißt: kräftige, einfache Formen statt steinerner Spitzen und Schnörkel. Sie ist eine dreischiffige Basilika, mit hohem Mittelschiff und niedrigeren Seitenschiffen.",
+        "en" : "Its foundation stone went down in July 1929. Bishop Michael Buchberger consecrated the finished church in November 1930, not much more than a year later. Carl Schad drew it in a late Expressionist style. That meant bold, simple shapes instead of carved stone lace. It is a basilica, with a tall central nave and lower aisles on either side."
       },
       "localizedStory" : {
-        "de" : "An der Kreuzgasse steht Herz Jesu. Diese Kirche entstand 1928 und ist damit viel jünger als die Gassen ringsum.",
-        "en" : "Herz Jesu church has risen over Kreuzgasse since 1928. Young stone among Regensburg's ancient lanes."
+        "de" : "Eine Kirche in strenger Kubusform mit Satteldach, entworfen vom Oberbaurat des Fürstenhauses Thurn und Taxis.",
+        "en" : "A church shaped like a strict cube under a saddle roof. Its designer was building chief to the princely house of Thurn und Taxis."
       },
       "name" : "Herz Jesu",
       "pos" : [
         49.020159,
         12.086519
       ],
-      "story" : "Herz Jesu church has risen over Kreuzgasse since 1928. Young stone among Regensburg's ancient lanes."
+      "story" : "A church shaped like a strict cube under a saddle roof. Its designer was building chief to the princely house of Thurn und Taxis."
     }
   ],
-  "generatedAt" : "2026-09-13T14:38:59Z",
+  "generatedAt" : "2026-09-17T15:29:15Z",
   "icon" : {
     "paths" : [
       "m 77.67 14.43 l 7.91 7.91 l -60.81 60.81 l -7.91 -7.91 z m 2.74 5.17 l 9.73 9.73 l -4.86 4.86 l -9.73 -9.73 z m -9.73 9.73 l 12.16 12.16 l -4.86 4.86 l -12.16 -12.16 z m -41.35 63.24 c -6.05 6.05 -15.85 6.05 -21.89 0 c -6.05 -6.05 -6.05 -15.85 0 -21.89 c 6.05 -6.05 15.85 -6.05 21.89 0 c 6.05 6.05 6.05 15.85 0 21.89 z m -5.47 -5.47 c 3.02 -3.02 3.02 -7.92 0 -10.95 c -3.02 -3.02 -7.92 -3.02 -10.95 0 c -3.02 3.02 -3.02 7.92 0 10.95 c 3.02 3.02 7.92 3.02 10.95 0 z m -9.43 -64.76 l 7.91 -7.91 l 60.81 60.81 l -7.91 7.91 z m -4.56 6.99 l 9.73 -9.73 l 4.86 4.86 l -9.73 9.73 z m 7.3 12.16 l 12.16 -12.16 l 4.86 4.86 l -12.16 12.16 z m 75.41 29.19 c 6.05 6.05 6.05 15.85 0 21.89 c -6.05 6.05 -15.85 6.05 -21.89 0 c -6.05 -6.05 -6.05 -15.85 0 -21.89 c 6.05 -6.05 15.85 -6.05 21.89 0 z m -5.47 5.47 c -3.02 -3.02 -7.92 -3.02 -10.95 0 c -3.02 3.02 -3.02 7.92 0 10.95 c 3.02 3.02 7.92 3.02 10.95 0 c 3.02 -3.02 3.02 -7.92 0 -10.95 z"
@@ -8240,17 +8276,17 @@
     "en" : "Regensburg"
   },
   "name" : "Regensburg",
-  "packVersion" : 22,
+  "packVersion" : 24,
   "schemaVersion" : 1,
   "source" : "OpenStreetMap via Overpass API",
   "stats" : {
     "estHours" : 10.8,
-    "nodeCount" : 1891,
+    "nodeCount" : 1884,
     "routeFactor" : 1.24,
-    "routeKm" : 37.8,
+    "routeKm" : 37.6,
     "stepsStreetCount" : 5,
-    "streetCount" : 203,
-    "totalKm" : 30.56
+    "streetCount" : 201,
+    "totalKm" : 30.46
   },
   "streets" : [
     {
@@ -14892,45 +14928,6 @@
           [
             49.018488,
             12.093012
-          ]
-        ]
-      ]
-    },
-    {
-      "id" : "s-gasschen-ohne-end",
-      "lengthM" : 31.7,
-      "name" : "Gäßchen ohne End",
-      "nodes" : [
-        [
-          49.017477,
-          12.091887
-        ],
-        [
-          49.017299,
-          12.091855
-        ],
-        [
-          49.017195,
-          12.09183
-        ]
-      ],
-      "polylines" : [
-        [
-          [
-            49.017477,
-            12.091887
-          ],
-          [
-            49.017439,
-            12.091881
-          ],
-          [
-            49.017287,
-            12.091852
-          ],
-          [
-            49.017195,
-            12.09183
           ]
         ]
       ]
@@ -25845,49 +25842,6 @@
           [
             49.019976,
             12.089563
-          ]
-        ]
-      ]
-    },
-    {
-      "id" : "s-agidiengang",
-      "lengthM" : 67,
-      "name" : "Ägidiengang",
-      "nodes" : [
-        [
-          49.015714,
-          12.091315
-        ],
-        [
-          49.015678,
-          12.091046
-        ],
-        [
-          49.015641,
-          12.090778
-        ],
-        [
-          49.015589,
-          12.090516
-        ]
-      ],
-      "polylines" : [
-        [
-          [
-            49.015714,
-            12.091315
-          ],
-          [
-            49.015649,
-            12.090836
-          ],
-          [
-            49.01562,
-            12.09064
-          ],
-          [
-            49.015568,
-            12.090426
           ]
         ]
       ]

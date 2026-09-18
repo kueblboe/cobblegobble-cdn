@@ -127,14 +127,9 @@
 
     ],
     "adjustedStreets" : [
-      "Castelvecchio",
-      "Corte Sgarzarie",
-      "Cortile del Mercato Vecchio",
-      "Lungadige Bartolomeo Rubele",
-      "Piazza Bra",
-      "Piazza Indipendenza"
+
     ],
-    "fromVersion" : 8,
+    "fromVersion" : 9,
     "removedStreets" : [
 
     ]
@@ -6067,247 +6062,247 @@
   ],
   "fruits" : [
     {
-      "extendedStory" : "Cangrande II della Scala began this castle in 1354. It was finished two years later, in 1356. He built it in the Gothic style, which means tall pointed arches and high walls of red brick. A bridge of the same brick runs from the castle across the river. Walk out onto Ponte Castelvecchio and you are standing on the lord's own crossing.",
+      "extendedStory" : "A chapel lies buried in the courtyard. A church already stood on this ground in the eighth century, and the Scaliger wall simply swallowed it whole. It went on serving the lords as their private chapel until it came down about two hundred years ago. Since 2023 archaeologists have been digging its walls back out, and the trench is left open so you can watch them work. The whole fortress was aimed at trouble from inside the city, not outside it.",
       "icon" : "choice",
       "id" : "f-castelvecchio",
       "kind" : "fortress",
       "localizedExtendedStory" : {
-        "de" : "Cangrande II. della Scala ließ diese Burg ab 1354 bauen. Zwei Jahre später, 1356, war sie fertig. Er baute im gotischen Stil. Das bedeutet hohe Spitzbogen und hohe Mauern aus rotem Backstein. Eine Brücke aus demselben Backstein führt von der Burg über den Fluss. Wer heute über den Ponte Castelvecchio geht, geht über den Übergang des Stadtherrn.",
-        "en" : "Cangrande II della Scala began this castle in 1354. It was finished two years later, in 1356. He built it in the Gothic style, which means tall pointed arches and high walls of red brick. A bridge of the same brick runs from the castle across the river. Walk out onto Ponte Castelvecchio and you are standing on the lord's own crossing."
+        "de" : "Im Hof liegt eine Kapelle unter der Erde. Schon im achten Jahrhundert stand hier eine Kirche, und die Mauer der Scaliger schluckte sie einfach mit. Sie diente den Herren noch lange als Hauskapelle, bis sie vor gut zweihundert Jahren abgerissen wurde. Seit 2023 graben Archäologen ihre Mauern wieder frei, und der Graben bleibt offen, damit man zusehen kann. Die ganze Festung war gegen Ärger von innen gedacht, nicht von außen.",
+        "en" : "A chapel lies buried in the courtyard. A church already stood on this ground in the eighth century, and the Scaliger wall simply swallowed it whole. It went on serving the lords as their private chapel until it came down about two hundred years ago. Since 2023 archaeologists have been digging its walls back out, and the trench is left open so you can watch them work. The whole fortress was aimed at trouble from inside the city, not outside it."
       },
       "localizedStory" : {
-        "de" : "Eine Burg aus rotem Backstein mit eigener Brücke, dem Ponte Castelvecchio. Cangrande II. della Scala begann 1354 mit dem Bau.",
-        "en" : "A castle of red brick with its own bridge, Ponte Castelvecchio. Cangrande II della Scala began building it in 1354."
+        "de" : "Cangrande II. wollte einen Fluchtweg. Die befestigte Brücke neben seiner roten Backsteinburg gab ihm genau den, hinaus aufs Land.",
+        "en" : "Cangrande II wanted a way out. The fortified bridge beside his red brick stronghold was built to give him one, out towards the countryside."
       },
       "name" : "Castelvecchio",
       "pos" : [
         45.439695,
         10.987509
       ],
-      "story" : "A castle of red brick with its own bridge, Ponte Castelvecchio. Cangrande II della Scala began building it in 1354."
+      "story" : "Cangrande II wanted a way out. The fortified bridge beside his red brick stronghold was built to give him one, out towards the countryside."
     },
     {
-      "extendedStory" : "The Romans built this ring around the middle of the 1st century AD, and it still stands 31 metres high. Under Theodoric, who ruled from 493 to 526, the outer wall that formed its facade was partly pulled down. Its stone went into the city's second ring of walls, and one short piece was left standing. Veronese call that piece the Ala, the wing. On 10 August 1913 Verdi's Aida rang out between these stones, and opera has been sung here ever since.",
+      "extendedStory" : "That stub has a name, the Ala. Its stone really went into a new ring of city walls, which is duller than the tale. Verdi's Aida rang out between these stones in 1913, and singing has not stopped since. On opera nights the audience lights small candles across the tiers as the light goes. The rite has been kept up since the early 1980s.",
       "icon" : "hero",
       "id" : "f-arena-di-verona",
       "kind" : "attraction",
       "localizedExtendedStory" : {
-        "de" : "Die Römer bauten diesen Ring um die Mitte des 1. Jahrhunderts nach Christus, und er ist noch heute 31 Meter hoch. Unter Theoderich, der von 493 bis 526 herrschte, wurde die äußere Mauer der Fassade zum Teil abgetragen. Ihre Steine wanderten in den zweiten Mauerring der Stadt, und ein kurzes Stück blieb stehen. Die Veroneser nennen dieses Stück Ala, den Flügel. Am 10. August 1913 erklang hier Verdis Aida, und seither wird in der Arena Oper gesungen.",
-        "en" : "The Romans built this ring around the middle of the 1st century AD, and it still stands 31 metres high. Under Theodoric, who ruled from 493 to 526, the outer wall that formed its facade was partly pulled down. Its stone went into the city's second ring of walls, and one short piece was left standing. Veronese call that piece the Ala, the wing. On 10 August 1913 Verdi's Aida rang out between these stones, and opera has been sung here ever since."
+        "de" : "Der Stummel, den die Erzählung dafür verantwortlich macht, heißt Ala. In Wahrheit wanderten seine Steine in einen neuen Mauerring der Stadt. Die Oper kam viel später. 1913 erklang Verdis Aida zwischen diesen Steinen, und seither wird hier gesungen. An Opernabenden zünden die Zuschauer kleine Kerzen auf den Rängen an, sobald das Licht geht, ein Brauch seit den frühen 1980er Jahren.",
+        "en" : "That stub has a name, the Ala. Its stone really went into a new ring of city walls, which is duller than the tale. Verdi's Aida rang out between these stones in 1913, and singing has not stopped since. On opera nights the audience lights small candles across the tiers as the light goes. The rite has been kept up since the early 1980s."
       },
       "localizedStory" : {
-        "de" : "Das römische Amphitheater am Platz, 31 Meter hoch. Seit dem 10. August 1913 erklingt hier Oper, damals Verdis Aida.",
-        "en" : "The Roman amphitheatre on the square, 31 metres high. Since 10 August 1913 opera has filled it, starting with Verdi's Aida."
+        "de" : "Man erzählt, Dämonen hätten das Rund in einer Nacht hochgezogen und seien beim frühen Sonnenaufgang geflohen, vor der letzten Steinreihe.",
+        "en" : "The story goes that demons built it in one night and fled when the sun came up early, leaving the ring unfinished."
       },
       "name" : "Arena di Verona",
       "pos" : [
         45.439387,
         10.994668
       ],
-      "story" : "The Roman amphitheatre on the square, 31 metres high. Since 10 August 1913 opera has filled it, starting with Verdi's Aida."
+      "story" : "The story goes that demons built it in one night and fled when the sun came up early, leaving the ring unfinished."
     },
     {
-      "extendedStory" : "The church goes back to 1100, so it has stood here for more than nine centuries. It carries the names of two men, Firmus and Rusticus. Inside, the decoration is Italian Baroque. That style likes curves, colour and gold, and it was added long after the walls went up. So the building is really two ages at once: plain old stone, dressed in later splendour.",
+      "extendedStory" : "Firmus and Rusticus are the two men in the name, and this spot was theirs long before any friar arrived. What the Franciscans took over went back to the year 1100. Later centuries laid Italian Baroque colour and gold across the plain walls. So the place holds two ages at once, and the older of them is the one you walk down into.",
       "icon" : "everyday",
       "id" : "f-chiesa-di-san-fermo-maggiore",
       "kind" : "church",
       "localizedExtendedStory" : {
-        "de" : "Die Kirche geht auf das Jahr 1100 zurück und steht damit seit über neun Jahrhunderten hier. Sie trägt die Namen zweier Männer, Firmus und Rusticus. Drinnen ist die Ausstattung italienischer Barock. Dieser Stil mag Schwünge, Farbe und Gold, und er kam lange nach den Mauern dazu. So ist das Haus zugleich aus zwei Zeiten: alter schlichter Stein, später prächtig geschmückt.",
-        "en" : "The church goes back to 1100, so it has stood here for more than nine centuries. It carries the names of two men, Firmus and Rusticus. Inside, the decoration is Italian Baroque. That style likes curves, colour and gold, and it was added long after the walls went up. So the building is really two ages at once: plain old stone, dressed in later splendour."
+        "de" : "Firmus und Rusticus heißen die beiden Männer im Namen, und ihnen gehörte der Platz lange vor jedem Mönch. Was die Franziskaner übernahmen, reicht ins Jahr 1100 zurück. Spätere Jahrhunderte legten italienisches Barock aus Farbe und Gold über den schlichten Putz. So hält das Haus zwei Zeitalter auf einmal. Das ältere davon liegt tiefer, und der Weg dorthin ist der schönste Teil des Besuchs.",
+        "en" : "Firmus and Rusticus are the two men in the name, and this spot was theirs long before any friar arrived. What the Franciscans took over went back to the year 1100. Later centuries laid Italian Baroque colour and gold across the plain walls. So the place holds two ages at once, and the older of them is the one you walk down into."
       },
       "localizedStory" : {
-        "de" : "Eine Kirche, begonnen im Jahr 1100, benannt nach Firmus und Rusticus. Die spätere Ausstattung ist barock, ein Stil voller Schwünge und Gold.",
-        "en" : "A church begun in 1100, named for Firmus and Rusticus. Its later decoration is Baroque, a style full of curves and gold."
+        "de" : "Die Franziskaner erkannten hier die Gestalt von Assisi wieder: eine Kirche, unter der eine weitere ruht, wie im Mutterhaus ihres Ordens.",
+        "en" : "Franciscans arrived to find a church with a full church beneath it. That is the shape of Assisi, their order's own mother house."
       },
       "name" : "Chiesa di San Fermo Maggiore",
       "pos" : [
         45.43924,
         10.999778
       ],
-      "story" : "A church begun in 1100, named for Firmus and Rusticus. Its later decoration is Baroque, a style full of curves and gold."
+      "story" : "Franciscans arrived to find a church with a full church beneath it. That is the shape of Assisi, their order's own mother house."
     },
     {
-      "extendedStory" : "The Romans put up this gate in the 1st century AD, and you walk through it on Corso Porta Borsari. They called it Porta Iovia, after a temple to Jupiter Lustralis that stood nearby. The name it carries now is about money. Bursarii were the guards with the purse, and they collected the bishop's tolls from everyone coming in. So the gate has spent much of its life as a checkpoint.",
+      "extendedStory" : "Emperors were not modest. The year he chose to record was 265, and the city's own account calls his work a repair and an enlargement. The gate was older than his boast by two centuries. Romans knew it as Porta Iovia, after a temple to Jupiter beside it. The name it wears now belonged to the Bursarii, the men with the purse who took the bishop's tolls.",
       "icon" : "everyday",
       "id" : "f-porta-borsari",
       "kind" : "attraction",
       "localizedExtendedStory" : {
-        "de" : "Die Römer setzten dieses Tor im 1. Jahrhundert nach Christus, und heute geht man am Corso Porta Borsari hindurch. Sie nannten es Porta Iovia, nach einem Tempel für Jupiter Lustralis in der Nähe. Der heutige Name handelt vom Geld. Die Bursarii waren die Wächter mit dem Beutel, und sie kassierten den bischöflichen Zoll von allen, die hereinkamen. So war das Tor einen großen Teil seines Lebens eine Kontrollstelle.",
-        "en" : "The Romans put up this gate in the 1st century AD, and you walk through it on Corso Porta Borsari. They called it Porta Iovia, after a temple to Jupiter Lustralis that stood nearby. The name it carries now is about money. Bursarii were the guards with the purse, and they collected the bishop's tolls from everyone coming in. So the gate has spent much of its life as a checkpoint."
+        "de" : "Bescheiden waren Kaiser nie. Das Jahr, das er festhalten ließ, war 265, und die Stadt selbst nennt seine Arbeit heute eine Ausbesserung und Erweiterung. Das Tor war da schon zwei Jahrhunderte alt. Die Römer kannten es als Porta Iovia, nach einem Jupitertempel gleich nebenan. Der heutige Name gehörte den Bursarii, den Männern mit dem Beutel, die den Zoll des Bischofs kassierten.",
+        "en" : "Emperors were not modest. The year he chose to record was 265, and the city's own account calls his work a repair and an enlargement. The gate was older than his boast by two centuries. Romans knew it as Porta Iovia, after a temple to Jupiter beside it. The name it wears now belonged to the Bursarii, the men with the purse who took the bishop's tolls."
       },
       "localizedStory" : {
-        "de" : "Ein römisches Tor aus dem 1. Jahrhundert, mitten in der Straße. Der Name kommt von den Bursarii, den Wächtern, die mit dem Beutel Zoll kassierten.",
-        "en" : "A Roman gate from the 1st century, standing in the street. Its name comes from the Bursarii, the guards who collected tolls with a purse."
+        "de" : "Gallienus ließ seinen Namen über dem Tor verewigen und behauptete, er habe Veronas Mauern neu errichtet. Ausgebessert und erweitert hat er sie.",
+        "en" : "Gallienus had his name carved over the arch, claiming he rebuilt Verona's walls. In fact he had patched and widened them."
       },
       "name" : "Porta Borsari",
       "pos" : [
         45.44194,
         10.993387
       ],
-      "story" : "A Roman gate from the 1st century, standing in the street. Its name comes from the Bursarii, the guards who collected tolls with a purse."
+      "story" : "Gallienus had his name carved over the arch, claiming he rebuilt Verona's walls. In fact he had patched and widened them."
     },
     {
-      "extendedStory" : "This square stands on the ground of the Roman forum, where the city did its business. Rulers used the spot to read proclamations out to the citizens. Carved into the base of that same stone are medieval units of measure. The fountain nearby is built from Roman pieces: its great basin, and its statue, which came from the Capitolium. Cansignorio della Scala had it raised to celebrate water arriving from the Lorì di Avesa stream.",
+      "extendedStory" : "Where it came from is anybody's guess. The bone is absent from a map of 1630 and hangs in a print of 1750. Some say a ship brought it home as a thank offering. Others call it the fossil of a sea creature out of the hills, or the sign of a spice shop. Underneath it the traders are working the floor of the Roman forum.",
       "icon" : "choice",
       "id" : "f-piazza-delle-erbe",
       "kind" : "square",
       "localizedExtendedStory" : {
-        "de" : "Dieser Platz liegt auf dem Boden des römischen Forums, wo die Stadt ihre Geschäfte machte. Die Herrscher verlasen hier ihre Erlasse an die Bürger. In den Sockel desselben Steins sind mittelalterliche Maßeinheiten eingemeißelt. Der Brunnen daneben besteht aus römischen Teilen: sein großes Becken und seine Statue, die vom Kapitol stammt. Cansignorio della Scala ließ ihn errichten, weil endlich Wasser vom Bach Lorì di Avesa herkam.",
-        "en" : "This square stands on the ground of the Roman forum, where the city did its business. Rulers used the spot to read proclamations out to the citizens. Carved into the base of that same stone are medieval units of measure. The fountain nearby is built from Roman pieces: its great basin, and its statue, which came from the Capitolium. Cansignorio della Scala had it raised to celebrate water arriving from the Lorì di Avesa stream."
+        "de" : "Woher der Knochen kam, weiß bis heute keiner. Auf einer Karte von 1630 fehlt er, auf einem Druck von 1750 ist er zu sehen. Manche erzählen, ein Schiff habe ihn als Dank mitgebracht. Andere halten ihn für versteinerte Reste eines Meerestiers aus den Bergen oder für das Schild eines Gewürzhändlers. Auf dem Boden des römischen Forums handeln die Händler weiter.",
+        "en" : "Where it came from is anybody's guess. The bone is absent from a map of 1630 and hangs in a print of 1750. Some say a ship brought it home as a thank offering. Others call it the fossil of a sea creature out of the hills, or the sign of a spice shop. Underneath it the traders are working the floor of the Roman forum."
       },
       "localizedStory" : {
-        "de" : "Der Marktplatz liegt auf dem römischen Forum. Schau auf den Sockel der steinernen Tribüne: Dort sind mittelalterliche Maßeinheiten eingemeißelt.",
-        "en" : "The market square sits on the old Roman forum. Look at the base of the stone tribune: medieval measuring units are carved into it."
+        "de" : "Über dem Durchgang am Ende des Platzes schwebt eine riesige Rippe. Der Sage nach stürzt sie herab, sobald jemand mit reinem Herzen sie unterquert.",
+        "en" : "A giant rib hangs above the passage at the end of the square. Legend says it will fall the day a pure heart walks under."
       },
       "name" : "Piazza delle Erbe",
       "pos" : [
         45.443047,
         10.99722
       ],
-      "story" : "The market square sits on the old Roman forum. Look at the base of the stone tribune: medieval measuring units are carved into it."
+      "story" : "A giant rib hangs above the passage at the end of the square. Legend says it will fall the day a pure heart walks under."
     },
     {
-      "extendedStory" : "The house is named for Juliet, and the city bought it in 1905, when the owners put it up for auction. The balcony that everyone photographs is not medieval. It went up in 1939 and 1940, when Antonio Avena of the civic museums had the courtyard front altered. The house opened to visitors as a museum on 1 June 1973. So the balcony people queue for is younger than their grandparents.",
+      "extendedStory" : "It began in the 1930s, when the caretaker at the tomb could not leave them unanswered. The bronze girl in the courtyard is not the one Nereo Costantini cast. Visitors rubbing her for luck wore the figure down, so the city made a second cast in 2014. The worn original stands indoors now, and the one everybody touches is the stand-in.",
       "icon" : "choice",
       "id" : "f-casa-di-giulietta",
       "kind" : "attraction",
       "localizedExtendedStory" : {
-        "de" : "Das Haus ist nach Julia benannt, und die Stadt kaufte es 1905, als die Besitzer es versteigern ließen. Der Balkon, den alle fotografieren, ist nicht mittelalterlich. Er entstand 1939 und 1940, als Antonio Avena von den Städtischen Museen die Hoffassade umgestalten ließ. Am 1. Juni 1973 öffnete das Haus als Museum. Der Balkon ist also jünger als die Großeltern der Leute, die davor Schlange stehen.",
-        "en" : "The house is named for Juliet, and the city bought it in 1905, when the owners put it up for auction. The balcony that everyone photographs is not medieval. It went up in 1939 and 1940, when Antonio Avena of the civic museums had the courtyard front altered. The house opened to visitors as a museum on 1 June 1973. So the balcony people queue for is younger than their grandparents."
+        "de" : "Angefangen hat es in den 1930er Jahren, als der Wächter am Grab die Briefe nicht unbeantwortet lassen mochte. Julias Sekretärinnen ist der Spitzname der Freiwilligen geblieben. Das Mädchen aus Bronze im Hof ist nicht mehr das von Nereo Costantini. Besucher rieben es zum Glück blank, also goss die Stadt 2014 einen zweiten Guss. Das abgeriebene Original zeigt man seitdem im Inneren.",
+        "en" : "It began in the 1930s, when the caretaker at the tomb could not leave them unanswered. The bronze girl in the courtyard is not the one Nereo Costantini cast. Visitors rubbing her for luck wore the figure down, so the city made a second cast in 2014. The worn original stands indoors now, and the one everybody touches is the stand-in."
       },
       "localizedStory" : {
-        "de" : "Der Hof an der Via Cappello, benannt nach Julia. Sein Balkon ist jünger als gedacht: Er kam 1939, als die Wand neu gestaltet wurde.",
-        "en" : "The courtyard on Via Cappello, named for Juliet. Its balcony is younger than it looks: it went up in 1939, when the wall was rebuilt."
+        "de" : "Briefe an Giulietta, Verona treffen hier zu Tausenden ein, und Freiwillige beantworten jeden einzelnen davon mit der Hand.",
+        "en" : "Letters addressed to Juliet, Verona arrive here in their thousands, and volunteers known as Juliet's secretaries answer every one."
       },
       "name" : "Casa di Giulietta",
       "pos" : [
         45.442005,
         10.998619
       ],
-      "story" : "The courtyard on Via Cappello, named for Juliet. Its balcony is younger than it looks: it went up in 1939, when the wall was rebuilt."
+      "story" : "Letters addressed to Juliet, Verona arrive here in their thousands, and volunteers known as Juliet's secretaries answer every one."
     },
     {
-      "extendedStory" : "Three great tombs stand here, raised between the 14th and 15th centuries for Mastino II, Cangrande I and Cansignorio della Scala. Cangrande died suddenly in 1329, during the siege of Treviso. His nephew Mastino II, who ruled from 1329 to 1351, had a grand monument built for him above the church door. So the lord lies over the way in. The family badge was a ladder, scala in Italian, and on Bartolomeo's tomb it is topped by an eagle.",
+      "extendedStory" : "Cangrande means big dog, Mastino means mastiff, and the mastiff has been a badge of Verona ever since. The rider on the peak of the canopy is a copy. When the tomb was opened in 1921 the original went indoors to the Castelvecchio museum, and it has stayed there. Look at the ironwork too: the ladder in it, scala in Italian, is the family's own emblem.",
       "icon" : "everyday",
       "id" : "f-arche-scaligere",
       "kind" : "memorial_art",
       "localizedExtendedStory" : {
-        "de" : "Drei große Gräber stehen hier, errichtet im 14. und 15. Jahrhundert für Mastino II., Cangrande I. und Cansignorio della Scala. Cangrande starb 1329 plötzlich, während der Belagerung von Treviso. Sein Neffe Mastino II., der von 1329 bis 1351 regierte, ließ ihm ein prächtiges Grabmal über dem Kirchenportal errichten. So liegt der Herr über dem Eingang. Das Zeichen der Familie war eine Leiter, auf Italienisch scala, und auf dem Grab des Bartolomeo krönt sie ein Adler.",
-        "en" : "Three great tombs stand here, raised between the 14th and 15th centuries for Mastino II, Cangrande I and Cansignorio della Scala. Cangrande died suddenly in 1329, during the siege of Treviso. His nephew Mastino II, who ruled from 1329 to 1351, had a grand monument built for him above the church door. So the lord lies over the way in. The family badge was a ladder, scala in Italian, and on Bartolomeo's tomb it is topped by an eagle."
+        "de" : "Cangrande heißt großer Hund, Mastino heißt Mastiff, und der Mastiff ist seit dem 13. Jahrhundert ein Zeichen Veronas. Der Reiter auf der Spitze des Baldachins ist eine Kopie. Als man das Grab 1921 öffnete, kam das Original ins Museum von Castelvecchio und blieb dort. Schau auch auf das Eisengitter: Die Leiter darin, italienisch scala, ist das Zeichen der Familie.",
+        "en" : "Cangrande means big dog, Mastino means mastiff, and the mastiff has been a badge of Verona ever since. The rider on the peak of the canopy is a copy. When the tomb was opened in 1921 the original went indoors to the Castelvecchio museum, and it has stayed there. Look at the ironwork too: the ladder in it, scala in Italian, is the family's own emblem."
       },
       "localizedStory" : {
-        "de" : "Steinerne Gräber der Herren von Verona hinter einem Eisengitter. Achte auf die Leiter im Gitter: Die scala war das Zeichen der Familie.",
-        "en" : "Stone tombs of Verona's lords behind an iron fence. Look for the ladder in the ironwork: scala was the family's own badge."
+        "de" : "Die Herren, die hier liegen, trugen Hundenamen. Schau auf Cangrandes Sarg: Steinerne Hunde in Schabracken tragen ihn, mit den Wappen der Familie darauf.",
+        "en" : "The lords who lie here were named after dogs. Look at Cangrande's coffin: stone dogs in harness carry it, with the family shields on them."
       },
       "name" : "Arche Scaligere",
       "pos" : [
         45.443623,
         10.998958
       ],
-      "story" : "Stone tombs of Verona's lords behind an iron fence. Look for the ladder in the ironwork: scala was the family's own badge."
+      "story" : "The lords who lie here were named after dogs. Look at Cangrande's coffin: stone dogs in harness carry it, with the family shields on them."
     },
     {
-      "extendedStory" : "Work began here in 1290, and the church was still going up in 1471. That is nearly two centuries of building, and families lived beside the site for generations. The masons who began it never saw the roof. It is Gothic, a style that reaches upward, and it stands 72 metres from the ground to the tip. The church is named for Anastasia of Rome.",
+      "extendedStory" : "The friars who raised it dedicated the church to Saint Peter of Verona. Veronese took no notice and went on calling it after Anastasia, the little chapel it replaced. That is the name that won. The right hand hunchback has a nickname of his own. He arrived at Easter, so the city christened him Pasqualino, which means something like little Easter.",
       "icon" : "everyday",
       "id" : "f-chiesa-di-sant-anastasia",
       "kind" : "church",
       "localizedExtendedStory" : {
-        "de" : "Der Bau begann 1290, und 1471 wurde immer noch daran gearbeitet. Das sind fast zwei Jahrhunderte Baustelle, und Familien lebten über Generationen daneben. Die Steinmetze, die anfingen, sahen das Dach nie. Die Kirche ist gotisch, ein Stil, der nach oben strebt, und sie misst 72 Meter bis zur Spitze. Benannt ist sie nach Anastasia von Rom.",
-        "en" : "Work began here in 1290, and the church was still going up in 1471. That is nearly two centuries of building, and families lived beside the site for generations. The masons who began it never saw the roof. It is Gothic, a style that reaches upward, and it stands 72 metres from the ground to the tip. The church is named for Anastasia of Rome."
+        "de" : "Die Dominikaner weihten ihre neue Kirche dem heiligen Petrus von Verona. Die Veroneser kümmerte das wenig. Sie nannten sie weiter nach Anastasia, der kleinen Vorgängerkirche, und dieser Name blieb. Der rechte Buckelträger hat sogar einen Spitznamen. Er kam zu Ostern an, und man nennt ihn seitdem Pasqualino, was so viel wie Österlein bedeutet.",
+        "en" : "The friars who raised it dedicated the church to Saint Peter of Verona. Veronese took no notice and went on calling it after Anastasia, the little chapel it replaced. That is the name that won. The right hand hunchback has a nickname of his own. He arrived at Easter, so the city christened him Pasqualino, which means something like little Easter."
       },
       "localizedStory" : {
-        "de" : "Die hohe gotische Kirche von Verona, 72 Meter bis zur Spitze. 1290 begann der Bau, 1471 wurde noch daran gearbeitet.",
-        "en" : "Verona's tall Gothic church, 72 metres to the tip. Builders started in 1290 and were still at work in 1471."
+        "de" : "Zwei steinerne Bucklige hocken an den vorderen Säulen und halten das Weihwasser. Wer den Buckel streichelt, so sagt die Legende, hat Glück.",
+        "en" : "Two stone hunchbacks crouch at the foot of the pillars just inside and hold up the holy water. Rub the hump, people say, for luck."
       },
       "name" : "Chiesa di Sant'Anastasia",
       "pos" : [
         45.445095,
         10.999599
       ],
-      "story" : "Verona's tall Gothic church, 72 metres to the tip. Builders started in 1290 and were still at work in 1471."
+      "story" : "Two stone hunchbacks crouch at the foot of the pillars just inside and hold up the holy water. Rub the hump, people say, for luck."
     },
     {
-      "extendedStory" : "Building started in 1117, and in 1187 Pope Urban III came to consecrate the finished church. It is Romanesque, which means round arches and thick, calm walls. The treasure inside is Titian's Pala dell'Assunta. French troops carried it off during the Napoleonic campaigns. It hangs in Verona again today, and no other work by Titian is in this city.",
+      "extendedStory" : "Nobody knows who the two warriors really were. The name may have been cut into the blade long after the figures, once the songs had caught on. Inside hangs Titian's Pala dell'Assunta. French troops carried it off, and no other painting by him hangs in Verona today. Pope Urban III came in person to consecrate the church.",
       "icon" : "choice",
       "id" : "f-cattedrale-di-santa-maria-matricolare",
       "kind" : "church",
       "localizedExtendedStory" : {
-        "de" : "Der Bau begann 1117, und 1187 kam Papst Urban III. und weihte die fertige Kirche. Sie ist romanisch. Das bedeutet Rundbogen und dicke, ruhige Mauern. Der Schatz im Inneren ist Tizians Pala dell'Assunta. Französische Truppen schafften sie in den napoleonischen Feldzügen fort. Heute hängt sie wieder in Verona, und kein anderes Werk Tizians ist in dieser Stadt.",
-        "en" : "Building started in 1117, and in 1187 Pope Urban III came to consecrate the finished church. It is Romanesque, which means round arches and thick, calm walls. The treasure inside is Titian's Pala dell'Assunta. French troops carried it off during the Napoleonic campaigns. It hangs in Verona again today, and no other work by Titian is in this city."
+        "de" : "Niemand weiß, wer die beiden wirklich waren. Der Name kann erst viel später in die Klinge gekommen sein, als die Lieder von Roland populär wurden. Drinnen hängt Tizians Pala dell'Assunta. Französische Truppen schafften sie fort, und kein zweites Bild von ihm hängt heute in Verona. Papst Urban III. kam selbst, um die Kirche zu weihen.",
+        "en" : "Nobody knows who the two warriors really were. The name may have been cut into the blade long after the figures, once the songs had caught on. Inside hangs Titian's Pala dell'Assunta. French troops carried it off, and no other painting by him hangs in Verona today. Pope Urban III came in person to consecrate the church."
       },
       "localizedStory" : {
-        "de" : "Der Dom wurde 1187 von Papst Urban III. geweiht. Drinnen hängt ein Gemälde von Tizian, das die Franzosen einst fortschafften.",
-        "en" : "The cathedral was consecrated in 1187 by Pope Urban III. Inside hangs a painting by Titian that the French once carried away."
+        "de" : "Zwei steinerne Krieger bewachen den Eingang. In die Klinge des einen ist Durindarda geritzt, das Schwert Rolands aus den alten Liedern.",
+        "en" : "Two stone warriors guard the doorway. The name Durindarda is cut into one sword, which makes him Roland of the old songs."
       },
       "name" : "Cattedrale di Santa Maria Matricolare",
       "pos" : [
         45.447092,
         10.997097
       ],
-      "story" : "The cathedral was consecrated in 1187 by Pope Urban III. Inside hangs a painting by Titian that the French once carried away."
+      "story" : "Two stone warriors guard the doorway. The name Durindarda is cut into one sword, which makes him Roland of the old songs."
     },
     {
-      "extendedStory" : "The theatre was built towards the end of the 1st century BC. From the 10th century, houses and churches went up on its remains and covered the seating and stage completely. For hundreds of years there was nothing left to see. Then Andrea Monga, a merchant who lived from 1794 to 1861, bought the whole area and dug it out. In 1904 the city took the site over and carried the work on.",
+      "extendedStory" : "The year cut over its door is 50, which is early enough to raise eyebrows. What is certain is that the church was spared. In the 1800s everything else built over the theatre came down, and this one chapel was left where it was. Dwellings had covered the place since the tenth century. A merchant named Andrea Monga bought the ground and dug it out.",
       "icon" : "everyday",
       "id" : "f-teatro-romano",
       "kind" : "theatre",
       "localizedExtendedStory" : {
-        "de" : "Das Theater entstand gegen Ende des 1. Jahrhunderts vor Christus. Ab dem 10. Jahrhundert wuchsen Häuser und Kirchen auf seinen Resten und deckten Zuschauerrund und Bühnenhaus vollständig zu. Jahrhundertelang war davon nichts mehr zu sehen. Dann kaufte Andrea Monga, ein Kaufmann, der von 1794 bis 1861 lebte, das ganze Gelände und grub es aus. 1904 übernahm die Stadt das Gelände und führte die Arbeit weiter.",
-        "en" : "The theatre was built towards the end of the 1st century BC. From the 10th century, houses and churches went up on its remains and covered the seating and stage completely. For hundreds of years there was nothing left to see. Then Andrea Monga, a merchant who lived from 1794 to 1861, bought the whole area and dug it out. In 1904 the city took the site over and carried the work on."
+        "de" : "Über ihrer Tür steht die Jahreszahl 50, und die lässt aufhorchen. Sicher ist nur: Die Kirche wurde verschont. In den 1800er Jahren kam alles andere weg, was über dem Theater gebaut worden war, und dieses eine Kapellchen blieb stehen. Seit dem zehnten Jahrhundert hatten Wohnbauten das Gelände zugedeckt, bis ein Kaufmann namens Andrea Monga es kaufte und freilegte.",
+        "en" : "The year cut over its door is 50, which is early enough to raise eyebrows. What is certain is that the church was spared. In the 1800s everything else built over the theatre came down, and this one chapel was left where it was. Dwellings had covered the place since the tenth century. A merchant named Andrea Monga bought the ground and dug it out."
       },
       "localizedStory" : {
-        "de" : "Ein römisches Theater, das verschwand. Ab dem 10. Jahrhundert wuchsen Häuser darüber, bis ein Kaufmann das ganze Gelände kaufte und es ausgrub.",
-        "en" : "A Roman theatre that vanished. Houses went up over it from the 10th century, until a merchant bought the whole area and dug it out."
+        "de" : "Mitten zwischen den steinernen Sitzen steht eine kleine Kirche. Der Sage nach wirkte der heilige Siro hier ein Wunder und feierte Messe mit der Menge.",
+        "en" : "A small church sits among the stone seats. The tale says Saint Siro worked a wonder here and then said mass with the crowd."
       },
       "name" : "Teatro Romano",
       "pos" : [
         45.44788,
         11.002021
       ],
-      "story" : "A Roman theatre that vanished. Houses went up over it from the 10th century, until a merchant bought the whole area and dug it out."
+      "story" : "A small church sits among the stone seats. The tale says Saint Siro worked a wonder here and then said mass with the crowd."
     },
     {
-      "extendedStory" : "Two powers wanted this hilltop. Across the 14th and 15th centuries the Castello Visconteo stood here, built for Gian Galeazzo Visconti as a fortified citadel. Later the Austrians raised a barracks to quarter their soldiers, and that long block still dominates the hill today. It stands 17.6 metres tall on a hill 118 metres high. From the top the whole old town lies below you.",
+      "extendedStory" : "Austrian officers argued about how the barracks up here should look. A captain offered a neat classical plan. It was dropped for the neo-Gothic drawing of Conrad Petrasch, which looked back to the German middle ages. That was reckoned the more soldierly of the two. It could sleep 460 men. Long before any of them a Visconti citadel held this crown of rock. Whoever holds the hill sees everything.",
       "icon" : "everyday",
       "id" : "f-castel-san-pietro",
       "kind" : "fortress",
       "localizedExtendedStory" : {
-        "de" : "Zwei Mächte wollten diesen Hügel. Im 14. und 15. Jahrhundert stand hier das Castello Visconteo, gebaut für Gian Galeazzo Visconti als befestigte Zitadelle. Später errichteten die Österreicher eine Kaserne für ihre Soldaten. Dieser lange Block beherrscht den Hügel bis heute. Er ist 17,6 Meter hoch und steht auf einem Hügel von 118 Metern. Von oben liegt die ganze Altstadt unter dir.",
-        "en" : "Two powers wanted this hilltop. Across the 14th and 15th centuries the Castello Visconteo stood here, built for Gian Galeazzo Visconti as a fortified citadel. Later the Austrians raised a barracks to quarter their soldiers, and that long block still dominates the hill today. It stands 17.6 metres tall on a hill 118 metres high. From the top the whole old town lies below you."
+        "de" : "Österreichische Offiziere stritten darüber, wie die Kaserne hier oben aussehen sollte. Ein Hauptmann legte einen ruhigen klassizistischen Plan vor. Er fiel durch, zugunsten der neugotischen Zeichnung von Conrad Petrasch, die ans deutsche Mittelalter erinnerte und kriegerischer wirkte. 460 Soldaten fanden darin Platz. Lange vorher hielt eine Zitadelle der Visconti dieselbe Felskuppe, aus demselben Grund: Wer den Hügel hat, sieht alles.",
+        "en" : "Austrian officers argued about how the barracks up here should look. A captain offered a neat classical plan. It was dropped for the neo-Gothic drawing of Conrad Petrasch, which looked back to the German middle ages. That was reckoned the more soldierly of the two. It could sleep 460 men. Long before any of them a Visconti citadel held this crown of rock. Whoever holds the hill sees everything."
       },
       "localizedStory" : {
-        "de" : "Der Hügel über dem Fluss, 118 Meter hoch. Das lange Gebäude oben ist eine Kaserne, die die Österreicher für ihre Soldaten bauten.",
-        "en" : "The hill above the river, 118 metres up. The long building on top is a barracks the Austrians built to quarter their soldiers."
+        "de" : "Die Wiege Veronas nennen die Veroneser diesen Hügel. Hier oben, heißt es, ist ihre Stadt entstanden, lange bevor sie den Fluss erreichte.",
+        "en" : "Locals call this hill the cradle of Verona. Their city, they say, was born up here, long before it reached the water."
       },
       "name" : "Castel San Pietro",
       "pos" : [
         45.44803,
         11.00293
       ],
-      "story" : "The hill above the river, 118 metres up. The long building on top is a barracks the Austrians built to quarter their soldiers."
+      "story" : "Locals call this hill the cradle of Verona. Their city, they say, was born up here, long before it reached the water."
     },
     {
-      "extendedStory" : "The gate was built in the 1st century BC out of tuff, a soft volcanic stone, and brick. A hundred years later the Romans dressed it up. They set fronts of local white stone against the brick faces, so travellers arrived at something grand. The lions are not on the gate at all. The name has stuck since the 15th century, and comes from a Roman coffin nearby carved with two lions.",
+      "extendedStory" : "Look for the lions and you will not find them on the gate. The name has stuck since the fifteenth century, borrowed from a Roman coffin nearby with two of them carved on its lid. The gate itself is older: brick and tuff, a soft volcanic rock, cut in the century before Christ. A hundred years on, the Romans faced it with white stone, so that arriving in Verona felt like an occasion.",
       "icon" : "everyday",
       "id" : "f-porta-leoni",
       "kind" : "gate_tower",
       "localizedExtendedStory" : {
-        "de" : "Das Tor entstand im 1. Jahrhundert vor Christus aus Tuff, einem weichen Vulkanstein, und aus Ziegeln. Hundert Jahre später schmückten es die Römer. Sie stellten Fronten aus hellem heimischem Stein vor die Ziegelfassaden. Die Löwen sitzen gar nicht am Tor. Der Name hält sich seit dem 15. Jahrhundert und stammt von einem römischen Sarg in der Nähe, in den zwei Löwen gemeißelt sind.",
-        "en" : "The gate was built in the 1st century BC out of tuff, a soft volcanic stone, and brick. A hundred years later the Romans dressed it up. They set fronts of local white stone against the brick faces, so travellers arrived at something grand. The lions are not on the gate at all. The name has stuck since the 15th century, and comes from a Roman coffin nearby carved with two lions."
+        "de" : "Die Löwen sitzen gar nicht am Tor. Der Name hält sich seit dem fünfzehnten Jahrhundert. Er stammt von einem römischen Sarg in der Nähe, in den zwei Löwen gemeißelt sind. Das Tor selbst ist älter. Es entstand aus Ziegeln und Tuff, einem weichen Vulkanstein, im Jahrhundert vor unserer Zeitrechnung. Hundert Jahre danach setzten die Römer helle Steinfronten vor die Ziegel, damit die Ankunft in Verona etwas hermachte.",
+        "en" : "Look for the lions and you will not find them on the gate. The name has stuck since the fifteenth century, borrowed from a Roman coffin nearby with two of them carved on its lid. The gate itself is older: brick and tuff, a soft volcanic rock, cut in the century before Christ. A hundred years on, the Romans faced it with white stone, so that arriving in Verona felt like an occasion."
       },
       "localizedStory" : {
-        "de" : "Ein römisches Tor, das in einer Hauswand steckt. Benannt ist es nach zwei Löwen auf einem römischen Sarg aus der Nähe.",
-        "en" : "A Roman gate standing in a house wall on Via Leoni. It is named for two lions carved on a Roman coffin found nearby."
+        "de" : "Der Sage nach führte einmal ein Gang von diesem Tor hinüber zur Arena, für die Tiere der Vorstellungen. Bewiesen ist das nie worden.",
+        "en" : "Legend has it that a tunnel once ran from here to the Arena, bringing the animals in for the shows. Nothing confirms it."
       },
       "name" : "Porta Leoni",
       "pos" : [
         45.440534,
         10.999678
       ],
-      "story" : "A Roman gate standing in a house wall on Via Leoni. It is named for two lions carved on a Roman coffin found nearby."
+      "story" : "Legend has it that a tunnel once ran from here to the Arena, bringing the animals in for the shows. Nothing confirms it."
     }
   ],
-  "generatedAt" : "2026-09-13T14:39:29Z",
+  "generatedAt" : "2026-09-17T20:18:35Z",
   "icon" : {
     "paths" : [
       "M 95.000 54.000 C 95.000 70.016 74.853 83.000 50.000 83.000 C 25.147 83.000 5.000 70.016 5.000 54.000 C 5.000 37.984 25.147 25.000 50.000 25.000 C 74.853 25.000 95.000 37.984 95.000 54.000 Z  M 3.000 81.500 L 97.000 81.500 L 97.000 91.000 L 3.000 91.000 Z  M 77.000 54.000 C 77.000 46.268 64.912 40.000 50.000 40.000 C 35.088 40.000 23.000 46.268 23.000 54.000 C 23.000 61.732 35.088 68.000 50.000 68.000 C 64.912 68.000 77.000 61.732 77.000 54.000 Z  M 43.200 38.800 L 56.800 38.800 L 56.800 26.200 L 43.200 26.200 Z  M 64.113 40.047 L 76.107 46.457 L 86.534 38.001 L 75.069 30.684 Z  M 78.440 47.200 L 78.440 60.800 L 93.560 60.800 L 93.560 47.200 Z  M 76.107 61.543 L 64.113 67.953 L 75.069 77.316 L 86.534 69.999 Z  M 56.800 69.200 L 43.200 69.200 L 43.200 81.800 L 56.800 81.800 Z  M 35.887 67.953 L 23.893 61.543 L 13.466 69.999 L 24.931 77.316 Z  M 21.560 60.800 L 21.560 47.200 L 6.440 47.200 L 6.440 60.800 Z  M 23.893 46.457 L 35.887 40.047 L 24.931 30.684 L 13.466 38.001 Z"
@@ -6320,7 +6315,7 @@
     "en" : "Verona"
   },
   "name" : "Verona",
-  "packVersion" : 9,
+  "packVersion" : 10,
   "schemaVersion" : 1,
   "source" : "OpenStreetMap via Overpass API",
   "stats" : {

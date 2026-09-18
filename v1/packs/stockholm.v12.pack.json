@@ -195,9 +195,9 @@
 
     ],
     "adjustedStreets" : [
-      "Slottskajen"
+
     ],
-    "fromVersion" : 9,
+    "fromVersion" : 11,
     "removedStreets" : [
 
     ]
@@ -5177,187 +5177,187 @@
   ],
   "fruits" : [
     {
-      "extendedStory" : "Aron Johansson drew it, and it opened in 1905 on Helgeandsholmen. Then the members moved out. From 1971 the island stood empty while they sat in borrowed rooms at Kulturhuset by Sergels torg. They came back in 1983, to a rebuilt house on the same ground. The parliament calls its own building neo-Baroque, with Art Nouveau rooms inside.",
+      "extendedStory" : "What the diggers found changed the plan. A garage for the members of parliament was made much smaller, so the finds could stay where they lay. An underground museum was built around them instead, with part of Gustav Vasa's city wall from 1530. It also held a secret passage from the early 1700s, running from the Royal Palace to the royal stables. The members had moved out meanwhile, and came back once the house was rebuilt.",
       "icon" : "choice",
       "id" : "f-riksdagshuset",
       "kind" : "other",
       "localizedExtendedStory" : {
-        "de" : "Aron Johansson entwarf es, 1905 wurde es auf Helgeandsholmen eröffnet. Dann zogen die Abgeordneten aus. Ab 1971 stand die Insel leer, während sie im Kulturhuset am Sergels torg in geliehenen Räumen tagten. 1983 kamen sie zurück, in ein umgebautes Haus am selben Ort. Das Parlament nennt den Stil seines Hauses selbst Neobarock, mit Jugendstil in den Räumen.",
-        "en" : "Aron Johansson drew it, and it opened in 1905 on Helgeandsholmen. Then the members moved out. From 1971 the island stood empty while they sat in borrowed rooms at Kulturhuset by Sergels torg. They came back in 1983, to a rebuilt house on the same ground. The parliament calls its own building neo-Baroque, with Art Nouveau rooms inside."
+        "de" : "Was die Ausgräber fanden, änderte den Plan. Die Garage für die Abgeordneten wurde viel kleiner, damit die Funde bleiben konnten, wo sie lagen. Stattdessen entstand ein unterirdisches Museum, mit einem Stück von Gustav Vasas Stadtmauer von 1530. Dazu gehörte ein geheimer Gang aus den frühen 1700er Jahren, vom Königsschloss zu den königlichen Ställen. Die Abgeordneten waren so lange ausgezogen und kamen erst ins fertig umgebaute Haus zurück.",
+        "en" : "What the diggers found changed the plan. A garage for the members of parliament was made much smaller, so the finds could stay where they lay. An underground museum was built around them instead, with part of Gustav Vasa's city wall from 1530. It also held a secret passage from the early 1700s, running from the Royal Palace to the royal stables. The members had moved out meanwhile, and came back once the house was rebuilt."
       },
       "localizedStory" : {
-        "de" : "Das Parlament ließ dieses Haus 1971 leer stehen und kehrte erst 1983 zurück.",
-        "en" : "Parliament left this house standing empty in 1971 and came back to it in 1983."
+        "de" : "Als der Boden neben diesem Haus für den Umbau aufgegraben wurde, gab die Presse der großen Grabung einen Spitznamen: Riksgropen, die Riksdag-Grube.",
+        "en" : "When the ground by this house was dug up for its rebuilding, newspapers nicknamed the great dig Riksgropen, the Riksdag Pit."
       },
       "name" : "Riksdagshuset",
       "pos" : [
         59.327661,
         18.068031
       ],
-      "story" : "Parliament left this house standing empty in 1971 and came back to it in 1983."
+      "story" : "When the ground by this house was dug up for its rebuilding, newspapers nicknamed the great dig Riksgropen, the Riksdag Pit."
     },
     {
-      "extendedStory" : "A fire on 7 May 1697 took almost all of the old Tre Kronor castle. Six weeks later Nicodemus Tessin the Younger handed in his drawings for a new palace. He reckoned on five years of work. The royal family did not move back in until 1754. What they returned to is the baroque palace in front of you, and it is still a workplace.",
+      "extendedStory" : "The story goes that the architect, Nicodemus Tessin the Younger, met him while walking across his building site. The old man told him: I am the memory that rises from the old. A fire had taken almost all of the old castle. Tessin planned five years of work, but the royal family could not move back in until 1754. Today the King and Queen still go to work behind these windows.",
       "icon" : "hero",
       "id" : "f-stockholms-slott",
       "kind" : "fortress",
       "localizedExtendedStory" : {
-        "de" : "Am 7. Mai 1697 zerstörte ein Feuer fast das ganze alte Schloss Tre Kronor. Sechs Wochen später reichte Nicodemus Tessin der Jüngere seine Zeichnungen für einen Neubau ein. Er rechnete mit fünf Jahren. Die königliche Familie zog erst 1754 wieder ein. Was sie vorfand, ist der Barockbau vor dir, und er ist bis heute ein Arbeitsplatz.",
-        "en" : "A fire on 7 May 1697 took almost all of the old Tre Kronor castle. Six weeks later Nicodemus Tessin the Younger handed in his drawings for a new palace. He reckoned on five years of work. The royal family did not move back in until 1754. What they returned to is the baroque palace in front of you, and it is still a workplace."
+        "de" : "Der Sage nach begegnete ihm der Architekt Nicodemus Tessin der Jüngere, als er über seine Baustelle ging. Der Alte sagte zu ihm: Ich bin die Erinnerung, die aus dem Alten aufsteigt. Ein Feuer hatte fast die ganze alte Burg zerstört. Tessin plante fünf Jahre Arbeit, doch die königliche Familie konnte erst 1754 wieder einziehen. Heute gehen König und Königin hinter diesen Fenstern noch immer zur Arbeit.",
+        "en" : "The story goes that the architect, Nicodemus Tessin the Younger, met him while walking across his building site. The old man told him: I am the memory that rises from the old. A fire had taken almost all of the old castle. Tessin planned five years of work, but the royal family could not move back in until 1754. Today the King and Queen still go to work behind these windows."
       },
       "localizedStory" : {
-        "de" : "Über 600 Zimmer auf elf Stockwerken, und hinter den Fenstern gehen König und Königin noch immer zur Arbeit.",
-        "en" : "More than 600 rooms on eleven floors, and behind those windows the King and Queen still go to work."
+        "de" : "Man erzählt, ein Schutzgeist, der Graue Alte, wohne in den Ruinen der alten Burg Tre Kronor und wache über dieses Schloss.",
+        "en" : "People say a guardian spirit, the Grey Man, lives in the ruins of old Tre Kronor castle. He watches over this palace."
       },
       "name" : "Stockholms slott",
       "pos" : [
         59.326892,
         18.071688
       ],
-      "story" : "More than 600 rooms on eleven floors, and behind those windows the King and Queen still go to work."
+      "story" : "People say a guardian spirit, the Grey Man, lives in the ruins of old Tre Kronor castle. He watches over this palace."
     },
     {
-      "extendedStory" : "The church opened in 1306 and carries the name of Saint Nicholas. Kings were crowned under this roof, and princes and princesses were married here, century after century. Even so, it did not become a cathedral with a bishop of its own until the 1940s. The carved group inside is medieval, made of wood, and it is the largest wooden sculpture in Europe. It is worth a slow circle.",
+      "extendedStory" : "The carver also worked in metal, string and parchment, which turns the group into a treasure hunt for the eyes. It is the largest wooden sculpture in Europe. The church around it carries the name of Saint Nicholas. Kings were crowned here, and princes and princesses married here, for centuries. Yet it had to wait until the 1940s to become a cathedral with a bishop of its own.",
       "icon" : "choice",
       "id" : "f-storkyrkan",
       "kind" : "church",
       "localizedExtendedStory" : {
-        "de" : "Die Kirche wurde 1306 eröffnet und trägt den Namen des heiligen Nikolaus. Unter diesem Dach wurden Könige gekrönt, Prinzen und Prinzessinnen heirateten hier, Jahrhundert für Jahrhundert. Domkirche mit eigenem Bischof wurde sie trotzdem erst in den 1940er Jahren. Die Figurengruppe drinnen ist mittelalterlich, aus Holz geschnitten, und die größte Holzskulptur Europas. Sie lohnt eine langsame Runde.",
-        "en" : "The church opened in 1306 and carries the name of Saint Nicholas. Kings were crowned under this roof, and princes and princesses were married here, century after century. Even so, it did not become a cathedral with a bishop of its own until the 1940s. The carved group inside is medieval, made of wood, and it is the largest wooden sculpture in Europe. It is worth a slow circle."
+        "de" : "Der Schnitzer arbeitete auch mit Metall, Schnur und Pergament, und so wird die Gruppe zur Schatzsuche für die Augen. Sie ist die größte Holzskulptur Europas. Die Kirche um sie herum trägt den Namen des heiligen Nikolaus. Jahrhundertelang wurden hier Könige gekrönt, und Prinzen und Prinzessinnen heirateten hier. Doch Domkirche mit eigenem Bischof wurde sie erst in den 1940er Jahren, nach all dieser Zeit.",
+        "en" : "The carver also worked in metal, string and parchment, which turns the group into a treasure hunt for the eyes. It is the largest wooden sculpture in Europe. The church around it carries the name of Saint Nicholas. Kings were crowned here, and princes and princesses married here, for centuries. Yet it had to wait until the 1940s to become a cathedral with a bishop of its own."
       },
       "localizedStory" : {
-        "de" : "Drinnen steht der heilige Georg mit dem Drachen, im Mittelalter aus Holz geschnitten und die größte Holzskulptur Europas.",
-        "en" : "Inside stands St George and the Dragon, cut from wood in the Middle Ages and the largest wooden sculpture in Europe."
+        "de" : "Drinnen kämpft der heilige Georg gegen einen Drachen, dessen Stacheln echte Elchgeweihe sind. Auch Leder und sogar Menschenhaar stecken in der Figur.",
+        "en" : "Inside, St George fights a dragon whose spikes are real elk antlers. Look for leather and even human hair on the carving too."
       },
       "name" : "Storkyrkan",
       "pos" : [
         59.325697,
         18.069832
       ],
-      "story" : "Inside stands St George and the Dragon, cut from wood in the Middle Ages and the largest wooden sculpture in Europe."
+      "story" : "Inside, St George fights a dragon whose spikes are real elk antlers. Look for leather and even human hair on the carving too."
     },
     {
-      "extendedStory" : "The museum opened in 2001, the year the Nobel Prize turned one hundred. Its home is the Börshuset on Stortorget, and it takes the ground floor. Directly above are the rooms of the Swedish Academy. Alfred Nobel gave his name to the prize, and the prize gave its name to the museum. All of it on one square in the old town.",
+      "extendedStory" : "Alfred Nobel gave the prize its name, and the prize gave its name to this museum. It opened for the prize's hundredth birthday, in the Börshuset on Stortorget, and it takes the ground floor. One floor up are the rooms of the Swedish Academy. So the next time you sit down in the bistro here, you may be sitting on a famous signature.",
       "icon" : "everyday",
       "id" : "f-nobelprismuseet",
       "kind" : "museum",
       "localizedExtendedStory" : {
-        "de" : "Das Museum wurde 2001 eröffnet, in dem Jahr, in dem der Nobelpreis hundert wurde. Sein Haus ist das Börshuset am Stortorget, und es nimmt das Erdgeschoss ein. Direkt darüber liegen die Räume der Schwedischen Akademie. Alfred Nobel gab dem Preis seinen Namen, und der Preis gab ihn dem Museum. Alles zusammen an einem Platz in der Altstadt.",
-        "en" : "The museum opened in 2001, the year the Nobel Prize turned one hundred. Its home is the Börshuset on Stortorget, and it takes the ground floor. Directly above are the rooms of the Swedish Academy. Alfred Nobel gave his name to the prize, and the prize gave its name to the museum. All of it on one square in the old town."
+        "de" : "Alfred Nobel gab dem Preis seinen Namen, und der Preis gab ihn diesem Museum. Es öffnete zum hundertsten Geburtstag des Preises, im Börshuset am Stortorget, und belegt dort das Erdgeschoss. Ein Stockwerk darüber liegen die Räume der Schwedischen Akademie. Wer sich also im Bistro auf einen Stuhl setzt, sitzt vielleicht gerade auf einer berühmten Unterschrift, ganz ohne es zu merken.",
+        "en" : "Alfred Nobel gave the prize its name, and the prize gave its name to this museum. It opened for the prize's hundredth birthday, in the Börshuset on Stortorget, and it takes the ground floor. One floor up are the rooms of the Swedish Academy. So the next time you sit down in the bistro here, you may be sitting on a famous signature."
       },
       "localizedStory" : {
-        "de" : "Das Nobelpreismuseum liegt im Erdgeschoss am Stortorget, und ein Stockwerk höher arbeitet die Schwedische Akademie.",
-        "en" : "The Nobel Prize Museum takes the ground floor on Stortorget, and the Swedish Academy works on the floor above."
+        "de" : "Die Stühle im Bistro dieses Museums sind sein Gästebuch. Nobelpreisträger unterschreiben darauf, und wer einen anhebt, erlebt eine Überraschung.",
+        "en" : "The chairs in this museum's bistro are its guestbook. Nobel Prize laureates sign them, so lifting one brings a surprise."
       },
       "name" : "Nobelprismuseet",
       "pos" : [
         59.325216,
         18.070831
       ],
-      "story" : "The Nobel Prize Museum takes the ground floor on Stortorget, and the Swedish Academy works on the floor above."
+      "story" : "The chairs in this museum's bistro are its guestbook. Nobel Prize laureates sign them, so lifting one brings a surprise."
     },
     {
-      "extendedStory" : "The house of the Swedish nobility went up from 1674, to plans by Simon de la Vallée. Outside it is calm and classical, a straight face on a square. Inside, the walls of the great hall carry 2,332 coats of arms, one for each noble family. Look up, and the whole room is shields, rank above rank.",
+      "extendedStory" : "Noise was forbidden at the nobles' parliament meetings, and a fine waited for anyone who broke the rule. The box on the table dates from 1769. After each parliament it was emptied, and the money was shared among poor noble widows. Around the room, the walls carry 2,332 coats of arms of noble families. Rank above rank, the shields look down on that little box.",
       "icon" : "everyday",
       "id" : "f-riddarhuset",
       "kind" : "fortress",
       "localizedExtendedStory" : {
-        "de" : "Das Haus des schwedischen Adels entstand ab 1674, nach Plänen von Simon de la Vallée. Von außen ist es ruhig und klassisch, ein glattes Gesicht am Platz. Drinnen tragen die Wände des großen Saals 2.332 Wappen, eines für jedes Adelsgeschlecht. Wer den Kopf hebt, sieht nur Schilde, Reihe über Reihe.",
-        "en" : "The house of the Swedish nobility went up from 1674, to plans by Simon de la Vallée. Outside it is calm and classical, a straight face on a square. Inside, the walls of the great hall carry 2,332 coats of arms, one for each noble family. Look up, and the whole room is shields, rank above rank."
+        "de" : "Lärm war bei den Reichstagsversammlungen des Adels verboten, und wer die Regel brach, musste eine Strafe zahlen. Das Kästchen aus Messing auf dem Tisch stammt von 1769. Nach jedem Reichstag wurde es geleert, und das Geld ging an arme adlige Witwen. Ringsum tragen die Wände 2.332 Wappen adliger Familien. Reihe über Reihe blicken die Schilde auf das kleine Kästchen auf dem Tisch hinunter.",
+        "en" : "Noise was forbidden at the nobles' parliament meetings, and a fine waited for anyone who broke the rule. The box on the table dates from 1769. After each parliament it was emptied, and the money was shared among poor noble widows. Around the room, the walls carry 2,332 coats of arms of noble families. Rank above rank, the shields look down on that little box."
       },
       "localizedStory" : {
-        "de" : "Drinnen bedecken 2.332 Adelswappen die Wände des großen Saals.",
-        "en" : "Inside, 2,332 noble coats of arms cover the walls of a single hall."
+        "de" : "Wer hier bei den Versammlungen des Adels klatschte, pfiff oder aufstampfte, zahlte Strafe. Das Messingkästchen für das Geld steht noch im Saal.",
+        "en" : "Clapping, whistling and stamping once cost the nobles here a fine. The brass box that held the money still stands in the hall."
       },
       "name" : "Riddarhuset",
       "pos" : [
         59.325669,
         18.066055
       ],
-      "story" : "Inside, 2,332 noble coats of arms cover the walls of a single hall."
+      "story" : "Clapping, whistling and stamping once cost the nobles here a fine. The brass box that held the money still stands in the hall."
     },
     {
-      "extendedStory" : "On 8 March 1571 King Johan III promised his German-born subjects a church of their own. They were given the plot of a former Dominican monastery, and this is what stands on it. On the night of 6 October 1878 a fire in the tower took the bells, the carillon and the organ. All of it came back. Every Wednesday at half past three the organist climbs up and plays the 37 bells by hand.",
+      "extendedStory" : "They are there because the old chapel was rebuilt as a hall church, which made it unusually wide. It all began with a king's promise. Johan III promised his German-born subjects a church of their own, on the plot of a former Dominican monastery. Listen for the carillon, which has played chorales since 1666. Every Wednesday afternoon the organist plays its 37 bells by hand.",
       "icon" : "everyday",
       "id" : "f-tyska-kyrkan",
       "kind" : "church",
       "localizedExtendedStory" : {
-        "de" : "Am 8. März 1571 versprach König Johan III. seinen in Deutschland geborenen Untertanen eine eigene Kirche. Sie bekamen das Grundstück des früheren Dominikanerklosters, und darauf steht dieser Bau. In der Nacht zum 7. Oktober 1878 brannte der Turm, mit den Glocken, dem Glockenspiel und der Orgel. Alles kam zurück. Jeden Mittwoch um halb vier steigt der Organist hinauf und spielt die 37 Glocken von Hand.",
-        "en" : "On 8 March 1571 King Johan III promised his German-born subjects a church of their own. They were given the plot of a former Dominican monastery, and this is what stands on it. On the night of 6 October 1878 a fire in the tower took the bells, the carillon and the organ. All of it came back. Every Wednesday at half past three the organist climbs up and plays the 37 bells by hand."
+        "de" : "Sie stehen dort, weil die alte Kapelle zu einer Hallenkirche umgebaut wurde, und so wurde sie ungewöhnlich breit. Alles begann mit dem Versprechen eines Königs. Johan III. versprach seinen in Deutschland geborenen Untertanen eine eigene Kirche, auf dem Grundstück des früheren Dominikanerklosters. Hör auf das Glockenspiel, das seit 1666 Choräle spielt. Jeden Mittwochnachmittag spielt der Organist die 37 Glocken von Hand.",
+        "en" : "They are there because the old chapel was rebuilt as a hall church, which made it unusually wide. It all began with a king's promise. Johan III promised his German-born subjects a church of their own, on the plot of a former Dominican monastery. Listen for the carillon, which has played chorales since 1666. Every Wednesday afternoon the organist plays its 37 bells by hand."
       },
       "localizedStory" : {
-        "de" : "Um acht, zwölf, sechzehn und zwanzig Uhr spielt das Glockenspiel einen Choral, so wie seit 1666.",
-        "en" : "At eight, twelve, four and eight in the evening the bells play a chorale, as they have since 1666."
+        "de" : "Drinnen stehen zwei mächtige Sandsteinpfeiler genau dort, wo schwedische Kirchen sonst den Mittelgang zum Altar haben.",
+        "en" : "Inside, two mighty sandstone pillars stand exactly where Swedish churches usually have their centre aisle up to the altar."
       },
       "name" : "Tyska kyrkan",
       "pos" : [
         59.324139,
         18.071717
       ],
-      "story" : "At eight, twelve, four and eight in the evening the bells play a chorale, as they have since 1666."
+      "story" : "Inside, two mighty sandstone pillars stand exactly where Swedish churches usually have their centre aisle up to the altar."
     },
     {
-      "extendedStory" : "Tessin built it between 1694 and about 1700 as a home for himself and his own family. The plot is no larger than an ordinary villa plot in Stockholm today. So what he put on it is a palace in miniature, grand in every detail and small in every measure. Since 1968 it has been the residence of the county governor of Stockholm.",
+      "extendedStory" : "Nicodemus Tessin the Younger built this house as a home for his own family. The plot is no larger than an ordinary villa plot in Stockholm today. So he made a palace in miniature, grand in its details and small in its measures. The park has been laid out again to his own drawings, trick and all. Since 1968 the county governor of Stockholm has lived here.",
       "icon" : "everyday",
       "id" : "f-tessinska-palatset",
       "kind" : "fortress",
       "localizedExtendedStory" : {
-        "de" : "Zwischen 1694 und etwa 1700 baute Tessin das Haus für sich und seine Familie. Das Grundstück ist nicht größer als ein gewöhnliches Villengrundstück im heutigen Stockholm. Also stellte er darauf ein Palais in Miniatur, im Detail groß und im Maß klein. Seit 1968 wohnt hier der Landeshauptmann von Stockholm.",
-        "en" : "Tessin built it between 1694 and about 1700 as a home for himself and his own family. The plot is no larger than an ordinary villa plot in Stockholm today. So what he put on it is a palace in miniature, grand in every detail and small in every measure. Since 1968 it has been the residence of the county governor of Stockholm."
+        "de" : "Nicodemus Tessin der Jüngere hatte einen guten Grund für den Trick. Er baute das Haus für seine eigene Familie, auf einem Grundstück nicht größer als ein gewöhnliches Villengrundstück im heutigen Stockholm. Also schuf er ein Palais in Miniatur, groß im Detail und klein im Maß. Der Garten ist heute wieder nach seinen eigenen Zeichnungen angelegt. Seit 1968 wohnt hier der Landeshauptmann von Stockholm.",
+        "en" : "Nicodemus Tessin the Younger built this house as a home for his own family. The plot is no larger than an ordinary villa plot in Stockholm today. So he made a palace in miniature, grand in its details and small in its measures. The park has been laid out again to his own drawings, trick and all. Since 1968 the county governor of Stockholm has lived here."
       },
       "localizedStory" : {
-        "de" : "Nicodemus Tessin der Jüngere baute dieses Palais für sich selbst, auf einem Grundstück nicht größer als ein normales Wohngrundstück.",
-        "en" : "Nicodemus Tessin the Younger built this palace for himself, on a plot no larger than an ordinary house lot."
+        "de" : "Hinter dieser Fassade liegt ein Barockgarten, der die Augen täuscht. Seine Scheinperspektiven lassen ihn viel größer wirken, als er ist.",
+        "en" : "Past this front lies a small baroque park built to fool your eyes. Its false perspectives make it look far bigger than it really is."
       },
       "name" : "Tessinska palatset",
       "pos" : [
         59.325421,
         18.072624
       ],
-      "story" : "Nicodemus Tessin the Younger built this palace for himself, on a plot no larger than an ordinary house lot."
+      "story" : "Past this front lies a small baroque park built to fool your eyes. Its false perspectives make it look far bigger than it really is."
     },
     {
-      "extendedStory" : "By tradition the house opened in 1722, though it says itself that the learned still argue about the year. The name points at a peace treaty, maybe Stettin, maybe Nystad. In 1780 Bellman put it in print, as one of the cellars where Movitz went hunting a cure for fever and hiccups. Then in 1919 Anders Zorn heard over a plate of meatballs that it was closing, and bought it instead.",
+      "extendedStory" : "The Academy owns the place, thanks to a painter. In 1919 Anders Zorn heard over a plate of meatballs that it was closing for good, so he bought it himself. He gave it to the Academy, and his will keeps meatballs on the menu forever. Their tables upstairs stand on the Bellman floor, after Bellman, who once put this house in print. By tradition it opened in 1722, though the learned still argue about the year.",
       "icon" : "everyday",
       "id" : "f-den-gyldene-freden",
       "kind" : "food_landmark",
       "localizedExtendedStory" : {
-        "de" : "Der Überlieferung nach öffnete das Haus 1722, doch es sagt selbst, dass die Gelehrten über das Jahr streiten. Der Name deutet auf einen Friedensschluss, vielleicht Stettin, vielleicht Nystad. 1780 brachte Bellman es in Druck, als einen der Keller, in denen Movitz ein Mittel gegen Fieber und Schluckauf suchte. 1919 hörte Anders Zorn bei einem Teller Fleischbällchen, dass geschlossen werden sollte, und kaufte es kurzerhand.",
-        "en" : "By tradition the house opened in 1722, though it says itself that the learned still argue about the year. The name points at a peace treaty, maybe Stettin, maybe Nystad. In 1780 Bellman put it in print, as one of the cellars where Movitz went hunting a cure for fever and hiccups. Then in 1919 Anders Zorn heard over a plate of meatballs that it was closing, and bought it instead."
+        "de" : "Die Akademie besitzt das Haus, dank eines Malers. 1919 hörte Anders Zorn bei einem Teller Fleischbällchen, dass es für immer schließen sollte, und kaufte es selbst. Er schenkte es der Akademie, und sein Testament hält Fleischbällchen für immer auf der Karte. Ihre Räume oben heißen Bellman-Etage, nach Bellman, der das Haus einst in Druck brachte. Der Überlieferung nach öffnete es 1722, doch die Gelehrten streiten über das Jahr.",
+        "en" : "The Academy owns the place, thanks to a painter. In 1919 Anders Zorn heard over a plate of meatballs that it was closing for good, so he bought it himself. He gave it to the Academy, and his will keeps meatballs on the menu forever. Their tables upstairs stand on the Bellman floor, after Bellman, who once put this house in print. By tradition it opened in 1722, though the learned still argue about the year."
       },
       "localizedStory" : {
-        "de" : "Ein Maler kaufte dieses Wirtshaus 1919, damit es nicht schließt, und sein Testament hält Fleischbällchen für immer auf der Karte.",
-        "en" : "A painter bought this tavern in 1919 so it would not close, and his will keeps meatballs on the menu forever."
+        "de" : "Donnerstags speist die Schwedische Akademie noch immer hier oben, und mindestens einmal im Jahr gibt es Erbsensuppe.",
+        "en" : "On Thursdays the Swedish Academy still dines upstairs here, with pea soup on the table at least once a year."
       },
       "name" : "Den Gyldene Freden",
       "pos" : [
         59.323103,
         18.073793
       ],
-      "story" : "A painter bought this tavern in 1919 so it would not close, and his will keeps meatballs on the menu forever."
+      "story" : "On Thursdays the Swedish Academy still dines upstairs here, with pea soup on the table at least once a year."
     },
     {
-      "extendedStory" : "A Franciscan priory stood on this island from 1270, and its church is the one medieval abbey Stockholm still has. Every Swedish monarch from Gustav II Adolf to Gustaf V rests here, except Queen Kristina. Seventeen of them, up to 1950. It is not a parish church, so no one is christened or married here. The building has one job, and it has kept it a long time.",
+      "extendedStory" : "Its designer was the sculptor Erik Gustaf Göthe, and his steeple is an iron puzzle of 2,000 parts. Long before, Franciscan friars had a priory on this island. The church they left is not a parish church, so no one is christened or married here. It is a burial church instead. Seventeen Swedish monarchs rest inside, every one from Gustav II Adolf to Gustaf V except Queen Kristina.",
       "icon" : "choice",
       "id" : "f-riddarholmskyrkan",
       "kind" : "church",
       "localizedExtendedStory" : {
-        "de" : "Seit 1270 stand auf dieser Insel ein Franziskanerkloster, und seine Kirche ist das einzige erhaltene mittelalterliche Kloster Stockholms. Jeder schwedische Monarch von Gustav II. Adolf bis Gustaf V. ruht hier, außer Königin Kristina. Siebzehn sind es, bis 1950. Eine Gemeindekirche ist sie nicht, es wird hier weder getauft noch geheiratet. Das Haus hat eine einzige Aufgabe und erfüllt sie seit langem.",
-        "en" : "A Franciscan priory stood on this island from 1270, and its church is the one medieval abbey Stockholm still has. Every Swedish monarch from Gustav II Adolf to Gustaf V rests here, except Queen Kristina. Seventeen of them, up to 1950. It is not a parish church, so no one is christened or married here. The building has one job, and it has kept it a long time."
+        "de" : "Entworfen hat sie der Bildhauer Erik Gustaf Göthe, und seine Spitze ist ein eisernes Puzzle aus 2.000 Teilen. Lange bevor es sie gab, hatten Franziskaner auf dieser Insel ein Kloster. Ihre Kirche ist keine Gemeindekirche, hier wird weder getauft noch geheiratet. Sie ist eine Grabkirche, ein Ort der Erinnerung. Siebzehn schwedische Monarchen ruhen darin, alle von Gustav II. Adolf bis Gustaf V., außer Königin Kristina.",
+        "en" : "Its designer was the sculptor Erik Gustaf Göthe, and his steeple is an iron puzzle of 2,000 parts. Long before, Franciscan friars had a priory on this island. The church they left is not a parish church, so no one is christened or married here. It is a burial church instead. Seventeen Swedish monarchs rest inside, every one from Gustav II Adolf to Gustaf V except Queen Kristina."
       },
       "localizedStory" : {
-        "de" : "Das einzige erhaltene mittelalterliche Kloster Stockholms, und drinnen ruhen siebzehn schwedische Monarchen.",
-        "en" : "Stockholm's only medieval abbey still standing, and seventeen Swedish monarchs rest inside."
+        "de" : "Nachdem der Blitz in die alte Turmspitze fuhr, zeichnete ein Bildhauer eine neue aus luftigem, durchbrochenem Gusseisen. Eine zweite solche hat Europa in Rouen.",
+        "en" : "After lightning struck the old tower top, a sculptor drew a new steeple in open cast iron. Europe has one more like it, in Rouen."
       },
       "name" : "Riddarholmskyrkan",
       "pos" : [
         59.324544,
         18.064602
       ],
-      "story" : "Stockholm's only medieval abbey still standing, and seventeen Swedish monarchs rest inside."
+      "story" : "After lightning struck the old tower top, a sculptor drew a new steeple in open cast iron. Europe has one more like it, in Rouen."
     }
   ],
-  "generatedAt" : "2026-09-13T14:39:16Z",
+  "generatedAt" : "2026-09-17T18:02:03Z",
   "icon" : {
     "paths" : [
       "M 8.00,35.00 L 8.00,23.00 L 8.28,23.00 L 13.89,12.80 L 19.50,23.00 L 19.11,23.00 L 25.00,8.00 L 30.89,23.00 L 30.50,23.00 L 36.11,12.80 L 41.72,23.00 L 42.00,23.00 L 42.00,35.00 Z M 11.29,12.41 C 11.29,10.97 12.45,9.81 13.89,9.81 C 15.33,9.81 16.49,10.97 16.49,12.41 C 16.49,13.85 15.33,15.01 13.89,15.01 C 12.45,15.01 11.29,13.85 11.29,12.41 Z M 22.40,7.61 C 22.40,6.17 23.56,5.01 25.00,5.01 C 26.44,5.01 27.60,6.17 27.60,7.61 C 27.60,9.05 26.44,10.21 25.00,10.21 C 23.56,10.21 22.40,9.05 22.40,7.61 Z M 33.51,12.41 C 33.51,10.97 34.67,9.81 36.11,9.81 C 37.55,9.81 38.71,10.97 38.71,12.41 C 38.71,13.85 37.55,15.01 36.11,15.01 C 34.67,15.01 33.51,13.85 33.51,12.41 Z M 6.64,34.00 L 43.36,34.00 L 43.36,38.60 L 6.64,38.60 Z M 58.00,35.00 L 58.00,23.00 L 58.28,23.00 L 63.89,12.80 L 69.50,23.00 L 69.11,23.00 L 75.00,8.00 L 80.89,23.00 L 80.50,23.00 L 86.11,12.80 L 91.72,23.00 L 92.00,23.00 L 92.00,35.00 Z M 61.29,12.41 C 61.29,10.97 62.45,9.81 63.89,9.81 C 65.33,9.81 66.49,10.97 66.49,12.41 C 66.49,13.85 65.33,15.01 63.89,15.01 C 62.45,15.01 61.29,13.85 61.29,12.41 Z M 72.40,7.61 C 72.40,6.17 73.56,5.01 75.00,5.01 C 76.44,5.01 77.60,6.17 77.60,7.61 C 77.60,9.05 76.44,10.21 75.00,10.21 C 73.56,10.21 72.40,9.05 72.40,7.61 Z M 83.51,12.41 C 83.51,10.97 84.67,9.81 86.11,9.81 C 87.55,9.81 88.71,10.97 88.71,12.41 C 88.71,13.85 87.55,15.01 86.11,15.01 C 84.67,15.01 83.51,13.85 83.51,12.41 Z M 56.64,34.00 L 93.36,34.00 L 93.36,38.60 L 56.64,38.60 Z M 31.64,78.16 L 31.64,65.20 L 31.94,65.20 L 38.00,54.18 L 44.06,65.20 L 43.64,65.20 L 50.00,49.00 L 56.36,65.20 L 55.94,65.20 L 62.00,54.18 L 68.06,65.20 L 68.36,65.20 L 68.36,78.16 Z M 35.19,53.76 C 35.19,52.21 36.45,50.95 38.00,50.95 C 39.55,50.95 40.81,52.21 40.81,53.76 C 40.81,55.31 39.55,56.57 38.00,56.57 C 36.45,56.57 35.19,55.31 35.19,53.76 Z M 47.19,48.58 C 47.19,47.03 48.45,45.77 50.00,45.77 C 51.55,45.77 52.81,47.03 52.81,48.58 C 52.81,50.13 51.55,51.39 50.00,51.39 C 48.45,51.39 47.19,50.13 47.19,48.58 Z M 59.19,53.76 C 59.19,52.21 60.45,50.95 62.00,50.95 C 63.55,50.95 64.81,52.21 64.81,53.76 C 64.81,55.31 63.55,56.57 62.00,56.57 C 60.45,56.57 59.19,55.31 59.19,53.76 Z M 30.17,77.16 L 69.83,77.16 L 69.83,82.05 L 30.17,82.05 Z"
@@ -5370,7 +5370,7 @@
     "en" : "Stockholm"
   },
   "name" : "Stockholm",
-  "packVersion" : 10,
+  "packVersion" : 12,
   "schemaVersion" : 1,
   "source" : "OpenStreetMap via Overpass API",
   "stats" : {

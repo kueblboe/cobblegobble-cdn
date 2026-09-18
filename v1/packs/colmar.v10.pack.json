@@ -107,14 +107,9 @@
 
     ],
     "adjustedStreets" : [
-      "Place Jeanne d'Arc",
-      "Place de l'Ancienne Douane",
-      "Place de la Cathédrale",
-      "Place du Deux Février",
-      "Quai de la Poissonnerie",
-      "Rue Étroite"
+
     ],
-    "fromVersion" : 7,
+    "fromVersion" : 9,
     "removedStreets" : [
 
     ]
@@ -4536,6 +4531,90 @@
         48.07953,
         7.354531
       ]
+    ],
+    [
+      [
+        48.073068,
+        7.35817
+      ],
+      [
+        48.073045,
+        7.358158
+      ],
+      [
+        48.073011,
+        7.358163
+      ],
+      [
+        48.072961,
+        7.358183
+      ],
+      [
+        48.072907,
+        7.358217
+      ]
+    ],
+    [
+      [
+        48.074517,
+        7.361503
+      ],
+      [
+        48.074492,
+        7.361577
+      ]
+    ],
+    [
+      [
+        48.078022,
+        7.364383
+      ],
+      [
+        48.078025,
+        7.364467
+      ],
+      [
+        48.078026,
+        7.364496
+      ]
+    ],
+    [
+      [
+        48.080105,
+        7.35823
+      ],
+      [
+        48.080069,
+        7.358206
+      ],
+      [
+        48.079935,
+        7.358117
+      ]
+    ],
+    [
+      [
+        48.080145,
+        7.358103
+      ],
+      [
+        48.080196,
+        7.357935
+      ]
+    ],
+    [
+      [
+        48.08029,
+        7.35787
+      ],
+      [
+        48.080217,
+        7.358089
+      ],
+      [
+        48.080145,
+        7.358103
+      ]
     ]
   ],
   "connectorsLayered" : [
@@ -4752,171 +4831,197 @@
     false,
     false,
     false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
     false
   ],
   "fruits" : [
     {
-      "extendedStory" : "Work began in 1237 and the style is Gothic. The church belongs to Martin of Tours. The story told of him is that he met a beggar in the cold. He drew his sword and cut his own cloak in half to share it. A church on this scale in a town this small tells you the place once had money to spend.",
+      "extendedStory" : "Beside the little man with the set square, the carvers left his name: Maistres Humbret. Now wait for the hour. The bells strike it, and two minutes later they strike it again, a habit of this town and nowhere else. Then look at the towers. Every year a pair of storks comes back to nest on one of them. The pair that started it was called Martin and Martine, a good match for a church of Martin of Tours.",
       "icon" : "choice",
       "id" : "f-collegiale-saint-martin",
       "kind" : "church",
       "localizedExtendedStory" : {
-        "de" : "Die Arbeiten begannen 1237, der Stil ist gotisch. Die Kirche gehört Martin von Tours. Von ihm erzählt man, er habe im Frost einen Bettler getroffen. Er zog sein Schwert und teilte seinen Mantel. Eine Kirche dieser Größe in einer so kleinen Stadt verrät, dass der Ort einmal Geld hatte.",
-        "en" : "Work began in 1237 and the style is Gothic. The church belongs to Martin of Tours. The story told of him is that he met a beggar in the cold. He drew his sword and cut his own cloak in half to share it. A church on this scale in a town this small tells you the place once had money to spend."
+        "de" : "Neben dem kleinen Mann mit dem Winkelmaß steht sein Name im Stein: Maistres Humbret. Jetzt warte auf die volle Stunde. Die Glocken schlagen sie, und zwei Minuten später schlagen sie sie noch einmal, eine Colmarer Eigenheit. Dann schau zu den Türmen. Jedes Jahr kehrt ein Storchenpaar zurück und nistet auf einem von ihnen. Das Paar, mit dem alles anfing, hieß Martin und Martine, passend zu einer Kirche des Martin von Tours.",
+        "en" : "Beside the little man with the set square, the carvers left his name: Maistres Humbret. Now wait for the hour. The bells strike it, and two minutes later they strike it again, a habit of this town and nowhere else. Then look at the towers. Every year a pair of storks comes back to nest on one of them. The pair that started it was called Martin and Martine, a good match for a church of Martin of Tours."
       },
       "localizedStory" : {
-        "de" : "Eine gotische Kirche von 1237, benannt nach Martin von Tours, dem Soldaten, der seinen Mantel teilte.",
-        "en" : "A Gothic church begun in 1237, under the name of Martin of Tours, the soldier who cut his cloak in two."
+        "de" : "Am Portal Saint-Nicolas hält ein kleiner Mann ein Winkelmaß. Der Sage nach ist es Meister Humbert selbst, der Baumeister.",
+        "en" : "On the Saint-Nicolas portal a little man holds a set square. The story goes he is Master Humbert, the architect himself."
       },
       "name" : "Collégiale Saint-Martin",
       "pos" : [
         48.077379,
         7.357748
       ],
-      "story" : "A Gothic church begun in 1237, under the name of Martin of Tours, the soldier who cut his cloak in two."
+      "story" : "On the Saint-Nicolas portal a little man holds a set square. The story goes he is Master Humbert, the architect himself."
     },
     {
-      "extendedStory" : "The Issenheim altarpiece was painted by Matthias Grunewald between 1512 and 1516, over carving by Nicolas de Haguenau from about 1490. It was made for the Antonite house at Issenheim. Their hospital treated a burning sickness that came from ergot growing in the rye. Patients were brought in front of this painting as part of their care. It was not made for a gallery wall, and it does not behave like something that was.",
+      "extendedStory" : "This altarpiece was made for people who were very ill. The Antonite hospital at Issenheim treated a burning sickness that came from ergot in the rye. The panels were there for its patients to look at. Matthias Grunewald painted them between 1512 and 1516, over carving by Nicolas de Haguenau. Stand where a patient would have stood, and take a long look.",
       "icon" : "hero",
       "id" : "f-musee-unterlinden",
       "kind" : "museum",
       "localizedExtendedStory" : {
-        "de" : "Den Isenheimer Altar malte Matthias Grunewald zwischen 1512 und 1516, über Schnitzwerk von Nicolas de Haguenau aus der Zeit um 1490. Gemacht wurde er für das Antoniterhaus in Isenheim. Dessen Spital behandelte eine brennende Krankheit, die vom Mutterkorn im Roggen kam. Man führte die Kranken vor dieses Bild, als Teil ihrer Pflege. Für eine Museumswand war es nicht gedacht, und so verhält es sich auch nicht.",
-        "en" : "The Issenheim altarpiece was painted by Matthias Grunewald between 1512 and 1516, over carving by Nicolas de Haguenau from about 1490. It was made for the Antonite house at Issenheim. Their hospital treated a burning sickness that came from ergot growing in the rye. Patients were brought in front of this painting as part of their care. It was not made for a gallery wall, and it does not behave like something that was."
+        "de" : "Dieser Altar wurde für Menschen gemacht, die schwer krank waren. Das Spital der Antoniter in Issenheim behandelte eine brennende Krankheit, die vom Mutterkorn im Roggen kam. Die Tafeln waren für seine Kranken zum Anschauen da. Matthias Grunewald bemalte sie zwischen 1512 und 1516, über Schnitzwerk von Nicolas de Haguenau. Stell dich dorthin, wo ein Kranker gestanden hätte, und schau lange hin.",
+        "en" : "This altarpiece was made for people who were very ill. The Antonite hospital at Issenheim treated a burning sickness that came from ergot in the rye. The panels were there for its patients to look at. Matthias Grunewald painted them between 1512 and 1516, over carving by Nicolas de Haguenau. Stand where a patient would have stood, and take a long look."
       },
       "localizedStory" : {
-        "de" : "Hier hängt ein Altar, gemalt für ein Spital, zum Anschauen für Menschen, die schwer krank waren.",
-        "en" : "It holds an altarpiece painted for a hospital, to be looked at by people who were very ill."
+        "de" : "Im Zweiten Weltkrieg versteckte man den großen Altar von hier in Burgen. In der letzten, Haut-Koenigsbourg, fand ihn die amerikanische Armee.",
+        "en" : "In the Second World War the great altarpiece in here hid in castles. The American army found it in the last of them, Haut-Koenigsbourg."
       },
       "name" : "Musée Unterlinden",
       "pos" : [
         48.080109,
         7.355299
       ],
-      "story" : "It holds an altarpiece painted for a hospital, to be looked at by people who were very ill."
+      "story" : "In the Second World War the great altarpiece in here hid in castles. The American army found it in the last of them, Haut-Koenigsbourg."
     },
     {
-      "extendedStory" : "Ludwig Scherer was a hatter from Besancon, and in 1537 he had this house built. Look up for the corner oriel, two storeys tall, and the eight-sided turret with the spiral stair inside it. The walls carry painted emperors of the sixteenth century. The name on it now belongs to the Pfister family, who bought the place in 1841. The man who paid for it does not get his name on it.",
+      "extendedStory" : "The man who paid for it is not the man it is named for. Ludwig Scherer, a hatter from Besancon, had it built in 1537. The Pfister family bought it in 1841, and their name stuck. Find the corner oriel, two storeys tall, and the eight-sided turret with a spiral stair inside. On the walls, painted emperors keep company with the four Evangelists, Faith and Justice.",
       "icon" : "choice",
       "id" : "f-maison-pfister",
       "kind" : "attraction",
       "localizedExtendedStory" : {
-        "de" : "Ludwig Scherer war Hutmacher aus Besancon und ließ 1537 dieses Haus bauen. Schau hinauf zum Eckerker über zwei Geschosse und zum achteckigen Türmchen mit der Wendeltreppe darin. Auf den Wänden stehen gemalte Kaiser des sechzehnten Jahrhunderts. Der Name daran gehört der Familie Pfister, die das Haus 1841 kaufte. Der Mann, der es bezahlte, steht nicht daran.",
-        "en" : "Ludwig Scherer was a hatter from Besancon, and in 1537 he had this house built. Look up for the corner oriel, two storeys tall, and the eight-sided turret with the spiral stair inside it. The walls carry painted emperors of the sixteenth century. The name on it now belongs to the Pfister family, who bought the place in 1841. The man who paid for it does not get his name on it."
+        "de" : "Der Mann, der das Haus bezahlt hat, gab ihm nicht seinen Namen. Ludwig Scherer, ein Hutmacher aus Besancon, ließ es 1537 bauen. Die Familie Pfister kaufte es 1841, und ihr Name blieb. Such den Eckerker über zwei Geschosse und das achteckige Türmchen mit der Wendeltreppe darin. An den Wänden sind Kaiser gemalt, dazu die vier Evangelisten, der Glaube und die Gerechtigkeit.",
+        "en" : "The man who paid for it is not the man it is named for. Ludwig Scherer, a hatter from Besancon, had it built in 1537. The Pfister family bought it in 1841, and their name stuck. Find the corner oriel, two storeys tall, and the eight-sided turret with a spiral stair inside. On the walls, painted emperors keep company with the four Evangelists, Faith and Justice."
       },
       "localizedStory" : {
-        "de" : "1537 von einem Hutmacher gebaut. 1841 nach einer Familie benannt, die es schlicht kaufte.",
-        "en" : "Built in 1537 by a hatter. Named in 1841 after a family who simply bought it."
+        "de" : "Man erzählt, Hayao Miyazaki habe sich für Das wandelnde Schloss von Colmar anregen lassen. Dieses bemalte Haus tauche in seinem Werk auf.",
+        "en" : "It is said Hayao Miyazaki drew on Colmar for Howl's Moving Castle, and that this painted house turns up in his work."
       },
       "name" : "Maison Pfister",
       "pos" : [
         48.076738,
         7.358149
       ],
-      "story" : "Built in 1537 by a hatter. Named in 1841 after a family who simply bought it."
+      "story" : "It is said Hayao Miyazaki drew on Colmar for Howl's Moving Castle, and that this painted house turns up in his work."
     },
     {
-      "extendedStory" : "The building dates from 1480. Downstairs were warehouses and the place where goods coming in and going out were taxed. Upstairs the deputies of the Decapole met, the league of ten free Alsatian cities. The turret and the glazed tiles look thoroughly medieval. They are not. Both were put on during the restoration of 1895 to 1898.",
+      "extendedStory" : "Underneath the costume is a hard-working building. Downstairs held warehouses and the place where goods were taxed. Upstairs, the ten free Alsatian cities of the Decapole sat down together to talk. Later the same house even served as the town's slaughterhouse, right up until 1840. It was built back in 1480, and it has worn a lot of jobs since.",
       "icon" : "everyday",
       "id" : "f-ancienne-douane-koifhus",
       "kind" : "other",
       "localizedExtendedStory" : {
-        "de" : "Der Bau stammt von 1480. Unten lagen Lager und die Stelle, an der ein- und ausgehende Waren verzollt wurden. Oben tagten die Abgeordneten der Dekapolis, des Bundes von zehn freien elsässischen Städten. Türmchen und glasierte Ziegel wirken wie das Mittelalterlichste in Colmar. Sind sie nicht. Beides kam bei der Restaurierung von 1895 bis 1898 hinzu.",
-        "en" : "The building dates from 1480. Downstairs were warehouses and the place where goods coming in and going out were taxed. Upstairs the deputies of the Decapole met, the league of ten free Alsatian cities. The turret and the glazed tiles look thoroughly medieval. They are not. Both were put on during the restoration of 1895 to 1898."
+        "de" : "Unter dem Kostüm steckt ein fleißiger Bau. Unten lagen Lager und die Stelle, an der Waren verzollt wurden. Oben kamen die zehn freien elsässischen Städte der Dekapolis zusammen und berieten. Später diente dasselbe Haus sogar als Schlachthaus der Stadt, bis 1840. Gebaut wurde es schon 1480, und seitdem hatte es viele Aufgaben.",
+        "en" : "Underneath the costume is a hard-working building. Downstairs held warehouses and the place where goods were taxed. Upstairs, the ten free Alsatian cities of the Decapole sat down together to talk. Later the same house even served as the town's slaughterhouse, right up until 1840. It was built back in 1480, and it has worn a lot of jobs since."
       },
       "localizedStory" : {
-        "de" : "Unten wurden Waren verzollt. Oben saßen zehn freie Städte zusammen und berieten.",
-        "en" : "Goods were taxed downstairs. Upstairs, ten free cities sat down together to talk."
+        "de" : "Die glänzenden Ziegel und das Türmchen sehen mittelalterlich aus. Sind sie nicht. Beides kam bei einer Restaurierung ab 1895 dazu.",
+        "en" : "Those shiny glazed tiles and the little turret look medieval. They are not. Both were added in a restoration that began in 1895."
       },
       "name" : "Ancienne douane (Koïfhus)",
       "pos" : [
         48.075864,
         7.358999
       ],
-      "story" : "Goods were taxed downstairs. Upstairs, ten free cities sat down together to talk."
+      "story" : "Those shiny glazed tiles and the little turret look medieval. They are not. Both were added in a restoration that began in 1895."
     },
     {
-      "extendedStory" : "Building began in 1289. The choir was done before 1300 and the nave by 1346. There is no transept at all, so the space runs straight through without interruption. Slender columns, wooden ceilings and fourteenth-century glass do the rest, and the result is a church full of light. In the choir stands Martin Schongauer's Virgin of the Rose Bower, painted in 1473.",
+      "extendedStory" : "After the theft the painting came to this choir, for safety. Look for the bower of roses that gives it its name. Martin Schongauer painted it in 1473. The church around it was begun in 1289, and it has no transept at all, so the space runs straight through. Slender columns, wooden ceilings and fourteenth-century glass fill it with light.",
       "icon" : "everyday",
       "id" : "f-eglise-des-dominicains",
       "kind" : "church",
       "localizedExtendedStory" : {
-        "de" : "Der Bau begann 1289. Der Chor war vor 1300 fertig, das Schiff bis 1346. Ein Querschiff fehlt ganz, der Raum läuft also ohne Unterbrechung durch. Schlanke Säulen, Holzdecken und Glas aus dem vierzehnten Jahrhundert tun das Übrige, und heraus kommt eine Kirche voller Licht. Im Chor steht Martin Schongauers Madonna im Rosenhag von 1473.",
-        "en" : "Building began in 1289. The choir was done before 1300 and the nave by 1346. There is no transept at all, so the space runs straight through without interruption. Slender columns, wooden ceilings and fourteenth-century glass do the rest, and the result is a church full of light. In the choir stands Martin Schongauer's Virgin of the Rose Bower, painted in 1473."
+        "de" : "Nach dem Diebstahl kam das Bild in diesen Chor, zur Sicherheit. Achte auf den Rosenhag, nach dem es heißt. Martin Schongauer malte es 1473. Die Kirche drumherum wurde 1289 begonnen, und ein Querschiff fehlt ganz, der Raum läuft also ohne Unterbrechung durch. Schlanke Säulen, Holzdecken und Glas aus dem vierzehnten Jahrhundert füllen ihn mit Licht.",
+        "en" : "After the theft the painting came to this choir, for safety. Look for the bower of roses that gives it its name. Martin Schongauer painted it in 1473. The church around it was begun in 1289, and it has no transept at all, so the space runs straight through. Slender columns, wooden ceilings and fourteenth-century glass fill it with light."
       },
       "localizedStory" : {
-        "de" : "Kein Querschiff, schlanke Säulen und altes Glas. Darum ist es drinnen so hell.",
-        "en" : "No transept, slender columns, and old glass. That is why it is so bright inside."
+        "de" : "Schongauers Madonna im Rosenhag wurde 1972 gestohlen und tauchte in einer Garage bei Lyon wieder auf. Wer sie nahm, weiß bis heute niemand.",
+        "en" : "Schongauer's Virgin of the Rose Bower was stolen in 1972 and turned up in a garage near Lyon. Nobody ever found out who took it."
       },
       "name" : "Église des Dominicains",
       "pos" : [
         48.078165,
         7.356285
       ],
-      "story" : "No transept, slender columns, and old glass. That is why it is so bright inside."
+      "story" : "Schongauer's Virgin of the Rose Bower was stolen in 1972 and turned up in a garage near Lyon. Nobody ever found out who took it."
     },
     {
-      "extendedStory" : "The abbey of Pairis put this building up in 1779, in the Neoclassical manner of straight lines and quiet fronts. It has changed hands repeatedly since. The department took it in 1790 and the prefecture from 1800. The town itself did not get it until 1866. Four owners in under a century is a fair summary of what happened to Alsace in that time.",
+      "extendedStory" : "Nobody knows when the Nachtkalb moved in, or why it chose this street. The building it prowls past has had a busier life than the calf. The abbey of Pairis built it in 1779, in the calm, straight lines of the Neoclassical style. The department moved in next, then the prefecture. The town itself did not take it over until 1866.",
       "icon" : "everyday",
       "id" : "f-hotel-de-ville-de-colmar",
       "kind" : "civic",
       "localizedExtendedStory" : {
-        "de" : "Die Abtei Pairis errichtete dieses Haus 1779, klassizistisch, mit geraden Linien und ruhiger Front. Seither wechselte es mehrfach den Besitzer. 1790 nahm es das Departement, ab 1800 die Präfektur, und erst 1866 die Stadt selbst. Vier Besitzer in knapp einem Jahrhundert fassen ganz gut zusammen, was dem Elsass in dieser Zeit widerfuhr.",
-        "en" : "The abbey of Pairis put this building up in 1779, in the Neoclassical manner of straight lines and quiet fronts. It has changed hands repeatedly since. The department took it in 1790 and the prefecture from 1800. The town itself did not get it until 1866. Four owners in under a century is a fair summary of what happened to Alsace in that time."
+        "de" : "Niemand weiß, wann das Nachtkalb eingezogen ist oder warum es gerade diese Straße gewählt hat. Der Bau, an dem es vorbeischleicht, hat ein bewegteres Leben hinter sich als das Kalb. Die Abtei Pairis ließ ihn 1779 errichten, in den ruhigen, geraden Linien des Klassizismus. Danach zog das Departement ein, später die Präfektur. Die Stadt selbst bekam ihn erst 1866.",
+        "en" : "Nobody knows when the Nachtkalb moved in, or why it chose this street. The building it prowls past has had a busier life than the calf. The abbey of Pairis built it in 1779, in the calm, straight lines of the Neoclassical style. The department moved in next, then the prefecture. The town itself did not take it over until 1866."
       },
       "localizedStory" : {
-        "de" : "Eine Abtei baute dieses Haus 1779. Seit 1866 verwaltet sich die Stadt von hier aus.",
-        "en" : "An abbey built this house in 1779. The town has run itself from it since 1866."
+        "de" : "Tagsüber eine freundliche Straße. Nachts gehört sie der Sage nach dem Nachtkalb, einem Ungeheuer, das in den Ecken lauert und schnauft.",
+        "en" : "At nightfall, the story goes, a fearsome calf called Nachtkalb claims this street. It lurks in corners and snorts."
       },
       "name" : "Hôtel de Ville de Colmar",
       "pos" : [
         48.079114,
         7.358309
       ],
-      "story" : "An abbey built this house in 1779. The town has run itself from it since 1866."
+      "story" : "At nightfall, the story goes, a fearsome calf called Nachtkalb claims this street. It lurks in corners and snorts."
     },
     {
-      "extendedStory" : "Copper, hammered thin and worked at enormous size, made this household famous. Whoever grew up here gave America its torch-bearing woman. Belfort got its crouching lion from those same hands. Rooms passed into municipal ownership during 1907. Public admission followed on 18 November 1922, so visitors now cross floors where colossal figures began as small models.",
+      "extendedStory" : "Her name was Charlotte, and her son arrived in these rooms. Years later he shaped a lion for Belfort and a giantess for a harbour across the sea. If the tale holds, that giantess wears Charlotte's face. He never said yes, and he never said no. The family home passed to the town in 1907 and has welcomed visitors since 1922.",
       "icon" : "choice",
       "id" : "f-musee-bartholdi",
       "kind" : "museum",
       "localizedExtendedStory" : {
-        "de" : "Frederic Auguste Bartholdi wurde hier geboren. Er wurde Bildhauer, und zwei seiner Werke kennt man weit über Frankreich hinaus: die Freiheitsstatue und den Löwen von Belfort. Das Haus fiel 1907 an die Stadt und öffnete am 18. November 1922 als Museum. Eine Gestalt im Hafen von New York hat sich jemand ausgedacht, der in dieser Gasse aufwuchs.",
-        "en" : "Copper, hammered thin and worked at enormous size, made this household famous. Whoever grew up here gave America its torch-bearing woman. Belfort got its crouching lion from those same hands. Rooms passed into municipal ownership during 1907. Public admission followed on 18 November 1922, so visitors now cross floors where colossal figures began as small models."
+        "de" : "Sie hieß Charlotte, und hier ist ihr Sohn geboren. Frédéric Auguste Bartholdi wurde der Bildhauer der Freiheitsstatue und des Löwen von Belfort. Stimmt die Geschichte, dann hat ein Gesicht, das die ganze Welt kennt, in dieser Familie angefangen. 1907 ging sein Geburtshaus an die Stadt. 1922 öffnete es als Museum.",
+        "en" : "Her name was Charlotte, and her son arrived in these rooms. Years later he shaped a lion for Belfort and a giantess for a harbour across the sea. If the tale holds, that giantess wears Charlotte's face. He never said yes, and he never said no. The family home passed to the town in 1907 and has welcomed visitors since 1922."
       },
       "localizedStory" : {
-        "de" : "Der Mann, der die Freiheitsstatue schuf, wurde in diesem Haus geboren.",
-        "en" : "A boy grew up in this house and later thought up a statue for New York harbour."
+        "de" : "Man erzählt, Bartholdi habe der Freiheitsstatue das Gesicht seiner eigenen Mutter gegeben. Er hat das nie erklärt und nie bestritten.",
+        "en" : "The story goes that Bartholdi gave the Statue of Liberty his own mother's face. He never explained it, and he never denied it."
       },
       "name" : "Musée Bartholdi",
       "pos" : [
         48.076745,
         7.357629
       ],
-      "story" : "A boy grew up in this house and later thought up a statue for New York harbour."
+      "story" : "The story goes that Bartholdi gave the Statue of Liberty his own mother's face. He never explained it, and he never denied it."
     },
     {
-      "extendedStory" : "The nave went up in 1292 for Franciscan friars. In 1575 the building passed to the Protestants. Then in 1715 a royal order put a wall straight across the inside. Two congregations could now use one church without meeting, and that wall stood until 1987. There is also a Silbermann organ of 1731, from the family whose organs are scattered across Alsace.",
+      "extendedStory" : "The wall has gone, so picture it. It ran across the middle, and each half was a room of its own. The building started life as the nave of a Franciscan church. In 1575 it passed to the Protestants. The wall came much later, on a king's order. Before you leave, find the organ. Silbermann built it in 1731.",
       "icon" : "everyday",
       "id" : "f-eglise-saint-matthieu",
       "kind" : "church",
       "localizedExtendedStory" : {
-        "de" : "Das Kirchenschiff entstand 1292 für Franziskaner. 1575 ging der Bau an die Protestanten. 1715 zog ein königlicher Befehl eine Mauer quer durch das Innere, damit zwei Gemeinden eine Kirche nutzen konnten, ohne sich zu begegnen. Diese Mauer stand bis 1987. Dazu kommt eine Silbermann-Orgel von 1731, aus der Familie, deren Orgeln überall im Elsass stehen.",
-        "en" : "The nave went up in 1292 for Franciscan friars. In 1575 the building passed to the Protestants. Then in 1715 a royal order put a wall straight across the inside. Two congregations could now use one church without meeting, and that wall stood until 1987. There is also a Silbermann organ of 1731, from the family whose organs are scattered across Alsace."
+        "de" : "Stell dir die Mauer vor, die hier stand. Sie lief quer durch die Mitte, und jede Hälfte war ein eigener Raum. Begonnen hat der Bau als Langhaus einer Franziskanerkirche. 1575 ging er an die Protestanten. Die Mauer kam viel später, auf Befehl des Königs. Bevor du gehst, such die Orgel. Silbermann hat sie 1731 gebaut.",
+        "en" : "The wall has gone, so picture it. It ran across the middle, and each half was a room of its own. The building started life as the nave of a Franciscan church. In 1575 it passed to the Protestants. The wall came much later, on a king's order. Before you leave, find the organ. Silbermann built it in 1731."
       },
       "localizedStory" : {
-        "de" : "Eine Kirche, zwei Gemeinden, und jahrhundertelang eine Mauer mittendurch.",
-        "en" : "One church, two congregations, and a wall straight down the middle for centuries."
+        "de" : "Fast drei Jahrhunderte lang lief eine Mauer quer durch diese Kirche, gebaut auf Befehl des Königs. Erst 1987 fiel sie.",
+        "en" : "For almost three centuries a wall ran straight across this church, put up on a king's order. It came down in 1987."
       },
       "name" : "Église Saint-Matthieu",
       "pos" : [
         48.077037,
         7.36081
       ],
-      "story" : "One church, two congregations, and a wall straight down the middle for centuries."
+      "story" : "For almost three centuries a wall ran straight across this church, put up on a king's order. It came down in 1987."
+    },
+    {
+      "extendedStory" : "Anton Burger, a merchant, had the house built in 1609. Why he covered it in grotesque masks is a question with no answer, though perhaps he simply wanted to stand out. They climb the façade and the oriel, three storeys high. Now look right up to the top of the gable. A little tin cooper stands there, made by Auguste Bartholdi and put up in 1902.",
+      "icon" : "everyday",
+      "id" : "f-maison-des-tetes",
+      "kind" : "attraction",
+      "localizedExtendedStory" : {
+        "de" : "Anton Burger, ein Kaufmann, ließ das Haus 1609 bauen. Warum er es mit grotesken Masken überzog, ist eine Frage ohne Antwort. Vielleicht wollte er einfach auffallen. Sie klettern über die Fassade und den Erker, drei Stockwerke hoch. Schau jetzt ganz hinauf zum Giebel. Dort steht ein kleiner Küfer aus Zinn, von Auguste Bartholdi, aufgestellt 1902.",
+        "en" : "Anton Burger, a merchant, had the house built in 1609. Why he covered it in grotesque masks is a question with no answer, though perhaps he simply wanted to stand out. They climb the façade and the oriel, three storeys high. Now look right up to the top of the gable. A little tin cooper stands there, made by Auguste Bartholdi and put up in 1902."
+      },
+      "localizedStory" : {
+        "de" : "Zähl die Gesichter. Hundertsechs groteske Köpfe und Masken drängen sich an diesem Haus, und niemand weiß, warum der Kaufmann sie wollte.",
+        "en" : "Count the faces. A hundred and six grotesque heads and masks crowd this house, and nobody knows why the merchant wanted them."
+      },
+      "name" : "Maison des Têtes",
+      "pos" : [
+        48.07856,
+        7.355532
+      ],
+      "story" : "Count the faces. A hundred and six grotesque heads and masks crowd this house, and nobody knows why the merchant wanted them."
     }
   ],
-  "generatedAt" : "2026-09-13T14:37:14Z",
+  "generatedAt" : "2026-09-17T10:16:08Z",
   "icon" : {
     "paths" : [
       "M34 40L66 40L66 90L34 90ZM30 42L70 42L50 12ZM40 48L40 56L47 56L47 48ZM53 48L53 56L60 56L60 48ZM40 64L40 72L47 72L47 64ZM53 64L53 72L60 72L60 64ZM45 78L45 90L55 90L55 78Z"
@@ -4929,17 +5034,17 @@
     "en" : "Colmar"
   },
   "name" : "Colmar",
-  "packVersion" : 8,
+  "packVersion" : 10,
   "schemaVersion" : 1,
   "source" : "OpenStreetMap via Overpass API",
   "stats" : {
-    "estHours" : 6.6,
-    "nodeCount" : 1174,
-    "routeFactor" : 1.27,
-    "routeKm" : 23,
+    "estHours" : 6.5,
+    "nodeCount" : 1169,
+    "routeFactor" : 1.25,
+    "routeKm" : 22.6,
     "stepsStreetCount" : 0,
     "streetCount" : 115,
-    "totalKm" : 18.23
+    "totalKm" : 18.14
   },
   "streets" : [
     {
@@ -5780,7 +5885,6 @@
       "id" : "s-cours-sainte-anne",
       "layered" : [
         true,
-        false,
         true,
         true,
         false,
@@ -5790,7 +5894,7 @@
         true,
         true
       ],
-      "lengthM" : 308,
+      "lengthM" : 281.7,
       "name" : "Cours Sainte-Anne",
       "nodes" : [
         [
@@ -5800,14 +5904,6 @@
         [
           48.080349,
           7.356654
-        ],
-        [
-          48.08029,
-          7.35787
-        ],
-        [
-          48.080201,
-          7.358092
         ],
         [
           48.079913,
@@ -5875,20 +5971,6 @@
           [
             48.080349,
             7.356654
-          ]
-        ],
-        [
-          [
-            48.08029,
-            7.35787
-          ],
-          [
-            48.080217,
-            7.358089
-          ],
-          [
-            48.080145,
-            7.358103
           ]
         ],
         [
@@ -12025,7 +12107,7 @@
     },
     {
       "id" : "s-rue-de-l-ancienne-mairie",
-      "lengthM" : 78.2,
+      "lengthM" : 59.4,
       "name" : "Rue de l'Ancienne Mairie",
       "nodes" : [
         [
@@ -12041,12 +12123,8 @@
           7.358309
         ],
         [
-          48.073063,
-          7.358167
-        ],
-        [
-          48.072907,
-          7.358217
+          48.073068,
+          7.35817
         ]
       ],
       "polylines" : [
@@ -12058,22 +12136,6 @@
           [
             48.073068,
             7.35817
-          ],
-          [
-            48.073045,
-            7.358158
-          ],
-          [
-            48.073011,
-            7.358163
-          ],
-          [
-            48.072961,
-            7.358183
-          ],
-          [
-            48.072907,
-            7.358217
           ]
         ]
       ]
@@ -12731,7 +12793,7 @@
     },
     {
       "id" : "s-rue-de-l-ours",
-      "lengthM" : 247.6,
+      "lengthM" : 239.2,
       "name" : "Rue de l'Ours",
       "nodes" : [
         [
@@ -12785,10 +12847,6 @@
         [
           48.078022,
           7.364383
-        ],
-        [
-          48.078026,
-          7.364496
         ],
         [
           48.078102,
@@ -12850,20 +12908,6 @@
           [
             48.078019,
             7.364246
-          ]
-        ],
-        [
-          [
-            48.078022,
-            7.364383
-          ],
-          [
-            48.078025,
-            7.364467
-          ],
-          [
-            48.078026,
-            7.364496
           ]
         ],
         [
@@ -13844,7 +13888,7 @@
     },
     {
       "id" : "s-rue-de-la-truite",
-      "lengthM" : 46.4,
+      "lengthM" : 40.3,
       "name" : "Rue de la Truite",
       "nodes" : [
         [
@@ -13858,6 +13902,10 @@
         [
           48.074552,
           7.361381
+        ],
+        [
+          48.074492,
+          7.361577
         ],
         [
           48.074517,
@@ -13880,10 +13928,6 @@
           ]
         ],
         [
-          [
-            48.074517,
-            7.361503
-          ],
           [
             48.074492,
             7.361577
@@ -14490,7 +14534,7 @@
     },
     {
       "id" : "s-rue-des-cloches",
-      "lengthM" : 162.8,
+      "lengthM" : 128.3,
       "name" : "Rue des Cloches",
       "nodes" : [
         [
@@ -14524,14 +14568,6 @@
         [
           48.080145,
           7.358103
-        ],
-        [
-          48.080196,
-          7.357935
-        ],
-        [
-          48.079941,
-          7.358121
         ]
       ],
       "polylines" : [
@@ -14547,30 +14583,6 @@
           [
             48.080105,
             7.35823
-          ]
-        ],
-        [
-          [
-            48.080145,
-            7.358103
-          ],
-          [
-            48.080196,
-            7.357935
-          ]
-        ],
-        [
-          [
-            48.080105,
-            7.35823
-          ],
-          [
-            48.080069,
-            7.358206
-          ],
-          [
-            48.079935,
-            7.358117
           ]
         ],
         [

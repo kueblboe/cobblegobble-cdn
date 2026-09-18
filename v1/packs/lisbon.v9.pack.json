@@ -279,14 +279,9 @@
 
     ],
     "adjustedStreets" : [
-      "Beco da Formosa",
-      "Castelo de São Jorge",
-      "Núcleo Museológico do Castelo de São Jorge",
-      "Praça Martim Moniz",
-      "Rua de Santa Justa",
-      "Rua do Arco do Marquês de Alegrete"
+
     ],
-    "fromVersion" : 7,
+    "fromVersion" : 8,
     "removedStreets" : [
 
     ]
@@ -23175,267 +23170,267 @@
   ],
   "fruits" : [
     {
-      "extendedStory" : "A stone carved in 985 credits work on Lisbon's walls to Almanzor. It calls the city a madina, which means a walled city, so the defences were already old news then. The castle has three ways in. The Main Gate crosses a stone bridge and the East Gate a metal one. The Gate of Betrayal was hidden, kept for a quiet escape in danger. After 1580 the castle worked as a barracks, a prison and a hospital, and the earthquake of 1755 left it badly damaged.",
+      "extendedStory" : "The flock grows every year, and a team of scientists keeps watch over it all year round. The castle itself has three ways in. One is the Gate of Betrayal, a hidden door for slipping out when danger came. Long before the peacocks, an inscription from the year 985 called this place a madina, a walled city. Later the castle served as a military base, a prison and a hospital.",
       "icon" : "hero",
       "id" : "f-castelo-de-sao-jorge",
       "kind" : "fortress",
       "localizedExtendedStory" : {
-        "de" : "Eine Inschrift von 985 schreibt die Arbeiten an Lissabons Mauern Almanzor zu. Sie nennt die Stadt madina, also ummauerte Stadt. Die Burg hat drei Zugänge. Das Haupttor führt über eine Steinbrücke, das Osttor über eine aus Metall. Das Tor des Verrats lag versteckt, für den stillen Rückzug bei Gefahr. Nach 1580 diente die Burg als Kaserne, Gefängnis und Krankenhaus, und das Erdbeben von 1755 beschädigte sie schwer.",
-        "en" : "A stone carved in 985 credits work on Lisbon's walls to Almanzor. It calls the city a madina, which means a walled city, so the defences were already old news then. The castle has three ways in. The Main Gate crosses a stone bridge and the East Gate a metal one. The Gate of Betrayal was hidden, kept for a quiet escape in danger. After 1580 the castle worked as a barracks, a prison and a hospital, and the earthquake of 1755 left it badly damaged."
+        "de" : "Die Schar wächst jedes Jahr, und ein Team von Forschern beobachtet sie das ganze Jahr über. Die Burg selbst hat drei Eingänge. Einer heißt Tor des Verrats, eine versteckte Pforte, um bei Gefahr hinauszuschlüpfen. Lange vor den Pfauen nannte eine Inschrift aus dem Jahr 985 diesen Ort eine Madina, eine ummauerte Stadt. Später diente die Burg als Militärstützpunkt, Gefängnis und Krankenhaus.",
+        "en" : "The flock grows every year, and a team of scientists keeps watch over it all year round. The castle itself has three ways in. One is the Gate of Betrayal, a hidden door for slipping out when danger came. Long before the peacocks, an inscription from the year 985 called this place a madina, a walled city. Later the castle served as a military base, a prison and a hospital."
       },
       "localizedStory" : {
-        "de" : "Eines der drei Tore heißt Tor des Verrats. Es lag versteckt, um unbemerkt hinauszuschlüpfen.",
-        "en" : "One of the three gates is called the Gate of Betrayal. It was hidden, kept for slipping out unseen."
+        "de" : "Schau hinauf in die Pinien. Rund 40 Pfauen leben in dieser Burg, und dort oben schlafen und nisten sie.",
+        "en" : "Look up into the stone pines. About 40 peacocks live in this castle, and they sleep and nest in those trees."
       },
       "name" : "Castelo de São Jorge",
       "pos" : [
         38.713592,
         -9.13342
       ],
-      "story" : "One of the three gates is called the Gate of Betrayal. It was hidden, kept for slipping out unseen."
+      "story" : "Look up into the stone pines. About 40 peacocks live in this castle, and they sleep and nest in those trees."
     },
     {
-      "extendedStory" : "The Sé goes back to 1150 and it is Romanesque, which means round arches and thick walls. That is why it looks so solid, more like a stronghold than a church. It is dedicated to Mary. Walk on to the Igreja da Conceição Velha nearby and the doorways change completely. Round and plain here, carved and curling there.",
+      "extendedStory" : "People also say that descendants of those two ravens still live in the cathedral cloisters. Under the cloisters lies a different surprise. When the garden there was dug up, the digging found Islamic, Roman and medieval Lisbon, and even the Iron Age. One city lies under the next. The cathedral above it all goes back to about 1150, in the heavy, round-arched Romanesque style, and it is dedicated to Mary.",
       "icon" : "choice",
       "id" : "f-se-de-lisboa",
       "kind" : "church",
       "localizedExtendedStory" : {
-        "de" : "Die Sé geht auf 1150 zurück und ist romanisch, also Rundbögen und dicke Mauern. Deshalb wirkt sie so wuchtig, eher wie eine Festung als wie eine Kirche. Geweiht ist sie Maria. Geh weiter zur Igreja da Conceição Velha in der Nähe, dort sehen die Portale ganz anders aus. Hier rund und schlicht, dort verschnörkelt.",
-        "en" : "The Sé goes back to 1150 and it is Romanesque, which means round arches and thick walls. That is why it looks so solid, more like a stronghold than a church. It is dedicated to Mary. Walk on to the Igreja da Conceição Velha nearby and the doorways change completely. Round and plain here, carved and curling there."
+        "de" : "Man erzählt auch, dass Nachfahren dieser beiden Raben bis heute im Kreuzgang der Kathedrale leben. Unter dem Kreuzgang wartet noch eine Überraschung. Als dort der Garten ausgehoben wurde, kamen Funde aus dem islamischen, römischen und mittelalterlichen Lissabon ans Licht, sogar aus der Eisenzeit. Eine Stadt liegt unter der anderen. Die Kathedrale darüber reicht bis etwa 1150 zurück, gebaut im schweren romanischen Stil mit runden Bögen, und sie ist Maria geweiht.",
+        "en" : "People also say that descendants of those two ravens still live in the cathedral cloisters. Under the cloisters lies a different surprise. When the garden there was dug up, the digging found Islamic, Roman and medieval Lisbon, and even the Iron Age. One city lies under the next. The cathedral above it all goes back to about 1150, in the heavy, round-arched Romanesque style, and it is dedicated to Mary."
       },
       "localizedStory" : {
-        "de" : "Die Kathedrale steht hier seit 1150, schwer und rundbogig, eher wie eine Burg gebaut als wie eine Kirche.",
-        "en" : "The cathedral has stood here since 1150, heavy and round-arched, built more like a fortress than a church."
+        "de" : "Der Sage nach bewachten zwei Raben das Boot mit den Reliquien des heiligen Vinzenz. Deshalb sind Boot und Raben das Zeichen Lissabons.",
+        "en" : "The legend says two ravens guarded the boat bringing Saint Vincent's relics to Lisbon. So a boat and two ravens became the city's sign."
       },
       "name" : "Sé de Lisboa",
       "pos" : [
         38.709819,
         -9.132586
       ],
-      "story" : "The cathedral has stood here since 1150, heavy and round-arched, built more like a fortress than a church."
+      "story" : "The legend says two ravens guarded the boat bringing Saint Vincent's relics to Lisbon. So a boat and two ravens became the city's sign."
     },
     {
-      "extendedStory" : "Until 1755 this was the Terreiro do Paço, the forecourt of the royal palace on the river. The palace stood here with the customs house, the mint, the arsenal and the Casa da Índia. An opera house had opened beside them months before the earthquake. A royal charter of June 1759 gave the rebuilt square its new name, the Square of Commerce. Eugénio dos Santos drew eight streets running north to south and nine crossing them. The bronze king on his horse is José, by Machado de Castro, finished in 1775.",
+      "extendedStory" : "The story goes that the bronze turned dark because its metal mix was out of balance, and the nickname stuck. The rider is King José, and Machado de Castro's statue was finished in 1775. Before the earthquake a royal palace stood on this spot. Beside it were the customs house, the mint and an opera house that had opened just months before. People called the square Terreiro do Paço, the palace yard.",
       "icon" : "choice",
       "id" : "f-praca-do-comercio",
       "kind" : "square",
       "localizedExtendedStory" : {
-        "de" : "Bis 1755 war das der Terreiro do Paço, der Vorplatz des königlichen Palasts am Fluss. Hier standen der Palast, das Zollhaus, die Münze, das Arsenal und die Casa da Índia. Ein Opernhaus hatte daneben wenige Monate vor dem Erdbeben eröffnet. Ein königlicher Erlass vom Juni 1759 gab dem neu gebauten Platz seinen Namen, Platz des Handels. Eugénio dos Santos zeichnete acht Straßen von Norden nach Süden und neun quer dazu. Der Reiter aus Bronze ist König José, von Machado de Castro, fertig 1775.",
-        "en" : "Until 1755 this was the Terreiro do Paço, the forecourt of the royal palace on the river. The palace stood here with the customs house, the mint, the arsenal and the Casa da Índia. An opera house had opened beside them months before the earthquake. A royal charter of June 1759 gave the rebuilt square its new name, the Square of Commerce. Eugénio dos Santos drew eight streets running north to south and nine crossing them. The bronze king on his horse is José, by Machado de Castro, finished in 1775."
+        "de" : "Der Sage nach wurde die Bronze dunkel, weil die Metallmischung nicht stimmte, und der Name blieb hängen. Der Reiter ist König José, und Machado de Castros Statue war 1775 fertig. Vor dem Erdbeben stand hier ein Königspalast. Daneben lagen das Zollhaus, die Münze und ein Opernhaus, das wenige Monate zuvor eröffnet hatte. Damals hieß der Platz Terreiro do Paço, der Palasthof.",
+        "en" : "The story goes that the bronze turned dark because its metal mix was out of balance, and the nickname stuck. The rider is King José, and Machado de Castro's statue was finished in 1775. Before the earthquake a royal palace stood on this spot. Beside it were the customs house, the mint and an opera house that had opened just months before. People called the square Terreiro do Paço, the palace yard."
       },
       "localizedStory" : {
-        "de" : "Das ganze Straßenraster hinter dir läuft auf diesen Platz zu. Acht Straßen führen vom Rossio herunter zum Fluss.",
-        "en" : "The whole grid behind you was drawn to end here. Eight streets run down from the Rossio to this square by the river."
+        "de" : "Englische Reisende gaben dem Platz einen Spitznamen: Black Horse Square, Platz des schwarzen Pferdes. Schau dir das Bronzepferd des Königs an.",
+        "en" : "English travellers gave this place a nickname: Black Horse Square. Look at the king's bronze horse and decide if it fits."
       },
       "name" : "Praça do Comércio",
       "pos" : [
         38.707612,
         -9.136546
       ],
-      "story" : "The whole grid behind you was drawn to end here. Eight streets run down from the Rossio to this square by the river."
+      "story" : "English travellers gave this place a nickname: Black Horse Square. Look at the king's bronze horse and decide if it fits."
     },
     {
-      "extendedStory" : "Work on the wave pattern started on 17 August 1848 and ran until 31 December 1849. The waves vanished in 1919 and the square lost its sea. In 1979 the city council voted to bring them back, and the relaid Mar Largo came with the rehabilitation opened in 2001. The square's name changed twice, by decree in 1836 and by a city edict in 1971. The reason given was simple. The street signs had read Praça D. Pedro IV for years already.",
+      "extendedStory" : "Now look down at the black and white waves under your feet. They are called the Mar Largo, the wide sea, and were finished in 1849. Then they vanished for decades, until the city council voted as one to bring them back. The relaid sea came home with the square's makeover, opened in 2001. Walk across and see if the ground seems to roll.",
       "icon" : "choice",
       "id" : "f-praca-dom-pedro-iv",
       "kind" : "square",
       "localizedExtendedStory" : {
-        "de" : "Die Arbeit am Wellenmuster begann am 17. August 1848 und dauerte bis zum 31. Dezember 1849. 1919 verschwanden die Wellen, und der Platz verlor sein Meer. 1979 beschloss der Stadtrat, sie zurückzuholen, und das neu verlegte Mar Largo kam mit dem Umbau, der 2001 eröffnet wurde. Der Name des Platzes wechselte zweimal, 1836 per Dekret und 1971 per Erlass der Stadt. Die Begründung war schlicht. Auf den Schildern stand längst Praça D. Pedro IV.",
-        "en" : "Work on the wave pattern started on 17 August 1848 and ran until 31 December 1849. The waves vanished in 1919 and the square lost its sea. In 1979 the city council voted to bring them back, and the relaid Mar Largo came with the rehabilitation opened in 2001. The square's name changed twice, by decree in 1836 and by a city edict in 1971. The reason given was simple. The street signs had read Praça D. Pedro IV for years already."
+        "de" : "Jetzt schau nach unten auf die schwarzen und weißen Wellen unter deinen Füßen. Sie heißen Mar Largo, das weite Meer, und waren 1849 fertig. Dann verschwanden sie für lange Jahrzehnte, bis der Stadtrat einstimmig beschloss, sie zurückzuholen. Das neu verlegte Meer kam mit dem Umbau des Platzes, der 2001 eröffnet wurde. Geh einmal quer darüber und schau, ob der Boden schaukelt.",
+        "en" : "Now look down at the black and white waves under your feet. They are called the Mar Largo, the wide sea, and were finished in 1849. Then they vanished for decades, until the city council voted as one to bring them back. The relaid sea came home with the square's makeover, opened in 2001. Walk across and see if the ground seems to roll."
       },
       "localizedStory" : {
-        "de" : "Schau nach unten. Die schwarz-weißen Wellen unter deinen Füßen heißen Mar Largo, von Hand verlegt und 1849 fertig.",
-        "en" : "Look down. The black and white waves under your feet are called the Mar Largo, laid by hand and finished in 1849."
+        "de" : "Schau hinauf zur Säule. Einer Legende nach steht dort oben in Wahrheit Kaiser Maximilian von Mexiko. Doch jedes eingemeißelte Abzeichen ist portugiesisch.",
+        "en" : "Look up at the column. A legend says the king on top is really Emperor Maximilian of Mexico. Every badge carved on it is Portuguese."
       },
       "name" : "Praça Dom Pedro IV",
       "pos" : [
         38.71377,
         -9.139341
       ],
-      "story" : "Look down. The black and white waves under your feet are called the Mar Largo, laid by hand and finished in 1849."
+      "story" : "Look up at the column. A legend says the king on top is really Emperor Maximilian of Mexico. Every badge carved on it is Portuguese."
     },
     {
-      "extendedStory" : "The lift opened in 1902 and it has been doing the same job ever since. It is 45 metres of iron standing in a narrow street, with the ornament of its time worked into every panel. That style is called Art Nouveau, all curling lines and plant shapes. Lisbon is built on hills, and this machine simply removes one of them for you. Walk up the street and you meet it head on, a tower where you expect a house.",
+      "extendedStory" : "It just looks like Eiffel's work, because that was the style of the time, called Art Nouveau. In its early years a steam engine did the lifting, housed on one of the upper floors. Later an electric motor took over. The tower rises about 45 metres above the street and has stood here since 1902. It carries people up the hill they would otherwise have to climb.",
       "icon" : "choice",
       "id" : "f-elevador-de-santa-justa",
       "kind" : "attraction",
       "localizedExtendedStory" : {
-        "de" : "Der Aufzug ging 1902 in Betrieb und macht seither dieselbe Arbeit. 45 Meter Eisen stehen in einer engen Gasse, verziert im Geschmack ihrer Zeit. Dieser Stil heißt Jugendstil, lauter geschwungene Linien und Pflanzenformen. Lissabon ist auf Hügeln gebaut, und diese Maschine nimmt dir einen davon ab. Geh die Gasse hinauf, dann steht er plötzlich vor dir, ein Turm, wo ein Haus sein müsste.",
-        "en" : "The lift opened in 1902 and it has been doing the same job ever since. It is 45 metres of iron standing in a narrow street, with the ornament of its time worked into every panel. That style is called Art Nouveau, all curling lines and plant shapes. Lisbon is built on hills, and this machine simply removes one of them for you. Walk up the street and you meet it head on, a tower where you expect a house."
+        "de" : "Er sieht nur aus wie ein Werk von Eiffel, weil das der Stil der Zeit war, der Jugendstil. In den frühen Jahren zog eine Dampfmaschine den Aufzug, untergebracht in einem Stockwerk weit oben. Später übernahm ein Elektromotor. Der Turm ragt rund 45 Meter über die Straße und steht seit 1902 hier. Er trägt die Leute den Hügel hinauf, den sie sonst steigen müssten.",
+        "en" : "It just looks like Eiffel's work, because that was the style of the time, called Art Nouveau. In its early years a steam engine did the lifting, housed on one of the upper floors. Later an electric motor took over. The tower rises about 45 metres above the street and has stood here since 1902. It carries people up the hill they would otherwise have to climb."
       },
       "localizedStory" : {
-        "de" : "Ein eiserner Aufzug, 45 Meter hoch, mitten in der Straße. Er bringt Leute den Hügel hinauf, den sie sonst steigen müssten.",
-        "en" : "An iron lift, 45 metres of it, standing in the street to carry people up the hill they would otherwise climb."
+        "de" : "Man sagt, Gustave Eiffel habe diesen eisernen Aufzug gebaut. Stimmt nicht. Es war Raoul Mesnier du Ponsard, und Eiffels Schüler war er auch nicht.",
+        "en" : "People say Gustave Eiffel built this iron lift. He did not. Raoul Mesnier du Ponsard did, and he was not Eiffel's pupil either."
       },
       "name" : "Elevador de Santa Justa",
       "pos" : [
         38.712117,
         -9.139375
       ],
-      "story" : "An iron lift, 45 metres of it, standing in the street to carry people up the hill they would otherwise climb."
+      "story" : "People say Gustave Eiffel built this iron lift. He did not. Raoul Mesnier du Ponsard did, and he was not Eiffel's pupil either."
     },
     {
-      "extendedStory" : "This church was begun in 1241 and it carries the name of Saint Dominic. Inside, the style is Baroque, which means gold, curves and deep colour used without restraint. It stands a short walk from the Rossio, so you meet it almost by accident. The cathedral down the hill is round-arched and plain. Here the shapes swing.",
+      "extendedStory" : "After the fire the church stayed shut for decades and opened again in the 1990s. The marks were left where everyone can see them. The scorched stone is part of the church now, like a scar you can read. Its history reaches much further back, to 1241. It is named after Saint Dominic, who founded an order of travelling preachers.",
       "icon" : "choice",
       "id" : "f-igreja-de-sao-domingos",
       "kind" : "church",
       "localizedExtendedStory" : {
-        "de" : "Diese Kirche wurde 1241 begonnen und trägt den Namen des heiligen Dominikus. Innen ist der Stil barock, also Gold, Schwung und satte Farbe ohne Zurückhaltung. Sie steht ein paar Schritte vom Rossio entfernt, man stolpert fast hinein. Die Kathedrale den Hügel hinunter ist rundbogig und schlicht. Hier schwingen die Formen.",
-        "en" : "This church was begun in 1241 and it carries the name of Saint Dominic. Inside, the style is Baroque, which means gold, curves and deep colour used without restraint. It stands a short walk from the Rossio, so you meet it almost by accident. The cathedral down the hill is round-arched and plain. Here the shapes swing."
+        "de" : "Nach dem Brand blieb die Kirche jahrzehntelang zu und öffnete erst in den 1990er Jahren wieder. Die Spuren ließ man, wo alle sie sehen können. Der verrußte Stein gehört jetzt zur Kirche, wie eine Narbe, die man lesen kann. Ihre Geschichte reicht aber viel weiter zurück, bis ins Jahr 1241. Geweiht ist sie dem heiligen Dominikus, der einst einen Orden von Wanderpredigern gründete.",
+        "en" : "After the fire the church stayed shut for decades and opened again in the 1990s. The marks were left where everyone can see them. The scorched stone is part of the church now, like a scar you can read. Its history reaches much further back, to 1241. It is named after Saint Dominic, who founded an order of travelling preachers."
       },
       "localizedStory" : {
-        "de" : "1241 begonnen und nach dem heiligen Dominikus benannt. Innen ist sie barock, also Gold, Schwung und reichlich davon.",
-        "en" : "Begun in 1241 and named for Saint Dominic. The inside is Baroque, which means gold, curves and a lot of it."
+        "de" : "Geh hinein und sieh dir den Stein an. Er ist seit einem Brand im Jahr 1959 schwarz, und im Boden sieht man noch Risse.",
+        "en" : "Step inside and look closely at the stone. It is still blackened from a fire in 1959, and the floor still shows the cracks."
       },
       "name" : "Igreja de São Domingos",
       "pos" : [
         38.71486,
         -9.138145
       ],
-      "story" : "Begun in 1241 and named for Saint Dominic. The inside is Baroque, which means gold, curves and a lot of it."
+      "story" : "Step inside and look closely at the stone. It is still blackened from a fire in 1959, and the floor still shows the cracks."
     },
     {
-      "extendedStory" : "The stonework here dates from 1516. Manueline is Portugal's late Gothic, and it likes rope, knots and twisted columns where other styles keep straight lines. The church is low, about 15 metres to the top. Two other churches stand close by, one Baroque and one Romanesque. The three together make a lesson in stone.",
+      "extendedStory" : "The pieces saved from the fallen church were built into a new one, and that church took the name Conceição Velha. The carving is Manueline, a Portuguese style named after King Manuel. It is thick with detail, so give it time. The building goes back to about 1516. Step back across the street to take in the whole arch at once.",
       "icon" : "everyday",
       "id" : "f-igreja-da-conceicao-velha",
       "kind" : "church",
       "localizedExtendedStory" : {
-        "de" : "Das Steinwerk hier stammt von 1516. Manuelinik heißt Portugals Spätgotik, sie mag Taue, Knoten und gedrehte Säulen, wo andere Stile gerade Linien halten. Die Kirche ist niedrig, etwa 15 Meter bis zum First. Zwei weitere Kirchen stehen in der Nähe, eine barock, eine romanisch. Zu dritt ergeben sie eine Lehrstunde in Stein.",
-        "en" : "The stonework here dates from 1516. Manueline is Portugal's late Gothic, and it likes rope, knots and twisted columns where other styles keep straight lines. The church is low, about 15 metres to the top. Two other churches stand close by, one Baroque and one Romanesque. The three together make a lesson in stone."
+        "de" : "Die geretteten Teile der eingestürzten Kirche wurden in eine neue eingebaut, und diese nahm den Namen Conceição Velha an. Der Schmuck ist manuelinisch, ein portugiesischer Stil, benannt nach König Manuel. Er steckt voller kleiner Einzelheiten, also nimm dir ruhig Zeit. Der Bau reicht bis etwa 1516 zurück. Tritt am besten auf die andere Straßenseite, dann siehst du den Bogen vollständig.",
+        "en" : "The pieces saved from the fallen church were built into a new one, and that church took the name Conceição Velha. The carving is Manueline, a Portuguese style named after King Manuel. It is thick with detail, so give it time. The building goes back to about 1516. Step back across the street to take in the whole arch at once."
       },
       "localizedStory" : {
-        "de" : "Stein von 1516, im manuelinischen Stil geschnitten. Das ist Portugals eigene Spätgotik, verschlungen, wo andere Kirchen schlicht bleiben.",
-        "en" : "Stone from 1516, carved in the Manueline style. That is Portugal's own late Gothic, twisting and knotted where other churches go plain."
+        "de" : "Dieses verzierte Portal hat das große Erdbeben überstanden. Die Kirche dahinter trägt den Namen einer anderen Kirche, die damals ebenfalls einstürzte.",
+        "en" : "This carved doorway came through the great earthquake. The church behind it borrowed its name from a different church that fell too."
       },
       "name" : "Igreja da Conceição Velha",
       "pos" : [
         38.709088,
         -9.134062
       ],
-      "story" : "Stone from 1516, carved in the Manueline style. That is Portugal's own late Gothic, twisting and knotted where other churches go plain."
+      "story" : "This carved doorway came through the great earthquake. The church behind it borrowed its name from a different church that fell too."
     },
     {
-      "extendedStory" : "The house opened in 1793 and it was built for opera. José da Costa e Silva drew the plans. It stands on the Largo do Picadeiro. The square is small enough that you can be at the stage door without noticing the house. The Elevador de Santa Justa is a few streets away. One is iron and machinery, the other stone and song.",
+      "extendedStory" : "It opened in 1793, and it was made for opera. People often write that it copies the San Carlo opera house in Naples, but there is no direct link between the two. Look at the front and think of Milan instead. Outside and inside, it comes closer to La Scala. Come back on a performance night to hear what it was built for.",
       "icon" : "everyday",
       "id" : "f-teatro-nacional-de-sao-carlos",
       "kind" : "theatre",
       "localizedExtendedStory" : {
-        "de" : "Das Haus wurde 1793 eröffnet und für die Oper gebaut. Die Pläne zeichnete José da Costa e Silva. Es steht am Largo do Picadeiro. Der Platz ist so klein, dass man am Bühneneingang steht, ohne das Haus zu bemerken. Der Elevador de Santa Justa liegt ein paar Straßen weiter. Der eine ist Eisen und Maschine, das andere Stein und Gesang.",
-        "en" : "The house opened in 1793 and it was built for opera. José da Costa e Silva drew the plans. It stands on the Largo do Picadeiro. The square is small enough that you can be at the stage door without noticing the house. The Elevador de Santa Justa is a few streets away. One is iron and machinery, the other stone and song."
+        "de" : "Eröffnet wurde es 1793, gebaut für die Oper. Oft liest man, das Haus sei eine Kopie des Teatro San Carlo in Neapel, doch eine direkte Verbindung gibt es nicht. Schau dir die Fassade an und denk an Mailand. Außen wie innen steht es der Scala in Mailand näher. Komm an einem Aufführungsabend wieder und hör dir an, wofür es gebaut wurde.",
+        "en" : "It opened in 1793, and it was made for opera. People often write that it copies the San Carlo opera house in Naples, but there is no direct link between the two. Look at the front and think of Milan instead. Outside and inside, it comes closer to La Scala. Come back on a performance night to hear what it was built for."
       },
       "localizedStory" : {
-        "de" : "Ein Opernhaus von 1793, entworfen von José da Costa e Silva. Seither wird hier gesungen.",
-        "en" : "An opera house from 1793, drawn by José da Costa e Silva. It has been open for singing ever since."
+        "de" : "Das ganze Opernhaus entstand in nur sechs Monaten, nach Plänen des Architekten José da Costa e Silva.",
+        "en" : "This whole opera house went up in just six months, to plans by the architect José da Costa e Silva."
       },
       "name" : "Teatro Nacional de São Carlos",
       "pos" : [
         38.709694,
         -9.141757
       ],
-      "story" : "An opera house from 1793, drawn by José da Costa e Silva. It has been open for singing ever since."
+      "story" : "This whole opera house went up in just six months, to plans by the architect José da Costa e Silva."
     },
     {
-      "extendedStory" : "The tile panels here come mostly from the Fábrica da Viúva Lamego. One shows the Praça do Comércio as it looked before the earthquake of 1755. So you can stand here and compare a lost city with the one below you. The small church in the same garden was built in the 12th century, on the wall that once ringed Lisbon. From the rail you can find the Tagus, the port, the roofs of Alfama and the dome of Santa Engrácia.",
+      "extendedStory" : "Many of these tiles came from the Fábrica da Viúva Lamego, a tile factory. Now look past them to the Tagus and its port, and the packed roofs of Alfama. The dome belongs to Santa Engrácia, the Panteão Nacional, and the towers to the Igreja de São Miguel. The little church beside you sits on top of the old wall that once ringed Lisbon.",
       "icon" : "everyday",
       "id" : "f-miradouro-de-santa-luzia",
       "kind" : "viewpoint",
       "localizedExtendedStory" : {
-        "de" : "Die Kachelbilder hier stammen großenteils aus der Fábrica da Viúva Lamego. Eines zeigt die Praça do Comércio so, wie sie vor dem Erdbeben von 1755 aussah. Du kannst also die verlorene Stadt mit der vergleichen, die unter dir liegt. Die kleine Kirche im selben Garten wurde im 12. Jahrhundert auf die Mauer gebaut, die Lissabon einst umschloss. Vom Geländer aus findest du den Tejo, den Hafen, die Dächer der Alfama und die Kuppel von Santa Engrácia.",
-        "en" : "The tile panels here come mostly from the Fábrica da Viúva Lamego. One shows the Praça do Comércio as it looked before the earthquake of 1755. So you can stand here and compare a lost city with the one below you. The small church in the same garden was built in the 12th century, on the wall that once ringed Lisbon. From the rail you can find the Tagus, the port, the roofs of Alfama and the dome of Santa Engrácia."
+        "de" : "Viele dieser Fliesen stammen aus der Fábrica da Viúva Lamego, einer Fliesenfabrik. Jetzt schau an ihnen vorbei, auf den Tejo mit seinem Hafen und die dicht gedrängten Dächer der Alfama. Die Kuppel gehört zu Santa Engrácia, dem Panteão Nacional, die Türme zur Igreja de São Miguel. Die kleine Kirche neben dir steht auf der alten Mauer, die einst Lissabon umschloss.",
+        "en" : "Many of these tiles came from the Fábrica da Viúva Lamego, a tile factory. Now look past them to the Tagus and its port, and the packed roofs of Alfama. The dome belongs to Santa Engrácia, the Panteão Nacional, and the towers to the Igreja de São Miguel. The little church beside you sits on top of the old wall that once ringed Lisbon."
       },
       "localizedStory" : {
-        "de" : "Schau erst auf die Kachelwand, dann auf die Aussicht. Eine Tafel zeigt die Praça do Comércio, wie sie vor dem Erdbeben von 1755 aussah.",
-        "en" : "Look at the tiled wall before you look at the view. One panel shows Praça do Comércio as it stood before the earthquake of 1755."
+        "de" : "Such an der Terrassenmauer das Fliesenbild. Es zeigt die Praça do Comércio, wie sie vor dem großen Erdbeben aussah.",
+        "en" : "Find the tile panel on the terrace wall. It shows the Praça do Comércio as it looked before the great earthquake."
       },
       "name" : "Miradouro de Santa Luzia",
       "pos" : [
         38.711741,
         -9.130216
       ],
-      "story" : "Look at the tiled wall before you look at the view. One panel shows Praça do Comércio as it stood before the earthquake of 1755."
+      "story" : "Find the tile panel on the terrace wall. It shows the Praça do Comércio as it looked before the great earthquake."
     },
     {
-      "extendedStory" : "The fountain appears in writing in 1220, under King Afonso II, with a different name. It became the King's Fountain after the works of 1308, under Dinis. It stood against the city wall and carried six spouts shaped as animal heads. For a long time it was the capital's main supply of drinking water. In 1487 João II had it piped down to the sea, so boats lying at anchor could take on water.",
+      "extendedStory" : "Around 1570 an unknown Flemish painter painted this fountain, crowded with boatmen, jugglers and sellers. Among them rides an African knight wearing the badge of the Order of Saint James. Some think he is João de Sá Panasco. The painting now hangs in the Palácio da Bacalhôa in Azeitão. Even earlier, a king had the water piped down to the sea, so ships at anchor could fill up.",
       "icon" : "everyday",
       "id" : "f-chafariz-d-el-rei",
       "kind" : "fountain",
       "localizedExtendedStory" : {
-        "de" : "Der Brunnen taucht 1220 in den Akten auf, unter König Afonso II., damals mit anderem Namen. Nach den Arbeiten von 1308 unter Dinis hieß er Brunnen des Königs. Er lehnte an der Stadtmauer und hatte sechs Röhren in Form von Tierköpfen. Lange war er die wichtigste Trinkwasserquelle der Hauptstadt. 1487 ließ João II. ihn bis zum Meer leiten, damit Boote vor Anker Wasser fassen konnten.",
-        "en" : "The fountain appears in writing in 1220, under King Afonso II, with a different name. It became the King's Fountain after the works of 1308, under Dinis. It stood against the city wall and carried six spouts shaped as animal heads. For a long time it was the capital's main supply of drinking water. In 1487 João II had it piped down to the sea, so boats lying at anchor could take on water."
+        "de" : "Um 1570 malte ein unbekannter flämischer Maler diesen Brunnen, umdrängt von Bootsleuten, Gauklern und Händlern. Mittendrin reitet ein afrikanischer Ritter mit dem Abzeichen des Jakobsordens. Manche halten ihn für João de Sá Panasco. Das Bild hängt heute im Palácio da Bacalhôa in Azeitão. Schon früher ließ ein König das Wasser bis ans Meer leiten, damit Schiffe vor Anker es aufnehmen konnten.",
+        "en" : "Around 1570 an unknown Flemish painter painted this fountain, crowded with boatmen, jugglers and sellers. Among them rides an African knight wearing the badge of the Order of Saint James. Some think he is João de Sá Panasco. The painting now hangs in the Palácio da Bacalhôa in Azeitão. Even earlier, a king had the water piped down to the sea, so ships at anchor could fill up."
       },
       "localizedStory" : {
-        "de" : "Sechs Röhren liefen hier einmal, geschnitten als Tierköpfe. Zähl nach, was heute übrig ist: drei.",
-        "en" : "Six spouts once ran here, carved as animal heads. Count what is left today and you get three."
+        "de" : "Zähl die Metallröhren. Drei sind heute übrig. Früher waren es sechs, geformt wie Tierköpfe, und hier holte die Stadt ihr Trinkwasser.",
+        "en" : "Count the metal spouts. Three are left today. Long ago there were six, shaped like animal heads, and the city drew its drinking water here."
       },
       "name" : "Chafariz d'El Rei",
       "pos" : [
         38.709717,
         -9.129475
       ],
-      "story" : "Six spouts once ran here, carved as animal heads. Count what is left today and you get three."
+      "story" : "Count the metal spouts. Three are left today. Long ago there were six, shaped like animal heads, and the city drew its drinking water here."
     },
     {
-      "extendedStory" : "The house was built in 1868 to pump water, not to hold a museum. Its old name remembers a beach on this spot where ships came ashore to take on water. A fountain called the Chafariz de Fora stood here from the 16th century, the outside twin of the Chafariz de Dentro. The museum opened in 1998. Fado itself went onto the UNESCO list of the world's living heritage in 2011.",
+      "extendedStory" : "That hush is part of the ritual, not just good manners. Picture a room going quiet as one voice begins. This house was built in 1868 as a water pumping station. Its old name remembers a beach, where ships came ashore to take on water. In 2011 fado joined UNESCO's list of the world's living traditions, the things people keep alive by doing them.",
       "icon" : "everyday",
       "id" : "f-museu-do-fado",
       "kind" : "museum",
       "localizedExtendedStory" : {
-        "de" : "Das Haus wurde 1868 gebaut, um Wasser zu pumpen, nicht für ein Museum. Sein alter Name erinnert an einen Strand hier, wo Schiffe anlegten, um Wasser zu fassen. Ein Brunnen namens Chafariz de Fora stand seit dem 16. Jahrhundert an dieser Stelle, der Zwilling draußen zum Chafariz de Dentro. Das Museum eröffnete 1998. Der Fado kam 2011 auf die UNESCO-Liste des lebendigen Erbes.",
-        "en" : "The house was built in 1868 to pump water, not to hold a museum. Its old name remembers a beach on this spot where ships came ashore to take on water. A fountain called the Chafariz de Fora stood here from the 16th century, the outside twin of the Chafariz de Dentro. The museum opened in 1998. Fado itself went onto the UNESCO list of the world's living heritage in 2011."
+        "de" : "Diese Stille gehört zum Ritual und ist mehr als Höflichkeit. Stell dir einen Raum vor, der leise wird, sobald eine Stimme beginnt. Dieses Haus wurde 1868 als Pumpstation für Wasser gebaut. Sein alter Name erinnert an einen Strand, an dem früher Schiffe anlegten, um Wasser zu holen. 2011 nahm die UNESCO den Fado in ihre Liste des lebendigen Kulturerbes der Menschheit auf.",
+        "en" : "That hush is part of the ritual, not just good manners. Picture a room going quiet as one voice begins. This house was built in 1868 as a water pumping station. Its old name remembers a beach, where ships came ashore to take on water. In 2011 fado joined UNESCO's list of the world's living traditions, the things people keep alive by doing them."
       },
       "localizedStory" : {
-        "de" : "Ein Wasserwerk, bevor es ein Museum wurde. Der Platz davor ist nach einem Brunnen benannt, und einmal reichte ein Strand bis hierher.",
-        "en" : "A pumping station before it was a museum. The square outside is named for a fountain, and a beach once reached it."
+        "de" : "In jedem Fadohaus gilt, so heißt es, eine goldene Regel. Jemand ruft: Ruhe, jetzt wird Fado gesungen!",
+        "en" : "In every fado house, people say, there is one golden rule. Someone calls out: Silence, fado is about to be sung!"
       },
       "name" : "Museu do Fado",
       "pos" : [
         38.711037,
         -9.127709
       ],
-      "story" : "A pumping station before it was a museum. The square outside is named for a fountain, and a beach once reached it."
+      "story" : "In every fado house, people say, there is one golden rule. Someone calls out: Silence, fado is about to be sung!"
     },
     {
-      "extendedStory" : "On 11 July 1726 fire took the warehouses that stood here. King João V had them rebuilt, and the west doorway by Fernando de Larre survives from that work. After the earthquake the Marquês de Pombal changed the plans again and handed the building to the army's arsenal. In the later part of the 19th century some of its rooms became a museum. Pedro Alexandrino and Bruno José do Vale had painted those ceilings.",
+      "extendedStory" : "The building has had several lives. Warehouses stood here until a fire took them, and King João V had them built again. The west doorway by Fernando de Larre comes from that rebuilding. After the earthquake the Marquês de Pombal changed the plans and handed the place to the army's arsenal. Later, rooms painted by Pedro Alexandrino and Bruno José do Vale became the museum.",
       "icon" : "everyday",
       "id" : "f-museu-militar-de-lisboa",
       "kind" : "museum",
       "localizedExtendedStory" : {
-        "de" : "Am 11. Juli 1726 vernichtete ein Feuer die Lagerhäuser, die hier standen. König João V. ließ sie neu bauen, und das Westportal von Fernando de Larre stammt aus dieser Zeit. Nach dem Erdbeben änderte der Marquês de Pombal die Pläne und gab das Haus dem Arsenal des Heeres. Im späteren 19. Jahrhundert wurden einige Räume zum Museum. Ihre Decken hatten Pedro Alexandrino und Bruno José do Vale bemalt.",
-        "en" : "On 11 July 1726 fire took the warehouses that stood here. King João V had them rebuilt, and the west doorway by Fernando de Larre survives from that work. After the earthquake the Marquês de Pombal changed the plans again and handed the building to the army's arsenal. In the later part of the 19th century some of its rooms became a museum. Pedro Alexandrino and Bruno José do Vale had painted those ceilings."
+        "de" : "Das Gebäude hat schon mehrere Leben hinter sich. Hier standen Lagerhäuser, bis ein Feuer sie zerstörte, und König João der Fünfte ließ sie neu bauen. Das Westportal von Fernando de Larre stammt aus dieser Zeit. Nach dem Erdbeben änderte der Marquês de Pombal die Pläne und gab das Haus dem Arsenal des Heeres. Später wurden Räume, die Pedro Alexandrino und Bruno José do Vale bemalt hatten, zum Museum.",
+        "en" : "The building has had several lives. Warehouses stood here until a fire took them, and King João V had them built again. The west doorway by Fernando de Larre comes from that rebuilding. After the earthquake the Marquês de Pombal changed the plans and handed the place to the army's arsenal. Later, rooms painted by Pedro Alexandrino and Bruno José do Vale became the museum."
       },
       "localizedStory" : {
-        "de" : "1726 zerstörte ein Feuer die Lagerhäuser an dieser Stelle. Was danach entstand, ist heute ein Museum mit bemalten Decken.",
-        "en" : "Fire took the warehouses on this spot in 1726. What went up in their place is now a museum with painted ceilings."
+        "de" : "Der Innenhof dieses Museums erzählt die Geschichte Portugals in 26 Fliesenbildern, ein Bild nach dem anderen.",
+        "en" : "The courtyard of this museum tells the story of Portugal in 26 tile panels, one picture after another."
       },
       "name" : "Museu Militar de Lisboa",
       "pos" : [
         38.713353,
         -9.123985
       ],
-      "story" : "Fire took the warehouses on this spot in 1726. What went up in their place is now a museum with painted ceilings."
+      "story" : "The courtyard of this museum tells the story of Portugal in 26 tile panels, one picture after another."
     },
     {
-      "extendedStory" : "Maria Severa Onofriana sang here, and the Mouraria has been called the cradle of fado ever since. She was born in 1820 and lived on the Rua do Capelão, the street you are standing on. A few steps on, the Largo da Severa marks her house with the words Casa da Severa. A Portuguese guitar is drawn into the calçada at your feet there. The plaque on the front was unveiled by Amália Rodrigues.",
+      "extendedStory" : "People also say the black shawl many fado singers still wear began as a sign of mourning for her. Her full name was Maria Severa Onofriana, and she lived on this street, the Rua do Capelão. She sang and danced here, with Joaquim Lucas on the guitar. A few steps on, the Largo da Severa marks her house. Look down there for a Portuguese guitar set into the pavement.",
       "icon" : "everyday",
       "id" : "f-mouraria-berco-do-fado",
       "kind" : "memorial_art",
       "localizedExtendedStory" : {
-        "de" : "Maria Severa Onofriana sang hier, und die Mouraria heißt seither Wiege des Fado. Sie wurde 1820 geboren und lebte in der Rua do Capelão, der Straße, auf der du stehst. Ein paar Schritte weiter markiert der Largo da Severa ihr Haus mit den Worten Casa da Severa. Dort ist eine portugiesische Gitarre ins Pflaster gelegt, direkt vor deinen Füßen. Die Tafel an der Fassade enthüllte Amália Rodrigues.",
-        "en" : "Maria Severa Onofriana sang here, and the Mouraria has been called the cradle of fado ever since. She was born in 1820 and lived on the Rua do Capelão, the street you are standing on. A few steps on, the Largo da Severa marks her house with the words Casa da Severa. A Portuguese guitar is drawn into the calçada at your feet there. The plaque on the front was unveiled by Amália Rodrigues."
+        "de" : "Man erzählt auch, das schwarze Schultertuch, das viele Fadosängerinnen bis heute tragen, sei als Zeichen der Trauer um sie entstanden. Ihr voller Name war Maria Severa Onofriana, und sie lebte in dieser Straße, der Rua do Capelão. Hier sang und tanzte sie, Joaquim Lucas spielte die Gitarre. Ein paar Schritte weiter markiert der Largo da Severa ihr Haus. Schau dort nach unten, eine portugiesische Gitarre ist ins Pflaster gelegt.",
+        "en" : "People also say the black shawl many fado singers still wear began as a sign of mourning for her. Her full name was Maria Severa Onofriana, and she lived on this street, the Rua do Capelão. She sang and danced here, with Joaquim Lucas on the guitar. A few steps on, the Largo da Severa marks her house. Look down there for a Portuguese guitar set into the pavement."
       },
       "localizedStory" : {
-        "de" : "In diesen Gassen entstand der Fado. Geh weiter zum Largo da Severa, dort ist eine Gitarre ins Pflaster gelegt.",
-        "en" : "Fado was born in these lanes. Walk on to the Largo da Severa and you will find a guitar drawn into the pavement."
+        "de" : "Der Sage nach sang die Severa hier den Fado so ergreifend, dass sie das Herz eines Adligen gewann, des Grafen von Vimioso.",
+        "en" : "The legend says Severa sang fado here so movingly that she won the heart of a nobleman, the Count of Vimioso."
       },
       "name" : "Mouraria - Berço do Fado",
       "pos" : [
         38.716367,
         -9.135163
       ],
-      "story" : "Fado was born in these lanes. Walk on to the Largo da Severa and you will find a guitar drawn into the pavement."
+      "story" : "The legend says Severa sang fado here so movingly that she won the heart of a nobleman, the Count of Vimioso."
     }
   ],
-  "generatedAt" : "2026-09-13T14:37:40Z",
+  "generatedAt" : "2026-09-18T04:24:03Z",
   "icon" : {
     "paths" : [
       "M 10.000 62.000 L 90.000 62.000 L 90.000 88.000 L 10.000 88.000 Z  M 12.000 55.000 L 19.000 55.000 L 19.000 64.000 L 12.000 64.000 Z  M 24.000 55.000 L 31.000 55.000 L 31.000 64.000 L 24.000 64.000 Z  M 36.000 55.000 L 43.000 55.000 L 43.000 64.000 L 36.000 64.000 Z  M 48.000 55.000 L 55.000 55.000 L 55.000 64.000 L 48.000 64.000 Z  M 60.000 55.000 L 67.000 55.000 L 67.000 64.000 L 60.000 64.000 Z  M 72.000 55.000 L 79.000 55.000 L 79.000 64.000 L 72.000 64.000 Z  M 12.000 50.000 L 24.000 50.000 L 24.000 66.000 L 12.000 66.000 Z  M 12.000 50.000 C 12.000 46.134 14.686 43.000 18.000 43.000 C 21.314 43.000 24.000 46.134 24.000 50.000 L 12.000 50.000 Z  M 76.000 50.000 L 88.000 50.000 L 88.000 66.000 L 76.000 66.000 Z  M 76.000 50.000 C 76.000 46.134 78.686 43.000 82.000 43.000 C 85.314 43.000 88.000 46.134 88.000 50.000 L 76.000 50.000 Z  M 33.000 12.000 L 67.000 12.000 L 67.000 66.000 L 33.000 66.000 Z  M 33.000 4.000 L 41.000 4.000 L 41.000 14.000 L 33.000 14.000 Z  M 46.000 4.000 L 54.000 4.000 L 54.000 14.000 L 46.000 14.000 Z  M 59.000 4.000 L 67.000 4.000 L 67.000 14.000 L 59.000 14.000 Z  M 46.000 46.000 L 54.000 46.000 L 54.000 30.000 L 46.000 30.000 Z  M 46.000 88.000 L 54.000 88.000 L 54.000 74.000 L 46.000 74.000 Z  M 54.000 74.000 C 52.209 69.000 54.000 71.239 54.000 69.000 C 47.791 69.000 46.000 71.239 46.000 74.000 L 54.000 74.000 Z"
@@ -23448,7 +23443,7 @@
     "en" : "Lisbon"
   },
   "name" : "Lisbon",
-  "packVersion" : 8,
+  "packVersion" : 9,
   "schemaVersion" : 1,
   "source" : "OpenStreetMap via Overpass API",
   "stats" : {

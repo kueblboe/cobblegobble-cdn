@@ -63,10 +63,9 @@
 
     ],
     "adjustedStreets" : [
-      "Otto-Geigenberger-Weg",
-      "Schopperstattweg"
+
     ],
-    "fromVersion" : 7,
+    "fromVersion" : 8,
     "removedStreets" : [
 
     ]
@@ -3807,167 +3806,167 @@
   ],
   "fruits" : [
     {
-      "extendedStory" : "Jörg Tünzl, a master builder from the town, put this hall up between 1457 and 1459. No other building of his is known anywhere. In 1458 the carpenter Hans Mülperger was sent to Donauwörth to look at the town hall there, apparently for ideas. The siege of 1422 lasted a month and failed, and stone balls had rained into the town. About 500 of them were stacked into a pyramid in 1826, and it stands in the western entrance hall.",
+      "extendedStory" : "He left a likeness of himself in stone and a farewell note, people say, and went off to a distant monastery. A carved bearded head in here is still called faithful Stephan. The real master builder was Jörg Tünzl, and no other building of his is known. The door has a surprise too. Its town lion is made of nails, and in 1915 every nail was a gift toward a war loan.",
       "icon" : "everyday",
       "id" : "f-rathaus",
       "kind" : "civic",
       "localizedExtendedStory" : {
-        "de" : "Jörg Tünzl, ein Baumeister aus der Stadt, stellte diesen Bau zwischen 1457 und 1459 hin. Ein weiteres Gebäude von ihm ist nirgends bekannt. 1458 schickte man den Zimmermeister Hans Mülperger nach Donauwörth, um das dortige Rathaus anzuschauen, offenbar für Anregungen. Die Belagerung von 1422 dauerte einen Monat und scheiterte, und Steinkugeln waren in die Stadt geflogen. Etwa 500 davon schichtete man 1826 zu einer Pyramide, die in der westlichen Vorhalle steht.",
-        "en" : "Jörg Tünzl, a master builder from the town, put this hall up between 1457 and 1459. No other building of his is known anywhere. In 1458 the carpenter Hans Mülperger was sent to Donauwörth to look at the town hall there, apparently for ideas. The siege of 1422 lasted a month and failed, and stone balls had rained into the town. About 500 of them were stacked into a pyramid in 1826, and it stands in the western entrance hall."
+        "de" : "Er hinterließ, so erzählt man, ein steinernes Abbild und einen letzten Gruß und zog in ein fernes Kloster. Eine bärtige Männerbüste hier drinnen heißt im Volksmund bis heute der getreue Stephan. Der wirkliche Baumeister war Jörg Tünzl, von dem sonst kein Bau bekannt ist. Auch das Portal hat eine Überraschung. Sein Stadtlöwe ist aus Nägeln, und 1915 stand jeder Nagel für einen Beitrag zu einer Kriegsanleihe.",
+        "en" : "He left a likeness of himself in stone and a farewell note, people say, and went off to a distant monastery. A carved bearded head in here is still called faithful Stephan. The real master builder was Jörg Tünzl, and no other building of his is known. The door has a surprise too. Its town lion is made of nails, and in 1915 every nail was a gift toward a war loan."
       },
       "localizedStory" : {
-        "de" : "Etwa 500 steinerne Kanonenkugeln liegen als Pyramide im westlichen Eingang, gesammelt aus der gescheiterten Belagerung von 1422.",
-        "en" : "About 500 stone cannonballs are stacked in a pyramid by the west entrance, gathered from the failed siege of 1422."
+        "de" : "Der Sage nach gewann der Steinmetz Stephan mit diesem Rathaus die Tochter des Bürgermeisters. Dann ging er, seinem Freund zuliebe.",
+        "en" : "The story goes that the mason Stephan won the mayor's daughter with this town hall. Then he walked away, for his friend's sake."
       },
       "name" : "Rathaus",
       "pos" : [
         48.061178,
         12.23303
       ],
-      "story" : "About 500 stone cannonballs are stacked in a pyramid by the west entrance, gathered from the failed siege of 1422."
+      "story" : "The story goes that the mason Stephan won the mayor's daughter with this town hall. Then he walked away, for his friend's sake."
     },
     {
-      "extendedStory" : "The work here outlasted the men who started it. Hans von Burghausen led the building from 1410 until 1432. His nephew Hans Stethaimer took over from him. Stephan Krumenauer built the new choir from 1445, and the tower went up from 1461 under Wolfgang Wiser. It was finished in 1478, sixty eight years after the work began. The date 1445 that you sometimes read marks the completed nave, not the start.",
+      "extendedStory" : "Countess Kunigunde, the story goes, had vowed the church if her husband stayed home, and the whole town gave. The tower tells the true half. Broken-off stubs in its top corners show that an eight-sided crown was planned up there. Inside, the vault ribs look like stone but are gypsum, poured and then carved like stone, probably to save money. Hans von Burghausen began the work, and his nephew Hans Stethaimer took it over.",
       "icon" : "choice",
       "id" : "f-st-jakob",
       "kind" : "church",
       "localizedExtendedStory" : {
-        "de" : "Der Bau hier überdauerte die Männer, die ihn begannen. Hans von Burghausen leitete ihn von 1410 bis 1432. Sein Neffe Hans Stethaimer übernahm danach. Stephan Krumenauer baute ab 1445 den neuen Chor, und ab 1461 führte Wolfgang Wiser den Turm hoch. 1478 war alles fertig, achtundsechzig Jahre nach dem Baubeginn. Die Jahreszahl 1445, die man manchmal liest, meint das vollendete Langhaus, nicht den Anfang.",
-        "en" : "The work here outlasted the men who started it. Hans von Burghausen led the building from 1410 until 1432. His nephew Hans Stethaimer took over from him. Stephan Krumenauer built the new choir from 1445, and the tower went up from 1461 under Wolfgang Wiser. It was finished in 1478, sixty eight years after the work began. The date 1445 that you sometimes read marks the completed nave, not the start."
+        "de" : "Gräfin Kunigunde hatte die Kirche der Sage nach gelobt, falls ihr Mann daheim bliebe, und die ganze Stadt gab. Der Turm erzählt die wahre Hälfte. Abgebrochene Ansätze in seinen oberen Ecken zeigen, dass dort ein achteckiger Aufbau geplant war. Innen sehen die Gewölberippen aus wie Stein, sind aber aus Gips, in Blöcken gegossen und wie Stein behauen, wohl um zu sparen. Begonnen hat Hans von Burghausen, und sein Neffe Hans Stethaimer übernahm.",
+        "en" : "Countess Kunigunde, the story goes, had vowed the church if her husband stayed home, and the whole town gave. The tower tells the true half. Broken-off stubs in its top corners show that an eight-sided crown was planned up there. Inside, the vault ribs look like stone but are gypsum, poured and then carved like stone, probably to save money. Hans von Burghausen began the work, and his nephew Hans Stethaimer took it over."
       },
       "localizedStory" : {
-        "de" : "Der Bau begann 1410 und war 1478 fertig. Vier Baumeister leiteten ihn nacheinander, jeder übernahm vom vorigen.",
-        "en" : "Work began in 1410 and was finished in 1478. Four master builders led it, each taking over from the one before."
+        "de" : "Der Sage nach saß eine Gräfin bettelnd an dieser Tür, um den Kirchenbau zu bezahlen. Der Turm ist bis heute unvollendet.",
+        "en" : "The story goes that a countess sat begging at this door to pay for the church. Its tower is still unfinished."
       },
       "name" : "St. Jakob",
       "pos" : [
         48.060895,
         12.230867
       ],
-      "story" : "Work began in 1410 and was finished in 1478. Four master builders led it, each taking over from the one before."
+      "story" : "The story goes that a countess sat begging at this door to pay for the church. Its tower is still unfinished."
     },
     {
-      "extendedStory" : "Everything the town needed to control its bridge sat in one building. The ground floor beside the arch held the gate watch, the toll counter and the town defence. The citizens built the tower twice. They raised it from 1415 under Duke Ludwig the Bearded. Then they built it again between October 1470 and July 1471, under the masters Wolfgang Wiser and Steffan. The south face was painted in 1568, and in 1630 Wolfgang Pittenharter renewed the sundial and added two orbs.",
+      "extendedStory" : "The town clerk Joseph Heiserer wrote that Austrian troops fired them in 1800. No such attack ever took place, and the cannonballs are not even real. The gate itself was a hard worker. The ground floor beside the arch held the gate watch, the toll counter and the town defence. The townspeople built it twice, the second time under the masters Wolfgang Wiser and Steffan.",
       "icon" : "choice",
       "id" : "f-brucktor",
       "kind" : "gate_tower",
       "localizedExtendedStory" : {
-        "de" : "Alles, was die Stadt zur Kontrolle ihrer Brücke brauchte, saß in einem Gebäude. Im Erdgeschoss neben der Durchfahrt lagen die Torwache, die Zolleinnahme und die Stadtverteidigung. Die Bürger bauten den Turm zweimal. Sie errichteten ihn ab 1415 unter Herzog Ludwig dem Gebarteten. Dann bauten sie ihn von Oktober 1470 bis Juli 1471 erneut, unter den Meistern Wolfgang Wiser und Steffan. 1568 wurde die Südseite bemalt, und 1630 erneuerte Wolfgang Pittenharter die Sonnenuhr.",
-        "en" : "Everything the town needed to control its bridge sat in one building. The ground floor beside the arch held the gate watch, the toll counter and the town defence. The citizens built the tower twice. They raised it from 1415 under Duke Ludwig the Bearded. Then they built it again between October 1470 and July 1471, under the masters Wolfgang Wiser and Steffan. The south face was painted in 1568, and in 1630 Wolfgang Pittenharter renewed the sundial and added two orbs."
+        "de" : "Der Stadtschreiber Joseph Heiserer schrieb, österreichische Truppen hätten sie 1800 abgefeuert. Einen solchen Beschuss gab es nie, und echt sind die Kanonenkugeln auch nicht. Das Tor selbst hatte viel zu tun. Im Erdgeschoss neben der Durchfahrt lagen Torwache, Zolleinnahme und Stadtverteidigung. Die Bürger haben es zweimal gebaut, beim zweiten Mal unter den Meistern Wolfgang Wiser und Steffan.",
+        "en" : "The town clerk Joseph Heiserer wrote that Austrian troops fired them in 1800. No such attack ever took place, and the cannonballs are not even real. The gate itself was a hard worker. The ground floor beside the arch held the gate watch, the toll counter and the town defence. The townspeople built it twice, the second time under the masters Wolfgang Wiser and Steffan."
       },
       "localizedStory" : {
-        "de" : "Das Stadttor an der Brücke. 1630 erneuerte der Maler Wolfgang Pittenharter hier die Sonnenuhr, für 3 Gulden 10 Kreuzer.",
-        "en" : "The gate at the bridge. In 1630 the painter Wolfgang Pittenharter renewed its sundial for 3 gulden 10 kreuzer."
+        "de" : "In der bemalten Fassade dieses Tors stecken zwei eiserne Kanonenkugeln. Den Beschuss, von dem sie stammen sollen, hat es nie gegeben.",
+        "en" : "Two iron cannonballs are stuck in this gate's painted front. The shelling they were said to come from never happened."
       },
       "name" : "Brucktor",
       "pos" : [
         48.059986,
         12.232458
       ],
-      "story" : "The gate at the bridge. In 1630 the painter Wolfgang Pittenharter renewed its sundial for 3 gulden 10 kreuzer."
+      "story" : "Two iron cannonballs are stuck in this gate's painted front. The shelling they were said to come from never happened."
     },
     {
-      "extendedStory" : "The market church was already standing in 1324, when someone paid for an early morning mass here. In 1342 Emperor Ludwig the Bavarian gave it the income of the town's public weighing scales. That money kept its eternal light burning. Its tower did a second job into the nineteenth century, watching over the roofs for fire. Wolfgang Wiser built the spire in 1501/02. He is the same master who finished the tower of St Jakob and rebuilt the Brucktor.",
+      "extendedStory" : "Those carvings were keystones, taken down when the church was made baroque. Many were built into an old bathhouse and then disappeared when mineral baths were built. A few are said to sit in the church at Eiselfing. The tower kept a second job into the 19th century, as the town's fire watchtower. And Emperor Ludwig the Bavarian gave the income of the town scales to keep the church's eternal light burning.",
       "icon" : "choice",
       "id" : "f-frauenkirche",
       "kind" : "church",
       "localizedExtendedStory" : {
-        "de" : "Die Marktkirche stand schon 1324, als jemand hier eine Frühmesse stiftete. Kaiser Ludwig der Bayer schenkte ihr 1342 die Erträge der Stadtfronwaage, damit ihr Ewiges Licht weiterbrennen konnte. Ihr Turm hatte bis ins 19. Jahrhundert eine zweite Aufgabe und wachte über den Dächern gegen Feuer. Wolfgang Wiser baute 1501/02 den Spitzhelm. Es ist derselbe Meister, der den Turm von St. Jakob vollendete und das Brucktor neu errichtete.",
-        "en" : "The market church was already standing in 1324, when someone paid for an early morning mass here. In 1342 Emperor Ludwig the Bavarian gave it the income of the town's public weighing scales. That money kept its eternal light burning. Its tower did a second job into the nineteenth century, watching over the roofs for fire. Wolfgang Wiser built the spire in 1501/02. He is the same master who finished the tower of St Jakob and rebuilt the Brucktor."
+        "de" : "Es waren Schlusssteine, entfernt, als die Kirche barock wurde. Viele wurden in ein altes Badhaus verbaut und verschwanden beim Bau eines Mineralbads. Ein paar sollen in der Kirche von Eiselfing sein. Der Turm hatte bis ins 19. Jahrhundert eine zweite Aufgabe, als Feuerwachturm der Stadt. Und Kaiser Ludwig der Bayer stiftete die Erträge der Stadtwaage, damit das Ewige Licht der Kirche brennt.",
+        "en" : "Those carvings were keystones, taken down when the church was made baroque. Many were built into an old bathhouse and then disappeared when mineral baths were built. A few are said to sit in the church at Eiselfing. The tower kept a second job into the 19th century, as the town's fire watchtower. And Emperor Ludwig the Bavarian gave the income of the town scales to keep the church's eternal light burning."
       },
       "localizedStory" : {
-        "de" : "1342 schenkte Kaiser Ludwig der Bayer dieser Kirche die Erträge der Stadtwaage, damit ihr Ewiges Licht weiterbrennt.",
-        "en" : "In 1342 Emperor Ludwig the Bavarian gave this church the income of the town scales, to keep its eternal light burning."
+        "de" : "Im Gewölbe dieser Kirche saß einmal eine steinerne Katze mit einer Maus in der Tatze, dazu ein grüner Drache. Fast alle sind verschwunden.",
+        "en" : "A carved cat with a mouse in its paw once sat up in this church's vault, along with a green dragon. Nearly all have vanished."
       },
       "name" : "Frauenkirche",
       "pos" : [
         48.060883,
         12.232881
       ],
-      "story" : "In 1342 Emperor Ludwig the Bavarian gave this church the income of the town scales, to keep its eternal light burning."
+      "story" : "A carved cat with a mouse in its paw once sat up in this church's vault, along with a green dragon. Nearly all have vanished."
     },
     {
-      "extendedStory" : "The salt road made this corner what it is. It crossed the Inn bridge, came through the Brucktor and turned at a right angle into the market place. The duke's toll collector sat in the old toll house here until 1497. Then the office moved to the new one at the corner of the Schmidzeile, built that same year. An angel by W. Leb sits on its corner oriel. The older house goes back to about 1400, and Renaissance oriels reached its Bruckgasse front in 1539.",
+      "extendedStory" : "Today it reads 1497. The angel holds the arms of Wasserburg and Bavaria over a motto: if God is with us, who can be against us. It was once credited to the sculptor Wolfgang Leb, but his works no longer list it. This corner lived on salt. The salt road crossed the Inn bridge, came through the Brucktor and turned sharply into the market.",
       "icon" : "everyday",
       "id" : "f-mauthaus",
       "kind" : "other",
       "localizedExtendedStory" : {
-        "de" : "Die Salzstraße hat diese Ecke gemacht. Sie kam über die Innbrücke, führte durch das Brucktor und bog im rechten Winkel in den Markt ein. Bis 1497 saß der herzogliche Mautner hier im Alten Mauthaus. Dann zog das Amt in das Neue Mauthaus an der Ecke der Schmidzeile, das im selben Jahr entstand. Am Eckerker sitzt eine Engelsfigur von W. Leb. Das ältere Haus geht auf etwa 1400 zurück, und 1539 kamen Renaissanceerker an seine Fassade zur Bruckgasse.",
-        "en" : "The salt road made this corner what it is. It crossed the Inn bridge, came through the Brucktor and turned at a right angle into the market place. The duke's toll collector sat in the old toll house here until 1497. Then the office moved to the new one at the corner of the Schmidzeile, built that same year. An angel by W. Leb sits on its corner oriel. The older house goes back to about 1400, and Renaissance oriels reached its Bruckgasse front in 1539."
+        "de" : "Heute steht dort 1497. Der Engel hält die Wappen Wasserburgs und Bayerns über dem Wahlspruch: So Gott mit uns, wer wird wider uns sein. Früher schrieb man ihn dem Bildhauer Wolfgang Leb zu, doch unter Lebs Werken wird er nicht mehr geführt. Diese Ecke lebte vom Salz. Die Salzstraße kam über die Innbrücke, durch das Brucktor und bog im rechten Winkel in den Markt ein.",
+        "en" : "Today it reads 1497. The angel holds the arms of Wasserburg and Bavaria over a motto: if God is with us, who can be against us. It was once credited to the sculptor Wolfgang Leb, but his works no longer list it. This corner lived on salt. The salt road crossed the Inn bridge, came through the Brucktor and turned sharply into the market."
       },
       "localizedStory" : {
-        "de" : "Bis 1497 saß hier der herzogliche Mautner, an der Salzstraße, die über die Innbrücke kam und in den Markt einbog.",
-        "en" : "The duke's toll collector sat here until 1497, on the salt road that crossed the Inn bridge and turned into the market."
+        "de" : "Schau auf den Engel unter dem Eckerker. Die Jahreszahl darunter lautete einmal 1097, bis man sie für verschrieben hielt.",
+        "en" : "Look for the angel under the corner oriel. The year beneath it once read 1097, until someone decided that was a slip."
       },
       "name" : "Mauthaus",
       "pos" : [
         48.060427,
         12.232017
       ],
-      "story" : "The duke's toll collector sat here until 1497, on the salt road that crossed the Inn bridge and turned into the market."
+      "story" : "Look for the angel under the corner oriel. The year beneath it once read 1097, until someone decided that was a slip."
     },
     {
-      "extendedStory" : "A castle stood on this spur long before the palace you see today. Its chapel of St Ägidius rises over a building already mentioned in 1137. By 1200 the castle had given the town its name, which simply means water castle. Duke Wilhelm IV then had the older building rebuilt into a ducal palace between 1529 and 1535. His master builder was probably Leonhard Halder. The draw well that belongs to the palace was sunk in 1536.",
+      "extendedStory" : "Look for the old draw well, which came with the palace in 1536. Up here, a castle became a palace. Wilhelm IV had the older castle rebuilt into a ducal palace, and his master builder was probably Leonhard Halder. The castle chapel of St Ägidius goes back further still. It stands over a building the records already mention in 1137.",
       "icon" : "hero",
       "id" : "f-wasserburg",
       "kind" : "fortress",
       "localizedExtendedStory" : {
-        "de" : "Auf diesem Sporn stand lange vor dem heutigen Schloss eine Burg. Ihre Kapelle St. Ägidius steht über einem Bau, der schon 1137 erwähnt wird. Um 1200 hatte die Burg der Stadt ihren Namen gegeben, und der heißt einfach Wasserburg. Herzog Wilhelm IV. ließ den älteren Bau dann zwischen 1529 und 1535 zum herzoglichen Schloss umbauen. Sein Baumeister war wohl Leonhard Halder. Der zugehörige Ziehbrunnen entstand 1536.",
-        "en" : "A castle stood on this spur long before the palace you see today. Its chapel of St Ägidius rises over a building already mentioned in 1137. By 1200 the castle had given the town its name, which simply means water castle. Duke Wilhelm IV then had the older building rebuilt into a ducal palace between 1529 and 1535. His master builder was probably Leonhard Halder. The draw well that belongs to the palace was sunk in 1536."
+        "de" : "Schau nach dem alten Ziehbrunnen, der 1536 zum Schloss dazukam. Hier oben wurde aus einer Burg ein Schloss. Wilhelm IV. ließ die ältere Burg zum herzoglichen Schloss umbauen, sein Baumeister war wohl Leonhard Halder. Die Burgkapelle St. Ägidius reicht noch weiter zurück. Sie steht über einem Bau, der schon 1137 erwähnt wird.",
+        "en" : "Look for the old draw well, which came with the palace in 1536. Up here, a castle became a palace. Wilhelm IV had the older castle rebuilt into a ducal palace, and his master builder was probably Leonhard Halder. The castle chapel of St Ägidius goes back further still. It stands over a building the records already mention in 1137."
       },
       "localizedStory" : {
-        "de" : "Die Burg, die der Stadt ihren Namen gab. Herzog Wilhelm IV. ließ sie zwischen 1529 und 1535 zum herzoglichen Schloss umbauen.",
-        "en" : "The castle that gave the town its name. Duke Wilhelm IV had it rebuilt as a ducal palace between 1529 and 1535."
+        "de" : "Die ganze Stadt trägt den Namen dieser Burg. Wasserburg heißt ganz einfach Burg am Wasser.",
+        "en" : "The whole town took its name from this castle. Wasserburg simply means water castle."
       },
       "name" : "Wasserburg",
       "pos" : [
         48.060714,
         12.229363
       ],
-      "story" : "The castle that gave the town its name. Duke Wilhelm IV had it rebuilt as a ducal palace between 1529 and 1535."
+      "story" : "The whole town took its name from this castle. Wasserburg simply means water castle."
     },
     {
-      "extendedStory" : "Wasserburg's own citizens raised this tower from 1415, under Duke Ludwig the Seventh, called the Bearded. It closed the end of the inner cross wall and stood right on the river bank. The name belongs to the Pfendner, the officer who collected unpaid debts and at times sat here. Later the tower simply became a home. It passed into private hands early in the nineteenth century. In 1900 the mason Johann Herfurter was allowed to fit a stable, a cellar and a flat inside.",
+      "extendedStory" : "That official, the Pfendner, sat up in this tower at times. The townspeople built it themselves, and back then it stood right on the bank of the Inn. Later it was sold into private hands. In 1900 a mason named Johann Herfurter was allowed to fit a stable, a cellar and a flat inside. So a tower of the town wall became somebody's home.",
       "icon" : "everyday",
       "id" : "f-hungerturm",
       "kind" : "gate_tower",
       "localizedExtendedStory" : {
-        "de" : "Die Wasserburger Bürger errichteten diesen Turm ab 1415, unter Herzog Ludwig VII., dem Gebarteten. Er schloss die innere Zwerchmauer ab und stand unmittelbar am Innufer. Der Name gehört dem Pfendner, dem Amtsträger für die Pfändung, der zeitweise hier saß. Später wurde der Turm einfach ein Wohnhaus. Anfang des 19. Jahrhunderts kam er in Privatbesitz, und 1900 durfte der Maurer Johann Herfurter Stallung, Keller und eine Wohnung einbauen.",
-        "en" : "Wasserburg's own citizens raised this tower from 1415, under Duke Ludwig the Seventh, called the Bearded. It closed the end of the inner cross wall and stood right on the river bank. The name belongs to the Pfendner, the officer who collected unpaid debts and at times sat here. Later the tower simply became a home. It passed into private hands early in the nineteenth century. In 1900 the mason Johann Herfurter was allowed to fit a stable, a cellar and a flat inside."
+        "de" : "Dieser Amtsträger, der Pfendner, saß zeitweise hier im Turm. Die Wasserburger Bürger bauten ihn selbst, und damals stand er direkt am Ufer des Inn. Später wurde er an Privat verkauft. 1900 durfte der Maurer Johann Herfurter einen Stall, einen Keller und eine Wohnung einbauen. So wurde aus einem Turm der Stadtmauer ein Zuhause.",
+        "en" : "That official, the Pfendner, sat up in this tower at times. The townspeople built it themselves, and back then it stood right on the bank of the Inn. Later it was sold into private hands. In 1900 a mason named Johann Herfurter was allowed to fit a stable, a cellar and a flat inside. So a tower of the town wall became somebody's home."
       },
       "localizedStory" : {
-        "de" : "Benannt nach dem Pfendner, dem Amtsträger für die Pfändung, der zeitweise selbst im Turm saß.",
-        "en" : "Named for the Pfendner, the officer who collected unpaid debts and at times sat up in the tower himself."
+        "de" : "Zwei Namen, ein Turm. Man nennt ihn Hungerturm, doch ebenso oft Pfendnerturm, nach dem Amtsträger, der Pfändungen vollstreckte.",
+        "en" : "Two names, one tower. People call it the Hunger Tower, but just as often the Pfendnerturm, after the official who seized goods for debts."
       },
       "name" : "Hungerturm",
       "pos" : [
         48.063156,
         12.230935
       ],
-      "story" : "Named for the Pfendner, the officer who collected unpaid debts and at times sat up in the tower himself."
+      "story" : "Two names, one tower. People call it the Hunger Tower, but just as often the Pfendnerturm, after the official who seized goods for debts."
     },
     {
-      "extendedStory" : "This began as a defence tower on the outer cross wall. It has three storeys under a hipped roof and probably dates from the seventeenth century. Its neighbour on the inner wall stored the town's gunpowder, until lightning struck that one in 1680. The powder came here instead, and people began calling this the new powder tower. The lane outside carried the name unofficially in the 1930s and got it officially in 1955.",
+      "extendedStory" : "The strike came in 1680, on the older tower along the inner cross wall. This one stood on the outer wall, a defence tower under a hipped roof. It took over the job of keeping the gunpowder safe. The lane outside carried the tower's name long before the town made it official in 1955.",
       "icon" : "everyday",
       "id" : "f-pulverturm",
       "kind" : "gate_tower",
       "localizedExtendedStory" : {
-        "de" : "Das hier war zuerst ein Verteidigungsturm an der äußeren Zwerchmauer. Er hat drei Geschosse unter einem Walmdach und stammt wohl aus dem 17. Jahrhundert. Sein Nachbar an der inneren Mauer lagerte das Schießpulver der Stadt, bis dort 1680 der Blitz einschlug. Das Pulver kam daraufhin hierher, und man sprach vom neuen Pulverturm. Die Gasse davor trug den Namen in den 1930er Jahren inoffiziell und bekam ihn 1955 amtlich.",
-        "en" : "This began as a defence tower on the outer cross wall. It has three storeys under a hipped roof and probably dates from the seventeenth century. Its neighbour on the inner wall stored the town's gunpowder, until lightning struck that one in 1680. The powder came here instead, and people began calling this the new powder tower. The lane outside carried the name unofficially in the 1930s and got it officially in 1955."
+        "de" : "Der Blitz schlug 1680 in den älteren Turm an der inneren Quermauer ein. Dieser hier stand an der äußeren Mauer, ein Verteidigungsturm unter einem Walmdach, und er übernahm die Aufgabe, das Schießpulver zu hüten. Die Gasse davor trug den Namen des Turms schon lange, bevor die Stadt ihn 1955 amtlich machte.",
+        "en" : "The strike came in 1680, on the older tower along the inner cross wall. This one stood on the outer wall, a defence tower under a hipped roof. It took over the job of keeping the gunpowder safe. The lane outside carried the tower's name long before the town made it official in 1955."
       },
       "localizedStory" : {
-        "de" : "Das Schießpulver der Stadt kam hierher, nachdem ein Blitz 1680 den älteren Pulverturm zerstört hatte.",
-        "en" : "The town's gunpowder moved here after lightning destroyed the older powder tower in 1680."
+        "de" : "Ein Blitz hat diesem Turm seine Aufgabe verschafft. Er traf den früheren Pulverturm der Stadt, und das Schießpulver zog hierher um.",
+        "en" : "Lightning gave this tower its job. It struck the town's earlier powder tower, and the gunpowder moved in here instead."
       },
       "name" : "Pulverturm",
       "pos" : [
         48.061637,
         12.22344
       ],
-      "story" : "The town's gunpowder moved here after lightning destroyed the older powder tower in 1680."
+      "story" : "Lightning gave this tower its job. It struck the town's earlier powder tower, and the gunpowder moved in here instead."
     }
   ],
-  "generatedAt" : "2026-09-13T11:17:52Z",
+  "generatedAt" : "2026-09-17T12:36:33Z",
   "icon" : {
     "paths" : [
       "M1.2 56.0 L2.0 55.8 L2.7 56.4 L2.7 57.7 L1.7 58.5 L2.0 59.4 L2.7 59.7 L3.9 59.2 L4.6 57.7 L5.7 57.1 L6.7 57.8 L9.0 56.5 L10.1 57.1 L10.2 58.8 L8.8 59.7 L8.6 60.8 L9.9 62.2 L10.1 64.4 L10.7 65.1 L11.5 65.4 L10.9 64.4 L11.1 62.0 L11.7 61.5 L12.6 61.8 L13.1 61.2 L12.5 59.4 L13.8 58.4 L13.4 56.1 L14.1 55.9 L15.1 57.2 L16.4 57.3 L16.9 57.0 L15.8 56.4 L15.8 55.5 L18.4 54.6 L19.6 56.4 L21.1 56.8 L21.9 55.8 L20.5 55.9 L20.2 54.6 L20.8 53.7 L21.6 53.7 L22.7 52.1 L26.1 54.4 L26.9 54.4 L27.1 53.5 L25.8 53.6 L24.5 52.4 L24.2 50.7 L25.6 49.8 L26.3 50.5 L25.5 51.2 L26.5 51.3 L27.6 50.8 L28.9 49.3 L29.6 46.5 L33.0 46.2 L33.2 47.9 L34.2 49.5 L33.8 50.5 L34.9 51.5 L37.5 51.5 L43.6 53.1 L47.0 55.9 L47.9 57.2 L47.7 57.9 L45.2 59.2 L41.7 60.1 L33.8 59.2 L31.6 59.4 L29.7 60.5 L28.3 63.5 L26.8 64.2 L23.6 63.5 L22.7 62.6 L22.3 61.2 L22.5 63.1 L24.5 64.8 L24.5 65.7 L18.9 67.6 L15.6 67.1 L21.6 69.9 L24.9 69.5 L25.2 70.3 L23.9 72.3 L22.4 72.9 L20.0 72.7 L21.9 73.5 L23.9 73.7 L25.0 73.1 L25.8 71.6 L27.4 71.7 L28.2 73.3 L27.9 75.1 L26.2 77.3 L19.4 81.5 L17.3 79.2 L17.3 77.0 L15.2 76.9 L12.5 75.0 L10.4 75.3 L9.6 76.2 L11.4 76.1 L13.4 77.7 L13.6 80.0 L14.7 80.6 L15.8 82.8 L14.1 84.1 L11.1 83.5 L9.3 84.7 L7.2 85.3 L5.8 86.9 L5.7 88.7 L6.4 87.5 L7.9 86.9 L8.6 87.2 L8.9 88.8 L9.9 89.3 L11.8 89.2 L12.5 87.8 L14.1 86.4 L14.7 86.7 L15.0 87.6 L17.2 87.6 L17.6 88.4 L16.4 89.2 L15.5 92.5 L17.1 93.3 L17.5 95.0 L18.5 96.2 L19.9 96.8 L21.0 96.6 L19.5 95.8 L18.9 93.8 L20.4 92.3 L19.4 90.3 L20.1 89.4 L21.1 89.4 L23.7 88.0 L25.9 89.2 L25.4 90.6 L24.2 91.2 L25.9 91.2 L27.5 89.9 L28.3 87.5 L27.0 86.2 L27.1 85.5 L28.4 85.4 L29.4 86.8 L30.7 87.2 L30.2 85.3 L30.8 84.6 L31.4 84.8 L32.4 86.6 L33.4 86.4 L34.8 87.2 L36.2 86.9 L34.8 86.1 L34.0 84.5 L34.7 83.9 L35.9 84.7 L37.3 84.8 L36.2 84.0 L35.8 83.0 L36.7 80.4 L38.5 78.2 L38.5 76.6 L37.6 74.4 L38.7 68.9 L41.0 66.9 L47.5 64.8 L48.0 65.5 L46.9 68.7 L48.5 71.7 L46.4 74.0 L43.3 73.5 L41.6 75.2 L41.6 75.9 L43.1 75.2 L45.3 76.9 L43.5 80.5 L44.1 83.1 L46.1 84.3 L47.9 83.6 L48.5 82.5 L46.4 83.4 L45.1 82.7 L44.7 81.3 L45.2 79.7 L47.1 78.2 L48.2 78.5 L49.9 78.0 L51.9 76.1 L52.7 77.1 L52.8 78.9 L52.3 80.2 L51.0 81.1 L52.7 80.6 L54.6 80.7 L55.4 79.9 L55.8 78.0 L56.8 77.8 L58.5 79.0 L59.4 83.3 L58.7 85.5 L57.6 86.5 L55.7 86.7 L54.6 85.3 L52.8 85.1 L51.6 86.3 L49.8 86.3 L48.7 87.0 L48.3 87.7 L49.4 87.2 L51.8 87.7 L51.9 88.9 L52.7 89.3 L54.8 88.5 L56.8 89.0 L57.2 89.7 L55.2 91.8 L52.9 91.8 L51.2 93.7 L49.0 94.4 L48.2 95.4 L48.2 96.8 L48.8 95.7 L50.6 95.3 L51.5 97.2 L53.3 97.3 L54.0 96.6 L54.3 94.6 L56.5 94.6 L57.7 92.9 L59.7 92.2 L60.2 93.1 L58.3 94.7 L58.7 96.4 L58.3 97.8 L58.6 98.4 L59.6 98.1 L61.0 99.8 L62.4 100.0 L63.1 99.6 L62.1 99.5 L61.9 98.8 L63.0 97.2 L61.8 95.7 L62.8 94.8 L62.2 93.9 L63.4 93.3 L63.3 92.0 L63.9 91.3 L65.5 91.1 L66.6 92.3 L67.5 92.5 L69.1 90.9 L70.9 90.3 L72.0 90.9 L70.9 89.5 L68.7 89.3 L68.1 88.0 L66.2 88.5 L65.6 87.9 L66.5 86.4 L68.3 86.2 L69.2 85.2 L71.4 85.4 L72.3 84.7 L72.4 84.2 L70.9 84.6 L68.5 83.4 L68.5 82.4 L69.5 81.9 L70.8 82.4 L71.8 81.6 L73.4 82.1 L74.4 81.4 L72.8 80.9 L70.8 78.9 L70.8 77.3 L71.4 77.0 L74.6 77.3 L76.2 76.7 L77.7 74.9 L78.0 72.7 L77.2 71.3 L77.4 72.7 L76.9 74.1 L75.8 75.1 L74.1 75.6 L72.4 75.3 L69.6 73.2 L67.6 72.9 L68.6 69.9 L71.2 70.2 L72.6 69.0 L72.4 66.5 L71.0 68.1 L67.1 68.5 L64.7 71.6 L63.4 71.8 L62.0 71.4 L60.6 69.9 L59.2 65.9 L59.4 61.3 L60.3 60.1 L63.4 61.2 L70.0 61.3 L74.3 64.5 L75.6 64.7 L77.1 64.0 L79.5 64.9 L80.7 66.3 L80.8 68.4 L81.3 68.0 L81.9 66.5 L81.2 65.0 L75.5 62.6 L72.9 59.3 L77.1 52.7 L81.1 50.7 L82.3 49.5 L82.8 48.1 L82.7 46.6 L82.4 48.0 L81.3 49.1 L77.7 50.4 L75.9 51.7 L75.1 51.2 L76.3 48.1 L78.7 46.0 L82.3 43.9 L84.2 41.4 L84.7 39.5 L83.4 41.2 L81.8 42.3 L75.4 44.4 L72.7 48.0 L68.2 45.3 L67.1 43.9 L67.2 42.5 L68.5 41.4 L74.4 41.4 L76.2 40.7 L76.8 39.8 L75.0 40.2 L70.6 39.8 L70.1 39.0 L71.8 38.2 L76.4 38.3 L78.8 37.3 L80.6 35.3 L81.5 32.4 L81.3 30.7 L80.2 33.2 L78.1 34.9 L67.5 37.9 L65.4 39.0 L63.7 41.0 L62.9 40.8 L62.2 38.8 L63.5 34.6 L63.2 33.5 L65.5 32.4 L71.9 31.3 L74.3 30.1 L76.8 26.8 L77.6 22.8 L76.5 21.3 L76.9 23.4 L76.5 25.7 L75.3 27.6 L73.4 29.1 L70.8 29.9 L65.5 30.5 L62.3 31.5 L62.1 30.9 L62.6 29.3 L65.1 25.7 L70.4 22.1 L71.8 20.6 L72.9 17.9 L72.9 15.8 L72.2 14.3 L71.3 14.4 L69.9 12.5 L67.4 11.5 L65.8 11.4 L65.8 12.5 L63.0 12.9 L62.0 14.0 L58.7 13.8 L57.1 12.7 L56.0 10.8 L56.3 9.1 L57.5 8.3 L56.0 8.5 L54.9 10.4 L55.4 12.8 L56.9 14.4 L59.5 15.8 L56.8 18.4 L57.0 20.7 L59.1 21.6 L63.7 19.8 L64.8 20.2 L65.3 21.2 L64.8 22.6 L61.4 26.8 L59.7 30.3 L58.9 35.4 L59.6 39.6 L62.2 44.1 L70.5 50.6 L71.5 52.2 L71.9 53.9 L71.6 55.7 L70.7 57.4 L69.1 58.6 L67.1 59.3 L63.7 59.0 L59.4 56.5 L57.4 54.6 L55.9 51.4 L50.9 44.9 L52.5 43.1 L52.6 41.3 L53.9 40.5 L55.3 38.5 L53.9 39.4 L51.9 39.5 L50.5 38.9 L49.8 37.7 L50.2 32.4 L49.4 32.4 L49.2 31.5 L49.8 31.2 L50.4 32.1 L52.8 32.3 L54.3 31.6 L55.1 30.1 L54.8 28.2 L54.3 29.9 L52.9 30.5 L51.8 29.9 L49.9 27.4 L50.6 26.7 L50.2 21.7 L53.5 20.9 L54.3 19.9 L54.4 18.1 L51.7 19.4 L49.4 18.3 L48.6 15.6 L46.7 13.6 L47.4 12.0 L47.2 10.7 L46.0 9.3 L44.5 8.6 L44.6 7.9 L46.2 6.8 L46.5 5.1 L48.0 4.3 L48.0 2.9 L46.8 2.7 L45.3 4.1 L44.7 3.7 L45.0 2.8 L44.6 2.7 L42.3 3.5 L41.2 2.1 L40.0 1.8 L39.4 0.3 L37.7 0.0 L36.9 0.6 L36.6 1.7 L35.6 2.1 L34.6 3.5 L32.2 2.7 L31.9 2.8 L32.2 3.7 L31.5 4.1 L29.7 2.6 L28.9 2.9 L28.7 3.7 L29.3 4.7 L30.4 5.1 L30.7 6.8 L33.6 9.8 L33.2 10.5 L31.2 11.2 L31.3 12.7 L30.0 14.3 L30.2 15.7 L32.6 16.4 L33.5 17.7 L34.6 17.4 L35.5 18.0 L36.5 17.6 L38.0 18.2 L38.7 18.9 L38.6 19.8 L28.8 19.7 L28.1 19.3 L27.7 17.9 L26.6 16.6 L25.0 18.0 L25.5 19.7 L27.0 20.7 L35.5 20.5 L38.2 20.9 L37.8 22.4 L35.8 22.0 L35.0 23.4 L33.9 23.8 L34.1 25.6 L33.1 26.4 L32.4 26.3 L32.0 25.3 L31.0 26.0 L29.9 25.7 L28.0 26.1 L26.8 25.1 L26.6 23.7 L25.8 24.9 L27.0 27.0 L26.9 27.7 L23.8 27.5 L22.0 28.9 L15.9 25.7 L13.8 23.9 L14.3 21.9 L15.6 21.1 L16.3 21.3 L16.7 20.4 L16.1 18.6 L17.1 16.6 L16.4 15.3 L16.1 15.1 L16.4 16.2 L15.7 17.3 L14.4 16.6 L13.5 16.9 L13.7 18.8 L12.5 20.1 L11.1 18.7 L11.0 16.4 L9.6 15.1 L9.3 14.9 L8.6 16.5 L6.7 14.9 L4.6 15.6 L4.2 16.4 L5.1 15.9 L5.7 16.2 L5.8 18.4 L7.4 18.7 L8.3 19.5 L9.0 22.4 L6.9 23.3 L5.3 22.1 L3.7 22.2 L2.6 23.9 L1.0 24.5 L0.6 25.2 L0.5 26.0 L1.3 25.2 L3.1 25.4 L3.3 27.1 L4.2 27.6 L5.1 27.3 L6.4 25.8 L8.5 26.3 L9.2 27.4 L8.1 27.8 L9.3 28.8 L9.0 29.8 L9.5 30.6 L8.5 31.3 L7.6 30.8 L7.8 31.5 L10.7 33.1 L12.2 33.1 L12.9 34.6 L12.1 35.5 L10.3 35.3 L10.9 36.5 L11.9 37.3 L13.0 37.4 L15.6 35.5 L16.1 36.5 L15.5 38.2 L16.9 38.0 L17.4 38.6 L16.4 39.8 L14.6 40.7 L11.5 40.9 L8.7 39.3 L8.2 37.8 L9.1 36.5 L8.2 36.7 L7.1 38.2 L7.7 40.4 L9.3 41.6 L12.7 42.1 L13.1 42.8 L12.8 43.3 L10.8 43.9 L7.8 43.1 L10.0 44.6 L12.2 44.8 L13.4 44.3 L16.9 41.6 L17.4 42.0 L17.9 43.9 L17.5 45.4 L16.3 45.9 L14.9 47.7 L10.4 50.8 L8.2 50.2 L7.4 48.3 L6.6 47.8 L3.9 48.3 L2.2 47.6 L0.7 48.1 L0.0 49.2 L1.1 48.6 L2.6 49.1 L2.5 50.7 L3.1 51.3 L5.4 50.4 L7.1 53.0 L4.8 55.1 L1.9 54.6 Z"
@@ -3980,7 +3979,7 @@
     "en" : "Wasserburg am Inn"
   },
   "name" : "Wasserburg am Inn",
-  "packVersion" : 8,
+  "packVersion" : 9,
   "schemaVersion" : 1,
   "source" : "OpenStreetMap via Overpass API",
   "stats" : {

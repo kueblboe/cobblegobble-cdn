@@ -119,12 +119,9 @@
 
     ],
     "adjustedStreets" : [
-      "Broad Street Place",
-      "Milsom Place",
-      "Riverside Terrace",
-      "Southgate Place"
+
     ],
-    "fromVersion" : 7,
+    "fromVersion" : 8,
     "removedStreets" : [
 
     ]
@@ -19271,167 +19268,167 @@
   ],
   "fruits" : [
     {
-      "extendedStory" : "Roughly 49 metres of height, and a building that reached its present form during 1572. Gothic work, and you read that off its windows rather than its plan. Glass occupies so much wall that masonry seems reduced to framing. Choose a bright morning and step inside. Illumination performs whatever ornament achieves elsewhere.",
+      "extendedStory" : "His name was Oliver King, and that dream ended: let a King restore the Church. He got his wish, and what he ordered is what stands here now. Inside, a floor of 891 named stones was lifted, written down and mended when it began to sink. Warmth under those stones comes from this city's own hot spring water, through a heat pump.",
       "icon" : "choice",
       "id" : "f-bath-abbey",
       "kind" : "church",
       "localizedExtendedStory" : {
-        "de" : "Die Abtei misst etwa 49 Meter, der heutige Bau stammt von 1572. Sie ist gotisch, und der Stil zeigt sich in den Fenstern. So viel Glas steckt in diesen Wänden, dass der Stein wie ein Rahmen dafür wirkt. Geh an einem hellen Tag hinein. Das Licht leistet hier, was anderswo der Schmuck leistet.",
-        "en" : "Roughly 49 metres of height, and a building that reached its present form during 1572. Gothic work, and you read that off its windows rather than its plan. Glass occupies so much wall that masonry seems reduced to framing. Choose a bright morning and step inside. Illumination performs whatever ornament achieves elsewhere."
+        "de" : "Der Bischof hieß Oliver King, und der Traum meinte genau ihn. Die Kirche, die er bauen ließ, steht bis heute hier. Im Inneren liegen 891 beschriftete Bodenplatten. Jede einzelne wurde angehoben, dokumentiert und ausgebessert, als der Boden nachgab. Die Wärme darunter kommt aus Baths eigenem heißem Quellwasser, über eine Wärmepumpe.",
+        "en" : "His name was Oliver King, and that dream ended: let a King restore the Church. He got his wish, and what he ordered is what stands here now. Inside, a floor of 891 named stones was lifted, written down and mended when it began to sink. Warmth under those stones comes from this city's own hot spring water, through a heat pump."
       },
       "localizedStory" : {
-        "de" : "Eine gotische Kirche von etwa 49 Metern, deren heutiger Bau von 1572 stammt.",
-        "en" : "A Gothic church rising about 49 metres, whose present building dates from 1572."
+        "de" : "Der Sage nach träumte ein Bischof von einem Ölzweig und einer Krone, und eine Stimme sprach vom Wiederaufbau.",
+        "en" : "The story goes a bishop dreamed of an olive tree and a crown, and heard: let an Olive establish a crown."
       },
       "name" : "Bath Abbey",
       "pos" : [
         51.381428,
         -2.358848
       ],
-      "story" : "A Gothic church rising about 49 metres, whose present building dates from 1572."
+      "story" : "The story goes a bishop dreamed of an olive tree and a crown, and heard: let an Olive establish a crown."
     },
     {
-      "extendedStory" : "Water rises here from below without anyone pumping it, and it is warm when it arrives. The Romans built around that fact, and their stonework is what you go down to see. The buildings you meet at street level came much later, finished in 1897, and John Wood had a hand in the surroundings. Two eras stand on top of each other here, and the water is older than either.",
+      "extendedStory" : "Bladud was his name, and a statue of him still looks down over the King's Bath. The Romans took this spring seriously too. Their engineers drove oak piles into the mud two thousand years ago, and those piles still hold up the spring's stone chamber. Their great drain still carries the water off to the river, and it is large enough to walk down. Both are doing exactly what they were made to do.",
       "icon" : "hero",
       "id" : "f-the-roman-baths",
       "kind" : "attraction",
       "localizedExtendedStory" : {
-        "de" : "Hier steigt Wasser von unten auf, ohne dass jemand pumpt, und es ist warm, wenn es ankommt. Die Römer bauten um diese Tatsache herum, und ihr Steinwerk ist das, wofür man hinuntergeht. Was man auf Straßenhöhe sieht, kam viel später, 1897 fertig, und John Wood hatte an der Umgebung Anteil. Zwei Zeiten stehen hier übereinander, und das Wasser ist älter als beide.",
-        "en" : "Water rises here from below without anyone pumping it, and it is warm when it arrives. The Romans built around that fact, and their stonework is what you go down to see. The buildings you meet at street level came much later, finished in 1897, and John Wood had a hand in the surroundings. Two eras stand on top of each other here, and the water is older than either."
+        "de" : "Bladud hieß er, und eine Statue von ihm blickt noch heute über das King's Bath. Auch die Römer nahmen diese Quelle ernst. Ihre Ingenieure trieben vor zweitausend Jahren Eichenpfähle in den Schlamm, und die tragen die Steinkammer bis heute. Ihr großer Abwasserkanal führt das Wasser noch zum Fluss, und man kann aufrecht hindurchgehen. Beides tut genau das, wofür es gebaut wurde.",
+        "en" : "Bladud was his name, and a statue of him still looks down over the King's Bath. The Romans took this spring seriously too. Their engineers drove oak piles into the mud two thousand years ago, and those piles still hold up the spring's stone chamber. Their great drain still carries the water off to the river, and it is large enough to walk down. Both are doing exactly what they were made to do."
       },
       "localizedStory" : {
-        "de" : "Heißes Wasser steigt hier noch immer von selbst auf, so wie schon für die Römer.",
-        "en" : "Hot water still comes up here on its own, as it did for the Romans."
+        "de" : "Der Sage nach wälzten sich hier die Schweine eines Prinzen im warmen Schlamm und kamen geheilt heraus. Er gründete die Stadt über der Quelle.",
+        "en" : "The story goes that a prince's pigs rolled in warm mud here and came out healed. He built a city over the spring."
       },
       "name" : "The Roman Baths",
       "pos" : [
         51.380905,
         -2.359605
       ],
-      "story" : "Hot water still comes up here on its own, as it did for the Romans."
+      "story" : "The story goes that a prince's pigs rolled in warm mud here and came out healed. He built a city over the spring."
     },
     {
-      "extendedStory" : "John Wood the Younger finished these in 1769, and a grand ball in 1771 got them going. Five Whitefriars crystal chandeliers hang above dancing space for 500. Overnight on 25 to 26 April 1942, Baedeker raids gutted everything within. Whatever hangs up there today had to be replaced. Outer walls endured; the interior is restoration work throughout.",
+      "extendedStory" : "Some say he is Admiral Arthur Phillip, who lived close by. The rooms have a stranger true story as well. Weeks after they opened, a chandelier arm fell down while the company was dancing. The whole set came down, the committee demanded its money back, and a new set was ordered from William Parker. Parker's chandeliers hang there yet, each with forty curved crystal arms.",
       "icon" : "everyday",
       "id" : "f-the-assembly-rooms",
       "kind" : "attraction",
       "localizedExtendedStory" : {
-        "de" : "John Wood der Jüngere baute diese Säle 1769, und 1771 eröffneten sie mit einem großen Ball. Der Ballsaal fasst 500 Menschen, unter fünf Kristallleuchtern aus Whitefriars. In der Nacht vom 25. auf den 26. April 1942 brannten die Baedeker-Angriffe das Innere aus. Was heute dort hängt, musste ersetzt werden. Die Hülle blieb, alles darin ist Wiederherstellung.",
-        "en" : "John Wood the Younger finished these in 1769, and a grand ball in 1771 got them going. Five Whitefriars crystal chandeliers hang above dancing space for 500. Overnight on 25 to 26 April 1942, Baedeker raids gutted everything within. Whatever hangs up there today had to be replaced. Outer walls endured; the interior is restoration work throughout."
+        "de" : "Manche halten ihn für Admiral Arthur Phillip, der ganz in der Nähe wohnte. Die wahre Geschichte des Hauses ist fast seltsamer. Wenige Wochen nach der Eröffnung fiel mitten im Tanz ein Arm eines Kronleuchters herab. Der ganze Satz kam herunter, das Komitee forderte sein Geld zurück, und ein neuer wurde bei William Parker bestellt. Parkers Leuchter hängen bis heute dort, jeder mit vierzig geschwungenen Kristallarmen.",
+        "en" : "Some say he is Admiral Arthur Phillip, who lived close by. The rooms have a stranger true story as well. Weeks after they opened, a chandelier arm fell down while the company was dancing. The whole set came down, the committee demanded its money back, and a new set was ordered from William Parker. Parker's chandeliers hang there yet, each with forty curved crystal arms."
       },
       "localizedStory" : {
-        "de" : "Fünf Kristallleuchter hängen über einem Ballsaal, der 500 Menschen fasst.",
-        "en" : "Five crystal chandeliers hang over a ballroom that holds 500 people."
+        "de" : "Man erzählt von einer gebeugten Gestalt in schwarzem Umhang und großem schwarzem Hut, die hier und in der Saville Row umgeht.",
+        "en" : "People say a hunched figure in a black robe and a big black hat haunts these rooms and Saville Row."
       },
       "name" : "The Assembly Rooms",
       "pos" : [
         51.386257,
         -2.362556
       ],
-      "story" : "Five crystal chandeliers hang over a ballroom that holds 500 people."
+      "story" : "People say a hunched figure in a black robe and a big black hat haunts these rooms and Saville Row."
     },
     {
-      "extendedStory" : "Robert Adam drew it, and 1774 saw it standing. Neoclassical proportions, borrowed from Rome, govern how it looks. Shopfronts occupy both parapets, which is unusual. Cross over and no water appears anywhere, just windows and doorways either hand. Descend to the bank afterwards and you finally grasp that you were walking above a river.",
+      "extendedStory" : "Bath's own council thought that was a terrible idea. London and Bristol had just cleared the houses off their bridges, and here came a man proposing to put shops back. They had not been asked, so they wrote in protest. Pulteney built it anyway, with eleven small shops a side. Later shopkeepers cut new windows and hung rooms out over the water, so the sides no longer match.",
       "icon" : "choice",
       "id" : "f-pulteney-bridge",
       "kind" : "bridge",
       "localizedExtendedStory" : {
-        "de" : "Robert Adam entwarf sie, 1774 stand sie. Er arbeitete klassizistisch, ein Stil, der seine Maße aus Rom holt. Ungewöhnlich ist die Ladenzeile auf beiden Brüstungen. Geht man hinüber, sieht man kein Wasser, nur Schaufenster. Erst unten am Ufer begreift man, dass man auf einer Brücke war.",
-        "en" : "Robert Adam drew it, and 1774 saw it standing. Neoclassical proportions, borrowed from Rome, govern how it looks. Shopfronts occupy both parapets, which is unusual. Cross over and no water appears anywhere, just windows and doorways either hand. Descend to the bank afterwards and you finally grasp that you were walking above a river."
+        "de" : "Der Stadtrat von Bath hielt das für eine schlechte Idee. London und Bristol hatten ihre Brücken gerade von Häusern befreit, und nun sollten hier wieder Läden darauf stehen. Gefragt hatte man ihn nicht, also schrieb er einen Protestbrief. Pulteney baute trotzdem, mit elf kleinen Läden je Seite. Später schnitten Ladenbesitzer neue Fenster hinein und hängten Räume über das Wasser, und seither passen die Seiten nicht mehr zusammen.",
+        "en" : "Bath's own council thought that was a terrible idea. London and Bristol had just cleared the houses off their bridges, and here came a man proposing to put shops back. They had not been asked, so they wrote in protest. Pulteney built it anyway, with eleven small shops a side. Later shopkeepers cut new windows and hung rooms out over the water, so the sides no longer match."
       },
       "localizedStory" : {
-        "de" : "Auf beiden Seiten dieser Brücke stehen Läden, sodass man den Fluss beim Überqueren gar nicht sieht.",
-        "en" : "Shops line both sides of this bridge, so crossing it you cannot see the river at all."
+        "de" : "Auf beiden Seiten stehen Läden, und so versteckt sich der Fluss, während man hinübergeht.",
+        "en" : "Shops stand along both sides of this bridge, so the river hides itself while you walk across."
       },
       "name" : "Pulteney Bridge",
       "pos" : [
         51.38304,
         -2.357923
       ],
-      "story" : "Shops line both sides of this bridge, so crossing it you cannot see the river at all."
+      "story" : "Shops stand along both sides of this bridge, so the river hides itself while you walk across."
     },
     {
-      "extendedStory" : "Thomas Baldwin began this room and lost the job in 1793 when his money ran out. John Palmer finished it, and it opened on 28 December 1795. Water is pumped up from the hot springs and comes out of a marble vase, and people drink it. Jane Austen knew the room and used it in Northanger Abbey and Persuasion. Every creature in Bath was to be seen here at one hour or another.",
+      "extendedStory" : "Jane Austen knew this room and wrote it into her novels. Every creature in Bath, she said, was to be seen here at one hour or another. The water they came for rises from the hot springs below and pours out of a marble vase. A trio plays while people eat, and it began as an orchestra founded by the master of ceremonies, Beau Nash.",
       "icon" : "choice",
       "id" : "f-the-pump-room",
       "kind" : "attraction",
       "localizedExtendedStory" : {
-        "de" : "Thomas Baldwin begann diesen Saal und verlor 1793 den Auftrag, als sein Geld ausging. John Palmer vollendete ihn, und am 28. Dezember 1795 wurde eröffnet. Wasser wird aus den heißen Quellen heraufgepumpt, tritt aus einer Marmorvase aus, und man trinkt es. Jane Austen kannte den Saal und verwendete ihn in Northanger Abbey und Persuasion. Alles, was in Bath Beine hatte, war hier irgendwann zu sehen.",
-        "en" : "Thomas Baldwin began this room and lost the job in 1793 when his money ran out. John Palmer finished it, and it opened on 28 December 1795. Water is pumped up from the hot springs and comes out of a marble vase, and people drink it. Jane Austen knew the room and used it in Northanger Abbey and Persuasion. Every creature in Bath was to be seen here at one hour or another."
+        "de" : "Jane Austen kannte diesen Raum und schrieb ihn in ihre Romane hinein. Jedes Geschöpf in Bath, so hieß es, sei hier zu irgendeiner Stunde zu sehen. Das Wasser, für das sie kamen, steigt aus den heißen Quellen darunter herauf und läuft aus einer Marmorvase. Ein Trio musiziert, während die Leute essen, und es begann als Orchester des Zeremonienmeisters Beau Nash.",
+        "en" : "Jane Austen knew this room and wrote it into her novels. Every creature in Bath, she said, was to be seen here at one hour or another. The water they came for rises from the hot springs below and pours out of a marble vase. A trio plays while people eat, and it began as an orchestra founded by the master of ceremonies, Beau Nash."
       },
       "localizedStory" : {
-        "de" : "Aus einer Marmorvase fließt hier Heilwasser, direkt aus den heißen Quellen darunter heraufgepumpt.",
-        "en" : "A marble vase pours out spa water here, pumped straight up from the hot springs below."
+        "de" : "Drinnen sprudelt heißes Quellwasser aus einem Brunnen, mit 43 Mineralien und einem recht eigenen Geschmack.",
+        "en" : "A fountain in here pours hot spa water with 43 minerals in it, and a taste people remember."
       },
       "name" : "The Pump Room",
       "pos" : [
         51.381136,
         -2.359984
       ],
-      "story" : "A marble vase pours out spa water here, pumped straight up from the hot springs below."
+      "story" : "A fountain in here pours hot spa water with 43 minerals in it, and a taste people remember."
     },
     {
-      "extendedStory" : "Early eighteenth-century laying out, Georgian throughout, and John Wood the Elder ran it. Number 9 on the south side he kept back for himself, sighted along his obelisk toward that long front opposite. Beau Nash raised the obelisk during 1738, honouring Frederick, Prince of Wales. Seventy feet it measured, until an 1815 gale removed its top. Queen Caroline, wife of George II, supplies the name.",
+      "extendedStory" : "His name was John Wood the Elder, and he put that story into print himself. He thought Bladud had carried a thread from the ancient world to the religion of the druids. On the ground he was more practical, and he kept number 9 on this square for himself. The obelisk here went up for a prince, and a gale took its top off.",
       "icon" : "everyday",
       "id" : "f-queen-square",
       "kind" : "park_garden",
       "localizedExtendedStory" : {
-        "de" : "John Wood der Ältere legte dies im frühen achtzehnten Jahrhundert an, im georgianischen Stil. Nummer 9 behielt er für sich, an der Südseite, auf einer Linie mit seinem Obelisken und der langen Front gegenüber. Beau Nash stellte diesen Obelisken 1738 für Friedrich, Prinz von Wales, auf. Er maß 70 Fuß, bis 1815 ein Sturm die Spitze nahm. Der Platz trägt den Namen von Königin Caroline, der Frau Georgs II.",
-        "en" : "Early eighteenth-century laying out, Georgian throughout, and John Wood the Elder ran it. Number 9 on the south side he kept back for himself, sighted along his obelisk toward that long front opposite. Beau Nash raised the obelisk during 1738, honouring Frederick, Prince of Wales. Seventy feet it measured, until an 1815 gale removed its top. Queen Caroline, wife of George II, supplies the name."
+        "de" : "Er hieß John Wood der Ältere, und er brachte diese Geschichte selbst zu Papier. Bladud habe, so meinte er, einen Faden aus der Antike zur Religion der Druiden geknüpft. Praktischer war er am Boden: Nummer 9 an diesem Platz behielt er für sich. Der Obelisk hier steht für einen Prinzen, und ein Sturm nahm ihm die Spitze. Den Namen gab Königin Caroline, die Frau Georgs des Zweiten.",
+        "en" : "His name was John Wood the Elder, and he put that story into print himself. He thought Bladud had carried a thread from the ancient world to the religion of the druids. On the ground he was more practical, and he kept number 9 on this square for himself. The obelisk here went up for a prince, and a gale took its top off."
       },
       "localizedStory" : {
-        "de" : "Hier steht ein Obelisk, dem 1815 ein Sturm die Spitze nahm und der nie wieder erhöht wurde.",
-        "en" : "An obelisk stands here that lost its top to a gale in 1815, and was never made tall again."
+        "de" : "Der Mann, der das hier anlegte, glaubte, Bath sei von einem mythischen König gegründet worden, der in Athen gelernt hatte.",
+        "en" : "The man who laid this out believed Bath was founded by a mythical king who had studied in Athens."
       },
       "name" : "Queen Square",
       "pos" : [
         51.383749,
         -2.363265
       ],
-      "story" : "An obelisk stands here that lost its top to a gale in 1815, and was never made tall again."
+      "story" : "The man who laid this out believed Bath was founded by a mythical king who had studied in Athens."
     },
     {
-      "extendedStory" : "Charles Hansom built this in 1863, in the manner called Gothic Revival. That means Victorians looking back at medieval building and doing it again on purpose. The pointed arches and the spire are quotations, not inheritance. It belongs to John the Evangelist. In a city known for its Georgian streets, this is the century afterwards arguing for a different past.",
+      "extendedStory" : "Charles Hansom drew it, one of fifty Catholic churches he designed. His brother Joseph gave his name to the Hansom cab. The family is better known on wheels than in stone. Of everything he built, Charles called this church his best and happiest work. Look up as you pass, because the peregrines are up there and nothing nearby stands higher.",
       "icon" : "everyday",
       "id" : "f-saint-john-the-evangelist-rc",
       "kind" : "church",
       "localizedExtendedStory" : {
-        "de" : "Charles Hansom baute dies 1863, in der Weise, die man Neugotik nennt. Das heißt: Viktorianer schauten auf das Mittelalter zurück und machten es absichtlich noch einmal. Spitzbögen und Turmhelm sind Zitate, kein Erbe. Sie gehört Johannes dem Evangelisten. In einer Stadt der georgianischen Straßenzüge argumentiert hier das folgende Jahrhundert für eine andere Vergangenheit.",
-        "en" : "Charles Hansom built this in 1863, in the manner called Gothic Revival. That means Victorians looking back at medieval building and doing it again on purpose. The pointed arches and the spire are quotations, not inheritance. It belongs to John the Evangelist. In a city known for its Georgian streets, this is the century afterwards arguing for a different past."
+        "de" : "Charles Hansom entwarf sie, eine von fünfzig katholischen Kirchen aus seiner Hand. Sein Bruder Joseph gab dem Hansom Cab seinen Namen. Der Familienname rollt seither bekannter durch die Welt, als er in Stein steht. Von allem, was er baute, nannte Charles diese Kirche sein bestes und liebstes Werk. Schau hinauf, wenn du vorbeigehst: Die Falken sitzen da oben, und nichts in der Nähe reicht so weit.",
+        "en" : "Charles Hansom drew it, one of fifty Catholic churches he designed. His brother Joseph gave his name to the Hansom cab. The family is better known on wheels than in stone. Of everything he built, Charles called this church his best and happiest work. Look up as you pass, because the peregrines are up there and nothing nearby stands higher."
       },
       "localizedStory" : {
-        "de" : "Eine Kirche von 1863 von Charles Hansom, gebaut, um vier Jahrhunderte älter zu wirken.",
-        "en" : "A church of 1863 by Charles Hansom, built to look four centuries older than it is."
+        "de" : "In diesem Turm, dem höchsten der Stadt, nistet ein Wanderfalkenpaar.",
+        "en" : "A pair of peregrine falcons nest in this spire, the tallest in Bath."
       },
       "name" : "Saint John the Evangelist RC",
       "pos" : [
         51.379889,
         -2.35563
       ],
-      "story" : "A church of 1863 by Charles Hansom, built to look four centuries older than it is."
+      "story" : "A pair of peregrine falcons nest in this spire, the tallest in Bath."
     },
     {
-      "extendedStory" : "Trains ran under this roof from 1870 until the station closed in 1966. It is one great span of iron and glass, and it now shelters a market. Growers began selling here in September 1997, monthly at the start. Demand pushed it to twice a month from October 1998, and to every week from May 2002. A building that stopped having a use found another one.",
+      "extendedStory" : "Trains ran out of here until the line closed, and then the shed fell quiet. Parts of the glass roof had been broken and were left that way for the rest of the station's working life. The glass went back when the building was made over, years after the last train. The market has come here since September 1997, and now it comes every week, because people kept asking for it.",
       "icon" : "everyday",
       "id" : "f-bath-farmers-market",
       "kind" : "market",
       "localizedExtendedStory" : {
-        "de" : "Von 1870 bis zur Schließung 1966 fuhren unter diesem Dach Züge. Es ist eine weite Spannweite aus Eisen und Glas und überdacht heute einen Markt. Erzeuger verkaufen hier seit September 1997, anfangs monatlich. Die Nachfrage machte ab Oktober 1998 zwei Termine im Monat daraus und ab Mai 2002 jede Woche. Ein Bau ohne Zweck fand einen neuen.",
-        "en" : "Trains ran under this roof from 1870 until the station closed in 1966. It is one great span of iron and glass, and it now shelters a market. Growers began selling here in September 1997, monthly at the start. Demand pushed it to twice a month from October 1998, and to every week from May 2002. A building that stopped having a use found another one."
+        "de" : "Bis zur Stilllegung der Strecke fuhren hier Züge ab, dann wurde es still unter dem Dach. Teile der Verglasung waren zerstört und blieben es, solange der Bahnhof noch arbeitete. Erst beim Umbau des Gebäudes kam das Glas zurück, Jahre nach dem letzten Zug. Seit September 1997 gibt es hier den Markt, inzwischen jede Woche, weil die Leute nicht aufhörten zu fragen.",
+        "en" : "Trains ran out of here until the line closed, and then the shed fell quiet. Parts of the glass roof had been broken and were left that way for the rest of the station's working life. The glass went back when the building was made over, years after the last train. The market has come here since September 1997, and now it comes every week, because people kept asking for it."
       },
       "localizedStory" : {
-        "de" : "Erzeuger verkaufen unter dem Eisen- und Glasdach eines Bahnhofs, der 1966 schloss.",
-        "en" : "Growers sell under the iron and glass roof of a railway station that shut in 1966."
+        "de" : "Erzeuger verkaufen unter dem einen großen Eisen- und Glasdach, das einst einen Bahnhof überspannte.",
+        "en" : "Growers sell under the single span of iron and glass that once roofed a railway station."
       },
       "name" : "Bath Farmers Market",
       "pos" : [
         51.381736,
         -2.366599
       ],
-      "story" : "Growers sell under the iron and glass roof of a railway station that shut in 1966."
+      "story" : "Growers sell under the single span of iron and glass that once roofed a railway station."
     }
   ],
-  "generatedAt" : "2026-09-13T14:36:55Z",
+  "generatedAt" : "2026-09-17T20:56:11Z",
   "icon" : {
     "paths" : [
       "M 9.43 62.13 L 10.08 59.93 L 10.86 57.78 L 11.74 55.67 L 12.75 53.61 L 13.86 51.60 L 15.08 49.67 L 16.40 47.80 L 17.83 46.00 L 19.35 44.29 L 20.96 42.66 L 22.65 41.12 L 24.43 39.68 L 26.29 38.33 L 28.21 37.09 L 30.20 35.96 L 32.25 34.94 L 34.35 34.02 L 36.50 33.23 L 38.69 32.55 L 40.91 32.00 L 43.16 31.56 L 45.43 31.25 L 47.71 31.06 L 50.00 31.00 L 52.29 31.06 L 54.57 31.25 L 56.84 31.56 L 59.09 32.00 L 61.31 32.55 L 63.50 33.23 L 65.65 34.02 L 67.75 34.94 L 69.80 35.96 L 71.79 37.09 L 73.71 38.33 L 75.57 39.68 L 77.35 41.12 L 79.04 42.66 L 80.65 44.29 L 82.17 46.00 L 83.60 47.80 L 84.92 49.67 L 86.14 51.60 L 87.25 53.61 L 88.26 55.67 L 89.14 57.78 L 89.92 59.93 L 90.57 62.13 L 84.77 63.68 L 84.21 61.80 L 83.55 59.95 L 82.79 58.14 L 81.93 56.38 L 80.98 54.66 L 79.93 53.00 L 78.80 51.40 L 77.58 49.86 L 76.28 48.39 L 74.89 46.99 L 73.44 45.68 L 71.92 44.44 L 70.33 43.29 L 68.68 42.22 L 66.97 41.25 L 65.21 40.37 L 63.41 39.59 L 61.57 38.91 L 59.70 38.33 L 57.79 37.85 L 55.86 37.48 L 53.92 37.21 L 51.96 37.05 L 50.00 37.00 L 48.04 37.05 L 46.08 37.21 L 44.14 37.48 L 42.21 37.85 L 40.30 38.33 L 38.43 38.91 L 36.59 39.59 L 34.79 40.37 L 33.03 41.25 L 31.32 42.22 L 29.67 43.29 L 28.08 44.44 L 26.56 45.68 L 25.11 46.99 L 23.72 48.39 L 22.42 49.86 L 21.20 51.40 L 20.07 53.00 L 19.02 54.66 L 18.07 56.38 L 17.21 58.14 L 16.45 59.95 L 15.79 61.80 L 15.23 63.68 Z M 30.25 69.87 L 31.33 65.83 L 14.99 59.56 L 12.96 67.13 Z M 32.30 63.69 L 34.62 60.21 L 21.17 49.02 L 16.81 55.54 Z M 36.23 58.49 L 39.55 55.95 L 30.41 41.03 L 24.19 45.80 Z M 41.63 54.84 L 45.59 53.49 L 41.72 36.42 L 34.30 38.94 Z M 47.91 53.11 L 52.09 53.11 L 53.92 35.71 L 46.08 35.71 Z M 54.41 53.49 L 58.37 54.84 L 65.70 38.94 L 58.28 36.42 Z M 60.45 55.95 L 63.77 58.49 L 75.81 45.80 L 69.59 41.03 Z M 65.38 60.21 L 67.70 63.69 L 83.19 55.54 L 78.83 49.02 Z M 68.67 65.83 L 69.75 69.87 L 87.04 67.13 L 85.01 59.56 Z M 30.68 67.82 L 30.99 66.78 L 31.36 65.75 L 31.78 64.75 L 32.26 63.77 L 32.79 62.81 L 33.37 61.89 L 34.00 61.00 L 34.68 60.14 L 35.40 59.33 L 36.17 58.55 L 36.98 57.82 L 37.82 57.13 L 38.71 56.49 L 39.62 55.90 L 40.57 55.36 L 41.55 54.87 L 42.55 54.44 L 43.57 54.06 L 44.61 53.74 L 45.67 53.47 L 46.74 53.27 L 47.82 53.12 L 48.91 53.03 L 50.00 53.00 L 51.09 53.03 L 52.18 53.12 L 53.26 53.27 L 54.33 53.47 L 55.39 53.74 L 56.43 54.06 L 57.45 54.44 L 58.45 54.87 L 59.43 55.36 L 60.38 55.90 L 61.29 56.49 L 62.18 57.13 L 63.02 57.82 L 63.83 58.55 L 64.60 59.33 L 65.32 60.14 L 66.00 61.00 L 66.63 61.89 L 67.21 62.81 L 67.74 63.77 L 68.22 64.75 L 68.64 65.75 L 69.01 66.78 L 69.32 67.82 L 65.45 68.86 L 65.21 68.02 L 64.91 67.20 L 64.57 66.40 L 64.19 65.61 L 63.77 64.85 L 63.30 64.11 L 62.80 63.40 L 62.26 62.72 L 61.68 62.06 L 61.06 61.44 L 60.42 60.86 L 59.74 60.31 L 59.03 59.79 L 58.30 59.32 L 57.54 58.89 L 56.76 58.50 L 55.96 58.15 L 55.14 57.85 L 54.31 57.59 L 53.46 57.38 L 52.61 57.21 L 51.74 57.10 L 50.87 57.02 L 50.00 57.00 L 49.13 57.02 L 48.26 57.10 L 47.39 57.21 L 46.54 57.38 L 45.69 57.59 L 44.86 57.85 L 44.04 58.15 L 43.24 58.50 L 42.46 58.89 L 41.70 59.32 L 40.97 59.79 L 40.26 60.31 L 39.58 60.86 L 38.94 61.44 L 38.32 62.06 L 37.74 62.72 L 37.20 63.40 L 36.70 64.11 L 36.23 64.85 L 35.81 65.61 L 35.43 66.40 L 35.09 67.20 L 34.79 68.02 L 34.55 68.86 Z"
@@ -19444,7 +19441,7 @@
     "en" : "Bath"
   },
   "name" : "Bath",
-  "packVersion" : 8,
+  "packVersion" : 9,
   "schemaVersion" : 1,
   "source" : "OpenStreetMap via Overpass API",
   "stats" : {

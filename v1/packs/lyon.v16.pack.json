@@ -255,10 +255,9 @@
 
     ],
     "adjustedStreets" : [
-      "Place Bellecour",
-      "Place Colbert"
+
     ],
-    "fromVersion" : 14,
+    "fromVersion" : 15,
     "removedStreets" : [
 
     ]
@@ -52103,187 +52102,187 @@
   ],
   "fruits" : [
     {
-      "extendedStory" : "Step out here and the ground simply opens. At 62,000 square metres this is the largest square in Lyon, a vast field of stone with little to interrupt it. All that space makes it the city's natural meeting place. The equestrian king at the centre serves as the landmark everyone steers toward.",
+      "extendedStory" : "He did not forget. Louis XIV rides in the Roman manner, bareback, like an emperor of old, so stirrups never belonged there. People here say they will meet under the horse's tail, and everyone knows the spot. Around the statue spreads the largest square in Lyon, about 62,000 square metres of open ground. With that much room, it pays to name your meeting point well.",
       "icon" : "choice",
       "id" : "f-place-bellecour",
       "kind" : "square",
       "localizedExtendedStory" : {
-        "de" : "Tritt heraus, und der Boden öffnet sich einfach. Mit 62.000 Quadratmetern ist dies der größte Platz Lyons, ein weites Steinfeld mit kaum etwas darauf. So viel Raum macht ihn zum selbstverständlichen Treffpunkt der Stadt. Der Reiterkönig in der Mitte ist das Merkzeichen, auf das alle zusteuern.",
-        "en" : "Step out here and the ground simply opens. At 62,000 square metres this is the largest square in Lyon, a vast field of stone with little to interrupt it. All that space makes it the city's natural meeting place. The equestrian king at the centre serves as the landmark everyone steers toward."
+        "de" : "Vergessen hat er nichts. König Ludwig reitet nach römischer Art, ohne Sattel, wie ein Kaiser der Antike, und da gehören keine Steigbügel hin. Man sagt in Lyon, man trifft sich unter dem Schweif des Pferdes, und jeder kennt die Stelle. Rundherum liegt der größte Platz von Lyon, rund 62.000 Quadratmeter offene Fläche. Wer sich hier verabredet, sollte den Treffpunkt also genau nennen.",
+        "en" : "He did not forget. Louis XIV rides in the Roman manner, bareback, like an emperor of old, so stirrups never belonged there. People here say they will meet under the horse's tail, and everyone knows the spot. Around the statue spreads the largest square in Lyon, about 62,000 square metres of open ground. With that much room, it pays to name your meeting point well."
       },
       "localizedStory" : {
-        "de" : "In der Mitte steht ein Reiterstandbild von Louis XIV, der König als römischer Kaiser hoch zu Pferd.",
-        "en" : "At its centre stands an equestrian statue of Louis XIV, the king cast on horseback as a Roman emperor."
+        "de" : "Schau hinauf zum König auf dem Pferd: kein Sattel, keine Steigbügel. Man erzählt, der Bildhauer Lemot habe sie schlicht vergessen.",
+        "en" : "Look up at the king on his horse: no saddle, no stirrups. The story goes the sculptor, Lemot, simply forgot them."
       },
       "name" : "Place Bellecour",
       "pos" : [
         45.75765,
         4.832034
       ],
-      "story" : "At its centre stands an equestrian statue of Louis XIV, the king cast on horseback as a Roman emperor."
+      "story" : "Look up at the king on his horse: no saddle, no stirrups. The story goes the sculptor, Lemot, simply forgot them."
     },
     {
-      "extendedStory" : "Work on this cathedral began in 1175, yet it was not opened until 1480. Long lifetimes of masons passed while it slowly rose. Its builder was Jacques de Beaujeu, and its early parts follow the Romanesque manner. That is the rounded-arch style of its early years, still visible low in the walls.",
+      "extendedStory" : "A legend says the church of Lyon was keeping time long before this dial. Theodoric, king of the Ostrogoths, is said to have given it a timekeeper that ran on water. The cathedral itself is dedicated to John the Baptist, and its early parts are Romanesque, the style of round arches. Work began in 1175, and it opened in 1480. Whole lifetimes of builders came and went in between.",
       "icon" : "hero",
       "id" : "f-cathedrale-saint-jean",
       "kind" : "church",
       "localizedExtendedStory" : {
-        "de" : "Der Bau dieser Kathedrale begann 1175, doch erst 1480 wurde sie eröffnet. Über viele Menschenleben hinweg wuchs sie langsam empor. Ihr Baumeister war Jacques de Beaujeu, und die frühen Teile folgen der romanischen Bauweise. Das ist der Rundbogenstil der frühen Jahre, unten in den Mauern noch zu sehen.",
-        "en" : "Work on this cathedral began in 1175, yet it was not opened until 1480. Long lifetimes of masons passed while it slowly rose. Its builder was Jacques de Beaujeu, and its early parts follow the Romanesque manner. That is the rounded-arch style of its early years, still visible low in the walls."
+        "de" : "Der Legende nach maß die Kirche von Lyon schon lange vorher die Zeit. Theoderich, König der Ostgoten, soll ihr eine Uhr geschenkt haben, die mit Wasser lief. Die Kathedrale selbst ist Johannes dem Täufer geweiht, und ihre frühen Teile sind romanisch, im Stil der Rundbögen. Der Bau begann 1175, eröffnet wurde sie 1480. Dazwischen kamen und gingen ganze Generationen von Bauleuten.",
+        "en" : "A legend says the church of Lyon was keeping time long before this dial. Theodoric, king of the Ostrogoths, is said to have given it a timekeeper that ran on water. The cathedral itself is dedicated to John the Baptist, and its early parts are Romanesque, the style of round arches. Work began in 1175, and it opened in 1480. Whole lifetimes of builders came and went in between."
       },
       "localizedStory" : {
-        "de" : "Rund 44 Meter hoch überragt diese Kathedrale die Altstadt und ist Johannes dem Täufer geweiht.",
-        "en" : "Rising about 44 metres over the Old Town, this cathedral is dedicated to John the Baptist."
+        "de" : "Auf der astronomischen Uhr hier kreist die Sonne bis heute um die Erde, so wie man es glaubte, als sie gebaut wurde.",
+        "en" : "Find the astronomical dial here: on it, the Sun still circles the Earth, just as people believed when it was made."
       },
       "name" : "Cathédrale Saint-Jean",
       "pos" : [
         45.7609,
         4.827454
       ],
-      "story" : "Rising about 44 metres over the Old Town, this cathedral is dedicated to John the Baptist."
+      "story" : "Find the astronomical dial here: on it, the Sun still circles the Earth, just as people believed when it was made."
     },
     {
-      "extendedStory" : "The sculptor was Frédéric Auguste Bartholdi, and the fountain carries his name rather than a saint's or a king's. Two dates are attached to it, 1888 and 1889, and the records do not agree. About six metres of it rises from the Place des Terreaux. Walk right around it, because a fountain this size is meant to be read from every side.",
+      "extendedStory" : "Bartholdi made this for Bordeaux, but the city's leaders there found the price too high. So Lyon ended up with somebody else's river on Place des Terreaux. Later the fountain moved to the north side of the square, and its new spot was chosen for an illusion. From there, its flow seems to run the same way as the Rhône and the Saône. The whole group rises about 6 metres.",
       "icon" : "choice",
       "id" : "f-fontaine-bartholdi",
       "kind" : "fountain",
       "localizedExtendedStory" : {
-        "de" : "Der Bildhauer war Frédéric-Auguste Bartholdi, und der Brunnen trägt seinen Namen, nicht den eines Heiligen oder Königs. Zwei Jahreszahlen hängen an ihm, 1888 und 1889, und die Quellen sind sich uneins. Rund sechs Meter erheben sich über der Place des Terreaux. Geh einmal ganz herum, denn ein Brunnen dieser Größe will von allen Seiten gelesen werden.",
-        "en" : "The sculptor was Frédéric Auguste Bartholdi, and the fountain carries his name rather than a saint's or a king's. Two dates are attached to it, 1888 and 1889, and the records do not agree. About six metres of it rises from the Place des Terreaux. Walk right around it, because a fountain this size is meant to be read from every side."
+        "de" : "Bartholdi schuf die Gruppe für Bordeaux, doch den Stadtvätern dort war der Preis zu hoch. So kam Lyon zu einem fremden Fluss auf der Place des Terreaux. Später zog der Brunnen an die Nordseite des Platzes, und der neue Ort wurde mit Absicht gewählt. Von dort scheint sein Strom in dieselbe Richtung zu fließen wie Rhône und Saône. Insgesamt ist die Gruppe etwa 6 Meter hoch.",
+        "en" : "Bartholdi made this for Bordeaux, but the city's leaders there found the price too high. So Lyon ended up with somebody else's river on Place des Terreaux. Later the fountain moved to the north side of the square, and its new spot was chosen for an illusion. From there, its flow seems to run the same way as the Rhône and the Saône. The whole group rises about 6 metres."
       },
       "localizedStory" : {
-        "de" : "Rund 6 Meter hoch steht dieser Brunnen auf der Place des Terreaux und trägt den Namen seines Bildhauers Frédéric-Auguste Bartholdi.",
-        "en" : "Standing about 6 metres tall on the Place des Terreaux, this fountain carries the name of its sculptor, Frédéric Auguste Bartholdi."
+        "de" : "Schau, wer die Zügel hält: die Garonne, der Fluss von Bordeaux, auf dem Weg zum Ozean. Mit der Rhône hat sie gar nichts zu tun.",
+        "en" : "Look who holds the reins: the Garonne, Bordeaux's river, leading her smaller rivers to the ocean. Lyon's own Rhône plays no part in it."
       },
       "name" : "Fontaine Bartholdi",
       "pos" : [
         45.767631,
         4.833461
       ],
-      "story" : "Standing about 6 metres tall on the Place des Terreaux, this fountain carries the name of its sculptor, Frédéric Auguste Bartholdi."
+      "story" : "Look who holds the reins: the Garonne, Bordeaux's river, leading her smaller rivers to the ocean. Lyon's own Rhône plays no part in it."
     },
     {
-      "extendedStory" : "The bridge went up quickly. Work started in 1949 and it was inaugurated the next year, in 1950. René Dardel is the name attached to its design. One year from groundwork to opening day is brisk for a river crossing. You can see it in the result, which is plain and direct with no decoration at all.",
+      "extendedStory" : "Abbé Vachet describes one such bower near the place du Plâtre, built just for dancing. So a leafy dance floor lent its name to a river crossing. Today's bridge was drawn by the architect René Dardel, and it was inaugurated in 1950. The branches are long gone, but their green name has stayed on. Crossing here, you are in a way walking through an old leafy bower.",
       "icon" : "everyday",
       "id" : "f-pont-de-la-feuillee",
       "kind" : "bridge",
       "localizedExtendedStory" : {
-        "de" : "Die Brücke entstand schnell. Die Arbeiten begannen 1949, und schon im Jahr darauf, 1950, wurde sie eingeweiht. Der Entwurf trägt den Namen René Dardel. Ein Jahr vom Baubeginn bis zum Eröffnungstag ist zügig für einen Flussübergang. Man sieht es dem Ergebnis an: schlicht und direkt, ohne jeden Zierrat.",
-        "en" : "The bridge went up quickly. Work started in 1949 and it was inaugurated the next year, in 1950. René Dardel is the name attached to its design. One year from groundwork to opening day is brisk for a river crossing. You can see it in the result, which is plain and direct with no decoration at all."
+        "de" : "Abbé Vachet beschreibt eine solche Laube bei der Place du Plâtre, die nur zum Tanzen gebaut wurde. So lieh ein grüner Tanzboden einer Flussquerung seinen Namen. Die heutige Brücke entwarf der Architekt René Dardel, eingeweiht wurde sie 1950. Die Zweige sind längst verschwunden, doch ihr grüner Name ist geblieben. Wer heute hier hinübergeht, läuft also gewissermaßen durch eine alte Laube am Fluss.",
+        "en" : "Abbé Vachet describes one such bower near the place du Plâtre, built just for dancing. So a leafy dance floor lent its name to a river crossing. Today's bridge was drawn by the architect René Dardel, and it was inaugurated in 1950. The branches are long gone, but their green name has stayed on. Crossing here, you are in a way walking through an old leafy bower."
       },
       "localizedStory" : {
-        "de" : "Von René Dardel entworfen, wurde diese Brücke 1949 begonnen und 1950 eröffnet.",
-        "en" : "Designed by René Dardel, this bridge was started in 1949 and opened in 1950."
+        "de" : "Eine Feuillée ist eine Laube aus belaubten Zweigen. Solche Lauben gaben einem Platz an diesem Ufer den Namen, lange vor der Brücke.",
+        "en" : "Feuillée means a leafy bower, a shelter woven from branches still in leaf. Such bowers named a square on this bank long before any bridge."
       },
       "name" : "Pont de la Feuillée",
       "pos" : [
         45.766515,
         4.829439
       ],
-      "story" : "Designed by René Dardel, this bridge was started in 1949 and opened in 1950."
+      "story" : "Feuillée means a leafy bower, a shelter woven from branches still in leaf. Such bowers named a square on this bank long before any bridge."
     },
     {
-      "extendedStory" : "The courtyard is named after the Voraces, a group of silk-weavers. They took part in Lyon's uprising of 1848, and their trade filled these tall buildings. The buildings were raised around 1840, high enough for the weavers' work. Standing here, you sense the busy weaving world that once filled these walls.",
+      "extendedStory" : "That society was the Devoir mutuel, where weavers helped one another. The Voraces were silk weavers who stood behind Lyon's uprising of 1848. The building went up around 1840, and its staircase climbs the courtyard in the open, zigzagging from floor to floor. You will not mistake it for any other staircase in the city. If the tale is right, a name that sounds like greed began as a word about duty, devoir in French.",
       "icon" : "everyday",
       "id" : "f-cour-des-voraces",
       "kind" : "attraction",
       "localizedExtendedStory" : {
-        "de" : "Der Innenhof ist nach den Voraces benannt, einer Gruppe von Seidenwebern. Sie waren am Aufstand von Lyon im Jahr 1848 beteiligt, und ihr Handwerk füllte diese hohen Häuser. Um 1840 wurden die Gebäude errichtet, hoch genug für die Arbeit der Weber. Wer hier steht, ahnt die geschäftige Welt des Webens, die einst diese Mauern erfüllte.",
-        "en" : "The courtyard is named after the Voraces, a group of silk-weavers. They took part in Lyon's uprising of 1848, and their trade filled these tall buildings. The buildings were raised around 1840, high enough for the weavers' work. Standing here, you sense the busy weaving world that once filled these walls."
+        "de" : "Dieser Verein hieß Devoir mutuel, und seine Mitglieder halfen einander. Die Voraces waren Seidenweber, die hinter dem Aufstand von Lyon im Jahr 1848 standen. Das Haus entstand um 1840, und seine Treppe zieht sich im Freien im Zickzack über den Hof, von Stockwerk zu Stockwerk. Mit keiner anderen Treppe der Stadt wirst du sie verwechseln. Stimmt die Geschichte, dann steckt in dem Namen für Gier eigentlich ein Wort für Pflicht, devoir auf Französisch.",
+        "en" : "That society was the Devoir mutuel, where weavers helped one another. The Voraces were silk weavers who stood behind Lyon's uprising of 1848. The building went up around 1840, and its staircase climbs the courtyard in the open, zigzagging from floor to floor. You will not mistake it for any other staircase in the city. If the tale is right, a name that sounds like greed began as a word about duty, devoir in French."
       },
       "localizedStory" : {
-        "de" : "Tritt in den Innenhof und sieh die unverkennbare Treppe, die im Freien im Zickzack die Wände hinaufsteigt.",
-        "en" : "Step into the courtyard for its unmistakable staircase, zig-zagging up in the open across the walls."
+        "de" : "Voraces heißt die Gefräßigen. Man erzählt, der Name kam von den Dévoirants, Mitgliedern eines Hilfsvereins der Seidenweber, und wurde verballhornt.",
+        "en" : "Voraces means the greedy ones. People say the name began as Dévoirants, members of the silk weavers' self-help society, and got garbled."
       },
       "name" : "Cour des Voraces",
       "pos" : [
         45.771969,
         4.834671
       ],
-      "story" : "Step into the courtyard for its unmistakable staircase, zig-zagging up in the open across the walls."
+      "story" : "Voraces means the greedy ones. People say the name began as Dévoirants, members of the silk weavers' self-help society, and got garbled."
     },
     {
-      "extendedStory" : "Gothic Revival means exactly what it sounds like. Architects went back to the pointed arches and tall windows of the Middle Ages and built them fresh. Pierre Bossan did that here from 1848, and the result can fool the eye at a glance. The church is dedicated to Saint George, and it wears its borrowed age lightly.",
+      "extendedStory" : "Bossan was still young when the church went up, around 1848. He chose the Gothic Revival style, which copies the pointed arches of the Middle Ages. So his youthful sin wears borrowed medieval dress. The church carries the name of Saint George. Stand back from its front, take in the pointed arches, and decide whether the young architect was too hard on himself.",
       "icon" : "everyday",
       "id" : "f-eglise-saint-georges",
       "kind" : "church",
       "localizedExtendedStory" : {
-        "de" : "Neugotik heißt genau das, wonach es klingt. Architekten griffen die Spitzbögen und hohen Fenster des Mittelalters wieder auf und bauten sie neu. Pierre Bossan tat das hier ab 1848, und das Ergebnis täuscht das Auge zunächst. Geweiht ist die Kirche dem heiligen Georg, und sie trägt ihr geliehenes Alter leicht.",
-        "en" : "Gothic Revival means exactly what it sounds like. Architects went back to the pointed arches and tall windows of the Middle Ages and built them fresh. Pierre Bossan did that here from 1848, and the result can fool the eye at a glance. The church is dedicated to Saint George, and it wears its borrowed age lightly."
+        "de" : "Bossan war noch jung, als die Kirche des heiligen Georg um 1848 entstand. Er wählte die Neugotik, die die Spitzbögen des Mittelalters nachahmt. Seine Jugendsünde trägt also ein geliehenes Kleid aus dem Mittelalter. Mit den Jahren sah Bossan sein frühes Werk offenbar kritischer. Stell dich ein Stück vor die Fassade, betrachte die spitzen Bögen und entscheide, ob der junge Architekt zu streng mit sich war.",
+        "en" : "Bossan was still young when the church went up, around 1848. He chose the Gothic Revival style, which copies the pointed arches of the Middle Ages. So his youthful sin wears borrowed medieval dress. The church carries the name of Saint George. Stand back from its front, take in the pointed arches, and decide whether the young architect was too hard on himself."
       },
       "localizedStory" : {
-        "de" : "Diese Kirche wirkt mittelalterlich, stammt aber von 1848: Pierre Bossan baute sie im neugotischen Stil.",
-        "en" : "This church looks medieval but dates from 1848: Pierre Bossan built it in the Gothic Revival style."
+        "de" : "Ihr eigener Architekt, Pierre Bossan, nannte diese Kirche seine Jugendsünde. Urteile selbst.",
+        "en" : "Its own architect, Pierre Bossan, used to call this church the sin of his youth. Judge for yourself."
       },
       "name" : "Église Saint-Georges",
       "pos" : [
         45.757672,
         4.825388
       ],
-      "story" : "This church looks medieval but dates from 1848: Pierre Bossan built it in the Gothic Revival style."
+      "story" : "Its own architect, Pierre Bossan, used to call this church the sin of his youth. Judge for yourself."
     },
     {
-      "extendedStory" : "The square takes its name from the Celestine monks, who founded a convent here in 1407. It was gone by 1778, and a theatre went up in its place, opening in 1792. Fire took that theatre in 1871 and again in 1877. The Lyon architect Gaspard André was given the rebuilding, and it reopened in 1881 just as it had been. Buren's piece went in beneath the square on 20 November 1994, and it was made to stay.",
+      "extendedStory" : "That double spiral is strikingly like the Well of Saint Patrick in Orvieto, in Italy. In Orvieto, a double staircase let mules go down into the well by a one way path. Buren called his work Sens dessus dessous, which means upside down. Up in the open air, the square takes its name from Celestine monks who once had a convent here. The theatre on its edge burned twice and was rebuilt just as it had been.",
       "icon" : "everyday",
       "id" : "f-place-des-celestins",
       "kind" : "square",
       "localizedExtendedStory" : {
-        "de" : "Der Platz trägt den Namen der Cölestinermönche, die hier 1407 ein Kloster gründeten. 1778 war es verschwunden, und an seiner Stelle entstand ein Theater, das 1792 öffnete. 1871 und noch einmal 1877 fiel dieses Theater einem Brand zum Opfer. Der Lyoner Architekt Gaspard André bekam den Wiederaufbau, und 1881 öffnete es wieder, genau wie zuvor. Burens Werk kam am 20. November 1994 unter den Platz und sollte dort bleiben.",
-        "en" : "The square takes its name from the Celestine monks, who founded a convent here in 1407. It was gone by 1778, and a theatre went up in its place, opening in 1792. Fire took that theatre in 1871 and again in 1877. The Lyon architect Gaspard André was given the rebuilding, and it reopened in 1881 just as it had been. Buren's piece went in beneath the square on 20 November 1994, and it was made to stay."
+        "de" : "Die doppelte Spirale erinnert verblüffend an den Brunnen des heiligen Patrick in Orvieto in Italien. Dort führte eine doppelte Treppe Maultiere auf einem Einbahnweg hinab in den Brunnen. Buren nannte sein Werk Sens dessus dessous, auf Deutsch drunter und drüber. Oben verdankt der Platz seinen Namen den Cölestiner-Mönchen, die hier ein Kloster hatten. Das Theater an seinem Rand brannte zweimal ab und wurde genau so wieder aufgebaut, wie es war.",
+        "en" : "That double spiral is strikingly like the Well of Saint Patrick in Orvieto, in Italy. In Orvieto, a double staircase let mules go down into the well by a one way path. Buren called his work Sens dessus dessous, which means upside down. Up in the open air, the square takes its name from Celestine monks who once had a convent here. The theatre on its edge burned twice and was rebuilt just as it had been."
       },
       "localizedStory" : {
-        "de" : "Auf diesem Platz steht ein Periskop. Schau hinein, und Daniel Burens Kunstwerk liegt unter dir in der Tiefgarage.",
-        "en" : "There is a periscope on this square. Look down it and Daniel Buren's artwork is under your feet, in the car park."
+        "de" : "Schau durch das Periskop auf dem Platz hinab in ein spiralförmiges Parkhaus, das Daniel Buren zum Kunstwerk gemacht hat.",
+        "en" : "Peer down the periscope in the square and you look into a spiral car park, turned into an artwork by Daniel Buren."
       },
       "name" : "Place des Célestins",
       "pos" : [
         45.759798,
         4.831792
       ],
-      "story" : "There is a periscope on this square. Look down it and Daniel Buren's artwork is under your feet, in the car park."
+      "story" : "Peer down the periscope in the square and you look into a spiral car park, turned into an artwork by Daniel Buren."
     },
     {
-      "extendedStory" : "This square was laid out in 1980, in the years when Lyon's métro was being dug beneath the city. It takes its name from Louis Pradel, and today it feels like an outdoor gallery. A fountain plays here, with sculptures by Ipoustéguy set around it. The one people point to is César's skater, 'Le Patineur'.",
+      "extendedStory" : "Lyon laid this square out in 1980, while it was digging its métro underneath. It carries the name of Louis Pradel. Around its open paving stand a fountain and sculptures by the artist Ipoustéguy. Its fame among skateboarders comes from French skaters known around the world. So César's skater rarely has the square to himself, and the real riders roll right past him.",
       "icon" : "everyday",
       "id" : "f-place-louis-pradel",
       "kind" : "square",
       "localizedExtendedStory" : {
-        "de" : "Dieser Platz wurde 1980 angelegt, in den Jahren, als Lyons Métro unter der Stadt gegraben wurde. Seinen Namen trägt er nach Louis Pradel, und heute wirkt er wie eine Galerie unter freiem Himmel. Ein Brunnen plätschert hier, und ringsum stehen Skulpturen von Ipoustéguy. Worauf die Leute zeigen, ist Césars Schlittschuhläufer 'Le Patineur'.",
-        "en" : "This square was laid out in 1980, in the years when Lyon's métro was being dug beneath the city. It takes its name from Louis Pradel, and today it feels like an outdoor gallery. A fountain plays here, with sculptures by Ipoustéguy set around it. The one people point to is César's skater, 'Le Patineur'."
+        "de" : "Angelegt hat Lyon diesen Platz 1980, als es unter der Erde seine Métro grub. Er trägt den Namen von Louis Pradel. Rund um die offene Fläche stehen ein Brunnen und Skulpturen des Künstlers Ipoustéguy. Berühmt ist er bei Skateboardern, dank französischer Skater, die man in aller Welt kennt. Césars Skater hat den Platz also selten für sich allein, und die echten Fahrer rollen dicht an ihm vorbei.",
+        "en" : "Lyon laid this square out in 1980, while it was digging its métro underneath. It carries the name of Louis Pradel. Around its open paving stand a fountain and sculptures by the artist Ipoustéguy. Its fame among skateboarders comes from French skaters known around the world. So César's skater rarely has the square to himself, and the real riders roll right past him."
       },
       "localizedStory" : {
-        "de" : "Halte Ausschau nach Césars Skulptur 'Le Patineur', dem Schlittschuhläufer, neben einem Brunnen und Werken von Ipoustéguy.",
-        "en" : "Look for César's sculpture 'Le Patineur', the skater, sharing this square with a fountain and works by Ipoustéguy."
+        "de" : "Skateboarder in aller Welt kennen diesen Platz. Such die Figur Le Patineur von César: ein Skater, der ihnen Gesellschaft leistet.",
+        "en" : "Skateboarders the world over know this square. Look for César's sculpture Le Patineur, the skater, keeping them company."
       },
       "name" : "Place Louis Pradel",
       "pos" : [
         45.76843,
         4.836459
       ],
-      "story" : "Look for César's sculpture 'Le Patineur', the skater, sharing this square with a fountain and works by Ipoustéguy."
+      "story" : "Skateboarders the world over know this square. Look for César's sculpture Le Patineur, the skater, keeping them company."
     },
     {
-      "extendedStory" : "Beneath this Gothic church lies a quiet crypt. It keeps the memory of Christians of Lyon from the year 177, among them Sainte Blandine. Their story has been held safe here for a very long time. The church itself owes part of its design to the architect Philibert de l'Orme. Those old walls have sheltered that memory ever since.",
+      "extendedStory" : "So the church stood lopsided, with one tower on the north side wearing a spire of pink brick. Its partner in the south came in 1856, carved like stone lace. Look up and compare the two: warm brick on one side, lacy stone on the other. The builders worked in the Gothic style, and the architect Philibert de l'Orme also left his mark here.",
       "icon" : "choice",
       "id" : "f-eglise-saint-nizier",
       "kind" : "church",
       "localizedExtendedStory" : {
-        "de" : "Unter dieser gotischen Kirche liegt eine stille Krypta. Sie bewahrt das Andenken an Christen aus Lyon aus dem Jahr 177, unter ihnen Sainte Blandine. Diese Erinnerung wird hier schon sehr lange gehütet. Die Kirche verdankt einen Teil ihres Entwurfs dem Architekten Philibert de l’Orme. Die alten Mauern hüten dieses Andenken seither.",
-        "en" : "Beneath this Gothic church lies a quiet crypt. It keeps the memory of Christians of Lyon from the year 177, among them Sainte Blandine. Their story has been held safe here for a very long time. The church itself owes part of its design to the architect Philibert de l'Orme. Those old walls have sheltered that memory ever since."
+        "de" : "So wirkte die Kirche lange einseitig, mit einem Nordturm, der einen Helm aus rosa Backstein trägt. Sein Gegenstück im Süden kam erst 1856, aus Stein gearbeitet wie feine Spitze. Schau hinauf und vergleiche: warmer Backstein hier, steinernes Spitzenwerk dort. Von unten erkennst du den Unterschied sofort. Gebaut ist die Kirche im gotischen Stil, und auch der Architekt Philibert de l'Orme hat hier gewirkt.",
+        "en" : "So the church stood lopsided, with one tower on the north side wearing a spire of pink brick. Its partner in the south came in 1856, carved like stone lace. Look up and compare the two: warm brick on one side, lacy stone on the other. The builders worked in the Gothic style, and the architect Philibert de l'Orme also left his mark here."
       },
       "localizedStory" : {
-        "de" : "Blick hinauf zum Nordturm: Seine gotische Spitze ist aus rosa Backstein gebaut, unverkennbar vor dem Himmel.",
-        "en" : "Look up at the north tower: its Gothic spire is built of pink brick, unmistakable against the sky."
+        "de" : "Jahrhundertelang hatte diese Kirche nur einen Glockenturm. Seine Glocke, der gros Séral, rief die Bürger zu den Ratsversammlungen.",
+        "en" : "For centuries this church had a single bell tower, and its bell, the gros Séral, called the townspeople to council meetings."
       },
       "name" : "Église Saint-Nizier",
       "pos" : [
         45.764619,
         4.833291
       ],
-      "story" : "Look up at the north tower: its Gothic spire is built of pink brick, unmistakable against the sky."
+      "story" : "For centuries this church had a single bell tower, and its bell, the gros Séral, called the townspeople to council meetings."
     }
   ],
-  "generatedAt" : "2026-09-13T14:37:57Z",
+  "generatedAt" : "2026-09-18T04:24:40Z",
   "icon" : {
     "paths" : [
       "M 8.00,93.00 L 92.00,93.00 L 84.00,88.00 L 16.00,88.00 Z M 12.00,76.00 L 88.00,76.00 L 88.00,90.00 L 12.00,90.00 Z M 15.00,48.00 L 23.00,48.00 L 26.00,51.00 L 26.00,87.00 L 23.00,90.00 L 15.00,90.00 L 12.00,87.00 L 12.00,51.00 Z M 15.00,48.00 L 23.00,48.00 L 19.00,30.00 Z M 77.00,48.00 L 85.00,48.00 L 88.00,51.00 L 88.00,87.00 L 85.00,90.00 L 77.00,90.00 L 74.00,87.00 L 74.00,51.00 Z M 77.00,48.00 L 85.00,48.00 L 81.00,30.00 Z M 32.00,40.00 L 38.00,40.00 L 41.00,43.00 L 41.00,87.00 L 38.00,90.00 L 32.00,90.00 L 29.00,87.00 L 29.00,43.00 Z M 32.00,40.00 L 38.00,40.00 L 35.00,22.00 Z M 62.00,40.00 L 68.00,40.00 L 71.00,43.00 L 71.00,87.00 L 68.00,90.00 L 62.00,90.00 L 59.00,87.00 L 59.00,43.00 Z M 62.00,40.00 L 68.00,40.00 L 65.00,22.00 Z M 41.00,35.00 L 59.00,35.00 L 59.00,90.00 L 41.00,90.00 Z M 41.00,35.00 L 59.00,35.00 L 50.00,14.00 Z"
@@ -52296,7 +52295,7 @@
     "en" : "Lyon"
   },
   "name" : "Lyon",
-  "packVersion" : 15,
+  "packVersion" : 16,
   "schemaVersion" : 1,
   "source" : "OpenStreetMap via Overpass API",
   "stats" : {

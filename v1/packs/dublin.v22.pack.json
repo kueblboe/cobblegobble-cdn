@@ -271,10 +271,9 @@
 
     ],
     "adjustedStreets" : [
-      "Dublin Castle",
-      "Upper Castle Yard"
+
     ],
-    "fromVersion" : 20,
+    "fromVersion" : 21,
     "removedStreets" : [
 
     ]
@@ -20001,187 +20000,187 @@
   ],
   "fruits" : [
     {
-      "extendedStory" : "This great fortress was raised in 1204 by Meiler Fitzhenry, on the orders of King John of England. For a very long time its story kept turning. After the Anglo-Irish Treaty of 1921, the castle was handed to a new Provisional Government led by Michael Collins. Walk up to its walls and imagine both those days.",
+      "extendedStory" : "Look up at the castle gates as you pass. Two lead figures, Justice and Fortitude, turn their backs on the city and face the courtyard. When they came down for repair in the 1980s, the lead proved poor, held together by layers of paint. King John of England ordered the fortress raised, and in 1921 it passed to a new Irish government under Michael Collins.",
       "icon" : "hero",
       "id" : "f-dublin-castle",
       "kind" : "fortress",
       "localizedExtendedStory" : {
-        "de" : "Diese große Festung wurde 1204 von Meiler Fitzhenry im Auftrag von König Johann von England errichtet. Sehr lange Zeit wandelte sich hier die Geschichte immer wieder. Nach dem Anglo-Irischen Vertrag von 1921 ging die Burg an eine neue Provisorische Regierung unter Michael Collins über. Geh zu den Mauern hinauf und stell dir beide Tage vor.",
-        "en" : "This great fortress was raised in 1204 by Meiler Fitzhenry, on the orders of King John of England. For a very long time its story kept turning. After the Anglo-Irish Treaty of 1921, the castle was handed to a new Provisional Government led by Michael Collins. Walk up to its walls and imagine both those days."
+        "de" : "Schau im Vorbeigehen hinauf zu den Burgtoren. Zwei Bleifiguren, Justitia und die Tapferkeit, kehren der Stadt den Rücken zu und blicken in den Hof. Als sie in den 1980er Jahren zur Ausbesserung herunterkamen, war das Blei schlecht und hielt nur durch die vielen Farbschichten zusammen. König Johann von England ließ die Festung errichten, 1921 ging sie an eine neue irische Regierung unter Michael Collins.",
+        "en" : "Look up at the castle gates as you pass. Two lead figures, Justice and Fortitude, turn their backs on the city and face the courtyard. When they came down for repair in the 1980s, the lead proved poor, held together by layers of paint. King John of England ordered the fortress raised, and in 1921 it passed to a new Irish government under Michael Collins."
       },
       "localizedStory" : {
-        "de" : "Blick hinauf zu dieser großen Festung, 1204 auf Befehl von König Johann von England errichtet.",
-        "en" : "Look up at this great fortress, raised in 1204 on the orders of King John of England."
+        "de" : "Niemand weiß, wer die irischen Kronjuwelen mitnahm. Aus einem Tresorraum im Bedford Tower dieser Burg verschwanden sie spurlos.",
+        "en" : "Nobody knows who took the Irish Crown Jewels. They vanished from a strong room in this castle's Bedford Tower and never turned up."
       },
       "name" : "Dublin Castle",
       "pos" : [
         53.34265,
         -6.266938
       ],
-      "story" : "Look up at this great fortress, raised in 1204 on the orders of King John of England."
+      "story" : "Nobody knows who took the Irish Crown Jewels. They vanished from a strong room in this castle's Bedford Tower and never turned up."
     },
     {
-      "extendedStory" : "When it opened in 1816, walking across cost money. Everyone who wanted to reach the far bank handed over a halfpenny to get there. Dubliners shortened that coin to a ha'penny, and the nickname stuck fast to the crossing. The charge was dropped in 1919, but by then nobody was going to call it anything else.",
+      "extendedStory" : "The deal that built it came with a catch. If Dubliners found the bridge or its toll objectionable within its opening year, it was to be taken away again. Removing it would have cost the city nothing at all. Nobody asked for that, and the crossing has stood since 1816. The toll itself lasted until 1919, and walking over has been free ever since.",
       "icon" : "choice",
       "id" : "f-ha-penny-bridge",
       "kind" : "bridge",
       "localizedExtendedStory" : {
-        "de" : "Als sie 1816 eröffnet wurde, kostete der Weg hinüber Geld. Wer ans andere Ufer wollte, legte zuerst einen halben Penny hin. Die Leute machten daraus einen Ha'penny, und der Spitzname blieb am Übergang hängen. 1919 fiel die Gebühr weg, doch da nannte sie ohnehin niemand mehr anders.",
-        "en" : "When it opened in 1816, walking across cost money. Everyone who wanted to reach the far bank handed over a halfpenny to get there. Dubliners shortened that coin to a ha'penny, and the nickname stuck fast to the crossing. The charge was dropped in 1919, but by then nobody was going to call it anything else."
+        "de" : "Der Handel, der sie baute, hatte einen Haken. Fanden die Dubliner die Brücke oder die Maut im Jahr nach der Eröffnung störend, sollte sie wieder verschwinden. Gekostet hätte der Abriss die Stadt nichts. Niemand verlangte das, und seit 1816 steht der Übergang. Die Maut fiel 1919 weg, seither geht man umsonst hinüber.",
+        "en" : "The deal that built it came with a catch. If Dubliners found the bridge or its toll objectionable within its opening year, it was to be taken away again. Removing it would have cost the city nothing at all. Nobody asked for that, and the crossing has stood since 1816. The toll itself lasted until 1919, and walking over has been free ever since."
       },
       "localizedStory" : {
-        "de" : "Überquere die Brücke, deren Name an den halben Penny erinnert, den man einst fürs Überqueren zahlte. Die Maut fiel 1919 weg.",
-        "en" : "Long ago you dropped a ha'penny in a box just to walk across this little bridge. That toll stopped in 1919."
+        "de" : "Verliebte klemmen Vorhängeschlösser ans Geländer, die Stadt zwickt sie ab. Der Spitzname der Brücke stammt vom halben Penny, den man einst fürs Überqueren zahlte.",
+        "en" : "Padlocks keep appearing on these railings, clipped on by couples, and the council keeps cutting them away. The nickname? A halfpenny to cross."
       },
       "name" : "Ha'penny Bridge",
       "pos" : [
         53.346326,
         -6.263092
       ],
-      "story" : "Long ago you dropped a ha'penny in a box just to walk across this little bridge. That toll stopped in 1919."
+      "story" : "Padlocks keep appearing on these railings, clipped on by couples, and the council keeps cutting them away. The nickname? A halfpenny to cross."
     },
     {
-      "extendedStory" : "It rises over Parliament Square, and you see the top of it long before you reach the foot. The architect Charles Lanyon shaped the tower, and the stonework was finished in 1853. Thirty and a half metres carries it clear above everything around it. It is a gate tower, so the way through runs right beneath the stone.",
+      "extendedStory" : "Nobody agrees where the warning came from, or even what exactly it does to you. The tower stands on the foundations of All Hallows, a monastery that stood here long before these walls. Charles Lanyon shaped it, and the stonework rose in 1853. It is a gate tower, so the path runs right under the stone, which is what makes the warning bite.",
       "icon" : "everyday",
       "id" : "f-campanile",
       "kind" : "gate_tower",
       "localizedExtendedStory" : {
-        "de" : "Er ragt über den Parliament Square, und man sieht seine Spitze lange vor dem Fuß. Der Architekt Charles Lanyon entwarf den Turm, das Mauerwerk war 1853 fertig. Dreißigeinhalb Meter heben ihn klar über alles ringsum hinaus. Es ist ein Torturm, der Weg führt also mitten unter dem Stein hindurch.",
-        "en" : "It rises over Parliament Square, and you see the top of it long before you reach the foot. The architect Charles Lanyon shaped the tower, and the stonework was finished in 1853. Thirty and a half metres carries it clear above everything around it. It is a gate tower, so the way through runs right beneath the stone."
+        "de" : "Woher die Warnung kommt, weiß niemand, und was genau sie bewirkt, auch nicht. Der Turm steht auf den Fundamenten von All Hallows, eines Klosters, das lange vor diesen Mauern hier stand. Charles Lanyon entwarf ihn, das Mauerwerk war 1853 fertig. Es ist ein Torturm, der Weg führt also mitten unter dem Stein hindurch, genau dort, wo die Warnung gilt.",
+        "en" : "Nobody agrees where the warning came from, or even what exactly it does to you. The tower stands on the foundations of All Hallows, a monastery that stood here long before these walls. Charles Lanyon shaped it, and the stonework rose in 1853. It is a gate tower, so the path runs right under the stone, which is what makes the warning bite."
       },
       "localizedStory" : {
-        "de" : "Blick hinauf zu diesem hohen Turm, 30,5 Meter hoch, 1853 vom Architekten Charles Lanyon erbaut.",
-        "en" : "Look up at this tall tower, 30.5 metres high, built in 1853 by the architect Charles Lanyon."
+        "de" : "Wer unter diesem Glockenturm hindurchgeht, fällt durch die Prüfungen, heißt es unter Studenten. Manche erzählen, es gelte nur bei läutenden Glocken.",
+        "en" : "Students swear that whoever walks under this bell tower will fail their exams. Some say it counts when the bells are ringing."
       },
       "name" : "Campanile",
       "pos" : [
         53.344405,
         -6.257315
       ],
-      "story" : "Look up at this tall tower, 30.5 metres high, built in 1853 by the architect Charles Lanyon."
+      "story" : "Students swear that whoever walks under this bell tower will fail their exams. Some say it counts when the bells are ringing."
     },
     {
-      "extendedStory" : "The church was begun in 1825 and carries the name of Mary. Its style is neoclassical: the builders looked back to ancient Greece and Rome for their shapes. So the front is all straight columns and calm, level lines, with nothing fussy about it. From the street it reads more like a temple than a church.",
+      "extendedStory" : "Some say P was a Dubliner living in exile in Paris. Others say a French architect who had every reason to keep his name quiet. It was meant for Sackville Street, today's O'Connell Street, but that was resisted. So Dublin's Catholic cathedral went up on a narrow side street instead. Its style is neoclassical, all calm straight lines, more temple than church.",
       "icon" : "choice",
       "id" : "f-saint-mary-s-cathedral",
       "kind" : "church",
       "localizedExtendedStory" : {
-        "de" : "Die Kirche wurde 1825 begonnen und trägt den Namen Marias. Ihr Stil ist klassizistisch: Die Baumeister schauten für ihre Formen zurück nach Griechenland und Rom. Deshalb ist die Front lauter gerade Säulen und ruhige, waagerechte Linien. Von der Straße wirkt sie eher wie ein Tempel als wie eine Kirche.",
-        "en" : "The church was begun in 1825 and carries the name of Mary. Its style is neoclassical: the builders looked back to ancient Greece and Rome for their shapes. So the front is all straight columns and calm, level lines, with nothing fussy about it. From the street it reads more like a temple than a church."
+        "de" : "Vielleicht war P ein Dubliner, der im Pariser Exil lebte. Vielleicht auch ein französischer Architekt, der guten Grund hatte, seinen Namen zu verschweigen. Gedacht war der Bau für die Sackville-Straße, die heutige O'Connell-Straße, doch dagegen gab es Widerstand. So kam Dublins katholische Kathedrale in eine schmale Seitenstraße. Ihr Stil ist klassizistisch, ruhige gerade Linien, eher Tempel als Kirche.",
+        "en" : "Some say P was a Dubliner living in exile in Paris. Others say a French architect who had every reason to keep his name quiet. It was meant for Sackville Street, today's O'Connell Street, but that was resisted. So Dublin's Catholic cathedral went up on a narrow side street instead. Its style is neoclassical, all calm straight lines, more temple than church."
       },
       "localizedStory" : {
-        "de" : "Tritt vor diese Kirche von 1825, im ruhigen, geordneten klassizistischen Stil erbaut.",
-        "en" : "Step up to this church from 1825, built in the calm, orderly neoclassical style."
+        "de" : "Niemand weiß, wer diese Kathedrale entworfen hat. Der Siegerentwurf trug nur einen Buchstaben, P, und über den Namen dahinter streitet man bis heute.",
+        "en" : "Nobody knows who designed this cathedral. The winning plan was signed with a single letter, P, and the name behind it is still argued over."
       },
       "name" : "Saint Mary's Cathedral",
       "pos" : [
         53.350934,
         -6.258645
       ],
-      "story" : "Step up to this church from 1825, built in the calm, orderly neoclassical style."
+      "story" : "Nobody knows who designed this cathedral. The winning plan was signed with a single letter, P, and the name behind it is still argued over."
     },
     {
-      "extendedStory" : "Hugh Lane, a sharp-eyed art collector, gave this gallery both its name and its founding collection. The idea took shape in 1908, and the doors of this building opened in 1933. Lane himself never saw it, for he was lost in 1915 when the RMS Lusitania went down. Still, the modern art he championed has drawn visitors here ever since.",
+      "extendedStory" : "The room opened to visitors in 2001. The gallery around it was the first public gallery of modern art in the world. Hugh Lane, who gave it his collection and his name, set that going in 1908. This building took the collection in later, and it has never left. So you can walk from Dublin's painted faces straight into a London workroom.",
       "icon" : "choice",
       "id" : "f-hugh-lane-gallery",
       "kind" : "museum",
       "localizedExtendedStory" : {
-        "de" : "Die Galerie ist nach Hugh Lane benannt, dem Mann, der sie gegründet hat. Ihre Geschichte begann 1908, und in diesem Gebäude öffnete sie 1933. Ihr Gründer erlebte diesen Tag leider nicht mehr, denn er kam 1915 an Bord der RMS Lusitania ums Leben. Doch die Galerie, von der er träumte, empfängt seither ihre Besucher.",
-        "en" : "Hugh Lane, a sharp-eyed art collector, gave this gallery both its name and its founding collection. The idea took shape in 1908, and the doors of this building opened in 1933. Lane himself never saw it, for he was lost in 1915 when the RMS Lusitania went down. Still, the modern art he championed has drawn visitors here ever since."
+        "de" : "Der Raum öffnete 2001 für Besucher. Die Galerie darum herum war weltweit die erste öffentliche Galerie für moderne Kunst. Hugh Lane gab ihr seine Sammlung und seinen Namen und brachte das 1908 ins Rollen. In dieses Haus kam die Sammlung später, und hier blieb sie. So gehst du von Dubliner Gemälden direkt in eine Londoner Werkstatt.",
+        "en" : "The room opened to visitors in 2001. The gallery around it was the first public gallery of modern art in the world. Hugh Lane, who gave it his collection and his name, set that going in 1908. This building took the collection in later, and it has never left. So you can walk from Dublin's painted faces straight into a London workroom."
       },
       "localizedStory" : {
-        "de" : "Tritt ein in die weltweit erste bekannte öffentliche Galerie für moderne Kunst.",
-        "en" : "Long before other cities dared, this place hung bold new paintings for everyone to see. A collector named Hugh Lane made it happen."
+        "de" : "Das Londoner Atelier von Francis Bacon kam als Ganzes hierher. Mehr als siebentausend Gegenstände wurden erfasst, herübergebracht und drinnen wieder ausgelegt.",
+        "en" : "Francis Bacon's London studio was moved here whole. Over 7,000 objects were logged and carried across, then laid out again inside."
       },
       "name" : "Hugh Lane Gallery",
       "pos" : [
         53.354145,
         -6.264401
       ],
-      "story" : "Long before other cities dared, this place hung bold new paintings for everyone to see. A collector named Hugh Lane made it happen."
+      "story" : "Francis Bacon's London studio was moved here whole. Over 7,000 objects were logged and carried across, then laid out again inside."
     },
     {
-      "extendedStory" : "Mary Mercer, who founded a hospital, was buried on this ground. So was the philosopher Francis Hutcheson. Their graves are gone from view now, but the names stayed with the place. The square itself is named for Theobald Wolfe Tone, who was baptised in the church that once stood here. Since 2003 a sculpture by Jackie McKenna has stood among the trees, called 'Ag Crú na Gréine'.",
+      "extendedStory" : "This was St Mary's burial ground until 1966, when it was made a green park. Mary Mercer, who founded a hospital, rests here, and so does the philosopher Francis Hutcheson. The square takes its name from Theobald Wolfe Tone, baptised in the church that once stood on this spot. Since 2003 a sculpture by Jackie McKenna has stood among the trees, called Ag Crú na Gréine.",
       "icon" : "everyday",
       "id" : "f-wolfe-tone-square",
       "kind" : "square",
       "localizedExtendedStory" : {
-        "de" : "Mary Mercer, die ein Krankenhaus gründete, wurde auf diesem Boden begraben. Auch der Philosoph Francis Hutcheson. Ihre Gräber sind heute nicht mehr zu sehen, die Namen aber blieben dem Ort. Der Platz selbst ist nach Theobald Wolfe Tone benannt, der in der Kirche getauft wurde, die einst hier stand. Seit 2003 steht zwischen den Bäumen eine Skulptur von Jackie McKenna mit dem Titel 'Ag Crú na Gréine'.",
-        "en" : "Mary Mercer, who founded a hospital, was buried on this ground. So was the philosopher Francis Hutcheson. Their graves are gone from view now, but the names stayed with the place. The square itself is named for Theobald Wolfe Tone, who was baptised in the church that once stood here. Since 2003 a sculpture by Jackie McKenna has stood among the trees, called 'Ag Crú na Gréine'."
+        "de" : "Bis 1966 war das der Friedhof von St Mary's, dann wurde daraus ein grüner Park. Mary Mercer, die ein Krankenhaus gründete, liegt hier, ebenso der Philosoph Francis Hutcheson. Der Platz trägt den Namen von Theobald Wolfe Tone, getauft in der Kirche, die einst hier stand. Seit 2003 steht zwischen den Bäumen eine Skulptur von Jackie McKenna, Ag Crú na Gréine.",
+        "en" : "This was St Mary's burial ground until 1966, when it was made a green park. Mary Mercer, who founded a hospital, rests here, and so does the philosopher Francis Hutcheson. The square takes its name from Theobald Wolfe Tone, baptised in the church that once stood on this spot. Since 2003 a sculpture by Jackie McKenna has stood among the trees, called Ag Crú na Gréine."
       },
       "localizedStory" : {
-        "de" : "Dieser grüne Park war einst der Friedhof von St Mary's und wurde 1966 als offene Wiese neu angelegt.",
-        "en" : "This green park was once the graveyard of St Mary's, laid out fresh as open lawn in 1966."
+        "de" : "Hier lag einmal ein Kirchhof. In den 1960er Jahren nahm man die Grabsteine vom Boden auf und stellte sie in einer Reihe an die Parkmauern.",
+        "en" : "Once this was a churchyard. In the 1960s its headstones were lifted from the ground and set in a row against the park walls."
       },
       "name" : "Wolfe Tone Square",
       "pos" : [
         53.348132,
         -6.266833
       ],
-      "story" : "This green park was once the graveyard of St Mary's, laid out fresh as open lawn in 1966."
+      "story" : "Once this was a churchyard. In the 1960s its headstones were lifted from the ground and set in a row against the park walls."
     },
     {
-      "extendedStory" : "Look carefully at the year this crossing was built, back in 1932. It was a big year for Dublin. The city hosted the great Eucharistic Congress, a huge gathering of people. That is why the bridge also carries an Irish name, Congress Bridge. Two names, and both remember the very same year.",
+      "extendedStory" : "Boats could reach O'Connell Bridge while the span stood aside. Isaac Butt, who fought for Irish Home Rule, gave the crossing its English name, and he died the year it opened. Its Irish name, Congress Bridge, recalls the huge Eucharistic Congress that filled the city in 1932. One bridge, two names, and each keeps hold of something of its own.",
       "icon" : "everyday",
       "id" : "f-butt-bridge",
       "kind" : "bridge",
       "localizedExtendedStory" : {
-        "de" : "Sieh dir genau das Baujahr dieser Brücke an, 1932. Es war ein großes Jahr für Dublin. Die Stadt war Gastgeber des großen Eucharistischen Kongresses, einer riesigen Versammlung von Menschen. Darum trägt die Brücke auch einen irischen Namen, Congress Bridge. Zwei Namen, und beide erinnern an dasselbe Jahr.",
-        "en" : "Look carefully at the year this crossing was built, back in 1932. It was a big year for Dublin. The city hosted the great Eucharistic Congress, a huge gathering of people. That is why the bridge also carries an Irish name, Congress Bridge. Two names, and both remember the very same year."
+        "de" : "Die Schiffe kamen bis zur O'Connell Bridge, solange der Träger zur Seite gedreht war. Der Übergang trägt den Namen von Isaac Butt, dem Anführer der Home-Rule-Bewegung, der in seinem Eröffnungsjahr starb. Auf Irisch heißt sie Congress Bridge, nach dem großen Eucharistischen Kongress, der 1932 Dublin füllte. Eine Brücke, zwei Namen, und jeder behält sein eigenes Jahr.",
+        "en" : "Boats could reach O'Connell Bridge while the span stood aside. Isaac Butt, who fought for Irish Home Rule, gave the crossing its English name, and he died the year it opened. Its Irish name, Congress Bridge, recalls the huge Eucharistic Congress that filled the city in 1932. One bridge, two names, and each keeps hold of something of its own."
       },
       "localizedStory" : {
-        "de" : "Diese Brücke ist nach Isaac Butt benannt, einem Anführer der irischen Home-Rule-Bewegung.",
-        "en" : "This bridge is named after Isaac Butt, a leader of Ireland's Home Rule movement."
+        "de" : "Eine frühere Brücke hier schwenkte zur Seite, damit Schiffe durchkamen. Zweihundert Tonnen schwer drehte sich der Träger auf Rädern, getrieben von einer Dampfmaschine.",
+        "en" : "An earlier bridge here swung open for ships. Two hundred tons of iron turned on wheels, pushed by a steam engine."
       },
       "name" : "Butt Bridge",
       "pos" : [
         53.347843,
         -6.254973
       ],
-      "story" : "This bridge is named after Isaac Butt, a leader of Ireland's Home Rule movement."
+      "story" : "An earlier bridge here swung open for ships. Two hundred tons of iron turned on wheels, pushed by a steam engine."
     },
     {
-      "extendedStory" : "It opened in 1881 under a different name, the South City Markets. Fire gutted the building in 1892, and Dublin put it back together. The doors opened again in 1894, and traders have kept them open since. The style is Victorian, so look up at the ironwork and the long roof over the aisles.",
+      "extendedStory" : "A competition decided what would stand here, and Lockwood and Mawson won it. They had built a hall much like it in Birmingham. Then fire gutted the markets in 1892, and W.H. Byrne, not the winners, rebuilt the interior. At the start it went by another name, South City Markets. It was the first place in Dublin built to be a Victorian shopping centre. Traders have kept the aisles busy ever since.",
       "icon" : "everyday",
       "id" : "f-george-s-street-arcade",
       "kind" : "market",
       "localizedExtendedStory" : {
-        "de" : "Eröffnet wurde es 1881 unter einem anderen Namen, den South City Markets. 1892 brannte das Gebäude aus, und Dublin baute es wieder auf. 1894 öffneten die Türen erneut, und seither halten Händler sie offen. Der Stil ist viktorianisch, schau nach oben auf das Eisenwerk und das lange Dach über den Gängen.",
-        "en" : "It opened in 1881 under a different name, the South City Markets. Fire gutted the building in 1892, and Dublin put it back together. The doors opened again in 1894, and traders have kept them open since. The style is Victorian, so look up at the ironwork and the long roof over the aisles."
+        "de" : "Ein Wettbewerb entschied, was hier stehen sollte, und Lockwood und Mawson gewannen ihn. In Birmingham hatten sie schon eine ganz ähnliche Halle gebaut. Dann brannte der Markt 1892 aus, und W.H. Byrne baute das Innere neu, nicht die Sieger. Eröffnet hatte er als South City Markets, Dublins erstes eigens gebautes viktorianisches Einkaufszentrum. Seither halten Händler die Gänge lebendig.",
+        "en" : "A competition decided what would stand here, and Lockwood and Mawson won it. They had built a hall much like it in Birmingham. Then fire gutted the markets in 1892, and W.H. Byrne, not the winners, rebuilt the interior. At the start it went by another name, South City Markets. It was the first place in Dublin built to be a Victorian shopping centre. Traders have kept the aisles busy ever since."
       },
       "localizedStory" : {
-        "de" : "Tritt ein in Dublins erstes eigens gebautes viktorianisches Einkaufszentrum, 1881 als South City Markets eröffnet.",
-        "en" : "Under this roof, traders have sold their wares since 1881, when it first threw open its doors."
+        "de" : "Die kleinen Backsteinläden im Inneren standen nicht im Plan. Sie kamen erst dazu, als die Halle nach einem Brand neu gebaut wurde.",
+        "en" : "The rows of little brick shops inside were not in the plan. They came later, when the hall was rebuilt after a fire."
       },
       "name" : "George's Street Arcade",
       "pos" : [
         53.342576,
         -6.264192
       ],
-      "story" : "Under this roof, traders have sold their wares since 1881, when it first threw open its doors."
+      "story" : "The rows of little brick shops inside were not in the plan. They came later, when the hall was rebuilt after a fire."
     },
     {
-      "extendedStory" : "The diamond is old. It is already drawn on Thomas Campbell's map of 1811, before the Ordnance Survey had mapped this part of the city. The street beside it went by another name then, Gloucester Street, and kept it until 1933. In September 1981 hundreds of people who grew up around the crossing came back for a festival called Diamond Remembered.",
+      "extendedStory" : "Thomas Campbell drew the diamond on his map of 1811, before the Ordnance Survey reached this part of the city. Children played street football across it through the last century. In September 1981 hundreds of people who grew up on these streets came back for a festival called Diamond Remembered. Even the street beside it has changed its name since.",
       "icon" : "everyday",
       "id" : "f-gloucester-diamond",
       "kind" : "square",
       "localizedExtendedStory" : {
-        "de" : "Die Raute ist alt. Schon auf Thomas Campbells Karte von 1811 ist sie eingezeichnet, bevor die Ordnance Survey diesen Teil der Stadt vermaß. Die Straße daneben hieß damals anders, Gloucester Street, und blieb es bis 1933. Im September 1981 kamen Hunderte, die an dieser Kreuzung aufgewachsen waren, zu einem Fest namens Diamond Remembered zurück.",
-        "en" : "The diamond is old. It is already drawn on Thomas Campbell's map of 1811, before the Ordnance Survey had mapped this part of the city. The street beside it went by another name then, Gloucester Street, and kept it until 1933. In September 1981 hundreds of people who grew up around the crossing came back for a festival called Diamond Remembered."
+        "de" : "Thomas Campbell zeichnete die Raute schon auf seine Karte von 1811, bevor die Ordnance Survey hierherkam. Mitte des vergangenen Jahrhunderts spielten Kinder hier Straßenfußball. Im September 1981 kamen Hunderte, die an diesen Straßen aufgewachsen waren, zum Fest Diamond Remembered zurück. Auch die Straße daneben heißt heute anders als damals.",
+        "en" : "Thomas Campbell drew the diamond on his map of 1811, before the Ordnance Survey reached this part of the city. Children played street football across it through the last century. In September 1981 hundreds of people who grew up on these streets came back for a festival called Diamond Remembered. Even the street beside it has changed its name since."
       },
       "localizedStory" : {
-        "de" : "Steh an dieser rautenförmigen Kreuzung, Mitte des 20. Jahrhunderts ein lebhafter Mittelpunkt für Straßenfußball.",
-        "en" : "Stand at this diamond-shaped crossing, a lively centre for street football back in the mid-20th century."
+        "de" : "Im Ort nennen die Leute diese Kreuzung nach ihrer Form die Diamond, und längst meint der Name das ganze Viertel ringsum.",
+        "en" : "Locals call this crossing the Diamond, after its shape, and the name has spread to the whole neighbourhood around it."
       },
       "name" : "Gloucester Diamond",
       "pos" : [
         53.353352,
         -6.254471
       ],
-      "story" : "Stand at this diamond-shaped crossing, a lively centre for street football back in the mid-20th century."
+      "story" : "Locals call this crossing the Diamond, after its shape, and the name has spread to the whole neighbourhood around it."
     }
   ],
-  "generatedAt" : "2026-09-13T14:37:18Z",
+  "generatedAt" : "2026-09-17T20:56:55Z",
   "icon" : {
     "paths" : [
       "M28 86C24 64,26 46,37 31C41 25,47 26,45 33C37 46,35 64,40 86ZM37 31C48 21,60 20,70 25L67 33C58 29,49 31,42 38ZM63 30L72 26L74 88L58 88C58 68,60 48,63 30ZM26 84L76 84L76 90L26 90ZM44.0 40L45.6 39L56.6 82L55.0 83ZM48.2 40L49.8 39L60.0 82L58.4 83ZM52.4 40L54.0 39L63.4 82L61.8 83ZM56.6 40L58.2 39L66.8 82L65.2 83ZM60.8 40L62.4 39L70.2 82L68.6 83Z"
@@ -20194,7 +20193,7 @@
     "en" : "Dublin"
   },
   "name" : "Dublin",
-  "packVersion" : 21,
+  "packVersion" : 22,
   "schemaVersion" : 1,
   "source" : "OpenStreetMap via Overpass API",
   "stats" : {

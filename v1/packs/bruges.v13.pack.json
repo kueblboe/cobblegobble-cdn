@@ -239,10 +239,9 @@
 
     ],
     "adjustedStreets" : [
-      "Burg",
-      "Walplein"
+
     ],
-    "fromVersion" : 11,
+    "fromVersion" : 12,
     "removedStreets" : [
 
     ]
@@ -10164,187 +10163,187 @@
   ],
   "fruits" : [
     {
-      "extendedStory" : "On the Burg two churches sit one above the other in the same building. The lower one is the older, Romanesque, from 1157. Romanesque means thick walls, round arches and very little light. It feels like a cave cut out of stone. The upper church took its present shape in 1819 and is bright and full of colour. One staircase carries you from one century into the other.",
+      "extendedStory" : "The tale names Diederik of Alsace, and puts him on the road home in 1150. Historians now think a monk sat down and invented the whole story a couple of hundred years later. What nobody argues about is the little container itself. The relic sits in a small tube of rock crystal, made around 1200 and thought to have come from Constantinople.",
       "icon" : "hero",
       "id" : "f-basiliek-van-het-heilig-bloed",
       "kind" : "church",
       "localizedExtendedStory" : {
-        "de" : "Am Burg stehen zwei Kirchen übereinander im selben Haus. Die untere ist die ältere, romanisch, aus dem Jahr 1157. Romanisch heißt: dicke Mauern, runde Bögen, wenig Licht. Es fühlt sich an wie eine Höhle aus Stein. Die obere Kirche bekam 1819 ihre heutige Gestalt und ist hell und farbig. Man geht durch eine Treppe aus dem einen Jahrhundert ins andere.",
-        "en" : "On the Burg two churches sit one above the other in the same building. The lower one is the older, Romanesque, from 1157. Romanesque means thick walls, round arches and very little light. It feels like a cave cut out of stone. The upper church took its present shape in 1819 and is bright and full of colour. One staircase carries you from one century into the other."
+        "de" : "Die Sage nennt Diederik von Elsass und schickt ihn 1150 mit der Reliquie von Jerusalem nach Hause. Historiker halten die Geschichte heute für die Erfindung eines Mönchs, ein paar hundert Jahre später aufgeschrieben. Über das Gefäß selbst streitet dagegen niemand ernsthaft. Die Reliquie steckt in einem kleinen Röhrchen aus Bergkristall, das um 1200 gefertigt wurde und wohl aus Konstantinopel stammt.",
+        "en" : "The tale names Diederik of Alsace, and puts him on the road home in 1150. Historians now think a monk sat down and invented the whole story a couple of hundred years later. What nobody argues about is the little container itself. The relic sits in a small tube of rock crystal, made around 1200 and thought to have come from Constantinople."
       },
       "localizedStory" : {
-        "de" : "Zwei Kirchen übereinander am Burgplatz. Die untere ist romanisch und stammt von 1157.",
-        "en" : "Two churches stacked in one building on the Burg. The lower one is Romanesque, from 1157."
+        "de" : "Der Sage nach brachte ein Graf diese Reliquie aus Jerusalem mit. Historiker zweifeln das heute an, und da ist sie trotzdem.",
+        "en" : "The story goes that a count carried this relic home from Jerusalem. Historians doubt that today, and the relic is here all the same."
       },
       "name" : "Basiliek van het Heilig Bloed",
       "pos" : [
         51.208203,
         3.226597
       ],
-      "story" : "Two churches stacked in one building on the Burg. The lower one is Romanesque, from 1157."
+      "story" : "The story goes that a count carried this relic home from Jerusalem. Historians doubt that today, and the relic is here all the same."
     },
     {
-      "extendedStory" : "Work started in 1377 and the building opened in 1421. The city has been governed from it ever since, so for more than six hundred years. The front is Gothic through and through. Tall narrow windows, a turret on every corner, carved stone wherever a flat wall might have gone. In 1852 the whole facade was thoroughly restored.",
+      "extendedStory" : "Look up at the counts and countesses along the front. Almost none of them are old. The originals were destroyed in 1792, and the niches then stood empty for generations. The city argued for a long time about what shape and style the new ones should have. A competition finally settled it, and the 48 missing figures were carved not so long ago.",
       "icon" : "everyday",
       "id" : "f-stadhuis-brugge",
       "kind" : "civic",
       "localizedExtendedStory" : {
-        "de" : "Die Arbeit begann 1377, und 1421 war das Haus fertig. Seither wird die Stadt von hier aus regiert, also seit über sechshundert Jahren. Die Fassade ist Gotik: hohe schmale Fenster, Türmchen an jeder Ecke, überall Stein statt Fläche. 1852 wurde sie gründlich wiederhergestellt. Wer davorsteht, schaut auf sechs Jahrhunderte Stadtgeschichte an einem Stück.",
-        "en" : "Work started in 1377 and the building opened in 1421. The city has been governed from it ever since, so for more than six hundred years. The front is Gothic through and through. Tall narrow windows, a turret on every corner, carved stone wherever a flat wall might have gone. In 1852 the whole facade was thoroughly restored."
+        "de" : "Schau dir die Grafen und Gräfinnen an der Fassade an, denn alt ist von ihnen fast keiner. Die Originale wurden 1792 zerstört, danach standen die Nischen über Generationen leer. Lange stritt die Stadt darüber, welche Form und welchen Stil die neuen haben sollten. Ein Wettbewerb entschied es, und die 48 fehlenden Figuren wurden erst vor gar nicht langer Zeit gemeißelt.",
+        "en" : "Look up at the counts and countesses along the front. Almost none of them are old. The originals were destroyed in 1792, and the niches then stood empty for generations. The city argued for a long time about what shape and style the new ones should have. A competition finally settled it, and the 48 missing figures were carved not so long ago."
       },
       "localizedStory" : {
-        "de" : "Ein gotisches Rathaus, begonnen 1377 und 1421 eröffnet. Brügge regiert seit über sechshundert Jahren von hier aus.",
-        "en" : "A Gothic town hall, begun in 1377 and opened in 1421. Bruges has been run from here for over six hundred years."
+        "de" : "Der Sage nach gefiel einem König ein Urteil aus diesem Haus so gut, dass er die Schornsteine krönen ließ. Zwei goldene stehen oben.",
+        "en" : "The story goes that a king liked a judgement made here so much he said the chimneys deserved crowns. Two golden ones stand there."
       },
       "name" : "Stadhuis Brugge",
       "pos" : [
         51.208135,
         3.22712
       ],
-      "story" : "A Gothic town hall, begun in 1377 and opened in 1421. Bruges has been run from here for over six hundred years."
+      "story" : "The story goes that a king liked a judgement made here so much he said the chimneys deserved crowns. Two golden ones stand there."
     },
     {
-      "extendedStory" : "The tower is 122.3 metres high and built entirely of brick. You can pick it out from almost anywhere in the city. Work began in 1210, in the Gothic style, with Karel De Wulf among its builders. The church is named for Mary, in Dutch Onze-Lieve-Vrouw, which means Our Dear Lady. That is where the street beside it gets its name.",
+      "extendedStory" : "She had promised Our Lady a golden monstrance if the jewels ever came back, and she kept her word. The statue people queue for, though, is a small Madonna and Child, cut from white stone. A rich Bruges merchant family, the Mouscrons, bought it and gave it to this church. No other piece Michelangelo made travelled abroad while he was still alive.",
       "icon" : "choice",
       "id" : "f-onze-lieve-vrouwekerk",
       "kind" : "church",
       "localizedExtendedStory" : {
-        "de" : "Der Turm ist 122,3 Meter hoch und ganz aus Backstein. Von fast überall in der Stadt sieht man ihn. Gebaut wurde ab 1210, in Gotik, mit Karel De Wulf als einem der Baumeister. Die Kirche ist Maria geweiht, auf Niederländisch Onze-Lieve-Vrouw, unsere liebe Frau. Daher der Name der Straße nebenan.",
-        "en" : "The tower is 122.3 metres high and built entirely of brick. You can pick it out from almost anywhere in the city. Work began in 1210, in the Gothic style, with Karel De Wulf among its builders. The church is named for Mary, in Dutch Onze-Lieve-Vrouw, which means Our Dear Lady. That is where the street beside it gets its name."
+        "de" : "Sie hatte Unserer Lieben Frau eine goldene Monstranz versprochen, falls der Schmuck je wieder auftauchte, und sie hielt Wort. Wegen einer anderen Figur kommen die Leute aber hierher, einer kleinen Madonna mit Kind aus weißem Stein. Eine reiche Brügger Kaufmannsfamilie, die Mouscrons, kaufte sie und schenkte sie dieser Kirche. Kein anderes Werk von Michelangelo hat zu seinen Lebzeiten den Weg ins Ausland gefunden.",
+        "en" : "She had promised Our Lady a golden monstrance if the jewels ever came back, and she kept her word. The statue people queue for, though, is a small Madonna and Child, cut from white stone. A rich Bruges merchant family, the Mouscrons, bought it and gave it to this church. No other piece Michelangelo made travelled abroad while he was still alive."
       },
       "localizedStory" : {
-        "de" : "Der Backsteinturm misst 122,3 Meter. Über Brügge kommt nichts höher hinaus.",
-        "en" : "The brick tower stands 122.3 metres tall. Nothing in Bruges reaches higher."
+        "de" : "Der Sage nach sprang die Katze einer Witwe mit ihrem Schmuck aus dem Fenster. Am nächsten Morgen lief sie hier durch die Kirche.",
+        "en" : "The story goes that a widow's cat jumped out of a window wearing her jewels. Next morning it walked into this church."
       },
       "name" : "Onze-Lieve-Vrouwekerk",
       "pos" : [
         51.204335,
         3.224255
       ],
-      "story" : "The brick tower stands 122.3 metres tall. Nothing in Bruges reaches higher."
+      "story" : "The story goes that a widow's cat jumped out of a window wearing her jewels. Next morning it walked into this church."
     },
     {
-      "extendedStory" : "The court was laid out in 1244 for women who lived and worked together without entering a convent. The last beguine moved in in 1925. People still live here even so, a convent community and single women in the small white houses. In 1926 sixty-two poplars and limes were planted across the courtyard, replacing elms that had fallen sick. Under them, every spring, the whole grass comes up in daffodils.",
+      "extendedStory" : "A bronze bell about 30 centimetres tall lay in a back garden here, lost in the grass for years. Its inscription and its metal gave it away: it was cast for the church here in 1245. Nobody had noticed it there for something like sixty years. It stands behind glass in the Gruuthuse museum now, which is where you can go and look at it.",
       "icon" : "choice",
       "id" : "f-begijnhof-ten-wijngaerde",
       "kind" : "attraction",
       "localizedExtendedStory" : {
-        "de" : "Der Hof wurde 1244 angelegt, für Frauen, die zusammen lebten und arbeiteten, ohne in ein Kloster einzutreten. Die letzte Begine zog 1925 ein. Gewohnt wird hier trotzdem weiter: heute von einer Klostergemeinschaft und von alleinstehenden Frauen. 1926 wurden 62 Pappeln und Linden im Hof gepflanzt, als Ersatz für erkrankte Ulmen. Unter ihnen steht im Frühjahr die ganze Wiese voller Narzissen.",
-        "en" : "The court was laid out in 1244 for women who lived and worked together without entering a convent. The last beguine moved in in 1925. People still live here even so, a convent community and single women in the small white houses. In 1926 sixty-two poplars and limes were planted across the courtyard, replacing elms that had fallen sick. Under them, every spring, the whole grass comes up in daffodils."
+        "de" : "Eine Bronzeglocke von etwa 30 Zentimetern Höhe lag hier in einem Hintergarten, vom Gras überwuchert. Die Inschrift und das Metall verrieten sie dann doch: Gegossen wurde sie 1245 für die Kirche hier im Hof. Ungefähr sechzig Jahre lang hatte sie dort einfach niemand bemerkt. Heute steht sie hinter Glas im Gruuthusemuseum, ein Stück weiter in der Stadt. Im Frühjahr steht die Wiese hier voller Narzissen.",
+        "en" : "A bronze bell about 30 centimetres tall lay in a back garden here, lost in the grass for years. Its inscription and its metal gave it away: it was cast for the church here in 1245. Nobody had noticed it there for something like sixty years. It stands behind glass in the Gruuthuse museum now, which is where you can go and look at it."
       },
       "localizedStory" : {
-        "de" : "Ein stiller Hof von 1244, in dem noch immer gewohnt wird. Im Frühjahr steht die Wiese voller Narzissen.",
-        "en" : "A quiet courtyard from 1244, still lived in. In spring the whole lawn comes up in daffodils."
+        "de" : "Der Sage nach entstand das Wort Begine aus den Anfangssilben von drei Frauennamen: Beatrix, Ghyselghundis und Nazarena.",
+        "en" : "The story goes that the word beguine was built from the opening syllables of three women's names: Beatrix, Ghyselghundis and Nazarena."
       },
       "name" : "Begijnhof Ten Wijngaerde",
       "pos" : [
         51.201073,
         3.223044
       ],
-      "story" : "A quiet courtyard from 1244, still lived in. In spring the whole lawn comes up in daffodils."
+      "story" : "The story goes that the word beguine was built from the opening syllables of three women's names: Beatrix, Ghyselghundis and Nazarena."
     },
     {
-      "extendedStory" : "In 1200 the count of Flanders handed the lords of Gruuthuse a monopoly. They alone could sell gruut, a mix of bog myrtle and other local herbs. The recipe was often kept secret. The money it brought in shows in the house. In the 1470s Louis of Gruuthuse had a private oratory built. From it he and his wife followed the services next door in the Church of Our Lady. The palace has been a museum since 1876.",
+      "extendedStory" : "Louis of Gruuthuse and his wife Margareta van Borssele had a chapel of their own built in the 1470s. A stair was cut to join it to the Church of Our Lady, and the window looks straight into the choir. They could follow the service next door without stepping outside their house. The palace has been a museum since 1876, and the window is still there to find.",
       "icon" : "everyday",
       "id" : "f-gruuthusemuseum",
       "kind" : "fortress",
       "localizedExtendedStory" : {
-        "de" : "Der Graf von Flandern gab den Herren von Gruuthuse im Jahr 1200 ein Monopol. Sie allein durften Gruut verkaufen, eine Mischung aus Gagel und anderen heimischen Kräutern. Das Rezept blieb oft geheim. Reich geworden, ließ Ludwig von Gruuthuse sich in den 1470er Jahren ein privates Oratorium bauen. Von dort aus verfolgten er und seine Frau die Messen nebenan in der Liebfrauenkirche. Seit 1876 ist der Palast ein Museum.",
-        "en" : "In 1200 the count of Flanders handed the lords of Gruuthuse a monopoly. They alone could sell gruut, a mix of bog myrtle and other local herbs. The recipe was often kept secret. The money it brought in shows in the house. In the 1470s Louis of Gruuthuse had a private oratory built. From it he and his wife followed the services next door in the Church of Our Lady. The palace has been a museum since 1876."
+        "de" : "Ludwig von Gruuthuse und seine Frau Margareta van Borssele ließen sich in den 1470er Jahren eine eigene Kapelle bauen. Eine Treppe verband sie mit der Liebfrauenkirche, und das Fenster geht direkt auf den Chor. So folgten die beiden dem Gottesdienst nebenan, ohne das Haus zu verlassen. Seit 1876 ist der Palast ein Museum, und das Fenster kann man immer noch suchen.",
+        "en" : "Louis of Gruuthuse and his wife Margareta van Borssele had a chapel of their own built in the 1470s. A stair was cut to join it to the Church of Our Lady, and the window looks straight into the choir. They could follow the service next door without stepping outside their house. The palace has been a museum since 1876, and the window is still there to find."
       },
       "localizedStory" : {
-        "de" : "Diese Familie besaß ab 1200 das Gruutrecht: das alleinige Recht, eine geheime Kräutermischung zu verkaufen.",
-        "en" : "This family held the gruut right from 1200. Nobody else was allowed to sell a certain secret mix of herbs."
+        "de" : "Die Herren dieses Hauses ließen ein Fenster in die Kirchenwand nebenan brechen. So sahen sie die Messe von zu Hause aus.",
+        "en" : "The family here knocked a window through the church wall next door, so they could watch Mass from home."
       },
       "name" : "Gruuthusemuseum",
       "pos" : [
         51.204943,
         3.22516
       ],
-      "story" : "This family held the gruut right from 1200. Nobody else was allowed to sell a certain secret mix of herbs."
+      "story" : "The family here knocked a window through the church wall next door, so they could watch Mass from home."
     },
     {
-      "extendedStory" : "This tower was once the safest place in town. The city charters, the city seal and the town funds were kept up here. They sat in iron boxes with padlocks, in niches behind double wrought-iron doors. Between 1482 and 1486 an eight-sided sandstone stage was added on top. Forty-seven bells hang inside today, 26 of them the original 18th-century ones. Anyone who wants to hear them close up takes the 366 steps.",
+      "extendedStory" : "Somebody had filled in a watercourse under this spot, and the tower began to sink to one side. In 1554 heavy piers were set against its corners to stop it leaning further. Up at the top, behind double iron doors, the city kept its charters, its seal and its money. The tilt is easier to spot from the ground than from anywhere inside.",
       "icon" : "choice",
       "id" : "f-belfort",
       "kind" : "gate_tower",
       "localizedExtendedStory" : {
-        "de" : "Der Turm war einmal der sicherste Ort der Stadt. Hier oben lagen die Stadturkunden, das Stadtsiegel und die Stadtkasse. Sie steckten in Eisenkisten mit Vorhängeschlössern, in Nischen hinter doppelten schmiedeeisernen Türen. Zwischen 1482 und 1486 setzte man dem Turm noch einen achteckigen Sandsteinaufsatz auf. Heute hängen 47 Glocken darin, 26 davon die originalen aus dem 18. Jahrhundert. Wer sie aus der Nähe hören will, nimmt die 366 Stufen.",
-        "en" : "This tower was once the safest place in town. The city charters, the city seal and the town funds were kept up here. They sat in iron boxes with padlocks, in niches behind double wrought-iron doors. Between 1482 and 1486 an eight-sided sandstone stage was added on top. Forty-seven bells hang inside today, 26 of them the original 18th-century ones. Anyone who wants to hear them close up takes the 366 steps."
+        "de" : "Unter dieser Stelle hatte man einen Wasserlauf zugeschüttet, und der Turm sackte auf einer Seite ab. Das ging schon im Mittelalter los, und 1554 stellte man schwere Pfeiler an seine Ecken. Ganz oben, hinter doppelten Eisentüren, lagen die Stadturkunden, das Stadtsiegel und die Stadtkasse. Sie steckten in Eisenkisten mit Vorhängeschlössern. Die Schräge erkennt man vom Boden aus übrigens besser als drinnen im Turm.",
+        "en" : "Somebody had filled in a watercourse under this spot, and the tower began to sink to one side. In 1554 heavy piers were set against its corners to stop it leaning further. Up at the top, behind double iron doors, the city kept its charters, its seal and its money. The tilt is easier to spot from the ground than from anywhere inside."
       },
       "localizedStory" : {
-        "de" : "83 Meter hoch, und 366 Stufen führen hinauf. Ganz oben hängen 47 Glocken.",
-        "en" : "83 metres tall, and 366 steps lead to the top. Forty-seven bells hang up there."
+        "de" : "Tritt zurück und schau hinauf: Dieser Turm neigt sich 87 Zentimeter Richtung Wollestraat.",
+        "en" : "Stand back and look up: this tower leans 87 centimetres towards Wollestraat."
       },
       "name" : "Belfort",
       "pos" : [
         51.208232,
         3.224785
       ],
-      "story" : "83 metres tall, and 366 steps lead to the top. Forty-seven bells hang up there."
+      "story" : "Stand back and look up: this tower leans 87 centimetres towards Wollestraat."
     },
     {
-      "extendedStory" : "In 1294 the Augustinian friars were allowed to throw a bridge across the water straight in front of their friary. The one standing there now was built in 1391 by the Bruges master mason Jan van Oudenaerde. The best part of it shows once you are on it. Stone benches are built into the inside of the parapets. You can sit down out in the middle and watch the boats go under.",
+      "extendedStory" : "The friars of the Augustinian house were allowed to throw a bridge across the water in front of their door. The one standing there now was built in 1391 by a Bruges master mason, Jan van Oudenaerde. He gave the parapets a thick inside face and cut long benches into it, facing the water. Sit on one and you are sitting on a medieval shop front.",
       "icon" : "everyday",
       "id" : "f-augustijnenbrug",
       "kind" : "viewpoint",
       "localizedExtendedStory" : {
-        "de" : "1294 durften die Augustiner direkt vor ihrem Kloster eine Brücke über das Wasser schlagen. Die Brücke, die heute dort steht, baute 1391 der Brügger Baumeister Jan van Oudenaerde. Das Schöne daran sieht man erst, wenn man daraufsteht. In die Innenseiten der Brüstungen sind Steinbänke eingebaut. Man kann sich hinsetzen, mitten über dem Wasser, und den Booten zusehen.",
-        "en" : "In 1294 the Augustinian friars were allowed to throw a bridge across the water straight in front of their friary. The one standing there now was built in 1391 by the Bruges master mason Jan van Oudenaerde. The best part of it shows once you are on it. Stone benches are built into the inside of the parapets. You can sit down out in the middle and watch the boats go under."
+        "de" : "Die Augustiner durften 1294 direkt vor ihrem Kloster eine Brücke über das Wasser schlagen. Die Brücke, die heute dort steht, baute 1391 der Brügger Baumeister Jan van Oudenaerde. Er machte die Brüstungen innen dick genug für lange Steinbänke, mit Blick aufs Wasser. Händler breiteten dort ihre Ware aus, die Bank war ihr Verkaufstisch. Wer sich heute hinsetzt, sitzt auf einem mittelalterlichen Ladentisch.",
+        "en" : "The friars of the Augustinian house were allowed to throw a bridge across the water in front of their door. The one standing there now was built in 1391 by a Bruges master mason, Jan van Oudenaerde. He gave the parapets a thick inside face and cut long benches into it, facing the water. Sit on one and you are sitting on a medieval shop front."
       },
       "localizedStory" : {
-        "de" : "In die Brüstungen dieser Brücke sind Steinbänke eingebaut. Man kann sich also mitten aufs Wasser setzen.",
-        "en" : "Stone benches are built into this bridge's parapets. You can sit down right over the water."
+        "de" : "Setz dich auf diese Brücke. Die Steinbänke in den Brüstungen waren einmal Verkaufstische, die Ware lag darauf ausgebreitet.",
+        "en" : "Sit down on this bridge. Those stone benches in its walls were market counters, with goods laid out on them."
       },
       "name" : "Augustijnenbrug",
       "pos" : [
         51.213147,
         3.224787
       ],
-      "story" : "Stone benches are built into this bridge's parapets. You can sit down right over the water."
+      "story" : "Sit down on this bridge. Those stone benches in its walls were market counters, with goods laid out on them."
     },
     {
-      "extendedStory" : "Officially this little square has no name at all. On paper it counts as part of Katelijnestraat. Everyone in Bruges calls it the Ankerplaats regardless. The name comes from an inn called L'Ancre, the anchor, which goes back at least to the 16th century. A written mention of it turns up in 1579. The city's diamond museum stands on this square that is not a square.",
+      "extendedStory" : "In the tale the goldsmith is called Lodewijk van Berquen, and the disc has a name too, the scaif. It spins under a dusting of diamond powder, and that is what polishes a stone. Look around while you hear it, because this square is not officially a square at all. On paper it is part of Katelijnestraat, but people in Bruges call it the Ankerplaats anyway.",
       "icon" : "everyday",
       "id" : "f-ankerplein",
       "kind" : "square",
       "localizedExtendedStory" : {
-        "de" : "Offiziell hat dieser kleine Platz gar keinen Namen. Auf dem Papier gehört er zur Katelijnestraat. Die Brügger nennen ihn trotzdem alle Ankerplaats. Der Name kommt von einem Gasthaus namens L'Ancre, dem Anker, das mindestens bis ins 16. Jahrhundert zurückreicht. 1579 taucht es in einer Aufzeichnung auf. Heute liegt das Brügger Diamantmuseum an diesem Platz, den es offiziell nicht gibt.",
-        "en" : "Officially this little square has no name at all. On paper it counts as part of Katelijnestraat. Everyone in Bruges calls it the Ankerplaats regardless. The name comes from an inn called L'Ancre, the anchor, which goes back at least to the 16th century. A written mention of it turns up in 1579. The city's diamond museum stands on this square that is not a square."
+        "de" : "In der Geschichte heißt der Goldschmied Lodewijk van Berquen, und die Scheibe hat auch einen Namen, scaif. Sie dreht sich unter einer feinen Schicht Diamantstaub, und genau das schleift den Stein blank. Schau dich ruhig um, während du das hörst, denn dieser Platz ist offiziell gar kein Platz. Auf dem Papier gehört er zur Katelijnestraat, die Brügger nennen ihn trotzdem alle Ankerplaats.",
+        "en" : "In the tale the goldsmith is called Lodewijk van Berquen, and the disc has a name too, the scaif. It spins under a dusting of diamond powder, and that is what polishes a stone. Look around while you hear it, because this square is not officially a square at all. On paper it is part of Katelijnestraat, but people in Bruges call it the Ankerplaats anyway."
       },
       "localizedStory" : {
-        "de" : "Ein Platz, den es offiziell gar nicht gibt. Die Brügger nennen ihn trotzdem seit Jahrhunderten so.",
-        "en" : "A square that officially does not exist. People in Bruges have called it this for centuries anyway."
+        "de" : "Der Sage nach erfand ein Brügger Goldschmied die Drehscheibe, die einen Diamanten zum Glänzen bringt. Das Museum hier erzählt sie.",
+        "en" : "An old myth says a Bruges goldsmith invented the spinning disc that puts the shine on a diamond. The museum here tells it."
       },
       "name" : "Ankerplein",
       "pos" : [
         51.202792,
         3.225666
       ],
-      "story" : "A square that officially does not exist. People in Bruges have called it this for centuries anyway."
+      "story" : "An old myth says a Bruges goldsmith invented the spinning disc that puts the shine on a diamond. The museum here tells it."
     },
     {
-      "extendedStory" : "It turns up in writing as a parish church in 1086, and building work began in 1275. The cathedral title came much later, in 1834. The Bruges diocese was being re-founded, and the cathedral it had belonged to, Sint-Donaas, had already been demolished in 1799. So this church stepped up. A fire took the roofs and the top of the tower in 1839. The English architect R. Chantrell drew the replacement, built between 1843 and 1846.",
+      "extendedStory" : "For centuries this was a parish church and nothing grander, and it turns up in writing in 1086. The title came to it in 1834, when the Bruges diocese was set up again. The cathedral it had lived beside, Sint-Donaas, had been pulled down years earlier. Then a fire took the roofs and the top of the tower, and an English architect drew what replaced them.",
       "icon" : "everyday",
       "id" : "f-sint-salvatorskathedraal",
       "kind" : "church",
       "localizedExtendedStory" : {
-        "de" : "Als Pfarrkirche taucht sie 1086 erstmals in den Schriften auf, gebaut wurde ab 1275. Den Titel Kathedrale erbte sie erst 1834. Das Bistum Brügge wurde damals neu gegründet, und die bisherige Kathedrale Sint-Donaas war schon 1799 abgerissen worden. Also rückte diese Kirche nach. 1839 nahm ein Feuer die Dächer und die Turmspitze. Den Ersatz zeichnete der englische Architekt R. Chantrell, gebaut 1843 bis 1846.",
-        "en" : "It turns up in writing as a parish church in 1086, and building work began in 1275. The cathedral title came much later, in 1834. The Bruges diocese was being re-founded, and the cathedral it had belonged to, Sint-Donaas, had already been demolished in 1799. So this church stepped up. A fire took the roofs and the top of the tower in 1839. The English architect R. Chantrell drew the replacement, built between 1843 and 1846."
+        "de" : "Jahrhundertelang war das hier eine Pfarrkirche und sonst nichts, 1086 taucht sie in den Schriften auf. Den Kathedralentitel bekam sie 1834, als das Bistum Brügge neu gegründet wurde. Die Kathedrale nebenan, Sint-Donaas, war schon vorher abgerissen worden. Dann nahm ein Feuer die Dächer und die Turmspitze, und ein englischer Architekt zeichnete den Ersatz. Die Turmspitze, die du heute siehst, ist also jünger als die Kirche darunter.",
+        "en" : "For centuries this was a parish church and nothing grander, and it turns up in writing in 1086. The title came to it in 1834, when the Bruges diocese was set up again. The cathedral it had lived beside, Sint-Donaas, had been pulled down years earlier. Then a fire took the roofs and the top of the tower, and an English architect drew what replaced them."
       },
       "localizedStory" : {
-        "de" : "Kathedrale wurde sie 1834, als die eigentliche Kathedrale der Stadt längst abgerissen war.",
-        "en" : "It became a cathedral in 1834, long after the city's actual cathedral had been pulled down."
+        "de" : "Der Überlieferung nach stellte ein Heiliger um 646 eine Kapelle auf diesen Fleck, lange bevor jemand an eine Kathedrale dachte.",
+        "en" : "The story goes that a saint put a chapel on this spot around 646, long before anyone thought of a cathedral here."
       },
       "name" : "Sint-Salvatorskathedraal",
       "pos" : [
         51.205224,
         3.221684
       ],
-      "story" : "It became a cathedral in 1834, long after the city's actual cathedral had been pulled down."
+      "story" : "The story goes that a saint put a chapel on this spot around 646, long before anyone thought of a cathedral here."
     }
   ],
-  "generatedAt" : "2026-09-13T14:37:13Z",
+  "generatedAt" : "2026-09-17T20:11:11Z",
   "icon" : {
     "paths" : [
       "M 27.00,90.00 L 27.00,83.00 L 33.00,83.00 L 33.00,56.00 L 40.00,56.00 L 40.00,34.00 L 45.00,34.00 L 45.00,20.00 L 57.00,8.00 L 65.00,20.00 L 65.00,34.00 L 64.00,34.00 L 64.00,56.00 L 65.00,56.00 L 65.00,83.00 L 69.00,83.00 L 69.00,90.00 Z"
@@ -10357,7 +10356,7 @@
     "en" : "Bruges"
   },
   "name" : "Bruges",
-  "packVersion" : 12,
+  "packVersion" : 13,
   "schemaVersion" : 1,
   "source" : "OpenStreetMap via Overpass API",
   "stats" : {

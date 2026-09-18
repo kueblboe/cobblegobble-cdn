@@ -207,11 +207,9 @@
 
     ],
     "adjustedStreets" : [
-      "Bij Sint-Jacobs",
-      "Koophandelsplein",
-      "Veermanplein"
+
     ],
-    "fromVersion" : 7,
+    "fromVersion" : 9,
     "removedStreets" : [
 
     ]
@@ -8885,207 +8883,207 @@
   ],
   "fruits" : [
     {
-      "extendedStory" : "Count Philip of Alsace put this up in 1180, and he may have had the Krak des Chevaliers in mind. After him it worked for a living. Coins were struck here from 1353 and the court of Flanders sat here from 1407. It was a prison, and from 1807 a cotton mill with fifty worker families inside it. On 16 November 1949 students took it in a mock siege, in protest at a price rise.",
+      "extendedStory" : "Count Philip of Alsace put this castle up. Its outer ring is an ellipse carrying twenty four half circle towers that stand open at the back. The stone is Tournai limestone, set in a herringbone pattern in places, so look low at the masonry. Later it made coins, held the courts of Flanders, and ended as a cotton mill with families living inside. The students who locked themselves in were just the latest tenants.",
       "icon" : "hero",
       "id" : "f-gravensteen",
       "kind" : "fortress",
       "localizedExtendedStory" : {
-        "de" : "Graf Philipp von Elsass ließ sie 1180 errichten, womöglich mit dem Krak des Chevaliers im Sinn. Danach musste sie arbeiten. Ab 1353 wurden hier Münzen geschlagen, ab 1407 tagte der Gerichtshof Flanderns. Sie war Gefängnis, und ab 1807 Baumwollspinnerei mit fünfzig Arbeiterfamilien darin. Am 16. November 1949 nahmen Studenten sie im Scheinangriff, aus Protest gegen eine Preiserhöhung.",
-        "en" : "Count Philip of Alsace put this up in 1180, and he may have had the Krak des Chevaliers in mind. After him it worked for a living. Coins were struck here from 1353 and the court of Flanders sat here from 1407. It was a prison, and from 1807 a cotton mill with fifty worker families inside it. On 16 November 1949 students took it in a mock siege, in protest at a price rise."
+        "de" : "Graf Philipp von Elsass ließ die Burg errichten. Ihre Ringmauer bildet eine Ellipse mit vierundzwanzig halbrunden Türmen, die nach hinten offen stehen. Der Stein ist Tournai-Kalkstein, an mehreren Stellen im Fischgrätmuster verlegt, also schau unten an die Mauer. Später wurden hier Münzen geschlagen, Recht gesprochen, und zuletzt zog eine Baumwollspinnerei mit Arbeiterfamilien ein. Die eingeschlossenen Studenten waren nur die jüngsten Bewohner.",
+        "en" : "Count Philip of Alsace put this castle up. Its outer ring is an ellipse carrying twenty four half circle towers that stand open at the back. The stone is Tournai limestone, set in a herringbone pattern in places, so look low at the masonry. Later it made coins, held the courts of Flanders, and ended as a cotton mill with families living inside. The students who locked themselves in were just the latest tenants."
       },
       "localizedStory" : {
-        "de" : "Eine Grafenburg von 1180, die später Münzen prägte, Recht sprach, Menschen einsperrte und Baumwolle spann.",
-        "en" : "A count's castle of 1180 that later made coins, held courts, locked people up, and spun cotton."
+        "de" : "Man erzählt, Studenten hätten sich einst in dieser Burg eingeschlossen. Tausend von ihnen kommen jedes Jahr wieder und machen es noch einmal.",
+        "en" : "The story goes that students once shut themselves inside this castle. A thousand of them still come back every year to do it again."
       },
       "name" : "Gravensteen",
       "pos" : [
         51.057243,
         3.721139
       ],
-      "story" : "A count's castle of 1180 that later made coins, held courts, locked people up, and spun cotton."
+      "story" : "The story goes that students once shut themselves inside this castle. A thousand of them still come back every year to do it again."
     },
     {
-      "extendedStory" : "The church belongs to Saint Bavo, a Ghent man who gave away his land and went to live as a hermit. The building is Gothic and it took a very long time. Work was still going on in 1559. Cathedrals were not built by one generation. They were handed down, half finished, to whoever came next.",
+      "extendedStory" : "What fills the gap today is a copy, painted to stand in for what went missing. The case has never been closed, and new ideas about the hiding place keep arriving. Every search so far has come back empty. Go down instead into the vaults below the church. An earlier one had four aisles, and the two middle ones are still standing.",
       "icon" : "choice",
       "id" : "f-sint-baafskathedraal",
       "kind" : "church",
       "localizedExtendedStory" : {
-        "de" : "Die Kirche gehört dem heiligen Bavo, einem Genter, der sein Land weggab und als Einsiedler lebte. Der Bau ist gotisch und dauerte sehr lange. 1559 wurde noch daran gearbeitet. Kathedralen baute nicht eine Generation. Sie wurden halbfertig weitergereicht, an wen auch immer als Nächstes kam.",
-        "en" : "The church belongs to Saint Bavo, a Ghent man who gave away his land and went to live as a hermit. The building is Gothic and it took a very long time. Work was still going on in 1559. Cathedrals were not built by one generation. They were handed down, half finished, to whoever came next."
+        "de" : "In der Lücke steckt heute eine Kopie, die eigens als Ersatz für das Verschwundene gemalt wurde. Der Fall ist nie geschlossen worden, und man erzählt sich immer neue Vermutungen zum Versteck. Gefunden hat bisher keiner etwas, weder damals noch später. Steig stattdessen hinunter in die Gewölbe unter der Kirche. Ein früherer Bau hatte dort vier Schiffe, zwei davon stehen noch.",
+        "en" : "What fills the gap today is a copy, painted to stand in for what went missing. The case has never been closed, and new ideas about the hiding place keep arriving. Every search so far has come back empty. Go down instead into the vaults below the church. An earlier one had four aisles, and the two middle ones are still standing."
       },
       "localizedStory" : {
-        "de" : "Eine gotische Kathedrale für den heiligen Bavo, an der 1559 noch gebaut wurde.",
-        "en" : "A Gothic cathedral for Saint Bavo, whose building work was still going on in 1559."
+        "de" : "Wohin die Gerechten Richter verschwunden sind, weiß bis heute keiner. Das Bild fehlt seither im Altar, und aufgetaucht ist es nie.",
+        "en" : "No one knows where the Just Judges went. That piece of the altarpiece vanished from here and has never turned up."
       },
       "name" : "Sint-Baafskathedraal",
       "pos" : [
         51.05312,
         3.726406
       ],
-      "story" : "A Gothic cathedral for Saint Bavo, whose building work was still going on in 1559."
+      "story" : "No one knows where the Just Judges went. That piece of the altarpiece vanished from here and has never turned up."
     },
     {
-      "extendedStory" : "Jan van Haelst drew this tower and work began in 1313. It rises 95 metres, in the Brabantine Gothic manner, which likes its towers tall and its stonework busy. A belfry was a townspeople's building rather than a lord's or a bishop's. That is the point of it. Ghent put its height into a tower that belonged to the city itself.",
+      "extendedStory" : "Close to, the dragon is metalwork, not a monster. It is built from 130 pieces of copper, held together by 1,298 rivets. Gold leaf lies crosswise across every bit of it, so it catches the light. The one turning there now was made by a Ghent metal firm, so the city keeps replacing its own dragon. The tower beneath it belonged to the townspeople, not to a lord or a bishop.",
       "icon" : "choice",
       "id" : "f-belfort",
       "kind" : "gate_tower",
       "localizedExtendedStory" : {
-        "de" : "Jan van Haelst entwarf diesen Turm, 1313 begannen die Arbeiten. Er ragt 95 Meter auf, in brabantischer Gotik, die hohe Türme und reiches Steinwerk mag. Ein Belfried war ein Bau der Bürger, nicht des Herrn und nicht des Bischofs. Genau darum geht es. Gent steckte seine Höhe in einen Turm, der der Stadt selbst gehörte.",
-        "en" : "Jan van Haelst drew this tower and work began in 1313. It rises 95 metres, in the Brabantine Gothic manner, which likes its towers tall and its stonework busy. A belfry was a townspeople's building rather than a lord's or a bishop's. That is the point of it. Ghent put its height into a tower that belonged to the city itself."
+        "de" : "Aus der Nähe ist der Drache Metallarbeit und kein Untier. Er besteht aus 130 Kupferstücken, die 1.298 Nieten zusammenhalten. Blattgold liegt kreuzweise darüber, deshalb fängt er jedes bisschen Licht. Der Drache, der sich heute dreht, kam aus einer Genter Metallwerkstatt, die Stadt ersetzt ihren Drachen also selbst. Der Turm unter ihm gehörte den Bürgern, nicht einem Herrn und nicht einem Bischof.",
+        "en" : "Close to, the dragon is metalwork, not a monster. It is built from 130 pieces of copper, held together by 1,298 rivets. Gold leaf lies crosswise across every bit of it, so it catches the light. The one turning there now was made by a Ghent metal firm, so the city keeps replacing its own dragon. The tower beneath it belonged to the townspeople, not to a lord or a bishop."
       },
       "localizedStory" : {
-        "de" : "Ein Turm von 1313, 95 Meter hoch. Die Stadt baute ihn, um ihre eigenen Urkunden zu sichern.",
-        "en" : "A tower of 1313 that stands 95 metres up. The city built it to keep its own charters safe."
+        "de" : "Der Sage nach kam der goldene Drache auf dem Turm aus Konstantinopel. Brügge trug ihn heim, und Gent bekam ihn erst später.",
+        "en" : "The story goes that the golden dragon up there came from Constantinople. Bruges carried it home, and Ghent got it later."
       },
       "name" : "Belfort",
       "pos" : [
         51.053661,
         3.724791
       ],
-      "story" : "A tower of 1313 that stands 95 metres up. The city built it to keep its own charters safe."
+      "story" : "The story goes that the golden dragon up there came from Constantinople. Bruges carried it home, and Ghent got it later."
     },
     {
-      "extendedStory" : "Building began in 1201 and the style is Gothic. Nicholas is the patron of merchants and sailors, and this church went up where Ghent did its trading. The tower stands about 21 metres over the roofline. Stand on the bridge nearby and you can line it up with the belfry and the cathedral tower behind it. Three towers, one after another, is the view Ghent is known for.",
+      "extendedStory" : "The tower watchmen sat up there too, keeping an eye over the roofs of the whole city. Not until 1442 did they cross to the newer belfry, so this tower had the job for centuries. The bell that hung here was called a banklok, from the old word for an official announcement. When it rang, Ghent stopped what it was doing and listened.",
       "icon" : "choice",
       "id" : "f-sint-niklaaskerk",
       "kind" : "church",
       "localizedExtendedStory" : {
-        "de" : "Der Bau begann 1201, der Stil ist gotisch. Nikolaus ist Schutzpatron der Kaufleute und Seeleute, und diese Kirche entstand dort, wo Gent Handel trieb. Der Turm steht etwa 21 Meter über dem Dach. Von der Brücke nebenan bringt man ihn mit dem Belfried und dem Kathedralturm auf eine Linie. Drei Türme hintereinander, das ist die Ansicht, für die Gent bekannt ist.",
-        "en" : "Building began in 1201 and the style is Gothic. Nicholas is the patron of merchants and sailors, and this church went up where Ghent did its trading. The tower stands about 21 metres over the roofline. Stand on the bridge nearby and you can line it up with the belfry and the cathedral tower behind it. Three towers, one after another, is the view Ghent is known for."
+        "de" : "Auch die Türmer saßen dort oben und hielten Ausschau über die Dächer der ganzen Stadt, weit hinaus. Erst 1442 wechselten sie hinüber zum neueren Belfried, davor hing der ganze Dienst an diesem Turm. Die Glocke hier hieß banklok, nach dem alten Wort für eine amtliche Bekanntmachung. Wenn sie läutete, hielt die Stadt inne und hörte zu, ob nun Markt war oder Werktag.",
+        "en" : "The tower watchmen sat up there too, keeping an eye over the roofs of the whole city. Not until 1442 did they cross to the newer belfry, so this tower had the job for centuries. The bell that hung here was called a banklok, from the old word for an official announcement. When it rang, Ghent stopped what it was doing and listened."
       },
       "localizedStory" : {
-        "de" : "Eine Kirche für den heiligen Nikolaus, 1201 begonnen, von Händlern mitten in ihrem Markt gebaut.",
-        "en" : "A church for Saint Nicholas, begun in 1201, built by traders in the middle of their own market."
+        "de" : "Bevor Gent einen Belfried hatte, war dieser Kirchturm einer. Die Glocke der Stadt hing hier drin und läutete ihre Bekanntmachungen aus.",
+        "en" : "Before Ghent had a belfry, this church tower was one. The city's own bell hung in here and rang out its announcements."
       },
       "name" : "Sint-Niklaaskerk",
       "pos" : [
         51.053876,
         3.722436
       ],
-      "story" : "A church for Saint Nicholas, begun in 1201, built by traders in the middle of their own market."
+      "story" : "Before Ghent had a belfry, this church tower was one. The city's own bell hung in here and rang out its announcements."
     },
     {
-      "extendedStory" : "Dominikus De Waghemakere began this town hall in 1519, in Gothic. Look along the front as you walk it. The style does not hold: one stretch is late Gothic, busy with carved stone, and the next is calmer and flatter. Building stopped and started over generations, and each restart followed whatever was in fashion. The wall is a record of how long it took.",
+      "extendedStory" : "Various things got in the way, and just a small part of the drawing was ever built. The drawings themselves survive, which is how anyone knows what was meant. Inside there are 51 rooms, one of them the chapel where Ghent folk still marry. In another, a labyrinth of black and white stone lies in the floor. Clays Triest had it laid in the room where the aldermen gave judgement, copying the pattern at Saint Omer.",
       "icon" : "everyday",
       "id" : "f-stadhuis-gent",
       "kind" : "civic",
       "localizedExtendedStory" : {
-        "de" : "Dominikus De Waghemakere begann dieses Rathaus 1519, in Gotik. Geh die Front einmal ab und schau hin. Der Stil hält nicht durch: ein Stück ist Spätgotik voller gehauenem Stein, das nächste ruhiger und flacher. Der Bau stockte und begann über Generationen neu, und jeder Neuanfang folgte der jeweiligen Mode. Die Wand ist ein Protokoll der Bauzeit.",
-        "en" : "Dominikus De Waghemakere began this town hall in 1519, in Gothic. Look along the front as you walk it. The style does not hold: one stretch is late Gothic, busy with carved stone, and the next is calmer and flatter. Building stopped and started over generations, and each restart followed whatever was in fashion. The wall is a record of how long it took."
+        "de" : "Allerlei kam dazwischen, und gebaut wurde am Ende nur ein kleiner Teil des Entwurfs. Die Zeichnungen sind erhalten, deshalb weiß man überhaupt, was gemeint war. Drinnen liegen 51 Räume, einer davon die Kapelle, in der Genter bis heute heiraten. In einem anderen liegt ein Labyrinth aus schwarzem und weißem Stein im Boden. Clays Triest ließ es dort verlegen, wo die Schöffen Recht sprachen, nach dem Vorbild von Saint Omer.",
+        "en" : "Various things got in the way, and just a small part of the drawing was ever built. The drawings themselves survive, which is how anyone knows what was meant. Inside there are 51 rooms, one of them the chapel where Ghent folk still marry. In another, a labyrinth of black and white stone lies in the floor. Clays Triest had it laid in the room where the aldermen gave judgement, copying the pattern at Saint Omer."
       },
       "localizedStory" : {
-        "de" : "Ein Rathaus, 1519 von Dominikus De Waghemakere begonnen, in gotischer Bauweise.",
-        "en" : "A town hall begun in 1519 by Dominikus De Waghemakere, in the Gothic manner."
+        "de" : "Die Fassade war viel größer geplant. Ihre leeren Nischen sollten die Grafen von Flandern aufnehmen, und blieben doch für immer leer.",
+        "en" : "Somebody drew this front far larger than it ever got built. Its empty niches were meant to hold the counts of Flanders."
       },
       "name" : "Stadhuis Gent",
       "pos" : [
         51.054703,
         3.72511
       ],
-      "story" : "A town hall begun in 1519 by Dominikus De Waghemakere, in the Gothic manner."
+      "story" : "Somebody drew this front far larger than it ever got built. Its empty niches were meant to hold the counts of Flanders."
     },
     {
-      "extendedStory" : "This is not a cast gun. It was forged, barrel and chamber built up out of iron bands welded round each other, for the dukes of Burgundy. Look at the back of the chamber. You will find the Burgundian cross of Saint Andrew, with the flint and firesteel of the Golden Fleece in the corners. It came from Oudenaarde in 1578 to help hold off the Spanish, and was no use at all.",
+      "extendedStory" : "It is painted red again now, and the paint is there to keep the rust off. For all that, it has never been fired. It was dragged here from Oudenaarde to help defend the city, and turned out to be no use at all. It was forged rather than cast, out of iron bands welded into a barrel and a chamber. Look on the back of the chamber for the cross of Burgundy, with a flint and a firesteel in the corners.",
       "icon" : "choice",
       "id" : "f-dulle-griet",
       "kind" : "attraction",
       "localizedExtendedStory" : {
-        "de" : "Dies ist kein gegossenes Geschütz. Rohr und Kammer wurden geschmiedet, aus Eisenbändern, die man umeinander schweißte, für die Herzöge von Burgund. Schau hinten an der Kammer nach dem burgundischen Andreaskreuz, mit Feuerstein und Feuerstahl des Goldenen Vlieses in den Ecken. 1578 kam es aus Oudenaarde, um die Spanier abzuwehren. Es taugte gar nichts und wurde auf Holzböcke gelegt.",
-        "en" : "This is not a cast gun. It was forged, barrel and chamber built up out of iron bands welded round each other, for the dukes of Burgundy. Look at the back of the chamber. You will find the Burgundian cross of Saint Andrew, with the flint and firesteel of the Golden Fleece in the corners. It came from Oudenaarde in 1578 to help hold off the Spanish, and was no use at all."
+        "de" : "Heute ist es wieder rot gestrichen, und die Farbe hält den Rost ab. Abgefeuert worden ist es trotzdem nie. Man schleppte es aus Oudenaarde herbei, um die Stadt zu schützen, und dann taugte es zu gar nichts. Geschmiedet ist es, nicht gegossen: Eisenbänder, zusammengeschweißt zu Rohr und Kammer. Schau hinten an der Kammer nach dem Kreuz von Burgund, mit Feuerstein und Feuerstahl in den Ecken.",
+        "en" : "It is painted red again now, and the paint is there to keep the rust off. For all that, it has never been fired. It was dragged here from Oudenaarde to help defend the city, and turned out to be no use at all. It was forged rather than cast, out of iron bands welded into a barrel and a chamber. Look on the back of the chamber for the cross of Burgundy, with a flint and a firesteel in the corners."
       },
       "localizedStory" : {
-        "de" : "Ein geschmiedetes Eisengeschütz aus verschweißten Bändern, für die Herzöge von Burgund gemacht.",
-        "en" : "A forged iron gun built up out of welded bands, made for the dukes of Burgundy."
+        "de" : "Der Sage nach hieß dieses große Geschütz früher der große rote Teufel, nach der Farbe, die es einst trug.",
+        "en" : "The story goes that this great gun got the name big red devil, from the colour it once wore."
       },
       "name" : "Dulle Griet",
       "pos" : [
         51.057304,
         3.724116
       ],
-      "story" : "A forged iron gun built up out of welded bands, made for the dukes of Burgundy."
+      "story" : "The story goes that this great gun got the name big red devil, from the colour it once wore."
     },
     {
-      "extendedStory" : "In 1903 a group of people who cared about design and industry banded together as the Union des Arts Industriels et Decoratifs. What they gathered became this collection. In 1922 it moved into the Hotel de Coninck on Jan Breydelstraat, a house the city had bought a few years earlier. The holding now runs to nearly 22,000 objects. It began as enthusiasts pooling what they liked.",
+      "extendedStory" : "The new wing has a front nobody else has. Its bricks were made in Ghent for this building, and 63 per cent of each one is the city's own pressed waste. There are 80,000 of them in that wall. The collection itself began with a group of people who simply liked good design and banded together. It has grown ever since, and the old house and the new wing hold it between them.",
       "icon" : "everyday",
       "id" : "f-design-museum-gent",
       "kind" : "museum",
       "localizedExtendedStory" : {
-        "de" : "1903 schlossen sich Leute, denen Gestaltung und Gewerbe am Herzen lagen, zur Union des Arts Industriels et Decoratifs zusammen. Was sie zusammentrugen, wurde diese Sammlung. 1922 zog sie in das Hotel de Coninck an der Jan Breydelstraat, ein Haus, das die Stadt Jahre zuvor gekauft hatte. Heute umfasst der Bestand fast 22.000 Stücke. Angefangen hat es damit, dass Liebhaber zusammenlegten.",
-        "en" : "In 1903 a group of people who cared about design and industry banded together as the Union des Arts Industriels et Decoratifs. What they gathered became this collection. In 1922 it moved into the Hotel de Coninck on Jan Breydelstraat, a house the city had bought a few years earlier. The holding now runs to nearly 22,000 objects. It began as enthusiasts pooling what they liked."
+        "de" : "Der neue Flügel hat eine Fassade, wie sie sonst niemand hat. Die Ziegel wurden in Gent eigens dafür gebrannt, und 63 Prozent von jedem sind gepresster Abfall aus der Stadt. 80.000 Stück stecken in dieser Wand. Die Sammlung fing mit Leuten an, die einfach gutes Gestalten mochten und sich zusammentaten. Seither wächst sie weiter, und das Vorderhaus und der neue Flügel teilen sie sich.",
+        "en" : "The new wing has a front nobody else has. Its bricks were made in Ghent for this building, and 63 per cent of each one is the city's own pressed waste. There are 80,000 of them in that wall. The collection itself began with a group of people who simply liked good design and banded together. It has grown ever since, and the old house and the new wing hold it between them."
       },
       "localizedStory" : {
-        "de" : "1903 taten sich Designliebhaber zusammen, und ihre Sammlung umfasst heute fast 22.000 Stücke.",
-        "en" : "A group of design lovers banded together in 1903, and their collection now runs to nearly 22,000 things."
+        "de" : "Unter diesem Museum liegen Keller und Küche einer Herberge namens De Gulden Appel, der Goldene Apfel, die hier vorher stand.",
+        "en" : "Under this museum lie the cellars and kitchen of an old inn called the Golden Apple, which was here before it."
       },
       "name" : "Design Museum Gent",
       "pos" : [
         51.055536,
         3.719834
       ],
-      "story" : "A group of design lovers banded together in 1903, and their collection now runs to nearly 22,000 things."
+      "story" : "Under this museum lie the cellars and kitchen of an old inn called the Golden Apple, which was here before it."
     },
     {
-      "extendedStory" : "The house dates from 1225. It is Gothic work, from the age when a rich family in Ghent built in stone to show it could. The name belongs to Geeraard de Duivel, which is to say Geeraard the Devil. Nobody walking past it now gets a say in the nickname. It stuck, and eight centuries later the building still answers to it.",
+      "extendedStory" : "He seems to have liked the name. Charters survive in which he signs himself Geeraard of Ghent, knight, called the Devil. The house outlasted him by a long way and kept changing jobs. At different times it held a weapons store, a school, a seminary, an orphanage and a fire station, among other things. Today it keeps the State Archives, which is to say it is full of paper.",
       "icon" : "everyday",
       "id" : "f-geeraard-de-duivelsteen",
       "kind" : "fortress",
       "localizedExtendedStory" : {
-        "de" : "Das Haus stammt von 1225. Es ist gotische Arbeit, aus der Zeit, als eine reiche Genter Familie in Stein baute, um zu zeigen, dass sie es konnte. Der Name gehört Geeraard de Duivel, also Geeraard dem Teufel. Wer heute vorbeigeht, hat beim Spitznamen kein Mitspracherecht. Er blieb hängen, und nach acht Jahrhunderten hört das Haus noch darauf.",
-        "en" : "The house dates from 1225. It is Gothic work, from the age when a rich family in Ghent built in stone to show it could. The name belongs to Geeraard de Duivel, which is to say Geeraard the Devil. Nobody walking past it now gets a say in the nickname. It stuck, and eight centuries later the building still answers to it."
+        "de" : "Der Beiname hat ihm offenbar gefallen. Es sind Urkunden erhalten, die er selbst als Geeraard von Gent, Ritter, genannt der Teufel, unterschrieben hat. Das Haus überlebte ihn um Jahrhunderte und wechselte dabei immer wieder den Beruf. Es war unter anderem Waffenlager, Schule, Priesterseminar, Waisenhaus und Feuerwache. Heute liegt das Staatsarchiv darin, es ist also von unten bis oben mit Papier gefüllt.",
+        "en" : "He seems to have liked the name. Charters survive in which he signs himself Geeraard of Ghent, knight, called the Devil. The house outlasted him by a long way and kept changing jobs. At different times it held a weapons store, a school, a seminary, an orphanage and a fire station, among other things. Today it keeps the State Archives, which is to say it is full of paper."
       },
       "localizedStory" : {
-        "de" : "Ein gotisches Steinhaus von 1225, benannt nach einem Mann, den man Geeraard den Teufel nannte.",
-        "en" : "A Gothic stone house of 1225, named for a man they called Geeraard the Devil."
+        "de" : "Man erzählt, der Ritter hier sei mit rabenschwarzem Haar zur Welt gekommen, und genau davon habe er seinen Beinamen der Teufel bekommen.",
+        "en" : "People say the knight here was born with hair black as a raven. That is how he got the name the Devil."
       },
       "name" : "Geeraard de Duivelsteen",
       "pos" : [
         51.051916,
         3.728319
       ],
-      "story" : "A Gothic stone house of 1225, named for a man they called Geeraard the Devil."
+      "story" : "People say the knight here was born with hair black as a raven. That is how he got the name the Devil."
     },
     {
-      "extendedStory" : "Count Emmanuel-Ignace d'Hane and his son built this, and the two fronts do not match on purpose. The street side is Louis XV of 1768. The garden side is Louis XVI of 1773, five years and one whole change of fashion later. In 1815, during the Hundred Days, Louis XVIII of France waited here while Napoleon was at large. A borrowed house in Ghent held a king with nowhere to be.",
+      "extendedStory" : "Louis the Eighteenth of France sat out his exile in this house. They say he lodged on the ground floor. Through the open windows people could stand in the street and watch him at table. When he finally went home he thanked his host with a porcelain dessert service, now kept in the city museum. The street front and the garden front were built in different styles a few years apart.",
       "icon" : "everyday",
       "id" : "f-hotel-d-hane-steenhuyse",
       "kind" : "fortress",
       "localizedExtendedStory" : {
-        "de" : "Graf Emmanuel-Ignace d'Hane und sein Sohn bauten dies, und die zwei Fassaden passen absichtlich nicht zusammen. Die Straßenseite ist Louis-quinze von 1768. Die Gartenseite ist Louis-seize von 1773, fünf Jahre und einen ganzen Modewechsel später. 1815, während der Hundert Tage, wartete hier Ludwig XVIII. von Frankreich, während Napoleon frei war. Ein geliehenes Haus in Gent beherbergte einen König ohne Ort.",
-        "en" : "Count Emmanuel-Ignace d'Hane and his son built this, and the two fronts do not match on purpose. The street side is Louis XV of 1768. The garden side is Louis XVI of 1773, five years and one whole change of fashion later. In 1815, during the Hundred Days, Louis XVIII of France waited here while Napoleon was at large. A borrowed house in Ghent held a king with nowhere to be."
+        "de" : "Der Gast war Ludwig der Achtzehnte von Frankreich, der hier sein Exil aussaß. Er wohnte, so erzählt man, im Erdgeschoss. Durch die offenen Fenster konnten die Genter auf der Straße stehen und ihm beim Essen zusehen. Als er heimfuhr, dankte er seinem Gastgeber mit einem Dessertservice aus Porzellan, das heute im Stadtmuseum liegt. Straßenfassade und Gartenfassade stammen aus verschiedenen Stilen, wenige Jahre auseinander.",
+        "en" : "Louis the Eighteenth of France sat out his exile in this house. They say he lodged on the ground floor. Through the open windows people could stand in the street and watch him at table. When he finally went home he thanked his host with a porcelain dessert service, now kept in the city museum. The street front and the garden front were built in different styles a few years apart."
       },
       "localizedStory" : {
-        "de" : "Ein König von Frankreich saß hier 1815 sein Exil ab, während Napoleon wieder auf freiem Fuß war.",
-        "en" : "A king of France sat out his exile in this house in 1815, while Napoleon was loose again."
+        "de" : "Man erzählt, Gent habe aus der Zahl des geflüchteten Königs einen Witz gemacht. Aus Louis dix huit wurde Lowie die zwiet.",
+        "en" : "The story goes that Ghent made a joke of the exiled king's number. Louis dix huit came out as Lowie die zwiet."
       },
       "name" : "Hotel d'Hane-Steenhuyse",
       "pos" : [
         51.051603,
         3.721753
       ],
-      "story" : "A king of France sat out his exile in this house in 1815, while Napoleon was loose again."
+      "story" : "The story goes that Ghent made a joke of the exiled king's number. Louis dix huit came out as Lowie die zwiet."
     },
     {
-      "extendedStory" : "David 't Kindt was an architect. He bought this plot in 1746 and raised a townhouse on it in the Louis XV manner. What he cleared away was the Dammansteen, the Romanesque stone house of Jan Damman, lord of Oombergen. The academy itself was set up in 1886 to study Dutch seriously. It moved into these rooms in 1892 and has stayed, so a house built for money now holds people arguing about words.",
+      "extendedStory" : "The academy that works here says there is no other room like it in Ghent. The building is worth a look from far off too. From the top corner of the Lange Munt a straight view more than six hundred metres long opens onto it. David 't Kindt built it where an old stone house of the Damman family had stood. The academy for the Dutch language moved in and has kept it ever since.",
       "icon" : "everyday",
       "id" : "f-koninklijke-academie-voor-nederlandse-taal-en-letterkunde",
       "kind" : "fortress",
       "localizedExtendedStory" : {
-        "de" : "David 't Kindt war Architekt, kaufte 1746 dieses Grundstück und setzte ein Stadthaus im Stil Ludwigs XV. darauf. Weggeräumt hatte er den Dammansteen, das romanische Steinhaus von Jan Damman, Herrn von Oombergen. Die Akademie selbst entstand 1886, um das Niederländische ernsthaft zu erforschen. 1892 zog sie in diese Räume und blieb. Ein Haus für Geld beherbergt heute Leute, die über Wörter streiten.",
-        "en" : "David 't Kindt was an architect. He bought this plot in 1746 and raised a townhouse on it in the Louis XV manner. What he cleared away was the Dammansteen, the Romanesque stone house of Jan Damman, lord of Oombergen. The academy itself was set up in 1886 to study Dutch seriously. It moved into these rooms in 1892 and has stayed, so a house built for money now holds people arguing about words."
+        "de" : "Die Akademie, die hier sitzt, sagt, ein solches Zimmer gebe es in Gent kein zweites. Auch von weitem lohnt der Blick auf das Haus. Von der Nordecke der Lange Munt öffnet sich eine gerade Sicht von mehr als sechshundert Metern darauf. David 't Kindt baute das Haus dort, wo vorher ein altes Steinhaus der Familie Damman stand. Die Akademie für die niederländische Sprache zog ein und blieb.",
+        "en" : "The academy that works here says there is no other room like it in Ghent. The building is worth a look from far off too. From the top corner of the Lange Munt a straight view more than six hundred metres long opens onto it. David 't Kindt built it where an old stone house of the Damman family had stood. The academy for the Dutch language moved in and has kept it ever since."
       },
       "localizedStory" : {
-        "de" : "Ein Rokoko-Stadthaus von 1746, das ein mittelalterliches Steinhaus ersetzte und seit 1892 eine Sprachakademie beherbergt.",
-        "en" : "A rococo townhouse of 1746 that replaced a medieval stone house, and has kept a language academy since 1892."
+        "de" : "Eine steile schmale Treppe führt hier hinauf zu einem Kuppelzimmer unter dem Dach, mit Aussicht in alle Himmelsrichtungen.",
+        "en" : "A steep little stair climbs to a dome room under the roof. From there the view runs to every point of the compass."
       },
       "name" : "Koninklijke Academie voor Nederlandse Taal- en Letterkunde",
       "pos" : [
         51.055349,
         3.728105
       ],
-      "story" : "A rococo townhouse of 1746 that replaced a medieval stone house, and has kept a language academy since 1892."
+      "story" : "A steep little stair climbs to a dome room under the roof. From there the view runs to every point of the compass."
     }
   ],
-  "generatedAt" : "2026-09-13T14:37:30Z",
+  "generatedAt" : "2026-09-17T20:56:26Z",
   "icon" : {
     "paths" : [
       "M 32.00 40.00 L 68.00 40.00 L 68.00 90.00 L 32.00 90.00 Z M 29.00 87.00 L 71.00 87.00 L 71.00 91.00 L 29.00 91.00 Z M 28.00 38.00 L 72.00 38.00 L 72.00 42.00 L 28.00 42.00 Z M 28.00 30.00 L 35.00 30.00 L 35.00 40.00 L 28.00 40.00 Z M 28.00 30.00 L 35.00 30.00 L 31.50 26.00 Z M 65.00 30.00 L 72.00 30.00 L 72.00 40.00 L 65.00 40.00 Z M 65.00 30.00 L 72.00 30.00 L 68.50 26.00 Z M 38.00 30.00 L 62.00 30.00 L 50.00 6.00 Z M 35.00 28.00 L 65.00 28.00 L 65.00 32.00 L 35.00 32.00 Z M 47.00 3.00 L 53.00 3.00 L 53.00 8.00 L 47.00 8.00 Z M 46.00 8.00 L 54.00 8.00 L 50.00 3.00 Z M 44.00 48.00 L 44.00 62.00 L 56.00 62.00 L 56.00 48.00 Z"
@@ -9098,7 +9096,7 @@
     "en" : "Ghent"
   },
   "name" : "Ghent",
-  "packVersion" : 8,
+  "packVersion" : 10,
   "schemaVersion" : 1,
   "source" : "OpenStreetMap via Overpass API",
   "stats" : {

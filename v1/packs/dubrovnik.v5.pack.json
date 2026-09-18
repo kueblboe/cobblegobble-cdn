@@ -419,9 +419,9 @@
 
     ],
     "adjustedStreets" : [
-      "Maestra Đela Jusića"
+
     ],
-    "fromVersion" : 3,
+    "fromVersion" : 4,
     "removedStreets" : [
 
     ]
@@ -5668,167 +5668,167 @@
   ],
   "fruits" : [
     {
-      "extendedStory" : "Two disasters shaped this building. Fire took it in 1435, and Onofrio della Cava put it back together. Then the powder stored inside went up in 1463 and took it down again. The city looked at Michelozzo's repair design in 1464 and said no. Salvi di Michele got the job from 1467, and his is the front you see.",
+      "extendedStory" : "His name is Asclepius, and people say his image travelled here back in medieval times. Rulers who governed from these rooms had an odd job. Each rector was elected for just one month, and could not step outside except on business for his republic. Every night he kept Dubrovnik's keys, handing them back to its people next morning. Fire and a gunpowder explosion both wrecked this building, yet each time it rose again.",
       "icon" : "hero",
       "id" : "f-knezev-dvor",
       "kind" : "attraction",
       "localizedExtendedStory" : {
-        "de" : "Im Palast lagerte das Schießpulver der Stadt. 1435 brannte er nieder, und Onofrio della Cava baute ihn wieder auf. 1463 riss ihn eine Pulverexplosion erneut auf. Michelozzo legte einen Entwurf für die Reparatur vor, den die Stadt 1464 ablehnte. Von 1467 an führte Salvi di Michele die Arbeit weiter, und daher stammt der Bau, vor dem du stehst.",
-        "en" : "Two disasters shaped this building. Fire took it in 1435, and Onofrio della Cava put it back together. Then the powder stored inside went up in 1463 and took it down again. The city looked at Michelozzo's repair design in 1464 and said no. Salvi di Michele got the job from 1467, and his is the front you see."
+        "de" : "Der Gott heißt Asklepios, und man erzählt, das Kapitell sei im Mittelalter hierher gebracht worden. Wer in diesem Palast regierte, hatte eine seltsame Aufgabe. Ein Rektor wurde für nur einen Monat gewählt und durfte den Palast nur in Staatsgeschäften verlassen. Nachts verwahrte er die Schlüssel der Stadt, und jeden Morgen gab er sie dem Volk zurück. Feuer und eine Pulverexplosion zerstörten den Bau, und jedes Mal wurde er wieder aufgebaut.",
+        "en" : "His name is Asclepius, and people say his image travelled here back in medieval times. Rulers who governed from these rooms had an odd job. Each rector was elected for just one month, and could not step outside except on business for his republic. Every night he kept Dubrovnik's keys, handing them back to its people next morning. Fire and a gunpowder explosion both wrecked this building, yet each time it rose again."
       },
       "localizedStory" : {
-        "de" : "Dieser Palast ist zweimal verschwunden. 1435 brannte er, 1463 sprengte ihn das Pulver in seinem Keller.",
-        "en" : "This palace has vanished twice. It burned in 1435, and in 1463 the gunpowder in its own store blew it open."
+        "de" : "Such an einer Säule im Säulengang einen Heilgott. Man erzählt, dieses Kapitell stamme aus seinem Tempel im antiken Epidauros, heute Cavtat.",
+        "en" : "Find a healing god carved high on a porch column. Legend says his image came from an old temple at Epidaurus, now called Cavtat."
       },
       "name" : "Knežev dvor",
       "pos" : [
         42.640337,
         18.110529
       ],
-      "story" : "This palace has vanished twice. It burned in 1435, and in 1463 the gunpowder in its own store blew it open."
+      "story" : "Find a healing god carved high on a porch column. Legend says his image came from an old temple at Epidaurus, now called Cavtat."
     },
     {
-      "extendedStory" : "Master Mihoje Brajkov of Bar built the friary in 1360. The lower cloister stands on 120 columns and twelve heavy piers. The earthquake of 1667 brought the church down. The carved portal of 1498 came through it standing. The library holds over 20,000 books, among them 1,200 old manuscripts and 137 incunables, and the pharmacy outlasted all of it.",
+      "extendedStory" : "The story goes that it began with a young man who was unlucky in love. In the tale, he jumped onto the head facing the wall and changed his shirt. He never lost his balance, and soon he found love. The head, called a maskeron, sits some 30 centimetres off the ground, so it is harder than it looks. Inside the friary, the pharmacy has been working since 1317. It is the oldest still working in Europe.",
       "icon" : "choice",
       "id" : "f-sv-franjo",
       "kind" : "church",
       "localizedExtendedStory" : {
-        "de" : "Meister Mihoje Brajkov aus Bar baute das Kloster 1360. Der untere Kreuzgang steht auf 120 Säulen und zwölf schweren Pfeilern. Das Erdbeben von 1667 legte die Kirche nieder und ließ nur das geschnitzte Portal von 1498 stehen. Die Bibliothek hat über 20.000 Bände, darunter 1.200 alte Handschriften und 137 Wiegendrucke. Die Apotheke von 1317 aber hat all das überdauert.",
-        "en" : "Master Mihoje Brajkov of Bar built the friary in 1360. The lower cloister stands on 120 columns and twelve heavy piers. The earthquake of 1667 brought the church down. The carved portal of 1498 came through it standing. The library holds over 20,000 books, among them 1,200 old manuscripts and 137 incunables, and the pharmacy outlasted all of it."
+        "de" : "Der Sage nach fing alles mit einem jungen Mann an, der in der Liebe kein Glück hatte. In der Geschichte sprang er mit dem Gesicht zur Wand hinauf. Er wechselte das Hemd, ohne zu fallen, und fand bald die Liebe. Der Kopf, ein Maskeron, sitzt etwa 30 Zentimeter über dem Boden, und das ist schwerer, als es aussieht. Im Kloster arbeitet die Apotheke seit 1317, keine ältere in Europa ist noch in Betrieb.",
+        "en" : "The story goes that it began with a young man who was unlucky in love. In the tale, he jumped onto the head facing the wall and changed his shirt. He never lost his balance, and soon he found love. The head, called a maskeron, sits some 30 centimetres off the ground, so it is harder than it looks. Inside the friary, the pharmacy has been working since 1317. It is the oldest still working in Europe."
       },
       "localizedStory" : {
-        "de" : "Die Apotheke hier arbeitet seit 1317. Es ist die älteste Europas, die nie geschlossen hat.",
-        "en" : "The pharmacy here has been working since 1317. It is the oldest in Europe that never closed."
+        "de" : "Such den steinernen Eulenkopf am Kloster. Man erzählt, wer darauf balanciert und das Hemd aus- und wieder anzieht, findet die Liebe.",
+        "en" : "Find the stone owl head by the friary. People say balance on it, take your shirt off and on, and love will find you."
       },
       "name" : "Sv. Franjo",
       "pos" : [
         42.641641,
         18.107463
       ],
-      "story" : "The pharmacy here has been working since 1317. It is the oldest in Europe that never closed."
+      "story" : "Find the stone owl head by the friary. People say balance on it, take your shirt off and on, and love will find you."
     },
     {
-      "extendedStory" : "Nikifor Ranjina put a square tower here in 1319. From 1445 it was rebuilt round, behind an outer wall that had run from here to Bokar since 1351. Michelozzo Michelozzi was given the job of modernising the walls. Juraj Dalmatinac took the tower on after him, and Paskoje Miličević finished it late in the 15th century. Three master builders on one tower.",
+      "extendedStory" : "People say the rule held for anyone coming in from the Gruž or Pile side. The tower did not start out round. Nikifor Ranjina raised it as a square tower in 1319. Later Michelozzo Michelozzi was given the walls to modernise, and Juraj Dalmatinac took the tower on after him. Paskoje Miličević finished the round giant you see near the end of the 15th century.",
       "icon" : "everyday",
       "id" : "f-minceta",
       "kind" : "gate_tower",
       "localizedExtendedStory" : {
-        "de" : "Nikifor Ranjina setzte 1319 einen viereckigen Turm hierher. Ab 1445 baute man ihn rund um, hinter einer Außenmauer, die seit 1351 von hier bis Bokar lief. Michelozzo Michelozzi bekam die Aufgabe, die Mauern zu erneuern. Juraj Dalmatinac übernahm den Turm nach ihm, und Paskoje Miličević machte ihn im späten 15. Jahrhundert fertig. Drei Baumeister an einem Turm.",
-        "en" : "Nikifor Ranjina put a square tower here in 1319. From 1445 it was rebuilt round, behind an outer wall that had run from here to Bokar since 1351. Michelozzo Michelozzi was given the job of modernising the walls. Juraj Dalmatinac took the tower on after him, and Paskoje Miličević finished it late in the 15th century. Three master builders on one tower."
+        "de" : "Man erzählt, die Regel galt für alle, die von Gruž oder von Pile her kamen. Rund war der Turm nicht von Anfang an. Nikifor Ranjina errichtete ihn 1319 als viereckigen Turm. Später bekam Michelozzo Michelozzi den Auftrag, die Mauern zu erneuern, und Juraj Dalmatinac übernahm den Turm nach ihm. Paskoje Miličević vollendete den runden Riesen gegen Ende des 15. Jahrhunderts.",
+        "en" : "People say the rule held for anyone coming in from the Gruž or Pile side. The tower did not start out round. Nikifor Ranjina raised it as a square tower in 1319. Later Michelozzo Michelozzi was given the walls to modernise, and Juraj Dalmatinac took the tower on after him. Paskoje Miličević finished the round giant you see near the end of the 15th century."
       },
       "localizedStory" : {
-        "de" : "Der Turm begann 1319 viereckig. Rund wurde er später, als die Mauern schwerer werden mussten.",
-        "en" : "The tower began square in 1319. It went round later, when the walls had to grow heavier."
+        "de" : "Der Sage nach fehlte beim Bau dieses Turms der Stein. Jeder Neuankömmling musste einen mitbringen, passend zu seiner Statur.",
+        "en" : "Stone ran short while this tower rose. The story goes that every newcomer had to bring one along, sized to match their own build."
       },
       "name" : "Minčeta",
       "pos" : [
         42.64298,
         18.108436
       ],
-      "story" : "The tower began square in 1319. It went round later, when the walls had to grow heavier."
+      "story" : "Stone ran short while this tower rose. The story goes that every newcomer had to bring one along, sized to match their own build."
     },
     {
-      "extendedStory" : "Antonio Ferramolino drew it and the Senate approved the drawings in 1538. The building took eleven years. Revelin stands detached outside the wall, covering the land approach to the eastern Ploče gate. When it was done it was the strongest fortress the city had. A fort set out on its own keeps trouble at a distance from the wall itself.",
+      "extendedStory" : "Revelin stands on its own, outside the wall, guarding the land road to the eastern Ploče gate. Antonio Ferramolino drew it, and the Senate approved his drawings in 1538. When it was done, it was the strongest fortress the city had. After the earthquake of 1667, the government moved in here. The state treasury and the cathedral treasury were carried inside its walls too.",
       "icon" : "everyday",
       "id" : "f-revelin",
       "kind" : "fortress",
       "localizedExtendedStory" : {
-        "de" : "Antonio Ferramolino legte die Zeichnungen vor, und der Senat nahm sie 1538 an. Elf Jahre dauerte der Bau. Revelin steht abgesetzt vor der Mauer und deckt den Landweg zum östlichen Tor von Ploče. Als es fertig war, war es das stärkste Fort, das Dubrovnik besaß. Ein Fort, das allein draußen steht, hält den Feind auf Abstand von der Mauer.",
-        "en" : "Antonio Ferramolino drew it and the Senate approved the drawings in 1538. The building took eleven years. Revelin stands detached outside the wall, covering the land approach to the eastern Ploče gate. When it was done it was the strongest fortress the city had. A fort set out on its own keeps trouble at a distance from the wall itself."
+        "de" : "Revelin steht allein vor der Mauer und bewacht den Landweg zum östlichen Tor von Ploče. Antonio Ferramolino zeichnete die Pläne, und der Senat nahm sie 1538 an. Als es fertig war, war es die stärkste Festung der Stadt. Nach dem Erdbeben von 1667 zog die Regierung hier ein. Auch der Staatsschatz und der Domschatz wurden in seine Mauern gebracht.",
+        "en" : "Revelin stands on its own, outside the wall, guarding the land road to the eastern Ploče gate. Antonio Ferramolino drew it, and the Senate approved his drawings in 1538. When it was done, it was the strongest fortress the city had. After the earthquake of 1667, the government moved in here. The state treasury and the cathedral treasury were carried inside its walls too."
       },
       "localizedStory" : {
-        "de" : "Der Senat nahm die Pläne 1538 an. Elf Jahre später war das stärkste Fort der Stadt fertig.",
-        "en" : "The Senate took the drawings in 1538. Eleven years later the city's strongest fort was finished."
+        "de" : "Nach dem großen Erdbeben wurde die ganze Republik von diesem Fort aus regiert.",
+        "en" : "After the great earthquake, the whole Republic was run from inside this fort."
       },
       "name" : "Revelin",
       "pos" : [
         42.642367,
         18.112402
       ],
-      "story" : "The Senate took the drawings in 1538. Eleven years later the city's strongest fort was finished."
+      "story" : "After the great earthquake, the whole Republic was run from inside this fort."
     },
     {
-      "extendedStory" : "Orthodox families came here from Herzegovina after the earthquake of 1667. For two hundred years the Senate refused them a church of their own. In 1867 they were finally able to buy the ground, and by 1877 the building stood on it, Byzantine in manner. The museum beside it keeps icons painted in the 15th and 16th centuries, with robes, chalices and silver. Some of it is older than the church around it.",
+      "extendedStory" : "The families had come from Herzegovina after a great earthquake, and they had to wait a very long time. When the chance came at last, they bought the ground before anything else. In 1877 the church rose on it, built in a Byzantine manner, the style of the old eastern Christian empire. Its museum keeps icons much older than the building itself, together with robes, chalices and silver.",
       "icon" : "choice",
       "id" : "f-crkva-sv-blagovjestenja",
       "kind" : "church",
       "localizedExtendedStory" : {
-        "de" : "Nach dem Erdbeben von 1667 kamen orthodoxe Familien aus der Herzegowina hierher. Zweihundert Jahre lang verweigerte ihnen der Senat eine eigene Kirche. 1867 konnten sie endlich den Grund kaufen, 1877 stand der Bau darauf, byzantinisch in der Form. Im Museum daneben hängen Ikonen aus dem 15. und 16. Jahrhundert, dazu Gewänder, Kelche und Silber. Manches davon ist älter als die Kirche selbst.",
-        "en" : "Orthodox families came here from Herzegovina after the earthquake of 1667. For two hundred years the Senate refused them a church of their own. In 1867 they were finally able to buy the ground, and by 1877 the building stood on it, Byzantine in manner. The museum beside it keeps icons painted in the 15th and 16th centuries, with robes, chalices and silver. Some of it is older than the church around it."
+        "de" : "Die Familien waren nach einem großen Erdbeben aus der Herzegowina gekommen, und sie mussten sehr lange warten. Als es endlich möglich war, kauften sie zuerst das Grundstück. 1877 wuchs darauf die Kirche empor, im byzantinischen Stil, dem Stil des alten oströmischen Reiches. Ihr Museum bewahrt Ikonen, die viel älter sind als der Bau selbst, dazu Gewänder, Kelche und Silber.",
+        "en" : "The families had come from Herzegovina after a great earthquake, and they had to wait a very long time. When the chance came at last, they bought the ground before anything else. In 1877 the church rose on it, built in a Byzantine manner, the style of the old eastern Christian empire. Its museum keeps icons much older than the building itself, together with robes, chalices and silver."
       },
       "localizedStory" : {
-        "de" : "Zweihundert Jahre lang durfte diese Gemeinde keine eigene Kirche bauen. 1877 stand sie.",
-        "en" : "For two hundred years this community was refused a church of its own. In 1877 it stood."
+        "de" : "Zweihundert Jahre lang verweigerte der Senat dieser orthodoxen Gemeinde eine eigene Kirche. Jetzt steht sie hier.",
+        "en" : "For two hundred years the Senate refused this Orthodox community a church of its own. Now here it stands."
       },
       "name" : "Crkva sv. Blagovještenja",
       "pos" : [
         42.640926,
         18.108819
       ],
-      "story" : "For two hundred years this community was refused a church of its own. In 1877 it stood."
+      "story" : "For two hundred years the Senate refused this Orthodox community a church of its own. Now here it stands."
     },
     {
-      "extendedStory" : "Andrea Pozzo drew this church, built between 1699 and 1725. Pietro Passalacqua added a broad stone stair below it in 1738, shaped after Rome's Spanish Steps. So climbing up is as much a monument as what waits at its top. Marin Gundulić, a Jesuit of this city, left money for all of it by will. Work ran from 1653 to 1765, more than a hundred years for one square.",
+      "extendedStory" : "A famous Italian Jesuit painter decorated that grotto. Andrea Pozzo designed this building, modelled on Il Gesù, a Roman church. Outside, Pietro Passalacqua laid a grand stone stair, copying Rome's Spanish Steps. Marin Gundulić, a Dubrovnik Jesuit, paid for everything with money left in his will. Work on this complex ran more than a hundred years.",
       "icon" : "choice",
       "id" : "f-crkva-sv-ignacija",
       "kind" : "church",
       "localizedExtendedStory" : {
-        "de" : "Die Jesuiten bauten diese Kirche zwischen 1699 und 1725, nach einem Entwurf von Andrea Pozzo. Er ging von Il Gesù in Rom aus und formte es für einen Hang um. 1738 setzte Pietro Passalacqua die Treppe davor und lieh sich die Form der Spanischen Treppe. Bezahlt wurde alles aus dem Vermächtnis eines Dubrovniker Jesuiten, Marin Gundulić. Gebaut wurde von 1653 bis 1765, über hundert Jahre für einen Platz.",
-        "en" : "Andrea Pozzo drew this church, built between 1699 and 1725. Pietro Passalacqua added a broad stone stair below it in 1738, shaped after Rome's Spanish Steps. So climbing up is as much a monument as what waits at its top. Marin Gundulić, a Jesuit of this city, left money for all of it by will. Work ran from 1653 to 1765, more than a hundred years for one square."
+        "de" : "Ein berühmter italienischer Jesuitenmaler hat die Grotte ausgemalt. Andrea Pozzo entwarf den Bau, nach dem Vorbild von Il Gesù in Rom. Draußen legte Pietro Passalacqua eine große Steintreppe an und lieh sich die Form der Spanischen Treppe. Marin Gundulić, ein Jesuit aus Dubrovnik, bezahlte alles mit dem Geld aus seinem Testament. Über hundert Jahre dauerte die Arbeit an dieser Anlage.",
+        "en" : "A famous Italian Jesuit painter decorated that grotto. Andrea Pozzo designed this building, modelled on Il Gesù, a Roman church. Outside, Pietro Passalacqua laid a grand stone stair, copying Rome's Spanish Steps. Marin Gundulić, a Dubrovnik Jesuit, paid for everything with money left in his will. Work on this complex ran more than a hundred years."
       },
       "localizedStory" : {
-        "de" : "Über eine breite Steintreppe geht es zu dieser Kirche hinauf. Ihr Baumeister nahm sich die Spanische Treppe in Rom zum Vorbild.",
-        "en" : "More than a hundred years went into this church and its stair. One Jesuit's will paid for all of it."
+        "de" : "Geh hinein und such die Höhle. Jemand hat sie von Hand gebaut, zu Ehren der Muttergottes von Lourdes.",
+        "en" : "Step inside and look for a cave. Somebody built it by hand, in honour of Our Lady of Lourdes."
       },
       "name" : "Crkva sv. Ignacija",
       "pos" : [
         42.63955,
         18.109263
       ],
-      "story" : "More than a hundred years went into this church and its stair. One Jesuit's will paid for all of it."
+      "story" : "Step inside and look for a cave. Somebody built it by hand, in honour of Our Lady of Lourdes."
     },
     {
-      "extendedStory" : "The fort stands on the south east side of the old port and commands the way in. When danger showed, the town closed the harbour with heavy chains, strung from here across to the Kase jetty. Anyone unwelcome simply could not get in. Paskoje Miličević laid the harbour out in the late 15th century. Boats come and go freely now, where the chain once hung.",
+      "extendedStory" : "It sits on the south east side of the old port and commands the way in. Pirates and any ship nobody wanted were kept outside. Paskoje Miličević laid out this harbour late in the 15th century. Today the fort guards something gentler. Pumps inside can refresh the sea in all its basins up to ten times a day.",
       "icon" : "everyday",
       "id" : "f-sv-ivan",
       "kind" : "gate_tower",
       "localizedExtendedStory" : {
-        "de" : "Das Fort steht an der Südostseite des alten Hafens und beherrscht die Einfahrt. Drohte Gefahr, schloss die Stadt den Hafen mit schweren Ketten, von hier hinüber zur Mole Kase. Wer nicht erwünscht war, kam nicht hinein. Paskoje Miličević legte den Hafen gegen Ende des 15. Jahrhunderts an. Heute laufen Boote frei ein, wo die Kette hing.",
-        "en" : "The fort stands on the south east side of the old port and commands the way in. When danger showed, the town closed the harbour with heavy chains, strung from here across to the Kase jetty. Anyone unwelcome simply could not get in. Paskoje Miličević laid the harbour out in the late 15th century. Boats come and go freely now, where the chain once hung."
+        "de" : "Es steht an der Südostseite des alten Hafens und beherrscht die Einfahrt. Piraten und ungebetene Schiffe blieben draußen. Paskoje Miličević legte diesen Hafen im späten 15. Jahrhundert an. Heute bewacht das Fort etwas Sanfteres. Pumpen darin tauschen das Meer in allen Bassins bis zu zehnmal am Tag aus.",
+        "en" : "It sits on the south east side of the old port and commands the way in. Pirates and any ship nobody wanted were kept outside. Paskoje Miličević laid out this harbour late in the 15th century. Today the fort guards something gentler. Pumps inside can refresh the sea in all its basins up to ten times a day."
       },
       "localizedStory" : {
-        "de" : "Von diesem Fort spannte die Stadt eine schwere Kette quer über die Hafeneinfahrt.",
-        "en" : "From this fort the city stretched a heavy chain right across the harbour mouth."
+        "de" : "Drohte Gefahr, spannte die Stadt schwere Ketten von diesem Fort hinüber zur Mole Kase und schloss den Hafen.",
+        "en" : "When danger showed, the town strung heavy chains from this fort across to the Kase jetty, closing the harbour."
       },
       "name" : "Sv. Ivan",
       "pos" : [
         42.639999,
         18.112246
       ],
-      "story" : "From this fort the city stretched a heavy chain right across the harbour mouth."
+      "story" : "When danger showed, the town strung heavy chains from this fort across to the Kase jetty, closing the harbour."
     },
     {
-      "extendedStory" : "A casemate fort has vaulted chambers built into the wall, so guns could fire from inside without bringing the roof down. Michelozzo built this one two storeys high between 1461 and 1463. No older fort of that kind is still standing in Europe. The military engineer Antonio Ferramolina altered it again in 1570. Between them, it and Minčeta held the ditch and the Pile gate.",
+      "extendedStory" : "When it was new, it had another name: Zvjezdan. Michelozzo built it as a two storey casemate fort, which means its guns sat in vaulted rooms inside the wall. It is the oldest fort of that kind still standing in Europe. Together with Minčeta, it held the ditch and the Pile gate between them. Later the military engineer Antonio Ferramolina reshaped it once more.",
       "icon" : "everyday",
       "id" : "f-bokar",
       "kind" : "gate_tower",
       "localizedExtendedStory" : {
-        "de" : "Ein Kasemattenfort hat gewölbte Kammern in der Mauer, aus denen Geschütze feuern konnten, ohne dass die Decke einstürzte. Michelozzo baute diesen zweigeschossig zwischen 1461 und 1463. Kein älterer seiner Art steht heute noch in Europa. Der Militäringenieur Antonio Ferramolina änderte ihn 1570 noch einmal. Zusammen mit Minčeta hielt er den Graben und das Tor von Pile.",
-        "en" : "A casemate fort has vaulted chambers built into the wall, so guns could fire from inside without bringing the roof down. Michelozzo built this one two storeys high between 1461 and 1463. No older fort of that kind is still standing in Europe. The military engineer Antonio Ferramolina altered it again in 1570. Between them, it and Minčeta held the ditch and the Pile gate."
+        "de" : "Als es neu war, hieß es Zvjezdan. Michelozzo baute es als zweigeschossiges Kasemattenfort, bei dem die Geschütze in gewölbten Kammern in der Mauer standen. Kein älteres Fort dieser Art steht heute noch in Europa. Zusammen mit Minčeta hielt es den Graben und das Tor von Pile. Später baute der Militäringenieur Antonio Ferramolina es noch einmal um.",
+        "en" : "When it was new, it had another name: Zvjezdan. Michelozzo built it as a two storey casemate fort, which means its guns sat in vaulted rooms inside the wall. It is the oldest fort of that kind still standing in Europe. Together with Minčeta, it held the ditch and the Pile gate between them. Later the military engineer Antonio Ferramolina reshaped it once more."
       },
       "localizedStory" : {
-        "de" : "Michelozzo baute diesen Rundturm zwischen 1461 und 1463. Kein älterer Kasemattenbau steht noch in Europa.",
-        "en" : "Michelozzo built this round fort between 1461 and 1463. No older one of its kind still stands in Europe."
+        "de" : "Ein Teil dieses Forts steht auf einem Felsen im Meer, der vom Festland getrennt ist.",
+        "en" : "Part of this fort stands on a rock in the sea, a rock cut off from the mainland."
       },
       "name" : "Bokar",
       "pos" : [
         42.641188,
         18.106341
       ],
-      "story" : "Michelozzo built this round fort between 1461 and 1463. No older one of its kind still stands in Europe."
+      "story" : "Part of this fort stands on a rock in the sea, a rock cut off from the mainland."
     }
   ],
-  "generatedAt" : "2026-09-06T13:45:17Z",
+  "generatedAt" : "2026-09-17T18:06:21Z",
   "icon" : {
     "paths" : [
       "M6.00,80.00 L94.00,80.00 L94.00,92.00 L6.00,92.00 Z M6.00,72.00 L13.00,72.00 L13.00,81.00 L6.00,81.00 Z M78.00,72.00 L85.00,72.00 L85.00,81.00 L78.00,81.00 Z M90.00,72.00 L97.00,72.00 L97.00,81.00 L90.00,81.00 Z M30.00,38.00 C30.00,26.00 70.00,26.00 70.00,38.00 C72.00,56.00 75.00,74.00 73.00,90.00 L27.00,90.00 C25.00,74.00 28.00,56.00 30.00,38.00 Z M28.00,20.00 L72.00,20.00 L72.00,34.00 L28.00,34.00 Z M28.00,8.00 L32.40,8.00 L32.40,24.00 L28.00,24.00 Z M35.33,8.00 L39.73,8.00 L39.73,24.00 L35.33,24.00 Z M42.67,8.00 L47.07,8.00 L47.07,24.00 L42.67,24.00 Z M50.00,8.00 L54.40,8.00 L54.40,24.00 L50.00,24.00 Z M57.33,8.00 L61.73,8.00 L61.73,24.00 L57.33,24.00 Z M64.67,8.00 L69.07,8.00 L69.07,24.00 L64.67,24.00 Z M50.00,53.00 C47.24,53.00 45.00,57.03 45.00,62.00 C45.00,66.97 47.24,71.00 50.00,71.00 C52.76,71.00 55.00,66.97 55.00,62.00 C55.00,57.03 52.76,53.00 50.00,53.00 Z"
@@ -5841,7 +5841,7 @@
     "en" : "Dubrovnik"
   },
   "name" : "Dubrovnik",
-  "packVersion" : 4,
+  "packVersion" : 5,
   "schemaVersion" : 1,
   "source" : "OpenStreetMap via Overpass API",
   "stats" : {

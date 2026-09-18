@@ -303,10 +303,9 @@
 
     ],
     "adjustedStreets" : [
-      "Place Broglie",
-      "Quai Desaix"
+
     ],
-    "fromVersion" : 6,
+    "fromVersion" : 9,
     "removedStreets" : [
 
     ]
@@ -10314,267 +10313,267 @@
   ],
   "fruits" : [
     {
-      "extendedStory" : "Building began here in 1015, and the work ran on for centuries. That is why the monument record calls it a major work of both Romanesque and Gothic art. Its architect was Erwin von Steinbach. Some of the glass in its windows has been there since the thirteenth century. Inside, an astronomical clock sends its apostles filing past at half past twelve, every day.",
+      "extendedStory" : "People say the devil rode in here to admire carvings of himself, and then found the doors would not let him out. The stranger story is the one on the record. In 1793 the Revolution ruled that this was no longer a church, and there was talk of cutting the spire down. A locksmith called Jean-Michel Sultzer said to cap it instead. A huge sheet metal bonnet, daubed red, was hoisted to the top and stayed there for years.",
       "icon" : "hero",
       "id" : "f-cathedrale-notre-dame",
       "kind" : "church",
       "localizedExtendedStory" : {
-        "de" : "Der Bau begann 1015, und gearbeitet wurde daran über Jahrhunderte. Deshalb nennt das staatliche Denkmalregister sie ein Hauptwerk der romanischen und der gotischen Kunst. Ihr Baumeister war Erwin von Steinbach. Ein Teil der Fenster trägt Glas aus dem dreizehnten Jahrhundert. Drinnen schickt eine astronomische Uhr jeden Tag um halb eins ihre Apostel vorbei.",
-        "en" : "Building began here in 1015, and the work ran on for centuries. That is why the monument record calls it a major work of both Romanesque and Gothic art. Its architect was Erwin von Steinbach. Some of the glass in its windows has been there since the thirteenth century. Inside, an astronomical clock sends its apostles filing past at half past twelve, every day."
+        "de" : "Man erzählt, der Teufel sei hereingeritten, um Bilder von sich zu bewundern, und dann ließen ihn die Türen nicht mehr hinaus. Die seltsamere Geschichte steht in den Akten. 1793 erklärten die Revolutionäre, dies sei keine Kirche mehr, und man sprach davon, die Turmspitze abzutragen. Der Schlosser Jean-Michel Sultzer schlug vor, ihr lieber eine Mütze aufzusetzen. Eine riesige Blechmütze, rot angestrichen, wurde hinaufgezogen und blieb dort jahrelang.",
+        "en" : "People say the devil rode in here to admire carvings of himself, and then found the doors would not let him out. The stranger story is the one on the record. In 1793 the Revolution ruled that this was no longer a church, and there was talk of cutting the spire down. A locksmith called Jean-Michel Sultzer said to cap it instead. A huge sheet metal bonnet, daubed red, was hoisted to the top and stayed there for years."
       },
       "localizedStory" : {
-        "de" : "Die Turmspitze wurde 1439 fertig. Danach stand in der Christenheit lange nichts Höheres.",
-        "en" : "The spire was finished in 1439. For a long time after that, nothing in Christendom stood taller."
+        "de" : "Spürst du den Wind auf dem Platz? Der Sage nach ist es das Pferd des Teufels, das noch immer auf seinen Herrn wartet.",
+        "en" : "Feel the wind on this square? The story goes it is the devil's horse, still circling, waiting for a master who never came out."
       },
       "name" : "Cathédrale Notre-Dame",
       "pos" : [
         48.581889,
         7.751034
       ],
-      "story" : "The spire was finished in 1439. For a long time after that, nothing in Christendom stood taller."
+      "story" : "Feel the wind on this square? The story goes it is the devil's horse, still circling, waiting for a master who never came out."
     },
     {
-      "extendedStory" : "The palace was designed by Robert de Cotte, and 1742 is the date it carries. Baroque means grand and deeply carved, built to impress anyone passing in the street. It stands right against the cathedral, so the two are almost always seen in one look. A palace and a church of very different centuries, sharing one small square.",
+      "extendedStory" : "King Louis XV came through in 1744, and the visits of royal brides followed him. Robert de Cotte drew it, and the result is baroque to the bone. That means grand stonework and deep carving, made to impress anyone passing in the street. It stands so close to the cathedral that the two arrive in one look. Stand on the Rue de Rohan and you have a palace and a church of very different centuries in one square.",
       "icon" : "choice",
       "id" : "f-palais-rohan",
       "kind" : "palace",
       "localizedExtendedStory" : {
-        "de" : "Der Palast wurde von Robert de Cotte entworfen, und er trägt das Datum 1742. Barock heißt groß und tief geschnitten, gebaut, um jeden auf der Straße zu beeindrucken. Er steht dicht am Münster, deshalb sieht man beide fast immer in einem Blick. Ein Palast und eine Kirche aus ganz verschiedenen Jahrhunderten, an einem kleinen Platz.",
-        "en" : "The palace was designed by Robert de Cotte, and 1742 is the date it carries. Baroque means grand and deeply carved, built to impress anyone passing in the street. It stands right against the cathedral, so the two are almost always seen in one look. A palace and a church of very different centuries, sharing one small square."
+        "de" : "König Ludwig XV. kam 1744 vorbei, und die Besuche königlicher Bräute folgten ihm. Robert de Cotte entwarf den Bau, und barock ist er durch und durch. Das heißt große Steinarbeit und tiefe Schnitzerei, gemacht, um jeden auf der Straße zu beeindrucken. Er steht so dicht am Münster, dass man beide in einem Blick hat. Von der Rue de Rohan aus sieht man einen Palast und eine Kirche aus ganz verschiedenen Jahrhunderten.",
+        "en" : "King Louis XV came through in 1744, and the visits of royal brides followed him. Robert de Cotte drew it, and the result is baroque to the bone. That means grand stonework and deep carving, made to impress anyone passing in the street. It stands so close to the cathedral that the two arrive in one look. Stand on the Rue de Rohan and you have a palace and a church of very different centuries in one square."
       },
       "localizedStory" : {
-        "de" : "Robert de Cotte entwarf diesen Palast, das Datum darauf ist 1742. Er steht direkt neben dem Münster.",
-        "en" : "Robert de Cotte drew this palace, and 1742 is the date it carries. It stands right beside the cathedral."
+        "de" : "Ausländische Prinzessinnen machten hier Halt, am Abend bevor sie einen König von Frankreich heirateten. Ein Pflichtstopp.",
+        "en" : "Foreign princesses stopped here on the eve of marrying a king of France. It was the compulsory halt."
       },
       "name" : "Palais Rohan",
       "pos" : [
         48.580907,
         7.751848
       ],
-      "story" : "Robert de Cotte drew this palace, and 1742 is the date it carries. It stands right beside the cathedral."
+      "story" : "Foreign princesses stopped here on the eve of marrying a king of France. It was the compulsory halt."
     },
     {
-      "extendedStory" : "The towers went up to hold the point where the Ill runs into the city. They stand on the banks and on the tips of small islands in the river. Three of the four are still here, kept because the city went on using them as jails. Prisoners cut graffiti into the oak walls of the cells, and tree rings date those cells to 1529. You cannot go in today, so the towers have been laser scanned in three dimensions instead.",
+      "extendedStory" : "The towers hold the point where the Ill enters the city, standing on the banks and on islet tips. Three of the four are still here, kept because the city went on using them as jails. Prisoners cut marks into the oak walls of the cells, and tree rings date that oak to 1529. You cannot go in today, so the towers have been laser scanned in three dimensions instead.",
       "icon" : "everyday",
       "id" : "f-ponts-couverts",
       "kind" : "bridge",
       "localizedExtendedStory" : {
-        "de" : "Die Türme entstanden, um die Stelle zu halten, an der die Ill in die Stadt läuft. Sie stehen am Ufer und auf den Spitzen kleiner Inseln im Fluss. Drei der vier stehen noch, weil die Stadt sie weiter als Gefängnis nutzte. Häftlinge ritzten Zeichen in die Eichenwände der Zellen. Jahresringe datieren diese Zellen auf 1529. Hinein kommt man heute nicht, deshalb hat man die Türme in drei Dimensionen gescannt.",
-        "en" : "The towers went up to hold the point where the Ill runs into the city. They stand on the banks and on the tips of small islands in the river. Three of the four are still here, kept because the city went on using them as jails. Prisoners cut graffiti into the oak walls of the cells, and tree rings date those cells to 1529. You cannot go in today, so the towers have been laser scanned in three dimensions instead."
+        "de" : "Die Türme sichern die Stelle, an der die Ill in die Stadt läuft, am Ufer und auf Inselspitzen. Drei der vier stehen noch, weil die Stadt sie weiter als Gefängnis nutzte. Häftlinge ritzten Zeichen in die Eichenwände der Zellen, und Jahresringe datieren dieses Holz auf 1529. Hinein kommt man heute nicht mehr, deshalb hat man die Türme mit Lasern dreidimensional vermessen.",
+        "en" : "The towers hold the point where the Ill enters the city, standing on the banks and on islet tips. Three of the four are still here, kept because the city went on using them as jails. Prisoners cut marks into the oak walls of the cells, and tree rings date that oak to 1529. You cannot go in today, so the towers have been laser scanned in three dimensions instead."
       },
       "localizedStory" : {
-        "de" : "Gedeckte Brücken ohne Dach. Die Ziegeldächer kamen 1784 herunter, der Name blieb.",
-        "en" : "Covered bridges with no roofs. The tile roofs came off in 1784 and the name stayed anyway."
+        "de" : "Gedeckte Brücken ohne Dach. Die Ziegel kamen vor langer Zeit herunter, den Namen hat ihnen nie jemand weggenommen.",
+        "en" : "Covered bridges with nothing over them. The tile roofs came down long ago and the name stayed put."
       },
       "name" : "Ponts Couverts",
       "pos" : [
         48.580088,
         7.739337
       ],
-      "story" : "Covered bridges with no roofs. The tile roofs came off in 1784 and the name stayed anyway."
+      "story" : "Covered bridges with nothing over them. The tile roofs came down long ago and the name stayed put."
     },
     {
-      "extendedStory" : "The tower appears in writing in 1378, under the name Henckers Turn. The executioner himself does not seem to have done his work here. What the tower did hold was one of the city's jails. Its prisoners were kept on bread and water by a warden on the city payroll. Madame Tussaud, who founded the London waxworks, came from the Grosholtz family of Strasbourg executioners.",
+      "extendedStory" : "In writing the tower turns up as the Henckers Turn, the executioner's tower, in 1378. The executioner himself does not seem to have worked here at all. What the tower held was one of the city's jails, and a warden on the city payroll kept the keys. The name came from a house on the old Biekergasse, which is the rue Seyboth today. Madame Tussaud's people, the Grosholtz family, belonged to that same trade.",
       "icon" : "everyday",
       "id" : "f-tour-du-bourreau",
       "kind" : "gate_tower",
       "localizedExtendedStory" : {
-        "de" : "Der Turm taucht 1378 in den Schriften auf, unter dem Namen Henckers Turn. Der Henker selbst scheint hier nicht gearbeitet zu haben. Der Turm war eines der Gefängnisse der Stadt. Die Gefangenen bekamen Brot und Wasser, bewacht von einem Wärter im Dienst der Stadt. Madame Tussaud, die das Londoner Wachsfigurenkabinett gründete, stammt aus der Straßburger Henkersfamilie Grosholtz.",
-        "en" : "The tower appears in writing in 1378, under the name Henckers Turn. The executioner himself does not seem to have done his work here. What the tower did hold was one of the city's jails. Its prisoners were kept on bread and water by a warden on the city payroll. Madame Tussaud, who founded the London waxworks, came from the Grosholtz family of Strasbourg executioners."
+        "de" : "In den Schriften taucht der Turm 1378 als Henckers Turn auf, als Henkersturm. Der Henker selbst scheint hier gar nicht gearbeitet zu haben. Der Turm war eines der Gefängnisse der Stadt, und ein Wärter im Dienst der Stadt hatte die Schlüssel. Der Name kam von einem Haus an der alten Biekergasse, heute die Rue Seyboth. Madame Tussauds Leute, die Familie Grosholtz, gehörten zum selben Gewerbe.",
+        "en" : "In writing the tower turns up as the Henckers Turn, the executioner's tower, in 1378. The executioner himself does not seem to have worked here at all. What the tower held was one of the city's jails, and a warden on the city payroll kept the keys. The name came from a house on the old Biekergasse, which is the rue Seyboth today. Madame Tussaud's people, the Grosholtz family, belonged to that same trade."
       },
       "localizedStory" : {
-        "de" : "Der Henkersturm hat seinen Namen vom Haus des Henkers, nicht von seiner Arbeit. Es stand in dieser Straße.",
-        "en" : "The executioner's tower is named for his house, not his work. It stood on the street at your feet."
+        "de" : "Madame Tussauds Familie stammte aus dieser Straße. Der Turm trug ihren Namen, nicht ihre Arbeit.",
+        "en" : "Madame Tussaud's family came from this street. The tower took their name and not their work."
       },
       "name" : "Tour du Bourreau",
       "pos" : [
         48.581453,
         7.738735
       ],
-      "story" : "The executioner's tower is named for his house, not his work. It stood on the street at your feet."
+      "story" : "Madame Tussaud's family came from this street. The tower took their name and not their work."
     },
     {
-      "extendedStory" : "Joseph Massol drew this building in 1736. He had a full year of it. The prefecture a few streets off is also his, and carries that same date. Both are baroque, which means heavy stonework and deep carving, made to look expensive. Walk from one to the other and you are following a single pair of hands.",
+      "extendedStory" : "Walk round the outside and count the floors. Towards that courtyard of honour, this block shows two storeys, and at its back it shows three. Ground behind simply lies lower than its court, so stonework hides a whole storey. A count built this house, and in 1805 Napoleon handed it over, because revolutionaries had wrecked Strasbourg's earlier town hall. Joseph Massol drew it in baroque taste, which means heavy stone and deep carving.",
       "icon" : "everyday",
       "id" : "f-hotel-de-ville",
       "kind" : "civic",
       "localizedExtendedStory" : {
-        "de" : "Joseph Massol entwarf dieses Haus 1736. Er hatte ein volles Jahr davon. Auch die Präfektur ein paar Straßen weiter stammt von ihm und trägt dasselbe Datum. Beide sind barock, also schweres Mauerwerk und tiefe Schnitzerei, gebaut, um teuer auszusehen. Wer von einem zum anderen geht, folgt derselben Handschrift.",
-        "en" : "Joseph Massol drew this building in 1736. He had a full year of it. The prefecture a few streets off is also his, and carries that same date. Both are baroque, which means heavy stonework and deep carving, made to look expensive. Walk from one to the other and you are following a single pair of hands."
+        "de" : "Das alte Rathaus war in der Revolution zerstört worden, und so zog die Stadt 1805 in ein Grafenpalais. Geh einmal um das Haus herum und zähl die Stockwerke. Zum Ehrenhof hin ist das Corps de Logis zweistöckig, zur Rückseite hin dreistöckig. Der place Broglie liegt einfach tiefer als der Hof. Joseph Massol entwarf das Haus barock, also mit schwerem Mauerwerk und tiefer Schnitzerei.",
+        "en" : "Walk round the outside and count the floors. Towards that courtyard of honour, this block shows two storeys, and at its back it shows three. Ground behind simply lies lower than its court, so stonework hides a whole storey. A count built this house, and in 1805 Napoleon handed it over, because revolutionaries had wrecked Strasbourg's earlier town hall. Joseph Massol drew it in baroque taste, which means heavy stone and deep carving."
       },
       "localizedStory" : {
-        "de" : "Joseph Massol entwarf dieses Rathaus 1736. Im selben Jahr entwarf er die Präfektur, ein paar Straßen weiter.",
-        "en" : "Joseph Massol drew this town hall in 1736. That same year he drew the prefecture, streets away."
+        "de" : "Napoleon übergab dieses Palais der Stadt, als Straßburg ein neues Rathaus brauchte und keines mehr hatte.",
+        "en" : "Napoleon gave this house to the city when Strasbourg needed a new town hall and had none left."
       },
       "name" : "Hôtel de Ville",
       "pos" : [
         48.584488,
         7.750838
       ],
-      "story" : "Joseph Massol drew this town hall in 1736. That same year he drew the prefecture, streets away."
+      "story" : "Napoleon gave this house to the city when Strasbourg needed a new town hall and had none left."
     },
     {
-      "extendedStory" : "The opera house opened in 1821 to a design by Jean Villot. It faces the Place Broglie, the long open square that runs along the north of the island. In 1870 a fire caught the building, half a century after it opened. It was brought back, and it is still the city's opera house. The date it carries and the year it opened are the same.",
+      "extendedStory" : "Landolin Ohmacht carved them into the colossal porch that faces the Place Broglie. Jean Villot designed the house, and it opened in 1821. A fire caught it in 1870, about half a century later. It was brought back, and it is still the city's opera house. The square outside runs long and wide, and the muses have nothing in their way.",
       "icon" : "choice",
       "id" : "f-opera-du-rhin",
       "kind" : "theatre",
       "localizedExtendedStory" : {
-        "de" : "Das Opernhaus wurde 1821 nach einem Entwurf von Jean Villot eröffnet. Es liegt am Place Broglie, dem langen offenen Platz im Norden der Insel. 1870 brannte das Gebäude, ein halbes Jahrhundert nach der Eröffnung. Es wurde wieder aufgebaut und ist bis heute das Opernhaus der Stadt. Das Datum am Bau und das Jahr der Eröffnung sind dasselbe.",
-        "en" : "The opera house opened in 1821 to a design by Jean Villot. It faces the Place Broglie, the long open square that runs along the north of the island. In 1870 a fire caught the building, half a century after it opened. It was brought back, and it is still the city's opera house. The date it carries and the year it opened are the same."
+        "de" : "Landolin Ohmacht schlug die Musen in den gewaltigen Säulenvorbau, der zum Place Broglie hinausschaut. Jean Villot entwarf das Haus, eröffnet wurde es 1821. 1870 brannte es, ein halbes Jahrhundert später. Man baute es wieder auf, und bis heute ist es das Opernhaus der Stadt am Rhein. Der Platz davor ist lang und offen, und die Musen haben freie Sicht darüber.",
+        "en" : "Landolin Ohmacht carved them into the colossal porch that faces the Place Broglie. Jean Villot designed the house, and it opened in 1821. A fire caught it in 1870, about half a century later. It was brought back, and it is still the city's opera house. The square outside runs long and wide, and the muses have nothing in their way."
       },
       "localizedStory" : {
-        "de" : "Jean Villots Opernhaus wurde 1821 am Place Broglie eröffnet. 1870 brannte es, und es steht immer noch.",
-        "en" : "Jean Villot's opera house opened on Place Broglie in 1821. Fire took it in 1870, and it is still here."
+        "de" : "Zähl die Musen über dem Vorbau. Es sind sechs, die griechische Überlieferung verlangt neun.",
+        "en" : "Count the muses over the porch. There are six, and Greek tradition asks for nine."
       },
       "name" : "Opéra du Rhin",
       "pos" : [
         48.585992,
         7.752091
       ],
-      "story" : "Jean Villot's opera house opened on Place Broglie in 1821. Fire took it in 1870, and it is still here."
+      "story" : "Count the muses over the porch. There are six, and Greek tradition asks for nine."
     },
     {
-      "extendedStory" : "The city put up this warehouse in 1358. Goods changed here between the flat boats of the Ill and the barges of the Rhine. Merchants had to set their load down and pay the duty before they went on. A landing stage went in beside it in 1393, with two huge cranes. Their treadwheel could lift close to a tonne.",
+      "extendedStory" : "Every cargo moving on the Rhine had to come through Strasbourg's port, so the load came off here. Goods changed between the flat boats of the Ill and the barges of the Rhine. Merchants set their load down, paid the duty, and went on. The city put up this warehouse in the fourteenth century, and the landing stage followed. Bombing wrecked it later, and the listing today covers its outer walls and its roofs.",
       "icon" : "everyday",
       "id" : "f-ancienne-douane",
       "kind" : "other",
       "localizedExtendedStory" : {
-        "de" : "Die Stadt errichtete dieses Lagerhaus 1358. Hier wechselten die Waren zwischen den flachen Booten der Ill und den Kähnen des Rheins. Die Kaufleute mussten ihre Ladung absetzen und Zoll zahlen, bevor sie weiterfuhren. 1393 kam daneben ein Landesteg dazu, mit zwei gewaltigen Kränen. Ihr Treterad konnte fast eine Tonne heben.",
-        "en" : "The city put up this warehouse in 1358. Goods changed here between the flat boats of the Ill and the barges of the Rhine. Merchants had to set their load down and pay the duty before they went on. A landing stage went in beside it in 1393, with two huge cranes. Their treadwheel could lift close to a tonne."
+        "de" : "Jede Fracht auf dem Rhein musste durch den Straßburger Hafen, und hier kam die Ladung herunter. Zwischen den flachen Booten der Ill und den Kähnen des Rheins wechselten die Waren. Die Kaufleute setzten ihre Last ab, zahlten Zoll und fuhren weiter. Die Stadt errichtete dieses Lagerhaus im vierzehnten Jahrhundert, der Landesteg kam danach dazu. Später zerstörten Bomben das Haus, und heute stehen nur noch Fassaden und Dächer unter Schutz.",
+        "en" : "Every cargo moving on the Rhine had to come through Strasbourg's port, so the load came off here. Goods changed between the flat boats of the Ill and the barges of the Rhine. Merchants set their load down, paid the duty, and went on. The city put up this warehouse in the fourteenth century, and the landing stage followed. Bombing wrecked it later, and the listing today covers its outer walls and its roofs."
       },
       "localizedStory" : {
-        "de" : "Jede Fracht auf dem Rhein musste in Straßburg halten. Hier wurde sie abgeladen und verzollt.",
-        "en" : "Every cargo on the Rhine had to stop at Strasbourg, and this is the shed where it was set down and taxed."
+        "de" : "Hier standen einst zwei Kräne. Männer liefen in großen Rädern, wie Eichhörnchen im Laufrad, und trieben sie an.",
+        "en" : "Two cranes once stood here, and men walking inside great wheels turned them, like squirrels in a cage."
       },
       "name" : "Ancienne douane",
       "pos" : [
         48.579399,
         7.749829
       ],
-      "story" : "Every cargo on the Rhine had to stop at Strasbourg, and this is the shed where it was set down and taxed."
+      "story" : "Two cranes once stood here, and men walking inside great wheels turned them, like squirrels in a cage."
     },
     {
-      "extendedStory" : "The place has been called the aubette since the late eighteenth century. The guard was changed out front every day at dawn, and l'aube is French for dawn. In 1928 Sophie Taeuber-Arp, Hans Jean Arp and Theo van Doesburg split its rooms between them. The public disapproved, and within months the managers were adding trim of their own. The rooms were called the Sistine Chapel of modern art, and they opened again on 8 June 2006.",
+      "extendedStory" : "Sophie Taeuber-Arp, Hans Jean Arp and Theo van Doesburg split the rooms between them and went to work. The public disapproved, and within months the managers were nailing up trim of their own. Enthusiasts called them the Sistine Chapel of modern art, and then they vanished behind later decoration. The building has been called the aubette since the guard was changed out front at dawn, l'aube. The restored rooms opened again in 2006.",
       "icon" : "everyday",
       "id" : "f-aubette-1928",
       "kind" : "museum",
       "localizedExtendedStory" : {
-        "de" : "Aubette heißt der Ort seit dem späten achtzehnten Jahrhundert. Vor dem Haus wurde jeden Tag im Morgengrauen die Wache gewechselt, und l'aube ist französisch für Morgengrauen. 1928 teilten sich Sophie Taeuber-Arp, Hans Jean Arp und Theo van Doesburg die Räume. Das Publikum lehnte ab, und schon nach wenigen Monaten hängten die Betreiber eigenen Zierrat dazu. Die Räume gelten als die Sixtinische Kapelle der modernen Kunst. Am 8. Juni 2006 öffneten sie wieder.",
-        "en" : "The place has been called the aubette since the late eighteenth century. The guard was changed out front every day at dawn, and l'aube is French for dawn. In 1928 Sophie Taeuber-Arp, Hans Jean Arp and Theo van Doesburg split its rooms between them. The public disapproved, and within months the managers were adding trim of their own. The rooms were called the Sistine Chapel of modern art, and they opened again on 8 June 2006."
+        "de" : "Sophie Taeuber-Arp, Hans Jean Arp und Theo van Doesburg teilten sich die Räume und legten los. Das Publikum lehnte ab, und schon nach Monaten nagelten die Betreiber eigenen Zierrat dazu. Begeisterte nannten die Räume die Sixtinische Kapelle der modernen Kunst, dann verschwanden sie hinter späterem Dekor. Aubette heißt das Haus, seit vor der Tür jeden Morgen bei l'aube die Wache gewechselt wurde. Die wiederhergestellten Räume öffneten 2006 erneut.",
+        "en" : "Sophie Taeuber-Arp, Hans Jean Arp and Theo van Doesburg split the rooms between them and went to work. The public disapproved, and within months the managers were nailing up trim of their own. Enthusiasts called them the Sistine Chapel of modern art, and then they vanished behind later decoration. The building has been called the aubette since the guard was changed out front at dawn, l'aube. The restored rooms opened again in 2006."
       },
       "localizedStory" : {
-        "de" : "Die Räume hinter dieser Fassade wurden 1938 übermalt und erst 1977 wiederentdeckt.",
-        "en" : "The rooms behind this front were painted over in 1938 and were not found again until 1977."
+        "de" : "Übermalt und jahrzehntelang vergessen: Die Räume hinter dieser Fassade musste man erst wiederfinden.",
+        "en" : "Painted over and forgotten for decades, the rooms behind this front had to be found all over again."
       },
       "name" : "Aubette 1928",
       "pos" : [
         48.583879,
         7.746082
       ],
-      "story" : "The rooms behind this front were painted over in 1938 and were not found again until 1977."
+      "story" : "Painted over and forgotten for decades, the rooms behind this front had to be found all over again."
     },
     {
-      "extendedStory" : "The church takes its name from Thomas the Apostle. Building began in 1196, and the records give 1521 as the year it opened. The style is Gothic, so look for pointed arches rather than round ones. Outside, the street at its door is named after Martin Luther. That is a fitting address for a protestant church.",
+      "extendedStory" : "Martin Luther has the street at the door, a fitting address for a Protestant parish. Building here began in the twelfth century and ran on for more than three hundred years. The church carries the name of Thomas the Apostle. Look for pointed arches rather than round ones. That is Gothic: the builders pushed the weight outward so the windows could grow tall.",
       "icon" : "choice",
       "id" : "f-eglise-protestante-saint-thomas",
       "kind" : "church",
       "localizedExtendedStory" : {
-        "de" : "Die Kirche ist nach dem Apostel Thomas benannt. Der Bau begann 1196, und die Quellen nennen 1521 als Jahr der Eröffnung. Der Stil ist gotisch, also spitze Bögen statt runder. Draußen trägt die Straße vor der Tür den Namen Martin Luthers. Für eine protestantische Kirche ist das eine passende Adresse.",
-        "en" : "The church takes its name from Thomas the Apostle. Building began in 1196, and the records give 1521 as the year it opened. The style is Gothic, so look for pointed arches rather than round ones. Outside, the street at its door is named after Martin Luther. That is a fitting address for a protestant church."
+        "de" : "Martin Luther hat die Straße vor der Tür, eine passende Adresse für eine protestantische Gemeinde. Gebaut wurde ab dem zwölften Jahrhundert, und bis zur Einweihung vergingen mehr als drei Jahrhunderte. Der Name der Kirche kommt vom Apostel Thomas. Achte drinnen und draußen auf spitze Bögen statt auf runde. So arbeitet die Gotik: Das Gewicht geht nach außen, damit die Fenster in die Höhe wachsen können.",
+        "en" : "Martin Luther has the street at the door, a fitting address for a Protestant parish. Building here began in the twelfth century and ran on for more than three hundred years. The church carries the name of Thomas the Apostle. Look for pointed arches rather than round ones. That is Gothic: the builders pushed the weight outward so the windows could grow tall."
       },
       "localizedStory" : {
-        "de" : "Baubeginn war 1196. Die Straße vor der Tür heißt Rue Martin Luther.",
-        "en" : "Work began in 1196. The street at its door is called Rue Martin Luther."
+        "de" : "Die Leute nennen es die Kathedrale des französischen Protestantismus. Vor der Tür liegt die Rue Martin Luther.",
+        "en" : "A parish church known as the cathedral of French Protestantism. The street at its door is Rue Martin Luther."
       },
       "name" : "Église protestante Saint-Thomas",
       "pos" : [
         48.579685,
         7.74525
       ],
-      "story" : "Work began in 1196. The street at its door is called Rue Martin Luther."
+      "story" : "A parish church known as the cathedral of French Protestantism. The street at its door is Rue Martin Luther."
     },
     {
-      "extendedStory" : "The written record for a church on this spot reaches back to the year 601. It is named for Saint Peter. The young in its name separates it from the old Saint Peter's elsewhere on the island. What stands here now is Gothic, built with pointed arches and tall windows. The square outside took the church's name and kept it.",
+      "extendedStory" : "The riders make for a hill with a cross on it, and the parish says the reading behind them is made up. Carl Schäfer worked in the neo Gothic taste, which copied the Middle Ages closely enough to fool a visitor. Beside the church lies an arcaded courtyard, and that part is genuinely old. It is the only such courtyard in Strasbourg kept whole, with thirty-four gravestones set around it.",
       "icon" : "choice",
       "id" : "f-eglise-protestante-saint-pierre-le-jeune",
       "kind" : "church",
       "localizedExtendedStory" : {
-        "de" : "Der schriftliche Nachweis für eine Kirche an dieser Stelle reicht bis ins Jahr 601 zurück. Sie ist nach Petrus benannt. Das Jung im Namen trennt sie von Alt Sankt Peter anderswo auf der Insel. Was heute hier steht, ist gotisch, mit spitzen Bögen und hohen Fenstern. Der Platz davor hat den Namen der Kirche übernommen und behalten.",
-        "en" : "The written record for a church on this spot reaches back to the year 601. It is named for Saint Peter. The young in its name separates it from the old Saint Peter's elsewhere on the island. What stands here now is Gothic, built with pointed arches and tall windows. The square outside took the church's name and kept it."
+        "de" : "Die Reiter ziehen auf einen Hügel mit einem Kreuz zu, und die Gemeinde nennt die Deutung dahinter frei erfunden. Carl Schäfer arbeitete neugotisch, und das ahmte das Mittelalter so genau nach, dass Besucher darauf hereinfallen. Gleich neben der Kirche liegt ein Hof mit Bogengängen, und der ist wirklich alt. Er ist der einzige seiner Art in Straßburg, der ganz erhalten blieb, und vierunddreißig Grabsteine stehen rundum.",
+        "en" : "The riders make for a hill with a cross on it, and the parish says the reading behind them is made up. Carl Schäfer worked in the neo Gothic taste, which copied the Middle Ages closely enough to fool a visitor. Beside the church lies an arcaded courtyard, and that part is genuinely old. It is the only such courtyard in Strasbourg kept whole, with thirty-four gravestones set around it."
       },
       "localizedStory" : {
-        "de" : "Seit 601 steht auf diesem Platz eine Kirche. Der Platz trägt bis heute denselben Namen.",
-        "en" : "A church has stood on this square since 601. The square still carries the same name."
+        "de" : "Ein gemalter Zug im Innern sieht mittelalterlich aus und ist es nicht. Dreizehn Reiter auf Blau, erfunden von Carl Schäfer.",
+        "en" : "A procession inside looks medieval and is not. Thirteen riders on a blue ground, invented whole by Carl Schäfer."
       },
       "name" : "Église protestante Saint-Pierre-le-Jeune",
       "pos" : [
         48.585369,
         7.746446
       ],
-      "story" : "A church has stood on this square since 601. The square still carries the same name."
+      "story" : "A procession inside looks medieval and is not. Thirteen riders on a blue ground, invented whole by Carl Schäfer."
     },
     {
-      "extendedStory" : "The church is named for Saint Stephen, and its record begins in the year 800. The building standing here now was opened in 1300. It is Romanesque, so the arches are round and the walls thick. Gothic went the other way, pointed and thin. This one sits toward the eastern end of the island, on the Rue de la Courtine.",
+      "extendedStory" : "Under the old tower's foundations, diggers in 1956 came upon an apse from Merovingian times. The Merovingians ruled here long before the church anyone sees today. What stands above ground is Romanesque, which means round arches and walls thick enough to hold a hill up. The record for a church on this spot reaches back to the year 800. Look for the round arches on the Rue de la Courtine side.",
       "icon" : "everyday",
       "id" : "f-eglise-saint-etienne",
       "kind" : "church",
       "localizedExtendedStory" : {
-        "de" : "Die Kirche ist nach Stephanus benannt, und ihr Eintrag beginnt im Jahr 800. Das Gebäude, das heute hier steht, wurde 1300 eröffnet. Es ist romanisch, die Bögen sind also rund und die Mauern dick. Die Gotik ging den anderen Weg, spitz und dünn. Dieses Haus liegt am östlichen Ende der Insel, an der Rue de la Courtine.",
-        "en" : "The church is named for Saint Stephen, and its record begins in the year 800. The building standing here now was opened in 1300. It is Romanesque, so the arches are round and the walls thick. Gothic went the other way, pointed and thin. This one sits toward the eastern end of the island, on the Rue de la Courtine."
+        "de" : "Unter den Fundamenten des alten Turms stießen Bauleute 1956 auf eine Apsis aus merowingischer Zeit. Die Merowinger herrschten hier lange vor der Kirche, die man heute sieht. Was über der Erde steht, ist romanisch, also halbrunde Bögen und Wände dick genug für einen Hügel. Der Eintrag für eine Kirche an dieser Stelle beginnt im Jahr 800. An der Rue de la Courtine sieht man die halbrunden Bögen am besten.",
+        "en" : "Under the old tower's foundations, diggers in 1956 came upon an apse from Merovingian times. The Merovingians ruled here long before the church anyone sees today. What stands above ground is Romanesque, which means round arches and walls thick enough to hold a hill up. The record for a church on this spot reaches back to the year 800. Look for the round arches on the Rue de la Courtine side."
       },
       "localizedStory" : {
-        "de" : "Der Eintrag für diese Kirche beginnt im Jahr 800. Was hier steht, wurde 1300 eröffnet.",
-        "en" : "The record for this church starts in the year 800. What stands here was opened in 1300."
+        "de" : "Im Querschiff steht ein Brunnen. Der Sage nach kam die heilige Attale genau dort ans Licht.",
+        "en" : "A well stands in the transept, and the story goes that Saint Attale herself came to light there."
       },
       "name" : "Église Saint-Étienne",
       "pos" : [
         48.58357,
         7.755663
       ],
-      "story" : "The record for this church starts in the year 800. What stands here was opened in 1300."
+      "story" : "A well stands in the transept, and the story goes that Saint Attale herself came to light there."
     },
     {
-      "extendedStory" : "The prefecture was built in 1736 to a design by Joseph Massol. Massol had a busy year. The city hall on this island carries the same date and the same hand. This one he built in the classical style, which means straight lines and plain columns. It stands close to the opera house, on the north side of the island.",
+      "extendedStory" : "The mansion went up between 1731 and 1736, and he carried on living there rent free afterwards. Joseph Massol drew it, the same hand that drew the town hall a few streets away. Here he worked classical, which means straight lines and plain columns rather than deep carving. It faces the water on the Quai Lezay Marnésia, close to the opera house. Nothing in the plain front gives the trick away.",
       "icon" : "everyday",
       "id" : "f-hotel-de-la-prefecture",
       "kind" : "other",
       "localizedExtendedStory" : {
-        "de" : "Die Präfektur entstand 1736 nach einem Entwurf von Joseph Massol. Massol hatte ein volles Jahr. Das Rathaus auf dieser Insel trägt dasselbe Datum und dieselbe Handschrift. Dieses Haus baute er klassizistisch, also mit geraden Linien und schlichten Säulen. Es steht nahe beim Opernhaus, im Norden der Insel.",
-        "en" : "The prefecture was built in 1736 to a design by Joseph Massol. Massol had a busy year. The city hall on this island carries the same date and the same hand. This one he built in the classical style, which means straight lines and plain columns. It stands close to the opera house, on the north side of the island."
+        "de" : "Zwischen 1731 und 1736 wuchs das Palais empor, und danach wohnte er weiter mietfrei darin. Joseph Massol entwarf es, dieselbe Hand wie beim Rathaus ein paar Straßen weiter. Hier arbeitete er klassizistisch, also gerade Linien und schlichte Säulen statt tiefer Schnitzerei. Es liegt am Quai Lezay Marnésia zum Wasser hin, nahe beim Opernhaus. Der schlichten Fassade vor dir sieht man von dem ganzen Trick nichts an.",
+        "en" : "The mansion went up between 1731 and 1736, and he carried on living there rent free afterwards. Joseph Massol drew it, the same hand that drew the town hall a few streets away. Here he worked classical, which means straight lines and plain columns rather than deep carving. It faces the water on the Quai Lezay Marnésia, close to the opera house. Nothing in the plain front gives the trick away."
       },
       "localizedStory" : {
-        "de" : "Joseph Massol baute es 1736, und zwar klassizistisch. Gerade Linien, schlichte Säulen, nichts Verspieltes.",
-        "en" : "Joseph Massol built this in 1736, and he built it classical. Straight lines, plain columns, nothing fussy."
+        "de" : "Klinglin bekam das Grundstück für fast nichts, ließ sein Palais von städtischen Arbeitern bauen und verkaufte es der Stadt zurück.",
+        "en" : "Klinglin got the land for almost nothing, built his mansion with the city's own workmen, then sold it back to the city."
       },
       "name" : "Hôtel de la Préfecture",
       "pos" : [
         48.585599,
         7.753874
       ],
-      "story" : "Joseph Massol built this in 1736, and he built it classical. Straight lines, plain columns, nothing fussy."
+      "story" : "Klinglin got the land for almost nothing, built his mansion with the city's own workmen, then sold it back to the city."
     },
     {
-      "extendedStory" : "The church is named for Saint Peter, and 1381 is the date it carries. Old is in its name because the city has a second Saint Peter's, the young one. This one is Gothic, with the pointed arches and tall windows of that style. It stands on the Grand'Rue, the long street that runs the length of this end of the island.",
+      "extendedStory" : "The Roman road under your feet was called the Strata Superior, and the Grand'Rue keeps its line. Old is in the name because the city has a younger Saint Peter's further up. What stands here now is Gothic, so look for pointed arches and tall windows. The house carries the date 1381, and the street outside runs the length of this end of the island.",
       "icon" : "choice",
       "id" : "f-eglise-saint-pierre-le-vieux",
       "kind" : "other",
       "localizedExtendedStory" : {
-        "de" : "Die Kirche ist nach Petrus benannt, und sie trägt das Datum 1381. Alt steht im Namen, weil die Stadt eine zweite Peterskirche hat, die junge. Diese hier ist gotisch, mit den spitzen Bögen und hohen Fenstern dieses Stils. Sie steht an der Grand'Rue, der langen Straße, die dieses Ende der Insel durchzieht.",
-        "en" : "The church is named for Saint Peter, and 1381 is the date it carries. Old is in its name because the city has a second Saint Peter's, the young one. This one is Gothic, with the pointed arches and tall windows of that style. It stands on the Grand'Rue, the long street that runs the length of this end of the island."
+        "de" : "Die Römerstraße unter deinen Füßen hieß Strata Superior, und die Grand'Rue hält ihre Linie bis heute. Alt steht im Namen, weil die Stadt weiter oben auch ein jüngeres Sankt Peter besitzt. Was heute hier steht, ist gotisch, also spitze Bögen und hohe Fenster statt runder Formen. Das Haus trägt die Jahreszahl 1381, und draußen zieht die Grand'Rue durch dieses Ende der Insel.",
+        "en" : "The Roman road under your feet was called the Strata Superior, and the Grand'Rue keeps its line. Old is in the name because the city has a younger Saint Peter's further up. What stands here now is Gothic, so look for pointed arches and tall windows. The house carries the date 1381, and the street outside runs the length of this end of the island."
       },
       "localizedStory" : {
-        "de" : "Alt Sankt Peter, datiert 1381. Es gibt auch ein Jung Sankt Peter, weiter oben auf der Insel.",
-        "en" : "The old Saint Peter's, dated 1381. There is a young Saint Peter's too, further up the island."
+        "de" : "Der Sage nach gründete der heilige Maternus diese Kirche an einer Römerstraße. Auf der stehst du gerade.",
+        "en" : "Saint Materne is said to have started this church beside a Roman road. You are standing on that road."
       },
       "name" : "Église Saint-Pierre-le-Vieux",
       "pos" : [
         48.582653,
         7.739985
       ],
-      "story" : "The old Saint Peter's, dated 1381. There is a young Saint Peter's too, further up the island."
+      "story" : "Saint Materne is said to have started this church beside a Roman road. You are standing on that road."
     }
   ],
-  "generatedAt" : "2026-09-13T14:39:17Z",
+  "generatedAt" : "2026-09-17T20:16:14Z",
   "icon" : {
     "paths" : [
       "M16 48L58 48L58 88L16 88ZM14 49L58 49L36 26ZM58 30L78 30L78 88L58 88ZM56 31L80 31L68 8ZM66 5L70 5L70 12L66 12ZM63 3L73 3L73 7L63 7ZM12 60L20 52L20 68ZM26.5 60C26.5 64.69455,30.30545 68.5,35 68.5C39.69455 68.5,43.5 64.69455,43.5 60C43.5 55.30545,39.69455 51.5,35 51.5C30.30545 51.5,26.5 55.30545,26.5 60ZM30 74L30 88L41 88L41 74ZM65 42L65 56L71 56L71 42Z"
@@ -10587,7 +10586,7 @@
     "en" : "Strasbourg"
   },
   "name" : "Strasbourg",
-  "packVersion" : 7,
+  "packVersion" : 10,
   "schemaVersion" : 1,
   "source" : "OpenStreetMap via Overpass API",
   "stats" : {

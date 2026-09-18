@@ -243,14 +243,9 @@
 
     ],
     "adjustedStreets" : [
-      "Amerikalaan",
-      "Grote Markt",
-      "Herbert Hooverplein",
-      "Naamsestraat",
-      "Pater Damiaanplein",
-      "Rector De Somerplein"
+
     ],
-    "fromVersion" : 7,
+    "fromVersion" : 9,
     "removedStreets" : [
 
     ]
@@ -20776,207 +20771,207 @@
   ],
   "fruits" : [
     {
-      "extendedStory" : "Building started in 1425, on the market square at the heart of the town. Matheus de Layens carried the work on in Gothic, the style of high windows and pointed arches. The church takes its name from Saint Peter. When the old wall was drawn, this church sat at the centre of the circle. Everything else in the Old Town grew around it.",
+      "extendedStory" : "Matheus de Layens carried the church on from 1425, in Gothic style, with pointed arches and tall windows. A later master, Joost Metsys, drew a west front that Leuven never managed to raise. His wooden model of it survives, kept inside among the church's treasures. Go and look at what the city wanted and could not have.",
       "icon" : "choice",
       "id" : "f-sint-pieterskerk",
       "kind" : "church",
       "localizedExtendedStory" : {
-        "de" : "Der Bau begann 1425, am Marktplatz mitten in der Stadt. Matheus de Layens führte ihn weiter in gotischer Architektur, dem Stil der hohen Fenster und Spitzbögen. Ihren Namen hat die Kirche von Petrus. Als man die alte Mauer zog, lag diese Kirche im Mittelpunkt des Kreises. Alles andere in der Altstadt wuchs um sie herum.",
-        "en" : "Building started in 1425, on the market square at the heart of the town. Matheus de Layens carried the work on in Gothic, the style of high windows and pointed arches. The church takes its name from Saint Peter. When the old wall was drawn, this church sat at the centre of the circle. Everything else in the Old Town grew around it."
+        "de" : "Matheus de Layens führte die Kirche ab 1425 weiter, gotisch, mit Spitzbögen und hohen Fenstern. Ein späterer Meister, Joost Metsys, entwarf eine Westfront, die Leuven nie hochbekam. Sein hölzernes Modell davon gibt es noch, drinnen bei den Schätzen der Kirche. Dort siehst du, was die Stadt wollte und nicht bekam.",
+        "en" : "Matheus de Layens carried the church on from 1425, in Gothic style, with pointed arches and tall windows. A later master, Joost Metsys, drew a west front that Leuven never managed to raise. His wooden model of it survives, kept inside among the church's treasures. Go and look at what the city wanted and could not have."
       },
       "localizedStory" : {
-        "de" : "Die Kirche, um die herum die Altstadt entstand. Matheus de Layens baute weiter an ihr, begonnen 1425.",
-        "en" : "The church the Old Town was drawn around. Matheus de Layens carried on its building, begun in 1425."
+        "de" : "Der Spitzname der Leuvener lautet Pietermannen, nach dem Patron dieser Kirche, dem Apostel Petrus. Die Westfront blieb ein Versprechen.",
+        "en" : "People from Leuven are nicknamed Pietermannen, after this church's patron, Saint Peter. The west front never got what it was promised."
       },
       "name" : "Sint-Pieterskerk",
       "pos" : [
         50.879737,
         4.700726
       ],
-      "story" : "The church the Old Town was drawn around. Matheus de Layens carried on its building, begun in 1425."
+      "story" : "People from Leuven are nicknamed Pietermannen, after this church's patron, Saint Peter. The west front never got what it was promised."
     },
     {
-      "extendedStory" : "Work began in 1439 and the doors did not open until 1469. Three decades of masons went into one building on one square. Sulpitius van Vorst designed it in Brabantine Gothic, the style Brabant made its own. That style loves height and fine stone detail, and the front carries both. Leuven still calls it the Stadhuis, and it is still the town hall.",
+      "extendedStory" : "Sulpitius van Vorst began the house in 1439 and it took thirty years to open. For close to four centuries after that, every little shelf on the front stood bare. Hugo came through while they were still like that. The earliest statues to go up were so badly received that the carving nearly stopped. His praise kept it going, and masons added to the front for decades.",
       "icon" : "hero",
       "id" : "f-stadhuis-van-leuven",
       "kind" : "civic",
       "localizedExtendedStory" : {
-        "de" : "Der Bau begann 1439, fertig war das Haus 1469. Drei Jahrzehnte lang arbeiteten Steinmetze an diesem Haus an diesem Platz. Sulpitius van Vorst entwarf es in Brabanter Gotik, dem Stil der Region. Dieser Stil liebt Höhe und feine Steinarbeit, beides zeigt die Fassade. Leuven nennt es bis heute Stadhuis, und es ist bis heute das Rathaus.",
-        "en" : "Work began in 1439 and the doors did not open until 1469. Three decades of masons went into one building on one square. Sulpitius van Vorst designed it in Brabantine Gothic, the style Brabant made its own. That style loves height and fine stone detail, and the front carries both. Leuven still calls it the Stadhuis, and it is still the town hall."
+        "de" : "Sulpitius van Vorst begann das Haus 1439, und dreißig Jahre später konnte es öffnen. Danach blieb fast vier Jahrhunderte lang jedes kleine Sims an der Fassade leer. Hugo kam vorbei, als es noch so aussah. Die frühesten Standbilder, die hinaufkamen, gefielen so wenig, dass die Steinmetzarbeit fast aufhörte. Sein Lob hielt sie am Laufen, und noch jahrzehntelang wuchs die Fassade weiter.",
+        "en" : "Sulpitius van Vorst began the house in 1439 and it took thirty years to open. For close to four centuries after that, every little shelf on the front stood bare. Hugo came through while they were still like that. The earliest statues to go up were so badly received that the carving nearly stopped. His praise kept it going, and masons added to the front for decades."
       },
       "localizedStory" : {
-        "de" : "Dreißig Jahre dauerte das Rathaus von Leuven. Sulpitius van Vorst begann 1439, 1469 war es fertig, in Brabanter Gotik.",
-        "en" : "Leuven's town hall took thirty years. Sulpitius van Vorst began it in 1439 and it opened in 1469, in Brabantine Gothic."
+        "de" : "Victor Hugo nannte dieses Haus ein versteinertes Feuerwerk. Tritt auf dem Platz ein Stück zurück, dann verstehst du ihn.",
+        "en" : "Victor Hugo called this a firework turned to stone. Stand back on the square and you can see what he was getting at."
       },
       "name" : "Stadhuis van Leuven",
       "pos" : [
         50.87868,
         4.701482
       ],
-      "story" : "Leuven's town hall took thirty years. Sulpitius van Vorst began it in 1439 and it opened in 1469, in Brabantine Gothic."
+      "story" : "Victor Hugo called this a firework turned to stone. Stand back on the square and you can see what he was getting at."
     },
     {
-      "extendedStory" : "In August 1914 German soldiers set fire to the university hall, and the old library burned with it. Whitney Warren designed the replacement, the same architect behind Grand Central Terminal in New York. It opened on 4 July 1928, American Independence Day. American engineering societies gave the carillon its forty-eight bells, as many as there were American states. The brick shaft below them is 48 metres tall.",
+      "extendedStory" : "Look along the top of the front and you find a balustrade with nothing written on it. Stone letters were cut for it, a Latin line naming who destroyed the old library and who paid for this one. The university dropped it, afraid of souring things with German scholars, and the front has stayed blank ever since. The letters themselves survived, polished and bolted down in the library's Torenhof. They sit there in the right order, spelling a sentence the building never got to say.",
       "icon" : "choice",
       "id" : "f-universiteitsbibliotheek",
       "kind" : "civic",
       "localizedExtendedStory" : {
-        "de" : "Im August 1914 setzten deutsche Soldaten die Universitätshalle in Brand, die alte Bibliothek verbrannte mit. Whitney Warren entwarf den Neubau, derselbe Architekt wie beim Grand Central Terminal in New York. Eingeweiht wurde er am 4. Juli 1928, dem amerikanischen Unabhängigkeitstag. Amerikanische Ingenieurverbände schenkten das Glockenspiel mit achtundvierzig Glocken, so viele wie es damals US-Staaten gab. Der Backsteinschaft darunter misst 48 Meter.",
-        "en" : "In August 1914 German soldiers set fire to the university hall, and the old library burned with it. Whitney Warren designed the replacement, the same architect behind Grand Central Terminal in New York. It opened on 4 July 1928, American Independence Day. American engineering societies gave the carillon its forty-eight bells, as many as there were American states. The brick shaft below them is 48 metres tall."
+        "de" : "Schau oben an der Fassade entlang: Auf der Brüstung steht nichts. Steinerne Buchstaben waren dafür gehauen, eine lateinische Zeile darüber, wer die alte Bibliothek zerstörte und wer die neue bezahlte. Die Universität ließ sie weg, aus Sorge um das Verhältnis zu deutschen Gelehrten, und seither bleibt die Brüstung leer. Die Buchstaben gibt es noch, poliert und festgeschraubt im Torenhof der Bibliothek. Dort stehen sie in der richtigen Reihenfolge, ein Satz, den das Haus nie sagen durfte.",
+        "en" : "Look along the top of the front and you find a balustrade with nothing written on it. Stone letters were cut for it, a Latin line naming who destroyed the old library and who paid for this one. The university dropped it, afraid of souring things with German scholars, and the front has stayed blank ever since. The letters themselves survived, polished and bolted down in the library's Torenhof. They sit there in the right order, spelling a sentence the building never got to say."
       },
       "localizedStory" : {
-        "de" : "Die alte Bibliothek brannte 1914. Der neue Turm ruht auf einem Backsteinschaft von 48 Metern und trägt achtundvierzig Glocken.",
-        "en" : "The old library burned in 1914. The tower that replaced it stands on a brick shaft of 48 metres, hung with forty-eight bells."
+        "de" : "Die Uhr dort oben hat keine Ziffern. Vergoldete Sterne zeigen die Stunden, für jeden amerikanischen Staat von 1928 einen.",
+        "en" : "The clock up there has no numbers. Gilded stars mark the hours, one for each American state in 1928, the year the tower opened."
       },
       "name" : "Universiteitsbibliotheek",
       "pos" : [
         50.878103,
         4.707362
       ],
-      "story" : "The old library burned in 1914. The tower that replaced it stands on a brick shaft of 48 metres, hung with forty-eight bells."
+      "story" : "The clock up there has no numbers. Gilded stars mark the hours, one for each American state in 1928, the year the tower opened."
     },
     {
-      "extendedStory" : "A city museum has stood on this spot since 1920, when the Stedelijk Museum Vander Kelen-Mertens opened. In 2009 it was rebuilt and renamed, and on 20 September that year it opened again as M. Stéphane Beel designed the new building. One letter, one museum, nearly ninety years after the doors here opened for the very beginning.",
+      "extendedStory" : "Joos Metsijs drew it for the Sint-Pieterskerk, and it counts among the Flemish masterpieces held here. A museum has stood on this spot since 1920, when it went by a much longer name. Stéphane Beel gave it a new building, and it opened again as M, a single letter for a whole museum. The drawing has outlived the plan, the money and the builders.",
       "icon" : "choice",
       "id" : "f-m-museum",
       "kind" : "museum",
       "localizedExtendedStory" : {
-        "de" : "Seit 1920 steht an dieser Stelle ein Stadtmuseum, damals als Stedelijk Museum Vander Kelen-Mertens. 2009 wurde es umgebaut und umbenannt, und am 20. September jenes Jahres öffnete es wieder als M. Stéphane Beel entwarf den Neubau. Ein Buchstabe, ein Museum, fast neunzig Jahre nachdem sich die Türen hier zum Anfang öffneten.",
-        "en" : "A city museum has stood on this spot since 1920, when the Stedelijk Museum Vander Kelen-Mertens opened. In 2009 it was rebuilt and renamed, and on 20 September that year it opened again as M. Stéphane Beel designed the new building. One letter, one museum, nearly ninety years after the doors here opened for the very beginning."
+        "de" : "Joos Metsijs zeichnete ihn für die Sint-Pieterskerk, und er zählt zu den flämischen Meisterwerken hier im Haus. Seit 1920 steht an dieser Stelle ein Museum, damals unter einem viel längeren Namen. Stéphane Beel baute ihm ein neues Haus, und es öffnete wieder als M, ein Buchstabe für ein ganzes Museum. Die Zeichnung hat den Plan, das Geld und die Bauleute überlebt.",
+        "en" : "Joos Metsijs drew it for the Sint-Pieterskerk, and it counts among the Flemish masterpieces held here. A museum has stood on this spot since 1920, when it went by a much longer name. Stéphane Beel gave it a new building, and it opened again as M, a single letter for a whole museum. The drawing has outlived the plan, the money and the builders."
       },
       "localizedStory" : {
-        "de" : "Das Stadtmuseum wuchs aus dem alten Stedelijk Museum Vander Kelen-Mertens. Stéphane Beel gab ihm 2009 ein neues Haus.",
-        "en" : "Leuven's city museum grew out of the old Stedelijk Museum Vander Kelen-Mertens. Stéphane Beel gave it a new home in 2009."
+        "de" : "Das Museum bewahrt einen Pergamentplan für drei Kirchtürme, die nie gebaut wurden. Die Kirche selbst liegt ein paar Schritte entfernt.",
+        "en" : "The museum keeps a parchment plan for three church towers that were never built. The church itself is a short walk away."
       },
       "name" : "M-Museum",
       "pos" : [
         50.878143,
         4.703686
       ],
-      "story" : "Leuven's city museum grew out of the old Stedelijk Museum Vander Kelen-Mertens. Stéphane Beel gave it a new home in 2009."
+      "story" : "The museum keeps a parchment plan for three church towers that were never built. The church itself is a short walk away."
     },
     {
-      "extendedStory" : "A chapel stood here in the 12th century, and Duke Henry I turned it into a priory in 1206. In 1453 the west tower was crowned with an openwork spire to Jan van Ruysbroeck's design. Openwork means the stone is pierced, so you can see sky straight through it. On the night of 11 to 12 May 1944 a stray Allied bomb struck the church and the abbey buildings. It was one of its own side's bombs, dropped off target.",
+      "extendedStory" : "There is a plainer reason. Jan van Ruysbroeck used no slate and no timber up there, just pale limestone, so nails were never needed. Leuven liked that so much it counted the tower among the city's seven wonders, as the tower without nails. While you are here, look at the gables over the pointed windows of the cloister wing. They are carved with abbots' staffs and mice, for Saint Gertrude.",
       "icon" : "everyday",
       "id" : "f-sint-geertruiabdij",
       "kind" : "church",
       "localizedExtendedStory" : {
-        "de" : "Im 12. Jahrhundert stand hier eine Kapelle, und 1206 machte Herzog Heinrich I. ein Priorat daraus. 1453 bekam der Westturm einen durchbrochenen Helm nach dem Entwurf von Jan van Ruysbroeck. Durchbrochen heißt, der Stein ist durchlöchert, man sieht den Himmel hindurch. In der Nacht vom 11. auf den 12. Mai 1944 traf eine verirrte alliierte Bombe Kirche und Abteigebäude. Es war eine Bombe der eigenen Seite, die ihr Ziel verfehlte.",
-        "en" : "A chapel stood here in the 12th century, and Duke Henry I turned it into a priory in 1206. In 1453 the west tower was crowned with an openwork spire to Jan van Ruysbroeck's design. Openwork means the stone is pierced, so you can see sky straight through it. On the night of 11 to 12 May 1944 a stray Allied bomb struck the church and the abbey buildings. It was one of its own side's bombs, dropped off target."
+        "de" : "Es gibt eine schlichtere Erklärung. Jan van Ruysbroeck verwendete dort oben weder Schiefer noch Holz, nur hellen Kalksandstein, da brauchte es keine Nägel. Leuven gefiel das so gut, dass der Turm zu den sieben Wundern der Stadt zählte, als Turm ohne Nägel. Schau auch auf die Giebel über den Spitzbogenfenstern des Klosterflügels. Dort sind Abtsstäbe und Mäuse eingehauen, für die heilige Gertrud.",
+        "en" : "There is a plainer reason. Jan van Ruysbroeck used no slate and no timber up there, just pale limestone, so nails were never needed. Leuven liked that so much it counted the tower among the city's seven wonders, as the tower without nails. While you are here, look at the gables over the pointed windows of the cloister wing. They are carved with abbots' staffs and mice, for Saint Gertrude."
       },
       "localizedStory" : {
-        "de" : "Herzog Heinrich I. machte hier 1206 aus einer Kapelle ein Priorat. Der durchbrochene Turmhelm kam 1453 dazu.",
-        "en" : "Duke Henry I turned a chapel here into a priory in 1206. Its openwork spire went up in 1453."
+        "de" : "Der Sage nach haben die kabotermannekens, kleine Koboldmänner, diesen Turmhelm gebaut. Er kam ganz ohne Nagel aus.",
+        "en" : "The story goes that the kabotermannekens, little goblin men, built this spire. It went up without a single nail."
       },
       "name" : "Sint-Geertruiabdij",
       "pos" : [
         50.883711,
         4.699444
       ],
-      "story" : "Duke Henry I turned a chapel here into a priory in 1206. Its openwork spire went up in 1453."
+      "story" : "The story goes that the kabotermannekens, little goblin men, built this spire. It went up without a single nail."
     },
     {
-      "extendedStory" : "The begijnhof around it was a walled village inside the town. Women lived here in a religious community without taking the vows of a nun. Their church was begun in 1305 and carries the name of John the Baptist. Gothic builders gave it pointed arches and tall windows, the shapes that pull your eye upward. The lanes here still run as they did, quiet and free of cars.",
+      "extendedStory" : "Beguines were women who lived together in a religious community without becoming nuns. Their slabs here were cut between 1396 and 1753, so you cross three and a half centuries in a few steps. One of their parish priests was a man from Utrecht named Adriaan Florensz Boeyens. He went on to advise the young Emperor Charles the Fifth, and later became Pope Adrian the Sixth.",
       "icon" : "everyday",
       "id" : "f-sint-jan-de-doperkerk",
       "kind" : "church",
       "localizedExtendedStory" : {
-        "de" : "Der Beginenhof ringsum war ein ummauertes Dorf mitten in der Stadt. Hier lebten Frauen in einer frommen Gemeinschaft, ohne Ordensgelübde abzulegen. Ihre Kirche wurde 1305 begonnen und trägt den Namen von Johannes dem Täufer. Gotische Baumeister gaben ihr Spitzbögen und hohe Fenster, Formen, die den Blick nach oben ziehen. Die Gassen verlaufen noch wie damals, still und ohne Autos.",
-        "en" : "The begijnhof around it was a walled village inside the town. Women lived here in a religious community without taking the vows of a nun. Their church was begun in 1305 and carries the name of John the Baptist. Gothic builders gave it pointed arches and tall windows, the shapes that pull your eye upward. The lanes here still run as they did, quiet and free of cars."
+        "de" : "Beginen waren Frauen, die fromm zusammenlebten, ohne Nonnen zu werden. Ihre Platten hier entstanden zwischen 1396 und 1753, man überquert also dreieinhalb Jahrhunderte in wenigen Schritten. Einer ihrer Pfarrer war ein Mann aus Utrecht namens Adriaan Florensz Boeyens. Er beriet später den jungen Kaiser Karl den Fünften und wurde am Ende Papst Hadrian der Sechste.",
+        "en" : "Beguines were women who lived together in a religious community without becoming nuns. Their slabs here were cut between 1396 and 1753, so you cross three and a half centuries in a few steps. One of their parish priests was a man from Utrecht named Adriaan Florensz Boeyens. He went on to advise the young Emperor Charles the Fifth, and later became Pope Adrian the Sixth."
       },
       "localizedStory" : {
-        "de" : "Die Kirche des Beginenhofs, begonnen 1305 und Johannes dem Täufer geweiht.",
-        "en" : "The church of the begijnhof, begun in 1305 and named for John the Baptist."
+        "de" : "Wer durch den Mittelgang geht, überquert rund neunzig Grabplatten. Sie gehören den Beginen, die hier zum Gebet kamen.",
+        "en" : "Walk up the aisle and you cross about ninety grave slabs. They belong to the beguines who worshipped here."
       },
       "name" : "Sint-Jan de Doperkerk",
       "pos" : [
         50.871414,
         4.697091
       ],
-      "story" : "The church of the begijnhof, begun in 1305 and named for John the Baptist."
+      "story" : "Walk up the aisle and you cross about ninety grave slabs. They belong to the beguines who worshipped here."
     },
     {
-      "extendedStory" : "The ring ran about 2700 metres, a near circle with Sint-Pieterskerk at its heart. Eleven stone gates let the main roads through, and thirty-one towers watched the gaps. Duke Henry I of Brabant probably ordered it built. Books long dated the wall to 1156 to 1165, but its arrow slits say early 13th century. Seventy metres still stand in the Handbooghof, two towers included.",
+      "extendedStory" : "Historians doubt it. They say the gate may be older than the wall, but not that old. What you can still walk to is a stretch of the wall itself, seventy metres of it, tucked into the Handbooghof. That courtyard was the archery guild's practice ground. The city once rented the old towers and the wall niches to neighbours as storage sheds. Look for the spiral stair cut into the thickness of the southern tower.",
       "icon" : "everyday",
       "id" : "f-eerste-stadsomwalling-van-leuven",
       "kind" : "fortress",
       "localizedExtendedStory" : {
-        "de" : "Der Ring maß rund 2700 Meter, fast ein Kreis mit der Sint-Pieterskerk in der Mitte. Elf steinerne Tore ließen die Hauptstraßen durch, einunddreißig Türme bewachten die Lücken. Herzog Heinrich I. von Brabant gab wohl den Bau in Auftrag. Lange galt 1156 bis 1165 als Bauzeit, doch die Schießscharten deuten auf das frühe 13. Jahrhundert. Siebzig Meter stehen noch im Handbooghof, samt zwei Türmen.",
-        "en" : "The ring ran about 2700 metres, a near circle with Sint-Pieterskerk at its heart. Eleven stone gates let the main roads through, and thirty-one towers watched the gaps. Duke Henry I of Brabant probably ordered it built. Books long dated the wall to 1156 to 1165, but its arrow slits say early 13th century. Seventy metres still stand in the Handbooghof, two towers included."
+        "de" : "Historiker glauben das nicht. Das Tor mag älter sein als die Mauer, so weit zurück reicht es aber nicht. Hingehen kann man zu einem Stück der Mauer selbst, siebzig Meter lang, versteckt im Handbooghof. Dieser Hof war der Übungsplatz der Bogenschützengilde. Die Stadt vermietete die alten Türme und die Mauernischen an Nachbarn als Abstellkammern. Achte auf die Wendeltreppe, die in die Dicke des südlichen Turms geschnitten ist.",
+        "en" : "Historians doubt it. They say the gate may be older than the wall, but not that old. What you can still walk to is a stretch of the wall itself, seventy metres of it, tucked into the Handbooghof. That courtyard was the archery guild's practice ground. The city once rented the old towers and the wall niches to neighbours as storage sheds. Look for the spiral stair cut into the thickness of the southern tower."
       },
       "localizedStory" : {
-        "de" : "Leuven trug einst einen steinernen Ring von rund 2700 m Länge mit einunddreißig Türmen. In der Mitte stand die Sint-Pieterskerk.",
-        "en" : "Leuven once wore a stone ring about 2700 m long, with thirty-one towers. Sint-Pieterskerk stood at its centre."
+        "de" : "Eines der Tore in diesem Steinring hieß Wolventor. Der Sage nach stammen die Wölfe von einem Kult der Nordmänner auf einer Insel in der Dijle.",
+        "en" : "One gate in this stone ring was the Wolves' Gate. Legend says the wolves came from a Norse cult on an island in the river."
       },
       "name" : "Eerste stadsomwalling van Leuven",
       "pos" : [
         50.879131,
         4.699849
       ],
-      "story" : "Leuven once wore a stone ring about 2700 m long, with thirty-one towers. Sint-Pieterskerk stood at its centre."
+      "story" : "One gate in this stone ring was the Wolves' Gate. Legend says the wolves came from a Norse cult on an island in the river."
     },
     {
-      "extendedStory" : "The square was laid out in the 1840s as one planned design, every front matching the next. After 1914 it was rebuilt, and the city chose not to copy the old faces. The outline of the square stayed, but the fronts did not. A committee for civic beauty read every building plan. Number 8 was told to take its gable from the cafe next door.",
+      "extendedStory" : "So the square sits on the old rim of Leuven, where the town stopped and the fields began. It was laid out in the 1840s as one design, every front matching its neighbour. A committee for civic beauty read every building plan that came in. The house at number 8 was told its gable had to take its cue from the cafe next door.",
       "icon" : "choice",
       "id" : "f-martelarenplein",
       "kind" : "square",
       "localizedExtendedStory" : {
-        "de" : "Der Platz entstand in den 1840er Jahren als geschlossener Entwurf, jede Fassade passend zur nächsten. Nach 1914 wurde er wieder aufgebaut, und die Stadt wollte die alten Gesichter nicht kopieren. Der Umriss des Platzes blieb, die Fassaden nicht. Ein Ausschuss für Stadtschönheit las jeden Bauantrag. Nummer 8 musste seinen Giebel dem Café nebenan abschauen.",
-        "en" : "The square was laid out in the 1840s as one planned design, every front matching the next. After 1914 it was rebuilt, and the city chose not to copy the old faces. The outline of the square stayed, but the fronts did not. A committee for civic beauty read every building plan. Number 8 was told to take its gable from the cafe next door."
+        "de" : "Der Platz liegt also am alten Rand von Leuven, dort wo die Stadt aufhörte und die Felder anfingen. Angelegt wurde er in den 1840er Jahren als ein geschlossener Entwurf, jede Fassade passend zur nächsten. Ein Ausschuss für Stadtschönheit las jeden Bauantrag, der hereinkam. Haus Nummer 8 musste seinen Giebel dem Café nebenan abschauen.",
+        "en" : "So the square sits on the old rim of Leuven, where the town stopped and the fields began. It was laid out in the 1840s as one design, every front matching its neighbour. A committee for civic beauty read every building plan that came in. The house at number 8 was told its gable had to take its cue from the cafe next door."
       },
       "localizedStory" : {
-        "de" : "Der Bahnhofsplatz. Seit 1870 führt die Bondgenotenlaan schnurgerade vom Grote Markt hierher, und am Ende steht der Bahnhof.",
-        "en" : "The station square. Since 1870 the Bondgenotenlaan runs dead straight from the Grote Markt to here, with the station at the end of it."
+        "de" : "Gräbt man unter diesem Bahnhofsplatz, stößt man auf die alte Stadtmauer. Genau das geschah, als der Platz 2001 aufgerissen wurde.",
+        "en" : "Dig under this station square and you hit the old city wall. That is what happened when the square was taken up in 2001."
       },
       "name" : "Martelarenplein",
       "pos" : [
         50.881281,
         4.715199
       ],
-      "story" : "The station square. Since 1870 the Bondgenotenlaan runs dead straight from the Grote Markt to here, with the station at the end of it."
+      "story" : "Dig under this station square and you hit the old city wall. That is what happened when the square was taken up in 2001."
     },
     {
-      "extendedStory" : "The chapel on the square was begun in 1617, a date archive papers still carry. Three centuries later it took on a second life. In 1936 Father Damien was brought to Leuven and laid to rest here. The Leuven architect Victor Broos designed the mausoleum that holds him. The square has carried the name of Damian de Veuster ever since.",
+      "extendedStory" : "It had older names still. In the thirteenth century people called it the Ledige Plaats, the low lying place. It sat below the street to the east. Cattle were sold here, then poultry, and the chapel on the square went up long before either name was dropped. Inside that chapel, small thank you plaques crowd around a statue of Saint Joseph. Pilgrims still come.",
       "icon" : "everyday",
       "id" : "f-pater-damiaanplein",
       "kind" : "square",
       "localizedExtendedStory" : {
-        "de" : "Die Kapelle am Platz wurde 1617 begonnen, ein Datum, das die Archivpapiere bis heute nennen. Drei Jahrhunderte später bekam sie eine zweite Aufgabe. 1936 brachte man Pater Damian nach Leuven und bettete ihn hier zur Ruhe. Der Leuvener Architekt Victor Broos entwarf das Mausoleum, das ihn birgt. Seither trägt der Platz den Namen von Damian de Veuster.",
-        "en" : "The chapel on the square was begun in 1617, a date archive papers still carry. Three centuries later it took on a second life. In 1936 Father Damien was brought to Leuven and laid to rest here. The Leuven architect Victor Broos designed the mausoleum that holds him. The square has carried the name of Damian de Veuster ever since."
+        "de" : "Ältere Namen hatte er auch. Im dreizehnten Jahrhundert nannte man ihn Ledige Plaats, den tief gelegenen Platz, weil er tiefer lag als die Straße im Osten. Hier wurde Vieh verkauft, später Geflügel, und die Kapelle am Platz stand schon lange davor. In der Kapelle drängen sich kleine Danktäfelchen um eine Josefsfigur. Pilger kommen immer noch.",
+        "en" : "It had older names still. In the thirteenth century people called it the Ledige Plaats, the low lying place. It sat below the street to the east. Cattle were sold here, then poultry, and the chapel on the square went up long before either name was dropped. Inside that chapel, small thank you plaques crowd around a statue of Saint Joseph. Pilgrims still come."
       },
       "localizedStory" : {
-        "de" : "Pater Damian de Veuster gab dem Platz seinen Namen. Seit 1936 ruht er in der Kapelle an diesem Platz.",
-        "en" : "Father Damien gave this square its name. The chapel on it has been his resting place since 1936."
+        "de" : "Bevor der Platz Pater Damian ehrte, wurden hier Hühner verkauft. Er hieß damals Kiekenmarkt, der Hühnermarkt.",
+        "en" : "Before it honoured Father Damien, this square sold chickens. Its name then was the Kiekenmarkt, the chicken market."
       },
       "name" : "Pater Damiaanplein",
       "pos" : [
         50.876142,
         4.697353
       ],
-      "story" : "Father Damien gave this square its name. The chapel on it has been his resting place since 1936."
+      "story" : "Before it honoured Father Damien, this square sold chickens. Its name then was the Kiekenmarkt, the chicken market."
     },
     {
-      "extendedStory" : "Ief Spincemaille was Leuven's city artist when he made this. It is built from 40 tonnes of undisturbed soil, ground that had never been dug. The work is called De Eerste Verstoring. It stands 5.30 metres high and was unveiled on 27 September 2014. Around it stand towers of the old city wall, built of stone and many centuries older.",
+      "extendedStory" : "Ief Spincemaille was Leuven's city artist when he made it. The soil came from so deep down that no human hand had ever reached it. More than a hundred volunteers packed it in, layer by layer. There is a room inside and the roof is open, so from in there you look straight up at the sky. Give it enough weather and it will settle back into the ground it came from.",
       "icon" : "everyday",
       "id" : "f-hemeltoren-de-eerste-verstoring",
       "kind" : "gate_tower",
       "localizedExtendedStory" : {
-        "de" : "Ief Spincemaille war Stadtkünstler von Leuven, als er diesen Turm baute. Er besteht aus 40 Tonnen unberührter Erde, Boden, der nie umgegraben wurde. Das Werk heißt De Eerste Verstoring. Es ist 5,30 Meter hoch und wurde am 27. September 2014 eingeweiht. Ringsum stehen Türme der alten Stadtmauer, aus Stein und viele Jahrhunderte älter.",
-        "en" : "Ief Spincemaille was Leuven's city artist when he made this. It is built from 40 tonnes of undisturbed soil, ground that had never been dug. The work is called De Eerste Verstoring. It stands 5.30 metres high and was unveiled on 27 September 2014. Around it stand towers of the old city wall, built of stone and many centuries older."
+        "de" : "Ief Spincemaille war Stadtkünstler von Leuven, als er ihn baute. Die Erde kam aus so großer Tiefe, dass sie nie eine Menschenhand berührt hatte. Über hundert Freiwillige stampften sie Schicht für Schicht fest. Innen ist ein Raum, und das Dach steht offen, von dort schaut man senkrecht in den Himmel. Genug Wetter, und der Turm sackt wieder in den Boden zurück, aus dem er kam.",
+        "en" : "Ief Spincemaille was Leuven's city artist when he made it. The soil came from so deep down that no human hand had ever reached it. More than a hundred volunteers packed it in, layer by layer. There is a room inside and the roof is open, so from in there you look straight up at the sky. Give it enough weather and it will settle back into the ground it came from."
       },
       "localizedStory" : {
-        "de" : "Ein Turm aus gestampfter Erde, 5,30 Meter hoch, 2014 zwischen die mittelalterlichen Mauertürme am Handbooghof gesetzt.",
-        "en" : "A tower of packed earth, 5.30 metres high, raised in 2014 among the medieval wall towers of the Handbooghof."
+        "de" : "Vierzig Tonnen Erde, die nie eine Hand berührt hatte, zu einem Turm gestampft. Regen und Wind holen ihn langsam wieder herunter.",
+        "en" : "Forty tonnes of earth that no hand had ever touched, pounded into a tower. Rain and wind will slowly take it back down."
       },
       "name" : "Hemeltoren De Eerste Verstoring",
       "pos" : [
         50.881409,
         4.695571
       ],
-      "story" : "A tower of packed earth, 5.30 metres high, raised in 2014 among the medieval wall towers of the Handbooghof."
+      "story" : "Forty tonnes of earth that no hand had ever touched, pounded into a tower. Rain and wind will slowly take it back down."
     }
   ],
-  "generatedAt" : "2026-09-13T14:37:36Z",
+  "generatedAt" : "2026-09-17T20:25:09Z",
   "icon" : {
     "paths" : [
       "M 29.00 90.00 L 71.00 90.00 L 71.00 46.00 L 29.00 46.00 Z M 27.00 48.00 L 73.00 48.00 L 57.00 16.00 L 43.00 16.00 Z M 21.00 90.00 L 28.00 90.00 L 28.00 34.00 L 21.00 34.00 Z M 20.00 36.00 L 29.00 36.00 L 24.50 2.00 Z M 72.00 90.00 L 79.00 90.00 L 79.00 34.00 L 72.00 34.00 Z M 71.00 36.00 L 80.00 36.00 L 75.50 2.00 Z M 48.70 20.00 L 51.30 20.00 L 51.30 6.00 L 48.70 6.00 Z M 34.00 52.00 L 38.00 52.00 L 38.00 61.00 L 34.00 61.00 Z M 42.00 52.00 L 46.00 52.00 L 46.00 61.00 L 42.00 61.00 Z M 54.00 52.00 L 58.00 52.00 L 58.00 61.00 L 54.00 61.00 Z M 62.00 52.00 L 66.00 52.00 L 66.00 61.00 L 62.00 61.00 Z M 34.00 65.00 L 38.00 65.00 L 38.00 74.00 L 34.00 74.00 Z M 42.00 65.00 L 46.00 65.00 L 46.00 74.00 L 42.00 74.00 Z M 54.00 65.00 L 58.00 65.00 L 58.00 74.00 L 54.00 74.00 Z M 62.00 65.00 L 66.00 65.00 L 66.00 74.00 L 62.00 74.00 Z M 34.00 78.00 L 38.00 78.00 L 38.00 87.00 L 34.00 87.00 Z M 42.00 78.00 L 46.00 78.00 L 46.00 87.00 L 42.00 87.00 Z M 54.00 78.00 L 58.00 78.00 L 58.00 87.00 L 54.00 87.00 Z M 62.00 78.00 L 66.00 78.00 L 66.00 87.00 L 62.00 87.00 Z"
@@ -20990,7 +20985,7 @@
     "nl" : "Leuven"
   },
   "name" : "Leuven",
-  "packVersion" : 8,
+  "packVersion" : 10,
   "schemaVersion" : 1,
   "source" : "OpenStreetMap via Overpass API",
   "stats" : {

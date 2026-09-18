@@ -83,17 +83,9 @@
 
     ],
     "adjustedStreets" : [
-      "Bruno-Kreisky-Gasse",
-      "Dr.-Karl-Lueger-Platz",
-      "Freyung",
-      "Hofburg",
-      "Schottengasse",
-      "Stephansplatz",
-      "Stock-im-Eisen-Platz",
-      "Wollzeile",
-      "Zwettlhof"
+
     ],
-    "fromVersion" : 19,
+    "fromVersion" : 21,
     "removedStreets" : [
 
     ]
@@ -22172,267 +22164,267 @@
   ],
   "fruits" : [
     {
-      "extendedStory" : "The horses are Lipizzaners. They come to Vienna from the Lipizzaner stud at Piber. They perform in the Winter Riding School inside the Hofburg, a baroque hall built under Charles the Sixth. The hall was built for riding, with room enough for horses to move and turn under a high roof.",
+      "extendedStory" : "Not one of these horses grows up in the city. Lipizzaners come to Vienna from a stud at Piber, out in the countryside. Their hall is the baroque Winter Riding School inside the palace. The emperor who had it built looks down from his own portrait, watching every lesson. The school itself was already old when that hall went up.",
       "icon" : "choice",
       "id" : "f-spanische-hofreitschule",
       "kind" : "attraction",
       "localizedExtendedStory" : {
-        "de" : "Die Pferde sind Lipizzaner. Sie kommen aus dem Lipizzanergestüt Piber nach Wien. Sie treten in der Winterreitschule in der Hofburg auf, einem barocken Saal, der unter Karl dem Sechsten gebaut wurde. Der Saal war fürs Reiten gedacht, mit Platz genug für Pferde zum Wenden unter hohem Dach.",
-        "en" : "The horses are Lipizzaners. They come to Vienna from the Lipizzaner stud at Piber. They perform in the Winter Riding School inside the Hofburg, a baroque hall built under Charles the Sixth. The hall was built for riding, with room enough for horses to move and turn under a high roof."
+        "de" : "Die weißen Pferde sind Lipizzaner, und sie wachsen nicht in der Stadt auf. Sie kommen vom Gestüt Piber auf dem Land nach Wien. Ihre Halle ist die barocke Winterreitschule in der Hofburg. Der Kaiser, der sie bauen ließ, hängt dort zu Pferd an der Wand und sieht jeder Lektion zu. Die Schule war schon alt, als diese Halle entstand.",
+        "en" : "Not one of these horses grows up in the city. Lipizzaners come to Vienna from a stud at Piber, out in the countryside. Their hall is the baroque Winter Riding School inside the palace. The emperor who had it built looks down from his own portrait, watching every lesson. The school itself was already old when that hall went up."
       },
       "localizedStory" : {
-        "de" : "Such die Spanische Hofreitschule an der Habsburgergasse. Diese Reitschule gibt es seit 1572. Stell dir die Pferde vor, die hier geübt haben.",
-        "en" : "On Habsburgergasse you'll find the Spanische Hofreitschule, a court riding school dating back to 1572. Picture the horses trained here."
+        "de" : "Die Pferde hier arbeiten unter einem gemalten Kaiser. Sein Bild hängt bis heute in der Halle, die er ihnen schenkte.",
+        "en" : "The horses here work under a painted emperor. His portrait still hangs in the hall he gave them, as a thank you."
       },
       "name" : "Spanische Hofreitschule",
       "pos" : [
         48.207372,
         16.366916
       ],
-      "story" : "On Habsburgergasse you'll find the Spanische Hofreitschule, a court riding school dating back to 1572. Picture the horses trained here."
+      "story" : "The horses here work under a painted emperor. His portrait still hangs in the hall he gave them, as a thank you."
     },
     {
-      "extendedStory" : "The house is named after Albert Casimir, Duke of Teschen, who began collecting here. Emanuel Silva-Tarouca had a hand in the building. It sits on top of the Augustinerbastei, a piece of the old town wall that was never pulled down. So the collection stands on a fortification: a place built to keep people out now exists to let them in.",
+      "extendedStory" : "The Old Town wall once ran right across this square, and that tower belonged to it. What rose above it began as one man's collection of drawings. Duke Albert gathered it, and the museum still carries his name. He and Marie Christine used pet names for each other, Berti and Mimi. A close and passionate love bound the two of them all their lives.",
       "icon" : "choice",
       "id" : "f-albertina",
       "kind" : "civic",
       "localizedExtendedStory" : {
-        "de" : "Das Haus trägt den Namen Albert Casimirs, Herzog von Teschen, der hier zu sammeln begann. Emanuel Silva-Tarouca war am Bau beteiligt. Es sitzt oben auf der Augustinerbastei, einem Stück alter Stadtmauer, das nie abgetragen wurde. Die Sammlung steht also auf einer Befestigung: gebaut, um Leute fernzuhalten, heute da, um sie hereinzulassen.",
-        "en" : "The house is named after Albert Casimir, Duke of Teschen, who began collecting here. Emanuel Silva-Tarouca had a hand in the building. It sits on top of the Augustinerbastei, a piece of the old town wall that was never pulled down. So the collection stands on a fortification: a place built to keep people out now exists to let them in."
+        "de" : "Die alte Stadtmauer lief einst quer über diesen Platz, und der Turm gehörte dazu. Was darüber entstand, begann als private Sammlung eines Mannes. Herzog Albert trug sie zusammen, und das Haus trägt bis heute seinen Namen. Er und Marie Christine nannten einander bei Kosenamen, Berti und Mimi. Eine innige Liebe verband die beiden ihr Leben lang.",
+        "en" : "The Old Town wall once ran right across this square, and that tower belonged to it. What rose above it began as one man's collection of drawings. Duke Albert gathered it, and the museum still carries his name. He and Marie Christine used pet names for each other, Berti and Mimi. A close and passionate love bound the two of them all their lives."
       },
       "localizedStory" : {
-        "de" : "Die Albertina thront seit 1776 auf der Augustinerbastei. Steig die alte Bastei hinauf, und oben erwartet dich das Gebäude.",
-        "en" : "The Albertina has stood atop the Augustinerbastei since 1776. Climb the old bastion and the building is waiting at the top."
+        "de" : "Beim Bauen stieß man hier auf die Grundmauern eines mittelalterlichen Turms, tief unter dem Platz, auf dem du stehst.",
+        "en" : "Builders here ran into the footings of a medieval tower, still down under the square you are standing on."
       },
       "name" : "Albertina",
       "pos" : [
         48.204589,
         16.368068
       ],
-      "story" : "The Albertina has stood atop the Augustinerbastei since 1776. Climb the old bastion and the building is waiting at the top."
+      "story" : "Builders here ran into the footings of a medieval tower, still down under the square you are standing on."
     },
     {
-      "extendedStory" : "Work on the church began as far back as 1137, and a new building phase started in 1365. Romanesque stonework survives in parts of it, with round arches rather than pointed Gothic ones. Fire swept the roof in 1945, and the city rebuilt it stone by stone. The south tower still draws every eye on the square.",
+      "extendedStory" : "He had laughed at the cloth tied round the figure's chin and called it the Toothache Lord. The pain went away, so the story goes, once he came back and said sorry. The name has stuck to the figure ever since. Fire tore through the church in nineteen forty five, and the city put it back together. It carries the name of Saint Stephen, and so does the ground outside its door.",
       "icon" : "hero",
       "id" : "f-stephansdom",
       "kind" : "church",
       "localizedExtendedStory" : {
-        "de" : "Am Bau der Kirche begann man schon 1137, ein neuer Bauabschnitt folgte 1365. Romanisches Mauerwerk ist in Teilen erhalten, mit runden Bögen statt gotischer Spitzen. 1945 brannte das Dach, und die Stadt baute den Dom Stein für Stein wieder auf. Der Südturm zieht bis heute jeden Blick auf sich.",
-        "en" : "Work on the church began as far back as 1137, and a new building phase started in 1365. Romanesque stonework survives in parts of it, with round arches rather than pointed Gothic ones. Fire swept the roof in 1945, and the city rebuilt it stone by stone. The south tower still draws every eye on the square."
+        "de" : "Er hatte über das Tuch gelacht, das dem Christus ums Kinn gebunden war, und ihn Zahnwehherrgott genannt. Als er zurückkam und Abbitte leistete, ließ der Schmerz nach, so erzählt man sich. Der Name blieb an der Figur hängen. Neunzehnhundertfünfundvierzig brannte es hier, und die Stadt setzte alles wieder zusammen. Ihren Namen hat die Kirche vom heiligen Stephanus.",
+        "en" : "He had laughed at the cloth tied round the figure's chin and called it the Toothache Lord. The pain went away, so the story goes, once he came back and said sorry. The name has stuck to the figure ever since. Fire tore through the church in nineteen forty five, and the city put it back together. It carries the name of Saint Stephen, and so does the ground outside its door."
       },
       "localizedStory" : {
-        "de" : "Stell dich auf den Stephansplatz und schau hinauf. Der Südturm des Doms ragt hoch über die Altstadt, benannt nach dem heiligen Stephanus.",
-        "en" : "Stand on Stephansplatz and tip your head back. The cathedral's south tower rises high over the Old Town, named for Saint Stephen."
+        "de" : "Hinten am Chor steht ein steinerner Christus. Der Sage nach spottete ein Reiter über ihn und wachte mit schlimmen Zahnschmerzen auf.",
+        "en" : "Round the back of the cathedral stands a stone Christ. The story goes that a rider mocked him and woke with terrible toothache."
       },
       "name" : "Stephansdom",
       "pos" : [
         48.208743,
         16.372589
       ],
-      "story" : "Stand on Stephansplatz and tip your head back. The cathedral's south tower rises high over the Old Town, named for Saint Stephen."
+      "story" : "Round the back of the cathedral stands a stone Christ. The story goes that a rider mocked him and woke with terrible toothache."
     },
     {
-      "extendedStory" : "147 coffins and four urns rest down here, among them 12 emperors and 19 empresses. The Habsburgs often had themselves buried in more than one place. For 41 of them the body lies here and the heart in a silver vessel in the Augustinerkirche nearby. The latest burial was on 7 October 2023, and it took the last free places.",
+      "extendedStory" : "A herald knocks, the voice inside says it does not know him, and the grand titles are read out in vain. The plain answer is the one that works. The rite is told as very old, but the friars' own account puts it at nineteen eighty nine. Down below, one person here is no Habsburg at all. She looked after Maria Theresia as a child, and the empress had words of thanks cut for her.",
       "icon" : "choice",
       "id" : "f-kaisergruft",
       "kind" : "attraction",
       "localizedExtendedStory" : {
-        "de" : "147 Särge und vier Urnen ruhen hier unten, darunter 12 Kaiser und 19 Kaiserinnen. Die Habsburger ließen sich oft an mehr als einem Ort bestatten. Bei 41 von ihnen liegt der Körper hier und das Herz in einem Silbergefäß in der nahen Augustinerkirche. Die jüngste Beisetzung war am 7. Oktober 2023, und sie belegte die letzten freien Plätze.",
-        "en" : "147 coffins and four urns rest down here, among them 12 emperors and 19 empresses. The Habsburgs often had themselves buried in more than one place. For 41 of them the body lies here and the heart in a silver vessel in the Augustinerkirche nearby. The latest burial was on 7 October 2023, and it took the last free places."
+        "de" : "Ein Herold klopft, von innen heißt es, man kenne ihn nicht, und alle großen Titel helfen nichts. Erst die schlichteste Antwort wird angenommen. Man erzählt das als uralten Brauch, doch die Aufzeichnung des Hauses nennt das Jahr neunzehnhundertneunundachtzig. Und drinnen findet sich eine, die gar keine Habsburgerin war. Sie betreute Maria Theresia als Kind, und die Kaiserin ließ ihr Worte des Danks einmeißeln.",
+        "en" : "A herald knocks, the voice inside says it does not know him, and the grand titles are read out in vain. The plain answer is the one that works. The rite is told as very old, but the friars' own account puts it at nineteen eighty nine. Down below, one person here is no Habsburg at all. She looked after Maria Theresia as a child, and the empress had words of thanks cut for her."
       },
       "localizedStory" : {
-        "de" : "Tief unter dem Neuen Markt verbirgt sich die Kaisergruft, ein kaiserliches Gewölbe von 1633. Eine stille Steinwelt unter der Stadt.",
-        "en" : "Below Neuer Markt hides the Kaisergruft, an emperors' vault built in 1633. A hushed stone world tucked under the busy square."
+        "de" : "Man erzählt, kein Titel öffne dieses Tor. Erst wenn die Antwort schlicht ein sterblicher Mensch lautet, geht es auf.",
+        "en" : "People say no title opens this door. It swings back when the answer given is a plain and ordinary mortal."
       },
       "name" : "Kaisergruft",
       "pos" : [
         48.205773,
         16.370165
       ],
-      "story" : "Below Neuer Markt hides the Kaisergruft, an emperors' vault built in 1633. A hushed stone world tucked under the busy square."
+      "story" : "People say no title opens this door. It swings back when the answer given is a plain and ordinary mortal."
     },
     {
-      "extendedStory" : "Egon Dorn opened this little stage on 25 October 1912. Its full name was Simplicissimus, which Vienna quickly shortened to Simpl. It grew into one of the best-loved and longest-lived small stages in the city. People have been laughing together in this room for well over a hundred years.",
+      "extendedStory" : "The house borrowed the name Simplicissimus from that magazine, and Vienna quickly cut it down to Simpl. The crest travelled with the name and lost its bite somewhere on the way. A stage opened here in October, and the place has not moved since. Everything that happened to it happened in the same house on the Wollzeile. It is one of the best loved and longest lived small stages in the city.",
       "icon" : "everyday",
       "id" : "f-kabarett-simpl",
       "kind" : "theatre",
       "localizedExtendedStory" : {
-        "de" : "Egon Dorn eröffnete diese kleine Bühne im Oktober 1912. Der volle Name war Simplicissimus, ein Wort, das Wien schnell zu Simpl kürzte. Daraus wurde eine der beliebtesten und langlebigsten Kleinkunstbühnen der ganzen Stadt. In diesem Raum wird seit sehr langer Zeit miteinander gelacht.",
-        "en" : "Egon Dorn opened this little stage on 25 October 1912. Its full name was Simplicissimus, which Vienna quickly shortened to Simpl. It grew into one of the best-loved and longest-lived small stages in the city. People have been laughing together in this room for well over a hundred years."
+        "de" : "Den Namen Simplicissimus borgte sich das Haus von jenem Blatt, und Wien kürzte ihn rasch zu Simpl. Das Wappentier reiste mit und verlor unterwegs seinen Biss. An einem Oktoberabend ging hier eine Bühne auf, und weggezogen ist sie nie. Alles, was danach kam, geschah im selben Haus in der Wollzeile. Es ist eines der beliebtesten und langlebigsten Kleinkunsttheater der Stadt.",
+        "en" : "The house borrowed the name Simplicissimus from that magazine, and Vienna quickly cut it down to Simpl. The crest travelled with the name and lost its bite somewhere on the way. A stage opened here in October, and the place has not moved since. Everything that happened to it happened in the same house on the Wollzeile. It is one of the best loved and longest lived small stages in the city."
       },
       "localizedStory" : {
-        "de" : "An der Postgasse liegt das Kabarett Simpl, eine kleine Bühne, auf der man zusammen lacht.",
-        "en" : "On Postgasse you'll pass Kabarett Simpl, a little stage where people come to laugh together."
+        "de" : "Münchens Blatt hatte eine zähnefletschende Bulldogge. Man erzählt, der Wiener Bulli habe geraunzt und gebellt, aber niemanden gebissen.",
+        "en" : "Munich's magazine had a bulldog baring its teeth. People say the Vienna one, Bulli, grumbled and barked but bit nobody."
       },
       "name" : "Kabarett Simpl",
       "pos" : [
         48.207625,
         16.37847
       ],
-      "story" : "On Postgasse you'll pass Kabarett Simpl, a little stage where people come to laugh together."
+      "story" : "Munich's magazine had a bulldog baring its teeth. People say the Vienna one, Bulli, grumbled and barked but bit nobody."
     },
     {
-      "extendedStory" : "Emperor Francis the Second ordered the temple, and Pietro Nobile drew the design. It was finished in 1823, three years after work began in 1820. The building is small, about ten and a half metres tall. It went up to hold one thing, a marble Theseus wrestling the centaur, carved by Antonio Canova.",
+      "extendedStory" : "A little house once stood beside it, and through that house you could walk down into the catacombs. The house was taken away, and nothing above ground says the rooms are still down there. Pietro Nobile drew the building for an emperor who wanted a piece of ancient Greece in his park. What it was built to hold was a marble Theseus wrestling a centaur. The marble has gone, and the building keeps the name.",
       "icon" : "everyday",
       "id" : "f-theseustempel",
       "kind" : "museum",
       "localizedExtendedStory" : {
-        "de" : "Kaiser Franz der Zweite gab den Tempel in Auftrag, Pietro Nobile entwarf ihn. 1823 war er fertig, drei Jahre nach dem Baubeginn 1820. Das Gebäude ist klein, nur etwa zehneinhalb Meter hoch. Errichtet wurde es für eine Sache: einen Theseus aus Marmor, der den Kentauren bezwingt, von Antonio Canova.",
-        "en" : "Emperor Francis the Second ordered the temple, and Pietro Nobile drew the design. It was finished in 1823, three years after work began in 1820. The building is small, about ten and a half metres tall. It went up to hold one thing, a marble Theseus wrestling the centaur, carved by Antonio Canova."
+        "de" : "Neben dem Tempel stand einmal ein Häuschen, durch das man in die Katakomben hinunterstieg. Das Häuschen ist abgetragen, und oben deutet nichts mehr auf die Räume darunter hin. Pietro Nobile entwarf den Bau für einen Kaiser, der ein Stück Griechenland in seinem Park wollte. Drinnen sollte ein Theseus aus Marmor stehen, der mit einem Kentauren ringt. Der Marmor ist fort, der Name blieb.",
+        "en" : "A little house once stood beside it, and through that house you could walk down into the catacombs. The house was taken away, and nothing above ground says the rooms are still down there. Pietro Nobile drew the building for an emperor who wanted a piece of ancient Greece in his park. What it was built to hold was a marble Theseus wrestling a centaur. The marble has gone, and the building keeps the name."
       },
       "localizedStory" : {
-        "de" : "Der Theseustempel von 1820 ist nach dem griechischen Helden Theseus benannt, der einen Kentauren besiegt. Halb Mensch, halb Pferd.",
-        "en" : "The Theseustempel was built in 1820. Its name comes from the Greek hero Theseus, who fought a centaur. Half man, half horse."
+        "de" : "Ein schlichter Kanaldeckel neben dem Tempel ist alles, was von den Räumen darunter geblieben ist.",
+        "en" : "A plain drain cover beside the temple is all that is left of the rooms dug out underneath."
       },
       "name" : "Theseustempel",
       "pos" : [
         48.208411,
         16.361688
       ],
-      "story" : "The Theseustempel was built in 1820. Its name comes from the Greek hero Theseus, who fought a centaur. Half man, half horse."
+      "story" : "A plain drain cover beside the temple is all that is left of the rooms dug out underneath."
     },
     {
-      "extendedStory" : "What began as a fortress kept growing for centuries. Filiberto Lucchese shaped part of it in the Renaissance style, all balance and straight lines. A newer wing opened as late as 1913, so the building spans more than six hundred years. Fire broke out in 1992, and the halls were brought back.",
+      "extendedStory" : "Look along the palace front and you will find where it stops running straight. Long before anyone joked about that, an emperor tried something far odder. He began a wooden passage on stilts, meant to carry him six hundred metres above the lanes to the cathedral. It was never finished, and his successor had the thing taken down. The Nose is still there.",
       "icon" : "choice",
       "id" : "f-hofburg",
       "kind" : "fortress",
       "localizedExtendedStory" : {
-        "de" : "Was als Festung begann, wuchs über Jahrhunderte weiter. Filiberto Lucchese gestaltete einen Teil im Stil der Renaissance, ruhig und gerade. Ein neuerer Flügel wurde erst 1913 eröffnet, das Bauwerk umspannt also mehr als sechshundert Jahre. 1992 brach ein Feuer aus, und die Säle wurden wiederhergestellt.",
-        "en" : "What began as a fortress kept growing for centuries. Filiberto Lucchese shaped part of it in the Renaissance style, all balance and straight lines. A newer wing opened as late as 1913, so the building spans more than six hundred years. Fire broke out in 1992, and the halls were brought back."
+        "de" : "Wandere die lange Front entlang, dann findest du die Stelle, wo sie aus der Reihe springt. Viel früher versuchte ein Kaiser hier etwas noch Seltsameres. Er ließ einen hölzernen Gang auf Stelzen bauen, sechshundert Meter weit über die Dächer hinüber zum Dom. Fertig wurde der Gang nie, und sein Nachfolger ließ ihn abtragen. Die Nase aber steht bis heute.",
+        "en" : "Look along the palace front and you will find where it stops running straight. Long before anyone joked about that, an emperor tried something far odder. He began a wooden passage on stilts, meant to carry him six hundred metres above the lanes to the cathedral. It was never finished, and his successor had the thing taken down. The Nose is still there."
       },
       "localizedStory" : {
-        "de" : "Die Hofburg. Eine Festung, erbaut ab 1279. Sogar die Gasse, auf der du gehst, trägt ihren Namen.",
-        "en" : "The Hofburg. A stronghold built from 1279 onwards. The very street you walk carries its name."
+        "de" : "Ein Flügel springt aus der langen Front vor. Man erzählt, die Wiener hätten ihn deshalb die Nase genannt.",
+        "en" : "One wing pokes out of the long front here. People say that is why the Viennese named it the Nose."
       },
       "name" : "Hofburg",
       "pos" : [
         48.20641,
         16.36597
       ],
-      "story" : "The Hofburg. A stronghold built from 1279 onwards. The very street you walk carries its name."
+      "story" : "One wing pokes out of the long front here. People say that is why the Viennese named it the Nose."
     },
     {
-      "extendedStory" : "People have crossed here far longer than the ironwork suggests. A bridge at this spot is written down in 1295, then a simple wooden one. From the middle of the 15th century a stone bridge with a Gothic pointed arch carried the street. Josef Hackhofer designed the one you are standing on, in the flowing Jugendstil manner of its day. Look over the parapet: the street below is the Tiefer Graben.",
+      "extendedStory" : "A crossing has been written down here since long before the ironwork you are standing on. At the start it was a simple wooden one, then a stone bridge with a pointed arch. Josef Hackhofer drew the one that stands today, in the curling Jugendstil manner of his time. The shop fronts came with it, part of the decoration and never meant to sell a thing.",
       "icon" : "everyday",
       "id" : "f-hohe-brucke",
       "kind" : "bridge",
       "localizedExtendedStory" : {
-        "de" : "Hier ging man weit länger hinüber, als das Eisenwerk vermuten lässt. Eine Brücke an dieser Stelle ist 1295 erwähnt, damals aus Holz. Ab Mitte des 15. Jahrhunderts trug eine gemauerte Brücke mit gotischem Spitzbogen die Straße. Josef Hackhofer entwarf die, auf der du stehst, im schwingenden Jugendstil seiner Zeit. Schau über die Brüstung: Die Gasse darunter ist der Tiefe Graben.",
-        "en" : "People have crossed here far longer than the ironwork suggests. A bridge at this spot is written down in 1295, then a simple wooden one. From the middle of the 15th century a stone bridge with a Gothic pointed arch carried the street. Josef Hackhofer designed the one you are standing on, in the flowing Jugendstil manner of its day. Look over the parapet: the street below is the Tiefer Graben."
+        "de" : "Ein Übergang an dieser Stelle ist lange vor dem Eisenwerk bezeugt, auf dem du stehst. Zuerst war er aus Holz, später trug eine gemauerte Brücke mit gotischem Spitzbogen die Straße. Josef Hackhofer entwarf die heutige Brücke im geschwungenen Jugendstil seiner Zeit. Die Geschäftsportale gehörten von Anfang an dazu, als Schmuck, nicht zum Verkaufen.",
+        "en" : "A crossing has been written down here since long before the ironwork you are standing on. At the start it was a simple wooden one, then a stone bridge with a pointed arch. Josef Hackhofer drew the one that stands today, in the curling Jugendstil manner of his time. The shop fronts came with it, part of the decoration and never meant to sell a thing."
       },
       "localizedStory" : {
-        "de" : "Hohe Brücke. Hoch heißt sie zu Recht: Seit 1903 führt sie über die tief gelegene Gasse Tiefer Graben hinweg.",
-        "en" : "The Hohe Brücke, or 'high bridge', has carried walkers since 1903. Below it runs Tiefer Graben, the 'deep ditch'."
+        "de" : "Die Geschäftsportale an dieser Brücke sind reine Zierde. Hinter den Rollläden ist nur etwa ein halber Meter Platz.",
+        "en" : "The shop fronts on this bridge are pure decoration. Behind the shutters there is about half a metre of room and nothing else."
       },
       "name" : "Hohe Brücke",
       "pos" : [
         48.212748,
         16.368586
       ],
-      "story" : "The Hohe Brücke, or 'high bridge', has carried walkers since 1903. Below it runs Tiefer Graben, the 'deep ditch'."
+      "story" : "The shop fronts on this bridge are pure decoration. Behind the shutters there is about half a metre of room and nothing else."
     },
     {
-      "extendedStory" : "The name goes back to 1181, when the monastery quarter here was freed from the town's courts. Anyone in trouble who reached this ground was beyond their reach. The whole square has carried the name Freyung since 1710. In the middle stands the Austriabrunnen, set up in 1846 by Ludwig von Schwanthaler.",
+      "extendedStory" : "She came from Munich, and the tale says the monument went up so fast that the smuggler never got his chance. Restorers finally looked inside, and the story turned out to be nothing but a good one. Look at the figures around her feet. They are river gods, and they are standing, which no one had shown before. The square's own name comes from an old right of freedom granted to the monastery beside it.",
       "icon" : "everyday",
       "id" : "f-freyung",
       "kind" : "square",
       "localizedExtendedStory" : {
-        "de" : "Der Name geht auf 1181 zurück, als der Klosterbezirk hier von den Gerichten der Stadt befreit wurde. Wer in Not war und diesen Boden erreichte, war außer ihrer Reichweite. Für den ganzen Platz gilt der Name Freyung seit 1710. In der Mitte steht der Austriabrunnen, 1846 von Ludwig von Schwanthaler errichtet.",
-        "en" : "The name goes back to 1181, when the monastery quarter here was freed from the town's courts. Anyone in trouble who reached this ground was beyond their reach. The whole square has carried the name Freyung since 1710. In the middle stands the Austriabrunnen, set up in 1846 by Ludwig von Schwanthaler."
+        "de" : "Sie kam aus München, und die Erzählung sagt, das Denkmal sei so schnell gestanden, dass der Schmuggler nie mehr herankam. Bei einer Restaurierung schaute man endlich hinein, und von den Zigarren war nichts zu finden. Schau dir die Gestalten unten am Brunnen an. Es sind Flussgötter, und sie stehen aufrecht, was vorher niemand so gezeigt hatte. Der Platz selbst heißt nach einem alten Freiheitsrecht des Stifts nebenan.",
+        "en" : "She came from Munich, and the tale says the monument went up so fast that the smuggler never got his chance. Restorers finally looked inside, and the story turned out to be nothing but a good one. Look at the figures around her feet. They are river gods, and they are standing, which no one had shown before. The square's own name comes from an old right of freedom granted to the monastery beside it."
       },
       "localizedStory" : {
-        "de" : "Freyung. Der Name bedeutet 'Freiung': Wer früher in Not war und die Tür der Mönche hier erreichte, war sicher.",
-        "en" : "Freyung. Its name means 'freeing': long ago, someone in trouble who reached the monks' door here was safe."
+        "de" : "Man erzählt, in der hohlen Figur auf diesem Platz seien Zigarren versteckt gewesen, hereingeschmuggelt und nie wieder herausgeholt.",
+        "en" : "The story goes that cigars were hidden inside the hollow statue on this square, smuggled in and never got out again."
       },
       "name" : "Freyung",
       "pos" : [
         48.211602,
         16.365275
       ],
-      "story" : "Freyung. Its name means 'freeing': long ago, someone in trouble who reached the monks' door here was safe."
+      "story" : "The story goes that cigars were hidden inside the hollow statue on this square, smuggled in and never got out again."
     },
     {
-      "extendedStory" : "Ludwig Baumann built these fountains between 1909 and 1913, while the great ministry behind them was going up. The city took them into its care in 1914. Look at the shape: a stepped base, a basin like a cloverleaf, four animal heads spouting water. On top sits a crowned double eagle, made by Fritz Zerritsch the elder.",
+      "extendedStory" : "They went up beside a building meant for a single purpose, and the name came later. Once several ministries moved in, people started calling them the ministry fountains, and it stuck. Look at the basin: it is shaped like a cloverleaf on a stepped base. Four animal heads spit the water out below. Above them sits a crowned double eagle, and it came from a different hand than the fountain itself.",
       "icon" : "everyday",
       "id" : "f-ministerienbrunnen",
       "kind" : "fountain",
       "localizedExtendedStory" : {
-        "de" : "Ludwig Baumann errichtete diese Brunnen zwischen 1909 und 1913, während hinter ihnen das große Ministerium entstand. 1914 nahm die Stadt sie in ihre Obhut. Schau auf die Form: ein Stufensockel, ein Becken wie ein Kleeblatt, vier Tiermasken speien Wasser. Oben sitzt ein gekrönter Doppeladler von Fritz Zerritsch dem Älteren.",
-        "en" : "Ludwig Baumann built these fountains between 1909 and 1913, while the great ministry behind them was going up. The city took them into its care in 1914. Look at the shape: a stepped base, a basin like a cloverleaf, four animal heads spouting water. On top sits a crowned double eagle, made by Fritz Zerritsch the elder."
+        "de" : "Sie entstanden neben einem Haus, das für einen ganz anderen Zweck gedacht war, und der Name kam später. Als mehrere Ministerien einzogen, nannte man sie Ministerienbrunnen, und dabei blieb es. Schau auf das Becken: es hat die Form eines Kleeblatts auf einem Stufensockel. Darunter speien vier Tiermasken das Wasser. Ganz oben sitzt ein gekrönter Doppeladler, und der stammt von einer anderen Hand als der Brunnen.",
+        "en" : "They went up beside a building meant for a single purpose, and the name came later. Once several ministries moved in, people started calling them the ministry fountains, and it stuck. Look at the basin: it is shaped like a cloverleaf on a stepped base. Four animal heads spit the water out below. Above them sits a crowned double eagle, and it came from a different hand than the fountain itself."
       },
       "localizedStory" : {
-        "de" : "Vier Tiermasken speien Wasser in ein Kleeblattbecken am Stubenring, darüber ein gekrönter Doppeladler.",
-        "en" : "Four animal heads spout water into a cloverleaf basin on Stubenring, under a crowned double eagle."
+        "de" : "Diese Brunnen sind nach Ministerien benannt, die es hier noch gar nicht gab, als das Wasser zu laufen begann.",
+        "en" : "These fountains are named after ministries that were not even here yet when the water started running."
       },
       "name" : "Ministerienbrunnen",
       "pos" : [
         48.209744,
         16.382346
       ],
-      "story" : "Four animal heads spout water into a cloverleaf basin on Stubenring, under a crowned double eagle."
+      "story" : "These fountains are named after ministries that were not even here yet when the water started running."
     },
     {
-      "extendedStory" : "Raimund Hochleitner opened the coffee house after the building went up between 1861 and 1863. It has carried the name Schwarzenberg since 1902. Vienna's other famous cafes filled up with painters and poets; this one filled up with people from business. The architect Josef Hoffmann was among its regulars, and drew many of his designs at these tables.",
+      "extendedStory" : "The promenade set off from the Sirkecke and came to rest at these tables. It was no artists' cafe. Business people met here, talked here, and settled things over their cups. One regular did draw, though: the architect Josef Hoffmann worked out many of his designs here. The house took the Schwarzenberg name a good while after it opened its doors.",
       "icon" : "everyday",
       "id" : "f-schwarzenberg",
       "kind" : "food_landmark",
       "localizedExtendedStory" : {
-        "de" : "Raimund Hochleitner eröffnete das Kaffeehaus, nachdem das Haus zwischen 1861 und 1863 gebaut worden war. Den Namen Schwarzenberg trägt es seit 1902. In Wiens anderen berühmten Cafés saßen Maler und Dichter; hier saßen Leute aus der Wirtschaft. Der Architekt Josef Hoffmann gehörte zu den Stammgästen und entwarf an diesen Tischen viele seiner Arbeiten.",
-        "en" : "Raimund Hochleitner opened the coffee house after the building went up between 1861 and 1863. It has carried the name Schwarzenberg since 1902. Vienna's other famous cafes filled up with painters and poets; this one filled up with people from business. The architect Josef Hoffmann was among its regulars, and drew many of his designs at these tables."
+        "de" : "Der Korso begann an der Sirkecke und kam an diesen Tischen zur Ruhe. Ein Künstlercafé war das Haus nie. Hier trafen sich Leute aus der Wirtschaft, redeten und machten ihre Sachen aus. Einer zeichnete trotzdem: Der Architekt Josef Hoffmann entwarf hier viele seiner Arbeiten. Den Namen Schwarzenberg trägt das Haus erst seit einer ganzen Weile nach der Eröffnung.",
+        "en" : "The promenade set off from the Sirkecke and came to rest at these tables. It was no artists' cafe. Business people met here, talked here, and settled things over their cups. One regular did draw, though: the architect Josef Hoffmann worked out many of his designs here. The house took the Schwarzenberg name a good while after it opened its doors."
       },
       "localizedStory" : {
-        "de" : "An der Schwarzenbergstraße findest du das Schwarzenberg. Ein einladender Ort für eine kleine Rast.",
-        "en" : "On Schwarzenbergstraße you'll find Schwarzenberg. A welcoming spot to stop and rest your feet."
+        "de" : "Mittags ging das feine Wien den Ring entlang, und in diesem Kaffeehaus endete der Spaziergang.",
+        "en" : "At midday the smart of Vienna paraded along the Ring, and this coffee house was where they stopped."
       },
       "name" : "Schwarzenberg",
       "pos" : [
         48.201852,
         16.373918
       ],
-      "story" : "On Schwarzenbergstraße you'll find Schwarzenberg. A welcoming spot to stop and rest your feet."
+      "story" : "At midday the smart of Vienna paraded along the Ring, and this coffee house was where they stopped."
     },
     {
-      "extendedStory" : "The church is dated to 801, which makes it very old indeed for this city. It is built in the Romanesque manner, heavy and plain, with round arches rather than pointed ones. It stands about 15 metres high, small beside the towers that came later. The name belongs to Rupert of Salzburg, the patron of the salt traders who worked on the river below.",
+      "extendedStory" : "Vienna went ahead and held the celebration anyway, on the strength of a date nobody could check. The building you see is low and plain, and it wears its age quietly. Step inside and look at the middle window behind the altar. Its painted glass is the oldest in the city. Those colours have been catching the light there since the end of the thirteenth century.",
       "icon" : "choice",
       "id" : "f-ruprechtskirche",
       "kind" : "church",
       "localizedExtendedStory" : {
-        "de" : "Die Kirche wird auf 801 datiert, was für diese Stadt sehr früh ist. Gebaut ist sie romanisch, schwer und schlicht, mit Rundbögen statt Spitzbögen. Sie ist etwa 15 Meter hoch, klein neben den Türmen, die später kamen. Der Name gehört Rupert von Salzburg, dem Patron der Salzhändler, die unten am Fluss arbeiteten.",
-        "en" : "The church is dated to 801, which makes it very old indeed for this city. It is built in the Romanesque manner, heavy and plain, with round arches rather than pointed ones. It stands about 15 metres high, small beside the towers that came later. The name belongs to Rupert of Salzburg, the patron of the salt traders who worked on the river below."
+        "de" : "Wien feierte trotzdem, gestützt auf ein Datum, das niemand nachprüfen konnte. Das Haus selbst ist niedrig und schlicht und trägt sein Alter still. Geh hinein und schau auf das mittlere Fenster hinter dem Altar. Seine Glasmalerei ist die älteste der Stadt. Diese Farben fangen dort schon seit dem Ende des dreizehnten Jahrhunderts das Licht.",
+        "en" : "Vienna went ahead and held the celebration anyway, on the strength of a date nobody could check. The building you see is low and plain, and it wears its age quietly. Step inside and look at the middle window behind the altar. Its painted glass is the oldest in the city. Those colours have been catching the light there since the end of the thirteenth century."
       },
       "localizedStory" : {
-        "de" : "Eine kleine romanische Kirche, auf 801 datiert, über der alten Salzlände am Kanal.",
-        "en" : "A small Romanesque church dated to 801, standing above the old salt landing on the canal."
+        "de" : "Wann diese kleine Kirche entstand, weiß niemand sicher. Der Sage nach so früh, dass Wien ihr tausendjähriges Fest feierte.",
+        "en" : "Nobody can prove when this little church began. The story goes it started so long ago that Vienna held its thousandth birthday."
       },
       "name" : "Ruprechtskirche",
       "pos" : [
         48.21199,
         16.3744
       ],
-      "story" : "A small Romanesque church dated to 801, standing above the old salt landing on the canal."
+      "story" : "Nobody can prove when this little church began. The story goes it started so long ago that Vienna held its thousandth birthday."
     },
     {
-      "extendedStory" : "Erich Boltenstern designed this tower and it went up in 1955. It rises 73 metres, which made it a landmark on a skyline of roofs and spires. The style is the modernism of the years after the war, when Vienna was rebuilding. A tower like this says something plain: the city meant to go on.",
+      "extendedStory" : "One hundred and seventeen lamps sit up there, in red, green and white. Green tells you what the weather will do, red what the temperature will do. Lamps climbing down mean it is turning worse. Flashing red is a warning of a storm, flashing white of snow or ice. You can read it from the street, long before you reach the door.",
       "icon" : "everyday",
       "id" : "f-ringturm",
       "kind" : "other",
       "localizedExtendedStory" : {
-        "de" : "Erich Boltenstern entwarf diesen Turm, und 1955 wurde er gebaut. Er ragt 73 Meter hoch und wurde damit zum Merkzeichen über einer Dachlandschaft aus Ziegeln und Türmen. Der Stil ist die Moderne der Nachkriegsjahre, als Wien wieder aufbaute. So ein Turm sagt etwas Schlichtes: Die Stadt wollte weitermachen.",
-        "en" : "Erich Boltenstern designed this tower and it went up in 1955. It rises 73 metres, which made it a landmark on a skyline of roofs and spires. The style is the modernism of the years after the war, when Vienna was rebuilding. A tower like this says something plain: the city meant to go on."
+        "de" : "Hundertsiebzehn Scheinwerfer stehen dort oben, in Rot, Grün und Weiß. Grün sagt dir, was das Wetter macht, Rot, was die Temperatur macht. Klettern die Lichter nach unten, wird die Lage schlechter. Rotes Blinken warnt vor Sturm und Gewitter, weißes vor Schnee oder Glatteis. Das alles kannst du von der Gasse aus lesen, lange bevor du die Tür erreichst.",
+        "en" : "One hundred and seventeen lamps sit up there, in red, green and white. Green tells you what the weather will do, red what the temperature will do. Lamps climbing down mean it is turning worse. Flashing red is a warning of a storm, flashing white of snow or ice. You can read it from the street, long before you reach the door."
       },
       "localizedStory" : {
-        "de" : "Ein 73 Meter hoher Turm von 1955 am Franz-Josefs-Kai, gebaut, als Wien sich wieder aufbaute.",
-        "en" : "A 73-metre tower from 1955 on the Franz-Josefs-Kai, built when Vienna was putting itself back together."
+        "de" : "Der Mast auf diesem Turm sagt dir das Wetter von morgen. Klettern die grünen Lichter hinauf, wird es besser.",
+        "en" : "The mast on top of this tower tells you tomorrow's weather. Green lamps climbing up mean it is turning better."
       },
       "name" : "Ringturm",
       "pos" : [
         48.217059,
         16.370295
       ],
-      "story" : "A 73-metre tower from 1955 on the Franz-Josefs-Kai, built when Vienna was putting itself back together."
+      "story" : "The mast on top of this tower tells you tomorrow's weather. Green lamps climbing up mean it is turning better."
     }
   ],
-  "generatedAt" : "2026-09-13T14:39:32Z",
+  "generatedAt" : "2026-09-17T20:59:33Z",
   "icon" : {
     "paths" : [
       "m34 10 l32 0 l0 24 l24 0 l0 32 l-24 0 l0 24 l-32 0 l0 -24 l-24 0 l0 -32 l24 0 z"
@@ -22445,7 +22437,7 @@
     "en" : "Vienna"
   },
   "name" : "Vienna",
-  "packVersion" : 20,
+  "packVersion" : 22,
   "schemaVersion" : 1,
   "source" : "OpenStreetMap via Overpass API",
   "stats" : {
