@@ -203,10 +203,9 @@
 
     ],
     "adjustedStreets" : [
-      "Komenskega ulica",
-      "Resljeva cesta"
+
     ],
-    "fromVersion" : 24,
+    "fromVersion" : 25,
     "removedStreets" : [
 
     ]
@@ -16449,187 +16448,187 @@
   ],
   "fruits" : [
     {
-      "extendedStory" : "Look at the base and you will find carved figures pouring water. Each one stands for a river: the Sava, the Krka and the Ljubljanica. Above them a stone obelisk lifts ten metres over Mestni trg. Francesco Robba carved it between 1743 and 1751. The one you see today is a copy, and the restored original stands in the National Gallery. Watch where the water leaves each figure and you follow all three at once.",
+      "extendedStory" : "The rivers sit together at your feet: Sava, Krka and Ljubljanica. Behind them rises the stone obelisk, and just getting it here was a job. Hauling it out of its quarry took nearly thirteen days. Up to twenty pairs of oxen pulled and strained to move it. Tip your head back, follow it up to its point, and imagine all those hooves.",
       "icon" : "choice",
       "id" : "f-robbov-vodnjak",
       "kind" : "fountain",
       "localizedExtendedStory" : {
-        "de" : "Die drei Marmorfiguren am Fuß sind Flussgötter. Sie stehen für die Save, die Gurk und die Ljubljanica. Hinter ihnen steigt ein steinerner Obelisk zehn Meter in die Höhe. Francesco Robba schuf ihn zwischen 1743 und 1751. Auf dem Mestni trg steht heute eine Kopie und das restaurierte Original in der Nationalgalerie. Schau, wie das Wasser jede Figur verlässt, dann folgst du drei Flüssen auf einmal.",
-        "en" : "Look at the base and you will find carved figures pouring water. Each one stands for a river: the Sava, the Krka and the Ljubljanica. Above them a stone obelisk lifts ten metres over Mestni trg. Francesco Robba carved it between 1743 and 1751. The one you see today is a copy, and the restored original stands in the National Gallery. Watch where the water leaves each figure and you follow all three at once."
+        "de" : "Die Flussfiguren bekamen trotzdem ihren Marmor aus Carrara. Sie stehen für Save, Krka und Ljubljanica und sammeln sich am Fuß eines hohen Obelisken aus Stein. Schon der Obelisk war eine Plackerei für sich. Ihn aus dem Steinbruch herzuschaffen dauerte fast dreizehn Tage, mit bis zu zwanzig Ochsengespannen. Schau an ihm hinauf und stell dir die Ochsen vor, die ihn gezogen haben.",
+        "en" : "The rivers sit together at your feet: Sava, Krka and Ljubljanica. Behind them rises the stone obelisk, and just getting it here was a job. Hauling it out of its quarry took nearly thirteen days. Up to twenty pairs of oxen pulled and strained to move it. Tip your head back, follow it up to its point, and imagine all those hooves."
       },
       "localizedStory" : {
-        "de" : "Drei Flussgötter aus Marmor bewachen einen schlanken Obelisken, der zehn Meter in die Höhe schießt.",
-        "en" : "Three carved rivermen in marble guard a slim stone spire that shoots ten metres into the air."
+        "de" : "Das Schiff mit weiterem Marmor aus Venedig sank bei Triest. Deshalb besteht dieser Brunnen zum großen Teil aus heimischem Stein.",
+        "en" : "The ship bringing more marble from Venice sank near Trieste. That is why much of this fountain is local stone."
       },
       "name" : "Robbov vodnjak",
       "pos" : [
         46.050099,
         14.507009
       ],
-      "story" : "Three carved rivermen in marble guard a slim stone spire that shoots ten metres into the air."
+      "story" : "The ship bringing more marble from Venice sank near Trieste. That is why much of this fountain is local stone."
     },
     {
-      "extendedStory" : "Look up as you stand here and you will notice soft, flowing lines across the buildings. This is the Art Nouveau style, full of gentle curves and ornament. One of the grand fronts was designed by the architect Edvard Ravnikar. Slow down and let your eyes climb from the shop windows to the rooftops.",
+      "extendedStory" : "Search the wall across the square for her face. Her statue sits up there as a symbol, and the two face each other across the square. The square carries the poet's name. The architect Edvard Ravnikar shaped it, and the houses around it wear Art Nouveau, a style of soft, flowing curves. Stand between the two statues and you are standing inside a love story.",
       "icon" : "choice",
       "id" : "f-presernov-trg",
       "kind" : "square",
       "localizedExtendedStory" : {
-        "de" : "Schau dich hier um und du entdeckst weiche, fließende Linien an den Häusern. Das ist der Jugendstil, voller sanfter Rundungen und Verzierungen. Eine der prächtigen Fassaden entwarf der Architekt Edvard Ravnikar. Lass deinen Blick in Ruhe von den Schaufenstern bis hinauf zu den Dächern wandern.",
-        "en" : "Look up as you stand here and you will notice soft, flowing lines across the buildings. This is the Art Nouveau style, full of gentle curves and ornament. One of the grand fronts was designed by the architect Edvard Ravnikar. Slow down and let your eyes climb from the shop windows to the rooftops."
+        "de" : "Such an der Hauswand gegenüber nach ihrem Gesicht. Ihre Figur sitzt dort als Sinnbild, und die beiden sehen einander über den Platz hinweg an. Der Platz trägt den Namen des Dichters. Gestaltet hat ihn der Architekt Edvard Ravnikar, und die Häuser ringsum zeigen Jugendstil, einen Stil aus weichen, fließenden Linien. Stell dich zwischen die beiden Figuren, und du stehst mitten in einer Liebesgeschichte.",
+        "en" : "Search the wall across the square for her face. Her statue sits up there as a symbol, and the two face each other across the square. The square carries the poet's name. The architect Edvard Ravnikar shaped it, and the houses around it wear Art Nouveau, a style of soft, flowing curves. Stand between the two statues and you are standing inside a love story."
       },
       "localizedStory" : {
-        "de" : "Dieser Platz trägt den Namen von France Prešeren, ein lebendiger Ort in Ljubljana, um Freunde zu treffen und dem Tag zuzusehen.",
-        "en" : "People gather on this square named for the poet France Prešeren, meeting under buildings dressed in flowing Art Nouveau curves."
+        "de" : "Der Dichter France Prešeren blickt über den Platz auf ein Haus in der Wolfova ulica. Von dessen Fassade schaut seine große Liebe Julija Primic zurück.",
+        "en" : "The poet France Prešeren gazes across the square at a house in Wolfova ulica. From its facade, his great love Julija Primic looks back."
       },
       "name" : "Prešernov trg",
       "pos" : [
         46.051371,
         14.506016
       ],
-      "story" : "People gather on this square named for the poet France Prešeren, meeting under buildings dressed in flowing Art Nouveau curves."
+      "story" : "The poet France Prešeren gazes across the square at a house in Wolfova ulica. From its facade, his great love Julija Primic looks back."
     },
     {
-      "extendedStory" : "Ljubljana's castle has watched over the Old Town since the eleventh century, when a wooden fort stood on this hill. For centuries a fire guard lived in its tower. When flames appeared he fired a cannon to warn everyone below. Climb the lookout tower today for the view. Its very top stands exactly 400 metres above the sea.",
+      "extendedStory" : "Ever since, the dragon has been the city's symbol, and one sits on its coat of arms. The castle up here goes back to around the year 900. For a long time a fire guard lived in its tower. If he saw flames in the streets below, he fired a cannon to warn everyone. Climb the tower and look out over the rooftops he once kept safe.",
       "icon" : "hero",
       "id" : "f-ljubljanski-grad",
       "kind" : "fortress",
       "localizedExtendedStory" : {
-        "de" : "Ljubljanas Burg wacht über die Altstadt, seit im elften Jahrhundert oben auf dem Hügel eine Holzburg stand. Jahrhundertelang wohnte ein Feuerwächter in ihrem Turm. Wenn Flammen auftauchten, feuerte er eine Kanone ab, um alle unten zu warnen. Steig heute für die Aussicht auf den Aussichtsturm. Seine Spitze liegt genau 400 Meter über dem Meer.",
-        "en" : "Ljubljana's castle has watched over the Old Town since the eleventh century, when a wooden fort stood on this hill. For centuries a fire guard lived in its tower. When flames appeared he fired a cannon to warn everyone below. Climb the lookout tower today for the view. Its very top stands exactly 400 metres above the sea."
+        "de" : "Seitdem ist der Drache das Zeichen der Stadt, und einer sitzt auf ihrem Wappen. Die Burg hier oben reicht bis etwa ins Jahr 900 zurück. Lange wohnte in ihrem Turm ein Feuerwächter. Sah er unten in den Gassen Flammen, feuerte er eine Kanone ab und warnte alle. Steig auf den Turm und schau über die Dächer, auf die er einst aufgepasst hat.",
+        "en" : "Ever since, the dragon has been the city's symbol, and one sits on its coat of arms. The castle up here goes back to around the year 900. For a long time a fire guard lived in its tower. If he saw flames in the streets below, he fired a cannon to warn everyone. Climb the tower and look out over the rooftops he once kept safe."
       },
       "localizedStory" : {
-        "de" : "Oben auf der Burg hielt einst ein Wächter vom Turm aus Ausschau. Brach unten ein Feuer aus, feuerte er eine Kanone ab, um zu warnen.",
-        "en" : "Up at the castle, a fire guard once watched from the tower. If flames rose below, he fired a cannon to warn the city."
+        "de" : "Der Sage nach gründete Jason diese Stadt. Auf der Flucht mit dem Goldenen Vlies besiegte er in den Sümpfen an der Ljubljanica einen Drachen.",
+        "en" : "Legend says Jason founded this city. Fleeing with the Golden Fleece, he met a dragon in the marshes by the Ljubljanica and defeated it."
       },
       "name" : "Ljubljanski grad",
       "pos" : [
         46.04885,
         14.50857
       ],
-      "story" : "Up at the castle, a fire guard once watched from the tower. If flames rose below, he fired a cannon to warn the city."
+      "story" : "Legend says Jason founded this city. Fleeing with the Golden Fleece, he met a dragon in the marshes by the Ljubljanica and defeated it."
     },
     {
-      "extendedStory" : "The architect Jože Plečnik designed this library as a journey toward knowledge. Inside, a grand dark staircase climbs upward past 32 pillars of black Podpeč marble. The steps feel serious and quiet, like the hush of a reading room. Climb them slowly and imagine the winged horse from the door carrying you up toward the books.",
+      "extendedStory" : "Behind that door, a grand dark staircase climbs past 32 pillars of black Podpeč marble. The architect Jože Plečnik gave the library this way in. You start in the dark and climb toward knowledge, just as the winged horse on the door promised. Take the steps slowly and count the pillars as you go. The library itself dates from 1774.",
       "icon" : "choice",
       "id" : "f-narodna-in-univerzitetna-knjiznica",
       "kind" : "civic",
       "localizedExtendedStory" : {
-        "de" : "Der Architekt Jože Plečnik entwarf diese Bibliothek als einen Weg zum Wissen. Drinnen steigt eine große, dunkle Treppe an 32 Säulen aus schwarzem Podpeč-Marmor empor. Die Stufen wirken ernst und still, wie die Ruhe eines Lesesaals. Steig langsam hinauf und stell dir vor, das geflügelte Pferd vom Tor trägt dich hoch zu den Büchern.",
-        "en" : "The architect Jože Plečnik designed this library as a journey toward knowledge. Inside, a grand dark staircase climbs upward past 32 pillars of black Podpeč marble. The steps feel serious and quiet, like the hush of a reading room. Climb them slowly and imagine the winged horse from the door carrying you up toward the books."
+        "de" : "Hinter der Tür steigt eine große, dunkle Treppe an 32 Säulen aus schwarzem Podpeč-Marmor empor. Diesen Aufgang hat der Architekt Jože Plečnik der Bibliothek gegeben. Du beginnst im Dunkeln und steigst dem Wissen entgegen, so wie es das Flügelpferd an der Tür versprochen hat. Nimm die Stufen langsam und zähl die Säulen mit. Die Bibliothek selbst gibt es seit 1774.",
+        "en" : "Behind that door, a grand dark staircase climbs past 32 pillars of black Podpeč marble. The architect Jože Plečnik gave the library this way in. You start in the dark and climb toward knowledge, just as the winged horse on the door promised. Take the steps slowly and count the pillars as you go. The library itself dates from 1774."
       },
       "localizedStory" : {
-        "de" : "Jeder Griff am Haupttor der Bibliothek ist ein Kopf des Pegasus, des geflügelten Pferdes, das die Leser zum Wissen führt.",
-        "en" : "Each handle on the library's main door is a head of Pegasus, the winged horse, guiding readers toward knowledge."
+        "de" : "Greif zum Griff am Haupttor, und du hältst Pegasus, das geflügelte Pferd. Jeder Griff ist sein Kopf und weist Lesern den Weg zum Wissen.",
+        "en" : "Grab a handle of the main door and you are holding Pegasus, the winged horse. Each handle is his head, pointing readers toward knowledge."
       },
       "name" : "Narodna in univerzitetna knjižnica",
       "pos" : [
         46.04768,
         14.503801
       ],
-      "story" : "Each handle on the library's main door is a head of Pegasus, the winged horse, guiding readers toward knowledge."
+      "story" : "Grab a handle of the main door and you are holding Pegasus, the winged horse. Each handle is his head, pointing readers toward knowledge."
     },
     {
-      "extendedStory" : "The church dates from 1613 and is named for St James the Elder. Francesco Robba shaped it, the same hand behind the river-god fountain over on Mestni trg. Its style is baroque, which means movement everywhere: curves, swirls and stone that seems to be moving. Step inside and your eye is pulled upward before you have decided to look.",
+      "extendedStory" : "The Royal Society published that casting method in 1687. It counts as a Carniolan invention that won recognition far beyond these streets, and its result stands on the column above you. The church here carries the name of St. James the Elder and goes back to 1613. Francesco Robba had a hand in its Baroque look. So you are standing between a saint, a builder and an inventor.",
       "icon" : "everyday",
       "id" : "f-cerkev-sv-jakoba",
       "kind" : "church",
       "localizedExtendedStory" : {
-        "de" : "Die Kirche stammt von 1613 und ist dem heiligen Jakobus dem Älteren geweiht. Francesco Robba arbeitete an ihr, dieselbe Hand wie beim Flussgötter-Brunnen drüben am Mestni trg. Ihr Stil ist Barock, also überall Bewegung: Schwünge, Wirbel und Stein, der sich zu bewegen scheint. Tritt ein, und der Blick wird nach oben gezogen, ehe du es entschieden hast.",
-        "en" : "The church dates from 1613 and is named for St James the Elder. Francesco Robba shaped it, the same hand behind the river-god fountain over on Mestni trg. Its style is baroque, which means movement everywhere: curves, swirls and stone that seems to be moving. Step inside and your eye is pulled upward before you have decided to look."
+        "de" : "Veröffentlicht hat die Royal Society das Gießverfahren 1687. Es gilt als Erfindung aus Krain, die weit über diese Gassen hinaus Anerkennung fand. Die Kirche hier trägt den Namen von Jakobus dem Älteren und reicht bis 1613 zurück. An ihrem barocken Gesicht hat Francesco Robba mitgewirkt. Du stehst also zwischen einem Heiligen, einem Baumeister und einem Erfinder, und jeder von ihnen hat hier Spuren hinterlassen.",
+        "en" : "The Royal Society published that casting method in 1687. It counts as a Carniolan invention that won recognition far beyond these streets, and its result stands on the column above you. The church here carries the name of St. James the Elder and goes back to 1613. Francesco Robba had a hand in its Baroque look. So you are standing between a saint, a builder and an inventor."
       },
       "localizedStory" : {
-        "de" : "Francesco Robba, von dem die Flussgötter am Mestni trg stammen, gestaltete diese barocke Kirche von 1613.",
-        "en" : "Francesco Robba, who carved the river gods on Mestni trg, shaped this baroque church of 1613."
+        "de" : "Schau hinauf zur Muttergottes auf der Mariensäule. Sie ist dünnwandig aus Messing gegossen, nach Valvasors Verfahren, das die Royal Society in London druckte.",
+        "en" : "Look up at the Virgin on the Marian column. She is thin-walled brass, cast by a method Valvasor invented and London's Royal Society printed."
       },
       "name" : "Cerkev sv. Jakoba",
       "pos" : [
         46.046183,
         14.507084
       ],
-      "story" : "Francesco Robba, who carved the river gods on Mestni trg, shaped this baroque church of 1613."
+      "story" : "Look up at the Virgin on the Marian column. She is thin-walled brass, cast by a method Valvasor invented and London's Royal Society printed."
     },
     {
-      "extendedStory" : "The house opened its doors in 1892. Two Czech architects, Jan Vladimir Hrasky and Josef Anton Hruby, drew it in the style of the Renaissance revival. Look up at the figures over the entrance: they are the work of the sculptor Alojz Gangl. In 2008 and 2009 the architects Jurij Kobe and Marjan Zupanc rebuilt it. The old front now carries a much newer house behind it.",
+      "extendedStory" : "Today opera and ballet share the house, and its Slovene name says so: Opera in balet. It opened its doors in 1892. Much later, the architects Jurij Kobe and Marjan Zupanc rebuilt it to their own designs. As you pass the entrance, think of the German and Slovene companies that once shared it. And think of Mahler, conducting for the German side.",
       "icon" : "everyday",
       "id" : "f-sng-opera-in-balet-ljubljana",
       "kind" : "theatre",
       "localizedExtendedStory" : {
-        "de" : "Das Haus öffnete 1892 seine Türen. Zwei tschechische Architekten, Jan Vladimir Hrasky und Josef Anton Hruby, entwarfen es im Stil der Neorenaissance. Schau dir die Figuren über dem Eingang an: Sie stammen vom Bildhauer Alojz Gangl. 2008 und 2009 bauten die Architekten Jurij Kobe und Marjan Zupanc das Haus um. Die alte Front trägt heute ein viel neueres Gebäude.",
-        "en" : "The house opened its doors in 1892. Two Czech architects, Jan Vladimir Hrasky and Josef Anton Hruby, drew it in the style of the Renaissance revival. Look up at the figures over the entrance: they are the work of the sculptor Alojz Gangl. In 2008 and 2009 the architects Jurij Kobe and Marjan Zupanc rebuilt it. The old front now carries a much newer house behind it."
+        "de" : "Heute teilen sich Oper und Ballett das Haus, und sein slowenischer Name sagt es: Opera in balet. Seine Türen öffnete es 1892. Viel später bauten die Architekten Jurij Kobe und Marjan Zupanc es nach ihren eigenen Entwürfen um. Wenn du am Eingang vorbeigehst, denk an die deutschen und slowenischen Ensembles, die sich das Haus einst teilten. Und an Mahler, der für die deutsche Seite dirigierte.",
+        "en" : "Today opera and ballet share the house, and its Slovene name says so: Opera in balet. It opened its doors in 1892. Much later, the architects Jurij Kobe and Marjan Zupanc rebuilt it to their own designs. As you pass the entrance, think of the German and Slovene companies that once shared it. And think of Mahler, conducting for the German side."
       },
       "localizedStory" : {
-        "de" : "Das Opernhaus wurde 1892 eröffnet, und ein großer Umbau 2008 gab ihm seine heutige Gestalt.",
-        "en" : "The opera house opened in 1892, and a big rebuild in 2008 gave it the shape it has now."
+        "de" : "Früher teilten sich zwei Theater dieses Haus, ein deutsches und ein slowenisches. Zu den Dirigenten des deutschen Theaters gehörte Gustav Mahler.",
+        "en" : "Two theatres once shared this building, a German one and a Slovene one. The German side counted Gustav Mahler among its conductors."
       },
       "name" : "SNG Opera in balet Ljubljana",
       "pos" : [
         46.052837,
         14.501129
       ],
-      "story" : "The opera house opened in 1892, and a big rebuild in 2008 gave it the shape it has now."
+      "story" : "Two theatres once shared this building, a German one and a Slovene one. The German side counted Gustav Mahler among its conductors."
     },
     {
-      "extendedStory" : "The bridge is 36 metres long and 3.8 metres wide, which is narrow for a crossing. But in the middle it opens out to 5.3 metres. The architect called that wider part a little piazza, somewhere to stop, talk, or watch the water go by. So it is more than a way over the river. It is a small square hung above it.",
+      "extendedStory" : "The deck under your feet is paved with plates of tonalite, a kind of stone. The footbridge runs 36 metres from bank to bank. Its name remembers the old Grain Square, where grain was traded in the 1800s. So stop in the wide part, just as the architect hoped. Lean on the rail for a while and let the river carry on without you.",
       "icon" : "everyday",
       "id" : "f-zitni-most",
       "kind" : "bridge",
       "localizedExtendedStory" : {
-        "de" : "Die Brücke ist 36 Meter lang und 3,8 Meter breit, für einen Übergang also schmal. In der Mitte aber weitet sie sich auf 5,3 Meter. Diesen breiteren Teil nannte der Architekt eine kleine Piazza, einen Ort zum Stehenbleiben, Reden oder Schauen. Sie ist also mehr als ein Weg über den Fluss. Sie ist ein kleiner Platz über dem Wasser.",
-        "en" : "The bridge is 36 metres long and 3.8 metres wide, which is narrow for a crossing. But in the middle it opens out to 5.3 metres. The architect called that wider part a little piazza, somewhere to stop, talk, or watch the water go by. So it is more than a way over the river. It is a small square hung above it."
+        "de" : "Unter deinen Füßen liegen Platten aus Tonalit, einem Naturstein. Von Ufer zu Ufer misst die Fußgängerbrücke 36 Meter. Ihr Name erinnert an den alten Getreideplatz, auf dem in den 1800er Jahren Getreide gehandelt wurde. Bleib also im breiten Teil stehen, so wie es der Architekt wollte. Schau eine Weile aufs Wasser, rede mit jemandem oder schweig einfach, und lass den Fluss ohne dich weiterfließen.",
+        "en" : "The deck under your feet is paved with plates of tonalite, a kind of stone. The footbridge runs 36 metres from bank to bank. Its name remembers the old Grain Square, where grain was traded in the 1800s. So stop in the wide part, just as the architect hoped. Lean on the rail for a while and let the river carry on without you."
       },
       "localizedStory" : {
-        "de" : "Diese Fußgängerbrücke weitet sich in der Mitte zu einer kleinen Aussichtsplattform. Ihr Name stammt vom alten Getreideplatz, wo in den 1800er Jahren Getreide gehandelt wurde.",
-        "en" : "This footbridge widens at its middle into a lookout platform. It is named for the old Grain Square where grain was sold in the 1800s."
+        "de" : "Auf halber Strecke wird die Brücke breiter. Ihr Architekt nannte diese Stelle eine kleine Piazza, zum Stehenbleiben, zum Reden oder um dem Wasser zuzusehen.",
+        "en" : "Halfway across, the bridge widens. Its architect called that spot a little piazza, a place to stop, talk or watch the water go by."
       },
       "name" : "Žitni most",
       "pos" : [
         46.051603,
         14.513829
       ],
-      "story" : "This footbridge widens at its middle into a lookout platform. It is named for the old Grain Square where grain was sold in the 1800s."
+      "story" : "Halfway across, the bridge widens. Its architect called that spot a little piazza, a place to stop, talk or watch the water go by."
     },
     {
-      "extendedStory" : "The bronze figure on this square is the poet Valentin Vodnik, and the square carries his name. It was unveiled in 1889. What made it matter was not the sculpture but the idea behind it: the first public monument raised to Slovenia itself. Before that, no such statue stood anywhere in the country.",
+      "extendedStory" : "Around the hand run the letters RF. France sent this bronze in 1929, for an anniversary of the founding of the Illyrian Provinces. Above it the poet Valentin Vodnik stands in bronze himself, unveiled in 1889. His statue was the first public Slovene national monument. So the blessing hand is France tipping its hat to a poet who was also a priest.",
       "icon" : "everyday",
       "id" : "f-vodnikov-trg",
       "kind" : "square",
       "localizedExtendedStory" : {
-        "de" : "Die Bronzefigur auf diesem Platz ist der Dichter Valentin Vodnik, und der Platz trägt seinen Namen. Enthüllt wurde sie 1889. Wichtig war dabei nicht die Statue selbst, sondern der Gedanke dahinter: das erste öffentliche Denkmal für Slowenien. Vorher stand nirgends im Land ein solches.",
-        "en" : "The bronze figure on this square is the poet Valentin Vodnik, and the square carries his name. It was unveiled in 1889. What made it matter was not the sculpture but the idea behind it: the first public monument raised to Slovenia itself. Before that, no such statue stood anywhere in the country."
+        "de" : "Rund um die Hand stehen die Buchstaben RF. Frankreich schickte diesen Schmuck 1929, zu einem Jahrestag der Gründung der Illyrischen Provinzen. Darüber steht der Dichter Valentin Vodnik selbst in Bronze, enthüllt 1889. Seine Figur war das erste öffentliche slowenische Nationaldenkmal, und der Platz trägt seinen Namen. Die segnende Hand ist also Frankreichs Verbeugung vor einem Dichter, der zugleich Priester war.",
+        "en" : "Around the hand run the letters RF. France sent this bronze in 1929, for an anniversary of the founding of the Illyrian Provinces. Above it the poet Valentin Vodnik stands in bronze himself, unveiled in 1889. His statue was the first public Slovene national monument. So the blessing hand is France tipping its hat to a poet who was also a priest."
       },
       "localizedStory" : {
-        "de" : "Die Bronzestatue des Dichters Valentin Vodnik war das erste öffentliche Denkmal für Slowenien, enthüllt 1889.",
-        "en" : "The bronze statue of the poet Valentin Vodnik here was the first public monument to honour Slovenia, unveiled in 1889."
+        "de" : "Schau am Sockel nach einer Hand aus Bronze, zwei Finger zum Segen erhoben. Ein Geschenk aus Frankreich, ein Gruß an Vodnik, den Priester.",
+        "en" : "Check the pedestal for a bronze hand with two fingers raised in blessing. It is a gift from France, a nod to Vodnik the priest."
       },
       "name" : "Vodnikov trg",
       "pos" : [
         46.051211,
         14.509685
       ],
-      "story" : "The bronze statue of the poet Valentin Vodnik here was the first public monument to honour Slovenia, unveiled in 1889."
+      "story" : "Check the pedestal for a bronze hand with two fingers raised in blessing. It is a gift from France, a nod to Vodnik the priest."
     },
     {
-      "extendedStory" : "The horses went up in 1997. The sculptor Lujo Vodopivec made them, working with the architects Jože and Miha Dobrina. They are small enough that you can walk right up to them, and one stands larger than the rest. Look for them along Dalmatinova ulica, low down by the water rather than up on a plinth.",
+      "extendedStory" : "The sculptor Lujo Vodopivec made them, working with the architects Jože and Miha Dobrina. The fountain went up in 1997. See how the small horses gather at the water. Then find the bigger one standing right among them. If you could take one of them home with you, which would it be?",
       "icon" : "everyday",
       "id" : "f-konjicki",
       "kind" : "fountain",
       "localizedExtendedStory" : {
-        "de" : "Die Pferde kamen 1997 hierher. Der Bildhauer Lujo Vodopivec schuf sie, zusammen mit den Architekten Jože und Miha Dobrina. Sie sind klein genug, dass man direkt an sie herantreten kann, und eines ist größer als die anderen. Such sie an der Dalmatinova ulica, unten am Wasser statt oben auf einem Sockel.",
-        "en" : "The horses went up in 1997. The sculptor Lujo Vodopivec made them, working with the architects Jože and Miha Dobrina. They are small enough that you can walk right up to them, and one stands larger than the rest. Look for them along Dalmatinova ulica, low down by the water rather than up on a plinth."
+        "de" : "Gemacht hat sie der Bildhauer Lujo Vodopivec, zusammen mit den Architekten Jože und Miha Dobrina. Seit 1997 steht der Brunnen hier an der Dalmatinova ulica. Schau, wie sich die kleinen Pferde am Wasser sammeln. Dann finde das größere zwischen ihnen. Wenn du eins davon mit nach Hause nehmen dürftest, welches wäre es?",
+        "en" : "The sculptor Lujo Vodopivec made them, working with the architects Jože and Miha Dobrina. The fountain went up in 1997. See how the small horses gather at the water. Then find the bigger one standing right among them. If you could take one of them home with you, which would it be?"
       },
       "localizedStory" : {
-        "de" : "Kleine Bronzepferde stehen hier am Wasser, ein größeres mitten darunter.",
-        "en" : "Small bronze horses stand at the water here, with a bigger one among them."
+        "de" : "Kleine Pferde aus Bronze stehen hier am Wasser, und ein größeres steht mitten unter ihnen. Zähl die kleinen, während du näher kommst.",
+        "en" : "Small bronze horses stand at the water here, and one bigger horse stands among them. Count the little ones as you walk up."
       },
       "name" : "Konjički",
       "pos" : [
         46.053274,
         14.506498
       ],
-      "story" : "Small bronze horses stand at the water here, with a bigger one among them."
+      "story" : "Small bronze horses stand at the water here, and one bigger horse stands among them. Count the little ones as you walk up."
     }
   ],
-  "generatedAt" : "2026-09-21T08:29:45Z",
+  "generatedAt" : "2026-09-21T14:41:28Z",
   "icon" : {
     "paths" : [
       "M10.00 88.00C10.00 79.72,27.91 73.00,50.00 73.00C72.09 73.00,90.00 79.72,90.00 88.00C90.00 96.28,72.09 103.00,50.00 103.00C27.91 103.00,10.00 96.28,10.00 88.00ZM15.00 68.00L85.00 68.00L85.00 80.00L15.00 80.00ZM15.00 63.00L19.67 63.00L19.67 68.00L15.00 68.00ZM24.33 63.00L29.00 63.00L29.00 68.00L24.33 68.00ZM33.67 63.00L38.33 63.00L38.33 68.00L33.67 68.00ZM43.00 63.00L47.67 63.00L47.67 68.00L43.00 68.00ZM52.33 63.00L57.00 63.00L57.00 68.00L52.33 68.00ZM61.67 63.00L66.33 63.00L66.33 68.00L61.67 68.00ZM71.00 63.00L75.67 63.00L75.67 68.00L71.00 68.00ZM80.33 63.00L85.00 63.00L85.00 68.00L80.33 68.00ZM56.00 20.00L74.00 20.00L74.00 80.00L56.00 80.00ZM54.50 20.00L75.50 20.00L75.50 27.00L54.50 27.00ZM54.50 14.50L58.70 14.50L58.70 20.00L54.50 20.00ZM62.90 14.50L67.10 14.50L67.10 20.00L62.90 20.00ZM71.30 14.50L75.50 14.50L75.50 20.00L71.30 20.00ZM28 80L28 68C28 64,38 64,38 68L38 80ZM62 50L62 36L68 36L68 50Z"
@@ -16642,7 +16641,7 @@
     "en" : "Ljubljana"
   },
   "name" : "Ljubljana",
-  "packVersion" : 25,
+  "packVersion" : 26,
   "schemaVersion" : 1,
   "source" : "OpenStreetMap via Overpass API",
   "stats" : {

@@ -159,13 +159,9 @@
 
     ],
     "adjustedStreets" : [
-      "Cesta k hrobce",
-      "Jiráskova",
-      "Masarykovo náměstí",
-      "Sokolská",
-      "klášterní nádvoří"
+
     ],
-    "fromVersion" : 6,
+    "fromVersion" : 7,
     "removedStreets" : [
 
     ]
@@ -7612,187 +7608,187 @@
   ],
   "fruits" : [
     {
-      "extendedStory" : "Friedrich von Schmidt drew the plans. He worked in the Gothic Revival. That style borrows the pointed arches and carved stone of the Middle Ages and builds them new. Work here began in 1870. So the carving you are looking at is a nineteenth century hand copying a medieval one. Look closely and you can see two ages sitting in the same wall.",
+      "extendedStory" : "Friedrich von Schmidt designed this tomb in the Gothic Revival style, a new take on the pointed look of the Middle Ages. It rose between 1870 and 1877. Even down in the crypt, the altar is set facing south, not east as altars usually are. Stand in front of it, and you face north.",
       "icon" : "hero",
       "id" : "f-schwarzenberska-hrobka",
       "kind" : "memorial_art",
       "localizedExtendedStory" : {
-        "de" : "Die Pläne zeichnete Friedrich von Schmidt. Er arbeitete in der Neugotik. Dieser Stil borgt sich die Spitzbögen und das gehauene Steinwerk des Mittelalters und baut sie neu. Hier begann die Arbeit 1870. Das Steinwerk vor dir ist also eine Hand des neunzehnten Jahrhunderts, die eine mittelalterliche nachahmt. Schau genau hin, dann stecken zwei Zeitalter in derselben Wand.",
-        "en" : "Friedrich von Schmidt drew the plans. He worked in the Gothic Revival. That style borrows the pointed arches and carved stone of the Middle Ages and builds them new. Work here began in 1870. So the carving you are looking at is a nineteenth century hand copying a medieval one. Look closely and you can see two ages sitting in the same wall."
+        "de" : "Friedrich von Schmidt entwarf diese Gruft im Stil der Neogotik, die das spitzbogige Mittelalter neu aufleben lässt. Zwischen 1870 und 1877 wuchs sie in die Höhe. Selbst unten in der Gruft schaut der Altar nach Süden, nicht nach Osten, wie es üblich wäre. Stehst du vor ihm, blickst du nach Norden.",
+        "en" : "Friedrich von Schmidt designed this tomb in the Gothic Revival style, a new take on the pointed look of the Middle Ages. It rose between 1870 and 1877. Even down in the crypt, the altar is set facing south, not east as altars usually are. Stand in front of it, and you face north."
       },
       "localizedStory" : {
-        "de" : "Am Ende des Weges steht die Grabkapelle der Schwarzenbergs, begonnen 1870.",
-        "en" : "At the end of the path stands the Schwarzenberg family chapel, begun in 1870."
+        "de" : "Such unten in der Gruft den Altar. Er schaut nach Süden statt wie üblich nach Osten, und die Hüter der Gruft nennen das eine Kuriosität.",
+        "en" : "Find the altar down in the crypt. It faces south, not east as usual, and the tomb's own keepers call it a curiosity."
       },
       "name" : "Schwarzenberská hrobka",
       "pos" : [
         48.994203,
         14.765864
       ],
-      "story" : "At the end of the path stands the Schwarzenberg family chapel, begun in 1870."
+      "story" : "Find the altar down in the crypt. It faces south, not east as usual, and the tomb's own keepers call it a curiosity."
     },
     {
-      "extendedStory" : "A manor court stood on this ground before any of it. It was rebuilt in stone, and that small castle appears in writing in 1374. Fire took it in 1562. Vilém of Rožmberk then hired the builder Antonín Ericer to raise a Renaissance chateau in the Italian fashion. A large part of the house is now the State Regional Archive. The Rožmberk family papers are still kept in the building that family rebuilt.",
+      "extendedStory" : "She is Perchta of Rožmberk, and the story goes that red gloves warn of a fire. Look for the Long Corridor, which joins the chateau to the former monastery church. Old castles almost never had one. The Rožmberk and Schwarzenberg archives were once stored in 24 of its rooms. Vok of Rožmberk made Třeboň his seat in 1479, and the family's original archive is still kept here today.",
       "icon" : "choice",
       "id" : "f-zamek-trebon",
       "kind" : "fortress",
       "localizedExtendedStory" : {
-        "de" : "Vor alldem stand hier ein Herrenhof. Man baute ihn in Stein um, und diese kleine Burg taucht 1374 in den Urkunden auf. 1562 brannte sie ab. Vilém von Rožmberk holte danach den Baumeister Antonín Ericer. Der machte daraus ein Renaissanceschloss nach italienischer Mode. Heute sitzt in einem großen Teil des Hauses das Staatliche Gebietsarchiv. Die Papiere der Rožmberks liegen noch immer in dem Haus, das diese Familie umbauen ließ.",
-        "en" : "A manor court stood on this ground before any of it. It was rebuilt in stone, and that small castle appears in writing in 1374. Fire took it in 1562. Vilém of Rožmberk then hired the builder Antonín Ericer to raise a Renaissance chateau in the Italian fashion. A large part of the house is now the State Regional Archive. The Rožmberk family papers are still kept in the building that family rebuilt."
+        "de" : "Gemeint ist Perchta von Rožmberk, und rote Handschuhe sollen angeblich vor einem Feuer warnen. Achte auf den Langen Gang, der das Schloss mit der früheren Klosterkirche verbindet. Unter alten Burgen galt so ein Gang als große Seltenheit. In 24 seiner Räume lagen einst die Archive der Rožmberk und der Schwarzenberg. Vok von Rožmberk machte Třeboň 1479 zu seinem Sitz, und das Familienarchiv liegt bis heute hier.",
+        "en" : "She is Perchta of Rožmberk, and the story goes that red gloves warn of a fire. Look for the Long Corridor, which joins the chateau to the former monastery church. Old castles almost never had one. The Rožmberk and Schwarzenberg archives were once stored in 24 of its rooms. Vok of Rožmberk made Třeboň his seat in 1479, and the family's original archive is still kept here today."
       },
       "localizedStory" : {
-        "de" : "Vok von Rožmberk hätte auf jedem Familiengut wohnen können. 1479 wählte er dieses hier.",
-        "en" : "Vok of Rožmberk could have lived on any estate his family owned. In 1479 he picked this one."
+        "de" : "Man sagt, eine Weiße Frau geht durch dieses Schloss. Trägt sie weiße Handschuhe, ist eine gute Nachricht unterwegs.",
+        "en" : "People say a White Lady walks this chateau. When she wears white gloves, happy news is on its way."
       },
       "name" : "zámek Třeboň",
       "pos" : [
         49.003482,
         14.769277
       ],
-      "story" : "Vok of Rožmberk could have lived on any estate his family owned. In 1479 he picked this one."
+      "story" : "People say a White Lady walks this chateau. When she wears white gloves, happy news is on its way."
     },
     {
-      "extendedStory" : "Saint Giles is Jiljí in Czech, which is why people here say svatý Jiljí. Work began in 1280, in the age of Gothic building. Gothic is the style of the pointed arch, and the point is not decoration. An arch like that carries the roof down through the pillars. The walls are then free to open into tall windows.",
+      "extendedStory" : "Then there is the fire. In 1723 flames gutted the inside and dropped the vault over the altar end. Yet the frescoes and the statue of the Třeboň Madonna were spared. So look for the wall paintings that came through the flames. The church also carries the name of Saint Giles, and its Gothic story reaches back to 1280.",
       "icon" : "choice",
       "id" : "f-svaty-jilji-a-panna-marie-kralovna",
       "kind" : "civic",
       "localizedExtendedStory" : {
-        "de" : "Der heilige Ägidius heißt auf Tschechisch Jiljí, deshalb sagt man hier svatý Jiljí. Gebaut wurde ab 1280, in der Zeit der Gotik. Gotisch ist der Stil des Spitzbogens, und die Spitze ist kein Schmuck. So ein Bogen leitet das Dach über die Pfeiler nach unten. Die Wände werden dadurch frei für hohe Fenster.",
-        "en" : "Saint Giles is Jiljí in Czech, which is why people here say svatý Jiljí. Work began in 1280, in the age of Gothic building. Gothic is the style of the pointed arch, and the point is not decoration. An arch like that carries the roof down through the pillars. The walls are then free to open into tall windows."
+        "de" : "Dann ist da das Feuer von 1723. Es brannte das Innere aus und brachte das Gewölbe über dem Altarraum zum Einsturz. Die Fresken und die Statue der Třeboňer Madonna blieben trotzdem verschont. Such dir die Wandbilder, die das Feuer überstanden haben. Die Kirche trägt auch den Namen des heiligen Ägidius, und ihre gotische Geschichte beginnt schon 1280.",
+        "en" : "Then there is the fire. In 1723 flames gutted the inside and dropped the vault over the altar end. Yet the frescoes and the statue of the Třeboň Madonna were spared. So look for the wall paintings that came through the flames. The church also carries the name of Saint Giles, and its Gothic story reaches back to 1280."
       },
       "localizedStory" : {
-        "de" : "Zwei Namen über einer Tür. Der heilige Ägidius und Maria als Königin. Beide stehen hier seit 1280.",
-        "en" : "Two names over one door. Saint Giles, and Mary as Queen. Both have stood here since 1280."
+        "de" : "Man erzählt, warum die Pfarrei im späten August an einem Sonntag pilgert: Am 22. August feiert die Kirche Maria die Königin.",
+        "en" : "Late in August the parish keeps its pilgrimage on a Sunday. It is known as the patronal feast, because Mary Queen's day is 22 August."
       },
       "name" : "svatý Jiljí a Panna Marie Královna",
       "pos" : [
         49.004865,
         14.769862
       ],
-      "story" : "Two names over one door. Saint Giles, and Mary as Queen. Both have stood here since 1280."
+      "story" : "Late in August the parish keeps its pilgrimage on a Sunday. It is known as the patronal feast, because Mary Queen's day is 22 August."
     },
     {
-      "extendedStory" : "A municipal farmstead stood on this ground before that. It was pulled down to make room for the new building. The town paid for the work itself, then rented the rooms out, so the square became a piece of municipal business. Třeboň still runs from this address today. Its offices sit at number 46 on the square.",
+      "extendedStory" : "Habsburg soldiers were the original tenants. Later a Cold War company moved in, a unit working with radio technology. Then the town took its building back and turned it into offices. Třeboň is governed from this square today, and its official address is Palackého nám. 46/II. Work began in 1876, on the site of a town farmstead that had been pulled down.",
       "icon" : "everyday",
       "id" : "f-palackeho-namesti",
       "kind" : "square",
       "localizedExtendedStory" : {
-        "de" : "Vorher stand hier ein städtischer Hof. Er wurde abgerissen, um Platz für den Neubau zu schaffen. Die Stadt bezahlte die Arbeit selbst und vermietete die Räume dann weiter. So wurde der Platz zu einem Geschäft der Stadt. Třeboň regiert bis heute von dieser Adresse aus. Die Ämter sitzen auf Nummer 46 an diesem Platz.",
-        "en" : "A municipal farmstead stood on this ground before that. It was pulled down to make room for the new building. The town paid for the work itself, then rented the rooms out, so the square became a piece of municipal business. Třeboň still runs from this address today. Its offices sit at number 46 on the square."
+        "de" : "Zuerst wohnten hier Soldaten der Habsburger. Im Kalten Krieg zog eine funktechnische Kompanie ein. Danach holte sich die Stadt das Haus zurück und machte Büros daraus. Heute regiert Třeboň von diesem Platz aus, die amtliche Anschrift lautet Palackého nám. 46/II. Mit dem Bau begann die Stadt 1876, dort, wo zuvor ein abgerissener städtischer Hof stand.",
+        "en" : "Habsburg soldiers were the original tenants. Later a Cold War company moved in, a unit working with radio technology. Then the town took its building back and turned it into offices. Třeboň is governed from this square today, and its official address is Palackého nám. 46/II. Work began in 1876, on the site of a town farmstead that had been pulled down."
       },
       "localizedStory" : {
-        "de" : "1876 baute die Stadt auf diesem Platz eine Kaserne und vermietete sie an die Armee.",
-        "en" : "The town built barracks on this square in 1876 and rented them out to the army."
+        "de" : "Die Stadt baute diese Kaserne selbst und vermietete sie ans Heer. Ihr Grundriss ist ein umgedrehtes U.",
+        "en" : "The town built these barracks itself, then rented them to the army. Trace the building and you get a U standing on its head."
       },
       "name" : "Palackého náměstí",
       "pos" : [
         49.003513,
         14.7635
       ],
-      "story" : "The town built barracks on this square in 1876 and rented them out to the army."
+      "story" : "The town built these barracks itself, then rented them to the army. Trace the building and you get a U standing on its head."
     },
     {
-      "extendedStory" : "The story starts in a newspaper. The Jihočeský obzor told its readers that a Hussite service would be held on Sunday. None had been held in the town since 1620. People came, and a community formed around it. For a while it met in the Měšťanská beseda, a meeting house in town. Then it bought ground and built this chapel, named for Jan Hus. The Evangelical Methodist congregation still gathers here.",
+      "extendedStory" : "On 1 May 1926 the chapel opened with a ceremony. The congregation behind it is Evangelical Methodist. At the start it met in the Měšťanská beseda in town, and it still gathers here today. The name honours Jan Hus, whose followers that newspaper notice had called back. So a few lines of print are where this whole building begins.",
       "icon" : "everyday",
       "id" : "f-husova-kaple",
       "kind" : "church",
       "localizedExtendedStory" : {
-        "de" : "Die Geschichte beginnt in einer Zeitung. Der Jihočeský obzor schrieb, am Sonntag werde ein hussitischer Gottesdienst gefeiert. Seit 1620 hatte es in der Stadt keinen mehr gegeben. Die Leute kamen, und daraus wuchs eine Gemeinde. Eine Zeit lang traf sie sich in der Měšťanská beseda, einem Versammlungshaus in der Stadt. Dann kaufte sie Grund und baute diese Kapelle, benannt nach Jan Hus. Die evangelisch-methodistische Gemeinde trifft sich hier bis heute.",
-        "en" : "The story starts in a newspaper. The Jihočeský obzor told its readers that a Hussite service would be held on Sunday. None had been held in the town since 1620. People came, and a community formed around it. For a while it met in the Měšťanská beseda, a meeting house in town. Then it bought ground and built this chapel, named for Jan Hus. The Evangelical Methodist congregation still gathers here."
+        "de" : "Am 1. Mai 1926 wurde die Kapelle feierlich eröffnet. Getragen wird sie von der Evangelisch-methodistischen Gemeinde. Anfangs traf sie sich in der Měšťanská beseda, heute kommt sie hier zusammen. Der Name ehrt Jan Hus, dessen Anhänger die Zeitungsmeldung wieder zusammenrief. Ein paar gedruckte Zeilen stehen also am Anfang dieses ganzen Hauses.",
+        "en" : "On 1 May 1926 the chapel opened with a ceremony. The congregation behind it is Evangelical Methodist. At the start it met in the Měšťanská beseda in town, and it still gathers here today. The name honours Jan Hus, whose followers that newspaper notice had called back. So a few lines of print are where this whole building begins."
       },
       "localizedStory" : {
-        "de" : "Eine Gemeinde ohne eigenes Haus baute sich dieses. Eröffnet wurde es am 1. Mai 1926.",
-        "en" : "A congregation with no building of its own built this one. It opened on 1 May 1926."
+        "de" : "Seit 1620 hatte Třeboň keinen hussitischen Gottesdienst mehr erlebt. Dann kündigte die Lokalzeitung in einem Sommer wieder einen an, und die Gemeinde baute diese Kapelle.",
+        "en" : "Třeboň had heard no Hussite service since 1620. Then one summer the local paper announced one, and the people who came built this chapel."
       },
       "name" : "Husova kaple",
       "pos" : [
         49.006349,
         14.763396
       ],
-      "story" : "A congregation with no building of its own built this one. It opened on 1 May 1926."
+      "story" : "Třeboň had heard no Hussite service since 1620. Then one summer the local paper announced one, and the people who came built this chapel."
     },
     {
-      "extendedStory" : "Those same years brought a far bigger job. The town threw a second wall around itself, one hundred metres outside the old one. That wall carried bastions built for cannon, with a ditch and an earth rampart in front of it. A gate in a ring like that is a checkpoint, not just a doorway. Everything arriving at the square from the east came through here.",
+      "extendedStory" : "This arch shuts the east side of the main square. Its core goes back to 1525, when Třeboň improved its defences. A new wall rose 100 m further out, with cannon bastions, a ditch and an earth rampart. A bastion is a wall corner for guns. Picture two rings: the main wall here, and the newer one with its cannon beyond it.",
       "icon" : "everyday",
       "id" : "f-hradecka-brana",
       "kind" : "gate_tower",
       "localizedExtendedStory" : {
-        "de" : "In denselben Jahren lief eine viel größere Arbeit. Die Stadt legte einen zweiten Mauerring um sich, hundert Meter außerhalb des alten. Diese Mauer trug Basteien für Kanonen, davor lagen ein Graben und ein Erdwall. Ein Tor in so einem Ring ist eine Kontrolle, nicht bloß eine Tür. Alles, was von Osten zum Platz kam, ging hier durch.",
-        "en" : "Those same years brought a far bigger job. The town threw a second wall around itself, one hundred metres outside the old one. That wall carried bastions built for cannon, with a ditch and an earth rampart in front of it. A gate in a ring like that is a checkpoint, not just a doorway. Everything arriving at the square from the east came through here."
+        "de" : "Nach Osten schließt dieses Tor den Hauptplatz ab. Sein Kern stammt aus der Zeit ab 1525, als die Stadt ihre Befestigung verbesserte. Damals entstand 100 m weiter draußen eine neue Mauer mit Kanonenbasteien, Graben und Erdwall. Eine Bastei ist eine Mauerecke für Geschütze. Denk dir zwei Ringe: die Hauptmauer hier und die neue mit ihren Kanonen davor.",
+        "en" : "This arch shuts the east side of the main square. Its core goes back to 1525, when Třeboň improved its defences. A new wall rose 100 m further out, with cannon bastions, a ditch and an earth rampart. A bastion is a wall corner for guns. Picture two rings: the main wall here, and the newer one with its cannon beyond it."
       },
       "localizedStory" : {
-        "de" : "Dieses Tor schließt den Hauptplatz nach Osten ab. Sein Kern entstand zwischen 1525 und 1527.",
-        "en" : "This gate closes the east side of the main square. Its core was built between 1525 and 1527."
+        "de" : "Im Erdgeschoss des Tors steckt noch ein Rest der alten Wehrgasse. Sie führt bis zum Haus Nr. 96, einst Bastei und Zeughaus der Stadt.",
+        "en" : "A piece of the old wall lane hides in the gate's ground floor. It runs to house no. 96, once the town armoury."
       },
       "name" : "Hradecká brána",
       "pos" : [
         49.004331,
         14.77249
       ],
-      "story" : "This gate closes the east side of the main square. Its core was built between 1525 and 1527."
+      "story" : "A piece of the old wall lane hides in the gate's ground floor. It runs to house no. 96, once the town armoury."
     },
     {
-      "extendedStory" : "The fountain kept growing after that. In 1609 the town set a column in its middle, and four stone faces there spout the water. The obelisk above them carries a carved Rožmberk rose. A few steps away stands the Marian column of 1780, a tall pillar with the Virgin Mary on top. Two townspeople, Jan and Alžběta Pils, paid for it. The stonemason Leopold Huber came from České Budějovice to cut it.",
+      "extendedStory" : "The story goes that his devil-cats once ran loose here on a spring night. He drove them back with a blessed cross. In the middle sits the stonemason Jordan's granite basin. Stone faces on its column spout the water, under an obelisk, a tall stone needle, carved with the Rožmberk rose. Fire took the bulk of the medieval town in 1562. Two houses on the square still stand on a Gothic base.",
       "icon" : "choice",
       "id" : "f-masarykovo-namesti",
       "kind" : "square",
       "localizedExtendedStory" : {
-        "de" : "Der Brunnen wuchs danach weiter. 1609 setzte die Stadt eine Säule in seine Mitte, und vier steinerne Gesichter speien dort das Wasser. Der Obelisk darüber trägt eine eingemeißelte Rožmberk-Rose. Ein paar Schritte weiter steht die Mariensäule von 1780, ein hoher Pfeiler mit Maria obenauf. Zwei Bürger, Jan und Alžběta Pils, bezahlten sie. Der Steinmetz Leopold Huber kam aus Budweis, um sie zu hauen.",
-        "en" : "The fountain kept growing after that. In 1609 the town set a column in its middle, and four stone faces there spout the water. The obelisk above them carries a carved Rožmberk rose. A few steps away stands the Marian column of 1780, a tall pillar with the Virgin Mary on top. Two townspeople, Jan and Alžběta Pils, paid for it. The stonemason Leopold Huber came from České Budějovice to cut it."
+        "de" : "Man erzählt auch von seinen Teufelskatzen, die in einer Frühlingsnacht hier frei herumliefen. Mit einem geweihten Kreuz trieb er sie zurück. In der Mitte steht das Granitbecken des Steinmetzen Jordan. Steinerne Fratzen an der Säule speien das Wasser, darüber ein Obelisk mit der Rožmberker Rose. Der Brand von 1562 fraß den Großteil der mittelalterlichen Stadt. Zwei Häuser am Platz stehen noch auf gotischem Grund.",
+        "en" : "The story goes that his devil-cats once ran loose here on a spring night. He drove them back with a blessed cross. In the middle sits the stonemason Jordan's granite basin. Stone faces on its column spout the water, under an obelisk, a tall stone needle, carved with the Rožmberk rose. Fire took the bulk of the medieval town in 1562. Two houses on the square still stand on a Gothic base."
       },
       "localizedStory" : {
-        "de" : "Zähl die Seiten des Brunnens in der Mitte. Es sind zehn, 1569 aus Granit gehauen.",
-        "en" : "Count the sides of the fountain in the middle. There are ten, cut from granite in 1569."
+        "de" : "Der Sage nach fährt Regent Jakub Krčín noch heute nachts in einer schwarzen Kutsche über diesen Platz.",
+        "en" : "Legend says regent Jakub Krčín still rides a black carriage across this square by night."
       },
       "name" : "Masarykovo náměstí",
       "pos" : [
         49.003931,
         14.7711
       ],
-      "story" : "Count the sides of the fountain in the middle. There are ten, cut from granite in 1569."
+      "story" : "Legend says regent Jakub Krčín still rides a black carriage across this square by night."
     },
     {
-      "extendedStory" : "Look at the gate's north face. Pale patterns are scratched into the plaster, a craft called sgraffito. The maker lays light plaster over dark and cuts the top layer away, so the drawing appears. Now walk into the passage and look up. The curved ceiling carries the same work, in rows of little envelope shapes. The gables above the front are shaped in small arcs.",
+      "extendedStory" : "On the gate's south side, a niche stood empty for decades. In 2018 a Madonna and child finally moved in. Now turn to the gate's north face above this square. Arcaded gables, with rows of little arches, carry more sgraffito, that scratched plaster again. The square carries the name of Jan Žižka, and the gate closes its south end.",
       "icon" : "everyday",
       "id" : "f-zizkovo-namesti",
       "kind" : "square",
       "localizedExtendedStory" : {
-        "de" : "Schau dir die Nordseite des Tores an. Helle Muster sind in den Putz gekratzt, ein Handwerk namens Sgraffito. Man legt hellen Putz über dunklen und schneidet die obere Schicht weg, dann erscheint die Zeichnung. Geh jetzt in die Durchfahrt und schau nach oben. Die gewölbte Decke trägt dieselbe Arbeit, in Reihen kleiner Briefumschläge. Die Giebel über der Front sind in kleinen Bögen geformt.",
-        "en" : "Look at the gate's north face. Pale patterns are scratched into the plaster, a craft called sgraffito. The maker lays light plaster over dark and cuts the top layer away, so the drawing appears. Now walk into the passage and look up. The curved ceiling carries the same work, in rows of little envelope shapes. The gables above the front are shaped in small arcs."
+        "de" : "Auf der Südseite des Tors war eine Nische jahrzehntelang leer. Erst 2018 zog dort eine Madonna mit Kind ein. Dreh dich jetzt zur Nordfront des Tors über dem Platz. Dort tragen Arkadengiebel mit kleinen Bögen wieder Sgraffito, also diesen Kratzputz. Der Platz trägt den Namen von Jan Žižka, und das Tor schließt ihn nach Süden ab.",
+        "en" : "On the gate's south side, a niche stood empty for decades. In 2018 a Madonna and child finally moved in. Now turn to the gate's north face above this square. Arcaded gables, with rows of little arches, carry more sgraffito, that scratched plaster again. The square carries the name of Jan Žižka, and the gate closes its south end."
       },
       "localizedStory" : {
-        "de" : "Der Platz trägt den Namen von Jan Žižka, und ein Stadttor schließt ihn nach Süden ab.",
-        "en" : "The square carries the name of Jan Žižka, and a town gate still closes its south end."
+        "de" : "Geh in das Svinenská-Tor und schau nach oben. Kratzputz im Briefumschlag-Muster überzieht das Tonnengewölbe der Durchfahrt.",
+        "en" : "Walk into the Svinenská gate and look up. Scratched plaster in an envelope pattern covers the curved ceiling of the passage."
       },
       "name" : "Žižkovo náměstí",
       "pos" : [
         49.002939,
         14.770927
       ],
-      "story" : "The square carries the name of Jan Žižka, and a town gate still closes its south end."
+      "story" : "Walk into the Svinenská gate and look up. Scratched plaster in an envelope pattern covers the curved ceiling of the passage."
     },
     {
-      "extendedStory" : "Step through and keep going south. The old earth rampart still runs there, on both sides of the road. This gate belongs to the outer belt of walls, raised in the early sixteenth century. Then the water arrived. The dam of the Svět pond was finished in 1573, and the whole ring of defences had to be reworked around it.",
+      "extendedStory" : "Notice too that this gate does not line up with the older Svinenská gate. That was deliberate, so one gate could never be fired on from the other. A Baroque statue of St John of Nepomuk still stands where the drawbridge was. Once the Svět pond dam was finished in 1573, the whole wall system had to change. South of here the old earth rampart still runs along both sides of the road.",
       "icon" : "everyday",
       "id" : "f-novohradska-brana",
       "kind" : "gate_tower",
       "localizedExtendedStory" : {
-        "de" : "Geh hindurch und weiter nach Süden. Dort läuft der alte Erdwall noch immer, zu beiden Seiten des Weges. Dieses Tor gehört zum äußeren Mauerring, errichtet im frühen sechzehnten Jahrhundert. Dann kam das Wasser. 1573 war der Damm des Teichs Svět fertig, und der ganze Verteidigungsring musste darum herum umgebaut werden.",
-        "en" : "Step through and keep going south. The old earth rampart still runs there, on both sides of the road. This gate belongs to the outer belt of walls, raised in the early sixteenth century. Then the water arrived. The dam of the Svět pond was finished in 1573, and the whole ring of defences had to be reworked around it."
+        "de" : "Absichtlich steht dieses Tor versetzt zum älteren Svinenská-Tor. So konnte keines der beiden Tore auf das andere feuern. Der barocke Nepomuk an der früheren Zugbrücke steht bis heute. Als 1573 der Damm am Svět fertig war, musste die Stadt ihre Mauern anpassen. Südlich vom Tor zieht sich der alte Erdwall noch zu beiden Seiten der Straße.",
+        "en" : "Notice too that this gate does not line up with the older Svinenská gate. That was deliberate, so one gate could never be fired on from the other. A Baroque statue of St John of Nepomuk still stands where the drawbridge was. Once the Svět pond dam was finished in 1573, the whole wall system had to change. South of here the old earth rampart still runs along both sides of the road."
       },
       "localizedStory" : {
-        "de" : "Der Torbogen hier ist spitz, und die Stadtmauer drängt sich zu beiden Seiten heran.",
-        "en" : "The gateway here is a pointed arch, and the town wall still presses in on both sides of it."
+        "de" : "Schau hoch an die Torfront. Dort sitzen noch die Rollen, mit denen einst die mittelalterliche Zugbrücke hochgezogen wurde.",
+        "en" : "Look up at the gate's face. The pulleys that once raised the medieval drawbridge are still set into the stone."
       },
       "name" : "Novohradská brána",
       "pos" : [
         49.002044,
         14.771177
       ],
-      "story" : "The gateway here is a pointed arch, and the town wall still presses in on both sides of it."
+      "story" : "Look up at the gate's face. The pulleys that once raised the medieval drawbridge are still set into the stone."
     }
   ],
-  "generatedAt" : "2026-09-21T06:45:35Z",
+  "generatedAt" : "2026-09-21T14:31:54Z",
   "icon" : {
     "paths" : [
       "M 2 92 L 2 52 L 6 52 L 6 58 L 14 58 L 14 52 L 22 52 L 22 58 L 30 58 L 30 52 L 38 52 L 38 58 L 46 58 L 46 52 L 54 52 L 54 58 L 62 58 L 62 52 L 70 52 L 70 58 L 78 58 L 78 52 L 86 52 L 86 58 L 94 58 L 94 52 L 98 52 L 98 58 L 98 58 L 98 92 Z M 8 44 L 8 92 L 30 92 L 30 44 Z M 5 46 L 5 33 L 5 33 L 10.6 33 L 10.6 38 L 16.2 38 L 16.2 33 L 21.8 33 L 21.8 38 L 27.4 38 L 27.4 33 L 33 33 L 33 33 L 33 46 Z M 9 34 L 19 14 L 29 34 Z M 19 6.2 C 21.1 6.2 22.8 7.9 22.8 10 C 22.8 12.1 21.1 13.8 19 13.8 C 16.9 13.8 15.2 12.1 15.2 10 C 15.2 7.9 16.9 6.2 19 6.2 Z M 17 51 L 17 62 L 12 62 L 12 51 Z M 26 51 L 26 62 L 21 62 L 21 51 Z M 70 44 L 70 92 L 92 92 L 92 44 Z M 67 46 L 67 33 L 67 33 L 72.6 33 L 72.6 38 L 78.2 38 L 78.2 33 L 83.8 33 L 83.8 38 L 89.4 38 L 89.4 33 L 95 33 L 95 33 L 95 46 Z M 71 34 L 81 14 L 91 34 Z M 81 6.2 C 83.1 6.2 84.8 7.9 84.8 10 C 84.8 12.1 83.1 13.8 81 13.8 C 78.9 13.8 77.2 12.1 77.2 10 C 77.2 7.9 78.9 6.2 81 6.2 Z M 79 51 L 79 62 L 74 62 L 74 51 Z M 88 51 L 88 62 L 83 62 L 83 51 Z M 32 76 L 50 89 L 68 76 L 68 60 L 32 60 Z M 50 61 C 52.54 61 54.6 63.06 54.6 65.6 C 54.6 68.14 52.54 70.2 50 70.2 C 47.46 70.2 45.4 68.14 45.4 65.6 C 45.4 63.06 47.46 61 50 61 Z M 55.14 64.73 C 57.68 64.73 59.74 66.79 59.74 69.33 C 59.74 71.87 57.68 73.93 55.14 73.93 C 52.6 73.93 50.54 71.87 50.54 69.33 C 50.54 66.79 52.6 64.73 55.14 64.73 Z M 53.17 70.77 C 55.71 70.77 57.77 72.83 57.77 75.37 C 57.77 77.91 55.71 79.97 53.17 79.97 C 50.63 79.97 48.57 77.91 48.57 75.37 C 48.57 72.83 50.63 70.77 53.17 70.77 Z M 46.83 70.77 C 49.37 70.77 51.43 72.83 51.43 75.37 C 51.43 77.91 49.37 79.97 46.83 79.97 C 44.29 79.97 42.23 77.91 42.23 75.37 C 42.23 72.83 44.29 70.77 46.83 70.77 Z M 44.86 64.73 C 47.4 64.73 49.46 66.79 49.46 69.33 C 49.46 71.87 47.4 73.93 44.86 73.93 C 42.32 73.93 40.26 71.87 40.26 69.33 C 40.26 66.79 42.32 64.73 44.86 64.73 Z M 50 65.8 C 52.87 65.8 55.2 68.13 55.2 71 C 55.2 73.87 52.87 76.2 50 76.2 C 47.13 76.2 44.8 73.87 44.8 71 C 44.8 68.13 47.13 65.8 50 65.8 Z M 50 69 C 48.9 69 48 69.9 48 71 C 48 72.1 48.9 73 50 73 C 51.1 73 52 72.1 52 71 C 52 69.9 51.1 69 50 69 Z"
@@ -7806,7 +7802,7 @@
     "en" : "Třeboň"
   },
   "name" : "Třeboň",
-  "packVersion" : 7,
+  "packVersion" : 8,
   "schemaVersion" : 1,
   "source" : "OpenStreetMap via Overpass API",
   "stats" : {

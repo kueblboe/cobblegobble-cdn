@@ -116,12 +116,12 @@
   ],
   "changes" : {
     "addedStreets" : [
-      "Via della Mura Urbane"
+
     ],
     "adjustedStreets" : [
 
     ],
-    "fromVersion" : 16,
+    "fromVersion" : 17,
     "removedStreets" : [
 
     ]
@@ -6151,187 +6151,187 @@
   ],
   "fruits" : [
     {
-      "extendedStory" : "The cathedral was begun in 1060, and in 1308 its front was redrawn into the lopsided shape it still has. Inside hangs the Volto Santo, a wooden crucifix that legend says Nicodemus carved. Nearby lies Ilaria del Carretto. Her husband Paolo Guinigi paid Jacopo della Quercia to carve her, and people have looked at her face ever since. The bell tower stands about 60 metres, and 217 steps go up it.",
+      "extendedStory" : "Look at a pillar of the porch on your way in. A maze over a metre wide is carved into it. Its Latin line calls it the labyrinth of Daedalus, which Theseus alone got out of. The front itself is lopsided. It was redrawn in 1308 and has kept that odd shape ever since. Inside lies the tomb of Ilaria del Carretto, made by Jacopo della Quercia for her husband Paolo Guinigi.",
       "icon" : "hero",
       "id" : "f-cattedrale-di-san-martino",
       "kind" : "church",
       "localizedExtendedStory" : {
-        "de" : "Der Dom wurde 1060 begonnen, und 1308 zeichnete man die Fassade neu, in die schiefe Form, die sie bis heute hat. Drinnen hängt der Volto Santo, ein hölzernes Kruzifix, das der Legende nach Nikodemus schnitzte. Ganz in der Nähe liegt Ilaria del Carretto. Ihr Mann Paolo Guinigi bezahlte Jacopo della Quercia dafür, sie zu hauen, und seither schauen die Leute ihr ins Gesicht. 217 Stufen führen den Glockenturm hinauf, der etwa 60 Meter misst.",
-        "en" : "The cathedral was begun in 1060, and in 1308 its front was redrawn into the lopsided shape it still has. Inside hangs the Volto Santo, a wooden crucifix that legend says Nicodemus carved. Nearby lies Ilaria del Carretto. Her husband Paolo Guinigi paid Jacopo della Quercia to carve her, and people have looked at her face ever since. The bell tower stands about 60 metres, and 217 steps go up it."
+        "de" : "Schau beim Hineingehen auf einen Pfeiler vorn am Eingang. Dort ist ein Labyrinth eingemeißelt, gut einen Meter breit. Die lateinische Inschrift nennt es das Labyrinth des Dädalus, aus dem allein Theseus herausfand. Die Fassade steht schief. Seit sie 1308 neu gezeichnet wurde, hat sie diese ungleiche Form. Drinnen liegt das Grabmal der Ilaria del Carretto. Jacopo della Quercia schuf es im Auftrag ihres Mannes Paolo Guinigi.",
+        "en" : "Look at a pillar of the porch on your way in. A maze over a metre wide is carved into it. Its Latin line calls it the labyrinth of Daedalus, which Theseus alone got out of. The front itself is lopsided. It was redrawn in 1308 and has kept that odd shape ever since. Inside lies the tomb of Ilaria del Carretto, made by Jacopo della Quercia for her husband Paolo Guinigi."
       },
       "localizedStory" : {
-        "de" : "Die Fassade dieses Doms ist absichtlich schief. 1308 wurde sie so neu gezeichnet.",
-        "en" : "The front of this cathedral is deliberately lopsided. It was redrawn that way in 1308."
+        "de" : "Drinnen wartet der Volto Santo, ein hölzernes Kruzifix. Der Sage nach ließ es einen seiner kostbaren Schuhe zu einem Geiger herabfallen, der es verehrte.",
+        "en" : "Inside is the Volto Santo, a wooden crucifix. Legend says it once let one of its precious shoes drop to a fiddler who loved it."
       },
       "name" : "Cattedrale di San Martino",
       "pos" : [
         43.840795,
         10.506024
       ],
-      "story" : "The front of this cathedral is deliberately lopsided. It was redrawn that way in 1308."
+      "story" : "Inside is the Volto Santo, a wooden crucifix. Legend says it once let one of its precious shoes drop to a fiddler who loved it."
     },
     {
-      "extendedStory" : "This church stands on the old Roman forum, the hinge the whole city turned on. Its name appears in writing in 795 as ad foro, meaning at the forum. Pope Alexander II wanted the present building, and work began in 1070. Right at the top of the front stands the Archangel Michael in marble, with metal wings, his lance held over a dragon.",
+      "extendedStory" : "Nobody has ever found that emerald. Now look at the front itself. It rises far higher than the nave it belongs to. The plan to raise the whole church was never finished, so the facade stands alone against the sky like a stage set. Work began in 1070 at the wish of Pope Alexander II. Under your feet lies the old Roman forum, the hinge of the city.",
       "icon" : "choice",
       "id" : "f-san-michele-in-foro",
       "kind" : "church",
       "localizedExtendedStory" : {
-        "de" : "Diese Kirche steht auf dem alten römischen Forum, dem Angelpunkt der ganzen Stadt. Zuerst erwähnt wurde sie 795 als ad foro, also am Forum. Papst Alexander II. wollte den heutigen Bau, und 1070 begannen die Arbeiten. Ganz oben auf der Fassade steht der Erzengel Michael aus Marmor, mit Flügeln aus Metall, die Lanze über einem Drachen.",
-        "en" : "This church stands on the old Roman forum, the hinge the whole city turned on. Its name appears in writing in 795 as ad foro, meaning at the forum. Pope Alexander II wanted the present building, and work began in 1070. Right at the top of the front stands the Archangel Michael in marble, with metal wings, his lance held over a dragon."
+        "de" : "Gefunden hat den Smaragd nie jemand. Schau dir nun die Fassade an. Sie ragt weit über das Langhaus hinaus, zu dem sie gehört. Eigentlich sollte die ganze Kirche aufgestockt werden, doch daraus wurde nie etwas. So steht die Front allein vor dem Himmel wie eine Kulisse. Begonnen wurde sie 1070 auf Wunsch von Papst Alexander II. Unter deinen Füßen liegt das römische Forum, das Scharnier der Stadt.",
+        "en" : "Nobody has ever found that emerald. Now look at the front itself. It rises far higher than the nave it belongs to. The plan to raise the whole church was never finished, so the facade stands alone against the sky like a stage set. Work began in 1070 at the wish of Pope Alexander II. Under your feet lies the old Roman forum, the hinge of the city."
       },
       "localizedStory" : {
-        "de" : "Hoch oben auf der Fassade steht ein Marmorengel mit Flügeln aus Metall, die Lanze über einem Drachen.",
-        "en" : "High on the front stands a marble angel with metal wings, his lance held over a dragon."
+        "de" : "Oben hebt der Erzengel Michael seine Lanze gegen einen Drachen. Der Sage nach blitzt an klaren Tagen ein grüner Funke von ihm, ein versteckter Smaragd.",
+        "en" : "The Archangel Michael raises his lance at a dragon up top. Legend says a hidden emerald flashes green from him on clear days."
       },
       "name" : "San Michele in Foro",
       "pos" : [
         43.843312,
         10.502529
       ],
-      "story" : "High on the front stands a marble angel with metal wings, his lance held over a dragon."
+      "story" : "The Archangel Michael raises his lance at a dragon up top. Legend says a hidden emerald flashes green from him on clear days."
     },
     {
-      "extendedStory" : "Frediano was an Irish bishop who founded a church on this spot in the sixth century. The building you see was begun in 1112. Across its front runs a great mosaic. Part of it was worked by hands trained in the Byzantine manner, part by the Berlinghieri workshop from Lucca itself. Inside rests Santa Zita, who died in 1278. The people of Lucca wanted her here, and here she has stayed.",
+      "extendedStory" : "Step inside and find the huge font by the entrance, a stone basin for baptisms. A Lombard sculptor covered it with the story of Moses in the 12th century. One of its three makers, Master Roberto, put his name on the basin. Outside, a great mosaic spans the front. Byzantine-trained hands worked part of it, and the local Berlinghieri workshop did the rest.",
       "icon" : "everyday",
       "id" : "f-basilica-di-san-frediano",
       "kind" : "church",
       "localizedExtendedStory" : {
-        "de" : "Frediano war ein irischer Bischof, der hier im sechsten Jahrhundert eine Kirche gründete. Der heutige Bau wurde 1112 begonnen. Über die Fassade zieht sich ein großes Mosaik, teils von byzantinisch geschulten Händen, teils aus der Werkstatt der Berlinghieri aus Lucca selbst. Drinnen ruht Santa Zita, gestorben 1278. Die Lucchesen wollten sie hier haben, und hier ist sie geblieben.",
-        "en" : "Frediano was an Irish bishop who founded a church on this spot in the sixth century. The building you see was begun in 1112. Across its front runs a great mosaic. Part of it was worked by hands trained in the Byzantine manner, part by the Berlinghieri workshop from Lucca itself. Inside rests Santa Zita, who died in 1278. The people of Lucca wanted her here, and here she has stayed."
+        "de" : "Gleich am Eingang steht ein riesiges Taufbecken aus Stein. Ein Bildhauer aus der Lombardei erzählte darauf im 12. Jahrhundert die Geschichte von Mose. Einer der drei Meister, Roberto, setzte seinen Namen auf das Becken. Draußen zieht sich ein großes Mosaik über die Fassade. Zum Teil stammt es von byzantinisch geschulten Händen, zum Teil aus der Werkstatt Berlinghieri hier in Lucca.",
+        "en" : "Step inside and find the huge font by the entrance, a stone basin for baptisms. A Lombard sculptor covered it with the story of Moses in the 12th century. One of its three makers, Master Roberto, put his name on the basin. Outside, a great mosaic spans the front. Byzantine-trained hands worked part of it, and the local Berlinghieri workshop did the rest."
       },
       "localizedStory" : {
-        "de" : "Ein großes Mosaik bedeckt die ganze Fassade. Gegründet hat die Kirche ein irischer Bischof namens Frediano.",
-        "en" : "A huge mosaic covers the front of this church. An Irish bishop named Frediano founded it."
+        "de" : "Der Sage nach lenkte Frediano, der irische Bischof und Gründer dieser Kirche, den Serchio um und rettete Lucca so vor der Flut.",
+        "en" : "Legend says Frediano, the Irish bishop who founded this church, turned the flooding River Serchio aside to save Lucca."
       },
       "name" : "Basilica di San Frediano",
       "pos" : [
         43.846175,
         10.504503
       ],
-      "story" : "A huge mosaic covers the front of this church. An Irish bishop named Frediano founded it."
+      "story" : "Legend says Frediano, the Irish bishop who founded this church, turned the flooding River Serchio aside to save Lucca."
     },
     {
-      "extendedStory" : "The tower went up in 1301 and carries the name of the Guinigi. Its stonework is Romanesque, the round-arched style of that age. From the street below you look up through 44.25 metres of brick. A family put its name on a tower, and six centuries later that name is still the one people say here.",
+      "extendedStory" : "Up there the oaks have a hard life. Seven of them grow in a shallow bed of rooftop soil, so their roots cannot sink deep to find water. They live on rain alone. The tower itself dates from 1301, a Romanesque tower that still carries the Guinigi name. Stand in the street below and look for the green crown at the top.",
       "icon" : "choice",
       "id" : "f-torre-guinigi",
       "kind" : "viewpoint",
       "localizedExtendedStory" : {
-        "de" : "Der Turm entstand 1301 und trägt den Namen der Guinigi. Das Mauerwerk ist romanisch, der Rundbogenstil jener Zeit. Von der Gasse aus blickt man 44,25 Meter an Backstein hinauf. Eine Familie setzte ihren Namen auf einen Turm, und nach sechs Jahrhunderten ist es immer noch der Name, den man hier nennt.",
-        "en" : "The tower went up in 1301 and carries the name of the Guinigi. Its stonework is Romanesque, the round-arched style of that age. From the street below you look up through 44.25 metres of brick. A family put its name on a tower, and six centuries later that name is still the one people say here."
+        "de" : "Leicht haben es die Eichen da oben nicht. Sieben von ihnen stehen in einem dünnen Beet aus Erde auf dem Dach. Ihre Wurzeln reichen nicht tief genug hinab, um Wasser zu finden. Sie leben allein vom Regen. Der Turm stammt aus dem Jahr 1301 und trägt bis heute den Namen der Guinigi. Such von der Gasse aus die grüne Krone ganz oben.",
+        "en" : "Up there the oaks have a hard life. Seven of them grow in a shallow bed of rooftop soil, so their roots cannot sink deep to find water. They live on rain alone. The tower itself dates from 1301, a Romanesque tower that still carries the Guinigi name. Stand in the street below and look for the green crown at the top."
       },
       "localizedStory" : {
-        "de" : "Die Familie Guinigi gab diesem Turm 1301 ihren Namen. Er ragt 44,25 Meter über die Gasse.",
-        "en" : "The Guinigi family put their name on this tower in 1301. It stands 44.25 metres above the street."
+        "de" : "Schau nach oben: Auf diesem Turm stehen Steineichen. Der Sage nach pflanzte die Familie Guinigi sie dort als Zeichen für einen Neubeginn.",
+        "en" : "Look up: holm oaks grow on top of this tower. Legend says the Guinigi family planted them there as a sign of rebirth."
       },
       "name" : "Torre Guinigi",
       "pos" : [
         43.843715,
         10.506995
       ],
-      "story" : "The Guinigi family put their name on this tower in 1301. It stands 44.25 metres above the street."
+      "story" : "Look up: holm oaks grow on top of this tower. Legend says the Guinigi family planted them there as a sign of rebirth."
     },
     {
-      "extendedStory" : "The Romans raised an amphitheatre on this spot, outside the walls of their town. It had 55 arches in two tiers and held ten thousand people. When it fell, families built their homes straight onto the ruins and followed the curve. In 1830 the architect Nottolini cleared out the middle, and the oval you stand in is what was left.",
+      "extendedStory" : "The real root of the name is older: a garbled form of the Latin word for amphitheatre. The Romans built one here, outside the walls. Its stones still lie about 2 metres under the street you stand on. Houses grew over the ruins and reused whatever stood, so the oval survived. From 1830 the architect Nottolini cleared the middle, and the square opened up.",
       "icon" : "choice",
       "id" : "f-piazza-anfiteatro",
       "kind" : "square",
       "localizedExtendedStory" : {
-        "de" : "Die Römer errichteten hier ein Amphitheater, außerhalb der Mauern ihrer Stadt. Es hatte 55 Bögen in zwei Reihen und fasste zehntausend Menschen. Als es verfiel, bauten Familien ihre Häuser direkt auf die Ruinen und folgten der Rundung. 1830 räumte der Architekt Nottolini die Mitte frei, und das Oval, in dem man steht, blieb übrig.",
-        "en" : "The Romans raised an amphitheatre on this spot, outside the walls of their town. It had 55 arches in two tiers and held ten thousand people. When it fell, families built their homes straight onto the ruins and followed the curve. In 1830 the architect Nottolini cleared out the middle, and the oval you stand in is what was left."
+        "de" : "In Wahrheit steckt ein verdrehtes lateinisches Wort für Amphitheater im Namen. Die Römer bauten hier eines, vor den Mauern der Stadt. Seine Steine liegen noch etwa 2 Meter unter dem Pflaster, auf dem du stehst. Häuser wuchsen über die Ruinen und nutzten, was stehen blieb. So überlebte das Oval. Ab 1830 räumte der Architekt Nottolini die Mitte frei, und der Platz ging auf.",
+        "en" : "The real root of the name is older: a garbled form of the Latin word for amphitheatre. The Romans built one here, outside the walls. Its stones still lie about 2 metres under the street you stand on. Houses grew over the ruins and reused whatever stood, so the oval survived. From 1830 the architect Nottolini cleared the middle, and the square opened up."
       },
       "localizedStory" : {
-        "de" : "Ein ovaler Platz, der in Wahrheit eine römische Arena ist. Häuser wuchsen auf den Ruinen und bewahrten die Form.",
-        "en" : "An oval square that is really a Roman arena. Houses grew on the ruins and kept its shape."
+        "de" : "Im Mittelalter hieß dieses Oval Parlascio. Man sagt, der Name komme von parlare, reden, weil sich hier die Versammlungen trafen.",
+        "en" : "In the Middle Ages people called this oval the Parlascio. They say the name meant a spot to talk, since meetings gathered here."
       },
       "name" : "Piazza Anfiteatro",
       "pos" : [
         43.845349,
         10.506146
       ],
-      "story" : "An oval square that is really a Roman arena. Houses grew on the ruins and kept its shape."
+      "story" : "In the Middle Ages people called this oval the Parlascio. They say the name meant a spot to talk, since meetings gathered here."
     },
     {
-      "extendedStory" : "Giovanni Lazzarini built this gate in 1809, and it faces east towards the road to Florence. Every other gate in the wall carries the name of a saint. This one carries the name of Elisa Baciocchi Bonaparte, Napoleon's sister, princess of Lucca at the time. Naming a gate for someone still alive was a new idea, and it says a good deal about who was in charge.",
+      "extendedStory" : "Look at its skin. The gate is dressed in white marble, and it stands out sharply against the red brick of the walls around it. Giovanni Lazzarini drew it in 1809, while Elisa was princess of Lucca. It faces east, onto the road to Florence. Walk out through it and turn round to see the pale stone set into the dark red.",
       "icon" : "everyday",
       "id" : "f-porta-elisa",
       "kind" : "gate_tower",
       "localizedExtendedStory" : {
-        "de" : "Giovanni Lazzarini baute dieses Tor 1809, und es blickt nach Osten, zur Straße nach Florenz. Jedes andere Tor der Mauer trägt einen Heiligennamen. Dieses trägt den Namen von Elisa Baciocchi Bonaparte, Napoleons Schwester, damals Fürstin von Lucca. Ein Tor nach einer Lebenden zu benennen war neu, und es verrät einiges darüber, wer hier bestimmte.",
-        "en" : "Giovanni Lazzarini built this gate in 1809, and it faces east towards the road to Florence. Every other gate in the wall carries the name of a saint. This one carries the name of Elisa Baciocchi Bonaparte, Napoleon's sister, princess of Lucca at the time. Naming a gate for someone still alive was a new idea, and it says a good deal about who was in charge."
+        "de" : "Schau dir die Oberfläche an. Das Tor ist mit weißem Marmor verkleidet und hebt sich scharf vom roten Backstein der Mauern ab. Entworfen hat es Giovanni Lazzarini im Jahr 1809, als Elisa Fürstin von Lucca war. Es blickt nach Osten, auf die Straße nach Florenz. Geh hinaus und dreh dich um, dann siehst du den hellen Stein im dunklen Rot.",
+        "en" : "Look at its skin. The gate is dressed in white marble, and it stands out sharply against the red brick of the walls around it. Giovanni Lazzarini drew it in 1809, while Elisa was princess of Lucca. It faces east, onto the road to Florence. Walk out through it and turn round to see the pale stone set into the dark red."
       },
       "localizedStory" : {
-        "de" : "Luccas Tore tragen Heiligennamen. Dieses von 1809 trägt den Namen einer lebenden Frau.",
-        "en" : "The gates of Lucca are named for saints. This one, opened in 1809, is named for a living woman."
+        "de" : "Die älteren Tore der Stadt tragen Namen von Heiligen. Dieses ist nach einer lebenden Frau benannt: Elisa, Napoleons Schwester und Fürstin von Lucca.",
+        "en" : "Every older gate here was named for a saint. This one carries the name of a living woman: Elisa, Napoleon's sister and princess of Lucca."
       },
       "name" : "Porta Elisa",
       "pos" : [
         43.843095,
         10.514089
       ],
-      "story" : "The gates of Lucca are named for saints. This one, opened in 1809, is named for a living woman."
+      "story" : "Every older gate here was named for a saint. This one carries the name of a living woman: Elisa, Napoleon's sister and princess of Lucca."
     },
     {
-      "extendedStory" : "Lucca's wall runs 4 kilometres and 223 metres around the town, with eleven bastions set into it. This is one of them, and an older tower sits swallowed up inside its bulk. Galleries run underneath it. In 2024 they opened as a permanent exhibition about the wall, entered from via delle Conce. In the 1820s Maria Luisa of Bourbon turned the whole circuit into a walking park. That is what people use it for now.",
+      "extendedStory" : "An older tower hides inside the bastion, swallowed when it grew wider. Galleries run underneath it, and since 2024 they hold a lasting show about the walls, entered from Via delle Conce. Life up here was never just about guns. Poor families gathered fallen wood from the trees. Women ignored the bans and strung washing between them in summer. Soldiers on guard turned towers into vegetable plots.",
       "icon" : "everyday",
       "id" : "f-baluardo-santa-croce",
       "kind" : "fortress",
       "localizedExtendedStory" : {
-        "de" : "Luccas Mauer läuft 4 Kilometer und 223 Meter um die Stadt, mit elf Bastionen darin. Dies ist eine davon, und in ihrem Leib steckt ein älterer Turm. Darunter ziehen sich Galerien. 2024 öffneten sie als feste Ausstellung über die Mauer, mit Eingang an der via delle Conce. In den 1820er Jahren machte Maria Luisa von Bourbon aus dem ganzen Ring einen Spazierpark. So nutzen ihn die Leute bis heute.",
-        "en" : "Lucca's wall runs 4 kilometres and 223 metres around the town, with eleven bastions set into it. This is one of them, and an older tower sits swallowed up inside its bulk. Galleries run underneath it. In 2024 they opened as a permanent exhibition about the wall, entered from via delle Conce. In the 1820s Maria Luisa of Bourbon turned the whole circuit into a walking park. That is what people use it for now."
+        "de" : "Im Bollwerk steckt ein älterer Turm, verschluckt, als es breiter wurde. Darunter ziehen sich Gänge, und seit 2024 steht dort eine feste Ausstellung über die Mauern. Der Eingang liegt in der Via delle Conce. Hier oben ging es nie nur um Kanonen. Arme Leute sammelten Fallholz unter den Bäumen. Frauen spannten trotz Verbot im Sommer Wäscheleinen dazwischen. Wachsoldaten machten aus Türmen Gemüsebeete.",
+        "en" : "An older tower hides inside the bastion, swallowed when it grew wider. Galleries run underneath it, and since 2024 they hold a lasting show about the walls, entered from Via delle Conce. Life up here was never just about guns. Poor families gathered fallen wood from the trees. Women ignored the bans and strung washing between them in summer. Soldiers on guard turned towers into vegetable plots."
       },
       "localizedStory" : {
-        "de" : "Eine von elf Bastionen auf einer Mauer, die heute Park ist. In ihr steckt ein älterer Turm.",
-        "en" : "One of eleven bastions on a wall that is now a park. An older tower is buried inside this one."
+        "de" : "Zähl die Schießscharten: Sie liegen in zwei Reihen übereinander, und dazwischen läuft ein Wehrgang.",
+        "en" : "Count the gun ports: they sit in two rows, one above the other, with a walkway running between them."
       },
       "name" : "Baluardo Santa Croce",
       "pos" : [
         43.845824,
         10.49777
       ],
-      "story" : "One of eleven bastions on a wall that is now a park. An older tower is buried inside this one."
+      "story" : "Count the gun ports: they sit in two rows, one above the other, with a walkway running between them."
     },
     {
-      "extendedStory" : "The church dates from 1430 and carries the name of Francis of Assisi. Its walls follow the Romanesque manner, the building style of round arches. It sits away from the busiest streets, and the quiet around it is part of what you notice when you arrive. The name has been on it for close to six centuries.",
+      "extendedStory" : "That tale took shape in the 17th century, long after the saint lived. Inside lies a lord of Lucca. Castruccio Castracani, who held the city, was buried here dressed in the habit of a Franciscan friar. So a powerful man went to his grave looking like a humble brother. The Romanesque church that holds him dates from 1430.",
       "icon" : "everyday",
       "id" : "f-chiesa-di-san-francesco",
       "kind" : "church",
       "localizedExtendedStory" : {
-        "de" : "Die Kirche stammt von 1430 und trägt den Namen des Franz von Assisi. Ihre Mauern folgen der romanischen Bauweise, dem Stil der Rundbögen. Sie liegt abseits der belebtesten Gassen, und die Ruhe ringsum gehört zu dem, was man beim Ankommen bemerkt. Der Name steht seit bald sechs Jahrhunderten an ihr.",
-        "en" : "The church dates from 1430 and carries the name of Francis of Assisi. Its walls follow the Romanesque manner, the building style of round arches. It sits away from the busiest streets, and the quiet around it is part of what you notice when you arrive. The name has been on it for close to six centuries."
+        "de" : "Aufgeschrieben wurde diese Überlieferung im 17. Jahrhundert, lange nach dem Heiligen. Hier drinnen liegt ein Herr von Lucca, Castruccio Castracani. Man begrub ihn im Habit eines Franziskaners, gekleidet wie ein einfacher Bruder. So ruht ein mächtiger Mann im schlichten Ordensgewand. Die romanische Kirche trägt den Namen des Franz und stammt aus dem Jahr 1430.",
+        "en" : "That tale took shape in the 17th century, long after the saint lived. Inside lies a lord of Lucca. Castruccio Castracani, who held the city, was buried here dressed in the habit of a Franciscan friar. So a powerful man went to his grave looking like a humble brother. The Romanesque church that holds him dates from 1430."
       },
       "localizedStory" : {
-        "de" : "Diese Kirche von 1430 trägt den Namen des Franz von Assisi.",
-        "en" : "This church of 1430 carries the name of Francis of Assisi."
+        "de" : "Man erzählt, Franz von Assisi habe Wurzeln in Lucca. Seine Vorfahren, die Familie Moriconi, sollen Generationen zuvor nach Umbrien gezogen sein.",
+        "en" : "Francis of Assisi had Lucca roots, they say. His forebears, the Moriconi, are said to have moved to Umbria generations before him."
       },
       "name" : "Chiesa di San Francesco",
       "pos" : [
         43.84549,
         10.511429
       ],
-      "story" : "This church of 1430 carries the name of Francis of Assisi."
+      "story" : "Francis of Assisi had Lucca roots, they say. His forebears, the Moriconi, are said to have moved to Umbria generations before him."
     },
     {
-      "extendedStory" : "Elisa Bonaparte Baciocchi ruled Lucca as princess, and in 1806 she wanted her palace given room to be seen. Houses, shops, warehouses, a tower, an archive and the church of San Pietro Maggiore all came down for it. Maria Luisa of Bourbon later swapped the elms for plane trees. Her statue stands here with her son Carlo Lodovico, carved by Lorenzo Bartolini.",
+      "extendedStory" : "What stood here did not vanish completely. In 1998 workers lifted the paving to lay it again and hit the foundations of the medieval houses she razed. A tower, an archive and the church of San Pietro Maggiore went with them. Later Maria Luisa of Bourbon planted the plane trees you walk under. Her statue stands here too, with her son Carlo Lodovico, carved by Lorenzo Bartolini.",
       "icon" : "everyday",
       "id" : "f-piazza-napoleone",
       "kind" : "square",
       "localizedExtendedStory" : {
-        "de" : "Elisa Bonaparte Baciocchi regierte Lucca als Fürstin und wollte 1806 ihrem Palast Platz zum Gesehenwerden verschaffen. Häuser, Läden, Lager, ein Turm, ein Archiv und die Kirche San Pietro Maggiore fielen dafür. Maria Luisa von Bourbon tauschte später die Ulmen gegen Platanen. Ihr Standbild steht hier mit ihrem Sohn Carlo Lodovico, gehauen von Lorenzo Bartolini.",
-        "en" : "Elisa Bonaparte Baciocchi ruled Lucca as princess, and in 1806 she wanted her palace given room to be seen. Houses, shops, warehouses, a tower, an archive and the church of San Pietro Maggiore all came down for it. Maria Luisa of Bourbon later swapped the elms for plane trees. Her statue stands here with her son Carlo Lodovico, carved by Lorenzo Bartolini."
+        "de" : "Ganz verschwunden ist das Alte nicht. Als 1998 das Pflaster neu verlegt wurde, stießen Arbeiter auf die Fundamente der mittelalterlichen Häuser. Mit ihnen fielen einst ein Turm, ein Archiv und die Kirche San Pietro Maggiore. Später pflanzte Maria Luisa von Bourbon die Platanen, unter denen du läufst. Ihr Standbild mit ihrem Sohn Carlo Lodovico schuf Lorenzo Bartolini.",
+        "en" : "What stood here did not vanish completely. In 1998 workers lifted the paving to lay it again and hit the foundations of the medieval houses she razed. A tower, an archive and the church of San Pietro Maggiore went with them. Later Maria Luisa of Bourbon planted the plane trees you walk under. Her statue stands here too, with her son Carlo Lodovico, carved by Lorenzo Bartolini."
       },
       "localizedStory" : {
-        "de" : "Napoleons Schwester ließ diesen Platz 1806 anlegen. Eine ganze Kirche musste dafür weichen.",
-        "en" : "Napoleon's sister opened this square in 1806. A whole church had to come down to make room."
+        "de" : "Die Einheimischen haben einen Spitznamen für ihn: Piazza Grande. Napoleons Schwester Elisa ließ Häuser, Läden und eine Kirche abreißen, damit ihr Palast frei dastand.",
+        "en" : "Locals call it Piazza Grande. Napoleon's sister Elisa had houses, shops and a church pulled down so her palace could be seen."
       },
       "name" : "Piazza Napoleone",
       "pos" : [
         43.841299,
         10.502472
       ],
-      "story" : "Napoleon's sister opened this square in 1806. A whole church had to come down to make room."
+      "story" : "Locals call it Piazza Grande. Napoleon's sister Elisa had houses, shops and a church pulled down so her palace could be seen."
     }
   ],
-  "generatedAt" : "2026-09-21T07:39:05Z",
+  "generatedAt" : "2026-09-21T13:44:12Z",
   "icon" : {
     "paths" : [
       "M 34.00 46.00 L 66.00 46.00 L 66.00 88.00 L 34.00 88.00 Z M 30.00 84.00 L 70.00 84.00 L 70.00 90.00 L 30.00 90.00 Z M 41.00 42.00 L 47.00 42.00 L 47.00 46.00 L 41.00 46.00 Z M 53.00 42.00 L 59.00 42.00 L 59.00 46.00 L 53.00 46.00 Z M 45.00 30.00 L 55.00 30.00 L 55.00 46.00 L 45.00 46.00 Z M 50.00 6.00 C 59.94 6.00 68.00 12.27 68.00 20.00 C 68.00 27.73 59.94 34.00 50.00 34.00 C 40.06 34.00 32.00 27.73 32.00 20.00 C 32.00 12.27 40.06 6.00 50.00 6.00 Z M 34.00 18.00 C 40.63 18.00 46.00 22.48 46.00 28.00 C 46.00 33.52 40.63 38.00 34.00 38.00 C 27.37 38.00 22.00 33.52 22.00 28.00 C 22.00 22.48 27.37 18.00 34.00 18.00 Z M 66.00 18.00 C 72.63 18.00 78.00 22.48 78.00 28.00 C 78.00 33.52 72.63 38.00 66.00 38.00 C 59.37 38.00 54.00 33.52 54.00 28.00 C 54.00 22.48 59.37 18.00 66.00 18.00 Z M 50.00 19.00 C 58.28 19.00 65.00 23.92 65.00 30.00 C 65.00 36.08 58.28 41.00 50.00 41.00 C 41.72 41.00 35.00 36.08 35.00 30.00 C 35.00 23.92 41.72 19.00 50.00 19.00 Z"
@@ -6344,7 +6344,7 @@
     "en" : "Lucca"
   },
   "name" : "Lucca",
-  "packVersion" : 17,
+  "packVersion" : 18,
   "schemaVersion" : 1,
   "source" : "OpenStreetMap via Overpass API",
   "stats" : {

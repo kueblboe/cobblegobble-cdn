@@ -87,15 +87,11 @@
 
     ],
     "adjustedStreets" : [
-      "Hradební",
-      "I. nádvoří",
-      "Myší díra",
-      "Zámek",
-      "most Dr. E. Beneše"
+
     ],
-    "fromVersion" : 30,
+    "fromVersion" : 31,
     "removedStreets" : [
-      "Klášter klarisek"
+
     ]
   },
   "cityId" : "ceskykrumlov",
@@ -4493,167 +4489,167 @@
   ],
   "fruits" : [
     {
-      "extendedStory" : "The yard began as a widow's house, built in 1546 for Anna of Rogendorf. She was the mother of William of Rosenberg. At the end of that century Peter Vok of Rosenberg put an armoury on the site. Between 1625 and 1630 the buildings were remade for the work that still goes on here. The same walls have held a home, a store of weapons and a workplace in turn.",
+      "extendedStory" : "Anna of Rogendorf, mother of William of Rosenberg, lived here as a widow from 1546. Later Peter Vok of Rosenberg had an armoury built on the site, a store for weapons. From 1625 the buildings were remade for the work that still goes on today. So one set of walls has been a widow's home, an arsenal and a workplace, one after another.",
       "icon" : "choice",
       "id" : "f-pivovar-eggenberg",
       "kind" : "food_landmark",
       "localizedExtendedStory" : {
-        "de" : "Der Hof begann als Witwenhaus, 1546 für Anna von Rogendorf erbaut. Sie war die Mutter Wilhelms von Rosenberg. Am Ende desselben Jahrhunderts ließ Peter Wok von Rosenberg hier ein Zeughaus errichten. Zwischen 1625 und 1630 baute man die Gebäude für die Arbeit um, die hier bis heute läuft. Dieselben Mauern trugen nacheinander ein Zuhause, ein Waffenlager und eine Werkstatt.",
-        "en" : "The yard began as a widow's house, built in 1546 for Anna of Rogendorf. She was the mother of William of Rosenberg. At the end of that century Peter Vok of Rosenberg put an armoury on the site. Between 1625 and 1630 the buildings were remade for the work that still goes on here. The same walls have held a home, a store of weapons and a workplace in turn."
+        "de" : "Anna von Rogendorf, die Mutter Wilhelms von Rosenberg, lebte hier ab 1546 als Witwe. Später ließ Peter Wok von Rosenberg auf dem Gelände ein Zeughaus bauen, ein Lager für Waffen. Ab 1625 baute man alles für die Arbeit um, die hier bis heute weitergeht. So waren dieselben Mauern nacheinander Witwensitz, Waffenlager und Werkstatt.",
+        "en" : "Anna of Rogendorf, mother of William of Rosenberg, lived here as a widow from 1546. Later Peter Vok of Rosenberg had an armoury built on the site, a store for weapons. From 1625 the buildings were remade for the work that still goes on today. So one set of walls has been a widow's home, an arsenal and a workplace, one after another."
       },
       "localizedStory" : {
-        "de" : "Die Náplavka Miroslava Párala führt am Pivovar Eggenberg vorbei, gegründet 1560. Seit über vierhundert Jahren wird hier dasselbe Handwerk ausgeübt.",
-        "en" : "Náplavka Miroslava Párala runs past Pivovar Eggenberg, founded in 1560. The same trade has gone on here for over four hundred years."
+        "de" : "Hinter einer Ziegelverblendung lag hier jahrhundertelang Sgraffito aus der Renaissance verborgen, also in Putz geritzte Muster. Restauratoren haben es wieder freigelegt.",
+        "en" : "Renaissance sgraffito, patterns scratched into plaster, hid here for centuries behind a brick facing. Restorers have just brought it back to light."
       },
       "name" : "Pivovar Eggenberg",
       "pos" : [
         48.812506,
         14.319755
       ],
-      "story" : "Náplavka Miroslava Párala runs past Pivovar Eggenberg, founded in 1560. The same trade has gone on here for over four hundred years."
+      "story" : "Renaissance sgraffito, patterns scratched into plaster, hid here for centuries behind a brick facing. Restorers have just brought it back to light."
     },
     {
-      "extendedStory" : "The church takes its name from Saint Vitus. Work began in 1309, and the building was still rising in 1407. That is a hundred years of masons on one church, and the people who started it never saw it done. Its style is Gothic, which means pointed arches and windows that reach for height. Stand on Horní and look up at what took a century to finish.",
+      "extendedStory" : "By morning, the story goes, his hair had turned white. The vault over your head has a true story of its own. In 1407 a contract with master builder Jan Staněk spelled out his tasks one by one. It is so exact that you can still check it against the vault today. Look up and count the ties: 30 of them cross the main vault.",
       "icon" : "choice",
       "id" : "f-svaty-vit",
       "kind" : "church",
       "localizedExtendedStory" : {
-        "de" : "Die Kirche trägt den Namen des heiligen Veit. Der Bau begann 1309, und 1407 wurde immer noch daran gearbeitet. Das sind hundert Jahre Steinmetzarbeit an ein und derselben Kirche, und wer damit anfing, hat sie nie fertig gesehen. Ihr Stil ist gotisch: Spitzbögen und Fenster, die in die Höhe streben. Bleib auf der Horní stehen und schau hinauf, was ein Jahrhundert gebraucht hat.",
-        "en" : "The church takes its name from Saint Vitus. Work began in 1309, and the building was still rising in 1407. That is a hundred years of masons on one church, and the people who started it never saw it done. Its style is Gothic, which means pointed arches and windows that reach for height. Stand on Horní and look up at what took a century to finish."
+        "de" : "Am nächsten Morgen, so heißt es, war sein Haar weiß. Das Gewölbe über dir hat eine wahre Geschichte. 1407 schloss man mit dem Baumeister Jan Staněk einen Vertrag, der jede seiner Aufgaben einzeln aufzählte. Er ist so genau, dass man ihn bis heute mit dem Gewölbe vergleichen kann. Schau hinauf und zähl die Zuganker: 30 davon spannen sich über das Hauptgewölbe.",
+        "en" : "By morning, the story goes, his hair had turned white. The vault over your head has a true story of its own. In 1407 a contract with master builder Jan Staněk spelled out his tasks one by one. It is so exact that you can still check it against the vault today. Look up and count the ties: 30 of them cross the main vault."
       },
       "localizedStory" : {
-        "de" : "Die Horní führt zu svatý Vít, der Kirche des heiligen Veit. Der Bau begann 1309, vor mehr als siebenhundert Jahren.",
-        "en" : "Horní leads to svatý Vít, the church of St Vitus. Building began in 1309, more than seven hundred years ago."
+        "de" : "Man erzählt, ein Vikar sei hier im Beichtstuhl eingeschlafen und eingeschlossen worden. Um Mitternacht erwachte er vor einer Gemeinde aus Geistern.",
+        "en" : "Legend says a vicar once fell asleep in the confessional here and got locked in. At midnight he woke to a congregation of ghosts."
       },
       "name" : "svatý Vít",
       "pos" : [
         48.810255,
         14.315963
       ],
-      "story" : "Horní leads to svatý Vít, the church of St Vitus. Building began in 1309, more than seven hundred years ago."
+      "story" : "Legend says a vicar once fell asleep in the confessional here and got locked in. At midnight he woke to a congregation of ghosts."
     },
     {
-      "extendedStory" : "Witiko II ordered a castle built on this rock. What stands there today is Renaissance work, rebuilt long after his time. The site sits 497 metres above sea level, and that height is the reason anyone built here at all. People have climbed this same street to reach it for more than seven hundred years. The street is called Zámek for a reason.",
+      "extendedStory" : "So bears went onto the family's coat of arms, and bears still live at the castle today. Their keeper, Jan Černý, began a Bear Festival for them, held on their birthdays and at Christmas. Now look up at the tower. A bell inside it is dated 1406, which is why nobody can rule out a Gothic start. The arcaded walk at its top came in 1581.",
       "icon" : "hero",
       "id" : "f-hrad-a-zamek-cesky-krumlov",
       "kind" : "fortress",
       "localizedExtendedStory" : {
-        "de" : "Witiko II. ließ auf diesem Felsen eine Burg errichten. Was heute dort steht, ist Renaissance, lange nach seiner Zeit umgebaut. Der Ort liegt 497 Meter über dem Meer, und diese Höhe ist der Grund, warum hier überhaupt jemand baute. Seit mehr als siebenhundert Jahren steigen Menschen diese Gasse hinauf, die nicht umsonst Zámek heißt.",
-        "en" : "Witiko II ordered a castle built on this rock. What stands there today is Renaissance work, rebuilt long after his time. The site sits 497 metres above sea level, and that height is the reason anyone built here at all. People have climbed this same street to reach it for more than seven hundred years. The street is called Zámek for a reason."
+        "de" : "Deshalb kamen Bären ins Familienwappen, und am Schloss leben bis heute welche. Ihr Pfleger Jan Černý hat für sie ein Bärenfest ins Leben gerufen, zu ihren Geburtstagen und an Weihnachten. Schau jetzt zum Turm hinauf. Eine Glocke dort oben trägt die Jahreszahl 1406, darum kann niemand einen gotischen Anfang ausschließen. Die Arkaden an seiner Spitze kamen erst 1581 dazu.",
+        "en" : "So bears went onto the family's coat of arms, and bears still live at the castle today. Their keeper, Jan Černý, began a Bear Festival for them, held on their birthdays and at Christmas. Now look up at the tower. A bell inside it is dated 1406, which is why nobody can rule out a Gothic start. The arcaded walk at its top came in 1581."
       },
       "localizedStory" : {
-        "de" : "Zámek heißt 'Schlossgasse', und genau dorthin führt sie: hinauf zum Schloss, das Witiko II. um 1300 zu bauen begann.",
-        "en" : "Zámek means 'castle street', and it climbs to exactly that: the castle Witiko II began around 1300."
+        "de" : "Dieses Schloss hält Bären. Man erzählt, seine Herren, die Rosenberger, seien mit den Orsini in Italien verwandt gewesen, und orsa heißt Bärin.",
+        "en" : "This castle keeps bears. The story goes that its lords, the Rosenbergs, were kin to Italy's Orsini, and orsa means she-bear."
       },
       "name" : "hrad a zámek Český Krumlov",
       "pos" : [
         48.812708,
         14.315884
       ],
-      "story" : "Zámek means 'castle street', and it climbs to exactly that: the castle Witiko II began around 1300."
+      "story" : "This castle keeps bears. The story goes that its lords, the Rosenbergs, were kin to Italy's Orsini, and orsa means she-bear."
     },
     {
-      "extendedStory" : "The name comes from a bath-house that stood next door, at Latrán number one. Before this bridge there was a footbridge, and in 1830 ice floes on the river wrecked it. The stone bridge you are standing on was built to replace it. Two stone abutments carry it, with a single pier out in midstream. A figure of St John of Nepomuk and a cross keep watch from the middle.",
+      "extendedStory" : "The name comes from a bath-house that stood next door, at Latrán 1. Before this bridge, a footbridge joined the two towns here. In 1830 ice floes on the river wrecked it, and this crossing was built in its place. Look for St John of Nepomuk in stone, with a cross close to him. The abutments are built of dressed stone blocks.",
       "icon" : "everyday",
       "id" : "f-lazebnicky-most",
       "kind" : "bridge",
       "localizedExtendedStory" : {
-        "de" : "Der Name kommt von einer Badestube, die nebenan stand, im Haus Latrán Nummer eins. Vor dieser Brücke gab es einen Steg, den 1830 Eisschollen zerstörten. Die steinerne Brücke, auf der du stehst, wurde als Ersatz gebaut. Zwei steinerne Widerlager tragen sie, dazu ein Pfeiler mitten im Fluss. Eine Figur des heiligen Johannes von Nepomuk und ein Kreuz wachen von der Mitte.",
-        "en" : "The name comes from a bath-house that stood next door, at Latrán number one. Before this bridge there was a footbridge, and in 1830 ice floes on the river wrecked it. The stone bridge you are standing on was built to replace it. Two stone abutments carry it, with a single pier out in midstream. A figure of St John of Nepomuk and a cross keep watch from the middle."
+        "de" : "Ihren Namen hat sie von einer Badestube, die nebenan stand, im Haus Latrán 1. Früher verband hier ein Steg die beiden Städte. 1830 zerstörten Eisschollen diesen Steg, und an seiner Stelle entstand die heutige Brücke. Auf ihr stehen der heilige Johannes von Nepomuk aus Stein und ein Kreuz. Die Widerlager sind aus behauenen Steinblöcken gemauert.",
+        "en" : "The name comes from a bath-house that stood next door, at Latrán 1. Before this bridge, a footbridge joined the two towns here. In 1830 ice floes on the river wrecked it, and this crossing was built in its place. Look for St John of Nepomuk in stone, with a cross close to him. The abutments are built of dressed stone blocks."
       },
       "localizedStory" : {
-        "de" : "Die Baderbrücke über die Moldau. Geh hier hinüber, und du bist in Krumaus Altstadt.",
-        "en" : "The Barber's Bridge over the Vltava. Cross here and you're in Krumlov's Old Town."
+        "de" : "Unter deinen Füßen liegt Stahl. Die Fahrbahn ruht auf Gleitlagern, getragen von zwei steinernen Widerlagern und einem Pfeiler im Fluss.",
+        "en" : "The deck under your feet is steel, and it rests on sliding bearings. Two stone abutments and one pier in the river carry it."
       },
       "name" : "Lazebnický most",
       "pos" : [
         48.811797,
         14.315689
       ],
-      "story" : "The Barber's Bridge over the Vltava. Cross here and you're in Krumlov's Old Town."
+      "story" : "The deck under your feet is steel, and it rests on sliding bearings. Two stone abutments and one pier in the river carry it."
     },
     {
-      "extendedStory" : "The townspeople built this house for themselves in 1605, in Široká street at number 71. It belonged to the town rather than to the lords up at the castle. Work began again after 1945, then stopped for good in January 1949. The doors stayed shut for more than forty years. What goes on inside today was started fresh in 1992.",
+      "extendedStory" : "The townspeople put this house up for themselves in 1605, on Široká street. It kept its old job for generations, until the work stopped for good in 1949. After that it served as a warehouse. Then art moved in, and it stayed. Inside, a permanent exhibition walks you through the painter's life and his pictures.",
       "icon" : "everyday",
       "id" : "f-mestsky-pivovar",
       "kind" : "attraction",
       "localizedExtendedStory" : {
-        "de" : "Die Bürger bauten sich dieses Haus 1605, in der Straße Široká, Nummer 71. Es gehörte der Stadt und nicht den Herren oben auf dem Schloss. Nach 1945 lief die Arbeit wieder an, endete aber im Januar 1949 endgültig. Über vierzig Jahre blieben die Türen zu. Was heute darin geschieht, begann 1992 neu.",
-        "en" : "The townspeople built this house for themselves in 1605, in Široká street at number 71. It belonged to the town rather than to the lords up at the castle. Work began again after 1945, then stopped for good in January 1949. The doors stayed shut for more than forty years. What goes on inside today was started fresh in 1992."
+        "de" : "Die Bürger stellten sich dieses Haus 1605 selbst hin, in der Straße Široká. Seine alte Arbeit lief über Generationen, bis sie 1949 endgültig aufhörte. Danach diente es als Lager. Dann zog die Kunst ein. Eine Dauerausstellung führt dich hier durch das Leben des Malers und durch seine Bilder.",
+        "en" : "The townspeople put this house up for themselves in 1605, on Široká street. It kept its old job for generations, until the work stopped for good in 1949. After that it served as a warehouse. Then art moved in, and it stayed. Inside, a permanent exhibition walks you through the painter's life and his pictures."
       },
       "localizedStory" : {
-        "de" : "Gleich an der Hradební liegt der Městský pivovar, der städtische Betrieb. Die Arbeit an dieser Stelle reicht bis 1605 zurück, das heutige Unternehmen bis 1992.",
-        "en" : "Just off Hradební sits Městský pivovar, the town's own. Work here goes back to 1605, and the present business dates from 1992."
+        "de" : "Dieses Bürgerhaus ist heute einem Maler gewidmet. Seit 1993 ist hier das Egon Schiele Art Centrum, das von seinem Leben und Werk erzählt.",
+        "en" : "This townspeople's house is now devoted to a painter. Since 1993 it has been the Egon Schiele Art Centrum, all about his life and work."
       },
       "name" : "Městský pivovar",
       "pos" : [
         48.810666,
         14.313231
       ],
-      "story" : "Just off Hradební sits Městský pivovar, the town's own. Work here goes back to 1605, and the present business dates from 1992."
+      "story" : "This townspeople's house is now devoted to a painter. Since 1993 it has been the Egon Schiele Art Centrum, all about his life and work."
     },
     {
-      "extendedStory" : "This crossing dates from the 1930s. A granite plaque is still set into it. It names the bridge for president Edvard Beneš, as it was named at the start. That plaque came through the rebuilding of October 2024 to May 2025. The work cost 42 million crowns. The bridge is meant to carry another hundred years of coming and going.",
+      "extendedStory" : "The rebuild ran from autumn to spring and is meant to last another hundred years. Before you cross, find the granite plaque. It has been here since the 1930s, when the bridge was new. It still names the bridge for president Dr. Eduard Beneš. It is the original, not a copy. Run a hand over the stone as you pass.",
       "icon" : "everyday",
       "id" : "f-most-dr-e-benese",
       "kind" : "bridge",
       "localizedExtendedStory" : {
-        "de" : "Der Übergang stammt aus den 1930er Jahren. Eine Granittafel steckt noch immer in ihm. Sie nennt die Brücke nach Präsident Edvard Beneš, so wie sie am Anfang hieß. Diese Tafel überstand den Umbau von Oktober 2024 bis Mai 2025. Die Arbeiten kosteten 42 Millionen Kronen. Die Brücke soll weitere hundert Jahre Kommen und Gehen tragen.",
-        "en" : "This crossing dates from the 1930s. A granite plaque is still set into it. It names the bridge for president Edvard Beneš, as it was named at the start. That plaque came through the rebuilding of October 2024 to May 2025. The work cost 42 million crowns. The bridge is meant to carry another hundred years of coming and going."
+        "de" : "Der Umbau lief vom Herbst bis zum Frühjahr und soll weitere hundert Jahre halten. Bevor du hinübergehst, such die Granittafel. Sie sitzt hier seit den 1930er Jahren, als die Brücke neu war. Noch immer benennt sie die Brücke nach Präsident Dr. Eduard Beneš. Es ist noch das Original, keine Kopie.",
+        "en" : "The rebuild ran from autumn to spring and is meant to last another hundred years. Before you cross, find the granite plaque. It has been here since the 1930s, when the bridge was new. It still names the bridge for president Dr. Eduard Beneš. It is the original, not a copy. Run a hand over the stone as you pass."
       },
       "localizedStory" : {
-        "de" : "Die Dr.-E.-Beneš-Brücke führt über die Moldau. Von hier sind es nur ein paar Minuten zur Kirche svatý Vít.",
-        "en" : "The Dr. E. Beneš Bridge crosses the Vltava. Walk on and the church of svatý Vít is a couple of minutes away."
+        "de" : "Als diese Brücke wieder öffnete, fuhr ein alter Fiat 500 vorneweg hinüber. Man kennt das Auto in Krumau von seiner Ecke an einem Café.",
+        "en" : "When this bridge reopened, an old Fiat 500 led the way across. Locals know that car from its corner by a café in town."
       },
       "name" : "most Dr. E. Beneše",
       "pos" : [
         48.809301,
         14.314785
       ],
-      "story" : "The Dr. E. Beneš Bridge crosses the Vltava. Walk on and the church of svatý Vít is a couple of minutes away."
+      "story" : "When this bridge reopened, an old Fiat 500 led the way across. Locals know that car from its corner by a café in town."
     },
     {
-      "extendedStory" : "A ditch used to cut across here, crossed by a footbridge with a drawbridge. The bridge that replaced it went up a stage at a time, from 1686 to 1765. It stands on three tiers of arches, with one open level carrying sculpture and three closed ones above. Four saints in stone watch from the parapet.",
+      "extendedStory" : "The pillars under you did the plumbing: they carried the waste away. The bridge went up a stage at a time, from 1686 to 1765. Before it, a medieval ditch cut through here, crossed by a footbridge with a drawbridge. Look up at the parapet for four saints, Wenceslas and John of Nepomuk among them. They are copies of baroque statues.",
       "icon" : "choice",
       "id" : "f-plastovy-most",
       "kind" : "bridge",
       "localizedExtendedStory" : {
-        "de" : "Früher lief hier ein Graben, überquert von einem Steg mit Zugbrücke. Die Brücke, die ihn ersetzte, entstand Abschnitt für Abschnitt, von 1686 bis 1765. Sie ruht auf drei Reihen von Bögen, darüber ein offenes Geschoss mit Figuren und drei geschlossene. Vier steinerne Heilige schauen vom Geländer herab.",
-        "en" : "A ditch used to cut across here, crossed by a footbridge with a drawbridge. The bridge that replaced it went up a stage at a time, from 1686 to 1765. It stands on three tiers of arches, with one open level carrying sculpture and three closed ones above. Four saints in stone watch from the parapet."
+        "de" : "Die Pfeiler der Brücke erledigten den Rest: Sie leiteten das Abwasser ab. Die Brücke wuchs Stück für Stück, von 1686 bis 1765. Vorher zog sich hier ein mittelalterlicher Graben entlang, über den ein Steg mit Zugbrücke führte. Auf der Brüstung stehen vier Heilige, etwa Wenzel und Johannes von Nepomuk. Es sind Kopien barocker Figuren.",
+        "en" : "The pillars under you did the plumbing: they carried the waste away. The bridge went up a stage at a time, from 1686 to 1765. Before it, a medieval ditch cut through here, crossed by a footbridge with a drawbridge. Look up at the parapet for four saints, Wenceslas and John of Nepomuk among them. They are copies of baroque statues."
       },
       "localizedStory" : {
-        "de" : "Die überdachte 'Mantelbrücke' hoch auf steinernen Bögen brachte die Herren vom Schloss direkt zu Theater und Gärten.",
-        "en" : "A covered 'Cloak Bridge' high on stone arches carried the lords straight from the castle to their theatre and gardens."
+        "de" : "In dieser Brücke steckt ein Gang. Er verband den Maskensaal mit der Fürstenloge im Theater, und gleich daneben lagen Toiletten.",
+        "en" : "This bridge hides a passage inside. It joined the Masquerade Hall to the royal box at the theatre, with toilets close by."
       },
       "name" : "Plášťový most",
       "pos" : [
         48.812613,
         14.312969
       ],
-      "story" : "A covered 'Cloak Bridge' high on stone arches carried the lords straight from the castle to their theatre and gardens."
+      "story" : "This bridge hides a passage inside. It joined the Masquerade Hall to the royal box at the theatre, with toilets close by."
     },
     {
-      "extendedStory" : "The museum looks after 22,000 registered objects from the town's past. The exhibit people remember is a ceramic model of the whole town. It lays out the historic centre, roof by roof, so you can find every street you have already walked. Look for your own route across it, and see how far you have come.",
+      "extendedStory" : "They shaped it from coloured clay and finished it in 1984. It holds about 800 buildings. Look for the town gates and stretches of wall that no longer exist. On the model they still stand. Find the castle, then trace the streets you have walked today. Around the model, the museum cares for thousands more objects from the region's past.",
       "icon" : "everyday",
       "id" : "f-regionalni-muzeum-v-ceskem-krumlove",
       "kind" : "museum",
       "localizedExtendedStory" : {
-        "de" : "Das Museum betreut über zwanzigtausend verzeichnete Objekte aus der Geschichte der Stadt. Am besten merkt man sich das Keramikmodell der Stadt. Es zeigt die ganze Altstadt, Dach für Dach, sodass du die Gassen wiederfindest, die du schon gegangen bist. Such deinen eigenen Weg darauf.",
-        "en" : "The museum looks after 22,000 registered objects from the town's past. The exhibit people remember is a ceramic model of the whole town. It lays out the historic centre, roof by roof, so you can find every street you have already walked. Look for your own route across it, and see how far you have come."
+        "de" : "Sie formten sie aus farbigem Ton und wurden 1984 fertig. Rund 800 Häuser stehen darauf. Such die Stadttore und Mauerstücke, die es längst nicht mehr gibt. Auf dem Modell sind sie noch da. Finde das Schloss und folge dann den Gassen, die du heute gegangen bist. Ringsum betreut das Museum Tausende weitere Stücke aus der Vergangenheit der Region.",
+        "en" : "They shaped it from coloured clay and finished it in 1984. It holds about 800 buildings. Look for the town gates and stretches of wall that no longer exist. On the model they still stand. Find the castle, then trace the streets you have walked today. Around the model, the museum cares for thousands more objects from the region's past."
       },
       "localizedStory" : {
-        "de" : "An der Horní steht das Regionální muzeum, das Regionalmuseum von Krumau. Es ist voller Dinge aus der Vergangenheit der Stadt zum Anschauen.",
-        "en" : "On Horní stands the Regionální muzeum, Krumlov's regional museum. It is full of things from the town's past to look at."
+        "de" : "Im Museum steht die ganze Stadt aus gebranntem Ton, samt Toren und Mauern, die längst verschwunden sind. Ein Architekt und ein Keramiker haben sie gebaut.",
+        "en" : "Inside is the whole town in fired clay, with gates and walls that are long gone still standing. An architect and a ceramicist made it."
       },
       "name" : "Regionální muzeum v Českém Krumlově",
       "pos" : [
         48.810687,
         14.317792
       ],
-      "story" : "On Horní stands the Regionální muzeum, Krumlov's regional museum. It is full of things from the town's past to look at."
+      "story" : "Inside is the whole town in fired clay, with gates and walls that are long gone still standing. An architect and a ceramicist made it."
     }
   ],
-  "generatedAt" : "2026-09-21T06:43:20Z",
+  "generatedAt" : "2026-09-21T13:48:52Z",
   "icon" : {
     "paths" : [
       "m50 45c-15 -11 -25 -40 0 -40c25 0 15 29 0 40zm4.76 3.45c5.83 -17.67 30.32 -36.14 38.04 -12.36c7.73 23.78 -22.95 23.23 -38.04 12.36zm-1.82 5.59c18.6 0.08 43.74 17.67 23.51 32.36c-20.23 14.69 -29.18 -14.64 -23.51 -32.36zm-5.88 0c5.67 17.72 -3.29 47.06 -23.51 32.36c-20.23 -14.69 4.91 -32.28 23.51 -32.36zm-1.82 -5.59c-15.1 10.87 -45.77 11.42 -38.04 -12.36c7.73 -23.78 32.22 -5.3 38.04 12.36zm18.61 -8.17l6.72 -18.6l-15.62 12.14zm-0.34 19.89l19.77 0.64l-16.37 -11.1zm-19.02 5.82l5.5 19l5.5 -19zm-11.42 -16.29l-16.37 11.1l19.77 -0.64zm11.96 -15.89l-15.62 -12.14l6.72 18.6zm17.95 16.18c0 7.18 -5.82 13 -13 13c-7.18 0 -13 -5.82 -13 -13c0 -7.18 5.82 -13 13 -13c7.18 0 13 5.82 13 13zm-7 0c0 -3.31 -2.69 -6 -6 -6c-3.31 0 -6 2.69 -6 6c0 3.31 2.69 6 6 6c3.31 0 6 -2.69 6 -6z"
@@ -4667,7 +4663,7 @@
     "en" : "Český Krumlov"
   },
   "name" : "Český Krumlov",
-  "packVersion" : 31,
+  "packVersion" : 32,
   "schemaVersion" : 1,
   "source" : "OpenStreetMap via Overpass API",
   "stats" : {

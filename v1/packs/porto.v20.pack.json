@@ -208,39 +208,14 @@
   ],
   "changes" : {
     "addedStreets" : [
-      "Passagem Superior"
+
     ],
     "adjustedStreets" : [
-      "Cais da Ribeira",
-      "Escadas do Colégio",
-      "Largo de Mompilher",
-      "Largo dos Arcos da Ribeira",
-      "Muro dos Bacalhoeiros",
-      "Passeio dos Clérigos",
-      "Praça Formosa",
-      "Praça da Batalha",
-      "Praça da Ribeira",
-      "Praça das Cardosas",
-      "Praça do General Humberto Delgado",
-      "Praça do Infante Dom Henrique",
-      "Praça dos Poveiros",
-      "Rua Ateneu Comercial do Porto",
-      "Rua da Lada",
-      "Rua de Augusto Rosa",
-      "Rua de Sant'Ana",
-      "Rua dos Canastreiros",
-      "Terreiro da Sé",
-      "Travessa de Cedofeita",
-      "Travessa do Outeirinho",
-      "Viela do Carvão"
+
     ],
-    "fromVersion" : 18,
+    "fromVersion" : 19,
     "removedStreets" : [
-      "Mercado do Bolhão",
-      "Rua da Aliança",
-      "Rua da Glória",
-      "Rua das Virtudes",
-      "Travessa da Rua Chã"
+
     ]
   },
   "cityId" : "porto",
@@ -34365,167 +34340,167 @@
   ],
   "fruits" : [
     {
-      "extendedStory" : "The Muralhas Fernandinas once ran about 3,000 paces long and stood some 30 feet high, a stone belt around old Porto. King Fernando had the wall rebuilt between 1368 and 1437. That decades-long rebuild is why his name stayed attached to it ever after. Sections still rise above the streets today. Follow what remains and you trace the old edge of the city.",
+      "extendedStory" : "King Fernando rebuilt the wall from 1368, and it still carries his name. Picture it about 30 feet high above this street, a long ring of stone around the medieval city. Masons kept at it for generations before the work was done. Find the Coal Postern and you stand at a small door that outlived all its neighbours on the ring.",
       "icon" : "choice",
       "id" : "f-muralhas-fernandinas-do-porto",
       "kind" : "fortress",
       "localizedExtendedStory" : {
-        "de" : "Die Muralhas Fernandinas maßen einst rund 3.000 Schritt in der Länge. In der Höhe erreichten sie etwa 30 Fuß, ein steinerner Gürtel um das alte Porto. König Fernando ließ die Mauer zwischen 1368 und 1437 neu errichten. Wegen dieses jahrzehntelangen Umbaus blieb sein Name für immer an ihr haften. Teile davon ragen noch heute über die Gassen. Wer ihnen folgt, geht am alten Rand der Stadt entlang.",
-        "en" : "The Muralhas Fernandinas once ran about 3,000 paces long and stood some 30 feet high, a stone belt around old Porto. King Fernando had the wall rebuilt between 1368 and 1437. That decades-long rebuild is why his name stayed attached to it ever after. Sections still rise above the streets today. Follow what remains and you trace the old edge of the city."
+        "de" : "König Fernando ließ die Mauer ab 1368 neu errichten, und sie trägt bis heute seinen Namen. Stell sie dir rund 30 Fuß hoch über dieser Gasse vor, als langen Ring aus Stein um die mittelalterliche Stadt. Generationen von Steinmetzen arbeiteten daran, bis das Werk fertig war. Wer die Kohlenpforte findet, steht vor einer kleinen Tür, die alle ihre Nachbarn im Ring überlebt hat.",
+        "en" : "King Fernando rebuilt the wall from 1368, and it still carries his name. Picture it about 30 feet high above this street, a long ring of stone around the medieval city. Masons kept at it for generations before the work was done. Find the Coal Postern and you stand at a small door that outlived all its neighbours on the ring."
       },
       "localizedStory" : {
-        "de" : "Diese alte Stadtmauer trägt bis heute den Namen von König Fernando, der sie neu bauen ließ.",
-        "en" : "This old city wall still carries the name of King Fernando, who had it rebuilt."
+        "de" : "Siebzehn Tore und Pforten hatte diese Mauer einst. Das Postigo do Carvão, die Kohlenpforte, ist das einzige, das bis heute steht.",
+        "en" : "Seventeen gates and posterns once pierced this wall. The Coal Postern, the Postigo do Carvão, is the only one still standing."
       },
       "name" : "Muralhas Fernandinas do Porto",
       "pos" : [
         41.142958,
         -8.613288
       ],
-      "story" : "This old city wall still carries the name of King Fernando, who had it rebuilt."
+      "story" : "Seventeen gates and posterns once pierced this wall. The Coal Postern, the Postigo do Carvão, is the only one still standing."
     },
     {
-      "extendedStory" : "Look closely and this is not the fountain those neighbours put up. The one they paid for in 1772 was swapped out before the century ended, for something in the newer neoclassical taste. Neoclassical means plain lines and calm shapes, the fashion that came after all the curves. The water kept running right through the change, in the same corner of the same street.",
+      "extendedStory" : "Nobody from the council paid for this. Neighbours from the Postigo das Virtudes did it with their own hands in 1772. Now look closely at the spout. It is older than the carved frame that holds it. It dates from the late 17th century. Calm, even, tidy lines: that was the neoclassical style everyone liked then.",
       "icon" : "everyday",
       "id" : "f-chafariz-da-rua-das-taipas",
       "kind" : "fountain",
       "localizedExtendedStory" : {
-        "de" : "Der Brunnen, den die Nachbarn 1772 bauten, ist nicht der, den man hier sieht. Ihrer wurde noch vor dem Ende des Jahrhunderts ersetzt, im klassizistischen Geschmack der Zeit. Klassizistisch heißt klare Linien und ruhige Formen, die Mode nach all den Schnörkeln. Das Wasser läuft also dort, wo jene Nachbarn es zuerst hinleiteten, nur hinter einem neueren Gesicht.",
-        "en" : "Look closely and this is not the fountain those neighbours put up. The one they paid for in 1772 was swapped out before the century ended, for something in the newer neoclassical taste. Neoclassical means plain lines and calm shapes, the fashion that came after all the curves. The water kept running right through the change, in the same corner of the same street."
+        "de" : "Die Nachbarn vom Postigo das Virtudes bauten diesen Brunnen 1772 selbst. Schau genau hin, wo das Wasser herauskommt. Der Auslauf im Stein ist älter als die Einfassung drumherum und stammt vom Ende des 17. Jahrhunderts. Die Linien folgen dem klassizistischen Geschmack jener Zeit: ruhig, gleichmäßig und ordentlich. Ein Brunnen, bezahlt von den Leuten, die dort Wasser holten.",
+        "en" : "Nobody from the council paid for this. Neighbours from the Postigo das Virtudes did it with their own hands in 1772. Now look closely at the spout. It is older than the carved frame that holds it. It dates from the late 17th century. Calm, even, tidy lines: that was the neoclassical style everyone liked then."
       },
       "localizedStory" : {
-        "de" : "Schon 1772 bauten Nachbarn vom Postigo das Virtudes diesen Brunnen mit eigenen Händen.",
-        "en" : "Back in 1772, neighbours from Postigo das Virtudes built this fountain with their own hands."
+        "de" : "Man erzählt, die Stadt habe die Gasse einst mit einer Lehmmauer, einer taipa, abgeriegelt, als eine Seuche ausbrach. Der Name Rua das Taipas blieb.",
+        "en" : "The story goes the city sealed this street with a mud wall, a taipa, to stop a sickness spreading. The name stuck."
       },
       "name" : "Chafariz da Rua das Taipas",
       "pos" : [
         41.143129,
         -8.617822
       ],
-      "story" : "Back in 1772, neighbours from Postigo das Virtudes built this fountain with their own hands."
+      "story" : "The story goes the city sealed this street with a mud wall, a taipa, to stop a sickness spreading. The name stuck."
     },
     {
-      "extendedStory" : "A bishop has lived on this spot since about the 13th century, perhaps on something older still. The palace you see today is owed to Bishop João Rafael de Mendonça, who led the diocese from 1771 to 1793. An earlier rebuild in 1737 is credited by some writers to Nicolau Nasoni. What stands there now is baroque, all curves and carved stone, filling one whole side of the cathedral square.",
+      "extendedStory" : "Bishop João Rafael de Mendonça gave the palace the shape you see today, and he governed the diocese from 1771. Some writers credit an earlier remodelling to the baroque architect Nicolau Nasoni. The site itself is much older. Some building probably stood here as far back as the 13th century, perhaps on something older still. For a while in the last century it even served as Porto's town hall. The city was run from the bishop's house.",
       "icon" : "everyday",
       "id" : "f-paco-episcopal-do-porto",
       "kind" : "fortress",
       "localizedExtendedStory" : {
-        "de" : "Seit etwa dem 13. Jahrhundert wohnt hier ein Bischof, vielleicht schon auf etwas Älterem. Den heutigen Palast verdankt die Stadt Bischof João Rafael de Mendonça, der das Bistum von 1771 bis 1793 leitete. Einen früheren Umbau von 1737 schreiben manche Autoren Nicolau Nasoni zu. Was dort steht, ist Barock, voller Schwünge und gemeißelter Steine, und füllt eine ganze Seite des Domplatzes.",
-        "en" : "A bishop has lived on this spot since about the 13th century, perhaps on something older still. The palace you see today is owed to Bishop João Rafael de Mendonça, who led the diocese from 1771 to 1793. An earlier rebuild in 1737 is credited by some writers to Nicolau Nasoni. What stands there now is baroque, all curves and carved stone, filling one whole side of the cathedral square."
+        "de" : "Seine heutige Gestalt verdankt der Palast Bischof João Rafael de Mendonça, der das Bistum ab 1771 leitete. Manche Autoren schreiben einen früheren Umbau dem Barockbaumeister Niccoló Nasoni zu. Der Ort selbst ist viel älter. Gebaut wurde hier vermutlich schon im 13. Jahrhundert, vielleicht auf noch älteren Resten. Im letzten Jahrhundert diente der Palast eine Zeit lang sogar als Rathaus von Porto. Die Stadt wurde aus dem Haus des Bischofs regiert.",
+        "en" : "Bishop João Rafael de Mendonça gave the palace the shape you see today, and he governed the diocese from 1771. Some writers credit an earlier remodelling to the baroque architect Nicolau Nasoni. The site itself is much older. Some building probably stood here as far back as the 13th century, perhaps on something older still. For a while in the last century it even served as Porto's town hall. The city was run from the bishop's house."
       },
       "localizedStory" : {
-        "de" : "Von 1916 bis 1957 war dieser Bischofspalast neben der Kathedrale das Rathaus von Porto.",
-        "en" : "From 1916 to 1957 this bishops' palace by the cathedral was Porto's town hall."
+        "de" : "Sein Spitzname ist schlicht Paço do Bispo, der Bischofspalast. Schau hoch zum Hauptgeschoss: Schlichte und verzierte Fensterrahmen wechseln sich paarweise ab.",
+        "en" : "Locals call it simply the Paço do Bispo, the Bishop's Palace. Look up: plain and fancy window frames take turns, in pairs."
       },
       "name" : "Paço Episcopal do Porto",
       "pos" : [
         41.142158,
         -8.611667
       ],
-      "story" : "From 1916 to 1957 this bishops' palace by the cathedral was Porto's town hall."
+      "story" : "Locals call it simply the Paço do Bispo, the Bishop's Palace. Look up: plain and fancy window frames take turns, in pairs."
     },
     {
-      "extendedStory" : "This walkway runs along the Guindais stretch, by Rua Arnaldo Gama. Just two pieces of Porto's old wall are still standing, and this is one of them. The other sits over by the Escadas do Caminho Novo. Everything between them has gone, swallowed by the streets. So the parapet you lean on here is half of a surviving pair.",
+      "extendedStory" : "From here the Douro opens up past the Luís I bridge and the Guindais funicular. Your eye runs on down to the Gaia quay. This stretch runs along Rua Arnaldo Gama. Two pieces of the old wall still stand, and the other one hides by the Escadas do Caminho Novo. So you are leaning on a rare survivor, even if its stones were reset fairly recently.",
       "icon" : "everyday",
       "id" : "f-miradouro-da-muralha-fernandina",
       "kind" : "viewpoint",
       "localizedExtendedStory" : {
-        "de" : "Dieser Weg führt am Abschnitt von Guindais entlang, an der Rua Arnaldo Gama. Von der alten Stadtmauer Portos stehen nur noch zwei Stücke, und dies ist eines davon. Das andere liegt drüben an den Escadas do Caminho Novo. Die Brüstung, an der man hier lehnt, ist also eines der letzten beiden Mauerstücke der Stadt.",
-        "en" : "This walkway runs along the Guindais stretch, by Rua Arnaldo Gama. Just two pieces of Porto's old wall are still standing, and this is one of them. The other sits over by the Escadas do Caminho Novo. Everything between them has gone, swallowed by the streets. So the parapet you lean on here is half of a surviving pair."
+        "de" : "Von hier aus öffnet sich der Douro, vorbei an der Brücke Luís I. und der Guindais-Standseilbahn bis hinunter zum Kai von Gaia. Dieser Abschnitt folgt der Rua Arnaldo Gama. Zwei Stücke der alten Mauer stehen noch, das andere versteckt sich bei den Escadas do Caminho Novo. Du lehnst also an einem seltenen Überbleibsel, auch wenn seine Steine erst vor gar nicht langer Zeit neu gesetzt wurden.",
+        "en" : "From here the Douro opens up past the Luís I bridge and the Guindais funicular. Your eye runs on down to the Gaia quay. This stretch runs along Rua Arnaldo Gama. Two pieces of the old wall still stand, and the other one hides by the Escadas do Caminho Novo. So you are leaning on a rare survivor, even if its stones were reset fairly recently."
       },
       "localizedStory" : {
-        "de" : "Von dieser alten Mauer öffnet sich der Douro vorbei an der Luís-I-Brücke und der Standseilbahn von Guindais bis zum Kai von Gaia.",
-        "en" : "From this old wall the Douro opens up past the Luís I bridge and the Guindais funicular down to the Gaia quay."
+        "de" : "Diese Mauer sieht mittelalterlich aus. Vieles davon wurde aber ab 1959 neu aufgebaut, bei einer Sanierung am Guindais-Steilhang.",
+        "en" : "This wall looks medieval. Much of it was rebuilt from 1959, in a campaign aimed at the steep Guindais rock face."
       },
       "name" : "Miradouro da Muralha Fernandina",
       "pos" : [
         41.140928,
         -8.609975
       ],
-      "story" : "From this old wall the Douro opens up past the Luís I bridge and the Guindais funicular down to the Gaia quay."
+      "story" : "This wall looks medieval. Much of it was rebuilt from 1959, in a campaign aimed at the steep Guindais rock face."
     },
     {
-      "extendedStory" : "The order that opened Bolhão in 1839 did more than start a market. It pulled every other market in the city into this one spot, and left just Ribeira and Anjo where they stood. At the start there was no hall here at all. The traders worked inside nothing but an iron railing around them.",
+      "extendedStory" : "Try the four main entrances, because each one sits at a different height. The south door lets you in at street floor, while the north door drops you straight onto the top floor. A city edict opened the market in 1839 and pulled almost every other market in Porto into this one spot. Ribeira and Anjo alone got to stay put. In its early days a plain iron railing was all that fenced it in.",
       "icon" : "choice",
       "id" : "f-mercado-do-bolhao",
       "kind" : "market",
       "localizedExtendedStory" : {
-        "de" : "Der Erlass, der den Bolhão 1839 eröffnete, gründete mehr als nur einen Markt. Er zog alle anderen Märkte der Stadt an diesen einen Ort, nur Ribeira und Anjo blieben, wo sie waren. Und am Anfang gab es hier gar keine Halle. Die Händler standen hinter nichts als einem eisernen Gitter.",
-        "en" : "The order that opened Bolhão in 1839 did more than start a market. It pulled every other market in the city into this one spot, and left just Ribeira and Anjo where they stood. At the start there was no hall here at all. The traders worked inside nothing but an iron railing around them."
+        "de" : "Probier die vier Haupteingänge aus, denn jeder liegt auf einer anderen Höhe. Durch die Südtür kommst du ins Erdgeschoss, die Nordtür führt dich geradewegs ins Obergeschoss. Ein Erlass der Stadt eröffnete den Markt 1839 und holte fast alle anderen Märkte Portos an diesen Fleck. Bloß Ribeira und Anjo durften bleiben, wo sie waren. Anfangs umgab ihn nicht mehr als ein eisernes Geländer.",
+        "en" : "Try the four main entrances, because each one sits at a different height. The south door lets you in at street floor, while the north door drops you straight onto the top floor. A city edict opened the market in 1839 and pulled almost every other market in Porto into this one spot. Ribeira and Anjo alone got to stay put. In its early days a plain iron railing was all that fenced it in."
       },
       "localizedStory" : {
-        "de" : "Ein Stadterlass öffnete diesen Markt im Jahr 1839.",
-        "en" : "A city order opened this market back in 1839."
+        "de" : "Man erzählt, das Grundstück sei reiner Schlamm gewesen, mit einem Bach, der eine Wasserblase warf. Daher der Spitzname bolhão, die große Blase.",
+        "en" : "The story goes this plot was all mud, and a little stream made a bubble of water. So locals nicknamed it bolhão, the big bubble."
       },
       "name" : "Mercado do Bolhão",
       "pos" : [
         41.14934,
         -8.607123
       ],
-      "story" : "A city order opened this market back in 1839."
+      "story" : "The story goes this plot was all mud, and a little stream made a bubble of water. So locals nicknamed it bolhão, the big bubble."
     },
     {
-      "extendedStory" : "The Torre dos Clérigos began to rise in 1763. The architect Nicolau Nasoni shaped it in the baroque style, full of curves and carved detail. At about 75 metres, it lifts high above the rooftops of Porto. The tower has marked the city skyline ever since. Climb toward it through the old streets and it seems to grow with every step.",
+      "extendedStory" : "Climbing to the top means 225 steps, so count them on the way up. The baroque tower stands 75 metres tall, drawn by that same Nicolau Nasoni. He gave so much of himself to the Clérigos church that he ended up resting inside it. So as you climb his tower, you are walking through the work of a man who never left it. Take it slowly and make every step a breath.",
       "icon" : "hero",
       "id" : "f-torre-dos-clerigos",
       "kind" : "gate_tower",
       "localizedExtendedStory" : {
-        "de" : "Der Torre dos Clérigos begann 1763 emporzuwachsen. Der Architekt Niccoló Nasoni gestaltete ihn im Stil des Barock, voller Schwünge und feiner Steinarbeit. Mit etwa 75 Metern ragt er hoch über die Dächer von Porto. Seither prägt der Turm die Silhouette der Stadt. Steigt man durch die alten Gassen auf ihn zu, scheint er mit jedem Schritt zu wachsen.",
-        "en" : "The Torre dos Clérigos began to rise in 1763. The architect Nicolau Nasoni shaped it in the baroque style, full of curves and carved detail. At about 75 metres, it lifts high above the rooftops of Porto. The tower has marked the city skyline ever since. Climb toward it through the old streets and it seems to grow with every step."
+        "de" : "Bis zur Spitze sind es 225 Stufen, also zähl mit. Der Barockturm misst 75 Meter und stammt vom selben Niccoló Nasoni. Seiner Kirche hat er so viel von sich gegeben, dass er am Ende in ihr seine Ruhe fand. Wer den Turm besteigt, geht also mitten durch das Werk eines Mannes, der es nie verlassen hat. Nimm dir Zeit und gönn dir einen Atemzug pro Stufe.",
+        "en" : "Climbing to the top means 225 steps, so count them on the way up. The baroque tower stands 75 metres tall, drawn by that same Nicolau Nasoni. He gave so much of himself to the Clérigos church that he ended up resting inside it. So as you climb his tower, you are walking through the work of a man who never left it. Take it slowly and make every step a breath."
       },
       "localizedStory" : {
-        "de" : "Dieser barocke Turm ragt 75 Meter über die Stadt, ein Werk von Niccoló Nasoni.",
-        "en" : "This baroque tower rises 75 metres over the city, the work of Nicolau Nasoni."
+        "de" : "Niccoló Nasoni hat den Turm entworfen und liegt in der Clérigos-Kirche begraben. Niemand weiß, ob die Gruft, die Restauratoren fanden, wirklich sein Grab ist.",
+        "en" : "Its architect, Nicolau Nasoni, lies somewhere inside the Clérigos church. Restorers found a crypt, and nobody knows if it is really his grave."
       },
       "name" : "Torre dos Clérigos",
       "pos" : [
         41.145645,
         -8.61467
       ],
-      "story" : "This baroque tower rises 75 metres over the city, the work of Nicolau Nasoni."
+      "story" : "Its architect, Nicolau Nasoni, lies somewhere inside the Clérigos church. Restorers found a crypt, and nobody knows if it is really his grave."
     },
     {
-      "extendedStory" : "Battle Square has been Porto's theatre corner for over two centuries. An opera house went up along its south side between 1796 and 1798, drawn by the Italian stage designer Vicente Mazzoneschi. The theatre standing on that same spot today opened in 1920, to a design by José Marques da Silva. And since 1866 a monument to King Pedro V has watched over the whole square.",
+      "extendedStory" : "Look for the Royal Theatre of São João, Porto's opera house, on the south side. Its original building was drawn by Vicente Mazzoneschi, an Italian architect who also designed stage sets. After a fire, José Marques da Silva designed the theatre you see today, and it opened in 1920. So the stage survived its fire and still stands on its old spot. Since 1866 a monument to King Pedro V has watched over the square.",
       "icon" : "everyday",
       "id" : "f-praca-da-batalha",
       "kind" : "square",
       "localizedExtendedStory" : {
-        "de" : "Der Platz der Schlacht ist seit über zwei Jahrhunderten die Theaterecke von Porto. An seiner Südseite entstand zwischen 1796 und 1798 ein Opernhaus, entworfen vom italienischen Bühnenbildner Vicente Mazzoneschi. Das Theater, das heute an derselben Stelle steht, wurde von José Marques da Silva entworfen und 1920 eröffnet. Und seit 1866 wacht ein Denkmal für König Pedro V. über den ganzen Platz.",
-        "en" : "Battle Square has been Porto's theatre corner for over two centuries. An opera house went up along its south side between 1796 and 1798, drawn by the Italian stage designer Vicente Mazzoneschi. The theatre standing on that same spot today opened in 1920, to a design by José Marques da Silva. And since 1866 a monument to King Pedro V has watched over the whole square."
+        "de" : "Such an der Südseite das Königliche Theater São João, Portos Opernhaus. Den ursprünglichen Bau entwarf Vicente Mazzoneschi, ein italienischer Architekt, der auch Bühnenbilder schuf. Nach einem Brand plante José Marques da Silva den heutigen Bau, eröffnet 1920. Das Theater hat sein Feuer also überstanden und steht bis heute an seinem Platz. Seit 1866 wacht ein Denkmal für König Pedro V. über den Platz.",
+        "en" : "Look for the Royal Theatre of São João, Porto's opera house, on the south side. Its original building was drawn by Vicente Mazzoneschi, an Italian architect who also designed stage sets. After a fire, José Marques da Silva designed the theatre you see today, and it opened in 1920. So the stage survived its fire and still stands on its old spot. Since 1866 a monument to King Pedro V has watched over the square."
       },
       "localizedStory" : {
-        "de" : "Der Name des Platzes erinnert an eine alte Schlacht, die hier einst ausgetragen wurde.",
-        "en" : "The square's name recalls an old battle once fought right here."
+        "de" : "Batalha heißt Schlacht. Der Name erinnert angeblich an einen Kampf zwischen den Leuten von Porto und dem maurischen Heer Almanzors.",
+        "en" : "Batalha means battle. The name is said to recall a clash between the people of Porto and the Moorish army of Almanzor."
       },
       "name" : "Praça da Batalha",
       "pos" : [
         41.145496,
         -8.607066
       ],
-      "story" : "The square's name recalls an old battle once fought right here."
+      "story" : "Batalha means battle. The name is said to recall a clash between the people of Porto and the Moorish army of Almanzor."
     },
     {
-      "extendedStory" : "The Câmara Municipal is Porto's city hall. The architect António Correia da Silva drew up its design, and the building took shape by 1957. A tower of about 30 metres rises from its front, a clear landmark above the square. Its clean lines mark the newer face of the old city. Stand before it and the wide open space stretches out around you.",
+      "extendedStory" : "Stand back and size it up by eye: the tower rises 70 metres over the square. António Correia da Silva designed the building, and it opened in 1957. It took over from the Bishop's Palace up the hill, which had served as the town hall until then. So the city finally moved out of a bishop's house and into a home of its own, with a tower to match.",
       "icon" : "choice",
       "id" : "f-camara-municipal-do-porto",
       "kind" : "civic",
       "localizedExtendedStory" : {
-        "de" : "Die Câmara Municipal ist das Rathaus von Porto. Der Architekt António Correia da Silva entwarf den Bau, der bis 1957 Gestalt annahm. Ein Turm von rund 30 Metern erhebt sich an seiner Vorderseite, ein deutliches Wahrzeichen über dem Platz. Seine klaren Linien zeigen das jüngere Gesicht der alten Stadt. Wer davorsteht, vor dem breitet sich der weite Platz aus.",
-        "en" : "The Câmara Municipal is Porto's city hall. The architect António Correia da Silva drew up its design, and the building took shape by 1957. A tower of about 30 metres rises from its front, a clear landmark above the square. Its clean lines mark the newer face of the old city. Stand before it and the wide open space stretches out around you."
+        "de" : "Tritt ein paar Schritte zurück und schätz ab: Der Turm ragt 70 Meter über den Platz. Entworfen hat das Gebäude António Correia da Silva, eröffnet wurde es 1957. Es löste den Bischofspalast oben am Hügel ab, der bis dahin als Rathaus gedient hatte. So zog die Stadt endlich aus dem Haus eines Bischofs aus, in ein eigenes Heim mit passendem Turm.",
+        "en" : "Stand back and size it up by eye: the tower rises 70 metres over the square. António Correia da Silva designed the building, and it opened in 1957. It took over from the Bishop's Palace up the hill, which had served as the town hall until then. So the city finally moved out of a bishop's house and into a home of its own, with a tower to match."
       },
       "localizedStory" : {
-        "de" : "Portos Rathaus entstand hier 1957, sein Turm ragt rund 30 Meter empor.",
-        "en" : "Porto's city hall rose here in 1957, its tower climbing about 30 metres."
+        "de" : "Im Turm des Rathauses versteckt sich eine Treppe mit 180 Stufen, die bis ganz nach oben führt.",
+        "en" : "Hidden inside the city hall's tower is a staircase of 180 steps, climbing all the way up to the top."
       },
       "name" : "Câmara Municipal do Porto",
       "pos" : [
         41.150063,
         -8.610705
       ],
-      "story" : "Porto's city hall rose here in 1957, its tower climbing about 30 metres."
+      "story" : "Hidden inside the city hall's tower is a staircase of 180 steps, climbing all the way up to the top."
     }
   ],
-  "generatedAt" : "2026-09-21T07:15:24Z",
+  "generatedAt" : "2026-09-21T10:15:16Z",
   "icon" : {
     "paths" : [
       "M 12.00 52.00 L 21.00 52.00 L 21.00 90.00 L 12.00 90.00 Z M 79.00 52.00 L 88.00 52.00 L 88.00 90.00 L 79.00 90.00 Z M 9.00 84.00 L 23.00 84.00 L 23.00 90.00 L 9.00 90.00 Z M 77.00 84.00 L 91.00 84.00 L 91.00 90.00 L 77.00 90.00 Z M 15.00 62.00 C 15.00 37.35 30.75 33.00 50.00 33.00 C 69.25 33.00 85.00 37.35 85.00 62.00 L 85.00 70.00 C 85.00 48.75 67.50 45.00 50.00 45.00 C 32.50 45.00 15.00 48.75 15.00 70.00 Z M 9.00 15.00 L 91.00 15.00 L 91.00 23.00 L 9.00 23.00 Z M 21.90 42.00 L 26.10 42.00 L 26.10 62.00 L 21.90 62.00 Z M 33.90 34.00 L 38.10 34.00 L 38.10 62.00 L 33.90 62.00 Z M 47.90 33.00 L 52.10 33.00 L 52.10 62.00 L 47.90 62.00 Z M 61.90 34.00 L 66.10 34.00 L 66.10 62.00 L 61.90 62.00 Z M 73.90 42.00 L 78.10 42.00 L 78.10 62.00 L 73.90 62.00 Z"
@@ -34538,7 +34513,7 @@
     "en" : "Porto"
   },
   "name" : "Porto",
-  "packVersion" : 19,
+  "packVersion" : 20,
   "schemaVersion" : 1,
   "source" : "OpenStreetMap via Overpass API",
   "stats" : {

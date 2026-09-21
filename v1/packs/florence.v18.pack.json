@@ -231,10 +231,9 @@
 
     ],
     "adjustedStreets" : [
-      "Piazza di San Benedetto",
-      "Piazza di Santa Maria Novella"
+
     ],
-    "fromVersion" : 16,
+    "fromVersion" : 17,
     "removedStreets" : [
 
     ]
@@ -19018,167 +19017,167 @@
   ],
   "fruits" : [
     {
-      "extendedStory" : "Building began in 1458, to a design attributed to Filippo Brunelleschi. The style is Renaissance, which prized balance and clear straight proportion over decoration. For centuries this was a private house, shut to everyone outside it. The doors opened to the public in 1919, and the rooms behind them have stayed open ever since.",
+      "extendedStory" : "Look up for the spot where Vasari's Corridor ends. His raised passage passes over city streets and a river on its way here. Vasari got just five months to build all of it, in 1565. It was a wedding job, for Cosimo's son Francesco and his bride, Joanna of Austria. Plans for this huge palace are credited to Filippo Brunelleschi himself.",
       "icon" : "choice",
       "id" : "f-palazzo-pitti",
       "kind" : "palace",
       "localizedExtendedStory" : {
-        "de" : "Der Bau begann 1458, nach einem Entwurf, der Filippo Brunelleschi zugeschrieben wird. Der Stil ist Renaissance, der Gleichmaß und klare gerade Verhältnisse über allen Schmuck stellte. Jahrhundertelang war dies ein privates Haus, verschlossen für alle von draußen. 1919 öffneten sich die Türen für alle, und seither stehen die Räume dahinter offen.",
-        "en" : "Building began in 1458, to a design attributed to Filippo Brunelleschi. The style is Renaissance, which prized balance and clear straight proportion over decoration. For centuries this was a private house, shut to everyone outside it. The doors opened to the public in 1919, and the rooms behind them have stayed open ever since."
+        "de" : "Such dir die Stelle, an der der Vasarikorridor endet. Dieser Gang läuft hoch über den Straßen und quer über den Fluss bis hinein in den Palast. Vasari bekam 1565 gerade einmal fünf Monate, um das alles zu bauen. Anlass war eine Hochzeit: Cosimos Sohn Francesco heiratete Johanna von Österreich. Die Pläne für den Palast selbst schreibt man Filippo Brunelleschi zu.",
+        "en" : "Look up for the spot where Vasari's Corridor ends. His raised passage passes over city streets and a river on its way here. Vasari got just five months to build all of it, in 1565. It was a wedding job, for Cosimo's son Francesco and his bride, Joanna of Austria. Plans for this huge palace are credited to Filippo Brunelleschi himself."
       },
       "localizedStory" : {
-        "de" : "Filippo Brunelleschi gestaltete diesen Renaissance-Palast, begonnen 1458.",
-        "en" : "Filippo Brunelleschi shaped this Renaissance palace, begun in 1458."
+        "de" : "Der Sage nach wollte Luca Pitti Fenster, größer als die Tür der Medici. Sein Hof sollte so weit sein, dass Strozzis Palast hineinpasst.",
+        "en" : "Legend says Luca Pitti wanted windows bigger than the Medici palace door, and a courtyard that could swallow Palazzo Strozzi."
       },
       "name" : "Palazzo Pitti",
       "pos" : [
         43.765293,
         11.249866
       ],
-      "story" : "Filippo Brunelleschi shaped this Renaissance palace, begun in 1458."
+      "story" : "Legend says Luca Pitti wanted windows bigger than the Medici palace door, and a courtyard that could swallow Palazzo Strozzi."
     },
     {
-      "extendedStory" : "Two dates cling to this crossing, 1335 and 1345, and the records do not agree which is right. What is certain is that Neri di Fioravante is the man credited with the work. The bridge has stood on its stone arches through every flood and every century since. Cross it slowly and you are walking a road Florence has used for close to seven hundred years.",
+      "extendedStory" : "Its builder is remembered as Neri di Fioravante, and his arches went up between 1335 and 1345. That August night got a name of its own: Night of Bridges. A retreating army wanted to slow Allied soldiers coming up behind it. By dawn, every crossing in Florence but this one lay broken. So you are walking across a piece of old Florence that came through.",
       "icon" : "hero",
       "id" : "f-ponte-vecchio",
       "kind" : "bridge",
       "localizedExtendedStory" : {
-        "de" : "An diesem Übergang haften zwei Jahreszahlen, 1335 und 1345, und die Quellen sind sich nicht einig. Sicher ist, dass Neri di Fioravante als sein Baumeister gilt. Auf seinen steinernen Bögen steht er seither durch jedes Hochwasser und jedes Jahrhundert. Wer langsam hinübergeht, benutzt eine Straße, die Florenz seit fast siebenhundert Jahren dient.",
-        "en" : "Two dates cling to this crossing, 1335 and 1345, and the records do not agree which is right. What is certain is that Neri di Fioravante is the man credited with the work. The bridge has stood on its stone arches through every flood and every century since. Cross it slowly and you are walking a road Florence has used for close to seven hundred years."
+        "de" : "Als Baumeister gilt Neri di Fioravante, seine Bögen entstanden zwischen 1335 und 1345. Jene Augustnacht trägt in Florenz einen eigenen Namen: Nacht der Brücken. Ein abziehendes Heer wollte so alliierte Soldaten auf ihrem Vormarsch bremsen. Am Morgen lag jeder Übergang der Stadt in Trümmern, bis auf diesen. Wer heute hinübergeht, läuft über ein Stück Florenz, das durchgekommen ist. Bleib kurz stehen und denk an diese Nacht.",
+        "en" : "Its builder is remembered as Neri di Fioravante, and his arches went up between 1335 and 1345. That August night got a name of its own: Night of Bridges. A retreating army wanted to slow Allied soldiers coming up behind it. By dawn, every crossing in Florence but this one lay broken. So you are walking across a piece of old Florence that came through."
       },
       "localizedStory" : {
-        "de" : "Neri di Fioravante spannte diesen Übergang 1345 über den Arno, und er trägt Florenz seither.",
-        "en" : "Neri di Fioravante threw this crossing over the Arno in 1345, and it has carried Florence ever since."
+        "de" : "In einer Sommernacht 1944 sprengten abziehende deutsche Truppen alle anderen Brücken von Florenz. Diese hier ließen sie stehen, du stehst auf ihr.",
+        "en" : "On one summer night in 1944, retreating German troops blew up every other bridge in Florence. They spared this one, the bridge under your feet."
       },
       "name" : "Ponte Vecchio",
       "pos" : [
         43.768023,
         11.253148
       ],
-      "story" : "Neri di Fioravante threw this crossing over the Arno in 1345, and it has carried Florence ever since."
+      "story" : "On one summer night in 1944, retreating German troops blew up every other bridge in Florence. They spared this one, the bridge under your feet."
     },
     {
-      "extendedStory" : "Look downstream and the view runs over the Uffizi, the Vasari Corridor and the Ponte Vecchio. Then look at the ground under your feet. Medieval and Renaissance Florence had no riverside walk here at all. This embankment belongs to the 1865 plan of Giuseppe Poggi, drawn up when the city was the capital of Italy.",
+      "extendedStory" : "Medieval and Renaissance Florence had no riverside walk here at all. This one dates from the years when the city was Italy's capital, drawn up in Giuseppe Poggi's plan of 1865. The stretch that fell that spring morning ran about 200 metres. Now turn and look along the river: your view runs over the Uffizi, the Vasari Corridor and the Ponte Vecchio.",
       "icon" : "everyday",
       "id" : "f-belvedere-sull-arno",
       "kind" : "viewpoint",
       "localizedExtendedStory" : {
-        "de" : "Blick flussabwärts, und der Blick läuft über die Uffizien, den Vasarikorridor und den Ponte Vecchio. Dann schau auf den Boden unter deinen Füßen. Das mittelalterliche und das Renaissance-Florenz hatten hier gar keinen Uferweg. Diese Promenade gehört zum Plan von Giuseppe Poggi aus dem Jahr 1865, entworfen, als die Stadt Hauptstadt Italiens war.",
-        "en" : "Look downstream and the view runs over the Uffizi, the Vasari Corridor and the Ponte Vecchio. Then look at the ground under your feet. Medieval and Renaissance Florence had no riverside walk here at all. This embankment belongs to the 1865 plan of Giuseppe Poggi, drawn up when the city was the capital of Italy."
+        "de" : "Mittelalter und Renaissance kannten hier gar keinen Weg am Fluss. Er stammt aus den Jahren, als Florenz Hauptstadt Italiens war, angelegt nach dem Plan von Giuseppe Poggi aus dem Jahr 1865. Das Stück, das an jenem Frühlingsmorgen abrutschte, war rund 200 Meter lang. Dreh dich jetzt um und schau den Fluss entlang: Der Blick geht über die Uffizien, den Vasarikorridor und den Ponte Vecchio.",
+        "en" : "Medieval and Renaissance Florence had no riverside walk here at all. This one dates from the years when the city was Italy's capital, drawn up in Giuseppe Poggi's plan of 1865. The stretch that fell that spring morning ran about 200 metres. Now turn and look along the river: your view runs over the Uffizi, the Vasari Corridor and the Ponte Vecchio."
       },
       "localizedStory" : {
-        "de" : "Dieser Blick über den Arno zeigt die moderne Stadt, die nach Giuseppe Poggis Plan von 1865 angelegt wurde.",
-        "en" : "This Arno viewpoint looks out on the modern city laid out under Giuseppe Poggi's 1865 plan."
+        "de" : "Im Morgengrauen 2016 sackte ein Stück dieser Uferstraße ein und verschluckte geparkte Autos. Schuld war ein geplatztes Rohr. Verletzt wurde niemand.",
+        "en" : "At dawn in 2016 a stretch of this embankment caved in and swallowed parked cars. A burst pipe got the blame. No one was hurt."
       },
       "name" : "Belvedere sull'Arno",
       "pos" : [
         43.767051,
         11.254441
       ],
-      "story" : "This Arno viewpoint looks out on the modern city laid out under Giuseppe Poggi's 1865 plan."
+      "story" : "At dawn in 2016 a stretch of this embankment caved in and swallowed parked cars. A burst pipe got the blame. No one was hurt."
     },
     {
-      "extendedStory" : "Work started in 1298, and the tower is credited to Arnolfo di Cambio. It is Gothic, which means tall pointed shapes and windows that reach upward rather than sitting square. At 84.7 metres it climbs well clear of the roofs around it. From the foot you cannot take it all in at once, so step back into Piazza del Duomo.",
+      "extendedStory" : "Giotto's own drawing ended in a spire that would have reached 122 metres. Francesco Talenti, the man who finished the tower, never built it. So the top you see ends without its point, at about 85 metres. Look up at the corners and picture a needle rising out of them. The story goes that the painter Cimabue discovered Giotto as a shepherd boy.",
       "icon" : "everyday",
       "id" : "f-campanile-di-giotto",
       "kind" : "gate_tower",
       "localizedExtendedStory" : {
-        "de" : "Die Arbeiten begannen 1298, und der Turm wird Arnolfo di Cambio zugeschrieben. Er ist gotisch, also voller hoher spitzer Formen und Fenster, die nach oben streben statt eckig dazusitzen. Mit 84,7 Metern ragt er weit über die Dächer ringsum. Vom Fuß aus bekommt man ihn nicht ganz ins Auge, also tritt zurück auf die Piazza del Duomo.",
-        "en" : "Work started in 1298, and the tower is credited to Arnolfo di Cambio. It is Gothic, which means tall pointed shapes and windows that reach upward rather than sitting square. At 84.7 metres it climbs well clear of the roofs around it. From the foot you cannot take it all in at once, so step back into Piazza del Duomo."
+        "de" : "Giottos eigener Entwurf endete in einer Spitze, die 122 Meter erreicht hätte. Francesco Talenti, der den Turm vollendete, hat sie nie gebaut. Deshalb hört der Turm heute ohne Spitze auf, bei rund 85 Metern. Schau hoch zu den Ecken und stell dir eine schlanke Nadel vor, die daraus in den Himmel wächst. Man erzählt, der Maler Cimabue habe Giotto als Hirtenjungen entdeckt.",
+        "en" : "Giotto's own drawing ended in a spire that would have reached 122 metres. Francesco Talenti, the man who finished the tower, never built it. So the top you see ends without its point, at about 85 metres. Look up at the corners and picture a needle rising out of them. The story goes that the painter Cimabue discovered Giotto as a shepherd boy."
       },
       "localizedStory" : {
-        "de" : "Dieser gotische Glockenturm steigt 84,7 Meter neben dem Dom auf, begonnen 1298.",
-        "en" : "This Gothic bell tower climbs 84.7 metres beside the cathedral, begun in 1298."
+        "de" : "Der Sage nach meißelte Giotto, einst Hirtenjunge, seinen kleinen Hund in ein Relief: ein Hirte bei der Herde, den Hund neben sich.",
+        "en" : "Legend says Giotto, once a shepherd boy, carved his little dog into a relief here. A shepherd watches his flock, dog at his side."
       },
       "name" : "Campanile di Giotto",
       "pos" : [
         43.772866,
         11.255778
       ],
-      "story" : "This Gothic bell tower climbs 84.7 metres beside the cathedral, begun in 1298."
+      "story" : "Legend says Giotto, once a shepherd boy, carved his little dog into a relief here. A shepherd watches his flock, dog at his side."
     },
     {
-      "extendedStory" : "From 1563 this square hosted the Palio dei Cocchi, a Roman-style chariot race set up by Cosimo I de' Medici. Two marble obelisks marked the turning-posts where the carts swung round. Each rests on four bronze tortoises made by Giambologna. Both obelisks still stand on the square today.",
+      "extendedStory" : "Out on the square, stone obelisks sit on the backs of bronze tortoises by Giambologna. They marked the turns of a chariot race that Cosimo I de' Medici set up here in 1563. Inside the cloister, a painting of Saint Dominic's death hides an intruder. The face at the door is Girolamo Savonarola, a friar who lived almost two centuries later. The painter may have added him because the friars asked.",
       "icon" : "everyday",
       "id" : "f-piazza-santa-maria-novella",
       "kind" : "square",
       "localizedExtendedStory" : {
-        "de" : "Ab 1563 fand auf diesem Platz das Palio dei Cocchi statt, ein Wagenrennen im römischen Stil, das Cosimo I. de' Medici einführte. Zwei Marmor-Obelisken markierten die Wendepunkte, um die die Wagen herumfuhren. Jeder ruht auf vier Bronze-Schildkröten, die Giambologna schuf. Beide Obelisken stehen bis heute auf dem Platz.",
-        "en" : "From 1563 this square hosted the Palio dei Cocchi, a Roman-style chariot race set up by Cosimo I de' Medici. Two marble obelisks marked the turning-posts where the carts swung round. Each rests on four bronze tortoises made by Giambologna. Both obelisks still stand on the square today."
+        "de" : "Draußen auf dem Platz ruhen Obelisken aus Stein auf Schildkröten aus Bronze von Giambologna. Sie markierten die Wendemarken eines Wagenrennens, das Cosimo I. de' Medici hier ab 1563 veranstalten ließ. Im Kreuzgang zeigt ein Fresko den Tod des heiligen Dominikus, und es hat einen ungebetenen Gast. Das Gesicht an der Tür gehört Girolamo Savonarola, einem Mönch, der fast zwei Jahrhunderte später lebte. Vielleicht malte der Künstler ihn hinein, weil die Brüder es sich wünschten.",
+        "en" : "Out on the square, stone obelisks sit on the backs of bronze tortoises by Giambologna. They marked the turns of a chariot race that Cosimo I de' Medici set up here in 1563. Inside the cloister, a painting of Saint Dominic's death hides an intruder. The face at the door is Girolamo Savonarola, a friar who lived almost two centuries later. The painter may have added him because the friars asked."
       },
       "localizedStory" : {
-        "de" : "Such nach vier bronzenen Schildkröten von Giambologna, die zwei Marmor-Obelisken tragen, einst die Wendepunkte eines Wagenrennens.",
-        "en" : "Look for four bronze tortoises by Giambologna carrying two marble obelisks that once marked a chariot race."
+        "de" : "Man erzählt, nachts ziehe Flüstern durch die Kirche. Beten dort Mönche, oder sind es Maler, die ihre Seele an den Wänden ließen?",
+        "en" : "People say whispers drift through the church on certain nights: friars at prayer, or painters who left their souls on its walls."
       },
       "name" : "Piazza Santa Maria Novella",
       "pos" : [
         43.773489,
         11.249501
       ],
-      "story" : "Look for four bronze tortoises by Giambologna carrying two marble obelisks that once marked a chariot race."
+      "story" : "People say whispers drift through the church on certain nights: friars at prayer, or painters who left their souls on its walls."
     },
     {
-      "extendedStory" : "The church took a very long time to finish. Arnolfo di Cambio laid it out in 1294, but it was not opened until 1442, nearly a hundred and fifty years later. Generations of masons worked on a building none of them would ever see completed. Its name, Santa Croce, means the True Cross.",
+      "extendedStory" : "Cimabue's great crucifix went under in the flood of 1966 and lost some 60 percent of its paint. It now hangs in the sacristy, the room where priests get ready, safe from another flood. Arnolfo di Cambio is named as the architect of the Gothic church. Its face stayed unfinished for centuries, and the city completed it to mark a Dante anniversary.",
       "icon" : "choice",
       "id" : "f-basilica-di-santa-croce",
       "kind" : "church",
       "localizedExtendedStory" : {
-        "de" : "Die Kirche brauchte sehr lange bis zur Vollendung. Arnolfo di Cambio legte sie 1294 an, eröffnet wurde sie aber erst 1442, fast hundertfünfzig Jahre später. Ganze Generationen von Steinmetzen arbeiteten an einem Bau, den keiner von ihnen fertig sah. Ihr Name, Santa Croce, bedeutet Wahres Kreuz.",
-        "en" : "The church took a very long time to finish. Arnolfo di Cambio laid it out in 1294, but it was not opened until 1442, nearly a hundred and fifty years later. Generations of masons worked on a building none of them would ever see completed. Its name, Santa Croce, means the True Cross."
+        "de" : "Cimabues großes Kruzifix versank 1966 in der Flut und verlor rund 60 Prozent seiner Farbe. Heute hängt es in der Sakristei, dem Raum, in dem sich die Priester umziehen, sicher vor der nächsten Flut. Als Baumeister gilt Arnolfo di Cambio, der die gotische Kirche entwarf. Ihre Fassade blieb lange unvollendet und wurde erst zu einem großen Jubiläum Dantes endlich fertig.",
+        "en" : "Cimabue's great crucifix went under in the flood of 1966 and lost some 60 percent of its paint. It now hangs in the sacristy, the room where priests get ready, safe from another flood. Arnolfo di Cambio is named as the architect of the Gothic church. Its face stayed unfinished for centuries, and the city completed it to mark a Dante anniversary."
       },
       "localizedStory" : {
-        "de" : "Arnolfo di Cambio begann diese gotische Kirche 1294; ihr Name bedeutet Wahres Kreuz.",
-        "en" : "Arnolfo di Cambio began this Gothic church in 1294; its name means the True Cross."
+        "de" : "Der Sage nach bekam der heilige Franziskus eine kleine Kapelle zum Heiligen Kreuz auf einer Insel im Arno. Santa Croce trägt ihren Namen.",
+        "en" : "The story goes that Saint Francis got a chapel of the Holy Cross on an island in the Arno. Santa Croce carries its name."
       },
       "name" : "Basilica di Santa Croce",
       "pos" : [
         43.768613,
         11.263053
       ],
-      "story" : "Arnolfo di Cambio began this Gothic church in 1294; its name means the True Cross."
+      "story" : "The story goes that Saint Francis got a chapel of the Holy Cross on an island in the Arno. Santa Croce carries its name."
     },
     {
-      "extendedStory" : "This gallery opened in 1784 as a place to study art. Since 1873 it has sheltered Michelangelo's original marble David, moved here from Piazza della Signoria for safekeeping. The carved statue rises 5.17 metres tall from the floor. Visitors gather beneath it to look up at the great marble giant.",
+      "extendedStory" : "Look at the head and the right hand. Both are oddly large, perhaps since the statue was originally meant for the cathedral roofline, to be seen from far below. Up close, the Giant rises 5.17 metres. Since 1873 he has stood here, moved in from Piazza della Signoria for shelter. Walk all the way round him before you leave.",
       "icon" : "choice",
       "id" : "f-galleria-dell-accademia",
       "kind" : "museum",
       "localizedExtendedStory" : {
-        "de" : "Diese Galerie wurde 1784 eröffnet, als Ort zum Studium der Kunst. Seit 1873 bewahrt sie Michelangelos originalen David aus Marmor, zur sicheren Aufbewahrung hergebracht von der Piazza della Signoria. Die gemeißelte Figur ragt 5,17 Meter vom Boden auf. Besucher versammeln sich darunter und blicken zu dem steinernen Riesen hinauf.",
-        "en" : "This gallery opened in 1784 as a place to study art. Since 1873 it has sheltered Michelangelo's original marble David, moved here from Piazza della Signoria for safekeeping. The carved statue rises 5.17 metres tall from the floor. Visitors gather beneath it to look up at the great marble giant."
+        "de" : "Schau auf den Kopf und die rechte Hand. Beide sind auffällig groß, vielleicht weil die Figur zuerst hoch oben am Dach des Doms stehen sollte, von unten lesbar. Aus der Nähe ragt der Riese mehr als fünf Meter auf. Seit 1873 steht er hier, zum Schutz von der Piazza della Signoria hierher geholt. Geh ruhig einmal ganz um ihn herum, bevor du wieder gehst.",
+        "en" : "Look at the head and the right hand. Both are oddly large, perhaps since the statue was originally meant for the cathedral roofline, to be seen from far below. Up close, the Giant rises 5.17 metres. Since 1873 he has stood here, moved in from Piazza della Signoria for shelter. Walk all the way round him before you leave."
       },
       "localizedStory" : {
-        "de" : "Drinnen steht Michelangelos echter David aus Marmor, 5,17 Meter hoch.",
-        "en" : "Inside stands Michelangelo's real marble David, 5.17 metres of carved marble."
+        "de" : "Michelangelos Spitzname für seinen David: der Riese. Er schlug ihn heimlich aus einem fehlerhaften Block, den zwei Bildhauer vor ihm abgelehnt hatten.",
+        "en" : "Inside stands David, known as the Giant to Michelangelo himself. He carved it in secret from a flawed block two sculptors had turned down."
       },
       "name" : "Galleria dell'Accademia",
       "pos" : [
         43.776917,
         11.258758
       ],
-      "story" : "Inside stands Michelangelo's real marble David, 5.17 metres of carved marble."
+      "story" : "Inside stands David, known as the Giant to Michelangelo himself. He carved it in secret from a flawed block two sculptors had turned down."
     },
     {
-      "extendedStory" : "The square takes its name from the Signoria of Florence, the city's old government. Set into the stone is a round plaque that marks one exact spot. It remembers the friar Girolamo Savonarola and the year 1498. Every year the city gathers there and covers the plaque with flowers, in a ceremony called the Fiorita.",
+      "extendedStory" : "Check the shape under your feet. The square bends like an L, and its buildings refuse to line up. From 1268 the Guelphs tore down the houses of their rivals, starting with the Uberti. No building was ever to stand on that ground again. Michelangelo's David stood before the palace here until 1873. Then it moved inside, and the David you see is a copy.",
       "icon" : "everyday",
       "id" : "f-piazza-della-signoria",
       "kind" : "square",
       "localizedExtendedStory" : {
-        "de" : "Der Platz trägt seinen Namen nach der Signoria von Florenz, der alten Stadtregierung. In den Steinboden ist eine runde Platte eingelassen, die genau eine Stelle markiert. Sie erinnert an den Mönch Girolamo Savonarola und an das Jahr 1498. Jedes Jahr versammelt sich die Stadt dort und bedeckt die Platte mit Blumen, bei einer Zeremonie namens Fiorita.",
-        "en" : "The square takes its name from the Signoria of Florence, the city's old government. Set into the stone is a round plaque that marks one exact spot. It remembers the friar Girolamo Savonarola and the year 1498. Every year the city gathers there and covers the plaque with flowers, in a ceremony called the Fiorita."
+        "de" : "Schau dir den Grundriss unter deinen Füßen an. Der Platz knickt ab wie ein L, und die Fassaden stehen nicht in einer Flucht. Ab 1268 rissen die Guelfen die Häuser ihrer Rivalen nieder, zuerst die der Uberti. Auf diesem Boden durfte danach nie wieder gebaut werden. Bis 1873 stand hier Michelangelos David vor dem Palast. Dann kam er nach drinnen, und der David, den du siehst, ist eine Kopie.",
+        "en" : "Check the shape under your feet. The square bends like an L, and its buildings refuse to line up. From 1268 the Guelphs tore down the houses of their rivals, starting with the Uberti. No building was ever to stand on that ground again. Michelangelo's David stood before the palace here until 1873. Then it moved inside, and the David you see is a copy."
       },
       "localizedStory" : {
-        "de" : "Eine originalgroße Kopie von Michelangelos David steht genau dort, wo das Original bis 1873 stand.",
-        "en" : "A full-size copy of Michelangelo's David marks the very spot where the original stood until 1873."
+        "de" : "Die spöttischen Florentiner tauften den weißen Neptun im Brunnen il Biancone, den großen Weißen. Der Spitzname kam 1565, gleich bei der Enthüllung.",
+        "en" : "Locals call the white Neptune in the fountain il Biancone, the big white one. Sharp tongued Florentines pinned it on him in 1565."
       },
       "name" : "Piazza della Signoria",
       "pos" : [
         43.769582,
         11.255953
       ],
-      "story" : "A full-size copy of Michelangelo's David marks the very spot where the original stood until 1873."
+      "story" : "Locals call the white Neptune in the fountain il Biancone, the big white one. Sharp tongued Florentines pinned it on him in 1565."
     }
   ],
-  "generatedAt" : "2026-09-21T08:29:45Z",
+  "generatedAt" : "2026-09-21T13:49:16Z",
   "icon" : {
     "paths" : [
       "M 51.0 73.0 C 56.0 72.0 64.0 67.0 72.0 62.0 C 81.0 57.0 85.0 48.0 83.0 39.0 C 82.0 45.0 76.0 47.0 72.0 43.0 C 69.0 38.0 71.0 31.0 77.0 29.0 C 86.0 26.0 94.0 36.0 92.0 50.0 C 89.0 70.0 72.0 79.0 48.0 78.0 Z M 52.0 78.0 C 28.0 79.0 11.0 70.0 8.0 50.0 C 6.0 36.0 14.0 26.0 23.0 29.0 C 29.0 31.0 31.0 38.0 28.0 43.0 C 24.0 47.0 18.0 45.0 17.0 39.0 C 15.0 48.0 19.0 57.0 28.0 62.0 C 36.0 67.0 44.0 72.0 49.0 73.0 Z M 50.0 3.0 C 57.0 16.0 61.0 30.0 61.0 44.0 C 61.0 57.0 54.0 65.0 53.0 75.0 L 47.0 75.0 C 46.0 65.0 39.0 57.0 39.0 44.0 C 39.0 30.0 43.0 16.0 50.0 3.0 Z M 54.0 74.0 C 58.0 58.0 63.0 42.0 65.0 20.0 L 73.0 22.0 C 67.0 46.0 61.0 60.0 58.0 75.0 Z M 42.0 75.0 C 39.0 60.0 33.0 46.0 27.0 22.0 L 35.0 20.0 C 37.0 42.0 42.0 58.0 46.0 74.0 Z M 62.0 12.0 C 62.0 8.1 65.1 5.0 69.0 5.0 C 72.9 5.0 76.0 8.1 76.0 12.0 C 76.0 15.9 72.9 19.0 69.0 19.0 C 65.1 19.0 62.0 15.9 62.0 12.0 Z M 38.0 12.0 C 38.0 15.9 34.9 19.0 31.0 19.0 C 27.1 19.0 24.0 15.9 24.0 12.0 C 24.0 8.1 27.1 5.0 31.0 5.0 C 34.9 5.0 38.0 8.1 38.0 12.0 Z M 27.0 68.0 L 73.0 68.0 L 73.0 79.0 L 27.0 79.0 Z M 41.0 79.0 L 59.0 79.0 C 59.0 87.0 56.0 93.0 50.0 98.0 C 44.0 93.0 41.0 87.0 41.0 79.0 Z"
@@ -19191,7 +19190,7 @@
     "en" : "Florence"
   },
   "name" : "Florence",
-  "packVersion" : 17,
+  "packVersion" : 18,
   "schemaVersion" : 1,
   "source" : "OpenStreetMap via Overpass API",
   "stats" : {

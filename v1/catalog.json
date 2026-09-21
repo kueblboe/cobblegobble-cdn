@@ -396,7 +396,7 @@
         "en" : "Bamberg"
       },
       "name" : "Bamberg",
-      "packVersion" : 26,
+      "packVersion" : 27,
       "stats" : {
         "estHours" : 8.1,
         "nodeCount" : 1693,
@@ -1353,7 +1353,7 @@
         "it" : "Bologna"
       },
       "name" : "Bologna",
-      "packVersion" : 32,
+      "packVersion" : 33,
       "stats" : {
         "estHours" : 10.9,
         "nodeCount" : 1831,
@@ -1869,7 +1869,7 @@
         "en" : "Budapest"
       },
       "name" : "Budapest",
-      "packVersion" : 14,
+      "packVersion" : 15,
       "stats" : {
         "estHours" : 16,
         "nodeCount" : 2730,
@@ -1980,7 +1980,7 @@
         "en" : "Český Krumlov"
       },
       "name" : "Český Krumlov",
-      "packVersion" : 31,
+      "packVersion" : 32,
       "stats" : {
         "estHours" : 2.4,
         "nodeCount" : 459,
@@ -2332,7 +2332,7 @@
         "en" : "Copenhagen"
       },
       "name" : "Copenhagen",
-      "packVersion" : 13,
+      "packVersion" : 14,
       "stats" : {
         "estHours" : 8.6,
         "nodeCount" : 1504,
@@ -3368,7 +3368,7 @@
         "en" : "Florence"
       },
       "name" : "Florence",
-      "packVersion" : 17,
+      "packVersion" : 18,
       "stats" : {
         "estHours" : 11.6,
         "nodeCount" : 2125,
@@ -5155,7 +5155,7 @@
         "en" : "Ljubljana"
       },
       "name" : "Ljubljana",
-      "packVersion" : 25,
+      "packVersion" : 26,
       "stats" : {
         "estHours" : 7.6,
         "nodeCount" : 1396,
@@ -5297,7 +5297,7 @@
         "en" : "Lucca"
       },
       "name" : "Lucca",
-      "packVersion" : 17,
+      "packVersion" : 18,
       "stats" : {
         "estHours" : 11.2,
         "nodeCount" : 1960,
@@ -5769,7 +5769,7 @@
         "en" : "Munich"
       },
       "name" : "Munich",
-      "packVersion" : 37,
+      "packVersion" : 38,
       "stats" : {
         "estHours" : 8.8,
         "nodeCount" : 1599,
@@ -5995,7 +5995,7 @@
         "en" : "Nuremberg"
       },
       "name" : "Nuremberg",
-      "packVersion" : 31,
+      "packVersion" : 33,
       "stats" : {
         "estHours" : 15,
         "nodeCount" : 2635,
@@ -6621,7 +6621,7 @@
         "en" : "Porto"
       },
       "name" : "Porto",
-      "packVersion" : 19,
+      "packVersion" : 20,
       "stats" : {
         "estHours" : 8.9,
         "nodeCount" : 1648,
@@ -7964,7 +7964,7 @@
         "en" : "Siena"
       },
       "name" : "Siena",
-      "packVersion" : 17,
+      "packVersion" : 18,
       "stats" : {
         "estHours" : 11.6,
         "nodeCount" : 2142,
@@ -8102,7 +8102,7 @@
         "en" : "Split"
       },
       "name" : "Split",
-      "packVersion" : 7,
+      "packVersion" : 8,
       "stats" : {
         "estHours" : 2.5,
         "nodeCount" : 522,
@@ -8858,7 +8858,7 @@
         "en" : "Toledo"
       },
       "name" : "Toledo",
-      "packVersion" : 11,
+      "packVersion" : 12,
       "stats" : {
         "estHours" : 11.7,
         "nodeCount" : 2144,
@@ -9041,7 +9041,7 @@
         "en" : "Třeboň"
       },
       "name" : "Třeboň",
-      "packVersion" : 7,
+      "packVersion" : 8,
       "stats" : {
         "estHours" : 2.6,
         "nodeCount" : 441,
@@ -9942,7 +9942,7 @@
         "en" : "York"
       },
       "name" : "York",
-      "packVersion" : 11,
+      "packVersion" : 14,
       "stats" : {
         "estHours" : 9.7,
         "nodeCount" : 1781,

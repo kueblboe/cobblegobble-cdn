@@ -183,11 +183,9 @@
 
     ],
     "adjustedStreets" : [
-      "Herzog-Wilhelm-Straße",
-      "Marienplatz",
-      "Westenriederstraße"
+
     ],
-    "fromVersion" : 36,
+    "fromVersion" : 37,
     "removedStreets" : [
 
     ]
@@ -22745,167 +22743,167 @@
   ],
   "fruits" : [
     {
-      "extendedStory" : "Those two towers with round green caps are Munich's mark on the sky. The church was begun in 1468, and a builder named Jörg von Halsbach shaped it. It was consecrated in 1494, and the caps were added later, in 1525. The towers rise about 99 metres, so you can spot them from far across the city. Look up for the green caps, and you have found the heart of Munich.",
+      "extendedStory" : "When the devil came for his pay, Ganghofer said he had forgotten the windows. The devil peered in, saw not a single window, stamped his foot and stormed off. The two towers got their round green caps in 1525. In 2004 a narrow majority of voters backed a limit: nothing in Munich was to rise higher than this church. That vote no longer binds anyone.",
       "icon" : "hero",
       "id" : "f-frauenkirche",
       "kind" : "church",
       "localizedExtendedStory" : {
-        "de" : "Diese zwei Türme mit runden grünen Hauben sind Münchens Zeichen am Himmel. Die Kirche wurde 1468 begonnen, und ein Baumeister namens Jörg von Halspach formte sie. Geweiht wurde sie 1494, und die Hauben kamen später dazu, im Jahr 1525. Die Türme sind etwa 99 Meter hoch, so siehst du sie von weit her. Schau nach den grünen Hauben, und du hast Münchens Herz gefunden.",
-        "en" : "Those two towers with round green caps are Munich's mark on the sky. The church was begun in 1468, and a builder named Jörg von Halsbach shaped it. It was consecrated in 1494, and the caps were added later, in 1525. The towers rise about 99 metres, so you can spot them from far across the city. Look up for the green caps, and you have found the heart of Munich."
+        "de" : "Als der Teufel seinen Lohn holen wollte, sagte Ganghofer, er habe die Fenster vergessen. Der Teufel schaute hinein, entdeckte kein Fenster und stampfte vor Wut auf. 1525 bekamen die zwei Türme ihre runden grünen Hauben. Bei einem Bürgerentscheid 2004 stimmte eine knappe Mehrheit für eine Grenze: Nichts in München sollte höher werden als diese Kirche. Heute bindet der Entscheid niemanden mehr.",
+        "en" : "When the devil came for his pay, Ganghofer said he had forgotten the windows. The devil peered in, saw not a single window, stamped his foot and stormed off. The two towers got their round green caps in 1525. In 2004 a narrow majority of voters backed a limit: nothing in Munich was to rise higher than this church. That vote no longer binds anyone."
       },
       "localizedStory" : {
-        "de" : "Nahe dem Eingang trägt ein dunkler Fleck im Steinboden den Spitznamen Teufelstritt.",
-        "en" : "Near the entrance, a dark mark in the stone floor is nicknamed the Devil's Footstep."
+        "de" : "Der Sage nach schloss Baumeister Jörg Ganghofer einen Pakt mit dem Teufel. Schau auf den Boden: Dort ist der Fußabdruck, den der Teufel hinterließ.",
+        "en" : "The story goes that builder Jörg Ganghofer struck a deal with the devil. Look down for the footprint the devil left in the floor."
       },
       "name" : "Frauenkirche",
       "pos" : [
         48.13856,
         11.572857
       ],
-      "story" : "Near the entrance, a dark mark in the stone floor is nicknamed the Devil's Footstep."
+      "story" : "The story goes that builder Jörg Ganghofer struck a deal with the devil. Look down for the footprint the devil left in the floor."
     },
     {
-      "extendedStory" : "People have met on this square since 1158. It takes its name from Mary, whose golden figure was raised here on a tall column in 1638. High in the tower, coopers dance beside the jousting knight while the bells play. From March to October they play once more, at five in the afternoon. If the tower is quiet, come back at one of those times.",
+      "extendedStory" : "Now look up at the town hall tower. Up there is the glockenspiel, a clock that plays bells. At eleven and at noon every day it shows a jousting knight and the coopers' dance. The hall looks medieval, but it went up between 1867 and 1909. It copies in large part the medieval town hall in Brussels. The square is named for Mary, and her golden figure stands high on its column.",
       "icon" : "choice",
       "id" : "f-marienplatz",
       "kind" : "square",
       "localizedExtendedStory" : {
-        "de" : "Auf diesem Platz treffen sich Menschen schon seit 1158. Seinen Namen hat er von Maria, deren goldene Figur hier 1638 auf einer hohen Säule aufgestellt wurde. Hoch im Turm tanzen die Schäffler neben dem Turnierritter, während die Glocken spielen. Von März bis Oktober spielen sie noch einmal, um fünf am Nachmittag. Ist der Turm still, komm zu einer dieser Zeiten wieder.",
-        "en" : "People have met on this square since 1158. It takes its name from Mary, whose golden figure was raised here on a tall column in 1638. High in the tower, coopers dance beside the jousting knight while the bells play. From March to October they play once more, at five in the afternoon. If the tower is quiet, come back at one of those times."
+        "de" : "Schau jetzt hinauf zum Rathausturm. Um elf und um zwölf zeigt das Glockenspiel dort oben jeden Tag einen Turnierritter und den Schäfflertanz. Das Neue Rathaus wirkt mittelalterlich, entstand aber erst von 1867 bis 1909. Vorbild war zu großen Teilen das mittelalterliche Rathaus in Brüssel. Der Platz ist nach Maria benannt, und ihre goldene Figur steht hoch auf ihrer Säule.",
+        "en" : "Now look up at the town hall tower. Up there is the glockenspiel, a clock that plays bells. At eleven and at noon every day it shows a jousting knight and the coopers' dance. The hall looks medieval, but it went up between 1867 and 1909. It copies in large part the medieval town hall in Brussels. The square is named for Mary, and her golden figure stands high on its column."
       },
       "localizedStory" : {
-        "de" : "Schau hinauf zum Rathausturm. Jeden Tag um elf und um zwölf läuten 43 Glocken, und ein Turnierritter reitet los.",
-        "en" : "Look up at the town hall tower. Every day at eleven and at noon, 43 bells ring and a jousting knight charges."
+        "de" : "Am Aschermittwoch taucht der Oberbürgermeister bis heute den Stadtsäckel in den Fischbrunnen. Man sagt, der Brauch reicht bis ins 15. Jahrhundert zurück.",
+        "en" : "On Ash Wednesday the mayor still dips the city's purse into the Fischbrunnen here. People say the custom goes back to the 15th century."
       },
       "name" : "Marienplatz",
       "pos" : [
         48.137033,
         11.575815
       ],
-      "story" : "Look up at the town hall tower. Every day at eleven and at noon, 43 bells ring and a jousting knight charges."
+      "story" : "On Ash Wednesday the mayor still dips the city's purse into the Fischbrunnen here. People say the custom goes back to the 15th century."
     },
     {
-      "extendedStory" : "Viktualien is an old word for food, and this square has sold it since 1807. Two hundred years of the same trade on the same ground is a rare thing in the middle of a city. The maypole is far younger than the market itself: the blue-and-white one went up in 1962. People have met under it ever since.",
+      "extendedStory" : "It had been kept in a secret, guarded store, and still they found it. The clubs handed it back after hard talks over the price. The market has had a maypole since 1962. Look for the fountains among the stalls too. Many are named after Munich singers and well-known locals, and the Karl Valentin fountain has stood here since 1953.",
       "icon" : "choice",
       "id" : "f-viktualienmarkt",
       "kind" : "market",
       "localizedExtendedStory" : {
-        "de" : "Viktualien ist ein altes Wort für Lebensmittel, und genau die verkauft dieser Platz seit 1807. Zweihundert Jahre derselbe Handel am selben Ort, das ist mitten in einer Großstadt selten. Der Maibaum ist viel jünger als der Markt: Der blau-weiße wurde 1962 aufgestellt. Seitdem trifft man sich unter ihm.",
-        "en" : "Viktualien is an old word for food, and this square has sold it since 1807. Two hundred years of the same trade on the same ground is a rare thing in the middle of a city. The maypole is far younger than the market itself: the blue-and-white one went up in 1962. People have met under it ever since."
+        "de" : "Er lag in einem geheimen, bewachten Lager, und trotzdem holten sie ihn. Zurück gaben sie ihn nach harten Verhandlungen über das Lösegeld. Seit 1962 steht hier ein Maibaum. Schau auch nach den Brunnen zwischen den Ständen. Viele tragen die Namen von Münchner Sängern und Originalen, und der Karl-Valentin-Brunnen steht schon seit 1953 dort.",
+        "en" : "It had been kept in a secret, guarded store, and still they found it. The clubs handed it back after hard talks over the price. The market has had a maypole since 1962. Look for the fountains among the stalls too. Many are named after Munich singers and well-known locals, and the Karl Valentin fountain has stood here since 1953."
       },
       "localizedStory" : {
-        "de" : "Rund 100 Stände stehen im Kreis um einen Garten, in dem man sich zusammensetzt. Schau nach oben zum blau-weißen Maibaum.",
-        "en" : "About 100 stalls stand in a ring around a garden where people sit down together. Look up for the blue-and-white maypole."
+        "de" : "Man sagt, Maibaumstehlen sei ein alter Brauch. 2017 entführten drei Burschenvereine aus Dörfern diesen blau-weißen Baum in der Nacht.",
+        "en" : "People say stealing a maypole is an old custom. In 2017 three village clubs carried off this blue-and-white one by night."
       },
       "name" : "Viktualienmarkt",
       "pos" : [
         48.135504,
         11.576178
       ],
-      "story" : "About 100 stalls stand in a ring around a garden where people sit down together. Look up for the blue-and-white maypole."
+      "story" : "People say stealing a maypole is an old custom. In 2017 three village clubs carried off this blue-and-white one by night."
     },
     {
-      "extendedStory" : "This old fort is called the Alter Hof. From 1253, it was the home of the Wittelsbachs, the family who ruled Bavaria for centuries. Kings and dukes walked through these gates and made their plans here. Look on the wall and you will find a small plaque for Wolfgang Amadeus Mozart. Touch the old stone, and you touch a wall that has watched the city for a very long time.",
+      "extendedStory" : "The courtiers below shouted in alarm. The story goes that their noise made the monkey carry the baby back, safe and sound. Today the tower is called the Affenturm, the Monkey Tower. For centuries this was the home of the Wittelsbachs, Bavaria's ruling family. In the late 15th century Duke Sigmund had the courtyard walls painted with a pattern of diamonds. Look for the plaque to Mozart as well.",
       "icon" : "everyday",
       "id" : "f-alter-hof",
       "kind" : "fortress",
       "localizedExtendedStory" : {
-        "de" : "Diese alte Burg heißt der Alte Hof. Ab 1253 war sie der Sitz der Wittelsbacher, der Familie, die Bayern über Jahrhunderte regierte. Könige und Herzöge gingen durch diese Tore und schmiedeten hier ihre Pläne. Schau an die Mauer, dort findest du eine kleine Tafel für Wolfgang Amadeus Mozart. Leg die Hand auf den alten Stein, und du berührst eine Mauer, die die Stadt schon sehr lange begleitet.",
-        "en" : "This old fort is called the Alter Hof. From 1253, it was the home of the Wittelsbachs, the family who ruled Bavaria for centuries. Kings and dukes walked through these gates and made their plans here. Look on the wall and you will find a small plaque for Wolfgang Amadeus Mozart. Touch the old stone, and you touch a wall that has watched the city for a very long time."
+        "de" : "Die Höflinge sahen besorgt zu und schrien. Man erzählt, dass der Affe das Kind wegen des Geschreis heil zurück in die Wiege legte. Heute heißt der Turm Affenturm. Über Jahrhunderte wohnten hier die Wittelsbacher, die Herrscherfamilie Bayerns. Im späten 15. Jahrhundert ließ Herzog Siegmund die Wände im Hof mit einem Rautenmuster bemalen. Such auch die Gedenktafel für Mozart.",
+        "en" : "The courtiers below shouted in alarm. The story goes that their noise made the monkey carry the baby back, safe and sound. Today the tower is called the Affenturm, the Monkey Tower. For centuries this was the home of the Wittelsbachs, Bavaria's ruling family. In the late 15th century Duke Sigmund had the courtyard walls painted with a pattern of diamonds. Look for the plaque to Mozart as well."
       },
       "localizedStory" : {
-        "de" : "Such die Mozart-Gedenktafel an der Mauer dieser alten Burg. Bayerns Herrscherfamilie, die Wittelsbacher, lebte hier ab 1253.",
-        "en" : "Find the Mozart plaque on the wall of this old fort. Bavaria's ruling family, the Wittelsbachs, lived here from 1253."
+        "de" : "Der Sage nach holte ein kleiner Affe das Baby Ludwig, den späteren Kaiser, aus der Wiege. Dann kletterte er mit ihm auf den Turm.",
+        "en" : "Legend says a pet monkey once snatched baby Ludwig, the later emperor, from his cradle and climbed up the tower with him."
       },
       "name" : "Alter Hof",
       "pos" : [
         48.138204,
         11.578015
       ],
-      "story" : "Find the Mozart plaque on the wall of this old fort. Bavaria's ruling family, the Wittelsbachs, lived here from 1253."
+      "story" : "Legend says a pet monkey once snatched baby Ludwig, the later emperor, from his cradle and climbed up the tower with him."
     },
     {
-      "extendedStory" : "Stand under the big gateway arch and look up at the two towers on either side. Each one has six sides, not four. The heart of this gate was built in the fifteenth century. It was restored in 1860, so what you see is old and cared for. Trace the six corners of a tower with your finger as you pass.",
+      "extendedStory" : "Before that, a middle tower stood between the arches, until it came down in 1810. Look for what stayed: two six-sided towers beside the big arch. At their core they are from the 15th century. The gate is named after Sendling, and Arnold Zenetti is listed as its architect. Stand under the arch and try to picture three.",
       "icon" : "everyday",
       "id" : "f-sendlinger-tor",
       "kind" : "gate_tower",
       "localizedExtendedStory" : {
-        "de" : "Stell dich unter den großen Torbogen und schau zu den zwei Türmen an den Seiten hoch. Jeder hat sechs Seiten, nicht vier. Der Kern dieses Tors stammt aus dem 15. Jahrhundert. Im Jahr 1860 wurde es neu hergerichtet, also ist es alt und gut gepflegt. Fahr mit dem Finger die sechs Ecken eines Turms nach, wenn du vorbeigehst.",
-        "en" : "Stand under the big gateway arch and look up at the two towers on either side. Each one has six sides, not four. The heart of this gate was built in the fifteenth century. It was restored in 1860, so what you see is old and cared for. Trace the six corners of a tower with your finger as you pass."
+        "de" : "Vorher stand zwischen den Bögen noch ein mittlerer Turm, der 1810 fiel. Geblieben sind die zwei sechseckigen Türme am großen Torbogen. Im Kern stammen sie aus dem 15. Jahrhundert. Seinen Namen hat das Tor von Sendling, und als Architekt ist Arnold Zenetti genannt. Stell dich unter den Bogen und denk dir die drei Bögen dazu.",
+        "en" : "Before that, a middle tower stood between the arches, until it came down in 1810. Look for what stayed: two six-sided towers beside the big arch. At their core they are from the 15th century. The gate is named after Sendling, and Arnold Zenetti is listed as its architect. Stand under the arch and try to picture three."
       },
       "localizedStory" : {
-        "de" : "Zähl die Seiten der zwei Türme neben dem großen Torbogen: je sechs. Ihr Stein steht hier seit über fünfhundert Jahren.",
-        "en" : "Count the sides of the two towers beside the big archway: six each. The stone in them has been standing for over five hundred years."
+        "de" : "Einst hatte dieses Tor drei Bögen nebeneinander. 1906 wurden sie zu einer breiten Öffnung verbunden, damit die Trambahn Platz hatte.",
+        "en" : "This gate once had three arches side by side. In 1906 they were joined into one wide arch so the tram could pass."
       },
       "name" : "Sendlinger Tor",
       "pos" : [
         48.134055,
         11.567715
       ],
-      "story" : "Count the sides of the two towers beside the big archway: six each. The stone in them has been standing for over five hundred years."
+      "story" : "This gate once had three arches side by side. In 1906 they were joined into one wide arch so the tram could pass."
     },
     {
-      "extendedStory" : "On Lenbachplatz stands the Künstlerhaus, a house built just for artists. Gabriel von Seidl designed it, and its foundation stone was laid in 1893. Years later, in 1900, the doors opened. Imagine a whole building made so painters, sculptors and musicians could meet, work, and show their creations. So when you pass, picture the artists who wanted a home of their own.",
+      "extendedStory" : "Officers of the occupation had a club in the west wing, which had survived. So rooms meant for art ended up serving the occupiers. The house had been made for artists. Gabriel von Seidl designed it, its foundation stone went down in 1893, and it opened in 1900. Today it stands on Lenbachplatz and still goes by the name Künstlerhaus, a house for artists.",
       "icon" : "everyday",
       "id" : "f-little-art-munchner-kunstlerhaus",
       "kind" : "civic",
       "localizedExtendedStory" : {
-        "de" : "Am Lenbachplatz steht das Künstlerhaus, ein Haus, das eigens für Künstler gebaut wurde. Gabriel von Seidl entwarf es, und 1893 wurde der Grundstein gelegt. Jahre später, im Jahr 1900, öffneten sich die Türen. Stell dir ein ganzes Gebäude vor, in dem Maler, Bildhauer und Musiker sich treffen, arbeiten und ihre Werke zeigen. Geh vorbei und denk an die Künstler, die sich ein eigenes Zuhause wünschten.",
-        "en" : "On Lenbachplatz stands the Künstlerhaus, a house built just for artists. Gabriel von Seidl designed it, and its foundation stone was laid in 1893. Years later, in 1900, the doors opened. Imagine a whole building made so painters, sculptors and musicians could meet, work, and show their creations. So when you pass, picture the artists who wanted a home of their own."
+        "de" : "Im Westflügel, der stehen geblieben war, hatten ihre Offiziere ein Kasino. Aus Räumen für die Kunst wurden so Räume für die Besatzer. Gedacht war das Haus eigentlich für Künstler. Gabriel von Seidl entwarf es, 1893 legte man den Grundstein, und 1900 wurde es eröffnet. Heute steht es am Lenbachplatz und heißt noch immer Künstlerhaus.",
+        "en" : "Officers of the occupation had a club in the west wing, which had survived. So rooms meant for art ended up serving the occupiers. The house had been made for artists. Gabriel von Seidl designed it, its foundation stone went down in 1893, and it opened in 1900. Today it stands on Lenbachplatz and still goes by the name Künstlerhaus, a house for artists."
       },
       "localizedStory" : {
-        "de" : "Schau auf dem Lenbachplatz: Das ist das Künstlerhaus, ein Haus für Künstler. Gabriel von Seidl entwarf es, 1900 wurde es eröffnet.",
-        "en" : "Look up on Lenbachplatz: this is the Künstlerhaus, a house built for artists. Gabriel von Seidl designed it, and it opened in 1900."
+        "de" : "Nachdem das Haus 1944 bei einem Luftangriff ausgebrannt war, betrieben amerikanische Besatzer in seinem Kellerschutt eine Snackbar.",
+        "en" : "After a 1944 air raid burned this house out, American occupiers ran a snack bar in its cellar ruins."
       },
       "name" : "little ART - Münchner Künstlerhaus",
       "pos" : [
         48.14017,
         11.568068
       ],
-      "story" : "Look up on Lenbachplatz: this is the Künstlerhaus, a house built for artists. Gabriel von Seidl designed it, and it opened in 1900."
+      "story" : "After a 1944 air raid burned this house out, American occupiers ran a snack bar in its cellar ruins."
     },
     {
-      "extendedStory" : "Stop and look up at the towers guarding the gate. Each one has eight flat sides. Count them as you pass. Across the front, three arches open in a row. This gate has stood here since 1337. Much later, in 1833, a builder named Friedrich von Gärtner gave it a careful restoration. So you are looking at something very old, watched over and cared for.",
+      "extendedStory" : "Today the tower holds a museum for two comedians, Karl Valentin and Liesl Karlstadt. Inside are objects based on Valentin's joke panopticon, a cabinet of odd things. Look for the winter toothpick and the snow sculpture that has melted. Friedrich von Gärtner restored the eight-sided towers and the three-arched front in 1833. The gate itself dates from 1337.",
       "icon" : "everyday",
       "id" : "f-isartor",
       "kind" : "gate_tower",
       "localizedExtendedStory" : {
-        "de" : "Bleib kurz stehen und schau zu den Türmen hinauf, die das Tor bewachen. Jeder hat acht flache Seiten. Zähl sie im Vorbeigehen. Über der Front öffnen sich drei Bögen in einer Reihe. Dieses Tor steht hier schon seit 1337. Viel später, im Jahr 1833, hat ein Baumeister namens Friedrich von Gärtner es sorgfältig restauriert. Du schaust also auf etwas sehr Altes, das behütet und gepflegt wurde.",
-        "en" : "Stop and look up at the towers guarding the gate. Each one has eight flat sides. Count them as you pass. Across the front, three arches open in a row. This gate has stood here since 1337. Much later, in 1833, a builder named Friedrich von Gärtner gave it a careful restoration. So you are looking at something very old, watched over and cared for."
+        "de" : "Heute wohnt im Turm das Musäum von Karl Valentin und Liesl Karlstadt, zwei Komikern. Dort warten Dinge nach Valentins Panoptikum, einer Sammlung seltsamer Stücke. Such den Winter-Zahnstocher und die geschmolzene Schneeplastik. Friedrich von Gärtner restaurierte 1833 die achteckigen Flankentürme und die dreibogige Stirnfront. Das Tor selbst steht seit 1337.",
+        "en" : "Today the tower holds a museum for two comedians, Karl Valentin and Liesl Karlstadt. Inside are objects based on Valentin's joke panopticon, a cabinet of odd things. Look for the winter toothpick and the snow sculpture that has melted. Friedrich von Gärtner restored the eight-sided towers and the three-arched front in 1833. The gate itself dates from 1337."
       },
       "localizedStory" : {
-        "de" : "Zähl die Seiten an jedem Seitenturm: acht! Drei Bögen spannen sich über die Front, und das schon seit 1337.",
-        "en" : "Count the sides on each tower here: eight! Three arches line up across the front, standing on this spot since 1337."
+        "de" : "Man sagt, Ludwig der Bayer sei nach der Schlacht bei Ampfing 1322 im Triumphzug durch dieses Tor eingezogen.",
+        "en" : "People say Ludwig the Bavarian rode through this very gate in his victory parade, back from the Battle of Ampfing in 1322."
       },
       "name" : "Isartor",
       "pos" : [
         48.13511,
         11.58183
       ],
-      "story" : "Count the sides on each tower here: eight! Three arches line up across the front, standing on this spot since 1337."
+      "story" : "People say Ludwig the Bavarian rode through this very gate in his victory parade, back from the Battle of Ampfing in 1322."
     },
     {
-      "extendedStory" : "The foundation stone went down in 1663, and the doors opened twelve years later in 1675. He built it in the baroque manner. Baroque means curves instead of straight lines, and decoration that spills over every edge. It is a style built to make you look up and then keep looking. The church was given the name of Saint Cajetan.",
+      "extendedStory" : "Max Emanuel arrived in 1662. His parents wanted their new church to outshine even the Frauenkirche. Now look at the ornate facade. Work on it began in 1765, long after the church itself was consecrated. The church carries the name of Saint Cajetan, and Agostino Barelli drew it in the baroque style.",
       "icon" : "choice",
       "id" : "f-theatinerkirche-st-kajetan",
       "kind" : "church",
       "localizedExtendedStory" : {
-        "de" : "Der Grundstein wurde 1663 gelegt, und zwölf Jahre später, 1675, öffnete die Kirche. Er baute sie im Stil des Barock. Barock heißt: Kurven statt gerader Linien, und Zierrat, der über jede Kante quillt. Es ist ein Stil, der dich nach oben schauen lässt und dort hält. Den Namen bekam die Kirche von Kajetan von Thiene.",
-        "en" : "The foundation stone went down in 1663, and the doors opened twelve years later in 1675. He built it in the baroque manner. Baroque means curves instead of straight lines, and decoration that spills over every edge. It is a style built to make you look up and then keep looking. The church was given the name of Saint Cajetan."
+        "de" : "1662 kam Max Emanuel zur Welt. Die neue Kirche sollte sogar die Frauenkirche übertrumpfen. Schau dir die prächtige Fassade an. Mit ihr begann man erst 1765, lange nach der Weihe der Kirche. Ihren Namen trägt sie nach Kajetan von Thiene, und die Pläne im Stil des Barock stammen von Agostino Barelli.",
+        "en" : "Max Emanuel arrived in 1662. His parents wanted their new church to outshine even the Frauenkirche. Now look at the ornate facade. Work on it began in 1765, long after the church itself was consecrated. The church carries the name of Saint Cajetan, and Agostino Barelli drew it in the baroque style."
       },
       "localizedStory" : {
-        "de" : "Ein Italiener, Agostino Barelli, entwarf diese Kirche. Sie ragt 71 Meter über die Residenzstraße.",
-        "en" : "An Italian, Agostino Barelli, drew this church. It rises 71 metres over Residenzstraße."
+        "de" : "Diese Kirche ist ein eingelöstes Versprechen. Ferdinand Maria und seine Frau gelobten sie für ein Kind, und nach acht Jahren kam der Erbe.",
+        "en" : "This church keeps a promise. Ferdinand Maria and his wife vowed it if a child came, and after eight years their heir was born."
       },
       "name" : "Theatinerkirche St. Kajetan",
       "pos" : [
         48.141985,
         11.576991
       ],
-      "story" : "An Italian, Agostino Barelli, drew this church. It rises 71 metres over Residenzstraße."
+      "story" : "This church keeps a promise. Ferdinand Maria and his wife vowed it if a child came, and after eight years their heir was born."
     }
   ],
-  "generatedAt" : "2026-09-21T07:39:07Z",
+  "generatedAt" : "2026-09-21T14:33:57Z",
   "icon" : {
     "paths" : [
       "M93.2 34.2L102.2 33.2 118.9 34.7 126.9 37.3 133.7 42.1 139.2 49.6 143.2 61.1 126.4 61.3 121.2 64.4 124.0 69.5 131.9 74.1 148.6 75.2 166.3 71.0 167.6 69.6 167.1 64.8 172.1 61.7 170.0 57.3 182.9 50.7 192.2 69.7 179.2 76.8 173.7 65.1 172.7 71.9 168.0 75.1 168.5 77.1 172.3 75.6 174.6 72.0 176.9 76.8 163.3 85.1 163.3 198.4 150.8 194.5 145.8 187.9 144.3 115.3 139.4 105.8 132.4 100.8 132.4 196.6 84.3 196.4 84.3 102.2 76.6 106.7 72.3 114.3 71.0 185.8 63.5 194.7 52.9 197.2 53.1 83.0 30.8 71.0 31.8 68.8 37.4 71.0 37.9 69.5 32.5 67.4 34.1 66.0 39.4 67.8 39.4 66.1 25.9 58.6 26.7 57.0 35.0 61.9 35.5 60.6 27.4 55.1 28.5 53.1 40.8 62.2 42.7 70.3 46.7 73.1 42.8 62.2 38.2 57.0 38.6 54.0 49.4 62.8 49.8 68.2 53.1 70.9 72.8 75.2 88.6 72.9 95.7 69.3 101.6 63.6 90.1 63.0 89.4 56.3 87.0 55.8 88.4 39.6Z"
@@ -22918,7 +22916,7 @@
     "en" : "Munich"
   },
   "name" : "Munich",
-  "packVersion" : 37,
+  "packVersion" : 38,
   "schemaVersion" : 1,
   "source" : "OpenStreetMap via Overpass API",
   "stats" : {

@@ -487,10 +487,9 @@
 
     ],
     "adjustedStreets" : [
-      "Largo Francesco Bindi Sergardi",
-      "Via del Nuovo Asilo"
+
     ],
-    "fromVersion" : 16,
+    "fromVersion" : 17,
     "removedStreets" : [
 
     ]
@@ -15230,207 +15229,207 @@
   ],
   "fruits" : [
     {
-      "extendedStory" : "The cathedral is built in the Gothic style. That means pointed arches, and windows that reach upward rather than across. Work began in 1196 and carried on for generations of masons. The finished building stands 77 metres tall. Its front looks out over Piazza Jacopo della Quercia, a short walk from the great tower.",
+      "extendedStory" : "Look south of the Duomo for walls with nothing behind them. In 1339 the city set out to build a new nave that would have more than doubled the church. Then a plague arrived in 1348, and the work stopped. Nobody ever took it up again. The half-built outer walls still stand in the open air, and you can even go up one of them.",
       "icon" : "hero",
       "id" : "f-cattedrale-di-santa-maria-assunta",
       "kind" : "church",
       "localizedExtendedStory" : {
-        "de" : "Die Kathedrale ist gotisch gebaut. Das heißt: spitze Bögen und Fenster, die eher nach oben streben als in die Breite. Angefangen wurde 1196, und gebaut wurde über Generationen hinweg. Am Ende stand ein Bau von 77 Metern Höhe. Seine Front schaut auf die Piazza Jacopo della Quercia.",
-        "en" : "The cathedral is built in the Gothic style. That means pointed arches, and windows that reach upward rather than across. Work began in 1196 and carried on for generations of masons. The finished building stands 77 metres tall. Its front looks out over Piazza Jacopo della Quercia, a short walk from the great tower."
+        "de" : "Schau südlich vom Dom nach Mauern, hinter denen nichts steht. Im Jahr 1339 plante die Stadt ein neues Langhaus, das die Kirche mehr als verdoppelt hätte. Dann kam 1348 die Pest, und die Arbeit stand still. Niemand nahm sie je wieder auf. Die halbfertigen Außenmauern stehen noch unter freiem Himmel, und auf eine davon darfst du sogar steigen.",
+        "en" : "Look south of the Duomo for walls with nothing behind them. In 1339 the city set out to build a new nave that would have more than doubled the church. Then a plague arrived in 1348, and the work stopped. Nobody ever took it up again. The half-built outer walls still stand in the open air, and you can even go up one of them."
       },
       "localizedStory" : {
-        "de" : "Sienas Kathedrale wurde 1196 begonnen und ragt 77 Meter über den Platz.",
-        "en" : "Siena's cathedral was begun in 1196 and rises 77 metres above the square."
+        "de" : "Der Sage nach flohen die Stadtgründer Senius und Aschius aus Rom, auf einem dunklen und einem hellen Pferd. Daher hat die Balzana ihre beiden Farben.",
+        "en" : "Legend says the founders, Senius and Aschius, fled Rome on a dark horse and a pale one. The city's emblem, the Balzana, keeps both colours."
       },
       "name" : "Cattedrale di Santa Maria Assunta",
       "pos" : [
         43.317673,
         11.329216
       ],
-      "story" : "Siena's cathedral was begun in 1196 and rises 77 metres above the square."
+      "story" : "Legend says the founders, Senius and Aschius, fled Rome on a dark horse and a pale one. The city's emblem, the Balzana, keeps both colours."
     },
     {
-      "extendedStory" : "Stand on Via di Salicotto and tip your head back. The work here got going in 1338, and nobody walked in until 1348. That is a long wait for one building. The builders kept at it season after season while the city went about its business below. Today you can put a hand on the base and look all the way up.",
+      "extendedStory" : "Height was the whole point here. The cathedral sits on a higher hill across town. The council did not want its hall to look shorter than the church. So the builders raised this tower until its tip matched the top of the cathedral bell tower. It reaches 102 metres and was done by 1348. Stand at its foot and tip your head right back.",
       "icon" : "choice",
       "id" : "f-torre-del-mangia",
       "kind" : "gate_tower",
       "localizedExtendedStory" : {
-        "de" : "Der Turm wuchs im mittelalterlichen Stil, so wie Siena in jenen Jahrzehnten baute. Zwischen Baubeginn und Eröffnung lag ein langer Weg, und die Stadt blieb dran. Steh unten an der Via di Salicotto und lass den Blick die Dächer entlanglaufen. Die Kathedrale erhebt sich nur ein kurzes Stück weiter.",
-        "en" : "Stand on Via di Salicotto and tip your head back. The work here got going in 1338, and nobody walked in until 1348. That is a long wait for one building. The builders kept at it season after season while the city went about its business below. Today you can put a hand on the base and look all the way up."
+        "de" : "Hier ging es um Höhe. Der Dom steht auf einer höheren Kuppe der Stadt, und der Rat wollte nicht, dass sein Rathaus kleiner wirkt als die Kirche. Also zogen die Baumeister den Turm so lange hoch, bis seine Spitze auf gleicher Höhe lag wie die des Glockenturms am Dom. Er misst 102 Meter und war 1348 fertig. Stell dich an seinen Fuß und leg den Kopf ganz in den Nacken.",
+        "en" : "Height was the whole point here. The cathedral sits on a higher hill across town. The council did not want its hall to look shorter than the church. So the builders raised this tower until its tip matched the top of the cathedral bell tower. It reaches 102 metres and was done by 1348. Stand at its foot and tip your head right back."
       },
       "localizedStory" : {
-        "de" : "Der Bau dieses Turms begann 1338, eröffnet wurde er 1348. Seither wacht er über Siena.",
-        "en" : "Work on this tower began in 1338, and it opened in 1348. It has watched over Siena ever since."
+        "de" : "Seinen Namen hat der Turm von einem Glöckner der Anfangszeit. Sein Spitzname war Mangiaguadagni, der Gewinnfresser. Man sagt, er verprasste jeden Lohn.",
+        "en" : "Its name comes from a bell-ringer of the early days, known as Mangiaguadagni, the profit eater. People say he spent every coin he got."
       },
       "name" : "Torre del Mangia",
       "pos" : [
         43.318289,
         11.332198
       ],
-      "story" : "Work on this tower began in 1338, and it opened in 1348. It has watched over Siena ever since."
+      "story" : "Its name comes from a bell-ringer of the early days, known as Mangiaguadagni, the profit eater. People say he spent every coin he got."
     },
     {
-      "extendedStory" : "The square has changed its name more than once. It was Poggio dei Malavolti, then piazza Umberto I, before it took the name it wears now. Two buildings frame it today. The architect Vittorio Mariani drew them both: the chamber of commerce of 1904 and the post office of 1912. In a few years one hand gave the whole square its face.",
+      "extendedStory" : "Sienese simply call it piazza della Posta, after that post office. It has worn other names too: Poggio dei Malavolti, then piazza Umberto I. One architect, Vittorio Mariani, drew both big buildings that frame it. The chamber of commerce came in 1904, and the post office followed in 1912. Stand in the middle of the square and see how the two answer each other.",
       "icon" : "choice",
       "id" : "f-piazza-giacomo-matteotti",
       "kind" : "square",
       "localizedExtendedStory" : {
-        "de" : "Der Platz hat seinen Namen mehr als einmal gewechselt. Erst hieß er Poggio dei Malavolti, dann piazza Umberto I. Zwei Häuser rahmen ihn heute ein. Beide entwarf der Architekt Vittorio Mariani: die Handelskammer von 1904 und das Postamt von 1912. Mariani prägte damit in wenigen Jahren das ganze Gesicht des Platzes.",
-        "en" : "The square has changed its name more than once. It was Poggio dei Malavolti, then piazza Umberto I, before it took the name it wears now. Two buildings frame it today. The architect Vittorio Mariani drew them both: the chamber of commerce of 1904 and the post office of 1912. In a few years one hand gave the whole square its face."
+        "de" : "Die Leute hier nennen ihn einfach Piazza della Posta, nach dem Postamt an seinem Rand. Früher trug er andere Namen: Poggio dei Malavolti, dann Piazza Umberto I. Beide großen Bauten am Platz hat derselbe Architekt entworfen, Vittorio Mariani. Die Handelskammer kam 1904, und 1912 folgte die Post. Stell dich in die Mitte des Platzes und schau, wie die beiden Häuser einander antworten.",
+        "en" : "Sienese simply call it piazza della Posta, after that post office. It has worn other names too: Poggio dei Malavolti, then piazza Umberto I. One architect, Vittorio Mariani, drew both big buildings that frame it. The chamber of commerce came in 1904, and the post office followed in 1912. Stand in the middle of the square and see how the two answer each other."
       },
       "localizedStory" : {
-        "de" : "Die Sienesen nennen diesen Platz piazza della Posta, nach dem Postamt an seiner Seite.",
-        "en" : "Sienese call this square piazza della Posta, after the post office standing on it."
+        "de" : "Die Post hier tut etwas Seltenes in dieser Stadt. Ihre Fassade blickt frontal auf einen großen Platz, statt sich in einer engen Gasse zu verstecken.",
+        "en" : "The post office here does something rare in this town. Its front faces a big open square head-on, instead of hiding down a narrow alley."
       },
       "name" : "Piazza Giacomo Matteotti",
       "pos" : [
         43.321543,
         11.328897
       ],
-      "story" : "Sienese call this square piazza della Posta, after the post office standing on it."
+      "story" : "The post office here does something rare in this town. Its front faces a big open square head-on, instead of hiding down a narrow alley."
     },
     {
-      "extendedStory" : "Siena measured its wall in braccia, an old unit. The ring came to 11,600 of them, about seven kilometres in today's units. After 1348 it never grew again. The plague reached the city that year and Siena lost a great many people. Nobody needed more room behind the wall after that. The line they stopped at is the one you walk today.",
+      "extendedStory" : "The walls themselves look towards Florence. Almost every surviving tower crowds onto a short eastern stretch between Porta Camollia and Porta Pispini. That is where Florence's armies came from, while a lone tower watches the rest of the ring. It runs about 7 km around. The ring stopped growing in 1348, the year of the Black Death, because the city needed no more room.",
       "icon" : "everyday",
       "id" : "f-mura-di-siena",
       "kind" : "fortress",
       "localizedExtendedStory" : {
-        "de" : "Siena maß seine Mauer in braccia, einer alten Einheit. Der Ring kam auf 11.600 davon, nach heutigem Maß etwa sieben Kilometer. Ab 1348 wuchs er nicht mehr weiter. In jenem Jahr kam die Pest in die Stadt, und Siena verlor sehr viele Menschen. Danach brauchte niemand mehr Platz hinter der Mauer. Die Linie, an der sie damals aufhörten, gehst du heute ab.",
-        "en" : "Siena measured its wall in braccia, an old unit. The ring came to 11,600 of them, about seven kilometres in today's units. After 1348 it never grew again. The plague reached the city that year and Siena lost a great many people. Nobody needed more room behind the wall after that. The line they stopped at is the one you walk today."
+        "de" : "Die Mauern schauen nach Florenz. Fast alle erhaltenen Türme drängen sich auf einem kurzen Stück im Osten, zwischen Porta Camollia und Porta Pispini. Von dort kamen die Heere aus Florenz, und für den Rest des Rings wacht ein Turm allein. Rund 7 km misst der Ring. Im Jahr 1348, dem Jahr des Schwarzen Todes, hörte er auf zu wachsen, weil die Stadt keinen Platz mehr brauchte.",
+        "en" : "The walls themselves look towards Florence. Almost every surviving tower crowds onto a short eastern stretch between Porta Camollia and Porta Pispini. That is where Florence's armies came from, while a lone tower watches the rest of the ring. It runs about 7 km around. The ring stopped growing in 1348, the year of the Black Death, because the city needed no more room."
       },
       "localizedStory" : {
-        "de" : "Acht Haupttore öffnen sich in dieser Mauer, und der ganze Ring misst rund sieben Kilometer um die Altstadt.",
-        "en" : "Eight main gates open in this wall, and the whole ring runs about seven kilometres around the Old Town."
+        "de" : "Man erzählt, dass in nebligen Nächten der Geist eines Ritters aus den alten Kriegen gegen Florenz über diese Mauern wandert.",
+        "en" : "People say that on foggy nights the ghost of a knight from the old wars with Florence walks along these walls."
       },
       "name" : "Mura di Siena",
       "pos" : [
         43.326648,
         11.327778
       ],
-      "story" : "Eight main gates open in this wall, and the whole ring runs about seven kilometres around the Old Town."
+      "story" : "People say that on foggy nights the ghost of a knight from the old wars with Florence walks along these walls."
     },
     {
-      "extendedStory" : "The wall got two gates here at nearly the same time, this one and Porta Tufi. Sienese know it by a second name as well, the Porta delle Maremme. In the 16th century Baldassarre Peruzzi strengthened it, long after it was built. Walk up from Via San Marco and you pass through both building ages at once.",
+      "extendedStory" : "Dante named it too. Locals say it soaks cellars between Pian dei Mantellini and here, which is why their walls stay damp. Now look above the outer arch for a round medallion carrying three letters, IHS: St Bernardino's personal monogram. Baldassarre Peruzzi strengthened this entrance in the 16th century. You may also hear it called Porta delle Maremme, and builders cut it in the same years as Porta Tufi.",
       "icon" : "everyday",
       "id" : "f-porta-san-marco",
       "kind" : "gate_tower",
       "localizedExtendedStory" : {
-        "de" : "Die Mauer bekam hier zwei Tore fast gleichzeitig, dieses und die Porta Tufi. Die Sienesen kennen es unter einem zweiten Namen, Porta delle Maremme. Im 16. Jahrhundert verstärkte Baldassarre Peruzzi das Tor. Wer heute von der Via San Marco heraufkommt, geht durch beide Bauzeiten auf einmal.",
-        "en" : "The wall got two gates here at nearly the same time, this one and Porta Tufi. Sienese know it by a second name as well, the Porta delle Maremme. In the 16th century Baldassarre Peruzzi strengthened it, long after it was built. Walk up from Via San Marco and you pass through both building ages at once."
+        "de" : "Sogar Dante erwähnt ihn, und man sagt, er mache die Kellerwände zwischen Pian dei Mantellini und diesem Tor feucht. Schau jetzt über den äußeren Torbogen. Dort sitzt ein rundes Medaillon mit den Buchstaben IHS, dem persönlichen Zeichen des heiligen Bernhardin von Siena. Das Tor entstand um 1325, und im 16. Jahrhundert verstärkte es Baldassarre Peruzzi. Sein zweiter Name lautet Porta delle Maremme.",
+        "en" : "Dante named it too. Locals say it soaks cellars between Pian dei Mantellini and here, which is why their walls stay damp. Now look above the outer arch for a round medallion carrying three letters, IHS: St Bernardino's personal monogram. Baldassarre Peruzzi strengthened this entrance in the 16th century. You may also hear it called Porta delle Maremme, and builders cut it in the same years as Porta Tufi."
       },
       "localizedStory" : {
-        "de" : "Dieses Tor trägt einen zweiten Namen: Porta delle Maremme. Geöffnet wurde es 1325.",
-        "en" : "This gate carries a second name, the Porta delle Maremme. It was opened in the wall in 1325."
+        "de" : "Man erzählt von der Diana, einem Fluss tief unter der Stadt. Die Sienesen suchten ihn lange und fanden ihn nie.",
+        "en" : "People say a hidden river called the Diana flows beneath these streets. The Sienese hunted for it and never found it."
       },
       "name" : "Porta San Marco",
       "pos" : [
         43.31191,
         11.325101
       ],
-      "story" : "This gate carries a second name, the Porta delle Maremme. It was opened in the wall in 1325."
+      "story" : "People say a hidden river called the Diana flows beneath these streets. The Sienese hunted for it and never found it."
     },
     {
-      "extendedStory" : "Three religious orders held this church in turn. Benedictine monks of the Silvestrine branch had it at the start, then the Vallombrosans. Around the middle of the 15th century the Dominican friars took over. Between 1498 and 1530 they rebuilt the church almost completely. The square in front has carried its name ever since.",
+      "extendedStory" : "The neighbours decorate her in the days before the Virgin's birthday. Neighbouring contrade, the city's districts, compete to dress the finer shrine. The church that names the square went to Silvestrine monks, and later to Vallombrosan ones. Then the Dominicans took it over. They rebuilt it almost completely between 1498 and 1530, and that is the church you see today.",
       "icon" : "choice",
       "id" : "f-piazza-santo-spirito",
       "kind" : "square",
       "localizedExtendedStory" : {
-        "de" : "Drei Orden hatten diese Kirche nacheinander in der Hand. Zuerst kamen Benediktinermönche der Silvestriner, dann die Vallombrosaner. Um die Mitte des 15. Jahrhunderts übernahmen die Dominikaner. Zwischen 1498 und 1530 bauten sie die Kirche fast vollständig neu. Der Platz davor trägt ihren Namen bis heute.",
-        "en" : "Three religious orders held this church in turn. Benedictine monks of the Silvestrine branch had it at the start, then the Vallombrosans. Around the middle of the 15th century the Dominican friars took over. Between 1498 and 1530 they rebuilt the church almost completely. The square in front has carried its name ever since."
+        "de" : "Das passiert in den Tagen vor dem Geburtstag der Jungfrau Maria. Benachbarte Contraden, also Stadtviertel, wetteifern darum, wer den schöneren Schrein schmückt. Die Kirche, die dem Platz den Namen gibt, gehörte anfangs Mönchen der Silvestriner, später den Vallombrosanern. Dann kamen die Dominikaner. Zwischen 1498 und 1530 bauten sie die Kirche fast vollständig neu.",
+        "en" : "The neighbours decorate her in the days before the Virgin's birthday. Neighbouring contrade, the city's districts, compete to dress the finer shrine. The church that names the square went to Silvestrine monks, and later to Vallombrosan ones. Then the Dominicans took it over. They rebuilt it almost completely between 1498 and 1530, and that is the church you see today."
       },
       "localizedStory" : {
-        "de" : "Der Platz trägt den Namen seiner Kirche, die Dominikaner zwischen 1498 und 1530 neu bauten.",
-        "en" : "The square is named for its church, which Dominican friars rebuilt between 1498 and 1530."
+        "de" : "Jeden September wird in der Gasse an der Rückseite der Kirche eine kleine Madonna am Wegrand festlich geschmückt. Ihr Spitzname: Madonna di Finimondo.",
+        "en" : "Each September a little roadside Madonna in the alley at the back of the church gets dressed up. Locals call her the Madonna di Finimondo."
       },
       "name" : "Piazza Santo Spirito",
       "pos" : [
         43.317821,
         11.337298
       ],
-      "story" : "The square is named for its church, which Dominican friars rebuilt between 1498 and 1530."
+      "story" : "Each September a little roadside Madonna in the alley at the back of the church gets dressed up. Locals call her the Madonna di Finimondo."
     },
     {
-      "extendedStory" : "Before 1954 the traders laid out their goods in Piazza del Mercato, right behind the town hall. That square had an older trade before them. It was the foro boario, the city's cattle market. Anyone after a cow went there to haggle. Then the stalls moved up to this avenue, and here they stayed.",
+      "extendedStory" : "Picture thirty-two brick pillars under one wooden roof, and the tortoise shell makes sense. Before the move, that square was the city's cattle market, the foro boario. This spot has a past of its own. In the 16th century, beside the Fortezza Medicea, riders jousted here and trained their horses in a riding school.",
       "icon" : "everyday",
       "id" : "f-mercato-delle-merci",
       "kind" : "market",
       "localizedExtendedStory" : {
-        "de" : "Vor 1954 breiteten die Händler ihre Waren auf der Piazza del Mercato aus, gleich hinter dem Rathaus. Dieser Platz hatte davor ein noch älteres Geschäft. Dort stand der foro boario, der Viehmarkt der Stadt. Wer Rinder kaufen wollte, ging dorthin. Dann zogen die Stände herauf an diese Allee und blieben.",
-        "en" : "Before 1954 the traders laid out their goods in Piazza del Mercato, right behind the town hall. That square had an older trade before them. It was the foro boario, the city's cattle market. Anyone after a cow went there to haggle. Then the stalls moved up to this avenue, and here they stayed."
+        "de" : "Stell dir zweiunddreißig Ziegelpfeiler unter einem gemeinsamen Holzdach vor, dann passt der Panzer. Vor dem Umzug war jener Platz der Viehmarkt der Stadt, der Foro Boario. Auch dieser Grund hat seine Geschichte. Im 16. Jahrhundert ritten hier bei der Fortezza Medicea Ritter im Turnier, und eine Reitschule trainierte ihre Pferde.",
+        "en" : "Picture thirty-two brick pillars under one wooden roof, and the tortoise shell makes sense. Before the move, that square was the city's cattle market, the foro boario. This spot has a past of its own. In the 16th century, beside the Fortezza Medicea, riders jousted here and trained their horses in a riding school."
       },
       "localizedStory" : {
-        "de" : "Sienas Straßenmarkt zog 1954 hierher an die Allee, weg vom alten Platz hinter dem Rathaus.",
-        "en" : "Siena's street market moved up to this avenue in 1954, out of the old square behind the town hall."
+        "de" : "Bis 1954 stand dieser Markt hinter dem Rathaus. Die Halle, die er dort zurückließ, hat den Spitznamen Tartarugone, die große Schildkröte.",
+        "en" : "Until 1954 this market stood behind the town hall. The hall it left there is known as the tartarugone, the big tortoise."
       },
       "name" : "Mercato delle Merci",
       "pos" : [
         43.322045,
         11.324935
       ],
-      "story" : "Siena's street market moved up to this avenue in 1954, out of the old square behind the town hall."
+      "story" : "Until 1954 this market stood behind the town hall. The hall it left there is known as the tartarugone, the big tortoise."
     },
     {
-      "extendedStory" : "The church on this square keeps two big pieces of painted wall. They once hung outdoors on the city gates. One came off Porta Romana, the other off Porta dei Pispini. The building itself had a long run of bad luck. Fire tore through it in 1655 and it stayed battered for more than two centuries.",
+      "extendedStory" : "They turned up a few days later in a poor box at a church nearby. An ordinary wafer falls to dust within a couple of years. Inside, nothing breaks your view: the Egyptian cross plan gives one vast nave and transept, with no side chapels. The Franciscans needed room for enormous crowds. A fire in 1655 wrecked the church, and it stayed in poor shape for over two centuries.",
       "icon" : "everyday",
       "id" : "f-piazza-san-francesco",
       "kind" : "square",
       "localizedExtendedStory" : {
-        "de" : "Die Kirche an diesem Platz bewahrt zwei große Stücke bemalter Wand. Sie hingen einmal draußen an den Stadttoren. Eines kam von der Porta Romana, das andere von der Porta dei Pispini. Dem Bau selbst erging es lange schlecht. Das Feuer von 1655 richtete ihn übel zu, und über zwei Jahrhunderte blieb er so.",
-        "en" : "The church on this square keeps two big pieces of painted wall. They once hung outdoors on the city gates. One came off Porta Romana, the other off Porta dei Pispini. The building itself had a long run of bad luck. Fire tore through it in 1655 and it stayed battered for more than two centuries."
+        "de" : "Wenige Tage später lagen sie im Opferstock einer Kirche in der Nähe. Eine gewöhnliche Hostie zerfällt in etwa zwei Jahren zu Staub. Drinnen stört nichts den Blick: Der Grundriss ist ein ägyptisches Kreuz, ein riesiges Schiff mit Querhaus und ohne Seitenkapellen. Die Franziskaner brauchten Platz für gewaltige Menschenmengen. Ein Brand verwüstete die Kirche 1655, und danach blieb sie über zwei Jahrhunderte in schlechtem Zustand.",
+        "en" : "They turned up a few days later in a poor box at a church nearby. An ordinary wafer falls to dust within a couple of years. Inside, nothing breaks your view: the Egyptian cross plan gives one vast nave and transept, with no side chapels. The Franciscans needed room for enormous crowds. A fire in 1655 wrecked the church, and it stayed in poor shape for over two centuries."
       },
       "localizedStory" : {
-        "de" : "Ein Brand von 1655 ließ die Kirche an diesem Platz über zweihundert Jahre lang beschädigt zurück.",
-        "en" : "A fire in 1655 left the church on this square in a poor state for more than two hundred years."
+        "de" : "Diebe stahlen 1730 geweihte Hostien aus dieser Kirche. Man erzählt, sie seien bis heute nicht zerfallen, nach fast drei Jahrhunderten.",
+        "en" : "Thieves stole holy wafers from this church in 1730. The story goes they still have not crumbled, centuries later."
       },
       "name" : "Piazza San Francesco",
       "pos" : [
         43.322019,
         11.333994
       ],
-      "story" : "A fire in 1655 left the church on this square in a poor state for more than two hundred years."
+      "story" : "Thieves stole holy wafers from this church in 1730. The story goes they still have not crumbled, centuries later."
     },
     {
-      "extendedStory" : "Something guarded this spot long before the stonework. An earthwork went up here in 1258 under the podestà Bonifazio da Bologna, and from it the city began spreading outward. Masonry followed around 1325. A Sienese chronicler grumbles that even in 1327 just a portion stood finished. The travertine doorway is credited to Agnolo di Ventura. Its name looks outward, toward a hamlet called I Tufi that answered to that name until the late 1800s.",
+      "extendedStory" : "A chronicle from 1327 admits just part of it stood finished then. Agnolo di Ventura is credited with its design. Much earlier, in 1258, an earthwork rose right here, and Siena began spreading outward. Its name points to a spot called I Tufi, out on that old road, strada delle castellacce. So this is where the town pushed past its old edge.",
       "icon" : "everyday",
       "id" : "f-porta-tufi",
       "kind" : "gate_tower",
       "localizedExtendedStory" : {
-        "de" : "Das Tor liess sich Zeit. Schon 1258 stand hier ein Erdwerk, errichtet unter dem Podestà Bonifazio da Bologna, und von hier aus begann die Stadt zu wachsen. Um 1325 fing man in Stein an, und eine sienesische Chronik notiert, 1327 sei erst ein Teil fertig gewesen. Das Travertinportal schreibt man Agnolo di Ventura zu. Der Name weist nach draussen, auf einen Ort namens I Tufi, der bis ans Ende der 1800er-Jahre so hiess.",
-        "en" : "Something guarded this spot long before the stonework. An earthwork went up here in 1258 under the podestà Bonifazio da Bologna, and from it the city began spreading outward. Masonry followed around 1325. A Sienese chronicler grumbles that even in 1327 just a portion stood finished. The travertine doorway is credited to Agnolo di Ventura. Its name looks outward, toward a hamlet called I Tufi that answered to that name until the late 1800s."
+        "de" : "Eine Chronik aus Siena hält fest, dass 1327 nur ein Teil des Tors fertig war. Der Entwurf wird Agnolo di Ventura zugeschrieben, und das Tor gehört zum letzten Mauerring. Schon 1258 entstand hier ein Erdwall, und die Stadt wuchs nach außen. Der Name stammt von einem Ort namens I Tufi, draußen an einer Straße, die einst strada delle castellacce hieß.",
+        "en" : "A chronicle from 1327 admits just part of it stood finished then. Agnolo di Ventura is credited with its design. Much earlier, in 1258, an earthwork rose right here, and Siena began spreading outward. Its name points to a spot called I Tufi, out on that old road, strada delle castellacce. So this is where the town pushed past its old edge."
       },
       "localizedStory" : {
-        "de" : "1325 mit dem letzten Mauerring der Stadt gebaut und Agnolo di Ventura zugeschrieben.",
-        "en" : "Built in 1325 with the city's last ring of walls, and credited to Agnolo di Ventura."
+        "de" : "Schau hinauf zu den Zinnen. Es sind Guelfenzinnen, oben gerade abgeschnitten, und sie sitzen auf einer Reihe kleiner Hängebögen.",
+        "en" : "Look up at the battlements. Their square tops are Guelph merlons, and they perch on a row of tiny hanging arches."
       },
       "name" : "Porta Tufi",
       "pos" : [
         43.311669,
         11.332894
       ],
-      "story" : "Built in 1325 with the city's last ring of walls, and credited to Agnolo di Ventura."
+      "story" : "Look up at the battlements. Their square tops are Guelph merlons, and they perch on a row of tiny hanging arches."
     },
     {
-      "extendedStory" : "Two men are named for this gate: Agnolo di Ventura and Agostino di Giovanni, who raised it in 1327. Look up inside the arch and you will find the wall bare. The paint that once covered it went indoors long ago. What is left is the stonework those two set, and it is the part that never moved.",
+      "extendedStory" : "That way the doors could likely be opened one after the other. Agnolo di Ventura and Agostino di Giovanni raised the gate in 1327. Like the city's other gates, it was to carry a painted Virgin asking heaven to protect the city. Its Coronation of the Virgin, painted in the archway, was taken down in 1978 and moved into the Basilica di San Francesco.",
       "icon" : "choice",
       "id" : "f-porta-romana",
       "kind" : "gate_tower",
       "localizedExtendedStory" : {
-        "de" : "Agnolo di Ventura und Agostino di Giovanni errichteten dieses Tor 1327. Hoch im Bogen malte später jemand die Krönung Mariens. Dort blieb das Bild sehr lange, mitten im Wetter. 1978 hob man es von der Wand und trug es in die Basilica di San Francesco. Seither hängt es dort im Trockenen.",
-        "en" : "Two men are named for this gate: Agnolo di Ventura and Agostino di Giovanni, who raised it in 1327. Look up inside the arch and you will find the wall bare. The paint that once covered it went indoors long ago. What is left is the stonework those two set, and it is the part that never moved."
+        "de" : "So ließen sich die Tore vermutlich nacheinander öffnen. Agnolo di Ventura und Agostino di Giovanni errichteten das Tor 1327. Wie die anderen Stadttore sollte es eine gemalte Madonna tragen, die den Himmel um Schutz für die Stadt bittet. Die Krönung Mariens aus dem Torbogen wurde 1978 abgenommen und in die Basilika San Francesco gebracht.",
+        "en" : "That way the doors could likely be opened one after the other. Agnolo di Ventura and Agostino di Giovanni raised the gate in 1327. Like the city's other gates, it was to carry a painted Virgin asking heaven to protect the city. Its Coronation of the Virgin, painted in the archway, was taken down in 1978 and moved into the Basilica di San Francesco."
       },
       "localizedStory" : {
-        "de" : "Ein Bild der Madonna füllte einst diesen Torbogen. 1978 wurde es abgenommen und nach San Francesco gebracht.",
-        "en" : "A painting of the Virgin once filled this archway. In 1978 it came down and moved into San Francesco."
+        "de" : "Hier stecken zwei Tore in einem. Zwischen dem äußeren und dem höheren inneren Tor liegt ein kleiner Hof, umringt von Schießscharten.",
+        "en" : "Two gates hide in one here. Between the outer door and the taller inner one lies a small courtyard, ringed with arrowslits."
       },
       "name" : "Porta Romana",
       "pos" : [
         43.313254,
         11.339445
       ],
-      "story" : "A painting of the Virgin once filled this archway. In 1978 it came down and moved into San Francesco."
+      "story" : "Two gates hide in one here. Between the outer door and the taller inner one lies a small courtyard, ringed with arrowslits."
     }
   ],
-  "generatedAt" : "2026-09-21T07:39:13Z",
+  "generatedAt" : "2026-09-21T10:16:16Z",
   "icon" : {
     "paths" : [
       "M 42.00 30.00 L 58.00 30.00 L 58.00 88.00 L 42.00 88.00 Z M 39.00 84.00 L 61.00 84.00 L 61.00 88.00 L 39.00 88.00 Z M 25.00 18.00 L 75.00 18.00 L 75.00 32.00 L 25.00 32.00 Z M 30.00 30.00 L 70.00 30.00 L 70.00 34.00 L 30.00 34.00 Z M 20.00 10.00 L 28.00 10.00 L 28.00 18.00 L 20.00 18.00 Z M 33.00 10.00 L 41.00 10.00 L 41.00 18.00 L 33.00 18.00 Z M 46.00 10.00 L 54.00 10.00 L 54.00 18.00 L 46.00 18.00 Z M 59.00 10.00 L 67.00 10.00 L 67.00 18.00 L 59.00 18.00 Z M 72.00 10.00 L 80.00 10.00 L 80.00 18.00 L 72.00 18.00 Z"
@@ -15443,7 +15442,7 @@
     "en" : "Siena"
   },
   "name" : "Siena",
-  "packVersion" : 17,
+  "packVersion" : 18,
   "schemaVersion" : 1,
   "source" : "OpenStreetMap via Overpass API",
   "stats" : {

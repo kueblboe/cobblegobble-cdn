@@ -403,12 +403,9 @@
 
     ],
     "adjustedStreets" : [
-      "Piazza di Porta San Vitale",
-      "Via Irnerio",
-      "Via Zamboni",
-      "Via delle Belle Arti"
+
     ],
-    "fromVersion" : 31,
+    "fromVersion" : 32,
     "removedStreets" : [
 
     ]
@@ -21132,207 +21129,207 @@
   ],
   "fruits" : [
     {
-      "extendedStory" : "In 1790 Giovanni Battista Guglielmini climbed to the top with a ball of lead. He let it go and watched where it landed. It did not fall straight down, but drifted a little to the east. That small drift was his evidence that the Earth is turning under us. The tower carries the name of the Asinelli, and a document of 1185 already knew it.",
+      "extendedStory" : "Look up and you see it lean, more than two metres off true to the west. In 1790 Giovanni Battista Guglielmini carried a lead ball to the top and dropped it, to see where it would land. The ball drifted slightly east instead of falling straight down. That tiny drift showed that the Earth turns under your feet. Climb the steps yourself and think of that ball on its way down.",
       "icon" : "hero",
       "id" : "f-asinelli",
       "kind" : "gate_tower",
       "localizedExtendedStory" : {
-        "de" : "1790 stieg Giovanni Battista Guglielmini mit einer Bleikugel bis nach oben. Er ließ sie los und schaute, wo sie aufkam. Sie fiel nicht gerade nach unten, sondern wich ein wenig nach Osten ab. Diese kleine Abweichung war sein Beleg dafür, dass sich die Erde unter uns dreht. Der Turm trägt den Namen der Asinelli, und schon eine Urkunde von 1185 kannte ihn.",
-        "en" : "In 1790 Giovanni Battista Guglielmini climbed to the top with a ball of lead. He let it go and watched where it landed. It did not fall straight down, but drifted a little to the east. That small drift was his evidence that the Earth is turning under us. The tower carries the name of the Asinelli, and a document of 1185 already knew it."
+        "de" : "Schau hoch: Er neigt sich, mehr als zwei Meter nach Westen. 1790 trug Giovanni Battista Guglielmini eine Bleikugel hinauf und ließ sie oben fallen, um zu sehen, wo sie landet. Sie fiel nicht senkrecht nach unten, sondern trieb ein kleines Stück nach Osten ab. Damit war gezeigt, dass sich die Erde unter unseren Füßen dreht. Wer die vielen Stufen hochsteigt, kann an diese Kugel denken.",
+        "en" : "Look up and you see it lean, more than two metres off true to the west. In 1790 Giovanni Battista Guglielmini carried a lead ball to the top and dropped it, to see where it would land. The ball drifted slightly east instead of falling straight down. That tiny drift showed that the Earth turns under your feet. Climb the steps yourself and think of that ball on its way down."
       },
       "localizedStory" : {
-        "de" : "In diesem schiefen Backsteinturm winden sich 498 Stufen fast 97 Meter empor. Seit 1150 steht er über der Strada Maggiore.",
-        "en" : "Inside this leaning brick tower, 498 steps wind nearly 97 metres up. It has stood over Strada Maggiore since 1150."
+        "de" : "Der Sage nach scharrten zwei kleine Esel eines Bauern eine Truhe voll Gold und Silber aus dem Boden. Dieser Eselsschatz bezahlte den Turm.",
+        "en" : "Legend says a farmer's two little donkeys dug up a chest of gold and silver. That treasure of the donkeys paid for the tower."
       },
       "name" : "Asinelli",
       "pos" : [
         44.494134,
         11.346733
       ],
-      "story" : "Inside this leaning brick tower, 498 steps wind nearly 97 metres up. It has stood over Strada Maggiore since 1150."
+      "story" : "Legend says a farmer's two little donkeys dug up a chest of gold and silver. That treasure of the donkeys paid for the tower."
     },
     {
-      "extendedStory" : "The square measures 115 metres by 60, which is room enough for a crowd. Its middle is a little higher than the rest, a rectangle of white and pink granite laid in 1934. It stands 15 centimetres above the paving. Bologna calls it the crescentone, after the crescente, a salted flatbread from its own kitchens.",
+      "extendedStory" : "Now look down at a rectangle of white and pink granite, raised 15 centimetres above the rest of the square. Its nickname, crescentone, comes from the crescente, the salted flatbread of Bolognese cooking. The square itself took a long time to make. In 1200 the city council began buying up houses and land here to clear room for it. The granite came much later.",
       "icon" : "choice",
       "id" : "f-piazza-maggiore",
       "kind" : "square",
       "localizedExtendedStory" : {
-        "de" : "Der Platz misst 115 mal 60 Meter und ist damit weit. Seine Mitte liegt ein wenig höher, ein Rechteck aus weißem und rosa Granit, verlegt 1934. Es ragt 15 Zentimeter über das Pflaster. Bologna nennt es crescentone, nach der crescente, einem salzigen Fladenbrot aus der eigenen Küche.",
-        "en" : "The square measures 115 metres by 60, which is room enough for a crowd. Its middle is a little higher than the rest, a rectangle of white and pink granite laid in 1934. It stands 15 centimetres above the paving. Bologna calls it the crescentone, after the crescente, a salted flatbread from its own kitchens."
+        "de" : "Jetzt schau nach unten. Ein Rechteck aus weißem und rosa Granit liegt 15 Zentimeter höher als der Rest des Platzes. Seinen Namen Crescentone hat es von der Crescente, dem salzigen Fladenbrot der Bologneser Küche. Der Platz selbst entstand langsam. Ab 1200 kaufte die Stadt hier Häuser und Land auf, um Raum zu schaffen, und der Granit kam erst viel später.",
+        "en" : "Now look down at a rectangle of white and pink granite, raised 15 centimetres above the rest of the square. Its nickname, crescentone, comes from the crescente, the salted flatbread of Bolognese cooking. The square itself took a long time to make. In 1200 the city council began buying up houses and land here to clear room for it. The granite came much later."
       },
       "localizedStory" : {
-        "de" : "Bolognas großer Treffpunkt seit 1550. Alte Paläste umringen ihn, und gleich daneben plätschert der Neptunbrunnen.",
-        "en" : "Bologna's great meeting place since 1550. Grand old palaces ring it, and Neptune's Fountain splashes just beside."
+        "de" : "Man sagt, das Gewölbe unter dem Palast am Platz sei ein Telefon ohne Kabel. Flüstere in eine Ecke, und jemand hört dich in einer anderen.",
+        "en" : "The vault under the palace on this square is known as a wireless phone. Talk into one corner and a friend hears you from another."
       },
       "name" : "Piazza Maggiore",
       "pos" : [
         44.493672,
         11.343085
       ],
-      "story" : "Bologna's great meeting place since 1550. Grand old palaces ring it, and Neptune's Fountain splashes just beside."
+      "story" : "The vault under the palace on this square is known as a wireless phone. Talk into one corner and a friend hears you from another."
     },
     {
-      "extendedStory" : "Arturo Carpi drew this hall, and an engineer called Luigi Mellucci worked on it with him. What moved in under the roof were the treccole, the old food stalls of Bologna. They had traded out in the open on Piazza Maggiore, and they came here for good. The market opened its doors again in 1949, and the stalls have kept going ever since. A piece of the big square has been living indoors ever since.",
+      "extendedStory" : "These stalls have a history of moving house. The treccole, Bologna's old food stalls, once stood out on Piazza Maggiore, and this hall became their home for good. Arturo Carpi drew it in 1910 with the engineer Luigi Mellucci. It reopened in 1949, and its stalls are open to you today. Stand where the arms of the cross meet and look down each one in turn.",
       "icon" : "everyday",
       "id" : "f-mercato-delle-erbe",
       "kind" : "market",
       "localizedExtendedStory" : {
-        "de" : "Arturo Carpi entwarf die Halle, gemeinsam mit dem Ingenieur Luigi Mellucci. Unter das Dach zogen die treccole ein, Bolognas alte Lebensmittelstände. Sie hatten unter freiem Himmel auf der Piazza Maggiore gestanden und kamen für immer hierher. 1949 öffnete der Markt wieder, und die Stände halten seither durch. Ein Stück des großen Platzes wohnt seitdem im Haus.",
-        "en" : "Arturo Carpi drew this hall, and an engineer called Luigi Mellucci worked on it with him. What moved in under the roof were the treccole, the old food stalls of Bologna. They had traded out in the open on Piazza Maggiore, and they came here for good. The market opened its doors again in 1949, and the stalls have kept going ever since. A piece of the big square has been living indoors ever since."
+        "de" : "Diese Stände haben einen weiten Weg hinter sich. Die Treccole, Bolognas alte Lebensmittelstände, standen früher draußen auf der Piazza Maggiore. In dieser Halle fanden sie endlich ein festes Zuhause. Arturo Carpi entwarf die Halle 1910 mit dem Ingenieur Luigi Mellucci, wieder eröffnet wurde sie 1949. Stell dich dorthin, wo sich die Arme des Kreuzes treffen, und schau in jeden hinein.",
+        "en" : "These stalls have a history of moving house. The treccole, Bologna's old food stalls, once stood out on Piazza Maggiore, and this hall became their home for good. Arturo Carpi drew it in 1910 with the engineer Luigi Mellucci. It reopened in 1949, and its stalls are open to you today. Stand where the arms of the cross meet and look down each one in turn."
       },
       "localizedStory" : {
-        "de" : "Unter diesem Dach verkauft Bologna sein Gemüse und frische Lebensmittel. Die Halle wurde 1910 entworfen, an der Via San Gervasio.",
-        "en" : "Under this roof Bologna sells its greens and fresh food. The hall was drawn up in 1910, off Via San Gervasio."
+        "de" : "Drinnen liegt der Markt im Grundriss eines griechischen Kreuzes, überdacht von Eisen und Glas.",
+        "en" : "Walk in and the market opens out in the shape of a Greek cross, under a roof of iron and glass."
       },
       "name" : "Mercato delle Erbe",
       "pos" : [
         44.496177,
         11.338049
       ],
-      "story" : "Under this roof Bologna sells its greens and fresh food. The hall was drawn up in 1910, off Via San Gervasio."
+      "story" : "Walk in and the market opens out in the shape of a Greek cross, under a roof of iron and glass."
     },
     {
-      "extendedStory" : "Carlo Francesco Dotti drew the building. Work started in 1712, but the doors did not open to readers until 1756. That is forty-four years between the laying of the stone and the reading of the books. The shelves sit in the university quarter, where students have walked for centuries.",
+      "extendedStory" : "Sources disagree on the exact count, and he picked up local dialects on top. Behind the reading room that Carlo Francesco Dotti designed, the library hides a modern book tower. It holds about 400,000 volumes. A fully mechanized system fetches each book from its shelves. The reading room itself opened in 1756.",
       "icon" : "everyday",
       "id" : "f-biblioteca-universitaria",
       "kind" : "civic",
       "localizedExtendedStory" : {
-        "de" : "Carlo Francesco Dotti entwarf das Gebäude für die Universität. Der Bau begann 1712, doch erst 1756 durften Leser hinein. Zwischen Baubeginn und den Lesern lagen vierundvierzig Jahre. Die Regale stehen im Universitätsviertel an der Via Zamboni, wo seit Jahrhunderten Studenten unterwegs sind.",
-        "en" : "Carlo Francesco Dotti drew the building. Work started in 1712, but the doors did not open to readers until 1756. That is forty-four years between the laying of the stone and the reading of the books. The shelves sit in the university quarter, where students have walked for centuries."
+        "de" : "Die Quellen streiten über die exakte Zahl, und dazu kamen noch einige Dialekte aus der Gegend. Hinter dem Lesesaal von Carlo Francesco Dotti versteckt die Bibliothek einen modernen Bücherturm. Er fasst rund 400.000 Bände. Ein vollautomatisches System holt jedes Buch aus den Regalen. Der Lesesaal selbst öffnete 1756.",
+        "en" : "Sources disagree on the exact count, and he picked up local dialects on top. Behind the reading room that Carlo Francesco Dotti designed, the library hides a modern book tower. It holds about 400,000 volumes. A fully mechanized system fetches each book from its shelves. The reading room itself opened in 1756."
       },
       "localizedStory" : {
-        "de" : "Die Universitätsbibliothek Bolognas an der Via Zamboni. 1712 begonnen, 1756 für Leser geöffnet.",
-        "en" : "Bologna's university library on Via Zamboni. Begun in 1712 and opened to readers in 1756."
+        "de" : "Giuseppe Mezzofanti arbeitete für diese Bibliothek und beherrschte rund fünfzig Sprachen. Italien hat er dabei nie verlassen.",
+        "en" : "Giuseppe Mezzofanti worked for this library and mastered about fifty languages. He never once left Italy."
       },
       "name" : "Biblioteca Universitaria",
       "pos" : [
         44.497078,
         11.35302
       ],
-      "story" : "Bologna's university library on Via Zamboni. Begun in 1712 and opened to readers in 1756."
+      "story" : "Giuseppe Mezzofanti worked for this library and mastered about fifty languages. He never once left Italy."
     },
     {
-      "extendedStory" : "Before you go in, step under the covered walkway that runs along its side. That portico is credited to Antonio di Vincenzo, around 1392. The church itself had grown by then, made bigger in 1383 by Andrea da Faenza. Inside hangs a painted panel of the Maestà by Cimabue, from about 1285. It is older than the church that holds it.",
+      "extendedStory" : "Inside hangs a painted panel by Cimabue, a Maestà from about 1285. Maestà is Italian for majesty. Outside, the covered walkway along the church is credited to Antonio di Vincenzo. Andrea da Faenza made the building bigger in 1383, in the pointed Gothic style of his day. Walk under that covered way, then step inside and look for the old painted panel.",
       "icon" : "choice",
       "id" : "f-santa-maria-dei-servi",
       "kind" : "church",
       "localizedExtendedStory" : {
-        "de" : "Geh hinein, aber schau vorher unter den überdachten Gang an ihrer Seite. Dieser Portikus wird Antonio di Vincenzo zugeschrieben, um 1392. Die Kirche selbst war da schon gewachsen: 1383 vergrößerte sie Andrea da Faenza. Drinnen hängt eine Maestà-Tafel von Cimabue, von etwa 1285. Sie ist älter als die Kirche, die sie beherbergt.",
-        "en" : "Before you go in, step under the covered walkway that runs along its side. That portico is credited to Antonio di Vincenzo, around 1392. The church itself had grown by then, made bigger in 1383 by Andrea da Faenza. Inside hangs a painted panel of the Maestà by Cimabue, from about 1285. It is older than the church that holds it."
+        "de" : "Drinnen hängt eine bemalte Tafel von Cimabue, eine Maestà von etwa 1285. Maestà ist Italienisch für Majestät. Draußen zieht sich ein überdachter Gang an der Kirche entlang, er wird Antonio di Vincenzo zugeschrieben. Andrea da Faenza vergrößerte den gotischen Bau im Jahr 1383. Geh erst unter diesem Gang entlang, dann tritt ein und such die alte bemalte Tafel von Cimabue.",
+        "en" : "Inside hangs a painted panel by Cimabue, a Maestà from about 1285. Maestà is Italian for majesty. Outside, the covered walkway along the church is credited to Antonio di Vincenzo. Andrea da Faenza made the building bigger in 1383, in the pointed Gothic style of his day. Walk under that covered way, then step inside and look for the old painted panel."
       },
       "localizedStory" : {
-        "de" : "Eine Kirche von 1345 an der Strada Maggiore, nahe der alten Basilika Santo Stefano.",
-        "en" : "A church begun in 1345, standing on Strada Maggiore near the old Santo Stefano basilica."
+        "de" : "Einst hatte diese Kirche vier Orgeln. Heute ist nur noch eine übrig, und die ist viel jünger als die Kirche um sie herum.",
+        "en" : "Once this church had four organs. Today just one is left, and it is much younger than the church around it."
       },
       "name" : "Santa Maria dei Servi",
       "pos" : [
         44.49163,
         11.352607
       ],
-      "story" : "A church begun in 1345, standing on Strada Maggiore near the old Santo Stefano basilica."
+      "story" : "Once this church had four organs. Today just one is left, and it is much younger than the church around it."
     },
     {
-      "extendedStory" : "The name is not decoration: this theatre began its life with no roof at all. It was the house given over to daytime shows, so the plays ran by sunlight. Carlo Aspari drew it, and Pietro Bonini had it built. The benches filled with workers, cigar-makers, laundresses and porters. They sat more equally here than in the old theatres of private boxes.",
+      "extendedStory" : "Workers, cigar-makers, laundresses and porters filled the benches. They sat more equally than people did in the old box theatres. Carlo Aspari drew the building, and Pietro Bonini had it built. For its 1995 reopening it got a wooden floor in pieces that a hydraulic machine raises. Lifted up, the stalls meet the stage, and the stage grows to 25 metres long.",
       "icon" : "choice",
       "id" : "f-teatro-arena-del-sole",
       "kind" : "theatre",
       "localizedExtendedStory" : {
-        "de" : "Der Name ist keine Zierde: Dieses Theater begann ganz ohne Dach. Es war das Haus für die Vorstellungen am Tag, gespielt wurde also im Sonnenlicht. Carlo Aspari entwarf es, und Pietro Bonini ließ es bauen. Auf den Bänken saßen Arbeiter, Zigarrenmacherinnen, Wäscherinnen und Träger. Sie saßen hier gleicher als in den alten Theatern mit ihren Logen.",
-        "en" : "The name is not decoration: this theatre began its life with no roof at all. It was the house given over to daytime shows, so the plays ran by sunlight. Carlo Aspari drew it, and Pietro Bonini had it built. The benches filled with workers, cigar-makers, laundresses and porters. They sat more equally here than in the old theatres of private boxes."
+        "de" : "Auf den Bänken saßen Arbeiter, Zigarrenmacherinnen, Wäscherinnen und Lastträger. Die Plätze waren hier gerechter verteilt als in den alten Logentheatern der Stadt. Carlo Aspari entwarf den Bau, Pietro Bonini ließ ihn errichten. Zur Wiedereröffnung 1995 bekam das Theater einen Holzboden aus Modulen, den eine Hydraulik anhebt. Hebt sie ihn an, wächst der Saal bis zur Bühne hinauf, und die Bühne wird 25 Meter lang.",
+        "en" : "Workers, cigar-makers, laundresses and porters filled the benches. They sat more equally than people did in the old box theatres. Carlo Aspari drew the building, and Pietro Bonini had it built. For its 1995 reopening it got a wooden floor in pieces that a hydraulic machine raises. Lifted up, the stalls meet the stage, and the stage grows to 25 metres long."
       },
       "localizedStory" : {
-        "de" : "Teatro Arena del Sole heißt 'Arena der Sonne'. Es wurde 1810 als Theater eröffnet, an der kleinen Piazzetta Dino Sarti.",
-        "en" : "The Arena del Sole means the 'Arena of the Sun'. It opened as a theatre in 1810, on the little Piazzetta Dino Sarti."
+        "de" : "Arena der Sonne: Hier liefen die Stücke bei Tageslicht, auf einer Bühne ohne Dach, unter freiem Himmel.",
+        "en" : "Arena of the Sun: plays here ran by daylight, on a stage with no roof, open to the sky."
       },
       "name" : "Teatro Arena del Sole",
       "pos" : [
         44.499582,
         11.343881
       ],
-      "story" : "The Arena del Sole means the 'Arena of the Sun'. It opened as a theatre in 1810, on the little Piazzetta Dino Sarti."
+      "story" : "Arena of the Sun: plays here ran by daylight, on a stage with no roof, open to the sky."
     },
     {
-      "extendedStory" : "The drawing behind that front is probably Baldassarre Peruzzi's. Look up and you will see a band of stone running right across it. That band was Lazzaro Casario's idea, added in 1584. Then step and look into the courtyard, where Roman stone tablets are set into the wall. They record the baths that Augustus founded here, back when the city was called Bononia.",
+      "extendedStory" : "A copy of Bartolomeo Cesi's portrait of him hangs on the stairs, at the mezzanine landing. The original was lost to a fire. In the entrance hall at number 28, a plaque marks that Tsar Nicholas I of Russia once passed through here, in 1845. Out in the courtyard, Roman stone tablets are set into the wall. They record baths that the emperor Augustus founded in Bononia, Roman Bologna.",
       "icon" : "everyday",
       "id" : "f-palazzo-albergati",
       "kind" : "palace",
       "localizedExtendedStory" : {
-        "de" : "Der Entwurf stammt wohl von Baldassarre Peruzzi. Schau nach oben: Ein steinernes Band zieht sich quer über die Front. Es geht auf eine Idee von Lazzaro Casario zurück, von 1584. Und schau in den Hof, wo römische Steintafeln in der Mauer sitzen. Sie halten die Thermen fest, die Augustus hier gründete, als die Stadt Bononia hieß.",
-        "en" : "The drawing behind that front is probably Baldassarre Peruzzi's. Look up and you will see a band of stone running right across it. That band was Lazzaro Casario's idea, added in 1584. Then step and look into the courtyard, where Roman stone tablets are set into the wall. They record the baths that Augustus founded here, back when the city was called Bononia."
+        "de" : "Eine Kopie seines Porträts von Bartolomeo Cesi hängt am Zwischenpodest der Treppe. Das Original ging in einem Feuer verloren. In der Eingangshalle bei Nummer 28 erinnert eine Tafel an Zar Nikolaus von Russland, der 1845 hier durchkam. Im Hof sind römische Steintafeln in die Mauer eingelassen. Sie erzählen von Thermen, die Kaiser Augustus im römischen Bononia stiftete, dem Bologna der Römerzeit.",
+        "en" : "A copy of Bartolomeo Cesi's portrait of him hangs on the stairs, at the mezzanine landing. The original was lost to a fire. In the entrance hall at number 28, a plaque marks that Tsar Nicholas I of Russia once passed through here, in 1845. Out in the courtyard, Roman stone tablets are set into the wall. They record baths that the emperor Augustus founded in Bononia, Roman Bologna."
       },
       "localizedStory" : {
-        "de" : "Geh die Via Saragozza entlang, und du kommst an einem Bau vorbei, dem die Albergati seit etwa 1520 ihren Namen geben.",
-        "en" : "Walk along Via Saragozza and you pass a grand front the Albergati have given their name to since about 1520."
+        "de" : "Man sagt, der selige Niccolò Albergati habe wundersame Tugenden gehabt. Bologna und Florenz hielten seinen Ruhm jahrhundertelang lebendig.",
+        "en" : "People say the Blessed Niccolò Albergati had miraculous virtues. Bologna and Florence kept his fame alive for centuries."
       },
       "name" : "Palazzo Albergati",
       "pos" : [
         44.489814,
         11.334476
       ],
-      "story" : "Walk along Via Saragozza and you pass a grand front the Albergati have given their name to since about 1520."
+      "story" : "People say the Blessed Niccolò Albergati had miraculous virtues. Bologna and Florence kept his fame alive for centuries."
     },
     {
-      "extendedStory" : "The tower stands 61 metres tall, and it went up in the second half of the twelfth century. The family it is named for, the Azzoguidi, appear in Bologna's written records from 1228. Bologna once bristled with towers like this one. About twenty of them are still standing in the old centre.",
+      "extendedStory" : "A shop once put it in real danger. In the 19th century a shop moved into its base and made the door bigger. Cutting that opening thinned the walls so much that the tower's stability was at risk. It survived, and today it is one of about 20 family towers still standing in the centre. The Azzoguidi, the family behind its name, turn up in the city's chronicles in the Middle Ages.",
       "icon" : "choice",
       "id" : "f-torre-degli-azzoguidi",
       "kind" : "gate_tower",
       "localizedExtendedStory" : {
-        "de" : "Der Turm ist 61 Meter hoch und entstand in der zweiten Hälfte des zwölften Jahrhunderts. Die Familie, nach der er heißt, die Azzoguidi, taucht ab 1228 in Bolognas Aufzeichnungen auf. Früher standen in Bologna viele solcher Türme. Etwa zwanzig davon stehen heute noch in der Altstadt.",
-        "en" : "The tower stands 61 metres tall, and it went up in the second half of the twelfth century. The family it is named for, the Azzoguidi, appear in Bologna's written records from 1228. Bologna once bristled with towers like this one. About twenty of them are still standing in the old centre."
+        "de" : "Ein Laden brachte ihn einmal in echte Gefahr. Im neunzehnten Jahrhundert zog ein Geschäft in den Sockel und vergrößerte die Tür. Dadurch wurden seine Mauern so dünn, dass die Standfestigkeit des Turms in Gefahr geriet. Er hat es überstanden, und heute ist er einer von rund 20 Familientürmen, die im alten Zentrum noch stehen. Die Familie Azzoguidi taucht schon im Mittelalter in den Chroniken der Stadt auf.",
+        "en" : "A shop once put it in real danger. In the 19th century a shop moved into its base and made the door bigger. Cutting that opening thinned the walls so much that the tower's stability was at risk. It survived, and today it is one of about 20 family towers still standing in the centre. The Azzoguidi, the family behind its name, turn up in the city's chronicles in the Middle Ages."
       },
       "localizedStory" : {
-        "de" : "Der Torre degli Azzoguidi ragt 61 Meter hoch. Einer von etwa zwanzig Geschlechtertürmen, die Bologna noch hat.",
-        "en" : "The Torre degli Azzoguidi rises 61 metres. One of about twenty family towers Bologna still has standing."
+        "de" : "Schau hoch. Sein Spitzname ist die hohe Schöne, wegen seiner Höhe und seiner geraden, eleganten Gestalt.",
+        "en" : "Look up. Locals call this tower the tall beauty, for its height and its straight, elegant line."
       },
       "name" : "Torre degli Azzoguidi",
       "pos" : [
         44.495199,
         11.344343
       ],
-      "story" : "The Torre degli Azzoguidi rises 61 metres. One of about twenty family towers Bologna still has standing."
+      "story" : "Look up. Locals call this tower the tall beauty, for its height and its straight, elegant line."
     },
     {
-      "extendedStory" : "This gate belonged to the third ring of walls that Bologna built around itself. Antonio Paltroni rebuilt it in 1508. For centuries it had walls running away on either side. Those came down in the early 1900s, and the gate was left standing on its own. That is why it stands by itself today, a gate with no wall to guard.",
+      "extendedStory" : "An odd trophy left from here once: a bucket. In 1325 soldiers from Modena carried it off from the spring beside this gate. The stolen bucket, la secchia rapita, became famous. The gate guarded the western road into town, the Via Emilia. When the walls on either side came down in the early 1900s, it was left standing on its own.",
       "icon" : "everyday",
       "id" : "f-porta-san-felice",
       "kind" : "gate_tower",
       "localizedExtendedStory" : {
-        "de" : "Dieses Tor gehörte zum dritten Mauerring, den Bologna um sich legte. Antonio Paltroni baute es 1508 um. Jahrhundertelang liefen links und rechts von ihm die Stadtmauern weiter. In den frühen 1900er Jahren wurden sie abgetragen, und das Tor blieb allein zurück. Darum steht es heute für sich, ein Tor ohne Mauer.",
-        "en" : "This gate belonged to the third ring of walls that Bologna built around itself. Antonio Paltroni rebuilt it in 1508. For centuries it had walls running away on either side. Those came down in the early 1900s, and the gate was left standing on its own. That is why it stands by itself today, a gate with no wall to guard."
+        "de" : "Von hier stammt eine seltsame Beute: ein Eimer. 1325 nahmen Soldaten aus Modena ihn an der Quelle neben dem Tor mit. Der geraubte Eimer, la secchia rapita, wurde berühmt. Das Tor bewachte den Zugang von Westen, dort kam die Via Emilia in die Stadt. Seit Anfang der 1900er Jahre die Mauern links und rechts fielen, steht es ganz allein da.",
+        "en" : "An odd trophy left from here once: a bucket. In 1325 soldiers from Modena carried it off from the spring beside this gate. The stolen bucket, la secchia rapita, became famous. The gate guarded the western road into town, the Via Emilia. When the walls on either side came down in the early 1900s, it was left standing on its own."
       },
       "localizedStory" : {
-        "de" : "Bolognas westliches Stadttor seit 1250, hin zur Via Emilia. Das war die alte Römerstraße aus der Stadt.",
-        "en" : "Bologna's western gate since 1250, opening onto the Via Emilia. The old Roman road out of town."
+        "de" : "1805 bot man Napoleon kurz vor diesem Tor die Schlüssel der Stadt an. Er lehnte ab. Die seien schon in guten Händen, sagte er.",
+        "en" : "In 1805 Napoleon was offered the keys to the city outside this gate. He turned them down: they were already in good hands."
       },
       "name" : "Porta San Felice",
       "pos" : [
         44.499233,
         11.327234
       ],
-      "story" : "Bologna's western gate since 1250, opening onto the Via Emilia. The old Roman road out of town."
+      "story" : "In 1805 Napoleon was offered the keys to the city outside this gate. He turned them down: they were already in good hands."
     },
     {
-      "extendedStory" : "Bologna wrapped itself in walls three times over, and this tower belonged to the second ring. The city calls that ring the cerchia del mille, the ring of the thousand. Work on it began in the late twelfth century. A torresotto is a gate-tower set into the wall, watching whoever came through. Stand under it and you are standing in what was once a hole in the wall.",
+      "extendedStory" : "Picture that wall running right round the city. It stood 8 metres high, and 16 gates like this one cut through it. Besides them there were just two small back doors, called posterns, for slipping in and out. The city began the ring in the Middle Ages. Today this gate tower still stands on Via Portanova, and you can walk right under it.",
       "icon" : "everyday",
       "id" : "f-torresotto-di-porta-nuova",
       "kind" : "gate_tower",
       "localizedExtendedStory" : {
-        "de" : "Bologna legte sich dreimal Mauern um, und dieser Turm gehörte zum zweiten Ring. Die Stadt nennt ihn die cerchia del mille, den Ring der Tausend. Begonnen wurde er im späten 12. Jahrhundert. Ein torresotto ist ein Torturm in der Mauer, der jeden sah, der durchkam. Wer heute darunter steht, steht in einer alten Lücke in der Mauer.",
-        "en" : "Bologna wrapped itself in walls three times over, and this tower belonged to the second ring. The city calls that ring the cerchia del mille, the ring of the thousand. Work on it began in the late twelfth century. A torresotto is a gate-tower set into the wall, watching whoever came through. Stand under it and you are standing in what was once a hole in the wall."
+        "de" : "Stell dir die Mauer vor, wie sie rund um die Stadt lief. Sie war ganze 8 Meter hoch, und 16 Tore wie dieses führten hindurch. Dazu kamen nur zwei kleine Nebenpforten zum Hinein- und Hinausschlüpfen. Begonnen hat die Stadt den Ring im Mittelalter. Dieser Torturm steht noch heute an der Via Portanova, und du gehst direkt unter ihm hindurch.",
+        "en" : "Picture that wall running right round the city. It stood 8 metres high, and 16 gates like this one cut through it. Besides them there were just two small back doors, called posterns, for slipping in and out. The city began the ring in the Middle Ages. Today this gate tower still stands on Via Portanova, and you can walk right under it."
       },
       "localizedStory" : {
-        "de" : "Dieses Stadttor steht seit 1150 über der Via Portanova, nur einen kurzen Weg vom Mercato delle Erbe entfernt.",
-        "en" : "This gate-tower has stood over Via Portanova since 1150, a short walk from the Mercato delle Erbe."
+        "de" : "Durch dieses Torhaus ging es einst durch Bolognas zweiten Mauerring. Die Stadt nennt ihn bis heute den Ring der Tausend.",
+        "en" : "This gate tower once let people through Bologna's second ring of walls. The city still calls it the ring of the thousand."
       },
       "name" : "Torresotto di Porta Nuova",
       "pos" : [
         44.494328,
         11.336788
       ],
-      "story" : "This gate-tower has stood over Via Portanova since 1150, a short walk from the Mercato delle Erbe."
+      "story" : "This gate tower once let people through Bologna's second ring of walls. The city still calls it the ring of the thousand."
     }
   ],
-  "generatedAt" : "2026-09-21T07:39:03Z",
+  "generatedAt" : "2026-09-21T14:39:48Z",
   "icon" : {
     "paths" : [
       "M34 84 L34 12 L39 12 L39 17 L43 17 L43 12 L48 12 L48 84 Z M56 84 L66 38 L66 33 L71 33 L71 38 L75 38 L75 33 L80 33 L80 38 L70 84 Z M28 84 L78 84 L78 90 L28 90 Z"
@@ -21346,7 +21343,7 @@
     "it" : "Bologna"
   },
   "name" : "Bologna",
-  "packVersion" : 32,
+  "packVersion" : 33,
   "schemaVersion" : 1,
   "source" : "OpenStreetMap via Overpass API",
   "stats" : {

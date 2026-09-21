@@ -115,21 +115,11 @@
 
     ],
     "adjustedStreets" : [
-      "Arhiđakonova",
-      "Bajamontijeva",
-      "Ilirske akademije",
-      "Jarnovićeva",
-      "Marmontova ulica",
-      "Morpurgova poljana",
-      "Obala hrvatskog narodnog preporoda",
-      "Peristil",
-      "Trg Gaje Bulata"
+
     ],
-    "fromVersion" : 6,
+    "fromVersion" : 7,
     "removedStreets" : [
-      "Ilićev prolaz",
-      "Podrum",
-      "Židovski prolaz"
+
     ]
   },
   "cityId" : "split",
@@ -2620,127 +2610,127 @@
   ],
   "fruits" : [
     {
-      "extendedStory" : "Diocletian was an emperor who punished Christians. In the 7th century his tomb was turned into a church, and the altars were given the relics of Domnius and Anastasius. Both were martyrs who died at Solin, just up the road, in his own lifetime. So the emperor and the people he wronged now share one roof. The bell tower stands 57 metres tall and was begun in the 13th century.",
+      "extendedStory" : "Of all Europe's cathedrals, this one lives in the oldest building. The altars keep the relics of Domnius and Anastasius, saints from nearby Solin. Yet Rome's Basilica of St John Lateran claims a share of Domnius too, sent there at a pope's request. Out on the Peristyle rests a black granite sphinx from Egypt, commonly described as some thirty-five centuries old. Tradition says Diocletian had twelve of them brought for his palace.",
       "icon" : "hero",
       "id" : "f-katedrala-svetog-duje",
       "kind" : "church",
       "localizedExtendedStory" : {
-        "de" : "Diokletian war ein Kaiser, der Christen verfolgte. Im 7. Jahrhundert wurde sein Grabmal zur Kirche, und die Altäre erhielten die Reliquien von Domnius und Anastasius. Beide waren Märtyrer, die im nahen Solin zu seinen Lebzeiten starben. So teilen sich der Kaiser und jene, denen er Unrecht tat, heute ein Dach. Der Glockenturm ist 57 Meter hoch und wurde im 13. Jahrhundert begonnen.",
-        "en" : "Diocletian was an emperor who punished Christians. In the 7th century his tomb was turned into a church, and the altars were given the relics of Domnius and Anastasius. Both were martyrs who died at Solin, just up the road, in his own lifetime. So the emperor and the people he wronged now share one roof. The bell tower stands 57 metres tall and was begun in the 13th century."
+        "de" : "Keine Domkirche Europas hat ihren Sitz in einem älteren Gebäude. Auf den Altären liegen die Reliquien der Heiligen Domnius und Anastasius aus dem nahen Solin. Doch auch die Lateranbasilika in Rom beansprucht einen Teil von Domnius, geholt auf Wunsch eines Papstes. Draußen auf dem Peristyl ruht eine schwarze Granitsphinx aus Ägypten, gern auf rund 3500 Jahre geschätzt. Der Überlieferung nach ließ Diokletian zwölf davon für seinen Palast holen.",
+        "en" : "Of all Europe's cathedrals, this one lives in the oldest building. The altars keep the relics of Domnius and Anastasius, saints from nearby Solin. Yet Rome's Basilica of St John Lateran claims a share of Domnius too, sent there at a pope's request. Out on the Peristyle rests a black granite sphinx from Egypt, commonly described as some thirty-five centuries old. Tradition says Diocletian had twelve of them brought for his palace."
       },
       "localizedStory" : {
-        "de" : "Unter allen Kathedralen Europas steht diese im ältesten Gebäude. Erbaut wurde es als Grabmal für Kaiser Diokletian.",
-        "en" : "Of all the cathedrals in Europe, this one sits in the oldest building. It was built as a tomb for the emperor Diocletian."
+        "de" : "Ein Kaiser, der Christen verfolgte, baute sich hier sein Grabmal. Im 7. Jahrhundert machten die Christen daraus ihre Kathedrale.",
+        "en" : "An emperor who hunted Christians built this as his tomb. In the 7th century, the Christians turned it into their cathedral."
       },
       "name" : "katedrala svetog Duje",
       "pos" : [
         43.508029,
         16.440294
       ],
-      "story" : "Of all the cathedrals in Europe, this one sits in the oldest building. It was built as a tomb for the emperor Diocletian."
+      "story" : "An emperor who hunted Christians built this as his tomb. In the 7th century, the Christians turned it into their cathedral."
     },
     {
-      "extendedStory" : "The market did not always stand here. It began on the Fruit Square and outgrew it as the town filled with people who needed feeding. So it moved to the palace wall, where there was room. Today it runs the length of that wall and wraps around the church of St Dominic. Colour, smell and noise. This is the working end of the Old Town.",
+      "extendedStory" : "A bridge once led onto the market, and it did double duty as a black market. People came to swap German marks, cigarettes and jeans you could not buy anywhere else in town. The market itself had moved here from the Fruit Square. The town kept growing, more people needed more food, and the old square got too small for it.",
       "icon" : "everyday",
       "id" : "f-pazar",
       "kind" : "market",
       "localizedExtendedStory" : {
-        "de" : "Der Markt stand nicht immer hier. Er begann auf dem Obstplatz und wurde zu klein, als die Stadt wuchs und immer mehr Menschen zu versorgen waren. Also zog er an die Palastmauer, wo Platz war. Heute zieht er sich an dieser Mauer entlang und um die Kirche des Heiligen Dominik herum. Farben, Gerüche, Lärm. Hier arbeitet die Altstadt.",
-        "en" : "The market did not always stand here. It began on the Fruit Square and outgrew it as the town filled with people who needed feeding. So it moved to the palace wall, where there was room. Today it runs the length of that wall and wraps around the church of St Dominic. Colour, smell and noise. This is the working end of the Old Town."
+        "de" : "Früher führte eine Brücke auf den Markt, und auf ihr blühte ein Schwarzmarkt. Dort tauschten die Leute D-Mark, Zigaretten und Jeans, die es sonst nirgends in der Stadt gab. Ursprünglich lag der Markt auf dem Obstplatz. Doch die Stadt wuchs, immer mehr Leute brauchten immer mehr Lebensmittel, und der Platz wurde zu klein. Also zog der Markt hierher an die Palastmauer.",
+        "en" : "A bridge once led onto the market, and it did double duty as a black market. People came to swap German marks, cigarettes and jeans you could not buy anywhere else in town. The market itself had moved here from the Fruit Square. The town kept growing, more people needed more food, and the old square got too small for it."
       },
       "localizedStory" : {
-        "de" : "Die Spliter nennen diesen Markt den Magen der Stadt. Er zieht sich an der Ostmauer des Diokletianspalastes entlang und um eine Kirche herum.",
-        "en" : "Split calls this market the belly of the city. It runs along the east wall of Diocletian's palace and curls around a church."
+        "de" : "Die Spliter nennen diesen Markt den Magen der Stadt. Er zieht sich an der Ostmauer des Diokletianspalastes entlang und um die Dominikuskirche herum.",
+        "en" : "Split has a name for this market: the belly of the city. It hugs the palace's east wall and wraps around St Dominic's church."
       },
       "name" : "Pazar",
       "pos" : [
         43.507595,
         16.441625
       ],
-      "story" : "Split calls this market the belly of the city. It runs along the east wall of Diocletian's palace and curls around a church."
+      "story" : "Split has a name for this market: the belly of the city. It hugs the palace's east wall and wraps around St Dominic's church."
     },
     {
-      "extendedStory" : "The Romans called it Porta septemtrionalis, which simply means the northern gate. It dates from 293. The road leading out of it ran straight to Salona, in those days the capital of the Roman province of Dalmatia. The golden name came much later. Under Venice, in the 16th century, people began calling it Porta Aurea, and that is the name it kept.",
+      "extendedStory" : "Meet Grgur Ninski, cast in bronze by the sculptor Ivan Meštrović. Behind him, the gate once let through the emperor and his family, and nobody else. Their road ran straight to Salona, capital of the Roman province of Dalmatia. The Romans simply called it the northern gate, and Venice gave it the golden name later. Houses were built up against the palace wall, until they came down in 1857 and the gate opened again.",
       "icon" : "choice",
       "id" : "f-zlatna-vrata",
       "kind" : "gate_tower",
       "localizedExtendedStory" : {
-        "de" : "Die Römer nannten es Porta septemtrionalis, das heißt einfach Nordtor. Es stammt aus dem Jahr 293. Die Straße, die hier hinausführte, lief schnurstracks nach Salona, damals Hauptstadt der römischen Provinz Dalmatien. Der goldene Name kam viel später. Unter venezianischer Herrschaft nannte man es im 16. Jahrhundert Porta Aurea, und dabei blieb es.",
-        "en" : "The Romans called it Porta septemtrionalis, which simply means the northern gate. It dates from 293. The road leading out of it ran straight to Salona, in those days the capital of the Roman province of Dalmatia. The golden name came much later. Under Venice, in the 16th century, people began calling it Porta Aurea, and that is the name it kept."
+        "de" : "Gegossen hat ihn der Bildhauer Ivan Meštrović, und er zeigt Bischof Gregor aus Nin. Hinter ihm durften früher allein der Kaiser und seine Familie durch das Tor. Ihr Weg führte direkt nach Salona, der Hauptstadt der römischen Provinz Dalmatien. Die Römer nannten es schlicht Nordtor, den goldenen Namen bekam es später unter Venedig. Dann wuchsen Häuser dicht an die Palastmauer, bis man sie 1857 abriss und das Tor wieder öffnete.",
+        "en" : "Meet Grgur Ninski, cast in bronze by the sculptor Ivan Meštrović. Behind him, the gate once let through the emperor and his family, and nobody else. Their road ran straight to Salona, capital of the Roman province of Dalmatia. The Romans simply called it the northern gate, and Venice gave it the golden name later. Houses were built up against the palace wall, until they came down in 1857 and the gate opened again."
       },
       "localizedStory" : {
-        "de" : "Durch dieses Tor durften nur der Kaiser und seine Familie gehen. Heute darf es jeder. Davor steht ein bronzener Bischof, Gregor aus Nin.",
-        "en" : "The emperor and his family could walk through this gate. Nobody else could. Outside it stands a bronze bishop, Grgur Ninski."
+        "de" : "Vor dem Tor steht ein Bischof aus Bronze. Man sagt, sein großer Zeh bringt Glück, wenn du ihn reibst. Er ist längst blank gerieben.",
+        "en" : "Outside the gate stands a bronze bishop. People say rubbing his big toe brings luck, and so many hands have tried that it shines."
       },
       "name" : "Zlatna vrata",
       "pos" : [
         43.50918,
         16.440651
       ],
-      "story" : "The emperor and his family could walk through this gate. Nobody else could. Outside it stands a bronze bishop, Grgur Ninski."
+      "story" : "Outside the gate stands a bronze bishop. People say rubbing his big toe brings luck, and so many hands have tried that it shines."
     },
     {
-      "extendedStory" : "Look across the square and you will find an octagonal stone tower. It is what remains of a fort raised in the 15th century, when Split was still a small town. The palace came later, in the 17th century, with a baroque front of carved stone. Baroque means grand and full of curves. Farm women from the villages around once spread their fruit on this ground.",
+      "extendedStory" : "The wish works as long as nobody else walks through the passage at that moment. The octagonal tower is what is left of a 15th-century fort, built when the town was still small. Facing it is the baroque front of the Milesi family's house. Inside, its 18th-century fireplace was once listed as a protected monument all by itself. And the square takes its name, the Fruit Square, from the loud, colourful market where village women sold what they had grown.",
       "icon" : "choice",
       "id" : "f-palaca-milesi",
       "kind" : "fortress",
       "localizedExtendedStory" : {
-        "de" : "Schau über den Platz. Dort steht ein achteckiger Steinturm. Er ist der Rest einer Festung aus dem 15. Jahrhundert, als Split noch eine kleine Stadt war. Der Palast kam später, im 17. Jahrhundert, mit einer Barockfassade aus behauenem Stein. Barock heißt prunkvoll und voller Schwünge. Bäuerinnen aus den Dörfern ringsum breiteten hier einst ihr Obst aus.",
-        "en" : "Look across the square and you will find an octagonal stone tower. It is what remains of a fort raised in the 15th century, when Split was still a small town. The palace came later, in the 17th century, with a baroque front of carved stone. Baroque means grand and full of curves. Farm women from the villages around once spread their fruit on this ground."
+        "de" : "Dabei darf gerade niemand sonst hindurchgehen. Der achteckige Turm ist der Rest einer Festung aus dem 15. Jahrhundert, gebaut, als die Stadt noch klein war. Ihm gegenüber zeigt das Haus der alten Familie Milesi seine barocke Fassade. Drinnen stand der Kamin aus dem 18. Jahrhundert eine Zeit lang als eigenes Denkmal unter Schutz, getrennt vom Haus. Und im Volksmund heißt der Platz Obstplatz, nach dem lauten, bunten Markt, auf dem Bäuerinnen aus den Dörfern ihr Obst anboten.",
+        "en" : "The wish works as long as nobody else walks through the passage at that moment. The octagonal tower is what is left of a 15th-century fort, built when the town was still small. Facing it is the baroque front of the Milesi family's house. Inside, its 18th-century fireplace was once listed as a protected monument all by itself. And the square takes its name, the Fruit Square, from the loud, colourful market where village women sold what they had grown."
       },
       "localizedStory" : {
-        "de" : "Die Familie Milesi baute dieses Haus im 17. Jahrhundert. Der Platz davor heißt bis heute Obstplatz, nach dem Markt, der ihn einst füllte.",
-        "en" : "The Milesi family built this house in the 17th century. The square it faces is still the Fruit Square, after the market that filled it."
+        "de" : "Der Sage nach berührst du ein eingeritztes Kreuz im Durchgang des Venezianerturms gegenüber, schließt die Augen und wünschst dir Liebe.",
+        "en" : "Legend says: touch the etched crosses in the Venetian tower's passage opposite, shut your eyes, and wish for love."
       },
       "name" : "Palača Milesi",
       "pos" : [
         43.508293,
         16.438681
       ],
-      "story" : "The Milesi family built this house in the 17th century. The square it faces is still the Fruit Square, after the market that filled it."
+      "story" : "Legend says: touch the etched crosses in the Venetian tower's passage opposite, shut your eyes, and wish for love."
     },
     {
-      "extendedStory" : "The smell comes from a sulphur spring beside the market. Those are the same waters that drew Diocletian here. His joints ached, and the springs were said to help, which is one reason he built his palace on this spot. So the emperor's rheumatism is why your fish stays fresh. The hall itself is over 120 years old.",
+      "extendedStory" : "Diocletian used those same springs against his rheumatism, his aching joints. They are one reason he built his palace on this spot. The hall has stood here for over 120 years, dressed in the Secession style. Of its side doors, the north one is bricked up solid, and the south one is kept for fishermen and traders. Everyone else comes in through the main entrance on the east front.",
       "icon" : "everyday",
       "id" : "f-ribarnica",
       "kind" : "market",
       "localizedExtendedStory" : {
-        "de" : "Der Geruch kommt von einer Schwefelquelle gleich neben dem Markt. Es sind dieselben Quellen, die schon Kaiser Diokletian herzogen. Seine Gelenke schmerzten, und das Wasser sollte helfen. Das war einer der Gründe, warum er seinen Palast genau hier baute. Das Rheuma des Kaisers hält also heute den Fisch frisch. Die Halle selbst ist über 120 Jahre alt.",
-        "en" : "The smell comes from a sulphur spring beside the market. Those are the same waters that drew Diocletian here. His joints ached, and the springs were said to help, which is one reason he built his palace on this spot. So the emperor's rheumatism is why your fish stays fresh. The hall itself is over 120 years old."
+        "de" : "Diese Quellen nutzte schon Kaiser Diokletian gegen sein Rheuma. Auch ihretwegen baute er seinen Palast an dieser Stelle. Seit über 120 Jahren steht die Halle hier, im Secessionsstil. Von ihren drei Seitentüren ist die nördliche ganz zugemauert, und die südliche bleibt Fischern und Händlern vorbehalten. Alle anderen kommen durch den Haupteingang an der Ostseite.",
+        "en" : "Diocletian used those same springs against his rheumatism, his aching joints. They are one reason he built his palace on this spot. The hall has stood here for over 120 years, dressed in the Secession style. Of its side doors, the north one is bricked up solid, and the south one is kept for fishermen and traders. Everyone else comes in through the main entrance on the east front."
       },
       "localizedStory" : {
-        "de" : "Ein Fischmarkt, an dem keine Mücke stört. Der Schwefelgeruch aus dem Thermalbad nebenan hält sie fern.",
-        "en" : "A fish market with no flies. They keep away from the smell of sulphur drifting over from the baths next door."
+        "de" : "Ein Fischmarkt ohne Fliegen. Der Schwefelgeruch aus dem Thermalbad nebenan hält sie fern.",
+        "en" : "A fish market with no flies. They stay away from the smell of sulphur drifting over from the spa next door."
       },
       "name" : "Ribarnica",
       "pos" : [
         43.509108,
         16.43739
       ],
-      "story" : "A fish market with no flies. They keep away from the smell of sulphur drifting over from the baths next door."
+      "story" : "A fish market with no flies. They stay away from the smell of sulphur drifting over from the spa next door."
     },
     {
-      "extendedStory" : "Franciscan friars took the church over in the 13th century, and their cloister is that old too. Inside the monastery is a library of more than 3000 old books, some from the 16th century. The ground is older still. The church was raised beside the grave of Felician, a martyr from Diocletian's own time. The politician Ante Trumbić lies here as well, under a sarcophagus carved by Ivan Meštrović.",
+      "extendedStory" : "His friars, the Friars Minor, took over the church in the 13th century, and the cloister dates from then too. Long before them, an early Christian site stood here, beside the grave and little church of St Felician from Diocletian's time. The politician Ante Trumbić lies here too, in a sarcophagus carved by Ivan Meštrović. Look for a Roman one as well, showing the Crossing of the Red Sea. The library keeps more than 3000 old books.",
       "icon" : "everyday",
       "id" : "f-crkva-i-samostan-sv-frane",
       "kind" : "church",
       "localizedExtendedStory" : {
-        "de" : "Im 13. Jahrhundert übernahmen Franziskaner die Kirche, und ihr Kreuzgang ist ebenso alt. Im Kloster steht eine Sammlung von über 3000 alten Büchern, einige aus dem 16. Jahrhundert. Der Boden ist noch älter. Die Kirche entstand neben dem Grab eines christlichen Märtyrers aus Diokletians Zeit. Auch der Politiker Ante Trumbić ruht hier, unter einem Sarkophag von Ivan Meštrović.",
-        "en" : "Franciscan friars took the church over in the 13th century, and their cloister is that old too. Inside the monastery is a library of more than 3000 old books, some from the 16th century. The ground is older still. The church was raised beside the grave of Felician, a martyr from Diocletian's own time. The politician Ante Trumbić lies here as well, under a sarcophagus carved by Ivan Meštrović."
+        "de" : "Im 13. Jahrhundert übernahmen die Minderbrüder des heiligen Franziskus die Kirche, und der Kreuzgang stammt aus derselben Zeit. Schon vorher war hier ein frühchristlicher Ort, mit Grab und kleiner Kapelle des heiligen Felician aus Diokletians Zeit. Auch der Politiker Ante Trumbić ruht hier, in einem Sarkophag von Ivan Meštrović. Such auch den römischen Sarkophag mit dem Zug durch das Rote Meer. Und die Bibliothek bewahrt über 3000 alte Bücher.",
+        "en" : "His friars, the Friars Minor, took over the church in the 13th century, and the cloister dates from then too. Long before them, an early Christian site stood here, beside the grave and little church of St Felician from Diocletian's time. The politician Ante Trumbić lies here too, in a sarcophagus carved by Ivan Meštrović. Look for a Roman one as well, showing the Crossing of the Red Sea. The library keeps more than 3000 old books."
       },
       "localizedStory" : {
-        "de" : "Hier liegt der Vater der kroatischen Literatur begraben. Marko Marulić ruht in dieser Kirche am Meer.",
-        "en" : "The father of Croatian literature is buried inside. Marko Marulić rests in this church beside the sea."
+        "de" : "Der Sage nach hat Franz von Assisi dieses Kloster selbst gegründet. Hier ruht Marko Marulić, der Vater der kroatischen Literatur.",
+        "en" : "Legend says St Francis of Assisi founded this monastery himself. Inside lies Marko Marulić, the father of Croatian literature."
       },
       "name" : "Crkva i samostan Sv. Frane",
       "pos" : [
         43.50821,
         16.435276
       ],
-      "story" : "The father of Croatian literature is buried inside. Marko Marulić rests in this church beside the sea."
+      "story" : "Legend says St Francis of Assisi founded this monastery himself. Inside lies Marko Marulić, the father of Croatian literature."
     }
   ],
-  "generatedAt" : "2026-09-21T06:45:27Z",
+  "generatedAt" : "2026-09-21T14:27:38Z",
   "icon" : {
     "paths" : [
       "M30.00,88.00 L70.00,88.00 L70.00,95.00 L30.00,95.00 Z M32.00,74.00 L68.00,74.00 L68.00,88.00 L32.00,88.00 Z M33.00,60.00 L67.00,60.00 L67.00,74.00 L33.00,74.00 Z M34.00,46.00 L66.00,46.00 L66.00,60.00 L34.00,60.00 Z M35.00,33.00 L65.00,33.00 L65.00,46.00 L35.00,46.00 Z M36.50,22.00 L63.50,22.00 L63.50,33.00 L36.50,33.00 Z M36.00,22.00 L64.00,22.00 L50.00,8.00 Z M47.50,4.00 L52.50,4.00 L52.50,9.00 L47.50,9.00 Z M30.50,85.80 L69.50,85.80 L69.50,88.30 L30.50,88.30 Z M31.50,71.80 L68.50,71.80 L68.50,74.30 L31.50,74.30 Z M32.50,57.80 L67.50,57.80 L67.50,60.30 L32.50,60.30 Z M33.50,43.80 L66.50,43.80 L66.50,46.30 L33.50,46.30 Z M35.00,30.80 L65.00,30.80 L65.00,33.30 L35.00,33.30 Z M28.00,86.50 L72.00,86.50 L72.00,88.30 L28.00,88.30 Z M54.00,81.80 L54.00,78.00 C54.00,75.79 52.21,74.00 50.00,74.00 C47.79,74.00 46.00,75.79 46.00,78.00 L46.00,81.80 Z M53.60,68.80 L53.60,63.00 C53.60,61.01 51.99,59.40 50.00,59.40 C48.01,59.40 46.40,61.01 46.40,63.00 L46.40,68.80 Z M48.10,55.30 L48.10,48.50 C48.10,47.06 46.94,45.90 45.50,45.90 C44.06,45.90 42.90,47.06 42.90,48.50 L42.90,55.30 Z M57.10,55.30 L57.10,48.50 C57.10,47.06 55.94,45.90 54.50,45.90 C53.06,45.90 51.90,47.06 51.90,48.50 L51.90,55.30 Z M48.30,41.60 L48.30,35.20 C48.30,33.93 47.27,32.90 46.00,32.90 C44.73,32.90 43.70,33.93 43.70,35.20 L43.70,41.60 Z M56.30,41.60 L56.30,35.20 C56.30,33.93 55.27,32.90 54.00,32.90 C52.73,32.90 51.70,33.93 51.70,35.20 L51.70,41.60 Z M55.00,28.80 L55.00,24.00 C55.00,21.24 52.76,19.00 50.00,19.00 C47.24,19.00 45.00,21.24 45.00,24.00 L45.00,28.80 Z M53.20,86.00 L53.20,78.00 C53.20,76.23 51.77,74.80 50.00,74.80 C48.23,74.80 46.80,76.23 46.80,78.00 L46.80,86.00 Z"
@@ -2753,7 +2743,7 @@
     "en" : "Split"
   },
   "name" : "Split",
-  "packVersion" : 7,
+  "packVersion" : 8,
   "schemaVersion" : 1,
   "source" : "OpenStreetMap via Overpass API",
   "stats" : {

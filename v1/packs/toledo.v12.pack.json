@@ -108,30 +108,12 @@
   ],
   "changes" : {
     "addedStreets" : [
-      "Travesía de la Virgen de Gracia"
+
     ],
     "adjustedStreets" : [
-      "Calle Calvario",
-      "Calle Camarín de San Cipriano",
-      "Calle Carreras de San Sebastián",
-      "Calle Las Carmelitas Descalzas",
-      "Calle Prensa de San Lorenzo",
-      "Calle San Cipriano",
-      "Calle Santa Catalina",
-      "Calle Santa Clara",
-      "Calle Virgen de Gracia",
-      "Calle de San Pablo",
-      "Calle de las Bulas",
-      "Calle de los Tintes",
-      "Calle Ángel",
-      "Callejón de Los Muertos",
-      "Callejón de San Justo",
-      "Cuesta Prensa San Cipriano",
-      "Plaza de la Cruz",
-      "Plaza de la Cruz Verde",
-      "Travesía Caños de Oro"
+
     ],
-    "fromVersion" : 10,
+    "fromVersion" : 11,
     "removedStreets" : [
 
     ]
@@ -10885,207 +10867,207 @@
   ],
   "fruits" : [
     {
-      "extendedStory" : "Work started in 1226 under the architect Petrus Petri. The style is Gothic, which means height, pointed arches, and as much window as the stone will allow. The cathedral is dedicated to the virgin birth of Jesus. It has been the middle of Christian Toledo for eight centuries. Synagogues and a mosque still stand within a few streets of it.",
+      "extendedStory" : "The story goes that Peter was furious to learn it rang in Toledo, not Rome, and his key split the bell. Look for the Campana Gorda and its crack. Somebody filed that crack open so it would stop buzzing, and a hand fits inside. Since then the bell stays silent, because its voice was no good. Petrus Petri began this Gothic giant in 1226.",
       "icon" : "hero",
       "id" : "f-catedral-de-santa-maria",
       "kind" : "church",
       "localizedExtendedStory" : {
-        "de" : "Die Arbeiten begannen 1226 unter dem Baumeister Petrus Petri. Der Stil ist gotisch, also Höhe, Spitzbögen und so viel Fenster, wie der Stein zulässt. Geweiht ist der Dom der Jungfrauengeburt. Seit acht Jahrhunderten ist er die Mitte des christlichen Toledo. Synagogen und eine Moschee stehen bis heute wenige Gassen entfernt.",
-        "en" : "Work started in 1226 under the architect Petrus Petri. The style is Gothic, which means height, pointed arches, and as much window as the stone will allow. The cathedral is dedicated to the virgin birth of Jesus. It has been the middle of Christian Toledo for eight centuries. Synagogues and a mosque still stand within a few streets of it."
+        "de" : "Man erzählt, der Schlüssel habe die Glocke gespalten. Such nach der Campana Gorda und ihrem Riss. Später hat man den Riss aufgefeilt, damit er nicht mehr schnarrt, und so breit ist er, dass eine Hand hineinpasst. Seitdem schweigt die Glocke, denn ihr Klang taugte nichts. Petrus Petri begann den gotischen Riesen im Jahr 1226.",
+        "en" : "The story goes that Peter was furious to learn it rang in Toledo, not Rome, and his key split the bell. Look for the Campana Gorda and its crack. Somebody filed that crack open so it would stop buzzing, and a hand fits inside. Since then the bell stays silent, because its voice was no good. Petrus Petri began this Gothic giant in 1226."
       },
       "localizedStory" : {
-        "de" : "Der Baumeister Petrus Petri begann diesen Dom 1226, in der gotischen Weise der Spitzbögen.",
-        "en" : "The architect Petrus Petri began this cathedral in 1226, in the Gothic manner of pointed arches."
+        "de" : "Der Sage nach klang die große Glocke bis in den Himmel. Petrus merkte, dass sie nicht aus Rom kam, und warf wütend seinen Schlüssel.",
+        "en" : "Legend says the cathedral's big bell rang up to heaven. Saint Peter took it for his church in Rome, then threw a key."
       },
       "name" : "Catedral de Santa María",
       "pos" : [
         39.857392,
         -4.023754
       ],
-      "story" : "The architect Petrus Petri began this cathedral in 1226, in the Gothic manner of pointed arches."
+      "story" : "Legend says the cathedral's big bell rang up to heaven. Saint Peter took it for his church in Rome, then threw a key."
     },
     {
-      "extendedStory" : "Three architects took the old fortress in hand from 1535. They were Alonso de Covarrubias, Francisco de Villalpando and Juan de Herrera. In 1936 it stood through a siege of seventy days and came out almost completely destroyed. What you see is a rebuilding. Inside are the Army Museum and the library of Castile-La Mancha, and the walls rise 60 metres over the town.",
+      "extendedStory" : "The story goes that Rocas had sons who fell out, so Silvio raised his own tower where San Román church stands. Now find the bronze Carlos V in the courtyard. His suit of armour lifts clean off, and under it the emperor is carved nude, a style kept for gods and emperors. Covarrubias, Villalpando and Herrera rebuilt the fortress from 1535. Today it holds the Army Museum and the library of Castile-La Mancha.",
       "icon" : "choice",
       "id" : "f-alcazar-de-toledo",
       "kind" : "fortress",
       "localizedExtendedStory" : {
-        "de" : "Ab 1535 nahmen drei Baumeister die alte Festung in die Hand. Es waren Alonso de Covarrubias, Francisco de Villalpando und Juan de Herrera. 1936 überstand sie eine Belagerung von siebzig Tagen und war danach fast völlig zerstört. Was man sieht, ist ein Wiederaufbau. Drinnen sind das Heeresmuseum und die Bibliothek von Kastilien-La Mancha, und die Mauern ragen 60 Meter über die Stadt.",
-        "en" : "Three architects took the old fortress in hand from 1535. They were Alonso de Covarrubias, Francisco de Villalpando and Juan de Herrera. In 1936 it stood through a siege of seventy days and came out almost completely destroyed. What you see is a rebuilding. Inside are the Army Museum and the library of Castile-La Mancha, and the walls rise 60 metres over the town."
+        "de" : "Man erzählt, die Söhne von Rocas hätten sich zerstritten. Silvio baute darum seinen eigenen Turm dort, wo heute die Kirche San Román steht. Im Hof wartet Kaiser Karl aus Bronze. Seine Rüstung lässt sich abnehmen, und darunter ist er nackt gemeißelt, wie sonst nur Götter und Kaiser. Ab 1535 bauten Covarrubias, Villalpando und Herrera die Festung neu. Heute wohnen hier das Armeemuseum und die Bibliothek von Kastilien-La Mancha.",
+        "en" : "The story goes that Rocas had sons who fell out, so Silvio raised his own tower where San Román church stands. Now find the bronze Carlos V in the courtyard. His suit of armour lifts clean off, and under it the emperor is carved nude, a style kept for gods and emperors. Covarrubias, Villalpando and Herrera rebuilt the fortress from 1535. Today it holds the Army Museum and the library of Castile-La Mancha."
       },
       "localizedStory" : {
-        "de" : "Eine Festung, ab 1535 umgebaut, 1936 zerstört und wieder aufgerichtet. Heute steht eine Bibliothek darin.",
-        "en" : "A fortress made over from 1535, wrecked in 1936, and put back up again. A library sits in it now."
+        "de" : "Der Sage nach baute ein Mann namens Rocas einen Turm auf diesen Felsen. Herkules kam vorbei, sah zwei hohe Türme und gründete hier eine Stadt.",
+        "en" : "Legend says a man called Rocas built a tower on this rock. Hercules passed by, saw two tall towers, and founded a city here."
       },
       "name" : "Alcázar de Toledo",
       "pos" : [
         39.857558,
         -4.020785
       ],
-      "story" : "A fortress made over from 1535, wrecked in 1936, and put back up again. A library sits in it now."
+      "story" : "Legend says a man called Rocas built a tower on this rock. Hercules passed by, saw two tall towers, and founded a city here."
     },
     {
-      "extendedStory" : "Juan Guas built this for the Catholic Monarchs, a Franciscan house tied to the crown. It was meant to celebrate victories, to show power and to show devotion, all at once. The oddest part is on the outside. Chains hang along the walls, put there in memory of Christian captives who were set free. Here the history is not just told, it hangs on the wall where you can see it.",
+      "extendedStory" : "People say the freed captives carried their own chains all the way to Toledo. They gave them as thanks to God and to the queen. Nobody has settled whether that is true or later boasting. Juan Guas designed the house for the Catholic Monarchs, who meant to be buried here. Then they took Granada, and Granada won their tombs instead.",
       "icon" : "choice",
       "id" : "f-monasterio-de-san-juan-de-los-reyes",
       "kind" : "church",
       "localizedExtendedStory" : {
-        "de" : "Juan Guas baute dies für die Katholischen Könige, ein Franziskanerhaus an der Krone. Es sollte Siege feiern, Macht zeigen und Frömmigkeit zeigen, alles zugleich. Das Merkwürdigste hängt außen. An den Mauern hängen Ketten, angebracht zur Erinnerung an befreite christliche Gefangene. Hier wird Geschichte nicht nur erzählt, sie hängt sichtbar an der Wand.",
-        "en" : "Juan Guas built this for the Catholic Monarchs, a Franciscan house tied to the crown. It was meant to celebrate victories, to show power and to show devotion, all at once. The oddest part is on the outside. Chains hang along the walls, put there in memory of Christian captives who were set free. Here the history is not just told, it hangs on the wall where you can see it."
+        "de" : "Man erzählt, die Befreiten hätten ihre Ketten selbst bis nach Toledo getragen. Sie schenkten sie Gott und der Königin als Dank. Ob das stimmt oder später erfunden wurde, weiß bis heute niemand. Juan Guas plante das Kloster für die Katholischen Könige, die hier begraben sein wollten. Doch dann eroberten sie Granada, und Granada bekam ihre Gräber.",
+        "en" : "People say the freed captives carried their own chains all the way to Toledo. They gave them as thanks to God and to the queen. Nobody has settled whether that is true or later boasting. Juan Guas designed the house for the Catholic Monarchs, who meant to be buried here. Then they took Granada, and Granada won their tombs instead."
       },
       "localizedStory" : {
-        "de" : "Schau an die Außenmauern. Dort hängen Ketten, zur Erinnerung an befreite Gefangene.",
-        "en" : "Look at the outside walls. Chains hang there, in memory of captives who were set free."
+        "de" : "An den Außenwänden hängen Ketten. Sie erinnern an christliche Gefangene, die freikamen. Hier wird Geschichte nicht nur erzählt, sie hängt an der Wand.",
+        "en" : "Chains hang on the outside walls. They remember Christian captives who were set free, so here history is hung up for you to see."
       },
       "name" : "Monasterio de San Juan de los Reyes",
       "pos" : [
         39.857984,
         -4.031757
       ],
-      "story" : "Look at the outside walls. Chains hang there, in memory of captives who were set free."
+      "story" : "Chains hang on the outside walls. They remember Christian captives who were set free, so here history is hung up for you to see."
     },
     {
-      "extendedStory" : "The tower was a minaret before it was a bell tower. The lord of Orgaz had it rebuilt in the fourteenth century, in brick and masonry. Inside the church hangs the Burial of the Count of Orgaz. El Greco painted it in 1586 for the parish priest Andres Nunez de Toledo. It hangs in the chapel where the count lies, which is why it has never left the building.",
+      "extendedStory" : "They said just this, the story goes: such is the reward of one who serves God and his saints. El Greco painted that moment in 1586, and his canvas still hangs in the chapel. Much later a parish priest, Don Demetrio, studied the painting to work out where the count's tomb lies. The tower was a minaret before it held bells, rebuilt in brick in the fourteenth century.",
       "icon" : "everyday",
       "id" : "f-iglesia-de-santo-tome",
       "kind" : "church",
       "localizedExtendedStory" : {
-        "de" : "Der Turm war ein Minarett, bevor er Glockenturm wurde. Der Herr von Orgaz ließ ihn im vierzehnten Jahrhundert neu aufmauern, in Ziegel und Bruchstein. In der Kirche hängt das Begräbnis des Grafen von Orgaz. El Greco malte es 1586 für den Pfarrer Andres Nunez de Toledo. Es hängt in der Kapelle, in der der Graf liegt, und darum hat es das Haus nie verlassen.",
-        "en" : "The tower was a minaret before it was a bell tower. The lord of Orgaz had it rebuilt in the fourteenth century, in brick and masonry. Inside the church hangs the Burial of the Count of Orgaz. El Greco painted it in 1586 for the parish priest Andres Nunez de Toledo. It hangs in the chapel where the count lies, which is why it has never left the building."
+        "de" : "Sie sagten nur, heißt es: So belohnt Gott jeden, der ihm und seinen Heiligen dient. El Greco malte genau diesen Augenblick 1586, und das Bild hängt bis heute in der Kapelle. Viel später las ein Pfarrer namens Don Demetrio im Gemälde nach, wo das Grab des Grafen liegt. Der Turm war einst ein Minarett und wurde im vierzehnten Jahrhundert aus Ziegeln neu errichtet.",
+        "en" : "They said just this, the story goes: such is the reward of one who serves God and his saints. El Greco painted that moment in 1586, and his canvas still hangs in the chapel. Much later a parish priest, Don Demetrio, studied the painting to work out where the count's tomb lies. The tower was a minaret before it held bells, rebuilt in brick in the fourteenth century."
       },
       "localizedStory" : {
-        "de" : "Der Glockenturm war einmal ein Minarett. Drinnen hängt das Bild, das El Greco für genau diese Kapelle malte.",
-        "en" : "The bell tower was a minaret once. Inside hangs the painting El Greco made for this very chapel."
+        "de" : "Der Sage nach erstrahlte die Kapelle in plötzlichem Licht. Die Heiligen Augustinus und Stephanus stiegen herab, um den Grafen von Orgaz zur Ruhe zu betten.",
+        "en" : "Legend says the chapel here filled with sudden light. Saints Augustine and Stephen came down from heaven to lay the Count of Orgaz to rest."
       },
       "name" : "Iglesia de Santo Tomé",
       "pos" : [
         39.856753,
         -4.028159
       ],
-      "story" : "The bell tower was a minaret once. Inside hangs the painting El Greco made for this very chapel."
+      "story" : "Legend says the chapel here filled with sudden light. Saints Augustine and Stephen came down from heaven to lay the Count of Orgaz to rest."
     },
     {
-      "extendedStory" : "Samuel ha-Levi was adviser and treasurer to Pedro I of Castile, and he had this synagogue built between 1355 and 1357. The style is Mudéjar, the work of Muslim craftsmen building for Christian and Jewish patrons. Its walls are covered with Hebrew inscriptions that historians have pored over ever since. Since 1964 the building has held the Sephardic Museum. A treasurer's synagogue became a museum of the people who prayed in it.",
+      "extendedStory" : "Look at the walls. They are covered in Hebrew inscriptions, and the historian Cecil Roth praised them above any others of the Middle Ages. Samuel ha-Levi, treasurer to King Pedro I of Castile, built this synagogue between 1355 and 1357. The style is Mudéjar, Moorish craft working for Christian Castile. Today the Sephardic Museum lives here, telling the story of Spain's Jews.",
       "icon" : "everyday",
       "id" : "f-sinagoga-del-transito",
       "kind" : "church",
       "localizedExtendedStory" : {
-        "de" : "Samuel ha-Levi war Berater und Schatzmeister Pedros I. von Kastilien und ließ diese Synagoge zwischen 1355 und 1357 errichten. Der Stil ist Mudéjar, die Arbeit muslimischer Handwerker für christliche und jüdische Auftraggeber. Die Wände sind mit hebräischen Inschriften bedeckt, über denen Historiker seither brüten. Seit 1964 beherbergt das Haus das Sephardische Museum. Aus der Synagoge eines Schatzmeisters wurde ein Museum derer, die darin beteten.",
-        "en" : "Samuel ha-Levi was adviser and treasurer to Pedro I of Castile, and he had this synagogue built between 1355 and 1357. The style is Mudéjar, the work of Muslim craftsmen building for Christian and Jewish patrons. Its walls are covered with Hebrew inscriptions that historians have pored over ever since. Since 1964 the building has held the Sephardic Museum. A treasurer's synagogue became a museum of the people who prayed in it."
+        "de" : "Schau dir die Wände an. Sie sind voller hebräischer Inschriften, und der Historiker Cecil Roth lobte sie über alle anderen des Mittelalters. Samuel ha-Levi, Schatzmeister König Pedros von Kastilien, ließ die Synagoge zwischen 1355 und 1357 bauen. Der Stil heißt Mudéjar: maurisches Handwerk im christlichen Kastilien. Heute wohnt hier das Sephardische Museum und erzählt von Spaniens Juden.",
+        "en" : "Look at the walls. They are covered in Hebrew inscriptions, and the historian Cecil Roth praised them above any others of the Middle Ages. Samuel ha-Levi, treasurer to King Pedro I of Castile, built this synagogue between 1355 and 1357. The style is Mudéjar, Moorish craft working for Christian Castile. Today the Sephardic Museum lives here, telling the story of Spain's Jews."
       },
       "localizedStory" : {
-        "de" : "Der Schatzmeister des Königs ließ diese Synagoge zwischen 1355 und 1357 bauen. Hebräische Schrift bedeckt die Wände.",
-        "en" : "The king's treasurer had this synagogue built between 1355 and 1357. Hebrew writing covers its walls."
+        "de" : "Den Spitznamen Tránsito verdankt sie einem Gemälde, das früher hier hing. Das Bild zog in den Prado um. Der Name blieb.",
+        "en" : "Locals call it the Tránsito, after a painting that once hung inside. The painting moved to the Prado. The name stayed."
       },
       "name" : "Sinagoga del Tránsito",
       "pos" : [
         39.855555,
         -4.029595
       ],
-      "story" : "The king's treasurer had this synagogue built between 1355 and 1357. Hebrew writing covers its walls."
+      "story" : "Locals call it the Tránsito, after a painting that once hung inside. The painting moved to the Prado. The name stayed."
     },
     {
-      "extendedStory" : "The building went up in 1180 as a synagogue. Its architecture is Moorish, the manner of the Islamic craftsmen who worked in Spain, with horseshoe arches and white plaster. Later it took a Christian name, Virgen Blanca, the White Virgin. One building, three faiths in its history, and it is still standing.",
+      "extendedStory" : "No dig has ever proved it, but Sephardic families still tell the tale. The white walls around you were black with soot for years. French soldiers used the building as a barracks and lit campfires inside to keep warm. A restoration in the 20th century made the walls white again. Its horseshoe arches have stood in the Moorish style since around 1180.",
       "icon" : "choice",
       "id" : "f-sinagoga-de-santa-maria-la-blanca",
       "kind" : "church",
       "localizedExtendedStory" : {
-        "de" : "Der Bau entstand 1180 als Synagoge. Die Architektur ist maurisch, die Art der islamischen Handwerker in Spanien, mit Hufeisenbögen und weißem Putz. Später bekam er einen christlichen Namen, Virgen Blanca, die Weiße Jungfrau. Ein Gebäude, drei Glauben in seiner Geschichte, und es steht noch.",
-        "en" : "The building went up in 1180 as a synagogue. Its architecture is Moorish, the manner of the Islamic craftsmen who worked in Spain, with horseshoe arches and white plaster. Later it took a Christian name, Virgen Blanca, the White Virgin. One building, three faiths in its history, and it is still standing."
+        "de" : "Beweisen konnte das nie ein Archäologe, doch sephardische Familien erzählen es bis heute. Die hellen Wände um dich waren lange schwarz vor Ruß. Französische Soldaten nutzten den Bau als Kaserne und machten drinnen Feuer, um sich zu wärmen. Erst eine Restaurierung im 20. Jahrhundert machte die Wände wieder weiß. Seit etwa 1180 stehen die Hufeisenbögen hier im maurischen Stil.",
+        "en" : "No dig has ever proved it, but Sephardic families still tell the tale. The white walls around you were black with soot for years. French soldiers used the building as a barracks and lit campfires inside to keep warm. A restoration in the 20th century made the walls white again. Its horseshoe arches have stood in the Moorish style since around 1180."
       },
       "localizedStory" : {
-        "de" : "1180 als Synagoge erbaut, in maurischer Bauweise, und später christlich benannt.",
-        "en" : "Built as a synagogue in 1180, in the Moorish manner, and later given a Christian name."
+        "de" : "Der Sage nach bestand der Boden hier einst aus Erde, die man aus Jerusalem brachte. So beteten Toledos Juden auf heiligem Grund.",
+        "en" : "Legend says the original floor here was laid with earth carried from Jerusalem, so Toledo's Jews could pray on holy ground."
       },
       "name" : "Sinagoga de Santa María la Blanca",
       "pos" : [
         39.856879,
         -4.030627
       ],
-      "story" : "Built as a synagogue in 1180, in the Moorish manner, and later given a Christian name."
+      "story" : "Legend says the original floor here was laid with earth carried from Jerusalem, so Toledo's Jews could pray on holy ground."
     },
     {
-      "extendedStory" : "This was an oratory before it was a church, built beside a gate called Bab al-Mardum, which gave it its name. Inside are nine bays under ribbed vaults and horseshoe arches. The four middle columns wear Visigothic capitals, carved long before and reused here. The story goes that Alfonso VI's horse stopped and bowed on this spot. A crucifix was found where it stood, with a lamp beside it still burning after centuries.",
+      "extendedStory" : "Many tellers name Alfonso VI as the rider. Some say it was the horse of El Cid, his lieutenant, and nobody has settled which. On that spot, legend says, lay a crucifix with a lamp still burning after centuries. Inside, look up at the nine vaulted bays: no two ceilings share a pattern. It was an oratory before it was a church, named for the gate beside it, Bab al-Mardum.",
       "icon" : "choice",
       "id" : "f-mezquita-del-cristo-de-la-luz",
       "kind" : "memorial_art",
       "localizedExtendedStory" : {
-        "de" : "Dies war ein Gebetsraum, bevor es eine Kirche wurde, gebaut neben einem Tor namens Bab al-Mardum, das ihm den Namen gab. Drinnen sind neun Joche unter Rippengewölben und Hufeisenbögen. Die vier mittleren Säulen tragen westgotische Kapitelle, lange vorher gehauen und hier wiederverwendet. Die Geschichte will, dass Alfonsos VI. Pferd hier stehen blieb und sich verneigte. Wo es stand, fand man ein Kruzifix, daneben eine Lampe, die nach Jahrhunderten noch brannte.",
-        "en" : "This was an oratory before it was a church, built beside a gate called Bab al-Mardum, which gave it its name. Inside are nine bays under ribbed vaults and horseshoe arches. The four middle columns wear Visigothic capitals, carved long before and reused here. The story goes that Alfonso VI's horse stopped and bowed on this spot. A crucifix was found where it stood, with a lamp beside it still burning after centuries."
+        "de" : "Oft heißt es, König Alfons saß im Sattel. Andere sagen, es war das Pferd seines Gefolgsmanns El Cid, und niemand weiß es sicher. An der Stelle fand man, so die Sage, ein Kruzifix mit einer Lampe, die nach Jahrhunderten noch brannte. Drinnen schau nach oben: neun gewölbte Joche, und keine zwei Decken tragen dasselbe Muster. Bevor es Kirche wurde, war es ein Gebetsraum, benannt nach dem Tor Bab al-Mardum daneben.",
+        "en" : "Many tellers name Alfonso VI as the rider. Some say it was the horse of El Cid, his lieutenant, and nobody has settled which. On that spot, legend says, lay a crucifix with a lamp still burning after centuries. Inside, look up at the nine vaulted bays: no two ceilings share a pattern. It was an oratory before it was a church, named for the gate beside it, Bab al-Mardum."
       },
       "localizedStory" : {
-        "de" : "Neun kleine Joche, Hufeisenbögen und vier Säulen, deren Kapitelle schon alt waren, als man sie wiederverwendete.",
-        "en" : "Nine little bays, horseshoe arches, and four columns whose tops were old already when they were reused."
+        "de" : "Man erzählt, hier sei das Pferd eines Königs in die Knie gegangen und nicht weitergelaufen. Ein weißer Stein an der Tür markiert die Stelle.",
+        "en" : "The story goes that a king's horse knelt here and refused to move. A white stone at the door marks the spot."
       },
       "name" : "Mezquita del Cristo de la Luz",
       "pos" : [
         39.860597,
         -4.02417
       ],
-      "story" : "Nine little bays, horseshoe arches, and four columns whose tops were old already when they were reused."
+      "story" : "The story goes that a king's horse knelt here and refused to move. A white stone at the door marks the spot."
     },
     {
-      "extendedStory" : "People used to call this the gossip-shop of Castile, and that is a fair description. Its name twists an Arabic phrase for the place where pack animals changed hands. Enrique IV granted the weekly fair in 1465. After that, little shops crowded in around the edges, and festivals took the whole square over whenever there was something worth celebrating.",
+      "extendedStory" : "Beneath Arco de la Sangre, that water sits nine metres down. Zocodover is Spanish twisted out of Arabic words meaning market for beasts. Enrique IV let Toledo hold a weekly fair here from 1465. Later this became gossip central for Castile, with cattle, festivals and little shops huddled together. Look up above that passage: a small chapel there keeps Cristo de la Sangre, usually shut.",
       "icon" : "everyday",
       "id" : "f-plaza-de-zocodover",
       "kind" : "square",
       "localizedExtendedStory" : {
-        "de" : "Zocodover ist die spanische Verdrehung eines arabischen Ausdrucks für Markt der Lasttiere, und genau das war er. 1465 gab Enrique IV. Toledo das Recht, hier wöchentlich Markt zu halten. Der Platz füllte sich mit einem Gewimmel kleiner Läden und mit Festen. Man nannte ihn die Schwatzbude Kastiliens, was verrät, was hier wirklich lief.",
-        "en" : "People used to call this the gossip-shop of Castile, and that is a fair description. Its name twists an Arabic phrase for the place where pack animals changed hands. Enrique IV granted the weekly fair in 1465. After that, little shops crowded in around the edges, and festivals took the whole square over whenever there was something worth celebrating."
+        "de" : "Unter dem Arco de la Sangre liegt es bis zu neun Meter tief. Der Name Zocodover ist verdrehtes Arabisch und heißt Markt der Tiere. Ab 1465 durfte Toledo hier jede Woche feiern und handeln, so wollte es Enrique IV. Später war der Platz die Klatschbude Kastiliens, mit Vieh, Festen und winzigen Buden. Schau über dem Durchgang nach oben: Dort wohnt in einer kleinen Kapelle der Cristo de la Sangre.",
+        "en" : "Beneath Arco de la Sangre, that water sits nine metres down. Zocodover is Spanish twisted out of Arabic words meaning market for beasts. Enrique IV let Toledo hold a weekly fair here from 1465. Later this became gossip central for Castile, with cattle, festivals and little shops huddled together. Look up above that passage: a small chapel there keeps Cristo de la Sangre, usually shut."
       },
       "localizedStory" : {
-        "de" : "Der Name kommt aus dem Arabischen und heißt Markt der Lasttiere. Hier wurde Vieh verkauft, lange bevor man sich hier traf.",
-        "en" : "Enrique IV granted Toledo a weekly fair on this ground in 1465. It has been busy ever since."
+        "de" : "Unter deinen Füßen sickert Grundwasser durch fast den ganzen Platz. Eine Bohrung ging durch meterhohen Schutt und stieß darauf.",
+        "en" : "Under your feet, water seeps through almost the whole square. A survey drilled down through metres of rubble and struck it."
       },
       "name" : "Plaza de Zocodover",
       "pos" : [
         39.859499,
         -4.021454
       ],
-      "story" : "Enrique IV granted Toledo a weekly fair on this ground in 1465. It has been busy ever since."
+      "story" : "Under your feet, water seeps through almost the whole square. A survey drilled down through metres of rubble and struck it."
     },
     {
-      "extendedStory" : "A church stood here from 1187 and was pulled down in 1959. The tower is all that survived, and its foundations reach back to a minaret. Look at the openings. They are pointed horseshoe shapes set in a shallow frame called an alfiz, an Almohad habit that is uncommon in Toledo. The building was made over from the middle of the thirteenth century, and this tower is what is left of it.",
+      "extendedStory" : "Next look at the openings. They are pointed horseshoe arches, each set in a shallow frame called an alfiz. That Almohad habit is rare in Toledo. The tower once belonged to a church, mentioned in writing in 1187. The church came down in 1959, and just the tower was left standing. Dig deeper and its foundations go back to a minaret.",
       "icon" : "everyday",
       "id" : "f-torre-de-san-cristobal",
       "kind" : "gate_tower",
       "localizedExtendedStory" : {
-        "de" : "Ab 1187 stand hier eine Kirche, 1959 wurde sie abgerissen. Nur der Turm blieb, und seine Fundamente reichen bis zu einem Minarett zurück. Schau dir die Öffnungen an. Es sind spitze Hufeisenformen in einem flachen Rahmen, einem Alfiz, eine almohadische Gewohnheit, die in Toledo selten ist. Ab der Mitte des dreizehnten Jahrhunderts wurde umgebaut, und dieser Turm ist der Rest davon.",
-        "en" : "A church stood here from 1187 and was pulled down in 1959. The tower is all that survived, and its foundations reach back to a minaret. Look at the openings. They are pointed horseshoe shapes set in a shallow frame called an alfiz, an Almohad habit that is uncommon in Toledo. The building was made over from the middle of the thirteenth century, and this tower is what is left of it."
+        "de" : "Dann schau auf die Öffnungen. Es sind spitze Hufeisenbögen, jeder in einem flachen Rahmen, dem Alfiz. Diese Gewohnheit der Almohaden ist in Toledo selten. Der Turm gehörte zu einer Kirche, die schon 1187 in Schriften auftaucht. Man riss sie 1959 ab, und nur der Turm blieb stehen. Seine Fundamente reichen bis zu einem Minarett zurück.",
+        "en" : "Next look at the openings. They are pointed horseshoe arches, each set in a shallow frame called an alfiz. That Almohad habit is rare in Toledo. The tower once belonged to a church, mentioned in writing in 1187. The church came down in 1959, and just the tower was left standing. Dig deeper and its foundations go back to a minaret."
       },
       "localizedStory" : {
-        "de" : "Die Kirche, die hier stand, fiel 1959. Nur ihr Turm blieb, und der begann als Minarett.",
-        "en" : "The church that stood here came down in 1959. Its tower is all that is left, and it began as a minaret."
+        "de" : "Such in diesen Mauern einen Fremdling: einen wiederverwendeten Stein der Westgoten. Sonst gibt es im Mauerwerk keine Ausnahme.",
+        "en" : "Search these walls for a stranger: one reused Visigothic stone. It is the single exception in all the masonry."
       },
       "name" : "Torre de San Cristóbal",
       "pos" : [
         39.855528,
         -4.027343
       ],
-      "story" : "The church that stood here came down in 1959. Its tower is all that is left, and it began as a minaret."
+      "story" : "Search these walls for a stranger: one reused Visigothic stone. It is the single exception in all the masonry."
     },
     {
-      "extendedStory" : "A square usually takes its name from whatever stands on it, and this one is no different. What is worth going inside for is the ceiling of the Corpus Christi chapel. It is wood, painted, and set with glazed tile. Look along the band that runs round its edge. Riders follow one another the whole way: one Christian, then one Muslim, then Christian again.",
+      "extendedStory" : "Inside that same Corpus Christi chapel, a painted wooden ceiling tells a calmer tale. Christian and Muslim riders take turns, one after another, all along its frieze. Other bands show knights jousting and lines of Kufic Arabic lettering. Experts think its design follows Alfonso X the Wise's funeral chapel in Seville. Alfonso VI founded this parish church after taking Toledo in 1085.",
       "icon" : "everyday",
       "id" : "f-plaza-de-san-justo",
       "kind" : "square",
       "localizedExtendedStory" : {
-        "de" : "Der Platz trägt den Namen der Kirche an ihm, einer der Pfarreien, die Alfonso VI. 1085 nach der Einnahme der Stadt gründete. Die Kirche bewahrt eine Backsteinapsis mit Blendbögen. Ihre Fronleichnamskapelle hat eine bemalte Holzdecke, reich an Fliesenwerk. Um diese Decke läuft ein Fries. Ein christlicher und ein muslimischer Reiter folgen einander rundherum.",
-        "en" : "A square usually takes its name from whatever stands on it, and this one is no different. What is worth going inside for is the ceiling of the Corpus Christi chapel. It is wood, painted, and set with glazed tile. Look along the band that runs round its edge. Riders follow one another the whole way: one Christian, then one Muslim, then Christian again."
+        "de" : "Drinnen erzählt die bemalte Holzdecke der Corpus-Christi-Kapelle etwas ganz anderes. Auf ihrem Fries reiten abwechselnd ein christlicher und ein muslimischer Reiter, rundherum. Andere Bänder zeigen Ritter beim Turnier und Zeilen kufischer arabischer Schrift. Fachleute meinen, Vorbild sei die Grabkapelle von Alfons dem Weisen in Sevilla gewesen. Die Kirche gehört zu den Pfarreien, die nach der Eroberung von 1085 entstanden.",
+        "en" : "Inside that same Corpus Christi chapel, a painted wooden ceiling tells a calmer tale. Christian and Muslim riders take turns, one after another, all along its frieze. Other bands show knights jousting and lines of Kufic Arabic lettering. Experts think its design follows Alfonso X the Wise's funeral chapel in Seville. Alfonso VI founded this parish church after taking Toledo in 1085."
       },
       "localizedStory" : {
-        "de" : "In der Kapelle zeigt eine bemalte Decke abwechselnd einen christlichen und einen muslimischen Reiter.",
-        "en" : "In the chapel here a painted ceiling shows a Christian rider and a Muslim rider, turn and turn about."
+        "de" : "Man sagt, aus einem feuchten Fleck am Putz der Kapelle schaue ein Gesicht. Manche sehen einen Mönch mit Kapuze, vielleicht einen Templer.",
+        "en" : "People say a face stares out of a damp stain on the chapel's outer plaster. Some see a hooded monk, maybe a Templar."
       },
       "name" : "Plaza de San Justo",
       "pos" : [
         39.85635,
         -4.02176
       ],
-      "story" : "In the chapel here a painted ceiling shows a Christian rider and a Muslim rider, turn and turn about."
+      "story" : "People say a face stares out of a damp stain on the chapel's outer plaster. Some see a hooded monk, maybe a Templar."
     }
   ],
-  "generatedAt" : "2026-09-21T06:45:33Z",
+  "generatedAt" : "2026-09-21T10:18:04Z",
   "icon" : {
     "paths" : [
       "M 20.00 46.00 L 80.00 46.00 L 80.00 88.00 L 20.00 88.00 Z M 12.00 20.00 L 28.00 20.00 L 28.00 88.00 L 12.00 88.00 Z M 72.00 20.00 L 88.00 20.00 L 88.00 88.00 L 72.00 88.00 Z M 20.00 14.00 L 30.00 14.00 L 30.00 52.00 L 20.00 52.00 Z M 70.00 14.00 L 80.00 14.00 L 80.00 52.00 L 70.00 52.00 Z M 11.00 20.00 L 29.00 20.00 L 20.00 8.00 Z M 71.00 20.00 L 89.00 20.00 L 80.00 8.00 Z M 19.00 14.00 L 31.00 14.00 L 25.00 4.00 Z M 69.00 14.00 L 81.00 14.00 L 75.00 4.00 Z M 42.00 36.00 L 58.00 36.00 L 58.00 48.00 L 42.00 48.00 Z M 41.00 36.00 L 59.00 36.00 L 50.00 28.00 Z M 16.00 86.00 L 84.00 86.00 L 84.00 92.00 L 16.00 92.00 Z M 16.00 40.00 L 16.00 50.00 L 24.00 50.00 L 24.00 40.00 Z M 76.00 40.00 L 76.00 50.00 L 84.00 50.00 L 84.00 40.00 Z M 46.00 66.00 L 46.00 88.00 L 54.00 88.00 L 54.00 66.00 Z M 28.00 54.00 L 28.00 62.00 L 34.00 62.00 L 34.00 54.00 Z M 66.00 54.00 L 66.00 62.00 L 72.00 62.00 L 72.00 54.00 Z M 28.00 68.00 L 28.00 76.00 L 34.00 76.00 L 34.00 68.00 Z M 66.00 68.00 L 66.00 76.00 L 72.00 76.00 L 72.00 68.00 Z"
@@ -11098,7 +11080,7 @@
     "en" : "Toledo"
   },
   "name" : "Toledo",
-  "packVersion" : 11,
+  "packVersion" : 12,
   "schemaVersion" : 1,
   "source" : "OpenStreetMap via Overpass API",
   "stats" : {

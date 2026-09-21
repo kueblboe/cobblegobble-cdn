@@ -199,9 +199,9 @@
 
     ],
     "adjustedStreets" : [
-      "Østergade"
+
     ],
-    "fromVersion" : 12,
+    "fromVersion" : 13,
     "removedStreets" : [
 
     ]
@@ -8493,187 +8493,187 @@
   ],
   "fruits" : [
     {
-      "extendedStory" : "Christian IV ordered this tower and Hans van Steenwinckel the Younger built it, finished in 1642. It stands 34.8 metres. Inside there is no staircase. A brick ramp winds round and round the core instead. That is how instruments, and the occasional horse, were got to the top. It was built as an observatory, so the point was always what you could see from up there.",
+      "extendedStory" : "Peter the Great was that rider, on a visit to Copenhagen in 1716. His wife Catherine is said to have followed him up in a carriage, wheels and all. Christian IV ordered the tower from his architect, Hans van Steenwinckel the Younger, in the baroque style. Walk the ramp yourself and picture hooves and carriage wheels rattling past you on the way up.",
       "icon" : "choice",
       "id" : "f-rundetarn",
       "kind" : "gate_tower",
       "localizedExtendedStory" : {
-        "de" : "Christian IV. gab den Turm in Auftrag, Hans van Steenwinckel der Jüngere baute ihn, fertig 1642. Er misst 34,8 Meter. Drinnen gibt es keine Treppe. Stattdessen windet sich eine gemauerte Rampe um den Kern, und so kamen Instrumente und gelegentlich ein Pferd nach oben. Gebaut wurde er als Sternwarte, es ging also immer darum, was man von dort oben sieht.",
-        "en" : "Christian IV ordered this tower and Hans van Steenwinckel the Younger built it, finished in 1642. It stands 34.8 metres. Inside there is no staircase. A brick ramp winds round and round the core instead. That is how instruments, and the occasional horse, were got to the top. It was built as an observatory, so the point was always what you could see from up there."
+        "de" : "Der Reiter war Zar Peter der Große, der 1716 Kopenhagen besuchte. Seine Frau Katharina fuhr ihm angeblich sogar in einer Kutsche hinterher, mitsamt Pferden. Bestellt hat den Turm König Christian der Vierte, entworfen hat ihn Hans van Steenwinckel der Jüngere im Barockstil. Wenn du die Rampe selbst hochgehst, hör genau hin: Vielleicht klappern da noch Hufe und Kutschenräder neben dir her.",
+        "en" : "Peter the Great was that rider, on a visit to Copenhagen in 1716. His wife Catherine is said to have followed him up in a carriage, wheels and all. Christian IV ordered the tower from his architect, Hans van Steenwinckel the Younger, in the baroque style. Walk the ramp yourself and picture hooves and carriage wheels rattling past you on the way up."
       },
       "localizedStory" : {
-        "de" : "Ein runder Turm von 1642 ohne Treppe. Stattdessen windet sich eine gemauerte Rampe hinauf.",
-        "en" : "A round tower of 1642 with no stairs inside. A brick ramp spirals up it instead."
+        "de" : "Ein Zar ritt einmal hoch zu Ross diesen Turm hinauf. Geh durch die Tür und nimm die Wendelrampe, auf der er nach oben ritt.",
+        "en" : "A tsar once rode his horse up this tower. Step through the door and climb the spiral ramp he rode."
       },
       "name" : "Rundetårn",
       "pos" : [
         55.681318,
         12.575698
       ],
-      "story" : "A round tower of 1642 with no stairs inside. A brick ramp spirals up it instead."
+      "story" : "A tsar once rode his horse up this tower. Step through the door and climb the spiral ramp he rode."
     },
     {
-      "extendedStory" : "Elias David Häusser drew this palace and work began in 1740. The style is baroque, which means weight, symmetry and a great deal of front. It carries the name of Christian VI, the king who ordered it. Denmark still runs a good deal of its business from this address. Few buildings anywhere hold a parliament, a court and a royal household at the same time.",
+      "extendedStory" : "Christian VI gave the palace his name, and Elias David Häusser drew him a baroque one. It burned in 1794, and the palace that replaced it burned again in 1884. Each time, the builders came back to the same spot and began once more. What you see is their stubborn answer to a simple question: where does the king's palace belong? Right here, whatever the fire says.",
       "icon" : "hero",
       "id" : "f-christiansborg-slot",
       "kind" : "fortress",
       "localizedExtendedStory" : {
-        "de" : "Elias David Häusser entwarf dieses Schloss, 1740 begannen die Arbeiten. Der Stil ist barock, also Gewicht, Symmetrie und sehr viel Fassade. Es trägt den Namen Christians VI., des Königs, der es bestellte. Dänemark wickelt bis heute einiges an dieser Adresse ab. Kaum ein Bau beherbergt zugleich Parlament, Gericht und ein Königshaus.",
-        "en" : "Elias David Häusser drew this palace and work began in 1740. The style is baroque, which means weight, symmetry and a great deal of front. It carries the name of Christian VI, the king who ordered it. Denmark still runs a good deal of its business from this address. Few buildings anywhere hold a parliament, a court and a royal household at the same time."
+        "de" : "Den Namen gab ihm König Christian der Sechste, den barocken Entwurf Elias David Häusser. Dieser Bau brannte 1794 nieder, und auch sein Nachfolger ging 1884 in Flammen auf. Jedes Mal kehrten die Baumeister an denselben Fleck zurück und fingen von vorn an. Was du hier siehst, ist ihre sture Antwort auf eine einfache Frage: Wo gehört das Schloss des Königs hin? Genau hierher, egal was das Feuer dazu meint.",
+        "en" : "Christian VI gave the palace his name, and Elias David Häusser drew him a baroque one. It burned in 1794, and the palace that replaced it burned again in 1884. Each time, the builders came back to the same spot and began once more. What you see is their stubborn answer to a simple question: where does the king's palace belong? Right here, whatever the fire says."
       },
       "localizedStory" : {
-        "de" : "Ein Barockschloss, 1740 begonnen und nach Christian VI. benannt, dem König, der es wollte.",
-        "en" : "A baroque palace begun in 1740 and named for Christian VI, the king who wanted it."
+        "de" : "Dieses Schloss ist ein Stehaufmännchen. Feuer zerstörte die Schlösser, die hier vorher standen. Das vor dir ist schon das dritte.",
+        "en" : "This palace is a comeback. Fire wrecked the palaces that stood here before it, so the one you see is the third."
       },
       "name" : "Christiansborg Slot",
       "pos" : [
         55.676183,
         12.580286
       ],
-      "story" : "A baroque palace begun in 1740 and named for Christian VI, the king who wanted it."
+      "story" : "This palace is a comeback. Fire wrecked the palaces that stood here before it, so the one you see is the third."
     },
     {
-      "extendedStory" : "Christian Frederik Hansen rebuilt this church and it was finished in 1829. He worked in the Neoclassical manner, which looks back to Greek and Roman building for straight lines and calm surfaces. There is very little decoration. The church belongs to Mary. After the noise of the street the plainness inside is the whole effect, and it is deliberate.",
+      "extendedStory" : "The plaster apostles reached Copenhagen in 1828, and not one of them fitted. So the niches were walled up, and the statues now stand on pedestals in front of the piers. Christian Frederik Hansen designed the church in the neoclassical style and named it for Mary, Our Lady. Stand among the apostles and judge for yourself: a stubborn sculptor, or just some very bad measuring?",
       "icon" : "choice",
       "id" : "f-vor-frue-kirke",
       "kind" : "church",
       "localizedExtendedStory" : {
-        "de" : "Christian Frederik Hansen baute diese Kirche neu, 1829 war sie fertig. Er arbeitete klassizistisch, ein Stil, der bei Griechen und Römern gerade Linien und ruhige Flächen holt. Schmuck gibt es kaum. Die Kirche gehört Maria. Nach dem Lärm der Straße ist die Schlichtheit drinnen die ganze Wirkung, und sie ist gewollt.",
-        "en" : "Christian Frederik Hansen rebuilt this church and it was finished in 1829. He worked in the Neoclassical manner, which looks back to Greek and Roman building for straight lines and calm surfaces. There is very little decoration. The church belongs to Mary. After the noise of the street the plainness inside is the whole effect, and it is deliberate."
+        "de" : "Die Gipsmodelle der Apostel kamen 1828 in Kopenhagen an, und keiner davon passte in seine Nische. Also mauerte man die Nischen zu und stellte die Figuren auf Sockel vor die Pfeiler. Entworfen hat die Kirche Christian Frederik Hansen, im klassizistischen Stil, und geweiht ist sie der Gottesmutter Maria. Stell dich zwischen die Apostel und entscheide selbst: ein sturer Bildhauer oder einfach sehr schlecht gemessen?",
+        "en" : "The plaster apostles reached Copenhagen in 1828, and not one of them fitted. So the niches were walled up, and the statues now stand on pedestals in front of the piers. Christian Frederik Hansen designed the church in the neoclassical style and named it for Mary, Our Lady. Stand among the apostles and judge for yourself: a stubborn sculptor, or just some very bad measuring?"
       },
       "localizedStory" : {
-        "de" : "Eine Kirche für Maria, 1829 von Christian Frederik Hansen in klarer, gerader Weise neu gebaut.",
-        "en" : "A church for Mary, rebuilt in 1829 by Christian Frederik Hansen in a plain, straight-lined manner."
+        "de" : "Thorvaldsens Apostel passten nicht in ihre Nischen, sie waren zu groß. Man sagt, er wollte das so, weil Figuren bei ihm frei stehen sollten.",
+        "en" : "Thorvaldsen's apostles came out too big for their niches. People say he did it on purpose, because he wanted his statues to stand free."
       },
       "name" : "Vor Frue Kirke",
       "pos" : [
         55.679525,
         12.573426
       ],
-      "story" : "A church for Mary, rebuilt in 1829 by Christian Frederik Hansen in a plain, straight-lined manner."
+      "story" : "Thorvaldsen's apostles came out too big for their niches. People say he did it on purpose, because he wanted his statues to stand free."
     },
     {
-      "extendedStory" : "Martin Nyrop designed this and it was finished in 1905. The style is Art Nouveau, which took its shapes from plants and insisted that a building be looked at closely. Nyrop cared about the craft as much as the plan. Brick, ironwork and carving were meant to be handled by people who knew what they were doing. Stand near the doorway and look at the detail rather than the whole.",
+      "extendedStory" : "Martin Nyrop designed this town hall in the Art Nouveau style. Inside, Jens Olsen's great timepiece runs on thousands of tiny parts. Its quickest gear spins once every ten seconds. Its slowest needs 25,753 years for a single turn, so no one alive today will see it come round. Stand still for a moment and think of that gear, patiently waiting out the centuries.",
       "icon" : "everyday",
       "id" : "f-københavns-radhus",
       "kind" : "civic",
       "localizedExtendedStory" : {
-        "de" : "Martin Nyrop entwarf es, 1905 war es fertig. Der Stil ist Jugendstil, der seine Formen von Pflanzen nahm und darauf bestand, dass man ein Haus aus der Nähe ansieht. Nyrop lag am Handwerk so viel wie am Entwurf. Ziegel, Eisen und Schnitzerei sollten durch Hände gehen, die ihr Fach beherrschten. Stell dich ans Portal und schau auf das Detail, nicht auf das Ganze.",
-        "en" : "Martin Nyrop designed this and it was finished in 1905. The style is Art Nouveau, which took its shapes from plants and insisted that a building be looked at closely. Nyrop cared about the craft as much as the plan. Brick, ironwork and carving were meant to be handled by people who knew what they were doing. Stand near the doorway and look at the detail rather than the whole."
+        "de" : "Martin Nyrop entwarf dieses stattliche Rathaus im verspielten Jugendstil. Irgendwo im Haus tickt die Weltuhr von Jens Olsen, gebaut aus Tausenden winziger Teile. Ihr schnellstes Zahnrad dreht sich alle zehn Sekunden einmal. Ihr langsamstes braucht für eine Umdrehung 25.753 Jahre, und das erlebt kein Mensch. Bleib kurz stehen und denk an dieses Zahnrad, das ganz geduldig durch die Jahrhunderte wartet.",
+        "en" : "Martin Nyrop designed this town hall in the Art Nouveau style. Inside, Jens Olsen's great timepiece runs on thousands of tiny parts. Its quickest gear spins once every ten seconds. Its slowest needs 25,753 years for a single turn, so no one alive today will see it come round. Stand still for a moment and think of that gear, patiently waiting out the centuries."
       },
       "localizedStory" : {
-        "de" : "Martin Nyrops Rathaus, 1905 vollendet, im Jugendstil mit seinen Kurven und Feinheiten.",
-        "en" : "Martin Nyrop's city hall, finished in 1905, built in the Art Nouveau manner of curves and detail."
+        "de" : "Wer hier heiratet, darf sich draußen auf dem Platz mit Reis bewerfen lassen, heißt es. Nur nicht auf der Treppe oder im Haus.",
+        "en" : "Getting married here? They say your guests may throw rice at you out on the square, just never on the steps or inside."
       },
       "name" : "Københavns Rådhus",
       "pos" : [
         55.67527,
         12.570317
       ],
-      "story" : "Martin Nyrop's city hall, finished in 1905, built in the Art Nouveau manner of curves and detail."
+      "story" : "Getting married here? They say your guests may throw rice at you out on the square, just never on the steps or inside."
     },
     {
-      "extendedStory" : "A church has stood on this ground since 1400 and it belongs to the Holy Spirit. Copenhagen has burned more than once, and buildings here are rarely all of one age. This one was put up again in 1732. The old and the new sit in the same walls. Look for the joins, because a city that keeps rebuilding leaves its seams showing.",
+      "extendedStory" : "A fire gutted the church in 1728, and Christian VI stepped in. The pieces came from the chapel of Copenhagen Castle, which was being cleared away for the new Christiansborg. So you are looking at church furniture that once served a palace which no longer exists. The church is named for the Holy Spirit, and its story on this spot goes back to around 1400.",
       "icon" : "everyday",
       "id" : "f-helligandskirken",
       "kind" : "church",
       "localizedExtendedStory" : {
-        "de" : "Seit 1400 steht hier eine Kirche, und sie gehört dem Heiligen Geist. Kopenhagen hat mehr als einmal gebrannt, und Häuser sind hier selten aus einem Guss. Dieses wurde 1732 wieder aufgerichtet. Altes und Neues stecken in denselben Mauern. Achte auf die Nähte, denn eine Stadt, die immer wieder baut, zeigt ihre Fugen.",
-        "en" : "A church has stood on this ground since 1400 and it belongs to the Holy Spirit. Copenhagen has burned more than once, and buildings here are rarely all of one age. This one was put up again in 1732. The old and the new sit in the same walls. Look for the joins, because a city that keeps rebuilding leaves its seams showing."
+        "de" : "Nach einem Brand im Jahr 1728 war die Kirche nur noch eine leere Hülle, und Christian der Sechste half aus. Die Stücke stammen aus der Kapelle des Kopenhagener Schlosses, das bald für das neue Christiansborg weichen musste. Du stehst also vor Kirchenmöbeln, die einmal einem Schloss dienten, das es längst nicht mehr gibt. Geweiht ist die Kirche dem Heiligen Geist, und ihre Geschichte an diesem Ort reicht bis um 1400 zurück.",
+        "en" : "A fire gutted the church in 1728, and Christian VI stepped in. The pieces came from the chapel of Copenhagen Castle, which was being cleared away for the new Christiansborg. So you are looking at church furniture that once served a palace which no longer exists. The church is named for the Holy Spirit, and its story on this spot goes back to around 1400."
       },
       "localizedStory" : {
-        "de" : "Eine Kirche des Heiligen Geistes, seit 1400 an dieser Stelle, 1732 erneut aufgebaut.",
-        "en" : "A church of the Holy Spirit, standing here since 1400, rebuilt again in 1732."
+        "de" : "Altar und Kanzel hier sind geerbt, und zwar aus einem Königsschloss. Der König gab sie weiter, bevor das Schloss abgerissen wurde.",
+        "en" : "The altar and pulpit here are hand-me-downs from a royal castle. The king passed them on before the castle came down."
       },
       "name" : "Helligåndskirken",
       "pos" : [
         55.678945,
         12.576465
       ],
-      "story" : "A church of the Holy Spirit, standing here since 1400, rebuilt again in 1732."
+      "story" : "The altar and pulpit here are hand-me-downs from a royal castle. The king passed them on before the castle came down."
     },
     {
-      "extendedStory" : "On 22 May 1807 the royal cabinet of curiosities became a national collection, under Christian Jurgensen Thomsen. It sits in the Prince's Mansion, a rococo house. Inside are the Trundholm sun chariot and the Gundestrup cauldron. The golden horns of Gallehus are here as copies. The originals were stolen in 1802 and melted down, which is why nobody will ever see them again.",
+      "extendedStory" : "That horse, part of the Trundholm Sun Chariot, is one of the treasures kept here, beside the Gundestrup cauldron. The golden horns of Gallehus are copies, because thieves stole the real ones in 1802 and melted them down. The house itself, the Prince's Mansion, got its rococo look from Nicolai Eigtved. Before the museum, it housed a merchant, then royals and a crown prince, then officials and artists.",
       "icon" : "choice",
       "id" : "f-nationalmuseet",
       "kind" : "museum",
       "localizedExtendedStory" : {
-        "de" : "Am 22. Mai 1807 wurde aus der königlichen Kunstkammer eine Nationalsammlung, unter Christian Jurgensen Thomsen. Sie sitzt im Prinzenpalais, einem Rokokohaus. Drinnen stehen der Sonnenwagen von Trundholm und der Kessel von Gundestrup. Die Goldhörner von Gallehus liegen hier als Kopien. Die Originale wurden 1802 gestohlen und eingeschmolzen, und darum wird sie nie wieder jemand sehen.",
-        "en" : "On 22 May 1807 the royal cabinet of curiosities became a national collection, under Christian Jurgensen Thomsen. It sits in the Prince's Mansion, a rococo house. Inside are the Trundholm sun chariot and the Gundestrup cauldron. The golden horns of Gallehus are here as copies. The originals were stolen in 1802 and melted down, which is why nobody will ever see them again."
+        "de" : "Heute steht der Sonnenwagen von Trundholm hier im Museum, zusammen mit dem berühmten Kessel von Gundestrup. Die goldenen Hörner von Gallehus sind nur Kopien, denn die echten wurden 1802 gestohlen und eingeschmolzen. Das Haus selbst, das Prinsens Palæ, bekam seine Rokokoform von Nicolai Eigtved. Bevor das Museum einzog, wohnten hier nacheinander ein Kaufmann, königliche Herrschaften, ein Kronprinz und später Beamte und Künstler.",
+        "en" : "That horse, part of the Trundholm Sun Chariot, is one of the treasures kept here, beside the Gundestrup cauldron. The golden horns of Gallehus are copies, because thieves stole the real ones in 1802 and melted them down. The house itself, the Prince's Mansion, got its rococo look from Nicolai Eigtved. Before the museum, it housed a merchant, then royals and a crown prince, then officials and artists."
       },
       "localizedStory" : {
-        "de" : "Dänemarks Sammlung begann 1807 als königliche Kunstkammer, und sie hat alles behalten.",
-        "en" : "Denmark's collection began in 1807 as a royal cabinet of curiosities, and it kept everything."
+        "de" : "Ein Bauer pflügte das Pferd des Sonnenwagens aus der Erde und hielt es für altes Spielzeug. Seine Kinder spielten ein paar Tage damit.",
+        "en" : "A farmer ploughed up the Sun Chariot's horse and thought it was an old toy. His children played with it for a few days."
       },
       "name" : "Nationalmuseet",
       "pos" : [
         55.674902,
         12.574454
       ],
-      "story" : "Denmark's collection began in 1807 as a royal cabinet of curiosities, and it kept everything."
+      "story" : "A farmer ploughed up the Sun Chariot's horse and thought it was an old toy. His children played with it for a few days."
     },
     {
-      "extendedStory" : "This opened in 1848 and it was built around one man. Bertel Thorvaldsen was a sculptor, and the building holds his work and carries his name. Museums usually gather what they can from everywhere. This one was raised for one artist while people still remembered him working. The walls stand about 18 metres, and the colours outside are nothing like the grey around them.",
+      "extendedStory" : "Look for the green around his resting place. Artists decorated it with plants and flowers, some from the north and some from the south, to frame the grave. Cold-country blooms share the bed with warm-country ones, all for a single sculptor. The museum around him dates from 1848 and stands 18 metres tall. Step inside and you visit the artist himself, not just his name.",
       "icon" : "everyday",
       "id" : "f-thorvaldsens-museum",
       "kind" : "museum",
       "localizedExtendedStory" : {
-        "de" : "Es öffnete 1848 und wurde um einen Mann herum gebaut. Bertel Thorvaldsen war Bildhauer, das Haus bewahrt sein Werk und trägt seinen Namen. Museen tragen sonst zusammen, was sie überall bekommen. Dieses entstand für einen Künstler, als man ihn noch bei der Arbeit erinnerte. Die Mauern messen etwa 18 Meter, und die Farben außen haben nichts mit dem Grau ringsum zu tun.",
-        "en" : "This opened in 1848 and it was built around one man. Bertel Thorvaldsen was a sculptor, and the building holds his work and carries his name. Museums usually gather what they can from everywhere. This one was raised for one artist while people still remembered him working. The walls stand about 18 metres, and the colours outside are nothing like the grey around them."
+        "de" : "Achte auf das Grün rund um seine Ruhestätte. Künstler schmückten es mit Pflanzen und Blumen, manche aus dem Norden, manche aus dem Süden, als Rahmen für das Grab. Blüten aus kalten Ländern teilen sich das Beet mit solchen aus warmen, alles für einen Bildhauer. Das Museum um ihn herum stammt von 1848 und ist 18 Meter hoch. Wer hineingeht, besucht also nicht nur seinen Namen, sondern den Künstler selbst.",
+        "en" : "Look for the green around his resting place. Artists decorated it with plants and flowers, some from the north and some from the south, to frame the grave. Cold-country blooms share the bed with warm-country ones, all for a single sculptor. The museum around him dates from 1848 and stands 18 metres tall. Step inside and you visit the artist himself, not just his name."
       },
       "localizedStory" : {
-        "de" : "Ein Museum von 1848, um einen Bildhauer herum gebaut, Bertel Thorvaldsen, und um sein Werk.",
-        "en" : "A museum of 1848 built around one sculptor, Bertel Thorvaldsen, and around his own work."
+        "de" : "Der Name über der Tür gehört einem Mann, der nie gegangen ist. Bertel Thorvaldsens Grab liegt in seinem eigenen Museum.",
+        "en" : "The name over the door belongs to a man who never left. Bertel Thorvaldsen's grave lies inside his own museum."
       },
       "name" : "Thorvaldsens Museum",
       "pos" : [
         55.676751,
         12.578402
       ],
-      "story" : "A museum of 1848 built around one sculptor, Bertel Thorvaldsen, and around his own work."
+      "story" : "The name over the door belongs to a man who never left. Bertel Thorvaldsen's grave lies inside his own museum."
     },
     {
-      "extendedStory" : "Ramparts ran across here once, and the way in was the Western City Gate, with a hay market beside it. The walls came down in the 1850s and left a hole in the middle of the city. Martin Nyrop won the competition to fill it in 1889. The square opened in 1905. Two bronze lur blowers stand on a column 20 metres up, and nearby a gilded sign turns to tell you the weather.",
+      "extendedStory" : "Look for the tall column topped by two bronze men blowing long lur horns. Nearby, a gilded weather sign tells the forecast with two girls. One rides a bicycle for sunshine, the other brings an umbrella and a dog for rain. Across the square, a bull fights a dragon in the fountain, splashing since 1904. Before all this, it was the hay market, beside the western gate through the ramparts.",
       "icon" : "everyday",
       "id" : "f-radhuspladsen",
       "kind" : "square",
       "localizedExtendedStory" : {
-        "de" : "Hier verliefen einmal Wälle, und der Weg hinein war das Westtor, daneben ein Heumarkt. In den 1850er Jahren fielen die Mauern und ließen ein Loch mitten in der Stadt. Martin Nyrop gewann 1889 den Wettbewerb, 1894 wurde der Grundstein gelegt, 1905 öffnete der Platz. Zwei bronzene Lurenbläser stehen auf einer Säule, 20 Meter hoch. Nebenan dreht sich ein vergoldetes Zeichen und sagt das Wetter an.",
-        "en" : "Ramparts ran across here once, and the way in was the Western City Gate, with a hay market beside it. The walls came down in the 1850s and left a hole in the middle of the city. Martin Nyrop won the competition to fill it in 1889. The square opened in 1905. Two bronze lur blowers stand on a column 20 metres up, and nearby a gilded sign turns to tell you the weather."
+        "de" : "Such zuerst die hohe Säule mit den zwei bronzenen Lurenbläsern ganz oben. In der Nähe sagt ein vergoldetes Wetterschild das Wetter mit zwei Mädchen voraus. Bei Sonne radelt das eine vorbei, bei Regen kommt das andere mit Schirm und Hund. Drüben im Drachenbrunnen kämpft seit 1904 ein Stier gegen einen Drachen. Früher lag hier der Heumarkt, direkt am westlichen Stadttor durch die Wälle.",
+        "en" : "Look for the tall column topped by two bronze men blowing long lur horns. Nearby, a gilded weather sign tells the forecast with two girls. One rides a bicycle for sunshine, the other brings an umbrella and a dog for rain. Across the square, a bull fights a dragon in the fountain, splashing since 1904. Before all this, it was the hay market, beside the western gate through the ramparts."
       },
       "localizedStory" : {
-        "de" : "Achte auf das vergoldete Wetterzeichen. Mädchen auf dem Rad heißt schön. Mädchen mit Schirm heißt Regen.",
-        "en" : "Watch the gilded weather sign. A girl on a bicycle means fine. A girl with an umbrella means rain."
+        "de" : "An Silvester, so heißt es, drängen sich hier Tausende und schauen auf die Rathausuhr. Um Mitternacht leuchtet der Himmel voller Feuerwerk.",
+        "en" : "On New Year's Eve, they say, thousands of Copenhageners pack this square and watch the town hall clock. At midnight, fireworks fill the sky."
       },
       "name" : "Rådhuspladsen",
       "pos" : [
         55.676045,
         12.568828
       ],
-      "story" : "Watch the gilded weather sign. A girl on a bicycle means fine. A girl with an umbrella means rain."
+      "story" : "On New Year's Eve, they say, thousands of Copenhageners pack this square and watch the town hall clock. At midnight, fireworks fill the sky."
     },
     {
-      "extendedStory" : "Before 1670 this was a mess of old rampart remains and heaps of rubbish, impassable when it rained. Christian V was crowned that year and had the whole thing levelled and cobbled. In the middle stands his own statue on horseback, cut by the French sculptor Abraham-Cesar Lamoureux in 1688. Around it runs an oval garden the Danes call Krinsen, from an old word for a wreath.",
+      "extendedStory" : "Look under the horse's hoof: a naked figure crouches there, and it is holding the statue up. Abraham-César Lamoureux cast the horse in soft gilded lead, so he added the figure to brace a weak spot. The rider is Christian V, who had this ground cleared and cobbled soon after he was crowned. Before him it was rubbish heaps and old rampart ruins, impassable whenever it rained. The oval garden around the statue is Krinsen, from an old word for a wreath.",
       "icon" : "everyday",
       "id" : "f-kongens-nytorv",
       "kind" : "square",
       "localizedExtendedStory" : {
-        "de" : "Vor 1670 lag hier ein Durcheinander aus Wallresten und Abfallhaufen, bei Regen unpassierbar. Christian V. wurde in jenem Jahr gekrönt und ließ alles einebnen und pflastern. In der Mitte steht sein eigenes Reiterstandbild, 1688 vom französischen Bildhauer Abraham-Cesar Lamoureux gehauen. Ringsum liegt ein ovaler Garten, den die Dänen Krinsen nennen, nach einem alten Wort für Kranz.",
-        "en" : "Before 1670 this was a mess of old rampart remains and heaps of rubbish, impassable when it rained. Christian V was crowned that year and had the whole thing levelled and cobbled. In the middle stands his own statue on horseback, cut by the French sculptor Abraham-Cesar Lamoureux in 1688. Around it runs an oval garden the Danes call Krinsen, from an old word for a wreath."
+        "de" : "Schau unter den Huf des Pferdes: Dort kauert eine nackte Figur, und sie trägt das ganze Standbild. Abraham-César Lamoureux goss das Pferd aus weichem, vergoldetem Blei und setzte die Figur als Stütze unter eine schwache Stelle. Der Reiter ist Christian der Fünfte, der den Platz gleich nach seiner Krönung ebnen und pflastern ließ. Vorher lagen hier Wallreste und Müllberge, und bei Regen war kein Durchkommen. Den ovalen Garten ringsum nennen die Dänen Krinsen, nach einem alten Wort für Kranz.",
+        "en" : "Look under the horse's hoof: a naked figure crouches there, and it is holding the statue up. Abraham-César Lamoureux cast the horse in soft gilded lead, so he added the figure to brace a weak spot. The rider is Christian V, who had this ground cleared and cobbled soon after he was crowned. Before him it was rubbish heaps and old rampart ruins, impassable whenever it rained. The oval garden around the statue is Krinsen, from an old word for a wreath."
       },
       "localizedStory" : {
-        "de" : "Christian V. ließ diesen Grund nach seiner Krönung 1670 planieren und pflastern. Vorher lag hier Abfall.",
-        "en" : "Christian V had this ground levelled and cobbled after his coronation in 1670. It had been a rubbish tip."
+        "de" : "Man erzählt, dass frischgebackene Absolventen hier um das Reiterstandbild in der Mitte rennen.",
+        "en" : "Newly graduated students, people say, celebrate by running around the horse statue in the middle of this square."
       },
       "name" : "Kongens Nytorv",
       "pos" : [
         55.680434,
         12.586275
       ],
-      "story" : "Christian V had this ground levelled and cobbled after his coronation in 1670. It had been a rubbish tip."
+      "story" : "Newly graduated students, people say, celebrate by running around the horse statue in the middle of this square."
     }
   ],
-  "generatedAt" : "2026-09-21T07:39:03Z",
+  "generatedAt" : "2026-09-21T13:44:57Z",
   "icon" : {
     "paths" : [
       "M 6.00 84.00 L 6.00 44.00 L 21.00 44.00 L 21.00 84.00 Z M 6.00 44.00 L 13.50 30.00 L 21.00 44.00 Z M 20.00 84.00 L 20.00 36.00 L 37.00 36.00 L 37.00 84.00 Z M 20.00 36.00 L 20.00 31.50 L 22.83 31.50 L 22.83 27.00 L 25.67 27.00 L 25.67 22.50 L 28.50 22.50 L 28.50 18.00 L 31.33 22.50 L 31.33 27.00 L 34.17 27.00 L 34.17 31.50 L 37.00 31.50 L 37.00 36.00 Z M 36.00 84.00 L 36.00 42.00 L 52.00 42.00 L 52.00 84.00 Z M 36.00 42.00 L 44.00 26.00 L 52.00 42.00 Z M 51.00 84.00 L 51.00 32.00 L 68.00 32.00 L 68.00 84.00 Z M 51.00 32.00 L 51.00 28.00 L 53.83 28.00 L 53.83 24.00 L 56.67 24.00 L 56.67 20.00 L 59.50 20.00 L 59.50 16.00 L 62.33 20.00 L 62.33 24.00 L 65.17 24.00 L 65.17 28.00 L 68.00 28.00 L 68.00 32.00 Z M 67.00 84.00 L 67.00 40.00 L 94.00 40.00 L 94.00 84.00 Z M 67.00 40.00 L 80.50 24.00 L 94.00 40.00 Z M 10.00 52.00 L 10.00 62.00 L 17.00 62.00 L 17.00 52.00 Z M 10.00 66.00 L 10.00 76.00 L 17.00 76.00 L 17.00 66.00 Z M 24.00 44.00 L 24.00 54.00 L 29.00 54.00 L 29.00 44.00 Z M 30.00 44.00 L 30.00 54.00 L 35.00 54.00 L 35.00 44.00 Z M 24.00 58.00 L 24.00 68.00 L 29.00 68.00 L 29.00 58.00 Z M 30.00 58.00 L 30.00 68.00 L 35.00 68.00 L 35.00 58.00 Z M 40.00 50.00 L 40.00 60.00 L 45.00 60.00 L 45.00 50.00 Z M 40.00 64.00 L 40.00 74.00 L 45.00 74.00 L 45.00 64.00 Z M 55.00 40.00 L 55.00 50.00 L 60.00 50.00 L 60.00 40.00 Z M 61.00 40.00 L 61.00 50.00 L 66.00 50.00 L 66.00 40.00 Z M 55.00 54.00 L 55.00 64.00 L 60.00 64.00 L 60.00 54.00 Z M 61.00 54.00 L 61.00 64.00 L 66.00 64.00 L 66.00 54.00 Z M 72.00 48.00 L 72.00 58.00 L 78.00 58.00 L 78.00 48.00 Z M 82.00 48.00 L 82.00 58.00 L 88.00 58.00 L 88.00 48.00 Z M 72.00 62.00 L 72.00 72.00 L 78.00 72.00 L 78.00 62.00 Z M 82.00 62.00 L 82.00 72.00 L 88.00 72.00 L 88.00 62.00 Z M 11.00 70.00 L 11.00 84.00 L 16.00 84.00 L 16.00 70.00 Z M 26.00 68.00 L 26.00 84.00 L 31.00 84.00 L 31.00 68.00 Z M 41.00 68.00 L 41.00 84.00 L 46.00 84.00 L 46.00 68.00 Z M 56.00 66.00 L 56.00 84.00 L 61.00 84.00 L 61.00 66.00 Z M 76.00 66.00 L 76.00 84.00 L 82.00 84.00 L 82.00 66.00 Z M 4.00 90.00 L 4.00 84.00 L 96.00 84.00 L 96.00 90.00 Z"
@@ -8686,7 +8686,7 @@
     "en" : "Copenhagen"
   },
   "name" : "Copenhagen",
-  "packVersion" : 13,
+  "packVersion" : 14,
   "schemaVersion" : 1,
   "source" : "OpenStreetMap via Overpass API",
   "stats" : {

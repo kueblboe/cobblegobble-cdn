@@ -164,22 +164,12 @@
   ],
   "changes" : {
     "addedStreets" : [
-      "Smales Street"
+
     ],
     "adjustedStreets" : [
-      "City Walls",
-      "Colliergate",
-      "Deangate",
-      "Kings Square",
-      "Lower Priory Street",
-      "Piccadilly",
-      "Speculation Street",
-      "Stonegate",
-      "The Queen's Path",
-      "Three Cranes Lane",
-      "Walmgate"
+
     ],
-    "fromVersion" : 10,
+    "fromVersion" : 13,
     "removedStreets" : [
 
     ]
@@ -16674,187 +16664,187 @@
   ],
   "fruits" : [
     {
-      "extendedStory" : "Stand back far enough and the windows do something odd. There is more glass up there than wall. That is what English Gothic reaches for, and this church has been reaching since 1220. It belongs to Saint Peter, which is why people here call it the Minster. Say cathedral and you will be gently put right.",
+      "extendedStory" : "Step back from that west front and you'll spot it. Two curves of tracery lean together up top, like a heart drawn in lace. This church belongs to Saint Peter, and its builders took up English Gothic around 1220. Pointed arches and tall windows let daylight pour in. Once you have seen that heart, you cannot unsee it.",
       "icon" : "hero",
       "id" : "f-york-minster",
       "kind" : "church",
       "localizedExtendedStory" : {
-        "de" : "Die Bauarbeiten begannen 1220. Der Stil ist englische Gotik, die die Wände hochzieht und die Lücken dazwischen mit Glas füllt. Geweiht ist die Kirche dem heiligen Petrus, weshalb man hier vom Minster spricht und nicht von der Kathedrale. Geh erst einmal außen herum. Die Größe begreift man erst, wenn man die Länge abgeschritten hat.",
-        "en" : "Stand back far enough and the windows do something odd. There is more glass up there than wall. That is what English Gothic reaches for, and this church has been reaching since 1220. It belongs to Saint Peter, which is why people here call it the Minster. Say cathedral and you will be gently put right."
+        "de" : "Tritt ein paar Schritte vom Portal zurück, dann findest du es. Zwei geschwungene Linien aus Maßwerk neigen sich oben im Fenster zueinander, wie ein Herz aus Spitze. Die Kirche ist dem heiligen Petrus geweiht, und um 1220 griffen ihre Baumeister die englische Gotik auf. Spitzbögen und hohe Fenster holen das Licht herein. Wer das Herz einmal entdeckt hat, sieht es jedes Mal wieder.",
+        "en" : "Step back from that west front and you'll spot it. Two curves of tracery lean together up top, like a heart drawn in lace. This church belongs to Saint Peter, and its builders took up English Gothic around 1220. Pointed arches and tall windows let daylight pour in. Once you have seen that heart, you cannot unsee it."
       },
       "localizedStory" : {
-        "de" : "1220 begonnen und dem heiligen Petrus geweiht, in englischer Gotik mit hohen Wänden und weiten Fenstern.",
-        "en" : "Begun in 1220 and dedicated to Saint Peter, in the English Gothic manner of high walls and wide windows."
+        "de" : "Schau zum großen Westfenster hinauf. Man sagt, das Maßwerk an seiner Spitze bilde ein Herz. Die Leute nennen es das Herz von Yorkshire.",
+        "en" : "Tilt your head up at that great west window. People say its tracery draws a heart, and locals call it Yorkshire's heart."
       },
       "name" : "York Minster",
       "pos" : [
         53.962253,
         -1.083296
       ],
-      "story" : "Begun in 1220 and dedicated to Saint Peter, in the English Gothic manner of high walls and wide windows."
+      "story" : "Tilt your head up at that great west window. People say its tracery draws a heart, and locals call it Yorkshire's heart."
     },
     {
-      "extendedStory" : "Climb the mound and you are on earth piled up in 1068. What sits on top came much later, between 1245 and 1272, paid for by Henry III and drawn by Henry de Reynes. He gave it four round lobes instead of a square, which let the men on top watch more ground at once. The site is also held in memory by York's Jews. About 150 people sheltered here in 1190 and did not come out.",
+      "extendedStory" : "Look at its shape, four rounded lobes like a clover. Henry de Reynes drew it for Henry III so guards on top could see more ground. By 1902 one lobe was sinking, and the engineer Basil Mott saved it with hidden concrete flying buttresses. They lie buried in the mound where no visitor sees them, yet they still hold the keep up.",
       "icon" : "choice",
       "id" : "f-clifford-s-tower",
       "kind" : "fortress",
       "localizedExtendedStory" : {
-        "de" : "Der Hügel stammt von 1068, der steinerne Bergfried darauf entstand zwischen 1245 und 1272 für Heinrich III. Henry de Reynes entwarf einen Grundriss aus vier runden Lappen, damit die Verteidiger von oben mehr Gelände übersahen. Der Name geht wohl auf die Familie Clifford zurück, die hier das Amt des Burgvogts beanspruchte. Dies ist auch ein Ort der Trauer. Etwa 150 Juden Yorks suchten 1190 Schutz in dem Bergfried und kamen nicht wieder heraus.",
-        "en" : "Climb the mound and you are on earth piled up in 1068. What sits on top came much later, between 1245 and 1272, paid for by Henry III and drawn by Henry de Reynes. He gave it four round lobes instead of a square, which let the men on top watch more ground at once. The site is also held in memory by York's Jews. About 150 people sheltered here in 1190 and did not come out."
+        "de" : "Von oben gleicht der Grundriss des Turms einem Kleeblatt mit vier Blättern. Henry de Reynes plante ihn so für den König, damit die Wachen mehr Land überblicken konnten. Später begann einer der Lappen abzurutschen. 1902 stützte ihn der Ingenieur Basil Mott mit Strebebögen aus Beton ab, tief im Hügel versteckt. Niemand sieht sie, und doch halten sie den alten Turm bis heute aufrecht.",
+        "en" : "Look at its shape, four rounded lobes like a clover. Henry de Reynes drew it for Henry III so guards on top could see more ground. By 1902 one lobe was sinking, and the engineer Basil Mott saved it with hidden concrete flying buttresses. They lie buried in the mound where no visitor sees them, yet they still hold the keep up."
       },
       "localizedStory" : {
-        "de" : "Ein Bergfried auf vier runden Lappen, für Heinrich III. auf einem Hügel von 1068 errichtet.",
-        "en" : "A keep standing on four round lobes, raised for Henry III on a mound thrown up in 1068."
+        "de" : "Minced Pie, also Fleischpastete: So lautete einst der Spitzname, den die Leute von York diesem Turm gaben. Seine laute Besatzung wollten sie loswerden.",
+        "en" : "York's people once had a rude name for this keep. Locals called it the Minced Pie, and in the 1600s they wanted it pulled down."
       },
       "name" : "Clifford's Tower",
       "pos" : [
         53.955827,
         -1.080013
       ],
-      "story" : "A keep standing on four round lobes, raised for Henry III on a mound thrown up in 1068."
+      "story" : "York's people once had a rude name for this keep. Locals called it the Minced Pie, and in the 1600s they wanted it pulled down."
     },
     {
-      "extendedStory" : "Between 1976 and 1981 archaeologists dug the Coppergate site and found a Viking town still lying there. Timber houses, workshops, animal pens and wells came up out of the ground, along with over 40,000 objects. The centre opened in April 1984 to put that town back together where it was found. Water got into it badly in December 2015. It opened again in April 2017.",
+      "extendedStory" : "The toilet joke has a real ancestor. Diggers on Pavement, where a bank was about to rise, found a fossilised Viking-age stool 20 cm long. It is called the Lloyds Bank coprolite, and it sits on display here. Under this spot, the Coppergate dig found timber houses, workshops, animal pens, wells and more than forty thousand objects. The Vikings who lived here left it all behind.",
       "icon" : "choice",
       "id" : "f-jorvik-viking-centre",
       "kind" : "museum",
       "localizedExtendedStory" : {
-        "de" : "Zwischen 1976 und 1981 gruben Archäologen das Gelände Coppergate aus und fanden eine Wikingerstadt, die noch dalag. Holzhäuser, Werkstätten, Viehpferche und Brunnen kamen aus dem Boden, dazu über 40.000 Fundstücke. 1984 öffnete das Zentrum, um jene Stadt dort wieder aufzubauen, wo man sie gefunden hatte. Im Dezember 2015 drang Wasser ein. Im April 2017 öffnete es wieder.",
-        "en" : "Between 1976 and 1981 archaeologists dug the Coppergate site and found a Viking town still lying there. Timber houses, workshops, animal pens and wells came up out of the ground, along with over 40,000 objects. The centre opened in April 1984 to put that town back together where it was found. Water got into it badly in December 2015. It opened again in April 2017."
+        "de" : "Der Klo-Witz hat einen echten Vorfahren. Am Pavement, wo bald eine Bank stehen sollte, fanden Ausgräber einen versteinerten Kothaufen aus der Wikingerzeit, 20 Zentimeter lang. Er heißt Lloyds Bank Coprolite und liegt hier in der Vitrine. Unter diesem Ort legte die Grabung in Coppergate Holzhäuser, Werkstätten, Tierpferche und Brunnen frei, dazu mehr als vierzigtausend Fundstücke. Die Wikinger, die hier wohnten, ließen das alles zurück.",
+        "en" : "The toilet joke has a real ancestor. Diggers on Pavement, where a bank was about to rise, found a fossilised Viking-age stool 20 cm long. It is called the Lloyds Bank coprolite, and it sits on display here. Under this spot, the Coppergate dig found timber houses, workshops, animal pens, wells and more than forty thousand objects. The Vikings who lived here left it all behind."
       },
       "localizedStory" : {
-        "de" : "Zwischen 1976 und 1981 fand man hier eine Wikingerstadt und über 40.000 Fundstücke.",
-        "en" : "Diggers found a Viking town under this corner between 1976 and 1981, and left over 40,000 objects behind."
+        "de" : "Kinder behalten angeblich vor allem eines: Bogar, einen Wikinger auf dem Klo, und den Gestank seiner Jauchegrube.",
+        "en" : "Children are said to remember one thing about Jorvik: Bogar, a Viking model on his toilet, and the pong of his cesspit."
       },
       "name" : "Jorvik Viking Centre",
       "pos" : [
         53.957393,
         -1.080294
       ],
-      "story" : "Diggers found a Viking town under this corner between 1976 and 1981, and left over 40,000 objects behind."
+      "story" : "Children are said to remember one thing about Jorvik: Bogar, a Viking model on his toilet, and the pong of his cesspit."
     },
     {
-      "extendedStory" : "The lower part of this gate is twelfth century and the two storeys on top are fourteenth. From 1196 there were people living inside it, up above the archway, with the road running under their floor. It guarded the way in from the south, so anyone arriving from London came through here. That made it the gate where important arrivals were met, and it has kept that job ever since.",
+      "extendedStory" : "The custom goes back to Richard II in 1389. Now step back and look at the arch itself, whose passage walls are reused Roman masonry and gritstone. Yet the bar stands on the wrong side of the river to have been a Roman gate. The builders simply reused what the Romans had left behind. People lived in the rooms above it from 1196.",
       "icon" : "everyday",
       "id" : "f-micklegate-bar",
       "kind" : "gate_tower",
       "localizedExtendedStory" : {
-        "de" : "Der untere Teil dieses Tors stammt aus dem zwölften Jahrhundert, die zwei Geschosse darüber aus dem vierzehnten. Ab 1196 wohnten Menschen darin, über dem Torbogen, mit der Straße unter dem Fußboden. Es bewachte den Weg von Süden, also kam jeder aus London hier herein. So wurde es das Tor, an dem wichtige Gäste empfangen wurden, und das ist es geblieben.",
-        "en" : "The lower part of this gate is twelfth century and the two storeys on top are fourteenth. From 1196 there were people living inside it, up above the archway, with the road running under their floor. It guarded the way in from the south, so anyone arriving from London came through here. That made it the gate where important arrivals were met, and it has kept that job ever since."
+        "de" : "Der Brauch reicht bis ins Jahr 1389 zurück, zu König Richard II. Nun schau dir den Torbogen selbst an: Seine Wände bestehen aus römischen Quadern und Gritstone, einem groben Sandstein. Dabei steht das Tor auf der falschen Flussseite, um selbst ein römisches Tor gewesen zu sein. Die Baumeister verwendeten einfach wieder, was die Römer hinterlassen hatten. Ab 1196 wohnten Menschen in den Räumen oben.",
+        "en" : "The custom goes back to Richard II in 1389. Now step back and look at the arch itself, whose passage walls are reused Roman masonry and gritstone. Yet the bar stands on the wrong side of the river to have been a Roman gate. The builders simply reused what the Romans had left behind. People lived in the rooms above it from 1196."
       },
       "localizedStory" : {
-        "de" : "Der Weg nach York von Süden. In diesem Tor wohnen Menschen seit 1196.",
-        "en" : "The way into York from the south. People have lived inside this gate since 1196."
+        "de" : "Man erzählt, dass Könige an diesem Tor anhielten. Der Brauch wollte, dass der Monarch draußen wartete und den Lord Mayor um Einlass bat.",
+        "en" : "The story goes that kings stopped at this bar. By custom, the monarch waited outside and asked the Lord Mayor's leave to enter York."
       },
       "name" : "Micklegate Bar",
       "pos" : [
         53.955861,
         -1.090883
       ],
-      "story" : "The way into York from the south. People have lived inside this gate since 1196."
+      "story" : "The story goes that kings stopped at this bar. By custom, the monarch waited outside and asked the Lord Mayor's leave to enter York."
     },
     {
-      "extendedStory" : "This gate goes back to the early fourteenth century. Its portcullis, the heavy grating that drops to close the arch, was still in working order as late as 1970. The rooms above have been put to odd uses over the centuries. Someone made a home up there. In the sixteenth century the same rooms held Catholics who would not fall into line.",
+      "extendedStory" : "Their real work fell to the portcullis, the heavy grille that drops down to shut the gate. This one still worked until 1970. Openings above the arch let defenders drop things on anyone forcing their way in. The rooms upstairs were once a home, and in the sixteenth century they held Catholics jailed for rebelling. Stand in the arch and find the slot the grille slides down.",
       "icon" : "everyday",
       "id" : "f-monk-bar",
       "kind" : "gate_tower",
       "localizedExtendedStory" : {
-        "de" : "Dieses Tor geht auf das frühe vierzehnte Jahrhundert zurück. Sein Fallgitter, das schwere Gitter, das den Bogen verschließt, war noch 1970 gangbar. Die Räume darüber dienten über die Jahrhunderte den seltsamsten Zwecken. Jemand richtete sich dort oben eine Wohnung ein. Im sechzehnten Jahrhundert saßen in denselben Räumen Katholiken, die sich nicht fügen wollten.",
-        "en" : "This gate goes back to the early fourteenth century. Its portcullis, the heavy grating that drops to close the arch, was still in working order as late as 1970. The rooms above have been put to odd uses over the centuries. Someone made a home up there. In the sixteenth century the same rooms held Catholics who would not fall into line."
+        "de" : "Die eigentliche Arbeit machte das Fallgitter, ein schweres Gitter, das herabfällt und das Tor verschließt. Dieses hier funktionierte noch bis 1970. Aus Öffnungen über dem Bogen konnten Verteidiger Dinge auf jeden fallen lassen, der sich den Weg erzwang. Die Räume oben waren einmal eine Wohnung, und im sechzehnten Jahrhundert saßen dort Katholiken gefangen, die sich aufgelehnt hatten. Stell dich unter den Bogen und such den Schlitz, in dem das Gitter hinabgleitet.",
+        "en" : "Their real work fell to the portcullis, the heavy grille that drops down to shut the gate. This one still worked until 1970. Openings above the arch let defenders drop things on anyone forcing their way in. The rooms upstairs were once a home, and in the sixteenth century they held Catholics jailed for rebelling. Stand in the arch and find the slot the grille slides down."
       },
       "localizedStory" : {
-        "de" : "Ein Tor mit einem Fallgitter, das bis 1970 noch funktionierte. Man hat darin gewohnt und darin gesessen.",
-        "en" : "A gate with a portcullis that still worked until 1970. People have lived and been locked up inside it."
+        "de" : "Schau zu den Ecktürmchen hoch. Dort lehnen gemeißelte Männer über den Rand, mitten im Wurf, und schleudern Steine auf Angreifer.",
+        "en" : "Look up at the corner turrets. Carved men lean over the edge, frozen mid-throw, hurling stones down on attackers."
       },
       "name" : "Monk Bar",
       "pos" : [
         53.962717,
         -1.078635
       ],
-      "story" : "A gate with a portcullis that still worked until 1970. People have lived and been locked up inside it."
+      "story" : "Look up at the corner turrets. Carved men lean over the edge, frozen mid-throw, hurling stones down on attackers."
     },
     {
-      "extendedStory" : "Go in and you find yourself on a street. Shopfronts, cobbles, the lot, all of it under a roof. Kirkgate is a Victorian street rebuilt indoors, and it is the reason to come. The building around it held prisoners once: debtors from 1701, and women from 1780. A doctor named John Lamplugh Kirk collected the everyday objects that fill the place.",
+      "extendedStory" : "Turpin himself was real, and you can peer into his cell here. This museum began with a country doctor, John Lamplugh Kirk. Patients paid him in old everyday things he called bygones, instead of coins. York bought a former women's prison in 1934 just to hold his hoard. Walk on and you'll find a whole Victorian street rebuilt indoors.",
       "icon" : "everyday",
       "id" : "f-york-castle-museum",
       "kind" : "museum",
       "localizedExtendedStory" : {
-        "de" : "Das Museum steckt in zwei Gefängnissen, dem Schuldturm von 1701 bis 1705 und dem Frauengefängnis von 1780 bis 1785. John Lamplugh Kirk war Arzt und sammelte die gewöhnlichen Dinge des Alltags. 1934 kaufte die Stadt das Frauengefängnis, um seine Sammlung unterzubringen. Drinnen liegt Kirkgate, eine viktorianische Straße mit Ladenfronten, im Inneren nachgebaut. Auch die Zelle des Wegelagerers Dick Turpin gehört dazu.",
-        "en" : "Go in and you find yourself on a street. Shopfronts, cobbles, the lot, all of it under a roof. Kirkgate is a Victorian street rebuilt indoors, and it is the reason to come. The building around it held prisoners once: debtors from 1701, and women from 1780. A doctor named John Lamplugh Kirk collected the everyday objects that fill the place."
+        "de" : "Den Mann gab es wirklich, und die Zelle, in der er saß, liegt hier drinnen. Die Sammlung stammt von einem Landarzt, John Lamplugh Kirk, dessen Patienten ihn mit alten Alltagsdingen bezahlten. Er nannte sie bygones, Dinge von früher. 1934 kaufte die Stadt das Frauengefängnis, um sie unterzubringen, und heute füllt das Museum auch das alte Schuldgefängnis. Geh weiter, dann stehst du in Kirkgate, einer viktorianischen Straße, die im Haus nachgebaut wurde.",
+        "en" : "Turpin himself was real, and you can peer into his cell here. This museum began with a country doctor, John Lamplugh Kirk. Patients paid him in old everyday things he called bygones, instead of coins. York bought a former women's prison in 1934 just to hold his hoard. Walk on and you'll find a whole Victorian street rebuilt indoors."
       },
       "localizedStory" : {
-        "de" : "Hier wurde eine ganze viktorianische Straße im Inneren nachgebaut, in zwei alten Gefängnissen.",
-        "en" : "A whole Victorian street was rebuilt indoors here, inside two old prisons."
+        "de" : "Der Sage nach ritt Dick Turpin auf Black Bess 200 Meilen von London nach York, dem Gesetz davon. Doch Ross und Ritt sind erfunden.",
+        "en" : "Legend says Dick Turpin rode Black Bess 200 miles from London to York, fleeing the law. Horse and ride are pure fiction."
       },
       "name" : "York Castle Museum",
       "pos" : [
         53.955176,
         -1.0785
       ],
-      "story" : "A whole Victorian street was rebuilt indoors here, inside two old prisons."
+      "story" : "Legend says Dick Turpin rode Black Bess 200 miles from London to York, fleeing the law. Horse and ride are pure fiction."
     },
     {
-      "extendedStory" : "What you walk round now is roofless stone standing in a garden. William II turned up in York in 1088, handed the monks more land, and set the house on its feet again. Money followed: by the end it was bringing in something like 2,000 pounds a year. Then in 1132 the community fell out with itself. After a riot, the monks who wanted a harder, plainer life walked out and went off to start Fountains Abbey.",
+      "extendedStory" : "Money was never short here: when the abbey closed, it took in about two thousand pounds a year. King William II had given the monks more land on a visit to York, yet peace did not always reign. In 1132 reform-minded monks walked out after a riot and went off to found Fountains Abbey. The wall around the grounds marked a boundary and kept no enemy out.",
       "icon" : "choice",
       "id" : "f-st-mary-s-abbey",
       "kind" : "other",
       "localizedExtendedStory" : {
-        "de" : "Wilhelm II. kam 1088 nach York, gab den Mönchen mehr Land und gründete das Haus neu. Es wurde reich und war bei seiner Schließung etwa 2.000 Pfund im Jahr wert. 1132 brach hinter den Mauern ein Streit aus. Eine Gruppe von Mönchen, die strenger leben wollte, ging nach einem Aufruhr fort, zog nach Norden und gründete Fountains Abbey. Übrig ist heute dachloses Gemäuer in einem Garten.",
-        "en" : "What you walk round now is roofless stone standing in a garden. William II turned up in York in 1088, handed the monks more land, and set the house on its feet again. Money followed: by the end it was bringing in something like 2,000 pounds a year. Then in 1132 the community fell out with itself. After a riot, the monks who wanted a harder, plainer life walked out and went off to start Fountains Abbey."
+        "de" : "An Geld fehlte es hier nie, denn als das Kloster geschlossen wurde, brachte es rund zweitausend Pfund im Jahr ein. Mehr Land schenkte den Mönchen einst König Wilhelm II. Frieden herrschte trotzdem nicht immer hinter den Mauern. 1132 zogen reformwillige Mönche nach einem Tumult aus und gründeten Fountains Abbey. Die Mauer um das Gelände war eine Grenze, keine Festung, und hielt nie einen Feind ab.",
+        "en" : "Money was never short here: when the abbey closed, it took in about two thousand pounds a year. King William II had given the monks more land on a visit to York, yet peace did not always reign. In 1132 reform-minded monks walked out after a riot and went off to found Fountains Abbey. The wall around the grounds marked a boundary and kept no enemy out."
       },
       "localizedStory" : {
-        "de" : "Eine Benediktinerabtei, 1088 neu gegründet, als Wilhelm II. nach York kam und den Mönchen mehr Land gab.",
-        "en" : "Roofless stone in a garden. Benedictine monks lived here until a king closed the house down."
+        "de" : "Der Sage nach geht nachts ein Schwarzer Abt durch die Ruinen. Man hört ihn, bevor man ihn sieht: Er klimpert mit Münzen und zählt.",
+        "en" : "Legend says a Black Abbot haunts these ruins at night. You hear him before you see him, jangling and counting coins."
       },
       "name" : "St Mary's Abbey",
       "pos" : [
         53.962203,
         -1.087925
       ],
-      "story" : "Roofless stone in a garden. Benedictine monks lived here until a king closed the house down."
+      "story" : "Legend says a Black Abbot haunts these ruins at night. You hear him before you see him, jangling and counting coins."
     },
     {
-      "extendedStory" : "A Roman gate stood on this spot from about the year 108, on the south-eastern side of Eboracum. Later the place turns up in tenth-century writing as Konungsgarthr, and scholars think the kings of the Danelaw kept their hall here. A church stood here too until 1937. When it came down, nineteen of its gravestones were laid as paving. Look at your feet: hardly any lettering is left to read.",
+      "extendedStory" : "Look down at your feet. Old gravestones from a church pulled down in 1937 pave the square, and few can still be read. Writers in the tenth century called it Konungsgarthr, the kings' yard, where the Danelaw kings probably kept their hall. Under it all lies a Roman gate, and Nikolaus Pevsner, a buildings historian, said the trees set this square apart.",
       "icon" : "everyday",
       "id" : "f-kings-square",
       "kind" : "square",
       "localizedExtendedStory" : {
-        "de" : "Etwa ab dem Jahr 108 stand hier ein römisches Tor, an der Südostseite von Eboracum. Später hieß der Ort in Quellen des zehnten Jahrhunderts Konungsgarthr, und man vermutet hier die Halle der Könige des Danelaw. Bis 1937 stand hier außerdem eine Kirche. Als sie fiel, legte man neunzehn ihrer Grabsteine als Pflaster. Schau auf deine Füße: die Schrift ist größtenteils weg.",
-        "en" : "A Roman gate stood on this spot from about the year 108, on the south-eastern side of Eboracum. Later the place turns up in tenth-century writing as Konungsgarthr, and scholars think the kings of the Danelaw kept their hall here. A church stood here too until 1937. When it came down, nineteen of its gravestones were laid as paving. Look at your feet: hardly any lettering is left to read."
+        "de" : "Schau auf den Boden unter deinen Füßen. Grabsteine einer 1937 abgerissenen Kirche liegen hier als Pflaster, und kaum einer ist noch lesbar. Im zehnten Jahrhundert hieß der Ort Konungsgarthr, der Hof der Könige, und vermutlich hielten die Könige des Danelag hier Hof. Darunter liegt noch ein römisches Tor, und der Architekturhistoriker Nikolaus Pevsner lobte den Platz vor allem für seine Bäume.",
+        "en" : "Look down at your feet. Old gravestones from a church pulled down in 1937 pave the square, and few can still be read. Writers in the tenth century called it Konungsgarthr, the kings' yard, where the Danelaw kings probably kept their hall. Under it all lies a Roman gate, and Nikolaus Pevsner, a buildings historian, said the trees set this square apart."
       },
       "localizedStory" : {
-        "de" : "Du stehst auf einem römischen Torbau von etwa 108. Die Pflastersteine stammen aus einer Kirche.",
-        "en" : "You are standing on a Roman gateway from about the year 108. The paving stones came from a church."
+        "de" : "Der Kings Square ist eine Bühne für Straßenmusik, heißt es. Musiker und Gaukler spielen hier seit Langem für Einkaufende und Touristen.",
+        "en" : "Kings Square is known as a stage for buskers. Street performers have long played here to shoppers and tourists."
       },
       "name" : "Kings Square",
       "pos" : [
         53.960095,
         -1.080146
       ],
-      "story" : "You are standing on a Roman gateway from about the year 108. The paving stones came from a church."
+      "story" : "Kings Square is known as a stage for buskers. Street performers have long played here to shoppers and tourists."
     },
     {
-      "extendedStory" : "The stone archway is twelfth century. In the fourteenth a barbican went up in front of it, a walled passage stuck out ahead of the gate. Anyone attacking had to get down it before reaching the arch. Road widening took the barbicans off York's other gates. This one still has its barbican, its portcullis and its inner doors.",
+      "extendedStory" : "The timber frame sits against the gate's inner wall, where Tudor builders added it. Out front stands the barbican, a walled yard that held attackers in front of the gate. None of the other bars kept theirs, and this one still has its portcullis and inner doors. It has earned its scars. Rebels burned it in 1489, and cannon battered it in the siege of 1644.",
       "icon" : "everyday",
       "id" : "f-walmgate-bar",
       "kind" : "gate_tower",
       "localizedExtendedStory" : {
-        "de" : "Der steinerne Torbogen ist aus dem zwölften Jahrhundert. Im vierzehnten kam eine Barbakane dazu, ein ummauerter Gang vor dem Tor, den Angreifer erst durchkämpfen mussten. Die hölzernen Torflügel folgten im fünfzehnten. Alle anderen Tore Yorks verloren ihre Barbakane an spätere Straßenverbreiterungen. Dieses behielt Barbakane, Fallgitter und Innentüren, obwohl es 1489 brannte und 1644 beschossen wurde.",
-        "en" : "The stone archway is twelfth century. In the fourteenth a barbican went up in front of it, a walled passage stuck out ahead of the gate. Anyone attacking had to get down it before reaching the arch. Road widening took the barbicans off York's other gates. This one still has its barbican, its portcullis and its inner doors."
+        "de" : "Das Fachwerk lehnt an der Innenseite des Tors, wo Tudor-Handwerker es anbauten. Davor liegt die Barbakane, ein ummauerter Vorhof, in dem Angreifer vor dem Tor festsaßen. Kein anderes Stadttor hat seine behalten, und hier sind sogar Fallgitter und innere Türflügel noch da. Das Tor hat einiges erlebt. 1489 steckten Rebellen es in Brand, und bei der Belagerung von 1644 beschossen es Kanonen.",
+        "en" : "The timber frame sits against the gate's inner wall, where Tudor builders added it. Out front stands the barbican, a walled yard that held attackers in front of the gate. None of the other bars kept theirs, and this one still has its portcullis and inner doors. It has earned its scars. Rebels burned it in 1489, and cannon battered it in the siege of 1644."
       },
       "localizedStory" : {
-        "de" : "Seine Barbakane steht noch, mit Fallgitter und Innentüren, wo die anderen Tore ihre verloren.",
-        "en" : "Its barbican still stands, with the portcullis and the inner doors, where the other gates lost theirs."
+        "de" : "In einem mittelalterlichen Tor steckt ein Tudor-Haus. Seine Fachwerkräume kamen bei einer Reparatur dazu, und heute ist darin ein Café.",
+        "en" : "A Tudor house hides inside a medieval gate. Its timber rooms were added during repairs, and today they hold a café."
       },
       "name" : "Walmgate Bar",
       "pos" : [
         53.955188,
         -1.07072
       ],
-      "story" : "Its barbican still stands, with the portcullis and the inner doors, where the other gates lost theirs."
+      "story" : "A Tudor house hides inside a medieval gate. Its timber rooms were added during repairs, and today they hold a café."
     }
   ],
-  "generatedAt" : "2026-09-21T07:16:19Z",
+  "generatedAt" : "2026-09-21T12:02:59Z",
   "icon" : {
     "paths" : [
       "M 30.00 88.00 L 70.00 88.00 L 70.00 32.00 C 70.00 26.50 50.80 23.50 50.00 22.00 C 49.20 23.50 30.00 26.50 30.00 32.00 Z M 8.00 12.00 L 30.00 12.00 L 30.00 88.00 L 8.00 88.00 Z M 70.00 12.00 L 92.00 12.00 L 92.00 88.00 L 70.00 88.00 Z M 7.80 13.00 L 14.20 13.00 L 11.00 1.00 Z M 23.80 13.00 L 30.20 13.00 L 27.00 1.00 Z M 14.60 13.00 L 23.40 13.00 L 19.00 -3.00 Z M 69.80 13.00 L 76.20 13.00 L 73.00 1.00 Z M 85.80 13.00 L 92.20 13.00 L 89.00 1.00 Z M 76.60 13.00 L 85.40 13.00 L 81.00 -3.00 Z M 45.50 23.00 L 54.50 23.00 L 50.00 14.00 Z M 8.00 84.00 L 92.00 84.00 L 92.00 90.00 L 8.00 90.00 Z M 42.00 78.00 L 42.00 44.00 C 42.00 36.30 49.68 32.10 50.00 30.00 C 50.32 32.10 58.00 36.30 58.00 44.00 L 58.00 78.00 Z M 46.00 84.00 L 46.00 76.00 C 46.00 71.60 49.84 69.20 50.00 68.00 C 50.16 69.20 54.00 71.60 54.00 76.00 L 54.00 84.00 Z M 16.00 60.00 L 16.00 42.00 C 16.00 36.50 18.88 33.50 19.00 32.00 C 19.12 33.50 22.00 36.50 22.00 42.00 L 22.00 60.00 Z M 17.00 82.00 L 17.00 74.00 C 17.00 70.70 18.92 68.90 19.00 68.00 C 19.08 68.90 21.00 70.70 21.00 74.00 L 21.00 82.00 Z M 78.00 60.00 L 78.00 42.00 C 78.00 36.50 80.88 33.50 81.00 32.00 C 81.12 33.50 84.00 36.50 84.00 42.00 L 84.00 60.00 Z M 79.00 82.00 L 79.00 74.00 C 79.00 70.70 80.92 68.90 81.00 68.00 C 81.08 68.90 83.00 70.70 83.00 74.00 L 83.00 82.00 Z"
@@ -16867,7 +16857,7 @@
     "en" : "York"
   },
   "name" : "York",
-  "packVersion" : 11,
+  "packVersion" : 14,
   "schemaVersion" : 1,
   "source" : "OpenStreetMap via Overpass API",
   "stats" : {
