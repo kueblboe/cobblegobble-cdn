@@ -162,15 +162,15 @@
         "en" : "Amsterdam"
       },
       "name" : "Amsterdam",
-      "packVersion" : 12,
+      "packVersion" : 14,
       "stats" : {
-        "estHours" : 9.5,
-        "nodeCount" : 1647,
+        "estHours" : 9.3,
+        "nodeCount" : 1614,
         "routeFactor" : 1.25,
-        "routeKm" : 33.2,
+        "routeKm" : 32.6,
         "stepsStreetCount" : 5,
-        "streetCount" : 162,
-        "totalKm" : 26.93
+        "streetCount" : 161,
+        "totalKm" : 26.44
       },
       "status" : "published"
     },
@@ -396,15 +396,15 @@
         "en" : "Bamberg"
       },
       "name" : "Bamberg",
-      "packVersion" : 24,
+      "packVersion" : 26,
       "stats" : {
-        "estHours" : 8.2,
-        "nodeCount" : 1712,
-        "routeFactor" : 1.27,
-        "routeKm" : 28.9,
+        "estHours" : 8.1,
+        "nodeCount" : 1693,
+        "routeFactor" : 1.26,
+        "routeKm" : 28.2,
         "stepsStreetCount" : 5,
-        "streetCount" : 125,
-        "totalKm" : 22.82
+        "streetCount" : 124,
+        "totalKm" : 22.51
       },
       "status" : "published"
     },
@@ -538,15 +538,15 @@
         "en" : "Bath"
       },
       "name" : "Bath",
-      "packVersion" : 10,
+      "packVersion" : 12,
       "stats" : {
-        "estHours" : 5,
-        "nodeCount" : 907,
-        "routeFactor" : 1.31,
-        "routeKm" : 17.5,
+        "estHours" : 5.1,
+        "nodeCount" : 942,
+        "routeFactor" : 1.28,
+        "routeKm" : 18,
         "stepsStreetCount" : 3,
-        "streetCount" : 112,
-        "totalKm" : 13.49
+        "streetCount" : 116,
+        "totalKm" : 14.11
       },
       "status" : "published"
     },
@@ -812,15 +812,15 @@
         "en" : "Berlin"
       },
       "name" : "Berlin",
-      "packVersion" : 27,
+      "packVersion" : 29,
       "stats" : {
-        "estHours" : 11.4,
-        "nodeCount" : 2056,
-        "routeFactor" : 1.27,
-        "routeKm" : 39.8,
-        "stepsStreetCount" : 12,
-        "streetCount" : 106,
-        "totalKm" : 31.63
+        "estHours" : 11.3,
+        "nodeCount" : 2034,
+        "routeFactor" : 1.28,
+        "routeKm" : 39.6,
+        "stepsStreetCount" : 10,
+        "streetCount" : 107,
+        "totalKm" : 31.21
       },
       "status" : "awaiting-approval"
     },
@@ -1082,15 +1082,15 @@
         "en" : "Bern"
       },
       "name" : "Bern",
-      "packVersion" : 12,
+      "packVersion" : 14,
       "stats" : {
-        "estHours" : 6.5,
-        "nodeCount" : 1200,
-        "routeFactor" : 1.27,
-        "routeKm" : 22.8,
-        "stepsStreetCount" : 11,
-        "streetCount" : 105,
-        "totalKm" : 18.37
+        "estHours" : 6.1,
+        "nodeCount" : 1133,
+        "routeFactor" : 1.26,
+        "routeKm" : 21.3,
+        "stepsStreetCount" : 10,
+        "streetCount" : 95,
+        "totalKm" : 17.25
       },
       "status" : "published"
     },
@@ -1353,15 +1353,15 @@
         "it" : "Bologna"
       },
       "name" : "Bologna",
-      "packVersion" : 28,
+      "packVersion" : 32,
       "stats" : {
-        "estHours" : 11.5,
-        "nodeCount" : 1876,
-        "routeFactor" : 1.31,
-        "routeKm" : 40.2,
+        "estHours" : 10.9,
+        "nodeCount" : 1831,
+        "routeFactor" : 1.28,
+        "routeKm" : 38.3,
         "stepsStreetCount" : 1,
-        "streetCount" : 180,
-        "totalKm" : 31.01
+        "streetCount" : 172,
+        "totalKm" : 30.3
       },
       "status" : "published"
     },
@@ -1615,15 +1615,15 @@
         "en" : "Bruges"
       },
       "name" : "Bruges",
-      "packVersion" : 14,
+      "packVersion" : 16,
       "stats" : {
-        "estHours" : 6.5,
-        "nodeCount" : 1186,
-        "routeFactor" : 1.28,
+        "estHours" : 6.6,
+        "nodeCount" : 1174,
+        "routeFactor" : 1.29,
         "routeKm" : 22.9,
-        "stepsStreetCount" : 2,
+        "stepsStreetCount" : 1,
         "streetCount" : 129,
-        "totalKm" : 18.01
+        "totalKm" : 17.89
       },
       "status" : "published"
     },
@@ -1869,15 +1869,15 @@
         "en" : "Budapest"
       },
       "name" : "Budapest",
-      "packVersion" : 13,
+      "packVersion" : 14,
       "stats" : {
-        "estHours" : 16.6,
-        "nodeCount" : 2752,
-        "routeFactor" : 1.29,
-        "routeKm" : 58.2,
-        "stepsStreetCount" : 18,
+        "estHours" : 16,
+        "nodeCount" : 2730,
+        "routeFactor" : 1.25,
+        "routeKm" : 55.9,
+        "stepsStreetCount" : 17,
         "streetCount" : 176,
-        "totalKm" : 45.14
+        "totalKm" : 44.66
       },
       "status" : "published"
     },
@@ -1980,15 +1980,15 @@
         "en" : "Český Krumlov"
       },
       "name" : "Český Krumlov",
-      "packVersion" : 30,
+      "packVersion" : 31,
       "stats" : {
         "estHours" : 2.4,
-        "nodeCount" : 466,
-        "routeFactor" : 1.22,
+        "nodeCount" : 459,
+        "routeFactor" : 1.23,
         "routeKm" : 8.3,
         "stepsStreetCount" : 5,
-        "streetCount" : 39,
-        "totalKm" : 6.93
+        "streetCount" : 38,
+        "totalKm" : 6.84
       },
       "status" : "published"
     },
@@ -2110,15 +2110,15 @@
         "en" : "Colmar"
       },
       "name" : "Colmar",
-      "packVersion" : 11,
+      "packVersion" : 14,
       "stats" : {
-        "estHours" : 6.4,
-        "nodeCount" : 1164,
-        "routeFactor" : 1.25,
-        "routeKm" : 22.4,
+        "estHours" : 6.2,
+        "nodeCount" : 1143,
+        "routeFactor" : 1.24,
+        "routeKm" : 21.7,
         "stepsStreetCount" : 0,
-        "streetCount" : 114,
-        "totalKm" : 18.08
+        "streetCount" : 112,
+        "totalKm" : 17.65
       },
       "status" : "published"
     },
@@ -2332,15 +2332,15 @@
         "en" : "Copenhagen"
       },
       "name" : "Copenhagen",
-      "packVersion" : 11,
+      "packVersion" : 13,
       "stats" : {
-        "estHours" : 8.9,
-        "nodeCount" : 1563,
-        "routeFactor" : 1.24,
-        "routeKm" : 31.2,
-        "stepsStreetCount" : 6,
-        "streetCount" : 125,
-        "totalKm" : 25.33
+        "estHours" : 8.6,
+        "nodeCount" : 1504,
+        "routeFactor" : 1.23,
+        "routeKm" : 30.2,
+        "stepsStreetCount" : 3,
+        "streetCount" : 124,
+        "totalKm" : 24.56
       },
       "status" : "published"
     },
@@ -2844,15 +2844,15 @@
         "en" : "Dubrovnik"
       },
       "name" : "Dubrovnik",
-      "packVersion" : 5,
+      "packVersion" : 6,
       "stats" : {
         "estHours" : 3.1,
-        "nodeCount" : 604,
-        "routeFactor" : 1.23,
-        "routeKm" : 10.9,
+        "nodeCount" : 590,
+        "routeFactor" : 1.24,
+        "routeKm" : 10.7,
         "stepsStreetCount" : 50,
-        "streetCount" : 86,
-        "totalKm" : 9.07
+        "streetCount" : 84,
+        "totalKm" : 8.83
       },
       "status" : "published"
     },
@@ -3114,15 +3114,15 @@
         "en" : "Edinburgh"
       },
       "name" : "Edinburgh",
-      "packVersion" : 24,
+      "packVersion" : 27,
       "stats" : {
-        "estHours" : 8.7,
-        "nodeCount" : 1623,
-        "routeFactor" : 1.35,
-        "routeKm" : 30.4,
+        "estHours" : 9,
+        "nodeCount" : 1694,
+        "routeFactor" : 1.34,
+        "routeKm" : 31.6,
         "stepsStreetCount" : 42,
-        "streetCount" : 171,
-        "totalKm" : 22.74
+        "streetCount" : 170,
+        "totalKm" : 23.78
       },
       "status" : "published"
     },
@@ -3368,15 +3368,15 @@
         "en" : "Florence"
       },
       "name" : "Florence",
-      "packVersion" : 15,
+      "packVersion" : 17,
       "stats" : {
-        "estHours" : 11.7,
-        "nodeCount" : 2166,
-        "routeFactor" : 1.24,
-        "routeKm" : 40.8,
-        "stepsStreetCount" : 5,
-        "streetCount" : 265,
-        "totalKm" : 33.61
+        "estHours" : 11.6,
+        "nodeCount" : 2125,
+        "routeFactor" : 1.25,
+        "routeKm" : 40.5,
+        "stepsStreetCount" : 4,
+        "streetCount" : 261,
+        "totalKm" : 33.07
       },
       "status" : "published"
     },
@@ -3470,15 +3470,15 @@
         "en" : "Freyung"
       },
       "name" : "Freyung",
-      "packVersion" : 15,
+      "packVersion" : 18,
       "stats" : {
-        "estHours" : 2.9,
-        "nodeCount" : 439,
-        "routeFactor" : 1.33,
-        "routeKm" : 10.1,
+        "estHours" : 3,
+        "nodeCount" : 467,
+        "routeFactor" : 1.3,
+        "routeKm" : 10.5,
         "stepsStreetCount" : 2,
         "streetCount" : 32,
-        "totalKm" : 7.63
+        "totalKm" : 8.13
       },
       "status" : "testflight"
     },
@@ -3700,15 +3700,15 @@
         "en" : "Ghent"
       },
       "name" : "Ghent",
-      "packVersion" : 11,
+      "packVersion" : 13,
       "stats" : {
-        "estHours" : 9.8,
-        "nodeCount" : 1767,
-        "routeFactor" : 1.27,
-        "routeKm" : 34.2,
-        "stepsStreetCount" : 11,
+        "estHours" : 9.7,
+        "nodeCount" : 1766,
+        "routeFactor" : 1.26,
+        "routeKm" : 34,
+        "stepsStreetCount" : 8,
         "streetCount" : 200,
-        "totalKm" : 27.11
+        "totalKm" : 27.21
       },
       "status" : "published"
     },
@@ -3870,15 +3870,15 @@
         "en" : "Girona"
       },
       "name" : "Girona",
-      "packVersion" : 7,
+      "packVersion" : 11,
       "stats" : {
-        "estHours" : 3.8,
-        "nodeCount" : 778,
-        "routeFactor" : 1.24,
-        "routeKm" : 13.2,
-        "stepsStreetCount" : 26,
+        "estHours" : 3.6,
+        "nodeCount" : 756,
+        "routeFactor" : 1.23,
+        "routeKm" : 12.8,
+        "stepsStreetCount" : 25,
         "streetCount" : 95,
-        "totalKm" : 10.76
+        "totalKm" : 10.5
       },
       "status" : "published"
     },
@@ -4040,15 +4040,15 @@
         "en" : "Heidelberg"
       },
       "name" : "Heidelberg",
-      "packVersion" : 13,
+      "packVersion" : 14,
       "stats" : {
-        "estHours" : 6.5,
-        "nodeCount" : 1142,
+        "estHours" : 6.4,
+        "nodeCount" : 1135,
         "routeFactor" : 1.27,
-        "routeKm" : 22.6,
+        "routeKm" : 22.4,
         "stepsStreetCount" : 8,
         "streetCount" : 87,
-        "totalKm" : 17.94
+        "totalKm" : 17.89
       },
       "status" : "published"
     },
@@ -4198,15 +4198,15 @@
         "en" : "Kraków"
       },
       "name" : "Kraków",
-      "packVersion" : 13,
+      "packVersion" : 14,
       "stats" : {
-        "estHours" : 5.6,
-        "nodeCount" : 993,
-        "routeFactor" : 1.27,
-        "routeKm" : 19.6,
+        "estHours" : 5.4,
+        "nodeCount" : 943,
+        "routeFactor" : 1.3,
+        "routeKm" : 18.9,
         "stepsStreetCount" : 4,
-        "streetCount" : 49,
-        "totalKm" : 15.64
+        "streetCount" : 48,
+        "totalKm" : 14.8
       },
       "status" : "published"
     },
@@ -4404,15 +4404,15 @@
         "en" : "Landshut"
       },
       "name" : "Landshut",
-      "packVersion" : 16,
+      "packVersion" : 18,
       "stats" : {
-        "estHours" : 5,
-        "nodeCount" : 849,
-        "routeFactor" : 1.33,
-        "routeKm" : 17.5,
+        "estHours" : 4.7,
+        "nodeCount" : 820,
+        "routeFactor" : 1.3,
+        "routeKm" : 16.5,
         "stepsStreetCount" : 4,
-        "streetCount" : 73,
-        "totalKm" : 13.33
+        "streetCount" : 72,
+        "totalKm" : 12.85
       },
       "status" : "published"
     },
@@ -4671,15 +4671,15 @@
         "nl" : "Leuven"
       },
       "name" : "Leuven",
-      "packVersion" : 11,
+      "packVersion" : 13,
       "stats" : {
-        "estHours" : 6.9,
-        "nodeCount" : 1235,
-        "routeFactor" : 1.25,
-        "routeKm" : 24.1,
-        "stepsStreetCount" : 8,
+        "estHours" : 6.7,
+        "nodeCount" : 1208,
+        "routeFactor" : 1.24,
+        "routeKm" : 23.4,
+        "stepsStreetCount" : 6,
         "streetCount" : 98,
-        "totalKm" : 19.45
+        "totalKm" : 19.01
       },
       "status" : "published"
     },
@@ -4929,15 +4929,15 @@
         "en" : "Lisbon"
       },
       "name" : "Lisbon",
-      "packVersion" : 10,
+      "packVersion" : 13,
       "stats" : {
-        "estHours" : 12.6,
-        "nodeCount" : 2368,
+        "estHours" : 13,
+        "nodeCount" : 2421,
         "routeFactor" : 1.26,
-        "routeKm" : 44.2,
+        "routeKm" : 45.5,
         "stepsStreetCount" : 81,
-        "streetCount" : 289,
-        "totalKm" : 35.67
+        "streetCount" : 291,
+        "totalKm" : 36.65
       },
       "status" : "published"
     },
@@ -5155,15 +5155,15 @@
         "en" : "Ljubljana"
       },
       "name" : "Ljubljana",
-      "packVersion" : 22,
+      "packVersion" : 25,
       "stats" : {
-        "estHours" : 7.9,
-        "nodeCount" : 1421,
-        "routeFactor" : 1.27,
-        "routeKm" : 27.7,
-        "stepsStreetCount" : 13,
-        "streetCount" : 108,
-        "totalKm" : 21.91
+        "estHours" : 7.6,
+        "nodeCount" : 1396,
+        "routeFactor" : 1.25,
+        "routeKm" : 26.6,
+        "stepsStreetCount" : 12,
+        "streetCount" : 107,
+        "totalKm" : 21.4
       },
       "status" : "published"
     },
@@ -5297,15 +5297,15 @@
         "en" : "Lucca"
       },
       "name" : "Lucca",
-      "packVersion" : 15,
+      "packVersion" : 17,
       "stats" : {
-        "estHours" : 11.1,
-        "nodeCount" : 1947,
+        "estHours" : 11.2,
+        "nodeCount" : 1960,
         "routeFactor" : 1.27,
-        "routeKm" : 38.8,
+        "routeKm" : 39.1,
         "stepsStreetCount" : 0,
         "streetCount" : 227,
-        "totalKm" : 30.59
+        "totalKm" : 30.85
       },
       "status" : "published"
     },
@@ -5563,15 +5563,15 @@
         "en" : "Lyon"
       },
       "name" : "Lyon",
-      "packVersion" : 17,
+      "packVersion" : 19,
       "stats" : {
-        "estHours" : 13.1,
-        "nodeCount" : 2389,
-        "routeFactor" : 1.27,
-        "routeKm" : 45.7,
-        "stepsStreetCount" : 23,
-        "streetCount" : 250,
-        "totalKm" : 36.51
+        "estHours" : 13,
+        "nodeCount" : 2378,
+        "routeFactor" : 1.26,
+        "routeKm" : 45.6,
+        "stepsStreetCount" : 21,
+        "streetCount" : 251,
+        "totalKm" : 36.6
       },
       "status" : "published"
     },
@@ -5606,7 +5606,7 @@
           11.5796
         ],
         [
-          48.1444,
+          48.1443,
           11.5784
         ],
         [
@@ -5622,12 +5622,12 @@
           11.5746
         ],
         [
-          48.144,
+          48.1439,
           11.5743
         ],
         [
           48.1431,
-          11.5752
+          11.5753
         ],
         [
           48.1425,
@@ -5638,16 +5638,16 @@
           11.5733
         ],
         [
-          48.1416,
+          48.1415,
           11.5718
         ],
         [
-          48.1411,
-          11.57
+          48.1412,
+          11.5708
         ],
         [
           48.1407,
-          11.5704
+          11.5705
         ],
         [
           48.1402,
@@ -5662,16 +5662,24 @@
           11.5657
         ],
         [
+          48.139,
+          11.5661
+        ],
+        [
           48.1379,
-          11.566
+          11.5665
         ],
         [
-          48.1367,
-          11.5657
+          48.1366,
+          11.5666
         ],
         [
-          48.1345,
-          11.567
+          48.1363,
+          11.5667
+        ],
+        [
+          48.1348,
+          11.5674
         ],
         [
           48.1338,
@@ -5695,15 +5703,23 @@
         ],
         [
           48.1348,
-          11.5754
+          11.5749
         ],
         [
-          48.1346,
-          11.5763
+          48.1351,
+          11.575
         ],
         [
-          48.1346,
-          11.5779
+          48.135,
+          11.5758
+        ],
+        [
+          48.1349,
+          11.5765
+        ],
+        [
+          48.135,
+          11.5774
         ],
         [
           48.135,
@@ -5735,8 +5751,8 @@
         ]
       ],
       "center" : [
-        48.138713,
-        11.575374
+        48.138509,
+        11.575005
       ],
       "cityId" : "munich",
       "country" : "DE",
@@ -5753,15 +5769,15 @@
         "en" : "Munich"
       },
       "name" : "Munich",
-      "packVersion" : 32,
+      "packVersion" : 37,
       "stats" : {
-        "estHours" : 10.6,
-        "nodeCount" : 1914,
-        "routeFactor" : 1.3,
-        "routeKm" : 37.2,
-        "stepsStreetCount" : 7,
-        "streetCount" : 152,
-        "totalKm" : 28.92
+        "estHours" : 8.8,
+        "nodeCount" : 1599,
+        "routeFactor" : 1.27,
+        "routeKm" : 31,
+        "stepsStreetCount" : 5,
+        "streetCount" : 134,
+        "totalKm" : 24.57
       },
       "status" : "published"
     },
@@ -5979,15 +5995,15 @@
         "en" : "Nuremberg"
       },
       "name" : "Nuremberg",
-      "packVersion" : 28,
+      "packVersion" : 31,
       "stats" : {
         "estHours" : 15,
-        "nodeCount" : 2667,
+        "nodeCount" : 2635,
         "routeFactor" : 1.25,
         "routeKm" : 52.4,
-        "stepsStreetCount" : 17,
-        "streetCount" : 255,
-        "totalKm" : 42.14
+        "stepsStreetCount" : 16,
+        "streetCount" : 250,
+        "totalKm" : 41.9
       },
       "status" : "published"
     },
@@ -6371,15 +6387,15 @@
         "en" : "Passau"
       },
       "name" : "Passau",
-      "packVersion" : 49,
+      "packVersion" : 51,
       "stats" : {
         "estHours" : 5.3,
-        "nodeCount" : 902,
-        "routeFactor" : 1.29,
-        "routeKm" : 18.7,
+        "nodeCount" : 913,
+        "routeFactor" : 1.27,
+        "routeKm" : 18.6,
         "stepsStreetCount" : 13,
-        "streetCount" : 81,
-        "totalKm" : 14.55
+        "streetCount" : 82,
+        "totalKm" : 14.73
       },
       "status" : "published"
     },
@@ -6605,15 +6621,15 @@
         "en" : "Porto"
       },
       "name" : "Porto",
-      "packVersion" : 17,
+      "packVersion" : 19,
       "stats" : {
-        "estHours" : 8.8,
-        "nodeCount" : 1645,
-        "routeFactor" : 1.28,
-        "routeKm" : 31,
-        "stepsStreetCount" : 28,
-        "streetCount" : 177,
-        "totalKm" : 24.55
+        "estHours" : 8.9,
+        "nodeCount" : 1648,
+        "routeFactor" : 1.27,
+        "routeKm" : 31.3,
+        "stepsStreetCount" : 26,
+        "streetCount" : 178,
+        "totalKm" : 24.83
       },
       "status" : "published"
     },
@@ -6621,15 +6637,15 @@
       "boundaryPreview" : [
         [
           50.0814,
-          14.4131
+          14.413
         ],
         [
-          50.0821,
+          50.0814,
           14.4138
         ],
         [
-          50.0819,
-          14.4148
+          50.082,
+          14.4155
         ],
         [
           50.0821,
@@ -6640,96 +6656,40 @@
           14.4189
         ],
         [
-          50.0833,
-          14.421
+          50.0832,
+          14.42
         ],
         [
-          50.0841,
+          50.0835,
+          14.4202
+        ],
+        [
+          50.0839,
+          14.4207
+        ],
+        [
+          50.0848,
           14.4222
         ],
         [
-          50.083914,
-          14.423549
+          50.0857,
+          14.4238
         ],
         [
-          50.0831,
-          14.424676
-        ],
-        [
-          50.082872,
-          14.425237
-        ],
-        [
-          50.082587,
-          14.425408
-        ],
-        [
-          50.082344,
-          14.425754
-        ],
-        [
-          50.082045,
-          14.425708
-        ],
-        [
-          50.081846,
-          14.426318
-        ],
-        [
-          50.080502,
-          14.428187
-        ],
-        [
-          50.07946,
-          14.429863
-        ],
-        [
-          50.07941,
-          14.430326
-        ],
-        [
-          50.079926,
-          14.431105
-        ],
-        [
-          50.079833,
-          14.430731
-        ],
-        [
-          50.082688,
-          14.426496
-        ],
-        [
-          50.083395,
-          14.425034
-        ],
-        [
-          50.083999,
-          14.424166
-        ],
-        [
-          50.084441,
-          14.423881
-        ],
-        [
-          50.0854,
-          14.424
-        ],
-        [
-          50.0863,
-          14.4244
+          50.0866,
+          14.4251
         ],
         [
           50.0869,
           14.4257
         ],
         [
-          50.0868,
-          14.4272
+          50.0872,
+          14.4265
         ],
         [
-          50.087,
-          14.42846
+          50.0872,
+          14.4279
         ],
         [
           50.0879,
@@ -6737,19 +6697,19 @@
         ],
         [
           50.088,
-          14.4267
+          14.427
         ],
         [
-          50.0878,
+          50.0879,
           14.4265
         ],
         [
           50.0884,
-          14.427
+          14.4262
         ],
         [
-          50.0888,
-          14.427
+          50.0892,
+          14.4261
         ],
         [
           50.0897,
@@ -6772,12 +6732,16 @@
           14.4262
         ],
         [
+          50.0924,
+          14.4265
+        ],
+        [
           50.0925,
-          14.4268
+          14.4266
         ],
         [
           50.0931,
-          14.4268
+          14.425
         ],
         [
           50.0932,
@@ -6792,6 +6756,10 @@
           14.4237
         ],
         [
+          50.0933,
+          14.4224
+        ],
+        [
           50.0932,
           14.4213
         ],
@@ -6800,61 +6768,45 @@
           14.4193
         ],
         [
-          50.093,
-          14.4188
-        ],
-        [
-          50.0922,
-          14.4177
+          50.0925,
+          14.4176
         ],
         [
           50.0921,
-          14.417
+          14.4167
         ],
         [
           50.0915,
-          14.416
+          14.4157
         ],
         [
           50.0907,
           14.4149
         ],
         [
-          50.0891,
-          14.4145
+          50.0901,
+          14.4144
         ],
         [
-          50.087,
-          14.4105
+          50.0894,
+          14.414
         ],
         [
-          50.0874,
-          14.4075
+          50.0887,
+          14.4137
         ],
         [
-          50.0872,
-          14.4068
+          50.088,
+          14.4136
         ],
         [
-          50.0868,
-          14.4076
-        ],
-        [
-          50.0816,
-          14.4078
-        ],
-        [
-          50.0811,
-          14.4079
-        ],
-        [
-          50.0813,
-          14.413
+          50.0867,
+          14.4094
         ]
       ],
       "center" : [
-        50.085737,
-        14.422019
+        50.088626,
+        14.421388
       ],
       "cityId" : "prague",
       "country" : "CZ",
@@ -6872,15 +6824,15 @@
         "en" : "Prague"
       },
       "name" : "Prague",
-      "packVersion" : 27,
+      "packVersion" : 30,
       "stats" : {
-        "estHours" : 10.6,
-        "nodeCount" : 1903,
-        "routeFactor" : 1.29,
-        "routeKm" : 37.3,
-        "stepsStreetCount" : 10,
-        "streetCount" : 131,
-        "totalKm" : 29.09
+        "estHours" : 8.6,
+        "nodeCount" : 1551,
+        "routeFactor" : 1.27,
+        "routeKm" : 30,
+        "stepsStreetCount" : 7,
+        "streetCount" : 115,
+        "totalKm" : 23.85
       },
       "status" : "published"
     },
@@ -7034,15 +6986,15 @@
         "en" : "Regensburg"
       },
       "name" : "Regensburg",
-      "packVersion" : 25,
+      "packVersion" : 26,
       "stats" : {
         "estHours" : 10.8,
-        "nodeCount" : 1882,
+        "nodeCount" : 1868,
         "routeFactor" : 1.24,
-        "routeKm" : 37.6,
-        "stepsStreetCount" : 5,
+        "routeKm" : 37.7,
+        "stepsStreetCount" : 4,
         "streetCount" : 201,
-        "totalKm" : 30.45
+        "totalKm" : 30.46
       },
       "status" : "published"
     },
@@ -7244,15 +7196,15 @@
         "en" : "Riga"
       },
       "name" : "Riga",
-      "packVersion" : 11,
+      "packVersion" : 12,
       "stats" : {
-        "estHours" : 5.2,
-        "nodeCount" : 899,
-        "routeFactor" : 1.27,
-        "routeKm" : 18.2,
+        "estHours" : 5.1,
+        "nodeCount" : 902,
+        "routeFactor" : 1.25,
+        "routeKm" : 18,
         "stepsStreetCount" : 3,
         "streetCount" : 81,
-        "totalKm" : 14.37
+        "totalKm" : 14.39
       },
       "status" : "pending-stories"
     },
@@ -7382,15 +7334,15 @@
         "en" : "Salzburg"
       },
       "name" : "Salzburg",
-      "packVersion" : 31,
+      "packVersion" : 34,
       "stats" : {
-        "estHours" : 9.7,
-        "nodeCount" : 1677,
-        "routeFactor" : 1.31,
-        "routeKm" : 34,
+        "estHours" : 9.4,
+        "nodeCount" : 1616,
+        "routeFactor" : 1.3,
+        "routeKm" : 32.8,
         "stepsStreetCount" : 11,
-        "streetCount" : 123,
-        "totalKm" : 26.18
+        "streetCount" : 116,
+        "totalKm" : 25.27
       },
       "status" : "published"
     },
@@ -7548,15 +7500,15 @@
         "en" : "Santiago de Compostela"
       },
       "name" : "Santiago",
-      "packVersion" : 11,
+      "packVersion" : 14,
       "stats" : {
-        "estHours" : 7.1,
-        "nodeCount" : 1362,
-        "routeFactor" : 1.21,
-        "routeKm" : 24.9,
-        "stepsStreetCount" : 15,
+        "estHours" : 7,
+        "nodeCount" : 1334,
+        "routeFactor" : 1.22,
+        "routeKm" : 24.5,
+        "stepsStreetCount" : 13,
         "streetCount" : 144,
-        "totalKm" : 20.72
+        "totalKm" : 20.39
       },
       "status" : "published"
     },
@@ -7802,15 +7754,15 @@
         "en" : "Seville"
       },
       "name" : "Seville",
-      "packVersion" : 20,
+      "packVersion" : 22,
       "stats" : {
-        "estHours" : 10.1,
-        "nodeCount" : 1756,
-        "routeFactor" : 1.27,
-        "routeKm" : 35.5,
-        "stepsStreetCount" : 6,
-        "streetCount" : 208,
-        "totalKm" : 28.01
+        "estHours" : 9.9,
+        "nodeCount" : 1692,
+        "routeFactor" : 1.28,
+        "routeKm" : 34.6,
+        "stepsStreetCount" : 5,
+        "streetCount" : 206,
+        "totalKm" : 27.2
       },
       "status" : "published"
     },
@@ -8012,15 +7964,15 @@
         "en" : "Siena"
       },
       "name" : "Siena",
-      "packVersion" : 15,
+      "packVersion" : 17,
       "stats" : {
         "estHours" : 11.6,
-        "nodeCount" : 2159,
-        "routeFactor" : 1.27,
-        "routeKm" : 40.7,
-        "stepsStreetCount" : 33,
-        "streetCount" : 227,
-        "totalKm" : 32.63
+        "nodeCount" : 2142,
+        "routeFactor" : 1.28,
+        "routeKm" : 40.6,
+        "stepsStreetCount" : 32,
+        "streetCount" : 225,
+        "totalKm" : 32.42
       },
       "status" : "published"
     },
@@ -8150,15 +8102,15 @@
         "en" : "Split"
       },
       "name" : "Split",
-      "packVersion" : 5,
+      "packVersion" : 7,
       "stats" : {
-        "estHours" : 2.6,
-        "nodeCount" : 534,
+        "estHours" : 2.5,
+        "nodeCount" : 522,
         "routeFactor" : 1.25,
-        "routeKm" : 9.1,
-        "stepsStreetCount" : 9,
-        "streetCount" : 78,
-        "totalKm" : 7.35
+        "routeKm" : 8.9,
+        "stepsStreetCount" : 7,
+        "streetCount" : 75,
+        "totalKm" : 7.19
       },
       "status" : "published"
     },
@@ -8368,15 +8320,15 @@
         "en" : "Stockholm"
       },
       "name" : "Stockholm",
-      "packVersion" : 13,
+      "packVersion" : 14,
       "stats" : {
-        "estHours" : 5.5,
-        "nodeCount" : 1035,
-        "routeFactor" : 1.25,
-        "routeKm" : 19.4,
-        "stepsStreetCount" : 9,
-        "streetCount" : 112,
-        "totalKm" : 15.83
+        "estHours" : 5.4,
+        "nodeCount" : 1003,
+        "routeFactor" : 1.24,
+        "routeKm" : 18.9,
+        "stepsStreetCount" : 8,
+        "streetCount" : 109,
+        "totalKm" : 15.44
       },
       "status" : "published"
     },
@@ -8610,15 +8562,15 @@
         "en" : "Strasbourg"
       },
       "name" : "Strasbourg",
-      "packVersion" : 11,
+      "packVersion" : 13,
       "stats" : {
         "estHours" : 9.3,
-        "nodeCount" : 1654,
-        "routeFactor" : 1.24,
-        "routeKm" : 32.6,
+        "nodeCount" : 1636,
+        "routeFactor" : 1.25,
+        "routeKm" : 32.4,
         "stepsStreetCount" : 2,
-        "streetCount" : 188,
-        "totalKm" : 26.35
+        "streetCount" : 187,
+        "totalKm" : 26.12
       },
       "status" : "published"
     },
@@ -8772,15 +8724,15 @@
         "en" : "Tallinn"
       },
       "name" : "Tallinn",
-      "packVersion" : 16,
+      "packVersion" : 19,
       "stats" : {
-        "estHours" : 4.2,
-        "nodeCount" : 715,
-        "routeFactor" : 1.25,
-        "routeKm" : 14.8,
+        "estHours" : 4,
+        "nodeCount" : 700,
+        "routeFactor" : 1.24,
+        "routeKm" : 14.2,
         "stepsStreetCount" : 3,
-        "streetCount" : 68,
-        "totalKm" : 11.89
+        "streetCount" : 67,
+        "totalKm" : 11.44
       },
       "status" : "published"
     },
@@ -8906,15 +8858,15 @@
         "en" : "Toledo"
       },
       "name" : "Toledo",
-      "packVersion" : 10,
+      "packVersion" : 11,
       "stats" : {
-        "estHours" : 11.5,
-        "nodeCount" : 2112,
+        "estHours" : 11.7,
+        "nodeCount" : 2144,
         "routeFactor" : 1.26,
-        "routeKm" : 40.2,
+        "routeKm" : 41,
         "stepsStreetCount" : 66,
-        "streetCount" : 326,
-        "totalKm" : 32.2
+        "streetCount" : 327,
+        "totalKm" : 32.64
       },
       "status" : "published"
     },
@@ -9089,15 +9041,15 @@
         "en" : "Třeboň"
       },
       "name" : "Třeboň",
-      "packVersion" : 6,
+      "packVersion" : 7,
       "stats" : {
         "estHours" : 2.6,
-        "nodeCount" : 438,
-        "routeFactor" : 1.25,
-        "routeKm" : 9,
+        "nodeCount" : 441,
+        "routeFactor" : 1.26,
+        "routeKm" : 9.2,
         "stepsStreetCount" : 0,
         "streetCount" : 32,
-        "totalKm" : 7.3
+        "totalKm" : 7.35
       },
       "status" : "published"
     },
@@ -9223,15 +9175,15 @@
         "en" : "Venice"
       },
       "name" : "Venice",
-      "packVersion" : 12,
+      "packVersion" : 14,
       "stats" : {
-        "estHours" : 7.8,
-        "nodeCount" : 1481,
-        "routeFactor" : 1.41,
-        "routeKm" : 27.2,
-        "stepsStreetCount" : 17,
-        "streetCount" : 288,
-        "totalKm" : 19.66
+        "estHours" : 7.6,
+        "nodeCount" : 1532,
+        "routeFactor" : 1.39,
+        "routeKm" : 26.6,
+        "stepsStreetCount" : 16,
+        "streetCount" : 285,
+        "totalKm" : 19.54
       },
       "status" : "published"
     },
@@ -9373,15 +9325,15 @@
         "en" : "Verona"
       },
       "name" : "Verona",
-      "packVersion" : 11,
+      "packVersion" : 14,
       "stats" : {
-        "estHours" : 9.7,
-        "nodeCount" : 1818,
+        "estHours" : 9.6,
+        "nodeCount" : 1768,
         "routeFactor" : 1.25,
-        "routeKm" : 34.1,
-        "stepsStreetCount" : 8,
+        "routeKm" : 33.5,
+        "stepsStreetCount" : 7,
         "streetCount" : 239,
-        "totalKm" : 27.5
+        "totalKm" : 26.86
       },
       "status" : "published"
     },
@@ -9479,15 +9431,15 @@
         "en" : "Vienna"
       },
       "name" : "Vienna",
-      "packVersion" : 23,
+      "packVersion" : 25,
       "stats" : {
-        "estHours" : 15.4,
-        "nodeCount" : 2791,
+        "estHours" : 15.3,
+        "nodeCount" : 2767,
         "routeFactor" : 1.24,
-        "routeKm" : 53.8,
+        "routeKm" : 53.4,
         "stepsStreetCount" : 12,
-        "streetCount" : 239,
-        "totalKm" : 43.56
+        "streetCount" : 237,
+        "totalKm" : 43.23
       },
       "status" : "published"
     },
@@ -9714,15 +9666,15 @@
         "lt" : "Vilnius"
       },
       "name" : "Vilnius",
-      "packVersion" : 6,
+      "packVersion" : 8,
       "stats" : {
         "estHours" : 5.1,
-        "nodeCount" : 842,
-        "routeFactor" : 1.27,
-        "routeKm" : 17.7,
+        "nodeCount" : 846,
+        "routeFactor" : 1.29,
+        "routeKm" : 17.9,
         "stepsStreetCount" : 0,
-        "streetCount" : 57,
-        "totalKm" : 14.02
+        "streetCount" : 58,
+        "totalKm" : 14.05
       },
       "status" : "published"
     },
@@ -9800,7 +9752,7 @@
         "en" : "Wasserburg am Inn"
       },
       "name" : "Wasserburg am Inn",
-      "packVersion" : 9,
+      "packVersion" : 10,
       "stats" : {
         "estHours" : 4.2,
         "nodeCount" : 704,
@@ -9990,15 +9942,15 @@
         "en" : "York"
       },
       "name" : "York",
-      "packVersion" : 9,
+      "packVersion" : 11,
       "stats" : {
         "estHours" : 9.7,
-        "nodeCount" : 1746,
-        "routeFactor" : 1.31,
-        "routeKm" : 34,
+        "nodeCount" : 1781,
+        "routeFactor" : 1.28,
+        "routeKm" : 33.9,
         "stepsStreetCount" : 7,
-        "streetCount" : 190,
-        "totalKm" : 26.18
+        "streetCount" : 195,
+        "totalKm" : 26.73
       },
       "status" : "published"
     },
@@ -10256,15 +10208,15 @@
         "en" : "Zurich"
       },
       "name" : "Zurich",
-      "packVersion" : 13,
+      "packVersion" : 16,
       "stats" : {
         "estHours" : 7,
-        "nodeCount" : 1348,
-        "routeFactor" : 1.26,
-        "routeKm" : 24.7,
+        "nodeCount" : 1327,
+        "routeFactor" : 1.28,
+        "routeKm" : 24.4,
         "stepsStreetCount" : 22,
-        "streetCount" : 143,
-        "totalKm" : 19.78
+        "streetCount" : 142,
+        "totalKm" : 19.4
       },
       "status" : "pending-stories"
     }
