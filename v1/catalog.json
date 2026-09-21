@@ -2598,15 +2598,15 @@
         "en" : "Dublin"
       },
       "name" : "Dublin",
-      "packVersion" : 23,
+      "packVersion" : 24,
       "stats" : {
-        "estHours" : 12.1,
-        "nodeCount" : 2107,
-        "routeFactor" : 1.3,
-        "routeKm" : 42.4,
-        "stepsStreetCount" : 10,
-        "streetCount" : 182,
-        "totalKm" : 32.77
+        "estHours" : 12.3,
+        "nodeCount" : 2168,
+        "routeFactor" : 1.28,
+        "routeKm" : 43,
+        "stepsStreetCount" : 9,
+        "streetCount" : 186,
+        "totalKm" : 33.86
       },
       "status" : "published"
     },
