@@ -6613,27 +6613,35 @@
         "en" : "Porto"
       },
       "name" : "Porto",
-      "packVersion" : 21,
+      "packVersion" : 22,
       "stats" : {
-        "estHours" : 8.9,
-        "nodeCount" : 1643,
-        "routeFactor" : 1.27,
-        "routeKm" : 31.2,
-        "stepsStreetCount" : 26,
-        "streetCount" : 178,
-        "totalKm" : 24.78
+        "estHours" : 8.2,
+        "nodeCount" : 1517,
+        "routeFactor" : 1.26,
+        "routeKm" : 28.8,
+        "stepsStreetCount" : 21,
+        "streetCount" : 160,
+        "totalKm" : 23.09
       },
       "status" : "published"
     },
     {
       "boundaryPreview" : [
         [
-          50.0814,
-          14.413
+          50.08342,
+          14.41326
         ],
         [
-          50.0814,
-          14.4138
+          50.08257,
+          14.41323
+        ],
+        [
+          50.08247,
+          14.41381
+        ],
+        [
+          50.08208,
+          14.41384
         ],
         [
           50.082,
@@ -6793,8 +6801,8 @@
         ]
       ],
       "center" : [
-        50.088529,
-        14.421159
+        50.088313,
+        14.42081
       ],
       "cityId" : "prague",
       "country" : "CZ",
@@ -6812,15 +6820,15 @@
         "en" : "Prague"
       },
       "name" : "Prague",
-      "packVersion" : 33,
+      "packVersion" : 35,
       "stats" : {
-        "estHours" : 8.3,
-        "nodeCount" : 1500,
-        "routeFactor" : 1.27,
-        "routeKm" : 29,
-        "stepsStreetCount" : 7,
-        "streetCount" : 113,
-        "totalKm" : 23.07
+        "estHours" : 7.8,
+        "nodeCount" : 1414,
+        "routeFactor" : 1.24,
+        "routeKm" : 27.2,
+        "stepsStreetCount" : 4,
+        "streetCount" : 109,
+        "totalKm" : 22.07
       },
       "status" : "published"
     },
@@ -9163,15 +9171,15 @@
         "en" : "Venice"
       },
       "name" : "Venice",
-      "packVersion" : 15,
+      "packVersion" : 16,
       "stats" : {
-        "estHours" : 7.4,
-        "nodeCount" : 1496,
+        "estHours" : 6.5,
+        "nodeCount" : 1315,
         "routeFactor" : 1.39,
-        "routeKm" : 26,
-        "stepsStreetCount" : 16,
-        "streetCount" : 278,
-        "totalKm" : 19.1
+        "routeKm" : 22.7,
+        "stepsStreetCount" : 15,
+        "streetCount" : 231,
+        "totalKm" : 16.58
       },
       "status" : "published"
     },
