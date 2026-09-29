@@ -54,8 +54,24 @@
       12.1018
     ],
     [
-      49.0213,
-      12.097
+      49.0214,
+      12.0976
+    ],
+    [
+      49.0245,
+      12.0974
+    ],
+    [
+      49.0245,
+      12.0968
+    ],
+    [
+      49.0231,
+      12.0972
+    ],
+    [
+      49.0215,
+      12.0965
     ],
     [
       49.0217,
@@ -74,8 +90,8 @@
       12.0807
     ],
     [
-      49.0231,
-      12.0808
+      49.0233,
+      12.0809
     ],
     [
       49.0218,
@@ -102,12 +118,12 @@
       12.0869
     ],
     [
-      49.0164,
-      12.0878
+      49.0168,
+      12.0875
     ],
     [
-      49.0162,
-      12.0889
+      49.0166,
+      12.089
     ],
     [
       49.0157,
@@ -131,43 +147,23 @@
     ]
   ],
   "center" : [
-    49.017647,
-    12.093625
+    49.018317,
+    12.094011
   ],
   "changes" : {
     "addedStreets" : [
-      "St.-Kassians-Platz"
+
     ],
     "adjustedStreets" : [
-      "Fürst-Anselm-Allee"
+
     ],
-    "fromVersion" : 28,
+    "fromVersion" : 41,
     "removedStreets" : [
-      "Albertus-Magnus-Platz",
-      "Ernst-Reuter-Platz",
-      "Fechthof",
-      "Neptunhof",
-      "Sankt-Kassians-Platz",
-      "Schulhof",
-      "Viereimerplatz"
+
     ]
   },
   "cityId" : "regensburg",
   "connectors" : [
-    [
-      [
-        49.021867,
-        12.082351
-      ],
-      [
-        49.021835,
-        12.082149
-      ],
-      [
-        49.021811,
-        12.08199
-      ]
-    ],
     [
       [
         49.023749,
@@ -268,6 +264,20 @@
     ],
     [
       [
+        49.01606,
+        12.08924
+      ],
+      [
+        49.016061,
+        12.089277
+      ],
+      [
+        49.016064,
+        12.089439
+      ]
+    ],
+    [
+      [
         49.017073,
         12.09023
       ],
@@ -322,6 +332,26 @@
       [
         49.01478,
         12.100697
+      ]
+    ],
+    [
+      [
+        49.024445,
+        12.096828
+      ],
+      [
+        49.024444,
+        12.096816
+      ]
+    ],
+    [
+      [
+        49.02402,
+        12.097431
+      ],
+      [
+        49.02402,
+        12.097307
       ]
     ],
     [
@@ -382,6 +412,30 @@
         12.092668
       ],
       [
+        49.016563,
+        12.092763
+      ],
+      [
+        49.016559,
+        12.092814
+      ],
+      [
+        49.016556,
+        12.092963
+      ],
+      [
+        49.016545,
+        12.093216
+      ],
+      [
+        49.016542,
+        12.093313
+      ],
+      [
+        49.016539,
+        12.09332
+      ],
+      [
         49.016535,
         12.093394
       ]
@@ -390,6 +444,18 @@
       [
         49.016404,
         12.09275
+      ],
+      [
+        49.0164,
+        12.092854
+      ],
+      [
+        49.016398,
+        12.092955
+      ],
+      [
+        49.016393,
+        12.093057
       ],
       [
         49.016387,
@@ -412,8 +478,8 @@
         12.080901
       ],
       [
-        49.023425,
-        12.080719
+        49.023411,
+        12.080789
       ]
     ],
     [
@@ -506,6 +572,16 @@
     ],
     [
       [
+        49.016703,
+        12.088507
+      ],
+      [
+        49.016665,
+        12.088516
+      ]
+    ],
+    [
+      [
         49.020698,
         12.082892
       ],
@@ -530,8 +606,8 @@
         12.087571
       ],
       [
-        49.016912,
-        12.087446
+        49.016907,
+        12.087429
       ]
     ],
     [
@@ -756,12 +832,52 @@
     ],
     [
       [
+        49.016505,
+        12.089042
+      ],
+      [
+        49.016626,
+        12.089055
+      ],
+      [
+        49.017202,
+        12.089086
+      ],
+      [
+        49.017226,
+        12.089089
+      ],
+      [
+        49.017238,
+        12.08909
+      ],
+      [
+        49.017258,
+        12.089077
+      ],
+      [
+        49.017302,
+        12.08905
+      ]
+    ],
+    [
+      [
         49.018601,
         12.08654
       ],
       [
         49.018692,
         12.086545
+      ]
+    ],
+    [
+      [
+        49.024445,
+        12.096828
+      ],
+      [
+        49.024402,
+        12.096828
       ]
     ],
     [
@@ -1158,6 +1274,16 @@
     ],
     [
       [
+        49.024089,
+        12.096917
+      ],
+      [
+        49.02407,
+        12.096989
+      ]
+    ],
+    [
+      [
         49.015754,
         12.099075
       ],
@@ -1212,6 +1338,28 @@
       [
         49.013711,
         12.09864
+      ]
+    ],
+    [
+      [
+        49.017239,
+        12.089045
+      ],
+      [
+        49.017202,
+        12.089005
+      ],
+      [
+        49.016742,
+        12.088951
+      ],
+      [
+        49.016638,
+        12.088935
+      ],
+      [
+        49.016609,
+        12.08893
       ]
     ],
     [
@@ -2372,6 +2520,10 @@
         12.095699
       ],
       [
+        49.015258,
+        12.095689
+      ],
+      [
         49.015184,
         12.09568
       ]
@@ -2408,16 +2560,6 @@
       [
         49.020051,
         12.088578
-      ]
-    ],
-    [
-      [
-        49.022777,
-        12.084126
-      ],
-      [
-        49.023071,
-        12.083545
       ]
     ],
     [
@@ -2624,24 +2766,6 @@
       [
         49.022995,
         12.081932
-      ]
-    ],
-    [
-      [
-        49.023846,
-        12.081274
-      ],
-      [
-        49.02372,
-        12.081206
-      ],
-      [
-        49.023663,
-        12.081233
-      ],
-      [
-        49.023629,
-        12.081307
       ]
     ],
     [
@@ -2872,20 +2996,6 @@
     ],
     [
       [
-        49.016051,
-        12.089049
-      ],
-      [
-        49.016061,
-        12.089277
-      ],
-      [
-        49.016064,
-        12.089439
-      ]
-    ],
-    [
-      [
         49.019021,
         12.090008
       ],
@@ -2906,6 +3016,16 @@
       [
         49.018887,
         12.090843
+      ]
+    ],
+    [
+      [
+        49.014799,
+        12.098793
+      ],
+      [
+        49.01464,
+        12.098784
       ]
     ],
     [
@@ -2964,28 +3084,6 @@
       [
         49.015693,
         12.090817
-      ]
-    ],
-    [
-      [
-        49.023071,
-        12.083545
-      ],
-      [
-        49.023155,
-        12.083302
-      ],
-      [
-        49.023357,
-        12.082717
-      ],
-      [
-        49.023468,
-        12.082438
-      ],
-      [
-        49.023957,
-        12.081157
       ]
     ],
     [
@@ -3160,28 +3258,6 @@
     ],
     [
       [
-        49.016703,
-        12.088507
-      ],
-      [
-        49.016549,
-        12.088543
-      ],
-      [
-        49.016447,
-        12.088543
-      ],
-      [
-        49.016314,
-        12.088543
-      ],
-      [
-        49.016265,
-        12.088543
-      ]
-    ],
-    [
-      [
         49.018821,
         12.088272
       ],
@@ -3256,16 +3332,6 @@
       [
         49.022046,
         12.088544
-      ]
-    ],
-    [
-      [
-        49.021274,
-        12.0969
-      ],
-      [
-        49.021243,
-        12.097092
       ]
     ],
     [
@@ -3542,36 +3608,6 @@
     ],
     [
       [
-        49.016102,
-        12.088998
-      ],
-      [
-        49.016626,
-        12.089055
-      ],
-      [
-        49.017202,
-        12.089086
-      ],
-      [
-        49.017226,
-        12.089089
-      ],
-      [
-        49.017238,
-        12.08909
-      ],
-      [
-        49.017258,
-        12.089077
-      ],
-      [
-        49.017302,
-        12.08905
-      ]
-    ],
-    [
-      [
         49.018366,
         12.094245
       ],
@@ -3626,6 +3662,24 @@
       [
         49.019825,
         12.088874
+      ]
+    ],
+    [
+      [
+        49.02402,
+        12.097307
+      ],
+      [
+        49.024022,
+        12.097281
+      ],
+      [
+        49.024037,
+        12.097001
+      ],
+      [
+        49.024041,
+        12.096931
       ]
     ],
     [
@@ -4222,6 +4276,24 @@
     ],
     [
       [
+        49.014759,
+        12.09994
+      ],
+      [
+        49.014799,
+        12.098793
+      ],
+      [
+        49.014807,
+        12.098333
+      ],
+      [
+        49.014819,
+        12.098054
+      ]
+    ],
+    [
+      [
         49.020842,
         12.098941
       ],
@@ -4718,6 +4790,26 @@
     ],
     [
       [
+        49.024466,
+        12.097183
+      ],
+      [
+        49.024457,
+        12.097023
+      ]
+    ],
+    [
+      [
+        49.024457,
+        12.097023
+      ],
+      [
+        49.024445,
+        12.096828
+      ]
+    ],
+    [
+      [
         49.019899,
         12.087872
       ],
@@ -4826,28 +4918,6 @@
       [
         49.014891,
         12.092406
-      ]
-    ],
-    [
-      [
-        49.017239,
-        12.089045
-      ],
-      [
-        49.017202,
-        12.089005
-      ],
-      [
-        49.016742,
-        12.088951
-      ],
-      [
-        49.016638,
-        12.088935
-      ],
-      [
-        49.016206,
-        12.088865
       ]
     ],
     [
@@ -5062,20 +5132,6 @@
       [
         49.019524,
         12.092615
-      ]
-    ],
-    [
-      [
-        49.018054,
-        12.105632
-      ],
-      [
-        49.018051,
-        12.105648
-      ],
-      [
-        49.018036,
-        12.106008
       ]
     ],
     [
@@ -5448,6 +5504,20 @@
       [
         49.022944,
         12.082299
+      ]
+    ],
+    [
+      [
+        49.024037,
+        12.097001
+      ],
+      [
+        49.023975,
+        12.096983
+      ],
+      [
+        49.023958,
+        12.096955
       ]
     ],
     [
@@ -6080,6 +6150,16 @@
     ],
     [
       [
+        49.02407,
+        12.096989
+      ],
+      [
+        49.024037,
+        12.097001
+      ]
+    ],
+    [
+      [
         49.015011,
         12.100934
       ],
@@ -6684,6 +6764,20 @@
     ],
     [
       [
+        49.015427,
+        12.096144
+      ],
+      [
+        49.015241,
+        12.096113
+      ],
+      [
+        49.015171,
+        12.096113
+      ]
+    ],
+    [
+      [
         49.016437,
         12.101833
       ],
@@ -6722,6 +6816,24 @@
       [
         49.0197,
         12.09721
+      ]
+    ],
+    [
+      [
+        49.018986,
+        12.097305
+      ],
+      [
+        49.019055,
+        12.09732
+      ],
+      [
+        49.019094,
+        12.097376
+      ],
+      [
+        49.019249,
+        12.097627
       ]
     ],
     [
@@ -6984,24 +7096,6 @@
     ],
     [
       [
-        49.018986,
-        12.097305
-      ],
-      [
-        49.019055,
-        12.09732
-      ],
-      [
-        49.019094,
-        12.097376
-      ],
-      [
-        49.019249,
-        12.097627
-      ]
-    ],
-    [
-      [
         49.019584,
         12.097693
       ],
@@ -7136,36 +7230,6 @@
     ],
     [
       [
-        49.021835,
-        12.082149
-      ],
-      [
-        49.022112,
-        12.082058
-      ],
-      [
-        49.022291,
-        12.081848
-      ],
-      [
-        49.022488,
-        12.081512
-      ],
-      [
-        49.022675,
-        12.08133
-      ],
-      [
-        49.022963,
-        12.081085
-      ],
-      [
-        49.023305,
-        12.080891
-      ]
-    ],
-    [
-      [
         49.020418,
         12.094344
       ],
@@ -7214,26 +7278,6 @@
       [
         49.017235,
         12.097704
-      ]
-    ],
-    [
-      [
-        49.021188,
-        12.096943
-      ],
-      [
-        49.021243,
-        12.096959
-      ]
-    ],
-    [
-      [
-        49.0213,
-        12.097003
-      ],
-      [
-        49.021243,
-        12.096959
       ]
     ],
     [
@@ -8467,20 +8511,6 @@
         49.020041,
         12.104036
       ]
-    ],
-    [
-      [
-        49.023014,
-        12.080879
-      ],
-      [
-        49.023305,
-        12.080891
-      ],
-      [
-        49.023343,
-        12.080898
-      ]
     ]
   ],
   "connectorsLayered" : [
@@ -8507,17 +8537,10 @@
     false,
     false,
     false,
-    true,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
     false,
     false,
     true,
-    true,
+    false,
     false,
     false,
     false,
@@ -8538,25 +8561,7 @@
     false,
     false,
     false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
     true,
-    false,
-    false,
-    false,
-    false,
-    false,
     true,
     false,
     false,
@@ -8583,27 +8588,7 @@
     false,
     false,
     false,
-    false,
-    false,
     true,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
     false,
     false,
     false,
@@ -8637,19 +8622,7 @@
     false,
     false,
     false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
+    true,
     false,
     false,
     false,
@@ -8715,6 +8688,66 @@
     false,
     false,
     false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    true,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
     true,
     true,
     false,
@@ -8898,16 +8931,6 @@
     false,
     false,
     false,
-    true,
-    true,
-    true,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
     false,
     false,
     false,
@@ -8915,6 +8938,15 @@
     true,
     true,
     false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    true,
     false,
     false,
     false,
@@ -8938,7 +8970,7 @@
   "fruits" : [
     {
       "extendedStory" : "In 1649 a new wing for the bishop's court swallowed it whole. Today it counts as the only surviving Roman gate north of the Alps. It dates from 179, under the emperor Marcus Aurelius, when the Castra Regina legionary camp rose on the Danube's south bank. The Third Italian Legion was stationed here because of the Marcomannic Wars.",
-      "icon" : "choice",
+      "icon" : "everyday",
       "id" : "f-porta-praetoria",
       "kind" : "attraction",
       "localizedExtendedStory" : {
@@ -8947,43 +8979,43 @@
       },
       "localizedStory" : {
         "de" : "Über zwei Jahrhunderte steckte dieses römische Tor in einem späteren Bau. Erst als ein Nachbarhaus abgerissen wurde, kam es wieder zum Vorschein.",
-        "en" : "For over two centuries this Roman gate hid inside a later building. Nobody saw it again until a neighbouring house came down."
+        "en" : "For over two centuries this Roman gate hid inside a later building. It was found again only when a neighbouring house came down."
       },
       "name" : "Porta praetoria",
       "pos" : [
         49.020132,
         12.098584
       ],
-      "story" : "For over two centuries this Roman gate hid inside a later building. Nobody saw it again until a neighbouring house came down."
+      "story" : "For over two centuries this Roman gate hid inside a later building. It was found again only when a neighbouring house came down."
     },
     {
-      "extendedStory" : "It leaned against the town wall while the bridge was being built. When the builders moved out, it became a cook-shop. Its early customers were the people who worked nearby: stonemasons and dock workers, eating here in the Middle Ages. It has stood beside the bridge for over 500 years. The Danube still swirls just beside it.",
+      "extendedStory" : "The story goes that the butcher who built this kitchen so low was known as the Kuchelreiter, the kitchen rider. It is said that his climb onto the roof each year was a penance. Another tale says the place began as the canteen of the Stone Bridge builders, though historians call that a founding myth. Regensburg's stonemasons and dock workers took their meals here in the Middle Ages. It has stood beside the bridge for over 500 years.",
       "icon" : "choice",
       "id" : "f-historische-wurstkuchl",
       "kind" : "food_landmark",
       "localizedExtendedStory" : {
-        "de" : "Es lehnte an der Stadtmauer, solange die Brücke gebaut wurde. Als das Baubüro auszog, wurde daraus eine Garküche. Zu den Gästen gehörten die Leute, die ringsum arbeiteten: Steinmetze und Hafenarbeiter, schon im Mittelalter. Seit über 500 Jahren steht die Küche neben der Steinernen Brücke. Gleich daneben strudelt bis heute die Donau.",
-        "en" : "It leaned against the town wall while the bridge was being built. When the builders moved out, it became a cook-shop. Its early customers were the people who worked nearby: stonemasons and dock workers, eating here in the Middle Ages. It has stood beside the bridge for over 500 years. The Danube still swirls just beside it."
+        "de" : "Man erzählt, dass die Leute den Metzger, der diese Küche so niedrig baute, den Kuchelreiter nannten. Der Sage nach war sein Aufstieg aufs Dach, einmal im Jahr, eine Buße. Eine andere Sage macht aus der Wurstkuchl die Kantine der Männer, die die Steinerne Brücke bauten. Historiker nennen das einen Gründungsmythos, denn beweisen lässt es sich nicht. Regensburger Steinmetze und Hafenarbeiter stärkten sich hier schon im Mittelalter. Seit über 500 Jahren steht sie neben der Brücke.",
+        "en" : "The story goes that the butcher who built this kitchen so low was known as the Kuchelreiter, the kitchen rider. It is said that his climb onto the roof each year was a penance. Another tale says the place began as the canteen of the Stone Bridge builders, though historians call that a founding myth. Regensburg's stonemasons and dock workers took their meals here in the Middle Ages. It has stood beside the bridge for over 500 years."
       },
       "localizedStory" : {
-        "de" : "Bevor hier gekocht wurde, war das kleine Gebäude das Baubüro für die Steinerne Brücke nebenan.",
-        "en" : "Before it cooked a single meal, this little building was the site office for the Stone Bridge next door."
+        "de" : "Der Sage nach baute der beleibte Metzger Heinz diese Küche so niedrig, weil er jedes Jahr auf sein Dach steigen musste.",
+        "en" : "The story goes that plump Heinz the butcher built this kitchen low, since he had to climb his roof every year."
       },
       "name" : "Historische Wurstkuchl",
       "pos" : [
         49.020915,
         12.097549
       ],
-      "story" : "Before it cooked a single meal, this little building was the site office for the Stone Bridge next door."
+      "story" : "The story goes that plump Heinz the butcher built this kitchen low, since he had to climb his roof every year."
     },
     {
-      "extendedStory" : "One wears a monk's hood, and his body ends in a dragon's tail. The other looks like a dragon with shaggy, combed-back hair. High above, look for another odd name. The north-east tower is the Eselsturm, the donkey tower, left from an older cathedral. It never held donkeys. Esel meant a hoist, and the tower still carries building materials up today.",
+      "extendedStory" : "One wears a monk's hood, and his body ends in a dragon's tail. The other looks like a dragon with shaggy, combed-back hair. High above, look for another odd name. The north-east tower is the Eselsturm, the donkey tower, left from an older cathedral. It was never meant for donkeys, being far too small. Esel meant a hoist, and the tower still carries building materials up today.",
       "icon" : "hero",
       "id" : "f-dom-sankt-peter",
       "kind" : "church",
       "localizedExtendedStory" : {
-        "de" : "Einer trägt eine Mönchskappe, und sein Leib endet in einem Drachenschwanz. Der andere sieht aus wie ein Drache mit struppigem, nach hinten gekämmtem Haar. Weiter oben wartet noch ein seltsamer Name. Der Nordostturm heißt Eselsturm und stammt vom älteren romanischen Dom. Esel trugen dort nie etwas. Esel hieß ein Lastenaufzug, und bis heute bringt der Turm Baumaterial nach oben.",
-        "en" : "One wears a monk's hood, and his body ends in a dragon's tail. The other looks like a dragon with shaggy, combed-back hair. High above, look for another odd name. The north-east tower is the Eselsturm, the donkey tower, left from an older cathedral. It never held donkeys. Esel meant a hoist, and the tower still carries building materials up today."
+        "de" : "Einer trägt eine Mönchskappe, und sein Leib endet in einem Drachenschwanz. Der andere sieht aus wie ein Drache mit struppigem, nach hinten gekämmtem Haar. Weiter oben wartet noch ein seltsamer Name. Der Nordostturm heißt Eselsturm und stammt vom älteren romanischen Dom. Dass er für Lastesel gedacht war, stimmt nicht: Dafür ist er viel zu klein. Esel hieß ein Lastenaufzug, und bis heute bringt der Turm Baumaterial nach oben.",
+        "en" : "One wears a monk's hood, and his body ends in a dragon's tail. The other looks like a dragon with shaggy, combed-back hair. High above, look for another odd name. The north-east tower is the Eselsturm, the donkey tower, left from an older cathedral. It was never meant for donkeys, being far too small. Esel meant a hoist, and the tower still carries building materials up today."
       },
       "localizedStory" : {
         "de" : "Gleich innen am Westportal lauern zwei Steinfiguren in ihren Nischen. Der Sage nach sind es der Teufel und seine Großmutter.",
@@ -8997,33 +9029,113 @@
       "story" : "Just inside the west portal, two stone figures lurk in their niches. The story goes they are the devil and his grandmother."
     },
     {
-      "extendedStory" : "Before it was a castle, it was the Imperial Abbey of St. Emmeram, one of the great Benedictine monasteries of Germany. Monks once walked these halls. Later the princely house of Thurn und Taxis made the old abbey its home, and the castle carries their name. The architect Jean-Baptiste Métivier worked on it too. So a monastery full of monks became the home of one family.",
+      "extendedStory" : "That oriel is a little room jutting out from the outer wall. For well over a century, the Perpetual Imperial Diet, the empire's great assembly, met in the hall here. Its Gothic wooden ceiling is still in place. The tower rises 55 metres and goes back to the days when rich families built their homes like small castles.",
+      "icon" : "choice",
+      "id" : "f-altes-rathaus",
+      "kind" : "civic",
+      "localizedExtendedStory" : {
+        "de" : "Ein Erker ist ein kleiner Raum, der aus der Mauer vorspringt. Über hundertvierzig Jahre lang tagte im Saal hier der Immerwährende Reichstag, die große Versammlung des Reiches. Seine gotische Holzdecke ist bis heute erhalten. Der Turm ist 55 Meter hoch und stammt aus der Zeit, als reiche Familien ihre Häuser wie kleine Burgen bauten.",
+        "en" : "That oriel is a little room jutting out from the outer wall. For well over a century, the Perpetual Imperial Diet, the empire's great assembly, met in the hall here. Its Gothic wooden ceiling is still in place. The tower rises 55 metres and goes back to the days when rich families built their homes like small castles."
+      },
+      "localizedStory" : {
+        "de" : "Der Sage nach flogen Münzen aus dem Reichstagserker, wann immer der Kaiser hier war. Die Redensart vom hinausgeworfenen Geld soll daran erinnern.",
+        "en" : "People say coins flew from the Reichstag oriel whenever the emperor stayed. The saying about throwing money out the window is said to recall it."
+      },
+      "name" : "Altes Rathaus",
+      "pos" : [
+        49.020357,
+        12.094563
+      ],
+      "story" : "People say coins flew from the Reichstag oriel whenever the emperor stayed. The saying about throwing money out the window is said to recall it."
+    },
+    {
+      "extendedStory" : "The founding legend says the rising sun lit up Marianus and his companions as they crossed a church threshold in Regensburg. The account of his life also names a monk called Mauritius, said to have been sharp at business. He came back from a trip to Kyiv richly rewarded with fine furs. The goods, it says, paid for the monastery buildings and the church roof. Inside, beside the north portal, a relief shows a monk named Rydan holding a key. Readings differ on whether he is the portal's builder or a doorkeeper.",
+      "icon" : "choice",
+      "id" : "f-schottenkirche-st-jakob",
+      "kind" : "church",
+      "localizedExtendedStory" : {
+        "de" : "Laut Gründungslegende traten Marianus und seine Begleiter in Regensburg gerade über eine Kirchenschwelle, als die Sonne aufging und ihnen leuchtete. Seine Lebensbeschreibung nennt auch einen Mönch namens Mauritius, der geschäftstüchtig gewesen sein soll. Von einer Reise nach Kiew kam er mit kostbaren Pelzen reich beschenkt zurück. Der Erlös habe die Klostergebäude und das Dach der Kirche bezahlt. Drinnen neben dem Nordportal zeigt ein Relief einen Mönch namens Rydan mit einem Schlüssel. Ob er das Portal gebaut oder die Tür bewacht hat, wird unterschiedlich gedeutet.",
+        "en" : "The founding legend says the rising sun lit up Marianus and his companions as they crossed a church threshold in Regensburg. The account of his life also names a monk called Mauritius, said to have been sharp at business. He came back from a trip to Kyiv richly rewarded with fine furs. The goods, it says, paid for the monastery buildings and the church roof. Inside, beside the north portal, a relief shows a monk named Rydan holding a key. Readings differ on whether he is the portal's builder or a doorkeeper."
+      },
+      "localizedStory" : {
+        "de" : "Der Sage nach sollte sich der irische Mönch Marianus dort niederlassen, wo ihm die aufgehende Sonne entgegenleuchtete, und das war Regensburg.",
+        "en" : "The story goes that the Irish monk Marianus was to settle where the rising sun met him, and that was Regensburg."
+      },
+      "name" : "Schottenkirche St. Jakob",
+      "pos" : [
+        49.018773,
+        12.088252
+      ],
+      "story" : "The story goes that the Irish monk Marianus was to settle where the rising sun met him, and that was Regensburg."
+    },
+    {
+      "extendedStory" : "Look at the west outer wall, where stones with Roman inscriptions are still partly visible today. Legend even puts a temple of Juno on this spot, turned into a church of Mary by Saint Rupert of Salzburg. An old saying, handed down to this day, puts the church beside the cathedral. It says Saint Peter's is the mighty one, and the chapel the splendid one. In 2006 Pope Benedict consecrated its organ in person, and probably no other organ can claim that.",
+      "icon" : "everyday",
+      "id" : "f-stift-zu-unserer-lieben-frau-zur-alten-kapelle",
+      "kind" : "church",
+      "localizedExtendedStory" : {
+        "de" : "An der westlichen Außenwand der Kirche sind Steine mit römischen Inschriften bis heute teilweise sichtbar. Der Legende nach stand genau hier sogar ein Tempel der Juno, den der heilige Rupert von Salzburg zur Marienkirche machte. Ein alter Spruch stellt sie bis heute neben den Dom. Er lautet: Sankt Peter ist der Mächtige, die Kapelle die Prächtige. Ihre Orgel hat Papst Benedikt 2006 persönlich geweiht, und wohl keine andere Orgel kann das von sich sagen.",
+        "en" : "Look at the west outer wall, where stones with Roman inscriptions are still partly visible today. Legend even puts a temple of Juno on this spot, turned into a church of Mary by Saint Rupert of Salzburg. An old saying, handed down to this day, puts the church beside the cathedral. It says Saint Peter's is the mighty one, and the chapel the splendid one. In 2006 Pope Benedict consecrated its organ in person, and probably no other organ can claim that."
+      },
+      "localizedStory" : {
+        "de" : "Der Sage nach stand hier einst ein Tempel der römischen Göttin Juno, und der heilige Rupert von Salzburg machte daraus eine Marienkirche.",
+        "en" : "Legend says a Roman temple of Juno stood here, and that Saint Rupert of Salzburg made it a church of Mary."
+      },
+      "name" : "Stift zu Unserer Lieben Frau zur Alten Kapelle",
+      "pos" : [
+        49.018328,
+        12.099737
+      ],
+      "story" : "Legend says a Roman temple of Juno stood here, and that Saint Rupert of Salzburg made it a church of Mary."
+    },
+    {
+      "extendedStory" : "The story goes that the bridge builder and the cathedral builder once bet on who would finish sooner. It is said the devil then demanded his reward. So the tale goes, at the opening the builder drove a rooster, a hen and a dog across ahead of anyone. That, the legend says, is why the bridge has a hump. Much later, a tram line to Stadtamhof was planned, but the gate in the bridge tower was just 3 metres wide. Pulling the tower down came close, until the city building officer Adolf Schmetzer stepped in.",
+      "icon" : "choice",
+      "id" : "f-steinerne-brucke",
+      "kind" : "bridge",
+      "localizedExtendedStory" : {
+        "de" : "Der Sage nach schlossen der Brückenbaumeister und der Dombaumeister einmal eine Wette, wer früher fertig würde. Es heißt, der Teufel habe dann seinen Lohn gefordert. Man erzählt, dass der Baumeister bei der Eröffnung zuerst einen Hahn, eine Henne und einen Hund über die Brücke laufen ließ. Daher kommt, sagt die Legende, der Buckel der Brücke. Viel später sollte eine Straßenbahn über die Brücke nach Stadtamhof fahren, doch das Tor im Brückturm war nur 3 Meter breit. Beinahe wäre der Turm abgerissen worden, doch Stadtbaurat Adolf Schmetzer setzte sich für ihn ein.",
+        "en" : "The story goes that the bridge builder and the cathedral builder once bet on who would finish sooner. It is said the devil then demanded his reward. So the tale goes, at the opening the builder drove a rooster, a hen and a dog across ahead of anyone. That, the legend says, is why the bridge has a hump. Much later, a tram line to Stadtamhof was planned, but the gate in the bridge tower was just 3 metres wide. Pulling the tower down came close, until the city building officer Adolf Schmetzer stepped in."
+      },
+      "localizedStory" : {
+        "de" : "Der Sage nach verdankt die Brücke ihren Buckel dem Teufel und einem Hahn, einer Henne und einem Hund.",
+        "en" : "The story goes that this bridge got its hump from a devil, a rooster, a hen and a dog."
+      },
+      "name" : "Steinerne Brücke",
+      "pos" : [
+        49.022618,
+        12.097167
+      ],
+      "story" : "The story goes that this bridge got its hump from a devil, a rooster, a hen and a dog."
+    },
+    {
+      "extendedStory" : "The story goes that once the pain had forced King Conrad off his horse, he had the gospel book carried back. This castle was once the Imperial Abbey of St. Emmeram, one of the largest Benedictine monasteries in Germany. Where monks once lived, people still make their home today. The castle carries the name of the House of Thurn and Taxis. With well over 500 rooms, it is the largest castle that is still a private home.",
       "icon" : "choice",
       "id" : "f-schloss-st-emmeram",
       "kind" : "fortress",
       "localizedExtendedStory" : {
-        "de" : "Bevor es ein Schloss war, war es die Reichsabtei St. Emmeram, eines der großen Benediktinerklöster Deutschlands. Einst gingen hier Mönche durch die Gänge. Später machte das Fürstenhaus Thurn und Taxis die alte Abtei zu seinem Zuhause, und das Schloss trägt seinen Namen. Auch der Architekt Jean Baptiste Métivier hat daran gebaut. Aus einem Kloster voller Mönche wurde so das Heim einer Familie.",
-        "en" : "Before it was a castle, it was the Imperial Abbey of St. Emmeram, one of the great Benedictine monasteries of Germany. Monks once walked these halls. Later the princely house of Thurn und Taxis made the old abbey its home, and the castle carries their name. The architect Jean-Baptiste Métivier worked on it too. So a monastery full of monks became the home of one family."
+        "de" : "Man erzählt, König Konrad ließ das Buch zurücktragen, nachdem ihn ein nagender Schmerz vom Pferd gezwungen hatte. Dieses Schloss war einst die Reichsabtei St. Emmeram, eines der größten Klöster der Benediktiner in Deutschland. Wo einst Mönche lebten, wohnen bis heute Menschen. Seinen Namen verdankt das Schloss dem Fürstenhaus Thurn und Taxis. Mit weit über 500 Zimmern ist kein anderes privat bewohntes Schloss so groß.",
+        "en" : "The story goes that once the pain had forced King Conrad off his horse, he had the gospel book carried back. This castle was once the Imperial Abbey of St. Emmeram, one of the largest Benedictine monasteries in Germany. Where monks once lived, people still make their home today. The castle carries the name of the House of Thurn and Taxis. With well over 500 rooms, it is the largest castle that is still a private home."
       },
       "localizedStory" : {
-        "de" : "Weit über 500 Zimmer, und hier wird noch gewohnt. Damit ist es das größte privat bewohnte Schloss.",
-        "en" : "Well over 500 rooms, and people still live in them. That makes this the largest privately inhabited castle."
+        "de" : "Der Sage nach wollte König Konrad das Evangelienbuch der Abtei hier mitnehmen, bis ihn ein nagender Schmerz vom Pferd zwang.",
+        "en" : "The story goes that King Conrad wanted this abbey's gospel book, until a gnawing pain forced him off his horse."
       },
       "name" : "Schloss St. Emmeram",
       "pos" : [
         49.014629,
         12.09315
       ],
-      "story" : "Well over 500 rooms, and people still live in them. That makes this the largest privately inhabited castle."
+      "story" : "The story goes that King Conrad wanted this abbey's gospel book, until a gnawing pain forced him off his horse."
     },
     {
-      "extendedStory" : "Look at the walls of the archway for tall slots. A portcullis, a heavy iron grille, could be let down them on chains from the floor above. The tower rises five storeys, and it was one of six gate towers in the old city walls. So the same arch that once shut the town tight later let a tram roll through.",
+      "extendedStory" : "Look for slots in the wall. A portcullis, a gate that drops into place, could be let down them on chains from the floor above. The tower rises five storeys, and it was one of six gate towers in the old city walls. So a gate fitted for a portcullis later let a tram roll straight through.",
       "icon" : "everyday",
       "id" : "f-ostentor",
       "kind" : "gate_tower",
       "localizedExtendedStory" : {
-        "de" : "Schau dir die Wände der Durchfahrt an: Dort sitzen hohe Schlitze. In ihnen ließ man von oben ein schweres Gitter herunter, das Fallgatter, an Ketten. Fünf Stockwerke hoch ist der Turm, und sechs solche Tortürme gab es einst rund um die alte Stadt. Derselbe Bogen, der die Stadt einst verschloss, ließ später die Straßenbahn passieren.",
-        "en" : "Look at the walls of the archway for tall slots. A portcullis, a heavy iron grille, could be let down them on chains from the floor above. The tower rises five storeys, and it was one of six gate towers in the old city walls. So the same arch that once shut the town tight later let a tram roll through."
+        "de" : "Schau dir die Mauer an: Dort sitzen Schlitze. In ihnen konnte man von oben das Fallgatter an Ketten herunterlassen. Fünf Stockwerke hoch ist der Turm, und sechs solche Tortürme gab es einst rund um die alte Stadt. Durch ein Tor mit Fallgatterschlitzen fuhr später sogar die Straßenbahn.",
+        "en" : "Look for slots in the wall. A portcullis, a gate that drops into place, could be let down them on chains from the floor above. The tower rises five storeys, and it was one of six gate towers in the old city walls. So a gate fitted for a portcullis later let a tram roll straight through."
       },
       "localizedStory" : {
         "de" : "Vierzig Jahre lang fuhr die Straßenbahnlinie 3 mitten durch dieses mittelalterliche Tor bis zur Endstation.",
@@ -9037,53 +9149,53 @@
       "story" : "For forty years, tram line 3 ran straight through this medieval gate on its way to the end of the line."
     },
     {
-      "extendedStory" : "The bridge that stood here before was destroyed at the end of the war. A makeshift wooden bridge took over the year after, and it stayed until 1991. Today's crossing was designed by Auer & Weber and is 82 metres long. Where the Hengstenberg nickname comes from, ask an older local. They are the ones who still use it.",
-      "icon" : "everyday",
-      "id" : "f-eiserne-brucke",
-      "kind" : "bridge",
-      "localizedExtendedStory" : {
-        "de" : "Die Brücke, die vorher hier stand, wurde am Ende des Krieges zerstört. Schon im Jahr darauf übernahm eine hölzerne Behelfsbrücke, und sie hielt bis 1991. Die heutige Brücke entwarfen Auer & Weber, sie ist 82 Meter lang. Woher der Spitzname Hengstenberg kommt, fragst du am besten einen älteren Regensburger. Die benutzen ihn noch.",
-        "en" : "The bridge that stood here before was destroyed at the end of the war. A makeshift wooden bridge took over the year after, and it stayed until 1991. Today's crossing was designed by Auer & Weber and is 82 metres long. Where the Hengstenberg nickname comes from, ask an older local. They are the ones who still use it."
-      },
-      "localizedStory" : {
-        "de" : "Ihr Spitzname bei älteren Regensburgern: Hengstenberg Brücke. Fast ein halbes Jahrhundert lang trug hier eine hölzerne Behelfsbrücke die Leute über das Wasser.",
-        "en" : "Among older Regensburgers, its nickname is the Hengstenberg bridge. For nearly half a century, a wooden stand-in did its job."
-      },
-      "name" : "Eiserne Brücke",
-      "pos" : [
-        49.020739,
-        12.101897
-      ],
-      "story" : "Among older Regensburgers, its nickname is the Hengstenberg bridge. For nearly half a century, a wooden stand-in did its job."
-    },
-    {
-      "extendedStory" : "At a scale of 1:4000, a house shrinks smaller than a grain of rice. The museum itself lives in the old Minorite friary of St. Salvator, once a quiet house of monks. It was founded long before it opened. Almost two decades went by before its director, Walter Boll, let visitors in.",
+      "extendedStory" : "The story goes that the city council itself asked the Minorite friars for help against Fat Agnes, a growing ghost. It is said the friars banished it into a cellar, and that its wailing was heard there long after. Those friars lived in this very building, the former friary of St. Salvator, which now holds the museum. Look inside for a model that shrinks old Regensburg to a scale of 1:4000.",
       "icon" : "everyday",
       "id" : "f-historisches-museum",
       "kind" : "museum",
       "localizedExtendedStory" : {
-        "de" : "Das Modell hat den Maßstab 1:4000, ein Haus wird darin kleiner als ein Reiskorn. Untergebracht ist das Museum im früheren Kloster der Minoriten, St. Salvator, einst ein Haus von Mönchen. Gegründet wurde es lange vor seiner Eröffnung. Achtzehn Jahre vergingen, bis Walter Boll als Direktor die Besucher hereinließ.",
-        "en" : "At a scale of 1:4000, a house shrinks smaller than a grain of rice. The museum itself lives in the old Minorite friary of St. Salvator, once a quiet house of monks. It was founded long before it opened. Almost two decades went by before its director, Walter Boll, let visitors in."
+        "de" : "Man erzählt, dass sich der Stadtrat selbst an die Minoriten wandte, weil das Gespenst Dicke Agnes immer größer wurde. Der Sage nach bannten die Brüder es in einen Keller, wo man es noch lange klagen hörte. Diese Minoriten lebten genau hier, im früheren Kloster St. Salvator, in dem heute das Museum sitzt. Drinnen wartet ein Modell, das das alte Regensburg im Maßstab 1:4000 zeigt.",
+        "en" : "The story goes that the city council itself asked the Minorite friars for help against Fat Agnes, a growing ghost. It is said the friars banished it into a cellar, and that its wailing was heard there long after. Those friars lived in this very building, the former friary of St. Salvator, which now holds the museum. Look inside for a model that shrinks old Regensburg to a scale of 1:4000."
       },
       "localizedStory" : {
-        "de" : "Drinnen wartet die ganze Stadt im Kleinen: ein Modell von Regensburg, wie es vor über drei Jahrhunderten aussah.",
-        "en" : "Inside waits the whole town in miniature: a model of Regensburg as it looked over three centuries ago."
+        "de" : "Der Sage nach wuchs ein Gespenst namens Dicke Agnes immer weiter, bis die Minoriten, die hier lebten, es in einen Keller bannten.",
+        "en" : "The story goes that a ghost called Fat Agnes kept growing, until the friars who lived here banished it into a cellar."
       },
       "name" : "Historisches Museum",
       "pos" : [
         49.01773,
         12.101921
       ],
-      "story" : "Inside waits the whole town in miniature: a model of Regensburg as it looked over three centuries ago."
+      "story" : "The story goes that a ghost called Fat Agnes kept growing, until the friars who lived here banished it into a cellar."
     },
     {
-      "extendedStory" : "By then the convent was very old. Benedictine nuns had lived here for about six centuries, since Bishop Wolfgang of Regensburg founded their house in 983. In 1588 the pope dissolved it, and its buildings became a Jesuit college, a school run by priests. The name stayed. So the Jesuits you hear in it were just the later tenants of a very old address.",
+      "extendedStory" : "Its foundation stone went down in July 1929. Bishop Michael Buchberger consecrated the finished church in November 1930, not much more than a year later. Carl Schad drew it in a late Expressionist style. That style shows in its strict cube form. It is a basilica, with a tall central nave and lower aisles on either side.",
+      "icon" : "everyday",
+      "id" : "f-herz-jesu",
+      "kind" : "church",
+      "localizedExtendedStory" : {
+        "de" : "Im Juli 1929 wurde der Grundstein gelegt. Schon im November 1930 weihte Bischof Michael Buchberger die fertige Kirche, kaum mehr als ein Jahr später. Carl Schad entwarf sie im späten Expressionismus. Sie ist eine dreischiffige Basilika, mit hohem Mittelschiff und niedrigeren Seitenschiffen.",
+        "en" : "Its foundation stone went down in July 1929. Bishop Michael Buchberger consecrated the finished church in November 1930, not much more than a year later. Carl Schad drew it in a late Expressionist style. That style shows in its strict cube form. It is a basilica, with a tall central nave and lower aisles on either side."
+      },
+      "localizedStory" : {
+        "de" : "Eine Kirche in strenger Kubusform mit Satteldach, entworfen vom Oberbaurat des Fürstenhauses Thurn und Taxis.",
+        "en" : "A church shaped like a strict cube under a saddle roof. Its designer was building chief to the princely house of Thurn und Taxis."
+      },
+      "name" : "Herz Jesu",
+      "pos" : [
+        49.020159,
+        12.086519
+      ],
+      "story" : "A church shaped like a strict cube under a saddle roof. Its designer was building chief to the princely house of Thurn und Taxis."
+    },
+    {
+      "extendedStory" : "By then the convent was very old. Benedictine nuns had lived here for about six centuries, since Bishop Wolfgang of Regensburg founded their house in 983. In 1588 the pope dissolved it, and its buildings became a Jesuit college, a school run by priests. So the Jesuits you hear in the square's name were just the later tenants of a very old address.",
       "icon" : "everyday",
       "id" : "f-jesuitenplatz",
       "kind" : "square",
       "localizedExtendedStory" : {
-        "de" : "Damals war das Stift schon sehr alt. Benediktinerinnen hatten hier rund sechs Jahrhunderte gelebt, seit Bischof Wolfgang von Regensburg ihr Kloster 983 gründete. 1588 hob der Papst es auf, und seine Gebäude wurden ein Jesuitenkolleg, eine Schule unter der Leitung von Priestern. Der Name blieb. Die Jesuiten darin sind also nur die späteren Bewohner einer sehr alten Adresse.",
-        "en" : "By then the convent was very old. Benedictine nuns had lived here for about six centuries, since Bishop Wolfgang of Regensburg founded their house in 983. In 1588 the pope dissolved it, and its buildings became a Jesuit college, a school run by priests. The name stayed. So the Jesuits you hear in it were just the later tenants of a very old address."
+        "de" : "Damals war das Stift schon sehr alt. Benediktinerinnen hatten hier rund sechs Jahrhunderte gelebt, seit Bischof Wolfgang von Regensburg ihr Kloster 983 gründete. 1588 hob der Papst es auf, und seine Gebäude wurden ein Jesuitenkolleg, eine Schule unter der Leitung von Priestern. Die Jesuiten im Namen des Platzes sind also nur die späteren Bewohner einer sehr alten Adresse.",
+        "en" : "By then the convent was very old. Benedictine nuns had lived here for about six centuries, since Bishop Wolfgang of Regensburg founded their house in 983. In 1588 the pope dissolved it, and its buildings became a Jesuit college, a school run by priests. So the Jesuits you hear in the square's name were just the later tenants of a very old address."
       },
       "localizedStory" : {
         "de" : "Papst Sixtus V. löste das Stift auf, das hier stand, und die Jesuiten zogen ein. Daher trägt dieser Ort ihren Namen.",
@@ -9097,24 +9209,24 @@
       "story" : "A pope named Sixtus V closed the convent that stood here, and the Jesuits moved in. That is where this place gets its name."
     },
     {
-      "extendedStory" : "That oriel is a little room jutting out from the outer wall. For well over a century, the Perpetual Imperial Diet, the empire's great assembly, met in the hall here. Its Gothic wooden ceiling is still in place. The tower is even older. It rises 55 metres and goes back to the days when rich families built their homes like small castles.",
-      "icon" : "choice",
-      "id" : "f-altes-rathaus",
-      "kind" : "civic",
+      "extendedStory" : "The council ordered them from the sculptor Leonhard Kern. Four of them, Faith, Justice, Prudence and Hope, now stand in the town hall courtyard. The fifth was destroyed. Hans Carl designed the church. Climbers get a reward: 157 steps lead to the town's best-loved rooftop view, kept open through the season by volunteer tower wardens.",
+      "icon" : "everyday",
+      "id" : "f-dreieinigkeitskirche",
+      "kind" : "church",
       "localizedExtendedStory" : {
-        "de" : "Ein Erker ist ein kleiner Raum, der aus der Mauer vorspringt. Über hundertvierzig Jahre lang tagte im Saal hier der Immerwährende Reichstag, die große Versammlung des Reiches. Seine gotische Holzdecke ist bis heute erhalten. Der Turm ist noch älter. Er ist 55 Meter hoch und stammt aus der Zeit, als reiche Familien ihre Häuser wie kleine Burgen bauten.",
-        "en" : "That oriel is a little room jutting out from the outer wall. For well over a century, the Perpetual Imperial Diet, the empire's great assembly, met in the hall here. Its Gothic wooden ceiling is still in place. The tower is even older. It rises 55 metres and goes back to the days when rich families built their homes like small castles."
+        "de" : "Der Rat bestellte sie beim Bildhauer Leonhard Kern. Vier davon, Glaube, Gerechtigkeit, Klugheit und Hoffnung, stehen heute im Rathaushof. Die fünfte wurde zerstört. Hanns Carl entwarf die Kirche. Wer steigen mag: 157 Stufen führen zum beliebtesten Dächerblick der Stadt, und ehrenamtliche Turmaufseher halten den Aufstieg über die Saison offen.",
+        "en" : "The council ordered them from the sculptor Leonhard Kern. Four of them, Faith, Justice, Prudence and Hope, now stand in the town hall courtyard. The fifth was destroyed. Hans Carl designed the church. Climbers get a reward: 157 steps lead to the town's best-loved rooftop view, kept open through the season by volunteer tower wardens."
       },
       "localizedStory" : {
-        "de" : "Der Sage nach flogen Münzen aus dem Reichstagserker, wann immer der Kaiser hier war. Die Redensart vom hinausgeworfenen Geld soll daran erinnern.",
-        "en" : "People say throwing money out of the window began here: whenever the emperor stayed, coins were tossed from the Reichstag oriel."
+        "de" : "Für die Portale dieser Kirche wurden sechs Statuen bestellt, aufgestellt wurde dort keine. Von der sechsten fehlt jede Spur.",
+        "en" : "Six statues were ordered for this church's doors, and none ever went up there. Of the sixth, there is no trace at all."
       },
-      "name" : "Altes Rathaus",
+      "name" : "Dreieinigkeitskirche",
       "pos" : [
-        49.020357,
-        12.094563
+        49.018525,
+        12.091732
       ],
-      "story" : "People say throwing money out of the window began here: whenever the emperor stayed, coins were tossed from the Reichstag oriel."
+      "story" : "Six statues were ordered for this church's doors, and none ever went up there. Of the sixth, there is no trace at all."
     },
     {
       "extendedStory" : "His name was Georg Friedrich Ritter von Müller, and he bought the land in 1804. The city bought the grounds much later. About a century and a half after his purchase, the garden was remade as a public park. It covers about a hectare and a half, which makes it one of the smaller parks in town. Along its south side stands the Württembergisches Palais, now home to the Naturkundemuseum Ostbayern.",
@@ -9126,58 +9238,18 @@
         "en" : "His name was Georg Friedrich Ritter von Müller, and he bought the land in 1804. The city bought the grounds much later. About a century and a half after his purchase, the garden was remade as a public park. It covers about a hectare and a half, which makes it one of the smaller parks in town. Along its south side stands the Württembergisches Palais, now home to the Naturkundemuseum Ostbayern."
       },
       "localizedStory" : {
-        "de" : "Ein Geheimer Rat der Fürsten von Thurn und Taxis kaufte dieses Gelände für seinen privaten Garten. Heute darf jeder hinein.",
-        "en" : "A privy councillor of the princes of Thurn und Taxis bought this ground for his own private garden. Today anyone can walk in."
+        "de" : "Ein Geheimer Rat der Fürsten von Thurn und Taxis kaufte dieses Gelände und legte darauf einen privaten Garten an. Heute darf jeder hinein.",
+        "en" : "A privy councillor of the princes of Thurn und Taxis bought this ground and made a private garden of it. Today anyone can walk in."
       },
       "name" : "Herzogspark",
       "pos" : [
         49.022763,
         12.081505
       ],
-      "story" : "A privy councillor of the princes of Thurn und Taxis bought this ground for his own private garden. Today anyone can walk in."
-    },
-    {
-      "extendedStory" : "The council ordered them from the sculptor Leonhard Kern. Four of them, Faith, Justice, Prudence and Hope, now stand in the town hall courtyard. The fifth was destroyed. Hans Carl designed the church, and it rose in just four years. Climbers get a reward: 157 steps lead to the town's best-loved rooftop view, kept open through the season by volunteer tower wardens.",
-      "icon" : "everyday",
-      "id" : "f-dreieinigkeitskirche",
-      "kind" : "church",
-      "localizedExtendedStory" : {
-        "de" : "Der Rat bestellte sie beim Bildhauer Leonhard Kern. Vier davon, Glaube, Gerechtigkeit, Klugheit und Hoffnung, stehen heute im Rathaushof. Die fünfte wurde zerstört. Hanns Carl entwarf die Kirche, und in nur vier Jahren stand sie. Wer steigen mag: 157 Stufen führen zum beliebtesten Dächerblick der Stadt, und ehrenamtliche Turmaufseher halten den Aufstieg über die Saison offen.",
-        "en" : "The council ordered them from the sculptor Leonhard Kern. Four of them, Faith, Justice, Prudence and Hope, now stand in the town hall courtyard. The fifth was destroyed. Hans Carl designed the church, and it rose in just four years. Climbers get a reward: 157 steps lead to the town's best-loved rooftop view, kept open through the season by volunteer tower wardens."
-      },
-      "localizedStory" : {
-        "de" : "Für die Portale dieser Kirche wurden sechs Statuen bestellt, aufgestellt wurde dort keine. Von der sechsten fehlt jede Spur.",
-        "en" : "Six statues were ordered for this church's doors, and none was ever put in place. Of the sixth, there is no trace at all."
-      },
-      "name" : "Dreieinigkeitskirche",
-      "pos" : [
-        49.018525,
-        12.091732
-      ],
-      "story" : "Six statues were ordered for this church's doors, and none was ever put in place. Of the sixth, there is no trace at all."
-    },
-    {
-      "extendedStory" : "Its foundation stone went down in July 1929. Bishop Michael Buchberger consecrated the finished church in November 1930, not much more than a year later. Carl Schad drew it in a late Expressionist style. That meant bold, simple shapes instead of carved stone lace. It is a basilica, with a tall central nave and lower aisles on either side.",
-      "icon" : "everyday",
-      "id" : "f-herz-jesu",
-      "kind" : "church",
-      "localizedExtendedStory" : {
-        "de" : "Im Juli 1929 wurde der Grundstein gelegt. Schon im November 1930 weihte Bischof Michael Buchberger die fertige Kirche, kaum mehr als ein Jahr später. Carl Schad entwarf sie im späten Expressionismus. Das heißt: kräftige, einfache Formen statt steinerner Spitzen und Schnörkel. Sie ist eine dreischiffige Basilika, mit hohem Mittelschiff und niedrigeren Seitenschiffen.",
-        "en" : "Its foundation stone went down in July 1929. Bishop Michael Buchberger consecrated the finished church in November 1930, not much more than a year later. Carl Schad drew it in a late Expressionist style. That meant bold, simple shapes instead of carved stone lace. It is a basilica, with a tall central nave and lower aisles on either side."
-      },
-      "localizedStory" : {
-        "de" : "Eine Kirche in strenger Kubusform mit Satteldach, entworfen vom Oberbaurat des Fürstenhauses Thurn und Taxis.",
-        "en" : "A church shaped like a strict cube under a saddle roof. Its designer was building chief to the princely house of Thurn und Taxis."
-      },
-      "name" : "Herz Jesu",
-      "pos" : [
-        49.020159,
-        12.086519
-      ],
-      "story" : "A church shaped like a strict cube under a saddle roof. Its designer was building chief to the princely house of Thurn und Taxis."
+      "story" : "A privy councillor of the princes of Thurn und Taxis bought this ground and made a private garden of it. Today anyone can walk in."
     }
   ],
-  "generatedAt" : "2026-09-25T19:21:52Z",
+  "generatedAt" : "2026-09-29T17:34:35Z",
   "icon" : {
     "paths" : [
       "m 77.67 14.43 l 7.91 7.91 l -60.81 60.81 l -7.91 -7.91 z m 2.74 5.17 l 9.73 9.73 l -4.86 4.86 l -9.73 -9.73 z m -9.73 9.73 l 12.16 12.16 l -4.86 4.86 l -12.16 -12.16 z m -41.35 63.24 c -6.05 6.05 -15.85 6.05 -21.89 0 c -6.05 -6.05 -6.05 -15.85 0 -21.89 c 6.05 -6.05 15.85 -6.05 21.89 0 c 6.05 6.05 6.05 15.85 0 21.89 z m -5.47 -5.47 c 3.02 -3.02 3.02 -7.92 0 -10.95 c -3.02 -3.02 -7.92 -3.02 -10.95 0 c -3.02 3.02 -3.02 7.92 0 10.95 c 3.02 3.02 7.92 3.02 10.95 0 z m -9.43 -64.76 l 7.91 -7.91 l 60.81 60.81 l -7.91 7.91 z m -4.56 6.99 l 9.73 -9.73 l 4.86 4.86 l -9.73 9.73 z m 7.3 12.16 l 12.16 -12.16 l 4.86 4.86 l -12.16 12.16 z m 75.41 29.19 c 6.05 6.05 6.05 15.85 0 21.89 c -6.05 6.05 -15.85 6.05 -21.89 0 c -6.05 -6.05 -6.05 -15.85 0 -21.89 c 6.05 -6.05 15.85 -6.05 21.89 0 z m -5.47 5.47 c -3.02 -3.02 -7.92 -3.02 -10.95 0 c -3.02 3.02 -3.02 7.92 0 10.95 c 3.02 3.02 7.92 3.02 10.95 0 c 3.02 -3.02 3.02 -7.92 0 -10.95 z"
@@ -9190,17 +9262,17 @@
     "en" : "Regensburg"
   },
   "name" : "Regensburg",
-  "packVersion" : 29,
+  "packVersion" : 42,
   "schemaVersion" : 1,
   "source" : "OpenStreetMap via Overpass API",
   "stats" : {
-    "estHours" : 10.5,
-    "nodeCount" : 1821,
-    "routeFactor" : 1.24,
-    "routeKm" : 36.7,
+    "estHours" : 10.8,
+    "nodeCount" : 1861,
+    "routeFactor" : 1.25,
+    "routeKm" : 37.8,
     "stepsStreetCount" : 4,
-    "streetCount" : 195,
-    "totalKm" : 29.55
+    "streetCount" : 198,
+    "totalKm" : 30.16
   },
   "streets" : [
     {
@@ -9482,6 +9554,73 @@
           [
             49.016588,
             12.099503
+          ]
+        ]
+      ]
+    },
+    {
+      "id" : "s-am-bruckenbasar",
+      "lengthM" : 65.3,
+      "name" : "Am Brückenbasar",
+      "nodes" : [
+        [
+          49.0245,
+          12.097344
+        ],
+        [
+          49.024391,
+          12.097344
+        ],
+        [
+          49.024212,
+          12.097326
+        ],
+        [
+          49.024032,
+          12.097308
+        ],
+        [
+          49.024465,
+          12.097345
+        ],
+        [
+          49.024466,
+          12.097183
+        ]
+      ],
+      "polylines" : [
+        [
+          [
+            49.0245,
+            12.097344
+          ],
+          [
+            49.024465,
+            12.097345
+          ],
+          [
+            49.024391,
+            12.097344
+          ]
+        ],
+        [
+          [
+            49.024391,
+            12.097344
+          ],
+          [
+            49.02402,
+            12.097307
+          ]
+        ],
+        [
+          [
+            49.024465,
+            12.097345
+          ],
+          [
+            49.024466,
+            12.097183
           ]
         ]
       ]
@@ -9909,7 +10048,7 @@
     },
     {
       "id" : "s-am-prebrunntor",
-      "lengthM" : 109.8,
+      "lengthM" : 136.7,
       "name" : "Am Prebrunntor",
       "nodes" : [
         [
@@ -9939,6 +10078,14 @@
         [
           49.021978,
           12.083545
+        ],
+        [
+          49.021867,
+          12.082351
+        ],
+        [
+          49.021825,
+          12.082084
         ]
       ],
       "polylines" : [
@@ -9976,6 +10123,20 @@
           [
             49.021988,
             12.083453
+          ]
+        ],
+        [
+          [
+            49.021867,
+            12.082351
+          ],
+          [
+            49.021835,
+            12.082149
+          ],
+          [
+            49.021811,
+            12.081992
           ]
         ]
       ]
@@ -13245,7 +13406,7 @@
         false,
         false
       ],
-      "lengthM" : 26.2,
+      "lengthM" : 26.4,
       "name" : "Eiserne Brücke",
       "nodes" : [
         [
@@ -13268,8 +13429,8 @@
             12.101751
           ],
           [
-            49.020704,
-            12.10177
+            49.020705,
+            12.101771
           ]
         ],
         [
@@ -14245,7 +14406,7 @@
     },
     {
       "id" : "s-furst-anselm-allee",
-      "lengthM" : 1501,
+      "lengthM" : 1345.6,
       "name" : "Fürst-Anselm-Allee",
       "nodes" : [
         [
@@ -14527,42 +14688,6 @@
         [
           49.018691,
           12.086613
-        ],
-        [
-          49.014799,
-          12.098793
-        ],
-        [
-          49.014759,
-          12.09994
-        ],
-        [
-          49.014769,
-          12.099666
-        ],
-        [
-          49.014778,
-          12.099392
-        ],
-        [
-          49.014788,
-          12.099118
-        ],
-        [
-          49.014797,
-          12.098845
-        ],
-        [
-          49.014803,
-          12.09857
-        ],
-        [
-          49.014809,
-          12.098296
-        ],
-        [
-          49.014819,
-          12.098054
         ]
       ],
       "polylines" : [
@@ -14779,34 +14904,6 @@
             49.018691,
             12.086613
           ]
-        ],
-        [
-          [
-            49.014799,
-            12.098793
-          ],
-          [
-            49.01464,
-            12.098784
-          ]
-        ],
-        [
-          [
-            49.014759,
-            12.09994
-          ],
-          [
-            49.014799,
-            12.098793
-          ],
-          [
-            49.014807,
-            12.098333
-          ],
-          [
-            49.014819,
-            12.098054
-          ]
         ]
       ]
     },
@@ -14859,7 +14956,7 @@
     },
     {
       "id" : "s-gesandtenstrasse",
-      "lengthM" : 364.9,
+      "lengthM" : 365,
       "name" : "Gesandtenstraße",
       "nodes" : [
         [
@@ -15008,6 +15105,10 @@
           [
             49.018473,
             12.09365
+          ],
+          [
+            49.018458,
+            12.093708
           ],
           [
             49.018452,
@@ -16338,7 +16439,7 @@
     },
     {
       "id" : "s-holzlandestrasse",
-      "lengthM" : 647.4,
+      "lengthM" : 561.4,
       "name" : "Holzländestraße",
       "nodes" : [
         [
@@ -16464,26 +16565,6 @@
         [
           49.02226,
           12.086588
-        ],
-        [
-          49.023028,
-          12.083308
-        ],
-        [
-          49.022869,
-          12.08318
-        ],
-        [
-          49.022956,
-          12.083559
-        ],
-        [
-          49.022884,
-          12.083811
-        ],
-        [
-          49.022803,
-          12.084055
         ]
       ],
       "polylines" : [
@@ -16585,34 +16666,6 @@
           [
             49.022305,
             12.086603
-          ]
-        ],
-        [
-          [
-            49.023028,
-            12.083308
-          ],
-          [
-            49.022941,
-            12.083244
-          ],
-          [
-            49.022869,
-            12.083179
-          ]
-        ],
-        [
-          [
-            49.023028,
-            12.083308
-          ],
-          [
-            49.02286,
-            12.083895
-          ],
-          [
-            49.022777,
-            12.084126
           ]
         ]
       ]
@@ -17865,7 +17918,7 @@
     },
     {
       "id" : "s-kumpfmuhler-strasse",
-      "lengthM" : 119.1,
+      "lengthM" : 70.9,
       "name" : "Kumpfmühler Straße",
       "nodes" : [
         [
@@ -17885,16 +17938,8 @@
           12.088993
         ],
         [
-          49.016521,
-          12.088972
-        ],
-        [
-          49.016342,
-          12.08895
-        ],
-        [
-          49.01617,
-          12.08893
+          49.016602,
+          12.088983
         ]
       ],
       "polylines" : [
@@ -17908,16 +17953,8 @@
             12.088986
           ],
           [
-            49.016228,
-            12.088936
-          ],
-          [
-            49.016216,
-            12.088934
-          ],
-          [
-            49.01617,
-            12.08893
+            49.016602,
+            12.088983
           ]
         ]
       ]
@@ -20990,6 +21027,61 @@
       ]
     },
     {
+      "id" : "s-prebrunnallee-2",
+      "lengthM" : 98.6,
+      "name" : "Prebrunnallee",
+      "nodes" : [
+        [
+          49.021835,
+          12.082149
+        ],
+        [
+          49.022011,
+          12.082091
+        ],
+        [
+          49.022173,
+          12.081987
+        ],
+        [
+          49.022312,
+          12.081814
+        ],
+        [
+          49.022431,
+          12.081609
+        ],
+        [
+          49.022557,
+          12.081445
+        ]
+      ],
+      "polylines" : [
+        [
+          [
+            49.021835,
+            12.082149
+          ],
+          [
+            49.022112,
+            12.082058
+          ],
+          [
+            49.022291,
+            12.081848
+          ],
+          [
+            49.022488,
+            12.081512
+          ],
+          [
+            49.022557,
+            12.081445
+          ]
+        ]
+      ]
+    },
+    {
       "id" : "s-predigergasse",
       "lengthM" : 112.9,
       "name" : "Predigergasse",
@@ -22283,6 +22375,10 @@
           [
             49.015172,
             12.096007
+          ],
+          [
+            49.015171,
+            12.096113
           ],
           [
             49.015168,
@@ -24041,6 +24137,173 @@
           [
             49.018968,
             12.09209
+          ]
+        ]
+      ]
+    },
+    {
+      "id" : "s-steinerne-brucke",
+      "layered" : [
+        true,
+        true,
+        true,
+        false
+      ],
+      "lengthM" : 336.8,
+      "name" : "Steinerne Brücke",
+      "nodes" : [
+        [
+          49.021188,
+          12.096943
+        ],
+        [
+          49.02402,
+          12.097307
+        ],
+        [
+          49.023841,
+          12.097285
+        ],
+        [
+          49.023662,
+          12.097264
+        ],
+        [
+          49.023482,
+          12.097257
+        ],
+        [
+          49.023302,
+          12.097256
+        ],
+        [
+          49.023122,
+          12.097254
+        ],
+        [
+          49.022942,
+          12.097254
+        ],
+        [
+          49.022762,
+          12.097253
+        ],
+        [
+          49.022583,
+          12.097233
+        ],
+        [
+          49.022404,
+          12.097215
+        ],
+        [
+          49.022224,
+          12.097198
+        ],
+        [
+          49.022045,
+          12.097172
+        ],
+        [
+          49.021866,
+          12.097144
+        ],
+        [
+          49.021687,
+          12.097116
+        ],
+        [
+          49.021508,
+          12.097088
+        ],
+        [
+          49.021334,
+          12.09703
+        ],
+        [
+          49.021243,
+          12.096959
+        ],
+        [
+          49.023139,
+          12.097189
+        ],
+        [
+          49.021274,
+          12.0969
+        ],
+        [
+          49.021243,
+          12.097092
+        ]
+      ],
+      "polylines" : [
+        [
+          [
+            49.021188,
+            12.096943
+          ],
+          [
+            49.021243,
+            12.096959
+          ]
+        ],
+        [
+          [
+            49.02402,
+            12.097307
+          ],
+          [
+            49.023622,
+            12.097259
+          ],
+          [
+            49.02314,
+            12.097254
+          ],
+          [
+            49.022783,
+            12.097255
+          ],
+          [
+            49.02258,
+            12.097233
+          ],
+          [
+            49.022193,
+            12.097195
+          ],
+          [
+            49.021415,
+            12.097074
+          ],
+          [
+            49.021373,
+            12.097061
+          ],
+          [
+            49.021243,
+            12.096959
+          ]
+        ],
+        [
+          [
+            49.023139,
+            12.097189
+          ],
+          [
+            49.02314,
+            12.097254
+          ]
+        ],
+        [
+          [
+            49.021274,
+            12.0969
+          ],
+          [
+            49.021243,
+            12.097092
           ]
         ]
       ]
@@ -25998,7 +26261,7 @@
     },
     {
       "id" : "s-westendstrasse",
-      "lengthM" : 54.6,
+      "lengthM" : 426.1,
       "name" : "Westendstraße",
       "nodes" : [
         [
@@ -26014,12 +26277,96 @@
           12.081073
         ],
         [
-          49.023343,
-          12.080898
+          49.023071,
+          12.083545
+        ],
+        [
+          49.023155,
+          12.083302
+        ],
+        [
+          49.023239,
+          12.083059
+        ],
+        [
+          49.023322,
+          12.082816
+        ],
+        [
+          49.023412,
+          12.082578
+        ],
+        [
+          49.023504,
+          12.082343
+        ],
+        [
+          49.023595,
+          12.082106
+        ],
+        [
+          49.023685,
+          12.081869
+        ],
+        [
+          49.023776,
+          12.081632
+        ],
+        [
+          49.023866,
+          12.081395
+        ],
+        [
+          49.023957,
+          12.081158
+        ],
+        [
+          49.023028,
+          12.083308
+        ],
+        [
+          49.022956,
+          12.083559
+        ],
+        [
+          49.022884,
+          12.083811
+        ],
+        [
+          49.022803,
+          12.084055
+        ],
+        [
+          49.022777,
+          12.084126
+        ],
+        [
+          49.022887,
+          12.083909
+        ],
+        [
+          49.022997,
+          12.083692
+        ],
+        [
+          49.023309,
+          12.080891
         ],
         [
           49.023749,
           12.081065
+        ],
+        [
+          49.022869,
+          12.08318
+        ],
+        [
+          49.023846,
+          12.081274
+        ],
+        [
+          49.023676,
+          12.081227
         ]
       ],
       "polylines" : [
@@ -26043,6 +26390,56 @@
         ],
         [
           [
+            49.023071,
+            12.083545
+          ],
+          [
+            49.023155,
+            12.083302
+          ],
+          [
+            49.023357,
+            12.082717
+          ],
+          [
+            49.023468,
+            12.082438
+          ],
+          [
+            49.023957,
+            12.081157
+          ]
+        ],
+        [
+          [
+            49.023028,
+            12.083308
+          ],
+          [
+            49.02286,
+            12.083895
+          ],
+          [
+            49.022777,
+            12.084126
+          ]
+        ],
+        [
+          [
+            49.022777,
+            12.084126
+          ],
+          [
+            49.023071,
+            12.083545
+          ]
+        ],
+        [
+          [
+            49.023309,
+            12.080891
+          ],
+          [
             49.023343,
             12.080898
           ],
@@ -26059,6 +26456,38 @@
           [
             49.02373,
             12.08115
+          ]
+        ],
+        [
+          [
+            49.023028,
+            12.083308
+          ],
+          [
+            49.022941,
+            12.083244
+          ],
+          [
+            49.022869,
+            12.083179
+          ]
+        ],
+        [
+          [
+            49.023846,
+            12.081274
+          ],
+          [
+            49.02372,
+            12.081206
+          ],
+          [
+            49.023663,
+            12.081233
+          ],
+          [
+            49.023629,
+            12.081307
           ]
         ]
       ]
