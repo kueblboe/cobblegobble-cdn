@@ -4671,15 +4671,15 @@
         "nl" : "Leuven"
       },
       "name" : "Leuven",
-      "packVersion" : 15,
+      "packVersion" : 16,
       "stats" : {
-        "estHours" : 6.5,
-        "nodeCount" : 1184,
+        "estHours" : 6.6,
+        "nodeCount" : 1189,
         "routeFactor" : 1.24,
-        "routeKm" : 22.8,
+        "routeKm" : 22.9,
         "stepsStreetCount" : 6,
-        "streetCount" : 96,
-        "totalKm" : 18.6
+        "streetCount" : 97,
+        "totalKm" : 18.68
       },
       "status" : "published"
     },
@@ -4921,15 +4921,15 @@
         "en" : "Lisbon"
       },
       "name" : "Lisbon",
-      "packVersion" : 19,
+      "packVersion" : 20,
       "stats" : {
         "estHours" : 12.3,
-        "nodeCount" : 2286,
-        "routeFactor" : 1.25,
-        "routeKm" : 42.9,
+        "nodeCount" : 2291,
+        "routeFactor" : 1.26,
+        "routeKm" : 43.1,
         "stepsStreetCount" : 77,
-        "streetCount" : 268,
-        "totalKm" : 34.66
+        "streetCount" : 269,
+        "totalKm" : 34.77
       },
       "status" : "published"
     },
@@ -6478,36 +6478,16 @@
           13.38136
         ],
         [
-          49.7486,
-          13.3816
+          49.74855,
+          13.38152
         ],
         [
-          49.74865,
-          13.38137
+          49.74904,
+          13.3817
         ],
         [
-          49.74825,
-          13.38113
-        ],
-        [
-          49.74857,
-          13.38131
-        ],
-        [
-          49.74871,
-          13.38052
-        ],
-        [
-          49.74878,
-          13.38055
-        ],
-        [
-          49.74892,
-          13.37913
-        ],
-        [
-          49.74925,
-          13.37922
+          49.74917,
+          13.38159
         ],
         [
           49.74959,
@@ -6578,20 +6558,8 @@
           13.37498
         ],
         [
-          49.74498,
-          13.37583
-        ],
-        [
-          49.74504,
-          13.37592
-        ],
-        [
-          49.74495,
-          13.37763
-        ],
-        [
-          49.74479,
-          13.37752
+          49.74496,
+          13.37572
         ],
         [
           49.74471,
@@ -6607,8 +6575,8 @@
         ]
       ],
       "center" : [
-        49.74686,
-        13.378394
+        49.746802,
+        13.378313
       ],
       "cityId" : "pilsen",
       "country" : "CZ",
@@ -6619,15 +6587,15 @@
         "en" : "Pilsen"
       },
       "name" : "Pilsen",
-      "packVersion" : 1,
+      "packVersion" : 7,
       "stats" : {
         "estHours" : 2.2,
-        "nodeCount" : 405,
-        "routeFactor" : 1.19,
+        "nodeCount" : 379,
+        "routeFactor" : 1.26,
         "routeKm" : 7.8,
         "stepsStreetCount" : 1,
         "streetCount" : 23,
-        "totalKm" : 6.65
+        "totalKm" : 6.28
       },
       "status" : "pending-stories"
     },
@@ -7091,8 +7059,16 @@
           12.099
         ],
         [
-          49.0146,
-          12.0989
+          49.0144,
+          12.099
+        ],
+        [
+          49.0144,
+          12.1001
+        ],
+        [
+          49.0147,
+          12.1001
         ],
         [
           49.0148,
@@ -7136,7 +7112,11 @@
         ],
         [
           49.0245,
-          12.0968
+          12.09675
+        ],
+        [
+          49.024,
+          12.09673
         ],
         [
           49.0231,
@@ -7220,8 +7200,8 @@
         ]
       ],
       "center" : [
-        49.018317,
-        12.094011
+        49.018264,
+        12.094394
       ],
       "cityId" : "regensburg",
       "country" : "DE",
@@ -7238,15 +7218,15 @@
         "en" : "Regensburg"
       },
       "name" : "Regensburg",
-      "packVersion" : 42,
+      "packVersion" : 51,
       "stats" : {
-        "estHours" : 10.8,
-        "nodeCount" : 1861,
-        "routeFactor" : 1.25,
-        "routeKm" : 37.8,
+        "estHours" : 10.6,
+        "nodeCount" : 1842,
+        "routeFactor" : 1.24,
+        "routeKm" : 37.2,
         "stepsStreetCount" : 4,
-        "streetCount" : 198,
-        "totalKm" : 30.16
+        "streetCount" : 196,
+        "totalKm" : 29.91
       },
       "status" : "published"
     },
