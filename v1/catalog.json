@@ -822,7 +822,7 @@
         "streetCount" : 107,
         "totalKm" : 31.15
       },
-      "status" : "awaiting-approval"
+      "status" : "published"
     },
     {
       "boundaryPreview" : [
@@ -6159,7 +6159,7 @@
         "streetCount" : 143,
         "totalKm" : 29.03
       },
-      "status" : "awaiting-approval"
+      "status" : "published"
     },
     {
       "boundaryPreview" : [
@@ -7424,7 +7424,7 @@
         "streetCount" : 67,
         "totalKm" : 11.65
       },
-      "status" : "awaiting-approval"
+      "status" : "published"
     },
     {
       "boundaryPreview" : [
@@ -10538,7 +10538,7 @@
         "streetCount" : 112,
         "totalKm" : 15.82
       },
-      "status" : "awaiting-approval"
+      "status" : "published"
     }
   ],
   "schemaVersion" : 1
