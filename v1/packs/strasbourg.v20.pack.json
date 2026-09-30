@@ -305,11 +305,9 @@
     "adjustedStreets" : [
 
     ],
-    "fromVersion" : 15,
+    "fromVersion" : 19,
     "removedStreets" : [
-      "Galerie extérieure",
-      "Place Mathias Mérian",
-      "Place du 17 Octobre 1961"
+
     ]
   },
   "cityId" : "strasbourg",
@@ -11194,35 +11192,35 @@
         "en" : "People say the devil rode in here to admire carvings of himself, and then found the doors would not let him out. The stranger story is the one on the record. In 1793 the Revolution ruled that this was no longer a church, and there was talk of cutting the spire down. A locksmith called Jean-Michel Sultzer said to cap it instead. A huge sheet metal bonnet, daubed red, was hoisted to the top and stayed there for years."
       },
       "localizedStory" : {
-        "de" : "Spürst du den Wind auf dem Platz? Der Sage nach ist es das Pferd des Teufels, das noch immer auf seinen Herrn wartet.",
-        "en" : "Feel the wind on this square? The story goes it is the devil's horse, still circling, waiting for a master who never came out."
+        "de" : "Spürst du den Wind? Der Sage nach ist es das Pferd des Teufels, das auf seinen Herrn wartet, der ins Münster ging und nie herauskam.",
+        "en" : "Feel the wind? The story goes it is the devil's horse, waiting for its master, who went into the church and never got out."
       },
       "name" : "Cathédrale Notre-Dame",
       "pos" : [
         48.58209,
         7.750746
       ],
-      "story" : "Feel the wind on this square? The story goes it is the devil's horse, still circling, waiting for a master who never came out."
+      "story" : "Feel the wind? The story goes it is the devil's horse, waiting for its master, who went into the church and never got out."
     },
     {
-      "extendedStory" : "King Louis XV came through in 1744, and the visits of royal brides followed him. Robert de Cotte drew it, and the result is baroque to the bone. That means grand stonework and deep carving, made to impress anyone passing in the street. It stands so close to the cathedral that the two arrive in one look. Stand on the Rue de Rohan and you have a palace and a church of very different centuries in one square.",
+      "extendedStory" : "King Louis XV stayed here in 1744, and the royal brides followed him. Napoleon's second wife, Marie Louise, also came from Austria and stayed under this roof on arriving in France. Robert de Cotte drew the palace, and the result is baroque to the bone. That means grand stonework and deep carving, made to impress anyone passing in the street. It stands so close to the cathedral that the two arrive in one look.",
       "icon" : "choice",
       "id" : "f-palais-rohan",
       "kind" : "palace",
       "localizedExtendedStory" : {
-        "de" : "König Ludwig XV. kam 1744 vorbei, und die Besuche königlicher Bräute folgten ihm. Robert de Cotte entwarf den Bau, und barock ist er durch und durch. Das heißt große Steinarbeit und tiefe Schnitzerei, gemacht, um jeden auf der Straße zu beeindrucken. Er steht so dicht am Münster, dass man beide in einem Blick hat. Von der Rue de Rohan aus sieht man einen Palast und eine Kirche aus ganz verschiedenen Jahrhunderten.",
-        "en" : "King Louis XV came through in 1744, and the visits of royal brides followed him. Robert de Cotte drew it, and the result is baroque to the bone. That means grand stonework and deep carving, made to impress anyone passing in the street. It stands so close to the cathedral that the two arrive in one look. Stand on the Rue de Rohan and you have a palace and a church of very different centuries in one square."
+        "de" : "König Ludwig XV. wohnte 1744 hier, und die königlichen Bräute folgten ihm. Auch Napoleons zweite Frau, Marie-Louise, kam aus Österreich und wohnte gleich nach ihrer Ankunft in Frankreich unter diesem Dach. Robert de Cotte entwarf den Bau, und barock ist er durch und durch. Das heißt große Steinarbeit und tiefe Schnitzerei, gemacht, um jeden auf der Straße zu beeindrucken. Er steht so dicht am Münster, dass man beide in einem Blick hat.",
+        "en" : "King Louis XV stayed here in 1744, and the royal brides followed him. Napoleon's second wife, Marie Louise, also came from Austria and stayed under this roof on arriving in France. Robert de Cotte drew the palace, and the result is baroque to the bone. That means grand stonework and deep carving, made to impress anyone passing in the street. It stands so close to the cathedral that the two arrive in one look."
       },
       "localizedStory" : {
-        "de" : "Ausländische Prinzessinnen machten hier Halt, am Abend bevor sie einen König von Frankreich heirateten. Ein Pflichtstopp.",
-        "en" : "Foreign princesses stopped here on the eve of marrying a king of France. It was the compulsory halt."
+        "de" : "Bräute aus dem Ausland machten hier Halt auf dem Weg zu einem französischen König. Marie-Antoinette schlief hier, kaum in Frankreich angekommen.",
+        "en" : "Brides from abroad stopped here on the way to a French king. Marie Antoinette, from Vienna, slept here on arriving in France."
       },
       "name" : "Palais Rohan",
       "pos" : [
         48.580907,
         7.751848
       ],
-      "story" : "Foreign princesses stopped here on the eve of marrying a king of France. It was the compulsory halt."
+      "story" : "Brides from abroad stopped here on the way to a French king. Marie Antoinette, from Vienna, slept here on arriving in France."
     },
     {
       "extendedStory" : "The towers hold the point where the Ill enters the city, standing on the banks and on islet tips. Three of the four are still here, kept because the city went on using them as jails. Prisoners cut marks into the oak walls of the cells, and tree rings date that oak to 1529. You cannot go in today, so the towers have been laser scanned in three dimensions instead.",
@@ -11245,33 +11243,33 @@
       "story" : "Covered bridges with nothing over them. The tile roofs came down long ago and the name stayed put."
     },
     {
-      "extendedStory" : "In writing the tower turns up as the Henckers Turn, the executioner's tower, in 1378. The executioner himself does not seem to have worked here at all. What the tower held was one of the city's jails, and a warden on the city payroll kept the keys. The name came from a house on the old Biekergasse, which is the rue Seyboth today. Madame Tussaud's people, the Grosholtz family, belonged to that same trade.",
+      "extendedStory" : "In writing the tower turns up as the Henckers Turn in 1378. The executioner himself does not seem to have worked here at all. What the tower held was one of the city's jails, and a warden on the city payroll kept the keys. The executioner's house stood on the old Biekergasse, which is the rue Seyboth today. Madame Tussaud, who founded the waxworks in London, came from the Grosholtz family, who held that job in Strasbourg.",
       "icon" : "everyday",
       "id" : "f-tour-du-bourreau",
       "kind" : "gate_tower",
       "localizedExtendedStory" : {
-        "de" : "In den Schriften taucht der Turm 1378 als Henckers Turn auf, als Henkersturm. Der Henker selbst scheint hier gar nicht gearbeitet zu haben. Der Turm war eines der Gefängnisse der Stadt, und ein Wärter im Dienst der Stadt hatte die Schlüssel. Der Name kam von einem Haus an der alten Biekergasse, heute die Rue Seyboth. Madame Tussauds Leute, die Familie Grosholtz, gehörten zum selben Gewerbe.",
-        "en" : "In writing the tower turns up as the Henckers Turn, the executioner's tower, in 1378. The executioner himself does not seem to have worked here at all. What the tower held was one of the city's jails, and a warden on the city payroll kept the keys. The name came from a house on the old Biekergasse, which is the rue Seyboth today. Madame Tussaud's people, the Grosholtz family, belonged to that same trade."
+        "de" : "In den Schriften taucht der Turm 1378 als Henckers Turn auf. Der Henker selbst scheint hier gar nicht gearbeitet zu haben. Der Turm war eines der Gefängnisse der Stadt, und ein Wärter im Dienst der Stadt hatte die Schlüssel. Das Haus des Henkers stand an der alten Biekergasse, heute die Rue Seyboth. Madame Tussaud, die das Wachsfigurenkabinett in London gründete, stammte aus der Familie Grosholtz, die dieses Amt in Straßburg innehatte.",
+        "en" : "In writing the tower turns up as the Henckers Turn in 1378. The executioner himself does not seem to have worked here at all. What the tower held was one of the city's jails, and a warden on the city payroll kept the keys. The executioner's house stood on the old Biekergasse, which is the rue Seyboth today. Madame Tussaud, who founded the waxworks in London, came from the Grosholtz family, who held that job in Strasbourg."
       },
       "localizedStory" : {
-        "de" : "Madame Tussauds Familie stammte aus dieser Straße. Der Turm trug ihren Namen, nicht ihre Arbeit.",
-        "en" : "Madame Tussaud's family came from this street. The tower took their name and not their work."
+        "de" : "Der Name heißt Henkersturm, geliehen vom Haus des Henkers in der Nähe. Das Amt lag in der Familie von Madame Tussaud.",
+        "en" : "Its name means executioner's tower, borrowed from his house nearby. That job ran in Madame Tussaud's family."
       },
       "name" : "Tour du Bourreau",
       "pos" : [
         48.581453,
         7.738735
       ],
-      "story" : "Madame Tussaud's family came from this street. The tower took their name and not their work."
+      "story" : "Its name means executioner's tower, borrowed from his house nearby. That job ran in Madame Tussaud's family."
     },
     {
-      "extendedStory" : "Walk round the outside and count the floors. Towards that courtyard of honour, this block shows two storeys, and at its back it shows three. Ground behind simply lies lower than its court, so stonework hides a whole storey. A count built this house, and in 1805 Napoleon handed it over, because revolutionaries had wrecked Strasbourg's earlier town hall. Joseph Massol drew it in baroque taste, which means heavy stone and deep carving.",
+      "extendedStory" : "Its predecessor had been wrecked in the Revolution. Joseph Massol drew this palace in the baroque style: heavy stone, deep carving. Walk right round it and count floors as you go. You get two facing its grand courtyard and three at its back, because Place Broglie sits lower than that yard.",
       "icon" : "everyday",
       "id" : "f-hotel-de-ville",
       "kind" : "civic",
       "localizedExtendedStory" : {
-        "de" : "Das alte Rathaus war in der Revolution zerstört worden, und so zog die Stadt 1805 in ein Grafenpalais. Geh einmal um das Haus herum und zähl die Stockwerke. Zum Ehrenhof hin ist das Corps de Logis zweistöckig, zur Rückseite hin dreistöckig. Der place Broglie liegt einfach tiefer als der Hof. Joseph Massol entwarf das Haus barock, also mit schwerem Mauerwerk und tiefer Schnitzerei.",
-        "en" : "Walk round the outside and count the floors. Towards that courtyard of honour, this block shows two storeys, and at its back it shows three. Ground behind simply lies lower than its court, so stonework hides a whole storey. A count built this house, and in 1805 Napoleon handed it over, because revolutionaries had wrecked Strasbourg's earlier town hall. Joseph Massol drew it in baroque taste, which means heavy stone and deep carving."
+        "de" : "Das alte Rathaus war in der Revolution zerstört worden. Joseph Massol entwarf dieses Palais barock, also mit schwerem Mauerwerk und tiefer Schnitzerei. Geh einmal um das Haus herum und zähl die Stockwerke. Zum Ehrenhof hin ist das Corps de Logis zweistöckig, zur Rückseite hin dreistöckig. Der Place Broglie liegt einfach tiefer als der Hof.",
+        "en" : "Its predecessor had been wrecked in the Revolution. Joseph Massol drew this palace in the baroque style: heavy stone, deep carving. Walk right round it and count floors as you go. You get two facing its grand courtyard and three at its back, because Place Broglie sits lower than that yard."
       },
       "localizedStory" : {
         "de" : "Napoleon übergab dieses Palais der Stadt, als Straßburg ein neues Rathaus brauchte und keines mehr hatte.",
@@ -11285,24 +11283,24 @@
       "story" : "Napoleon gave this house to the city when Strasbourg needed a new town hall and had none left."
     },
     {
-      "extendedStory" : "Landolin Ohmacht carved them into the colossal porch that faces the Place Broglie. Jean Villot designed the house, and it opened in 1821. A fire caught it in 1870, about half a century later. It was brought back, and it is still the city's opera house. The square outside runs long and wide, and the muses have nothing in their way.",
+      "extendedStory" : "Landolin Ohmacht carved them for the colossal porch that faces the Place Broglie. Jean Villot designed the house, and it opened in 1821. In the war of 1870 the theatre was largely destroyed. The six pillars with their muses came through whole, and the rest was rebuilt to the old plans around them. The square outside runs long and wide.",
       "icon" : "choice",
       "id" : "f-opera-du-rhin",
       "kind" : "theatre",
       "localizedExtendedStory" : {
-        "de" : "Landolin Ohmacht schlug die Musen in den gewaltigen Säulenvorbau, der zum Place Broglie hinausschaut. Jean Villot entwarf das Haus, eröffnet wurde es 1821. 1870 brannte es, ein halbes Jahrhundert später. Man baute es wieder auf, und bis heute ist es das Opernhaus der Stadt am Rhein. Der Platz davor ist lang und offen, und die Musen haben freie Sicht darüber.",
-        "en" : "Landolin Ohmacht carved them into the colossal porch that faces the Place Broglie. Jean Villot designed the house, and it opened in 1821. A fire caught it in 1870, about half a century later. It was brought back, and it is still the city's opera house. The square outside runs long and wide, and the muses have nothing in their way."
+        "de" : "Landolin Ohmacht schlug sie für den gewaltigen Säulenvorbau zum Place Broglie. Jean Villot entwarf das Haus, eröffnet wurde es 1821. Im Krieg von 1870 wurde das Theater zum großen Teil zerstört. Die sechs Pfeiler mit ihren Musen blieben heil, und den Rest baute man um sie herum nach den alten Plänen wieder auf. Der Platz davor ist lang und offen.",
+        "en" : "Landolin Ohmacht carved them for the colossal porch that faces the Place Broglie. Jean Villot designed the house, and it opened in 1821. In the war of 1870 the theatre was largely destroyed. The six pillars with their muses came through whole, and the rest was rebuilt to the old plans around them. The square outside runs long and wide."
       },
       "localizedStory" : {
-        "de" : "Zähl die Musen über dem Vorbau. Es sind sechs, die griechische Überlieferung verlangt neun.",
-        "en" : "Count the muses over the porch. There are six, and Greek tradition asks for nine."
+        "de" : "Zähl die Musen über dem Vorbau: sechs, eine auf jedem Pfeiler, obwohl die griechische Überlieferung neun kennt.",
+        "en" : "Count the muses over the porch: six, one on each pillar, though Greek tradition asks for nine."
       },
       "name" : "Opéra du Rhin",
       "pos" : [
         48.585889,
         7.752263
       ],
-      "story" : "Count the muses over the porch. There are six, and Greek tradition asks for nine."
+      "story" : "Count the muses over the porch: six, one on each pillar, though Greek tradition asks for nine."
     },
     {
       "extendedStory" : "Every cargo moving on the Rhine had to come through Strasbourg's port, so the load came off here. Goods changed between the flat boats of the Ill and the barges of the Rhine. Merchants set their load down, paid the duty, and went on. The city put up this warehouse in the fourteenth century, and the landing stage followed. Bombing wrecked it later, and the listing today covers its outer walls and its roofs.",
@@ -11345,13 +11343,13 @@
       "story" : "Painted over and forgotten for decades, the rooms behind this front had to be found all over again."
     },
     {
-      "extendedStory" : "Martin Luther has the street at the door, a fitting address for a Protestant parish. Building here began in the twelfth century and ran on for more than three hundred years. The church carries the name of Thomas the Apostle. Look for pointed arches rather than round ones. That is Gothic: the builders pushed the weight outward so the windows could grow tall.",
+      "extendedStory" : "Building here began in the twelfth century and ran on for more than three hundred years. The church carries the name of Thomas the Apostle. Look for pointed arches, inside and out, rather than round ones. That is Gothic: the builders pushed the weight outward so the windows could grow tall.",
       "icon" : "choice",
       "id" : "f-eglise-protestante-saint-thomas",
       "kind" : "church",
       "localizedExtendedStory" : {
-        "de" : "Martin Luther hat die Straße vor der Tür, eine passende Adresse für eine protestantische Gemeinde. Gebaut wurde ab dem zwölften Jahrhundert, und bis zur Einweihung vergingen mehr als drei Jahrhunderte. Der Name der Kirche kommt vom Apostel Thomas. Achte drinnen und draußen auf spitze Bögen statt auf runde. So arbeitet die Gotik: Das Gewicht geht nach außen, damit die Fenster in die Höhe wachsen können.",
-        "en" : "Martin Luther has the street at the door, a fitting address for a Protestant parish. Building here began in the twelfth century and ran on for more than three hundred years. The church carries the name of Thomas the Apostle. Look for pointed arches rather than round ones. That is Gothic: the builders pushed the weight outward so the windows could grow tall."
+        "de" : "Gebaut wurde ab dem zwölften Jahrhundert, und bis zur Einweihung vergingen mehr als drei Jahrhunderte. Der Name der Kirche kommt vom Apostel Thomas. Achte drinnen und draußen auf spitze Bögen statt auf runde. So arbeitet die Gotik: Das Gewicht geht nach außen, damit die Fenster in die Höhe wachsen können.",
+        "en" : "Building here began in the twelfth century and ran on for more than three hundred years. The church carries the name of Thomas the Apostle. Look for pointed arches, inside and out, rather than round ones. That is Gothic: the builders pushed the weight outward so the windows could grow tall."
       },
       "localizedStory" : {
         "de" : "Die Leute nennen es die Kathedrale des französischen Protestantismus. Vor der Tür liegt die Rue Martin Luther.",
@@ -11365,13 +11363,13 @@
       "story" : "A parish church known as the cathedral of French Protestantism. The street at its door is Rue Martin Luther."
     },
     {
-      "extendedStory" : "The riders make for a hill with a cross on it, and the parish says the reading behind them is made up. Carl Schäfer worked in the neo Gothic taste, which copied the Middle Ages closely enough to fool a visitor. Beside the church lies an arcaded courtyard, and that part is genuinely old. It is the only such courtyard in Strasbourg kept whole, with thirty-four gravestones set around it.",
+      "extendedStory" : "The riders make for a hill with a cross on it. Schäfer made them in the neo-Gothic style, a revival of medieval art long after the Middle Ages were over. The arcaded courtyard beside the church is the real thing. It is the only one in Strasbourg kept whole, and thirty-four old gravestones stand around it.",
       "icon" : "choice",
       "id" : "f-eglise-protestante-saint-pierre-le-jeune",
       "kind" : "church",
       "localizedExtendedStory" : {
-        "de" : "Die Reiter ziehen auf einen Hügel mit einem Kreuz zu, und die Gemeinde nennt die Deutung dahinter frei erfunden. Carl Schäfer arbeitete neugotisch, und das ahmte das Mittelalter so genau nach, dass Besucher darauf hereinfallen. Gleich neben der Kirche liegt ein Hof mit Bogengängen, und der ist wirklich alt. Er ist der einzige seiner Art in Straßburg, der ganz erhalten blieb, und vierunddreißig Grabsteine stehen rundum.",
-        "en" : "The riders make for a hill with a cross on it, and the parish says the reading behind them is made up. Carl Schäfer worked in the neo Gothic taste, which copied the Middle Ages closely enough to fool a visitor. Beside the church lies an arcaded courtyard, and that part is genuinely old. It is the only such courtyard in Strasbourg kept whole, with thirty-four gravestones set around it."
+        "de" : "Die Reiter ziehen auf einen Hügel mit einem Kreuz zu. Schäfer schuf sie neugotisch, also im Stil des Mittelalters, aber lange nachdem es vorbei war. Der Hof mit Bogengängen neben der Kirche dagegen ist echt. Er ist der einzige in Straßburg, der ganz erhalten blieb, und vierunddreißig alte Grabsteine stehen rundum.",
+        "en" : "The riders make for a hill with a cross on it. Schäfer made them in the neo-Gothic style, a revival of medieval art long after the Middle Ages were over. The arcaded courtyard beside the church is the real thing. It is the only one in Strasbourg kept whole, and thirty-four old gravestones stand around it."
       },
       "localizedStory" : {
         "de" : "Ein gemalter Zug im Innern sieht mittelalterlich aus und ist es nicht. Dreizehn Reiter auf Blau, erfunden von Carl Schäfer.",
@@ -11385,24 +11383,24 @@
       "story" : "A procession inside looks medieval and is not. Thirteen riders on a blue ground, invented whole by Carl Schäfer."
     },
     {
-      "extendedStory" : "Under the old tower's foundations, diggers in 1956 came upon an apse from Merovingian times. The Merovingians ruled here long before the church anyone sees today. What stands above ground is Romanesque, which means round arches and walls thick enough to hold a hill up. The record for a church on this spot reaches back to the year 800. Look for the round arches on the Rue de la Courtine side.",
+      "extendedStory" : "Attale was the daughter of Adalbert, Duke of Alsace and brother of Saint Odile. So many pilgrims came to her relics that their gifts paid to rebuild the church late in the twelfth century. That church is Romanesque, which means round arches and walls thick enough to hold a hill up. Under the old tower, diggers in 1956 came upon an apse far older still, from Merovingian times. Look for the round arches on the Rue de la Courtine side.",
       "icon" : "everyday",
       "id" : "f-eglise-saint-etienne",
       "kind" : "church",
       "localizedExtendedStory" : {
-        "de" : "Unter den Fundamenten des alten Turms stießen Bauleute 1956 auf eine Apsis aus merowingischer Zeit. Die Merowinger herrschten hier lange vor der Kirche, die man heute sieht. Was über der Erde steht, ist romanisch, also halbrunde Bögen und Wände dick genug für einen Hügel. Der Eintrag für eine Kirche an dieser Stelle beginnt im Jahr 800. An der Rue de la Courtine sieht man die halbrunden Bögen am besten.",
-        "en" : "Under the old tower's foundations, diggers in 1956 came upon an apse from Merovingian times. The Merovingians ruled here long before the church anyone sees today. What stands above ground is Romanesque, which means round arches and walls thick enough to hold a hill up. The record for a church on this spot reaches back to the year 800. Look for the round arches on the Rue de la Courtine side."
+        "de" : "Attale war die Tochter Adalberts, des Herzogs im Elsass und Bruders der heiligen Odilia. Zu ihren Reliquien kamen so viele Pilger, dass ihre Gaben im späten zwölften Jahrhundert den Neubau der Kirche bezahlten. Diese Kirche ist romanisch, also halbrunde Bögen und Wände dick genug für einen Hügel. Unter dem alten Turm fanden Bauleute 1956 eine noch viel ältere Apsis aus merowingischer Zeit. An der Rue de la Courtine sieht man die halbrunden Bögen am besten.",
+        "en" : "Attale was the daughter of Adalbert, Duke of Alsace and brother of Saint Odile. So many pilgrims came to her relics that their gifts paid to rebuild the church late in the twelfth century. That church is Romanesque, which means round arches and walls thick enough to hold a hill up. Under the old tower, diggers in 1956 came upon an apse far older still, from Merovingian times. Look for the round arches on the Rue de la Courtine side."
       },
       "localizedStory" : {
-        "de" : "Im Querschiff steht ein Brunnen. Der Sage nach kam die heilige Attale genau dort ans Licht.",
-        "en" : "A well stands in the transept, and the story goes that Saint Attale herself came to light there."
+        "de" : "Im Querschiff steht ein Brunnen. Der Sage nach fand man dort die sterblichen Überreste der heiligen Attale, der Gründungsäbtissin hier.",
+        "en" : "A well stands in the transept. The story goes that this is where the remains of Saint Attale, the founding abbess here, were discovered."
       },
       "name" : "Église Saint-Étienne",
       "pos" : [
         48.58357,
         7.755663
       ],
-      "story" : "A well stands in the transept, and the story goes that Saint Attale herself came to light there."
+      "story" : "A well stands in the transept. The story goes that this is where the remains of Saint Attale, the founding abbess here, were discovered."
     },
     {
       "extendedStory" : "The mansion went up between 1731 and 1736, and he carried on living there rent free afterwards. Joseph Massol drew it, the same hand that drew the town hall a few streets away. Here he worked classical, which means straight lines and plain columns rather than deep carving. It faces the water on the Quai Lezay Marnésia, close to the opera house. Nothing in the plain front gives the trick away.",
@@ -11425,13 +11423,13 @@
       "story" : "Klinglin got the land for almost nothing, built his mansion with the city's own workmen, then sold it back to the city."
     },
     {
-      "extendedStory" : "The Roman road under your feet was called the Strata Superior, and the Grand'Rue keeps its line. Old is in the name because the city has a younger Saint Peter's further up. What stands here now is Gothic, so look for pointed arches and tall windows. The house carries the date 1381, and the street outside runs the length of this end of the island.",
+      "extendedStory" : "That road was called the Strata Superior, and the Grand'Rue keeps its line. Old is in the name because the city has a younger Saint Peter's further up. What stands here now is Gothic, so look for pointed arches and tall windows. The church you see dates from 1381, and it still stands on the old road's edge.",
       "icon" : "choice",
       "id" : "f-eglise-saint-pierre-le-vieux",
       "kind" : "other",
       "localizedExtendedStory" : {
-        "de" : "Die Römerstraße unter deinen Füßen hieß Strata Superior, und die Grand'Rue hält ihre Linie bis heute. Alt steht im Namen, weil die Stadt weiter oben auch ein jüngeres Sankt Peter besitzt. Was heute hier steht, ist gotisch, also spitze Bögen und hohe Fenster statt runder Formen. Das Haus trägt die Jahreszahl 1381, und draußen zieht die Grand'Rue durch dieses Ende der Insel.",
-        "en" : "The Roman road under your feet was called the Strata Superior, and the Grand'Rue keeps its line. Old is in the name because the city has a younger Saint Peter's further up. What stands here now is Gothic, so look for pointed arches and tall windows. The house carries the date 1381, and the street outside runs the length of this end of the island."
+        "de" : "Diese Straße hieß Strata Superior, und die Grand'Rue hält ihre Linie bis heute. Alt steht im Namen, weil die Stadt weiter oben auch ein jüngeres Sankt Peter besitzt. Was heute hier steht, ist gotisch, also spitze Bögen und hohe Fenster statt runder Formen. Die Kirche, die du siehst, stammt von 1381 und steht noch immer am Rand der alten Straße.",
+        "en" : "That road was called the Strata Superior, and the Grand'Rue keeps its line. Old is in the name because the city has a younger Saint Peter's further up. What stands here now is Gothic, so look for pointed arches and tall windows. The church you see dates from 1381, and it still stands on the old road's edge."
       },
       "localizedStory" : {
         "de" : "Der Sage nach gründete der heilige Maternus diese Kirche an einer Römerstraße. Auf der stehst du gerade.",
@@ -11445,7 +11443,7 @@
       "story" : "Saint Materne is said to have started this church beside a Roman road. You are standing on that road."
     }
   ],
-  "generatedAt" : "2026-09-25T19:22:10Z",
+  "generatedAt" : "2026-09-30T10:37:24Z",
   "icon" : {
     "paths" : [
       "M16 48L58 48L58 88L16 88ZM14 49L58 49L36 26ZM58 30L78 30L78 88L58 88ZM56 31L80 31L68 8ZM66 5L70 5L70 12L66 12ZM63 3L73 3L73 7L63 7ZM12 60L20 52L20 68ZM26.5 60C26.5 64.69455,30.30545 68.5,35 68.5C39.69455 68.5,43.5 64.69455,43.5 60C43.5 55.30545,39.69455 51.5,35 51.5C30.30545 51.5,26.5 55.30545,26.5 60ZM30 74L30 88L41 88L41 74ZM65 42L65 56L71 56L71 42Z"
@@ -11458,7 +11456,7 @@
     "en" : "Strasbourg"
   },
   "name" : "Strasbourg",
-  "packVersion" : 16,
+  "packVersion" : 20,
   "schemaVersion" : 1,
   "source" : "OpenStreetMap via Overpass API",
   "stats" : {

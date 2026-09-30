@@ -169,7 +169,7 @@
     "adjustedStreets" : [
 
     ],
-    "fromVersion" : 50,
+    "fromVersion" : 52,
     "removedStreets" : [
 
     ]
@@ -9218,13 +9218,13 @@
   ],
   "fruits" : [
     {
-      "extendedStory" : "In 1649 a new wing for the bishop's court swallowed it whole. Today it counts as the only surviving Roman gate north of the Alps. It dates from 179, under the emperor Marcus Aurelius, when the Castra Regina legionary camp rose on the Danube's south bank. The Third Italian Legion was stationed here because of the Marcomannic Wars.",
+      "extendedStory" : "Porta praetoria means the main gate of a Roman camp. In 1649 a new wing of the bishop's court was built right over it. It dates from 179, under the emperor Marcus Aurelius, when the Castra Regina legionary camp rose on the Danube's south bank. The Third Italian Legion was stationed here because of the Marcomannic Wars. Today it counts as the only surviving Roman gate north of the Alps.",
       "icon" : "everyday",
       "id" : "f-porta-praetoria",
       "kind" : "attraction",
       "localizedExtendedStory" : {
-        "de" : "1649 verschluckte ein neuer Anbau am Bischofshof das ganze Tor. Heute gilt es als das einzige erhaltene Römertor nördlich der Alpen. Es stammt aus dem Jahr 179, aus der Zeit von Kaiser Mark Aurel. Damals entstand am Südufer der Donau das Legionslager Castra Regina. Hier lag die Dritte Italische Legion, wegen der Markomannenkriege.",
-        "en" : "In 1649 a new wing for the bishop's court swallowed it whole. Today it counts as the only surviving Roman gate north of the Alps. It dates from 179, under the emperor Marcus Aurelius, when the Castra Regina legionary camp rose on the Danube's south bank. The Third Italian Legion was stationed here because of the Marcomannic Wars."
+        "de" : "Porta praetoria heißt das Haupttor eines römischen Lagers. 1649 baute man einen neuen Flügel des Bischofshofs einfach darüber. Es stammt von 179, aus der Zeit Kaiser Mark Aurels, als am Südufer der Donau das Legionslager Castra Regina entstand. Stationiert war hier die Dritte Italische Legion, wegen der Markomannenkriege. Heute gilt es als das einzige erhaltene Römertor nördlich der Alpen.",
+        "en" : "Porta praetoria means the main gate of a Roman camp. In 1649 a new wing of the bishop's court was built right over it. It dates from 179, under the emperor Marcus Aurelius, when the Castra Regina legionary camp rose on the Danube's south bank. The Third Italian Legion was stationed here because of the Marcomannic Wars. Today it counts as the only surviving Roman gate north of the Alps."
       },
       "localizedStory" : {
         "de" : "Über zwei Jahrhunderte steckte dieses römische Tor in einem späteren Bau. Erst als ein Nachbarhaus abgerissen wurde, kam es wieder zum Vorschein.",
@@ -9238,13 +9238,13 @@
       "story" : "For over two centuries this Roman gate hid inside a later building. It was found again only when a neighbouring house came down."
     },
     {
-      "extendedStory" : "The story goes that the devil, who gave the bridge builder his plan, took him from his bride's kitchen. It is said the gossips blamed her father, butcher Heinz, who shouted that the town never needed a bridge. So the tale goes, the council heard of it and banished him beyond the walls, beside the bridge. It is said he sat on his roof yearly from ten to eleven, so he built this kitchen low, easy to climb. Another tale makes this the bridge builders' canteen, which historians call a myth.",
+      "extendedStory" : "The story goes that the devil, who gave the bridge builder his plan, took him from his bride's kitchen. It is said the gossips blamed her father, the butcher Heinz, who shouted that the town never needed a bridge. So the tale goes, the council also banished him beyond the walls, right beside the bridge. It is said his hour on the roof ran from ten to eleven. Another tale makes this the bridge builders' canteen, which historians call a myth.",
       "icon" : "choice",
       "id" : "f-historische-wurstkuchl",
       "kind" : "food_landmark",
       "localizedExtendedStory" : {
-        "de" : "Der Sage nach hatte der Brückenbaumeister seinen Plan vom Teufel, und der holte ihn später aus der Küche seiner Braut. Man erzählt, der Klatsch gab ihrem Vater, dem Metzger Heinz, die Schuld, und er rief, man habe keine Brücke gebraucht. So heißt es, der Rat hörte davon und verwies ihn vor die Mauern, neben die Brücke. Es heißt, er musste jährlich von zehn bis elf aufs Dach, darum baute er die Küche so niedrig, dass er leicht hinaufkam. Laut einer anderen Sage war hier die Kantine der Brückenbauer, doch Historiker nennen das einen Mythos.",
-        "en" : "The story goes that the devil, who gave the bridge builder his plan, took him from his bride's kitchen. It is said the gossips blamed her father, butcher Heinz, who shouted that the town never needed a bridge. So the tale goes, the council heard of it and banished him beyond the walls, beside the bridge. It is said he sat on his roof yearly from ten to eleven, so he built this kitchen low, easy to climb. Another tale makes this the bridge builders' canteen, which historians call a myth."
+        "de" : "Der Sage nach hatte der Brückenbaumeister seinen Plan vom Teufel, und der holte ihn später aus der Küche seiner Braut. Man erzählt, der Klatsch gab ihrem Vater, dem Metzger Heinz, die Schuld, und er rief, man habe keine Brücke gebraucht. So heißt es, der Rat verwies ihn außerdem vor die Mauern, neben die Brücke. Es heißt, seine Stunde auf dem Dach dauerte von zehn bis elf. Laut einer anderen Sage war hier die Kantine der Brückenbauer, doch Historiker nennen das einen Mythos.",
+        "en" : "The story goes that the devil, who gave the bridge builder his plan, took him from his bride's kitchen. It is said the gossips blamed her father, the butcher Heinz, who shouted that the town never needed a bridge. So the tale goes, the council also banished him beyond the walls, right beside the bridge. It is said his hour on the roof ran from ten to eleven. Another tale makes this the bridge builders' canteen, which historians call a myth."
       },
       "localizedStory" : {
         "de" : "Der Sage nach schickte der Rat den dicken Heinz fürs Lästern über die Brücke jährlich aufs Dach, darum die niedrige Küche.",
@@ -9298,13 +9298,13 @@
       "story" : "People say coins flew from the Reichstag oriel whenever the emperor stayed. The saying about throwing money out the window is said to recall it."
     },
     {
-      "extendedStory" : "The founding legend says the rising sun lit up Marianus and his companions as they crossed a church threshold in Regensburg. The account of his life also names a monk called Mauritius, said to have been sharp at business. He came back from a trip to Kyiv richly rewarded with fine furs. The goods, it says, paid for the monastery buildings and the church roof. Inside, beside the north portal, a relief shows a monk named Rydan holding a key. Readings differ on whether he is the portal's builder or a doorkeeper.",
+      "extendedStory" : "The account of his life also names a monk called Mauritius, said to have been sharp at business. It says he came back from a trading trip to Kyiv richly rewarded with fine furs. The goods, it says, paid for the monastery buildings and the church roof. Marianus himself lies in a shrine under the high altar. Inside, beside the north portal, a relief shows a monk named Rydan holding a key. Readings differ on whether he is the portal's builder or a doorkeeper.",
       "icon" : "choice",
       "id" : "f-schottenkirche-st-jakob",
       "kind" : "church",
       "localizedExtendedStory" : {
-        "de" : "Laut Gründungslegende traten Marianus und seine Begleiter in Regensburg gerade über eine Kirchenschwelle, als die Sonne aufging und ihnen leuchtete. Seine Lebensbeschreibung nennt auch einen Mönch namens Mauritius, der geschäftstüchtig gewesen sein soll. Von einer Reise nach Kiew kam er mit kostbaren Pelzen reich beschenkt zurück. Der Erlös habe die Klostergebäude und das Dach der Kirche bezahlt. Drinnen neben dem Nordportal zeigt ein Relief einen Mönch namens Rydan mit einem Schlüssel. Ob er das Portal gebaut oder die Tür bewacht hat, wird unterschiedlich gedeutet.",
-        "en" : "The founding legend says the rising sun lit up Marianus and his companions as they crossed a church threshold in Regensburg. The account of his life also names a monk called Mauritius, said to have been sharp at business. He came back from a trip to Kyiv richly rewarded with fine furs. The goods, it says, paid for the monastery buildings and the church roof. Inside, beside the north portal, a relief shows a monk named Rydan holding a key. Readings differ on whether he is the portal's builder or a doorkeeper."
+        "de" : "Die Lebensbeschreibung des Marianus nennt auch einen Mönch namens Mauritius, der geschäftstüchtig gewesen sein soll. Von einer Handelsreise nach Kiew soll er reich belohnt mit kostbaren Pelzen zurückgekommen sein. Der Erlös, heißt es dort, bezahlte die Klostergebäude und das Dach der Kirche. Marianus selbst ruht in einem Schrein unter dem Hochaltar. Drinnen, neben dem Nordportal, zeigt ein Relief einen Mönch namens Rydan mit einem Schlüssel. Ob er den Baumeister des Portals oder einen Pförtner darstellt, ist umstritten.",
+        "en" : "The account of his life also names a monk called Mauritius, said to have been sharp at business. It says he came back from a trading trip to Kyiv richly rewarded with fine furs. The goods, it says, paid for the monastery buildings and the church roof. Marianus himself lies in a shrine under the high altar. Inside, beside the north portal, a relief shows a monk named Rydan holding a key. Readings differ on whether he is the portal's builder or a doorkeeper."
       },
       "localizedStory" : {
         "de" : "Der Sage nach sollte sich der irische Mönch Marianus dort niederlassen, wo ihm die aufgehende Sonne entgegenleuchtete, und das war Regensburg.",
@@ -9318,13 +9318,13 @@
       "story" : "The story goes that the Irish monk Marianus was to settle where the rising sun met him, and that was Regensburg."
     },
     {
-      "extendedStory" : "Look at the west outer wall, where stones with Roman inscriptions are still partly visible today. Legend even puts a temple of Juno on this spot, turned into a church of Mary by Saint Rupert of Salzburg. An old saying, handed down to this day, puts the church beside the cathedral. It says Saint Peter's is the mighty one, and the chapel the splendid one. In 2006 Pope Benedict consecrated its organ in person, and probably no other organ can claim that.",
+      "extendedStory" : "Look at the west outer wall, where stones with Roman inscriptions are still partly visible today. An old saying, handed down to this day, puts the church beside the cathedral. It says Saint Peter's is the mighty one, and the chapel the splendid one. In 2006 Pope Benedict consecrated its organ in person, and probably no other organ can claim that.",
       "icon" : "everyday",
       "id" : "f-stift-zu-unserer-lieben-frau-zur-alten-kapelle",
       "kind" : "church",
       "localizedExtendedStory" : {
-        "de" : "An der westlichen Außenwand der Kirche sind Steine mit römischen Inschriften bis heute teilweise sichtbar. Der Legende nach stand genau hier sogar ein Tempel der Juno, den der heilige Rupert von Salzburg zur Marienkirche machte. Ein alter Spruch stellt sie bis heute neben den Dom. Er lautet: Sankt Peter ist der Mächtige, die Kapelle die Prächtige. Ihre Orgel hat Papst Benedikt 2006 persönlich geweiht, und wohl keine andere Orgel kann das von sich sagen.",
-        "en" : "Look at the west outer wall, where stones with Roman inscriptions are still partly visible today. Legend even puts a temple of Juno on this spot, turned into a church of Mary by Saint Rupert of Salzburg. An old saying, handed down to this day, puts the church beside the cathedral. It says Saint Peter's is the mighty one, and the chapel the splendid one. In 2006 Pope Benedict consecrated its organ in person, and probably no other organ can claim that."
+        "de" : "Schau dir die westliche Außenwand an, dort sind Steine mit römischen Inschriften bis heute teilweise sichtbar. Ein alter Spruch, bis heute überliefert, stellt die Kirche neben den Dom: St. Peter ist der Mächtige, die Kapelle die Prächtige. 2006 weihte Papst Benedikt ihre Orgel persönlich, und das kann wohl kaum eine andere Orgel von sich sagen.",
+        "en" : "Look at the west outer wall, where stones with Roman inscriptions are still partly visible today. An old saying, handed down to this day, puts the church beside the cathedral. It says Saint Peter's is the mighty one, and the chapel the splendid one. In 2006 Pope Benedict consecrated its organ in person, and probably no other organ can claim that."
       },
       "localizedStory" : {
         "de" : "Der Sage nach stand hier einst ein Tempel der römischen Göttin Juno, und der heilige Rupert von Salzburg machte daraus eine Marienkirche.",
@@ -9338,53 +9338,53 @@
       "story" : "Legend says a Roman temple of Juno stood here, and that Saint Rupert of Salzburg made it a church of Mary."
     },
     {
-      "extendedStory" : "The story goes that the bridge builder and the cathedral builder once bet on who would finish sooner. It is said the devil then demanded his reward. So the tale goes, at the opening the builder drove a rooster, a hen and a dog across ahead of anyone. That, the legend says, is why the bridge has a hump. Much later, a tram line to Stadtamhof was planned, but the gate in the bridge tower was just 3 metres wide. Pulling the tower down came close, until the city building officer Adolf Schmetzer stepped in.",
+      "extendedStory" : "The story goes that the bridge builder had bet the cathedral builder who would finish sooner. It is said he made a pact with the devil for help. It is said the devil, furious at the trick, tried in vain to smash the bridge. That, the legend says, is why it has a hump. Much later, a tram line to Stadtamhof was planned, but the gate in the bridge tower was just 3 metres wide. Pulling the tower down came close, until the city building officer Adolf Schmetzer stepped in.",
       "icon" : "choice",
       "id" : "f-steinerne-brucke",
       "kind" : "bridge",
       "localizedExtendedStory" : {
-        "de" : "Der Sage nach schlossen der Brückenbaumeister und der Dombaumeister einmal eine Wette, wer früher fertig würde. Es heißt, der Teufel habe dann seinen Lohn gefordert. Man erzählt, dass der Baumeister bei der Eröffnung zuerst einen Hahn, eine Henne und einen Hund über die Brücke laufen ließ. Daher kommt, sagt die Legende, der Buckel der Brücke. Viel später sollte eine Straßenbahn über die Brücke nach Stadtamhof fahren, doch das Tor im Brückturm war nur 3 Meter breit. Beinahe wäre der Turm abgerissen worden, doch Stadtbaurat Adolf Schmetzer setzte sich für ihn ein.",
-        "en" : "The story goes that the bridge builder and the cathedral builder once bet on who would finish sooner. It is said the devil then demanded his reward. So the tale goes, at the opening the builder drove a rooster, a hen and a dog across ahead of anyone. That, the legend says, is why the bridge has a hump. Much later, a tram line to Stadtamhof was planned, but the gate in the bridge tower was just 3 metres wide. Pulling the tower down came close, until the city building officer Adolf Schmetzer stepped in."
+        "de" : "Der Sage nach hatte der Brückenbaumeister mit dem Dombaumeister gewettet, wer früher fertig würde. Man erzählt, er schloss dafür einen Pakt mit dem Teufel, der ihm helfen sollte. Es heißt, der Teufel habe aus Wut über die Täuschung vergeblich versucht, die Brücke zu zerstören. Daher kommt, sagt die Legende, ihr Buckel. Viel später sollte eine Straßenbahn über die Brücke nach Stadtamhof fahren, doch das Tor im Brückturm war nur 3 Meter breit. Beinahe wäre der Turm abgerissen worden, doch Stadtbaurat Adolf Schmetzer setzte sich für ihn ein.",
+        "en" : "The story goes that the bridge builder had bet the cathedral builder who would finish sooner. It is said he made a pact with the devil for help. It is said the devil, furious at the trick, tried in vain to smash the bridge. That, the legend says, is why it has a hump. Much later, a tram line to Stadtamhof was planned, but the gate in the bridge tower was just 3 metres wide. Pulling the tower down came close, until the city building officer Adolf Schmetzer stepped in."
       },
       "localizedStory" : {
-        "de" : "Der Sage nach verdankt die Brücke ihren Buckel dem Teufel und einem Hahn, einer Henne und einem Hund.",
-        "en" : "The story goes that this bridge got its hump from a devil, a rooster, a hen and a dog."
+        "de" : "Der Sage nach gehörte dem Teufel, wer vor allen über diese Brücke ging, also schickte man Hahn, Henne und Hund hinüber.",
+        "en" : "Legend says the devil was owed whoever crossed this bridge ahead of anyone, so the builder sent a rooster, hen and dog."
       },
       "name" : "Steinerne Brücke",
       "pos" : [
         49.022618,
         12.097167
       ],
-      "story" : "The story goes that this bridge got its hump from a devil, a rooster, a hen and a dog."
+      "story" : "Legend says the devil was owed whoever crossed this bridge ahead of anyone, so the builder sent a rooster, hen and dog."
     },
     {
-      "extendedStory" : "The story goes that once the pain had forced King Conrad off his horse, he had the gospel book carried back. This castle was once the Imperial Abbey of St. Emmeram, one of the largest Benedictine monasteries in Germany. Where monks once lived, people still make their home today. The castle carries the name of the House of Thurn and Taxis. With well over 500 rooms, it is the largest castle that is still a private home.",
+      "extendedStory" : "It is said the pain gnawed at the king's insides and moved him to think again. The book was a treasure: Charles the Bald had once given it away, and it had found its way here. This castle was once the Imperial Abbey of St. Emmeram, one of the largest Benedictine monasteries in Germany. Where monks once lived, people still make their home today. With well over 500 rooms, it is the largest castle still lived in as a private home.",
       "icon" : "choice",
       "id" : "f-schloss-st-emmeram",
       "kind" : "fortress",
       "localizedExtendedStory" : {
-        "de" : "Man erzählt, König Konrad ließ das Buch zurücktragen, nachdem ihn ein nagender Schmerz vom Pferd gezwungen hatte. Dieses Schloss war einst die Reichsabtei St. Emmeram, eines der größten Klöster der Benediktiner in Deutschland. Wo einst Mönche lebten, wohnen bis heute Menschen. Seinen Namen verdankt das Schloss dem Fürstenhaus Thurn und Taxis. Mit weit über 500 Zimmern ist kein anderes privat bewohntes Schloss so groß.",
-        "en" : "The story goes that once the pain had forced King Conrad off his horse, he had the gospel book carried back. This castle was once the Imperial Abbey of St. Emmeram, one of the largest Benedictine monasteries in Germany. Where monks once lived, people still make their home today. The castle carries the name of the House of Thurn and Taxis. With well over 500 rooms, it is the largest castle that is still a private home."
+        "de" : "Man erzählt, der Schmerz habe dem König im Leib genagt, bis er tief gerührt in sich ging. Das Buch war ein Schatz: Karl der Kahle hatte es einst verschenkt, und so war es hierher gelangt. Wo du stehst, lebten einst Mönche: Hier lag eine gewaltige Abtei der Benediktiner, eine der größten im ganzen Land. Heute wird es bewohnt, und seinen Namen gab ihm das Fürstenhaus Thurn und Taxis. Weit über 500 Räume machen es zum größten Schloss, das noch als privates Zuhause dient.",
+        "en" : "It is said the pain gnawed at the king's insides and moved him to think again. The book was a treasure: Charles the Bald had once given it away, and it had found its way here. This castle was once the Imperial Abbey of St. Emmeram, one of the largest Benedictine monasteries in Germany. Where monks once lived, people still make their home today. With well over 500 rooms, it is the largest castle still lived in as a private home."
       },
       "localizedStory" : {
-        "de" : "Der Sage nach wollte König Konrad das Evangelienbuch der Abtei hier mitnehmen, bis ihn ein nagender Schmerz vom Pferd zwang.",
-        "en" : "The story goes that King Conrad wanted this abbey's gospel book, until a gnawing pain forced him off his horse."
+        "de" : "Der Sage nach wollte König Konrad das Evangelienbuch der Abtei rauben, bis ihn ein Schmerz vom Pferd zwang. So, erzählt man, gab er es zurück.",
+        "en" : "The story goes King Conrad wanted this abbey's gospel book, till pain threw him off his horse. So, it is said, he gave it back."
       },
       "name" : "Schloss St. Emmeram",
       "pos" : [
         49.014629,
         12.09315
       ],
-      "story" : "The story goes that King Conrad wanted this abbey's gospel book, until a gnawing pain forced him off his horse."
+      "story" : "The story goes King Conrad wanted this abbey's gospel book, till pain threw him off his horse. So, it is said, he gave it back."
     },
     {
-      "extendedStory" : "Look for slots in the wall. A portcullis, a gate that drops into place, could be let down them on chains from the floor above. The tower rises five storeys, and it was one of six gate towers in the old city walls. So a gate fitted for a portcullis later let a tram roll straight through.",
+      "extendedStory" : "Stand in the archway and look for slots in the wall. A portcullis, a heavy grille that drops into place, could be let down them on chains from the floor above. Over the arch the tower rises five Gothic storeys. It was one of six gate towers in the old city walls, and it is the one you are standing in.",
       "icon" : "everyday",
       "id" : "f-ostentor",
       "kind" : "gate_tower",
       "localizedExtendedStory" : {
-        "de" : "Schau dir die Mauer an: Dort sitzen Schlitze. In ihnen konnte man von oben das Fallgatter an Ketten herunterlassen. Fünf Stockwerke hoch ist der Turm, und sechs solche Tortürme gab es einst rund um die alte Stadt. Durch ein Tor mit Fallgatterschlitzen fuhr später sogar die Straßenbahn.",
-        "en" : "Look for slots in the wall. A portcullis, a gate that drops into place, could be let down them on chains from the floor above. The tower rises five storeys, and it was one of six gate towers in the old city walls. So a gate fitted for a portcullis later let a tram roll straight through."
+        "de" : "Stell dich in die Durchfahrt und such die Schlitze in der Mauer. Ein Fallgatter, ein schweres Gitter, ließ sich darin an Ketten aus dem Stockwerk darüber herablassen. Über dem Bogen ragt der Turm fünf gotische Stockwerke hoch. Sechs solche Tortürme hatte einst die Stadtmauer, und in einem davon stehst du gerade.",
+        "en" : "Stand in the archway and look for slots in the wall. A portcullis, a heavy grille that drops into place, could be let down them on chains from the floor above. Over the arch the tower rises five Gothic storeys. It was one of six gate towers in the old city walls, and it is the one you are standing in."
       },
       "localizedStory" : {
         "de" : "Vierzig Jahre lang fuhr die Straßenbahnlinie 3 mitten durch dieses mittelalterliche Tor bis zur Endstation.",
@@ -9398,13 +9398,13 @@
       "story" : "For forty years, tram line 3 ran straight through this medieval gate on its way to the end of the line."
     },
     {
-      "extendedStory" : "The story goes that the city council itself asked the Minorite friars for help against Fat Agnes, a growing ghost. It is said the friars banished it into a cellar, and that its wailing was heard there long after. Those friars lived in this very building, the former friary of St. Salvator, which now holds the museum. Look inside for a model that shrinks old Regensburg to a scale of 1:4000.",
+      "extendedStory" : "It is said the city council itself asked the friars for help, and that banishing it was hard work. People say its wailing rose from the cellar long afterwards, between the prayer bell and cockcrow. Those friars lived in this very building, the former friary of St. Salvator, which now holds the museum. Look inside for a model that shrinks old Regensburg to a scale of 1:4000.",
       "icon" : "everyday",
       "id" : "f-historisches-museum",
       "kind" : "museum",
       "localizedExtendedStory" : {
-        "de" : "Man erzählt, dass sich der Stadtrat selbst an die Minoriten wandte, weil das Gespenst Dicke Agnes immer größer wurde. Der Sage nach bannten die Brüder es in einen Keller, wo man es noch lange klagen hörte. Diese Minoriten lebten genau hier, im früheren Kloster St. Salvator, in dem heute das Museum sitzt. Drinnen wartet ein Modell, das das alte Regensburg im Maßstab 1:4000 zeigt.",
-        "en" : "The story goes that the city council itself asked the Minorite friars for help against Fat Agnes, a growing ghost. It is said the friars banished it into a cellar, and that its wailing was heard there long after. Those friars lived in this very building, the former friary of St. Salvator, which now holds the museum. Look inside for a model that shrinks old Regensburg to a scale of 1:4000."
+        "de" : "Man erzählt, der Rat der Stadt selbst habe die Minoriten um Hilfe gebeten, und das Bannen sei ihnen nicht leicht gefallen. Es heißt, man habe das Gespenst noch lange Jahre im Keller wimmern hören, zwischen Gebetläuten und Hahnenschrei. Die Minoriten wohnten in genau diesem Gebäude, dem früheren Kloster St. Salvator, in dem heute das Museum sitzt. Drinnen zeigt ein Modell das alte Regensburg im Maßstab 1:4000.",
+        "en" : "It is said the city council itself asked the friars for help, and that banishing it was hard work. People say its wailing rose from the cellar long afterwards, between the prayer bell and cockcrow. Those friars lived in this very building, the former friary of St. Salvator, which now holds the museum. Look inside for a model that shrinks old Regensburg to a scale of 1:4000."
       },
       "localizedStory" : {
         "de" : "Der Sage nach wuchs ein Gespenst namens Dicke Agnes immer weiter, bis die Minoriten, die hier lebten, es in einen Keller bannten.",
@@ -9418,13 +9418,13 @@
       "story" : "The story goes that a ghost called Fat Agnes kept growing, until the friars who lived here banished it into a cellar."
     },
     {
-      "extendedStory" : "Its foundation stone went down in July 1929. Bishop Michael Buchberger consecrated the finished church in November 1930, not much more than a year later. Carl Schad drew it in a late Expressionist style. That style shows in its strict cube form. It is a basilica, with a tall central nave and lower aisles on either side.",
+      "extendedStory" : "Its foundation stone went down in July 1929. Bishop Michael Buchberger consecrated the finished church in November 1930, not much more than a year later. Carl Schad drew it in a late Expressionist style. It is a basilica, with a tall central nave and lower aisles on either side. Look for the step down in the roofline.",
       "icon" : "everyday",
       "id" : "f-herz-jesu",
       "kind" : "church",
       "localizedExtendedStory" : {
-        "de" : "Im Juli 1929 wurde der Grundstein gelegt. Schon im November 1930 weihte Bischof Michael Buchberger die fertige Kirche, kaum mehr als ein Jahr später. Carl Schad entwarf sie im späten Expressionismus. Sie ist eine dreischiffige Basilika, mit hohem Mittelschiff und niedrigeren Seitenschiffen.",
-        "en" : "Its foundation stone went down in July 1929. Bishop Michael Buchberger consecrated the finished church in November 1930, not much more than a year later. Carl Schad drew it in a late Expressionist style. That style shows in its strict cube form. It is a basilica, with a tall central nave and lower aisles on either side."
+        "de" : "Kaum mehr als ein Jahr verging vom Grundstein im Juli 1929 bis zur Weihe im November 1930 durch Bischof Michael Buchberger. Carl Schad entwarf die Kirche im Stil des späten Expressionismus. Sie ist eine Basilika mit hohem Mittelschiff und niedrigeren Seitenschiffen zu beiden Seiten.",
+        "en" : "Its foundation stone went down in July 1929. Bishop Michael Buchberger consecrated the finished church in November 1930, not much more than a year later. Carl Schad drew it in a late Expressionist style. It is a basilica, with a tall central nave and lower aisles on either side. Look for the step down in the roofline."
       },
       "localizedStory" : {
         "de" : "Eine Kirche in strenger Kubusform mit Satteldach, entworfen vom Oberbaurat des Fürstenhauses Thurn und Taxis.",
@@ -9438,53 +9438,53 @@
       "story" : "A church shaped like a strict cube under a saddle roof. Its designer was building chief to the princely house of Thurn und Taxis."
     },
     {
-      "extendedStory" : "By then the convent was very old. Benedictine nuns had lived here for about six centuries, since Bishop Wolfgang of Regensburg founded their house in 983. In 1588 the pope dissolved it, and its buildings became a Jesuit college, a school run by priests. So the Jesuits you hear in the square's name were just the later tenants of a very old address.",
+      "extendedStory" : "By then the convent was very old. It had stood here for about six centuries, since Bishop Wolfgang of Regensburg founded it for Benedictine nuns in 983. At the end, even the simple rules of the house were no longer kept. The Jesuits made the buildings into a college, a school run by priests, and the square still carries their name.",
       "icon" : "everyday",
       "id" : "f-jesuitenplatz",
       "kind" : "square",
       "localizedExtendedStory" : {
-        "de" : "Damals war das Stift schon sehr alt. Benediktinerinnen hatten hier rund sechs Jahrhunderte gelebt, seit Bischof Wolfgang von Regensburg ihr Kloster 983 gründete. 1588 hob der Papst es auf, und seine Gebäude wurden ein Jesuitenkolleg, eine Schule unter der Leitung von Priestern. Die Jesuiten im Namen des Platzes sind also nur die späteren Bewohner einer sehr alten Adresse.",
-        "en" : "By then the convent was very old. Benedictine nuns had lived here for about six centuries, since Bishop Wolfgang of Regensburg founded their house in 983. In 1588 the pope dissolved it, and its buildings became a Jesuit college, a school run by priests. So the Jesuits you hear in the square's name were just the later tenants of a very old address."
+        "de" : "Das Stift war damals schon sehr alt. Seit Bischof Wolfgang von Regensburg es 983 für Benediktinerinnen gründete, stand es rund sechs Jahrhunderte hier. Am Ende wurden nicht einmal mehr die einfachen Regeln des Hauses befolgt. Die Jesuiten machten aus den Gebäuden ein Kolleg, eine Schule unter der Leitung von Priestern. Der Platz trägt bis heute ihren Namen.",
+        "en" : "By then the convent was very old. It had stood here for about six centuries, since Bishop Wolfgang of Regensburg founded it for Benedictine nuns in 983. At the end, even the simple rules of the house were no longer kept. The Jesuits made the buildings into a college, a school run by priests, and the square still carries their name."
       },
       "localizedStory" : {
-        "de" : "Papst Sixtus V. löste das Stift auf, das hier stand, und die Jesuiten zogen ein. Daher trägt dieser Ort ihren Namen.",
-        "en" : "A pope named Sixtus V closed the convent that stood here, and the Jesuits moved in. That is where this place gets its name."
+        "de" : "Als der Papst das alte Stift hier aufhob, lebten darin gerade noch zwei Frauen, und die Gebäude gingen an die Jesuiten.",
+        "en" : "Just two women were left in the old convent here when the pope closed it, and its buildings went to the Jesuits."
       },
       "name" : "Jesuitenplatz",
       "pos" : [
         49.015938,
         12.097286
       ],
-      "story" : "A pope named Sixtus V closed the convent that stood here, and the Jesuits moved in. That is where this place gets its name."
+      "story" : "Just two women were left in the old convent here when the pope closed it, and its buildings went to the Jesuits."
     },
     {
-      "extendedStory" : "The council ordered them from the sculptor Leonhard Kern. Four of them, Faith, Justice, Prudence and Hope, now stand in the town hall courtyard. The fifth was destroyed. Hans Carl designed the church. Climbers get a reward: 157 steps lead to the town's best-loved rooftop view, kept open through the season by volunteer tower wardens.",
+      "extendedStory" : "The council ordered them from the sculptor Leonhard Kern. Four of them, Faith, Justice, Prudence and Hope, now stand in the town hall courtyard. The fifth was destroyed, and of the sixth there is no trace at all. Hans Carl designed the church. Climbers get a reward: 157 steps lead to the town's best-loved rooftop view, kept open through the season by volunteer tower wardens.",
       "icon" : "everyday",
       "id" : "f-dreieinigkeitskirche",
       "kind" : "church",
       "localizedExtendedStory" : {
-        "de" : "Der Rat bestellte sie beim Bildhauer Leonhard Kern. Vier davon, Glaube, Gerechtigkeit, Klugheit und Hoffnung, stehen heute im Rathaushof. Die fünfte wurde zerstört. Hanns Carl entwarf die Kirche. Wer steigen mag: 157 Stufen führen zum beliebtesten Dächerblick der Stadt, und ehrenamtliche Turmaufseher halten den Aufstieg über die Saison offen.",
-        "en" : "The council ordered them from the sculptor Leonhard Kern. Four of them, Faith, Justice, Prudence and Hope, now stand in the town hall courtyard. The fifth was destroyed. Hans Carl designed the church. Climbers get a reward: 157 steps lead to the town's best-loved rooftop view, kept open through the season by volunteer tower wardens."
+        "de" : "Der Rat bestellte sie beim Bildhauer Leonhard Kern. Vier davon, Glaube, Gerechtigkeit, Klugheit und Hoffnung, stehen heute im Rathaushof. Die fünfte wurde zerstört, und von der sechsten fehlt jede Spur. Hans Carl entwarf die Kirche. Wer hinaufsteigt, wird belohnt: 157 Stufen führen zum beliebtesten Dächerblick der Stadt, und ehrenamtliche Turmaufseher halten den Aufstieg über die Saison offen.",
+        "en" : "The council ordered them from the sculptor Leonhard Kern. Four of them, Faith, Justice, Prudence and Hope, now stand in the town hall courtyard. The fifth was destroyed, and of the sixth there is no trace at all. Hans Carl designed the church. Climbers get a reward: 157 steps lead to the town's best-loved rooftop view, kept open through the season by volunteer tower wardens."
       },
       "localizedStory" : {
-        "de" : "Für die Portale dieser Kirche wurden sechs Statuen bestellt, aufgestellt wurde dort keine. Von der sechsten fehlt jede Spur.",
-        "en" : "Six statues were ordered for this church's doors, and none ever went up there. Of the sixth, there is no trace at all."
+        "de" : "Für die Portale dieser Kirche wurden sechs Figuren bestellt, aufgestellt wurde keine. Niemand weiß, warum, denn die Quellen fehlen.",
+        "en" : "Six statues were ordered for this church's doors and never went up. Nobody knows why, because the records that would tell are missing."
       },
       "name" : "Dreieinigkeitskirche",
       "pos" : [
         49.018525,
         12.091732
       ],
-      "story" : "Six statues were ordered for this church's doors, and none ever went up there. Of the sixth, there is no trace at all."
+      "story" : "Six statues were ordered for this church's doors and never went up. Nobody knows why, because the records that would tell are missing."
     },
     {
-      "extendedStory" : "His name was Georg Friedrich Ritter von Müller, and he bought the land in 1804. The city bought the grounds much later. About a century and a half after his purchase, the garden was remade as a public park. It covers about a hectare and a half, which makes it one of the smaller parks in town. Along its south side stands the Württembergisches Palais, now home to the Naturkundemuseum Ostbayern.",
+      "extendedStory" : "His name was Georg Friedrich Ritter von Müller, and he bought the land in 1804. The city bought the grounds much later. It covers about a hectare and a half, which makes it one of the smaller parks in town. Inside, look for a surviving piece of the old city defences. Along its south side stands the Württembergisches Palais, now home to the Naturkundemuseum Ostbayern.",
       "icon" : "everyday",
       "id" : "f-herzogspark",
       "kind" : "park_garden",
       "localizedExtendedStory" : {
-        "de" : "Er hieß Georg Friedrich Ritter von Müller und kaufte das Land 1804. Viel später erwarb die Stadt das Gelände, und rund anderthalb Jahrhunderte nach seinem Kauf wurde der Garten zum öffentlichen Park. Mit etwa anderthalb Hektar zählt er zu den kleineren Parks der Stadt. An seiner Südseite steht das Württembergische Palais, in dem heute das Naturkundemuseum Ostbayern untergebracht ist.",
-        "en" : "His name was Georg Friedrich Ritter von Müller, and he bought the land in 1804. The city bought the grounds much later. About a century and a half after his purchase, the garden was remade as a public park. It covers about a hectare and a half, which makes it one of the smaller parks in town. Along its south side stands the Württembergisches Palais, now home to the Naturkundemuseum Ostbayern."
+        "de" : "Er hieß Georg Friedrich Ritter von Müller und kaufte das Land 1804. Viel später erwarb die Stadt das Gelände. Mit etwa anderthalb Hektar zählt der Park zu den kleineren der Stadt. Drinnen findest du ein Stück der alten Stadtbefestigung. An seiner Südseite steht das Württembergische Palais, in dem heute das Naturkundemuseum Ostbayern untergebracht ist.",
+        "en" : "His name was Georg Friedrich Ritter von Müller, and he bought the land in 1804. The city bought the grounds much later. It covers about a hectare and a half, which makes it one of the smaller parks in town. Inside, look for a surviving piece of the old city defences. Along its south side stands the Württembergisches Palais, now home to the Naturkundemuseum Ostbayern."
       },
       "localizedStory" : {
         "de" : "Ein Geheimer Rat der Fürsten von Thurn und Taxis kaufte dieses Gelände und legte darauf einen privaten Garten an. Heute darf jeder hinein.",
@@ -9498,7 +9498,7 @@
       "story" : "A privy councillor of the princes of Thurn und Taxis bought this ground and made a private garden of it. Today anyone can walk in."
     }
   ],
-  "generatedAt" : "2026-09-30T05:41:55Z",
+  "generatedAt" : "2026-09-30T12:24:11Z",
   "icon" : {
     "paths" : [
       "m 77.67 14.43 l 7.91 7.91 l -60.81 60.81 l -7.91 -7.91 z m 2.74 5.17 l 9.73 9.73 l -4.86 4.86 l -9.73 -9.73 z m -9.73 9.73 l 12.16 12.16 l -4.86 4.86 l -12.16 -12.16 z m -41.35 63.24 c -6.05 6.05 -15.85 6.05 -21.89 0 c -6.05 -6.05 -6.05 -15.85 0 -21.89 c 6.05 -6.05 15.85 -6.05 21.89 0 c 6.05 6.05 6.05 15.85 0 21.89 z m -5.47 -5.47 c 3.02 -3.02 3.02 -7.92 0 -10.95 c -3.02 -3.02 -7.92 -3.02 -10.95 0 c -3.02 3.02 -3.02 7.92 0 10.95 c 3.02 3.02 7.92 3.02 10.95 0 z m -9.43 -64.76 l 7.91 -7.91 l 60.81 60.81 l -7.91 7.91 z m -4.56 6.99 l 9.73 -9.73 l 4.86 4.86 l -9.73 9.73 z m 7.3 12.16 l 12.16 -12.16 l 4.86 4.86 l -12.16 12.16 z m 75.41 29.19 c 6.05 6.05 6.05 15.85 0 21.89 c -6.05 6.05 -15.85 6.05 -21.89 0 c -6.05 -6.05 -6.05 -15.85 0 -21.89 c 6.05 -6.05 15.85 -6.05 21.89 0 z m -5.47 5.47 c -3.02 -3.02 -7.92 -3.02 -10.95 0 c -3.02 3.02 -3.02 7.92 0 10.95 c 3.02 3.02 7.92 3.02 10.95 0 c 3.02 -3.02 3.02 -7.92 0 -10.95 z"
@@ -9511,7 +9511,7 @@
     "en" : "Regensburg"
   },
   "name" : "Regensburg",
-  "packVersion" : 51,
+  "packVersion" : 53,
   "schemaVersion" : 1,
   "source" : "OpenStreetMap via Overpass API",
   "stats" : {

@@ -7224,7 +7224,7 @@
         "en" : "Regensburg"
       },
       "name" : "Regensburg",
-      "packVersion" : 51,
+      "packVersion" : 53,
       "stats" : {
         "estHours" : 10.6,
         "nodeCount" : 1842,
@@ -8780,7 +8780,7 @@
         "en" : "Strasbourg"
       },
       "name" : "Strasbourg",
-      "packVersion" : 16,
+      "packVersion" : 20,
       "stats" : {
         "estHours" : 9.1,
         "nodeCount" : 1606,
