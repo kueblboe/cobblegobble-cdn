@@ -371,12 +371,11 @@
 
     ],
     "adjustedStreets" : [
-      "Kossuth Lajos tér"
+
     ],
-    "fromVersion" : 17,
+    "fromVersion" : 20,
     "removedStreets" : [
-      "Perczel Mór utca",
-      "Szomory Dezső tér"
+
     ]
   },
   "cityId" : "budapest",
@@ -30110,24 +30109,24 @@
   ],
   "fruits" : [
     {
-      "extendedStory" : "Back then the church served as a mosque, and the old votive statue had waited behind that wall. Much later, two kings were crowned under this roof: Franz Joseph I and Charles IV. They closed Hungary's long line of crowned kings. The everyday name, Matthias Church, honours King Matthias Corvinus. Look up at the spire and the stonework: the architect Frigyes Schulek gave the church its Gothic look again.",
+      "extendedStory" : "The story goes that it happened in 1686, while the Muslims were at prayer, and that Buda fell that same day. Much later, the last two kings of Hungary were crowned under this roof: Franz Joseph I and Charles IV. The everyday name, Matthias Church, honours King Matthias Corvinus. Look up at the Gothic stonework: the church's architect was Frigyes Schulek.",
       "icon" : "choice",
       "id" : "f-budavari-nagyboldogasszony-templom",
       "kind" : "church",
       "localizedExtendedStory" : {
-        "de" : "Die Kirche diente damals als Moschee, und die alte Votivfigur hatte hinter der Wand gewartet. Viel später wurden hier zwei Könige gekrönt, Franz Joseph I. und Karl IV., und mit ihnen endete die lange Reihe der ungarischen Könige. Ihren Alltagsnamen Matthiaskirche hat sie von König Matthias Corvinus. Schau hinauf zu Turm und Steinwerk: Der Architekt Frigyes Schulek gab ihr später das gotische Gesicht zurück.",
-        "en" : "Back then the church served as a mosque, and the old votive statue had waited behind that wall. Much later, two kings were crowned under this roof: Franz Joseph I and Charles IV. They closed Hungary's long line of crowned kings. The everyday name, Matthias Church, honours King Matthias Corvinus. Look up at the spire and the stonework: the architect Frigyes Schulek gave the church its Gothic look again."
+        "de" : "Man erzählt, das geschah 1686, während die Muslime beteten, und Buda fiel noch am selben Tag. Viel später wurden hier die letzten beiden Könige Ungarns gekrönt, Franz Joseph I. und Karl IV. Ihren Alltagsnamen Matthiaskirche hat sie von König Matthias Corvinus. Schau hinauf zum gotischen Steinwerk: Der Architekt der Kirche war Frigyes Schulek.",
+        "en" : "The story goes that it happened in 1686, while the Muslims were at prayer, and that Buda fell that same day. Much later, the last two kings of Hungary were crowned under this roof: Franz Joseph I and Charles IV. The everyday name, Matthias Church, honours King Matthias Corvinus. Look up at the Gothic stonework: the church's architect was Frigyes Schulek."
       },
       "localizedStory" : {
-        "de" : "Man erzählt, 1686 stürzte hier bei der Belagerung eine Wand ein und zeigte eine versteckte Madonna. Die Verteidiger verzagten, Buda fiel noch am selben Tag.",
-        "en" : "The story goes that a wall collapsed in the 1686 siege and revealed a hidden Madonna. The garrison lost heart. Buda fell that day."
+        "de" : "Der Sage nach riss Kanonenfeuer diese Kirche auf, damals eine Moschee. Man erzählt, eine versteckte Madonna erschien, und die osmanischen Verteidiger verzagten.",
+        "en" : "Legend says cannon fire once broke open this church, then a mosque. It is said a hidden Madonna appeared, and the Ottoman defenders lost heart."
       },
       "name" : "Budavári Nagyboldogasszony-templom",
       "pos" : [
         47.501789,
         19.034006
       ],
-      "story" : "The story goes that a wall collapsed in the 1686 siege and revealed a hidden Madonna. The garrison lost heart. Buda fell that day."
+      "story" : "Legend says cannon fire once broke open this church, then a mosque. It is said a hidden Madonna appeared, and the Ottoman defenders lost heart."
     },
     {
       "extendedStory" : "In 1926 a chapel was hollowed into his cave on the south face of Gellért Hill, shaped after the grotto at Lourdes. In 1951 the communist regime dragged the Pauline monks away and later sealed the entrance. The church reopened decades on. Even so, the concrete wall stayed put a while longer before anyone tore it down. Step inside and you are standing in rock.",
@@ -30150,13 +30149,13 @@
       "story" : "Legend says a kind hermit named Iván lived in this cave. He healed sick pilgrims with water from a spring nearby."
     },
     {
-      "extendedStory" : "Under Ottoman rule, the story goes, the palace had a favourite nickname: the Palace of the Golden Apples. The palace you walk past took shape from 1714, on plans by the architect Jean-Nicolas Jadot de Ville-Issey. In the courtyard, stop at the Matthias Fountain. The king is out hunting in disguise, and Ilonka is the girl who met him there.",
+      "extendedStory" : "Look closer at the fountain: Ilonka holds a doe, and a man in the hunting party carries a hawk. The story goes that under Ottoman rule the palace's favourite nickname was the Palace of the Golden Apples. The Ottomans let it decay, and used it as barracks, stores and stables. The palace you see dates from 1714, and its architect was Jean-Nicolas Jadot de Ville-Issey.",
       "icon" : "hero",
       "id" : "f-budavari-palota",
       "kind" : "fortress",
       "localizedExtendedStory" : {
-        "de" : "Unter den Osmanen trug der Palast angeblich einen Lieblingsnamen: Palast der Goldenen Äpfel. Ab 1714 zeichnete der Architekt Jean Nicolas Jadot de Ville-Issey die Pläne für den Palast, wie du ihn heute vor dir hast. Im Hof lohnt ein Halt am Matthiasbrunnen. Da ist der König verkleidet auf der Jagd, und neben ihm steht Ilonka, das schöne Bauernmädchen.",
-        "en" : "Under Ottoman rule, the story goes, the palace had a favourite nickname: the Palace of the Golden Apples. The palace you walk past took shape from 1714, on plans by the architect Jean-Nicolas Jadot de Ville-Issey. In the courtyard, stop at the Matthias Fountain. The king is out hunting in disguise, and Ilonka is the girl who met him there."
+        "de" : "Schau am Brunnen genauer hin: Ilonka hält eine Hirschkuh, und ein Mann aus der Jagdgesellschaft trägt einen Greifvogel. Man erzählt, unter den Osmanen hieß der Palast am liebsten Palast der Goldenen Äpfel. Die Osmanen ließen ihn verfallen und nutzten ihn als Kaserne, Lager und Pferdestall. Der Palast stammt aus dem Jahr 1714, sein Architekt war Jean Nicolas Jadot de Ville-Issey.",
+        "en" : "Look closer at the fountain: Ilonka holds a doe, and a man in the hunting party carries a hawk. The story goes that under Ottoman rule the palace's favourite nickname was the Palace of the Golden Apples. The Ottomans let it decay, and used it as barracks, stores and stables. The palace you see dates from 1714, and its architect was Jean-Nicolas Jadot de Ville-Issey."
       },
       "localizedStory" : {
         "de" : "Der Sage nach ging König Matthias verkleidet auf die Jagd und traf dabei das Bauernmädchen Ilonka. Ein Brunnen im Hof zeigt die Szene.",
@@ -30170,24 +30169,24 @@
       "story" : "Legend says King Matthias went hunting in disguise and met a peasant girl, Ilonka. A fountain in the courtyard shows the scene."
     },
     {
-      "extendedStory" : "Then a land swap in 2014 let them in. Their dig on the untouched lower terrace found castle walls still standing several metres high. It also turned up not one but two hidden treasures. Buda had given up nothing like it in decades. King János Szapolyai had the bastion built in the 1530s, pushing well out from the castle wall.",
+      "extendedStory" : "A land swap finally let the diggers in. On the untouched lower terrace they found castle walls still standing several metres high, and two hidden treasures. One was gold and silver coins, probably once kept in a cloth pouch. A week later, Turkish gold coins turned up, hidden in a wall. Both hoards are linked to a siege. King János Szapolyai had the bastion built in the 1530s.",
       "icon" : "everyday",
       "id" : "f-erdelyi-bastya",
       "kind" : "viewpoint",
       "localizedExtendedStory" : {
-        "de" : "Ein Grundstückstausch im Jahr 2014 öffnete ihnen das Tor. Auf der unberührten unteren Terrasse fanden sie Burgmauern, noch mehrere Meter hoch. Dazu kamen nicht einer, sondern gleich zwei versteckte Schätze. So etwas hatte Buda seit Jahrzehnten nicht mehr hergegeben. Bauen ließ die Bastei König János Szapolyai in den 1530er Jahren, weit hinausgeschoben vor die Burgmauer.",
-        "en" : "Then a land swap in 2014 let them in. Their dig on the untouched lower terrace found castle walls still standing several metres high. It also turned up not one but two hidden treasures. Buda had given up nothing like it in decades. King János Szapolyai had the bastion built in the 1530s, pushing well out from the castle wall."
+        "de" : "Erst ein Grundstückstausch öffnete den Archäologen das Tor. Auf der unberührten unteren Terrasse fanden sie Burgmauern, noch mehrere Meter hoch, und zwei versteckte Schätze. Der eine bestand aus Gold- und Silbermünzen, wohl einst in einem Stoffbeutel verwahrt. Eine Woche später tauchten türkische Goldmünzen auf, versteckt in einer Mauer. Beide Funde hängen mit einer Belagerung zusammen. Bauen ließ die Bastei König János Szapolyai in den 1530er Jahren.",
+        "en" : "A land swap finally let the diggers in. On the untouched lower terrace they found castle walls still standing several metres high, and two hidden treasures. One was gold and silver coins, probably once kept in a cloth pouch. A week later, Turkish gold coins turned up, hidden in a wall. Both hoards are linked to a siege. King János Szapolyai had the bastion built in the 1530s."
       },
       "localizedStory" : {
-        "de" : "Jahrzehntelang war diese Bastei Gebiet der Vereinigten Staaten, und die Botschaft zog hier Gemüse. Archäologen mussten draußen bleiben.",
-        "en" : "For decades this bastion was United States territory, and the embassy used it as a vegetable garden. Archaeologists had to stay out."
+        "de" : "Nach dem Zweiten Weltkrieg wurde diese Bastei als Kriegsentschädigung Gebiet der Vereinigten Staaten. Die Botschaft zog hier Gemüse, und Archäologen mussten draußen bleiben.",
+        "en" : "After World War II this bastion became United States land, as war reparations. The embassy grew vegetables here, and archaeologists had to stay out."
       },
       "name" : "Erdélyi bástya",
       "pos" : [
         47.504696,
         19.032828
       ],
-      "story" : "For decades this bastion was United States territory, and the embassy used it as a vegetable garden. Archaeologists had to stay out."
+      "story" : "After World War II this bastion became United States land, as war reparations. The embassy grew vegetables here, and archaeologists had to stay out."
     },
     {
       "extendedStory" : "In its early years the hall had a little railway of its own. A short line joined the hall to the Danube bank, and fresh produce came along it every day. Samu Pecz finished the hall in 1897, in the Art Nouveau style. So when you step back outside, turn toward the river. That short stretch between you and the water was once the market's supply line.",
@@ -30210,24 +30209,24 @@
       "story" : "People say Gustave Eiffel designed this hall. He didn't. The man behind it was a Hungarian architect, Samu Pecz."
     },
     {
-      "extendedStory" : "He left for Vienna at last in 1971. The square's name means liberty, a word worth turning over as you pass the embassy doors. Long before, the Újépület barracks stood on this ground. In its courtyard the prime minister Lajos Batthyány died in 1849. Look around you: the barracks are long gone, and an open square with a name worth keeping has taken their place.",
+      "extendedStory" : "The 1956 uprising had freed him from prison. When the Red Army marched in and put the uprising down, he fled into the embassy the next day. He lived in a flat there and said mass at his desk every day. He had earlier refused the Pope's offer to leave Hungary. In 1971, with the American president also urging him to go, he gave way and was driven to Vienna.",
       "icon" : "everyday",
       "id" : "f-szabadsag-ter",
       "kind" : "square",
       "localizedExtendedStory" : {
-        "de" : "Im Jahr 1971 reiste er schließlich nach Wien. Der Name des Platzes bedeutet Freiheit, und über dieses Wort lohnt es sich an der Botschaft kurz nachzudenken. Lange vorher stand auf diesem Grund die Kaserne Újépület. In ihrem Hof starb 1849 der Ministerpräsident Lajos Batthyány. Die Kaserne ist längst verschwunden, und auf ihrem Grund liegt heute ein offener Platz mit einem Namen, den man sich merken sollte.",
-        "en" : "He left for Vienna at last in 1971. The square's name means liberty, a word worth turning over as you pass the embassy doors. Long before, the Újépület barracks stood on this ground. In its courtyard the prime minister Lajos Batthyány died in 1849. Look around you: the barracks are long gone, and an open square with a name worth keeping has taken their place."
+        "de" : "Der Volksaufstand von 1956 hatte ihn aus dem Gefängnis befreit. Als die Rote Armee einmarschierte und den Aufstand beendete, floh er am nächsten Tag in die Botschaft. Dort lebte er in einer Wohnung und las jeden Tag an seinem Schreibtisch die Messe. Das Angebot des Papstes, Ungarn zu verlassen, hatte er schon früher abgelehnt. Im Jahr 1971 riet auch der amerikanische Präsident zur Ausreise, und er beugte sich dem Wunsch des Papstes und fuhr nach Wien.",
+        "en" : "The 1956 uprising had freed him from prison. When the Red Army marched in and put the uprising down, he fled into the embassy the next day. He lived in a flat there and said mass at his desk every day. He had earlier refused the Pope's offer to leave Hungary. In 1971, with the American president also urging him to go, he gave way and was driven to Vienna."
       },
       "localizedStory" : {
-        "de" : "Ein Kardinal floh vor dem kommunistischen Regime in die US-Botschaft an diesem Platz. József Mindszenty blieb fünfzehn Jahre darin.",
-        "en" : "A cardinal hid from the communist regime in the US Embassy on this square. József Mindszenty stayed inside for fifteen years."
+        "de" : "Ungarns Kommunisten sperrten Kardinal József Mindszenty ein, weil er sich gegen sie stellte. Wieder frei, blieb er fünfzehn Jahre in der US-Botschaft hier sicher.",
+        "en" : "Hungary's communist rulers jailed Cardinal József Mindszenty for opposing them. Once free, he stayed safe from them in the US Embassy here for fifteen years."
       },
       "name" : "Szabadság tér",
       "pos" : [
         47.503921,
         19.050699
       ],
-      "story" : "A cardinal hid from the communist regime in the US Embassy on this square. József Mindszenty stayed inside for fifteen years."
+      "story" : "Hungary's communist rulers jailed Cardinal József Mindszenty for opposing them. Once free, he stayed safe from them in the US Embassy here for fifteen years."
     },
     {
       "extendedStory" : "Its look is the surprise. In January 1945 the Danube bridges were wrecked. The rest came back in their old shape, but this one was past saving. Engineers started over with a modern cable bridge, on plans from 1960. Before that, a chain suspension span hung here. Its chains have since given way to cables.",
@@ -30250,44 +30249,44 @@
       "story" : "Empress Elisabeth gave this crossing her name. Across Hungary she was known as Sisi, and people said it fondly."
     },
     {
-      "extendedStory" : "Frigyes Feszl drew this hall, and it opened in 1865. It rises 44 metres, so step back across the square to take it all in. The war left it so badly damaged that a patch job would not do. It had to be rebuilt in full, and that is why the work ran on for decades. What you see now is the reward for that long wait.",
+      "extendedStory" : "Liszt and Richard Wagner once gave a concert here together, to raise money for the festival theatre in Bayreuth. Béla Bartók made his debut here in 1905. The hall had opened with a ball, on designs by Frigyes Feszl. Step back across the square and look up: the hall rises 44 metres above you.",
       "icon" : "everyday",
       "id" : "f-pesti-vigado",
       "kind" : "civic",
       "localizedExtendedStory" : {
-        "de" : "Frigyes Feszl hat diesen Saalbau gezeichnet, eröffnet wurde er 1865. Er ragt 44 Meter auf, also tritt ein paar Schritte zurück über den Platz. Der Krieg hatte ihn so schwer getroffen, dass Flicken nicht reichte. Er musste ganz neu erstehen, und darum zog sich die Arbeit über Jahrzehnte. Was du heute vor dir hast, ist der Lohn für dieses lange Warten.",
-        "en" : "Frigyes Feszl drew this hall, and it opened in 1865. It rises 44 metres, so step back across the square to take it all in. The war left it so badly damaged that a patch job would not do. It had to be rebuilt in full, and that is why the work ran on for decades. What you see now is the reward for that long wait."
+        "de" : "Liszt und Richard Wagner gaben hier einmal gemeinsam ein Konzert, um Geld für das Festspielhaus in Bayreuth zu sammeln. Béla Bartók gab hier 1905 sein Debüt. Eröffnet hatte der Saalbau mit einem Ball, nach Plänen von Frigyes Feszl. Tritt ein paar Schritte zurück über den Platz und schau nach oben: Der Saalbau ragt 44 Meter auf.",
+        "en" : "Liszt and Richard Wagner once gave a concert here together, to raise money for the festival theatre in Bayreuth. Béla Bartók made his debut here in 1905. The hall had opened with a ball, on designs by Frigyes Feszl. Step back across the square and look up: the hall rises 44 metres above you."
       },
       "localizedStory" : {
-        "de" : "Nach dem Zweiten Weltkrieg dauerte der Wiederaufbau dieses Saalbaus rund sechsunddreißig Jahre. Schau hoch, was Frigyes Feszl entworfen hat.",
-        "en" : "Putting this hall back together after World War II took about thirty-six years. Look up at what Frigyes Feszl designed and judge the wait."
+        "de" : "Der Zweite Weltkrieg traf diesen Konzertsaal so schwer, dass der Wiederaufbau rund sechsunddreißig Jahre dauerte. Die kommunistische Führung erlaubte ihn erst Jahre später.",
+        "en" : "World War II left this concert hall so badly damaged that rebuilding took some thirty-six years. Hungary's communist rulers waited years before allowing it."
       },
       "name" : "Pesti Vigadó",
       "pos" : [
         47.495874,
         19.049259
       ],
-      "story" : "Putting this hall back together after World War II took about thirty-six years. Look up at what Frigyes Feszl designed and judge the wait."
+      "story" : "World War II left this concert hall so badly damaged that rebuilding took some thirty-six years. Hungary's communist rulers waited years before allowing it."
     },
     {
-      "extendedStory" : "Above the walls stands the Liberty Statue, and she has a tale of her own. An urban legend says she was meant to hold an aeroplane propeller blade, in memory of Regent Horthy's son. By the time she was finished, Horthy was out of power. So she was handed a palm leaf. Thick walls, ditches and drawbridges went up here in 1854, and not one siege ever came.",
+      "extendedStory" : "That is why its massive cannon tower stands at the western end. Yet its walls and drawbridges never faced a siege, and its cannons fired for King Franz Joseph's birthday, never in battle. The Liberty Statue above has a tale too. An urban legend says she was meant to hold a propeller, for Regent Horthy's son, lost in a plane crash. It is said that by the time she was finished Horthy was out of power, so she was handed a palm leaf.",
       "icon" : "choice",
       "id" : "f-citadella",
       "kind" : "fortress",
       "localizedExtendedStory" : {
-        "de" : "Über den Mauern steht die Freiheitsstatue, und auch sie hat ihre Geschichte. Man erzählt, sie hätte anfangs einen Flugzeugpropeller halten sollen, zum Andenken an den Sohn von Reichsverweser Horthy. Als sie fertig war, hatte Horthy die Macht verloren. Also bekam sie ein Palmblatt in die Hand. Dicke Mauern, Gräben und Zugbrücken entstanden hier 1854, doch belagert wurde die Festung nie.",
-        "en" : "Above the walls stands the Liberty Statue, and she has a tale of her own. An urban legend says she was meant to hold an aeroplane propeller blade, in memory of Regent Horthy's son. By the time she was finished, Horthy was out of power. So she was handed a palm leaf. Thick walls, ditches and drawbridges went up here in 1854, and not one siege ever came."
+        "de" : "Darum steht ihr mächtiger Kanonenturm am Westende. Doch ihre Mauern und Zugbrücken erlebten nie eine Belagerung, und ihre Kanonen feuerten zum Geburtstag von König Franz Joseph, nie im Kampf. Auch die Freiheitsstatue darüber hat ihre Geschichte. Man erzählt, sie hätte anfangs einen Flugzeugpropeller halten sollen, zum Andenken an den Sohn von Reichsverweser Horthy, der bei einem Flugzeugabsturz starb. Der Sage nach hatte Horthy die Macht verloren, als sie fertig war, und so bekam sie ein Palmblatt in die Hand.",
+        "en" : "That is why its massive cannon tower stands at the western end. Yet its walls and drawbridges never faced a siege, and its cannons fired for King Franz Joseph's birthday, never in battle. The Liberty Statue above has a tale too. An urban legend says she was meant to hold a propeller, for Regent Horthy's son, lost in a plane crash. It is said that by the time she was finished Horthy was out of power, so she was handed a palm leaf."
       },
       "localizedStory" : {
-        "de" : "Diese Festung sah nie einen Feind. Sie sollte die Leute in Pest einschüchtern, nicht schützen. Ihre Kanonen feuerten nur zum Geburtstag des Kaisers.",
-        "en" : "This fortress never faced an enemy. It was built to overawe the people of Pest, and its cannons fired just once, for the emperor's birthday."
+        "de" : "Der Sage nach sollte sie Pest nach dem Aufstand von 1848 in Schach halten. Historiker sagen, sie schützte den Burgberg vor Feinden aus dem Westen.",
+        "en" : "Legend says it was built to keep Pest in line after the 1848 uprising. Historians say this fortress guarded Buda Castle from the west."
       },
       "name" : "Citadella",
       "pos" : [
         47.487191,
         19.046005
       ],
-      "story" : "This fortress never faced an enemy. It was built to overawe the people of Pest, and its cannons fired just once, for the emperor's birthday."
+      "story" : "Legend says it was built to keep Pest in line after the 1848 uprising. Historians say this fortress guarded Buda Castle from the west."
     },
     {
       "extendedStory" : "That tale was borrowed from an Austrian story and was never true, but the bridge does have a sibling in England. Its engineer, William Tierney Clark, also built the bridge over the Thames at Marlow. That one still stands more or less as he left it. The two share several features in their build and their looks. Work began in 1840, and the bridge carries the name of István Széchenyi.",
@@ -30330,7 +30329,7 @@
       "story" : "Legend says the palace grounds were once King Matthias's game park, kept green for his hunting."
     }
   ],
-  "generatedAt" : "2026-09-25T19:22:03Z",
+  "generatedAt" : "2026-09-30T19:35:14Z",
   "icon" : {
     "paths" : [
       "M8.00,62.00 L92.00,62.00 L92.00,70.00 L8.00,70.00 Z M18.00,12.00 L34.00,12.00 L34.00,82.00 L18.00,82.00 Z M17.00,12 L26.00,4 L35.00,12 Z M22.00,22.00 L22.00,40.00 L30.00,40.00 L30.00,22.00 Z M22.00,48.00 L22.00,60.00 L30.00,60.00 L30.00,48.00 Z M66.00,12.00 L82.00,12.00 L82.00,82.00 L66.00,82.00 Z M65.00,12 L74.00,4 L83.00,12 Z M70.00,22.00 L70.00,40.00 L78.00,40.00 L78.00,22.00 Z M70.00,48.00 L70.00,60.00 L78.00,60.00 L78.00,48.00 Z M23.59,6.67 L24.76,10.88 L26.01,14.88 L27.33,18.60 L28.71,22.07 L30.16,25.27 L31.66,28.22 L33.22,30.90 L34.84,33.33 L36.52,35.50 L38.26,37.41 L40.06,39.06 L41.93,40.44 L43.87,41.54 L45.87,42.34 L47.92,42.83 L50.00,43.00 L52.08,42.83 L54.13,42.34 L56.13,41.54 L58.07,40.44 L59.94,39.06 L61.74,37.41 L63.48,35.50 L65.16,33.33 L66.78,30.90 L68.34,28.22 L69.84,25.27 L71.29,22.07 L72.67,18.60 L73.99,14.88 L75.24,10.88 L76.41,6.67 L71.59,5.33 L70.44,9.47 L69.24,13.30 L67.99,16.85 L66.68,20.12 L65.33,23.11 L63.95,25.83 L62.53,28.26 L61.09,30.42 L59.64,32.29 L58.19,33.89 L56.75,35.20 L55.34,36.25 L53.95,37.04 L52.60,37.58 L51.29,37.90 L50.00,38.00 L48.71,37.90 L47.40,37.58 L46.05,37.04 L44.66,36.25 L43.25,35.20 L41.81,33.89 L40.36,32.29 L38.91,30.42 L37.47,28.26 L36.05,25.83 L34.67,23.11 L33.32,20.12 L32.01,16.85 L30.76,13.30 L29.56,9.47 L28.41,5.33 Z M28.50,17.72 L31.50,17.72 L31.50,62.00 L28.50,62.00 Z M38.50,35.65 L41.50,35.65 L41.50,62.00 L38.50,62.00 Z M48.50,40.50 L51.50,40.50 L51.50,62.00 L48.50,62.00 Z M58.50,35.65 L61.50,35.65 L61.50,62.00 L58.50,62.00 Z M68.50,17.72 L71.50,17.72 L71.50,62.00 L68.50,62.00 Z "
@@ -30343,7 +30342,7 @@
     "en" : "Budapest"
   },
   "name" : "Budapest",
-  "packVersion" : 18,
+  "packVersion" : 21,
   "schemaVersion" : 1,
   "source" : "OpenStreetMap via Overpass API",
   "stats" : {
