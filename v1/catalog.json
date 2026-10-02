@@ -1353,7 +1353,7 @@
         "it" : "Bologna"
       },
       "name" : "Bologna",
-      "packVersion" : 36,
+      "packVersion" : 38,
       "stats" : {
         "estHours" : 11,
         "nodeCount" : 1814,
@@ -3114,7 +3114,7 @@
         "en" : "Edinburgh"
       },
       "name" : "Edinburgh",
-      "packVersion" : 28,
+      "packVersion" : 32,
       "stats" : {
         "estHours" : 9,
         "nodeCount" : 1694,
@@ -3700,7 +3700,7 @@
         "en" : "Ghent"
       },
       "name" : "Ghent",
-      "packVersion" : 16,
+      "packVersion" : 20,
       "stats" : {
         "estHours" : 9.7,
         "nodeCount" : 1752,
@@ -4040,7 +4040,7 @@
         "en" : "Heidelberg"
       },
       "name" : "Heidelberg",
-      "packVersion" : 17,
+      "packVersion" : 20,
       "stats" : {
         "estHours" : 6.4,
         "nodeCount" : 1119,
@@ -4198,7 +4198,7 @@
         "en" : "Kraków"
       },
       "name" : "Kraków",
-      "packVersion" : 16,
+      "packVersion" : 19,
       "stats" : {
         "estHours" : 5.2,
         "nodeCount" : 905,
@@ -4671,7 +4671,7 @@
         "nl" : "Leuven"
       },
       "name" : "Leuven",
-      "packVersion" : 16,
+      "packVersion" : 19,
       "stats" : {
         "estHours" : 6.6,
         "nodeCount" : 1189,
@@ -6346,6 +6346,11 @@
       ],
       "cityId" : "passau",
       "country" : "DE",
+      "familyStops" : [
+        "Dom St. Stephan",
+        "Dreiflüsseeck",
+        "Prinzregent-Luitpold-Brücke"
+      ],
       "hasPage" : true,
       "iapProductId" : "cobblegobble.city.passau",
       "icon" : {
@@ -6359,7 +6364,7 @@
         "en" : "Passau"
       },
       "name" : "Passau",
-      "packVersion" : 53,
+      "packVersion" : 60,
       "stats" : {
         "estHours" : 5.3,
         "nodeCount" : 913,
@@ -7211,6 +7216,12 @@
       ],
       "cityId" : "regensburg",
       "country" : "DE",
+      "familyStops" : [
+        "Steinerne Brücke",
+        "Dom Sankt Peter",
+        "Jesuitenplatz",
+        "Altes Rathaus"
+      ],
       "hasPage" : true,
       "iapProductId" : "cobblegobble.city.regensburg",
       "icon" : {
@@ -9076,7 +9087,7 @@
         "en" : "Toledo"
       },
       "name" : "Toledo",
-      "packVersion" : 14,
+      "packVersion" : 18,
       "stats" : {
         "estHours" : 11.5,
         "nodeCount" : 2111,
@@ -10164,7 +10175,7 @@
         "en" : "Wasserburg am Inn"
       },
       "name" : "Wasserburg am Inn",
-      "packVersion" : 10,
+      "packVersion" : 13,
       "stats" : {
         "estHours" : 4.2,
         "nodeCount" : 704,

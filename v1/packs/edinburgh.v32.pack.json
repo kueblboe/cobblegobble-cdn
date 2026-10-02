@@ -249,7 +249,7 @@
     "adjustedStreets" : [
 
     ],
-    "fromVersion" : 27,
+    "fromVersion" : 31,
     "removedStreets" : [
 
     ]
@@ -23477,33 +23477,33 @@
   ],
   "fruits" : [
     {
-      "extendedStory" : "He had just begun reading from a new English-style prayer book. She shouted: \"Dinna say Mass in my lug!\" That means: don't say Mass in my ear. The cathedral itself says nobody can prove it happened. Still, in 1992 a group of Scotswomen gave the church a bronze of her stool. Before you leave, find the Thistle Chapel, where carved angels play the bagpipes.",
+      "extendedStory" : "King Charles had that book drawn up, to bring English-style services to Scotland. But Scotland's church was far more Puritan, strict and plain. She is said to have shouted: \"Dinna say Mass in my lug!\" That means: don't say Mass in my ear. The cathedral itself says there is no firm evidence it happened. Still, in 1992 some forty Scotswomen gave the church a bronze of her stool.",
       "icon" : "hero",
       "id" : "f-st-giles-cathedral",
       "kind" : "church",
       "localizedExtendedStory" : {
-        "de" : "Der Dekan hatte gerade begonnen, aus einem neuen Gebetbuch nach englischer Art zu lesen. Da rief sie: „Dinna say Mass in my lug!“ Auf Deutsch: Lies mir keine Messe ins Ohr. Die Kathedrale selbst sagt, dass niemand beweisen kann, ob es so geschah. Trotzdem schenkte eine Gruppe Schottinnen der Kirche 1992 einen Hocker aus Bronze. Such vor dem Gehen die Thistle Chapel, wo geschnitzte Engel Dudelsack spielen.",
-        "en" : "He had just begun reading from a new English-style prayer book. She shouted: \"Dinna say Mass in my lug!\" That means: don't say Mass in my ear. The cathedral itself says nobody can prove it happened. Still, in 1992 a group of Scotswomen gave the church a bronze of her stool. Before you leave, find the Thistle Chapel, where carved angels play the bagpipes."
+        "de" : "König Karl hatte das Buch verfassen lassen, um Gottesdienste nach englischer Art nach Schottland zu bringen. Doch die schottische Kirche war viel puritanischer, streng und schlicht. Sie soll gerufen haben: „Dinna say Mass in my lug!“ Auf Deutsch: Lies mir keine Messe ins Ohr. Die Kathedrale selbst sagt, es gebe keinen festen Beleg dafür. Trotzdem schenkten ihr rund vierzig Schottinnen 1992 einen Hocker aus Bronze.",
+        "en" : "King Charles had that book drawn up, to bring English-style services to Scotland. But Scotland's church was far more Puritan, strict and plain. She is said to have shouted: \"Dinna say Mass in my lug!\" That means: don't say Mass in my ear. The cathedral itself says there is no firm evidence it happened. Still, in 1992 some forty Scotswomen gave the church a bronze of her stool."
       },
       "localizedStory" : {
-        "de" : "Der Sage nach warf hier eine Frau namens Jenny Geddes ihren Hocker nach dem Dekan. Heute erinnert ein Hocker aus Bronze an sie.",
-        "en" : "Legend has it a woman named Jenny Geddes threw her stool at the dean in here. Look for the bronze stool that remembers her."
+        "de" : "Der Sage nach warf hier Jenny Geddes ihren Hocker nach dem Dekan, weil er aus einem neuen Gebetbuch nach englischer Art las.",
+        "en" : "Legend has it Jenny Geddes threw her stool at the dean here. It is said he had begun reading a new English-style prayer book."
       },
       "name" : "St Giles' Cathedral",
       "pos" : [
         55.949466,
         -3.191365
       ],
-      "story" : "Legend has it a woman named Jenny Geddes threw her stool at the dean in here. Look for the bronze stool that remembers her."
+      "story" : "Legend has it Jenny Geddes threw her stool at the dean here. It is said he had begun reading a new English-style prayer book."
     },
     {
-      "extendedStory" : "This rock formed slowly, grain by grain, over an unimaginably long time. That is why Gordon Benson could call these walls an exhibit themselves. He and his partner Forsyth designed the whole building, and it opened its doors in 1998. So the house is young, but what it is built from is ancient. Greyfriars Kirk stands just a short walk away.",
+      "extendedStory" : "This rock formed slowly, grain by grain, over an unimaginably long time. Its golden stone came from Moray, in the north of Scotland. The architects Benson and Forsyth designed it, and it dates from 1998. So the house is young, but the stone it wears is ancient. Run your hand along it as you go.",
       "icon" : "choice",
       "id" : "f-national-museum-of-scotland",
       "kind" : "museum",
       "localizedExtendedStory" : {
-        "de" : "Sandstein entsteht langsam, Korn für Korn, über unvorstellbar lange Zeit. Darum konnte Gordon Benson die Mauern ein Ausstellungsstück nennen. Er und sein Partner Forsyth entwarfen das ganze Haus, und 1998 öffnete es seine Türen. Das Haus ist also jung, doch sein Baustoff ist uralt. Die Greyfriars Kirk liegt nur ein kurzes Stück entfernt.",
-        "en" : "This rock formed slowly, grain by grain, over an unimaginably long time. That is why Gordon Benson could call these walls an exhibit themselves. He and his partner Forsyth designed the whole building, and it opened its doors in 1998. So the house is young, but what it is built from is ancient. Greyfriars Kirk stands just a short walk away."
+        "de" : "Sandstein entsteht langsam, Korn für Korn, über unvorstellbar lange Zeit. Dieser goldene Stein kam aus Moray im Norden Schottlands. Die Architekten Benson und Forsyth entwarfen es, und es stammt von 1998. Das Haus ist also jung, doch der Stein, den es trägt, ist uralt. Fahr mit der Hand darüber, wenn du vorbeigehst.",
+        "en" : "This rock formed slowly, grain by grain, over an unimaginably long time. Its golden stone came from Moray, in the north of Scotland. The architects Benson and Forsyth designed it, and it dates from 1998. So the house is young, but the stone it wears is ancient. Run your hand along it as you go."
       },
       "localizedStory" : {
         "de" : "Fass die goldenen Mauern an. Der Architekt Gordon Benson sagte, dieser Sandstein aus Moray sei selbst ein Ausstellungsstück, älter als alles drinnen.",
@@ -23517,73 +23517,73 @@
       "story" : "Touch the golden walls. Architect Gordon Benson said this stone from Moray is an exhibit too, and older than anything on show inside."
     },
     {
-      "extendedStory" : "People say he was keeping watch by his master's grave. Each day he trotted to a coffee house nearby for his dinner, then came back. When he was found without a dog licence, the Lord Provost, Edinburgh's mayor, paid for his collar to keep him safe. The kirk itself hides a surprise. For a long time a wall split it into two churches, Old and New Greyfriars.",
+      "extendedStory" : "His dinner, so the story goes, came from a coffee house nearby. In 1867 the Lord Provost, Edinburgh's mayor, paid for his dog licence and gave him a collar. That collar is now in the Museum of Edinburgh. The kirk itself hides a surprise. For a long time a wall split it into two churches, Old and New Greyfriars. The wall came down when the two became one congregation.",
       "icon" : "choice",
       "id" : "f-greyfriars-kirk",
       "kind" : "church",
       "localizedExtendedStory" : {
-        "de" : "Man sagt, er wachte am Grab seines Herrchens. Jeden Tag lief er zum Essen in ein Kaffeehaus in der Nähe und kam dann zurück. Als man ihn ohne Hundemarke fand, bezahlte der Lord Provost, Edinburghs Bürgermeister, sein Halsband, damit ihm nichts geschah. Auch die Kirche selbst birgt eine Überraschung. Lange teilte eine Mauer sie in zwei Kirchen, Old und New Greyfriars.",
-        "en" : "People say he was keeping watch by his master's grave. Each day he trotted to a coffee house nearby for his dinner, then came back. When he was found without a dog licence, the Lord Provost, Edinburgh's mayor, paid for his collar to keep him safe. The kirk itself hides a surprise. For a long time a wall split it into two churches, Old and New Greyfriars."
+        "de" : "Sein Essen, so erzählt man, bekam er in einem Kaffeehaus in der Nähe. 1867 bezahlte der Lord Provost, Edinburghs Bürgermeister, seine Hundelizenz und schenkte ihm ein Halsband. Das Halsband liegt heute im Museum of Edinburgh. Auch die Kirche selbst birgt eine Überraschung. Lange teilte eine Mauer sie in zwei Kirchen, Old und New Greyfriars. Die Mauer fiel, als beide eine Gemeinde wurden.",
+        "en" : "His dinner, so the story goes, came from a coffee house nearby. In 1867 the Lord Provost, Edinburgh's mayor, paid for his dog licence and gave him a collar. That collar is now in the Museum of Edinburgh. The kirk itself hides a surprise. For a long time a wall split it into two churches, Old and New Greyfriars. The wall came down when the two became one congregation."
       },
       "localizedStory" : {
-        "de" : "Der Sage nach hielt ein kleiner Terrier namens Bobby 14 Jahre lang Wache auf diesem Kirchhof. Nur zum Essen lief er täglich kurz weg.",
-        "en" : "The story goes that a terrier called Bobby kept watch in this kirkyard for 14 years, slipping out each day for dinner."
+        "de" : "Der Sage nach wachte ein Terrier namens Bobby 14 Jahre lang am Grab seines Herrchens hier. Nur zum Essen lief er täglich weg.",
+        "en" : "The story goes that a terrier called Bobby guarded his master's grave here for 14 years. It is said he left just for dinner."
       },
       "name" : "Greyfriars Kirk",
       "pos" : [
         55.946682,
         -3.191734
       ],
-      "story" : "The story goes that a terrier called Bobby kept watch in this kirkyard for 14 years, slipping out each day for dinner."
+      "story" : "The story goes that a terrier called Bobby guarded his master's grave here for 14 years. It is said he left just for dinner."
     },
     {
-      "extendedStory" : "Walk round to its south side and study that stone closely. You will spot patches in slightly different shades. Each patch is a cleaning test, done its own way, and left there to compare. In the end the monument kept its dark coat, just as you see it from Princes Street. It went up between 1840 and 1844, and it has towered over Princes Street ever since.",
+      "extendedStory" : "Walk round to its south side and study that stone closely. You will spot test patches, each one cleaned by a different method, and they can still be seen. In the end the monument kept its dark coat, just as you see it from Princes Street. It went up between 1840 and 1844. The station nearby, Waverley, takes its name from his novels.",
       "icon" : "choice",
       "id" : "f-scott-monument",
       "kind" : "gate_tower",
       "localizedExtendedStory" : {
-        "de" : "Geh auf die Südseite und schau dir den Stein genau an. Du entdeckst Flecken in leicht verschiedenen Farbtönen. Jeder ist ein Reinigungsversuch, jeder auf eine andere Art, und sie blieben zum Vergleich stehen. Am Ende behielt das Denkmal seinen dunklen Mantel, so wie du es von der Princes Street aus siehst. Es entstand zwischen 1840 und 1844 und überragt die Straße seitdem.",
-        "en" : "Walk round to its south side and study that stone closely. You will spot patches in slightly different shades. Each patch is a cleaning test, done its own way, and left there to compare. In the end the monument kept its dark coat, just as you see it from Princes Street. It went up between 1840 and 1844, and it has towered over Princes Street ever since."
+        "de" : "Geh auf die Südseite und schau dir den Stein genau an. Du entdeckst Probeflächen, jede auf eine andere Art gereinigt, und sie sind bis heute zu sehen. Am Ende behielt das Denkmal seinen dunklen Mantel, so wie du es von der Princes Street aus siehst. Es entstand zwischen 1840 und 1844. Der Bahnhof Waverley gleich nebenan trägt den Namen von Scotts Waverley-Romanen.",
+        "en" : "Walk round to its south side and study that stone closely. You will spot test patches, each one cleaned by a different method, and they can still be seen. In the end the monument kept its dark coat, just as you see it from Princes Street. It went up between 1840 and 1844. The station nearby, Waverley, takes its name from his novels."
       },
       "localizedStory" : {
-        "de" : "Sein Spitzname ist die Gotische Rakete. Stell dich an die Princes Street, schau am dunklen Turm hinauf, und er scheint gleich abzuheben.",
-        "en" : "Its nickname is the Gothic Rocket. Stand on Princes Street, look up that dark tower, and it seems ready for take-off."
+        "de" : "Sein Spitzname ist die Gotische Rakete, und es ehrt den Schriftsteller Walter Scott. Schau am Turm hinauf, und er scheint gleich abzuheben.",
+        "en" : "Its nickname is the Gothic Rocket, and it honours the writer Walter Scott. Look up that dark tower and it seems ready for take-off."
       },
       "name" : "Scott Monument",
       "pos" : [
         55.952454,
         -3.193342
       ],
-      "story" : "Its nickname is the Gothic Rocket. Stand on Princes Street, look up that dark tower, and it seems ready for take-off."
+      "story" : "Its nickname is the Gothic Rocket, and it honours the writer Walter Scott. Look up that dark tower and it seems ready for take-off."
     },
     {
-      "extendedStory" : "She came to Edinburgh from islands far away in the West Indies, and Thomas Short had died almost 40 years before. She opened a popular observatory, and in 1853 moved her business up to the Royal Mile. Up at its top waits a dark room. A beam of daylight throws a live, moving picture of streets outside onto a large table. Later, Patrick Geddes renamed it the Outlook Tower.",
+      "extendedStory" : "She put her telescope on Calton Hill, in a popular observatory everyone could visit. Council pressure closed it in the end. In 1853 she moved her business up to Edinburgh's Royal Mile. There she added two floors to an old tenement. Up top, in a darkened room, daylight paints live, moving streets onto a large table. Later, Patrick Geddes renamed it Outlook Tower.",
       "icon" : "everyday",
       "id" : "f-camera-obscura-world-of-illusions",
       "kind" : "attraction",
       "localizedExtendedStory" : {
-        "de" : "Sie kam aus Westindien nach Edinburgh, und Thomas Short war damals schon fast 40 Jahre gestorben. Sie eröffnete eine beliebte Sternwarte und zog 1853 mit ihrem Geschäft hinauf an die Royal Mile. Oben im Haus wartet ein dunkler Raum. Ein Strahl Tageslicht wirft ein lebendes, bewegtes Bild der Straßen draußen auf einen großen Tisch. Später gab Patrick Geddes dem Turm den Namen Outlook Tower.",
-        "en" : "She came to Edinburgh from islands far away in the West Indies, and Thomas Short had died almost 40 years before. She opened a popular observatory, and in 1853 moved her business up to the Royal Mile. Up at its top waits a dark room. A beam of daylight throws a live, moving picture of streets outside onto a large table. Later, Patrick Geddes renamed it the Outlook Tower."
+        "de" : "Sie stellte das Teleskop auf dem Calton Hill auf, in einer Volkssternwarte für alle. Auf Druck des Stadtrats musste sie schließen. 1853 zog sie hinauf an die Royal Mile und setzte einem alten Mietshaus zwei Stockwerke auf. Oben im Haus wartet ein dunkler Raum. Ein Strahl Tageslicht wirft ein lebendes, bewegtes Bild der Straßen draußen auf einen großen Tisch. Später gab Patrick Geddes dem Turm den Namen Outlook Tower.",
+        "en" : "She put her telescope on Calton Hill, in a popular observatory everyone could visit. Council pressure closed it in the end. In 1853 she moved her business up to Edinburgh's Royal Mile. There she added two floors to an old tenement. Up top, in a darkened room, daylight paints live, moving streets onto a large table. Later, Patrick Geddes renamed it Outlook Tower."
       },
       "localizedStory" : {
-        "de" : "Niemand weiß, ob Maria Short wirklich die Tochter von Thomas Short war. Bewiesen hat sie es nie, doch so gehörte ihr sein großes Teleskop.",
-        "en" : "Nobody knows if Maria Short really was the daughter of Thomas Short. Her claim was never proven, but it made his Great Telescope hers."
+        "de" : "Niemand weiß, ob Maria Short wirklich die Tochter des Instrumentenbauers Thomas Short war. Ihr unbewiesener Anspruch brachte ihr sein großes Teleskop.",
+        "en" : "Nobody knows if Maria Short was truly the daughter of instrument maker Thomas Short. Her unproven claim won her his Great Telescope."
       },
       "name" : "Camera Obscura & World of Illusions",
       "pos" : [
         55.949029,
         -3.195604
       ],
-      "story" : "Nobody knows if Maria Short really was the daughter of Thomas Short. Her claim was never proven, but it made his Great Telescope hers."
+      "story" : "Nobody knows if Maria Short was truly the daughter of instrument maker Thomas Short. Her unproven claim won her his Great Telescope."
     },
     {
-      "extendedStory" : "In Latin the inscription means: but I am a stranger on the earth. Sir Thomas Hope's house once stood on this very spot. Two of its carved doorways, made in the 17th century, live on inside the library. Around them rises the work of the architect George Washington Browne. His library opened in 1890, so the old doors are far older than the building that holds them.",
+      "extendedStory" : "In Latin the inscription means: but I am a stranger on the earth. Two doorways from Sir Thomas Hope's house, made in the 17th century, live on inside the library. Around them rises the work of the architect George Washington Browne. His library dates from 1890, so the old doors are far older than the building that holds them.",
       "icon" : "everyday",
       "id" : "f-central-library",
       "kind" : "civic",
       "localizedExtendedStory" : {
-        "de" : "Auf Latein bedeutet die Inschrift: Doch ich bin ein Fremder auf der Erde. Das Haus von Sir Thomas Hope stand einst genau an dieser Stelle. Zwei seiner geschnitzten Türrahmen aus dem 17. Jahrhundert leben in der Bibliothek weiter. Um sie herum steht das Werk des Architekten George Washington Browne. Seine Bibliothek öffnete 1890, die alten Türen sind also viel älter als das Haus, das sie trägt.",
-        "en" : "In Latin the inscription means: but I am a stranger on the earth. Sir Thomas Hope's house once stood on this very spot. Two of its carved doorways, made in the 17th century, live on inside the library. Around them rises the work of the architect George Washington Browne. His library opened in 1890, so the old doors are far older than the building that holds them."
+        "de" : "Auf Latein bedeutet die Inschrift: Doch ich bin ein Fremder auf der Erde. Zwei Türrahmen aus dem Haus von Sir Thomas Hope, entstanden im 17. Jahrhundert, leben in der Bibliothek weiter. Um sie herum steht das Werk des Architekten George Washington Browne. Seine Bibliothek stammt von 1890, die alten Türen sind also viel älter als das Haus, das sie trägt.",
+        "en" : "In Latin the inscription means: but I am a stranger on the earth. Two doorways from Sir Thomas Hope's house, made in the 17th century, live on inside the library. Around them rises the work of the architect George Washington Browne. His library dates from 1890, so the old doors are far older than the building that holds them."
       },
       "localizedStory" : {
         "de" : "Such die alte Tür mit der Inschrift AT HOSPES HVMO. Die Buchstaben verstecken den Namen Thomas Hope. Sein Haus stand einst hier.",
@@ -23597,13 +23597,13 @@
       "story" : "Hunt for an old doorway carved AT HOSPES HVMO. The letters are a puzzle hiding the name Thomas Hope, whose house once stood here."
     },
     {
-      "extendedStory" : "A wooden pulpit once hung there, so he seemed to preach to the street below. Down at ground level, look for the stone stalls that once opened onto the High Street. They are the only surviving medieval shops in Scotland. Medieval means from the Middle Ages. Tradition says Knox himself lived here near the end of his life. The goldsmith James Mossman certainly did, with his wife Mariotta Arries.",
+      "extendedStory" : "A wooden pulpit once hung there, so he seemed to preach to the street below. Down at ground level, look for the stone stalls that once opened onto the High Street. They are the only surviving medieval shops in Scotland. Medieval means from the Middle Ages. Tradition says Knox himself lived here near the end of his life. The goldsmith James Mossman did live here, with his wife Mariotta Arries.",
       "icon" : "everyday",
       "id" : "f-john-knox-house",
       "kind" : "attraction",
       "localizedExtendedStory" : {
-        "de" : "Einst hing dort eine Kanzel aus Holz, so schien er zur Straße hinunterzupredigen. Unten am Boden findest du steinerne Verkaufsstände, die sich früher zur High Street öffneten. Es sind die einzigen erhaltenen Läden aus dem Mittelalter in ganz Schottland. Der Überlieferung nach lebte Knox selbst hier gegen Ende seines Lebens. Der Goldschmied James Mossman wohnte ganz sicher hier, mit seiner Frau Mariotta Arries.",
-        "en" : "A wooden pulpit once hung there, so he seemed to preach to the street below. Down at ground level, look for the stone stalls that once opened onto the High Street. They are the only surviving medieval shops in Scotland. Medieval means from the Middle Ages. Tradition says Knox himself lived here near the end of his life. The goldsmith James Mossman certainly did, with his wife Mariotta Arries."
+        "de" : "Einst hing dort eine Kanzel aus Holz, so schien er zur Straße hinunterzupredigen. Unten am Boden findest du steinerne Verkaufsstände, die sich früher zur High Street öffneten. Es sind die einzigen erhaltenen Läden aus dem Mittelalter in ganz Schottland. Der Überlieferung nach lebte Knox selbst hier gegen Ende seines Lebens. Der Goldschmied James Mossman wohnte tatsächlich hier, mit seiner Frau Mariotta Arries.",
+        "en" : "A wooden pulpit once hung there, so he seemed to preach to the street below. Down at ground level, look for the stone stalls that once opened onto the High Street. They are the only surviving medieval shops in Scotland. Medieval means from the Middle Ages. Tradition says Knox himself lived here near the end of his life. The goldsmith James Mossman did live here, with his wife Mariotta Arries."
       },
       "localizedStory" : {
         "de" : "Schau hinauf zur Sonnenuhr an der Ecke. Man sagt, die Figur dort sei John Knox beim Predigen. Doch sie zeigt Mose.",
@@ -23617,87 +23617,87 @@
       "story" : "Look up at the corner sundial. People say the carved figure there is John Knox preaching, but it really shows Moses."
     },
     {
-      "extendedStory" : "The tale of King David waits inside: a white stag bearing a holy rood between its horns, and an abbey he founded. Rood is an old word for a crucifix. Find it on a cloth before the communion table and in Stanley Cursiter's painting. This is also a soldiers' church, serving Edinburgh Castle. Its parish even takes in Holyroodhouse and Scotland's Parliament.",
+      "extendedStory" : "Horns with a holy rood between them are this kirk's emblem, from its own legend. Rood is an old word for a crucifix. King David knelt before a white stag carrying a rood between its horns. Inside, find that tale stitched on a cloth before a communion table, and painted by Stanley Cursiter. It also tells how David founded an abbey. This is a military church too, Edinburgh Castle's own. Its parish even reaches Scotland's Parliament.",
       "icon" : "everyday",
       "id" : "f-canongate-kirk",
       "kind" : "church",
       "localizedExtendedStory" : {
-        "de" : "Drinnen wartet die Sage von König David: ein weißer Hirsch mit einem Kruzifix in seinem Hirschgeweih, und eine Abtei, die David gründete. Du findest sie auf dem Tuch vor dem Abendmahlstisch und auf einem Gemälde von Stanley Cursiter. Dies ist auch eine Soldatenkirche, die Kirche des Edinburgh Castle. Zu ihrer Gemeinde gehören sogar Holyroodhouse und das schottische Parlament.",
-        "en" : "The tale of King David waits inside: a white stag bearing a holy rood between its horns, and an abbey he founded. Rood is an old word for a crucifix. Find it on a cloth before the communion table and in Stanley Cursiter's painting. This is also a soldiers' church, serving Edinburgh Castle. Its parish even takes in Holyroodhouse and Scotland's Parliament."
+        "de" : "Ein Hirschgeweih mit einem Kruzifix darin ist das Sinnbild dieser Kirche, aus ihrer eigenen Sage. König David kniete vor einem weißen Hirsch, der ein Kruzifix im Hirschgeweih trug. Drinnen findest du die Sage auf dem Tuch vor dem Abendmahlstisch und auf einem Gemälde von Stanley Cursiter. Sie erzählt auch von der Abtei, die David gründete. Dies ist außerdem eine Soldatenkirche, die Kirche des Edinburgh Castle. Zu ihrer Gemeinde gehört sogar das schottische Parlament.",
+        "en" : "Horns with a holy rood between them are this kirk's emblem, from its own legend. Rood is an old word for a crucifix. King David knelt before a white stag carrying a rood between its horns. Inside, find that tale stitched on a cloth before a communion table, and painted by Stanley Cursiter. It also tells how David founded an abbey. This is a military church too, Edinburgh Castle's own. Its parish even reaches Scotland's Parliament."
       },
       "localizedStory" : {
-        "de" : "Schau hinauf zum Dach. Das Hirschgeweih dort oben ist echt. Es stammt von einem Hirsch König Georgs VI.",
-        "en" : "Look up at the roof. Those horns up there are real, and they came from a stag of King George VI."
+        "de" : "Schau hinauf: Das echte Hirschgeweih stammt von einem Hirsch König Georgs VI., denn dies ist die Kirche der Königsfamilie in Edinburgh.",
+        "en" : "Look up: those real horns came from a stag of King George VI, for this is the royal family's kirk in Edinburgh."
       },
       "name" : "Canongate Kirk",
       "pos" : [
         55.95167,
         -3.179525
       ],
-      "story" : "Look up at the roof. Those horns up there are real, and they came from a stag of King George VI."
+      "story" : "Look up: those real horns came from a stag of King George VI, for this is the royal family's kirk in Edinburgh."
     },
     {
-      "extendedStory" : "Robert Mylne designed it for a club called Edinburgh Musical Society. Its members were amateur players who had been meeting in hired rooms. Now they owned a hall, named after Saint Cecilia, patron saint of music. It opened in 1763. Much later, in 1959, Edinburgh's university bought it, and today it is a music museum.",
+      "extendedStory" : "Robert Mylne designed it for a club called Edinburgh Musical Society. Its members were amateur players who had been meeting in hired rooms. Now they had a hall built for them, named after Saint Cecilia, patron saint of music. It dates from 1763. Much later, in 1959, Edinburgh's university bought it, and today it is a music museum.",
       "icon" : "everyday",
       "id" : "f-st-cecilia-s-hall",
       "kind" : "museum",
       "localizedExtendedStory" : {
-        "de" : "Robert Mylne entwarf ihn für die Edinburgh Musical Society. Ihre Mitglieder waren Laienmusiker, die sich bis dahin in gemieteten Räumen trafen. Nun hatten sie einen eigenen Saal, benannt nach der heiligen Cäcilia, der Schutzheiligen der Musik. Eröffnet wurde er 1763. Viel später, 1959, kaufte die University of Edinburgh das Haus, und heute ist es ein Musikmuseum.",
-        "en" : "Robert Mylne designed it for a club called Edinburgh Musical Society. Its members were amateur players who had been meeting in hired rooms. Now they owned a hall, named after Saint Cecilia, patron saint of music. It opened in 1763. Much later, in 1959, Edinburgh's university bought it, and today it is a music museum."
+        "de" : "Robert Mylne entwarf ihn für die Edinburgh Musical Society. Ihre Mitglieder waren Laienmusiker, die sich bis dahin in gemieteten Räumen trafen. Nun hatten sie einen eigenen Saal, benannt nach der heiligen Cäcilia, der Schutzheiligen der Musik. Er stammt von 1763. Viel später, 1959, kaufte die University of Edinburgh das Haus, und heute ist es ein Musikmuseum.",
+        "en" : "Robert Mylne designed it for a club called Edinburgh Musical Society. Its members were amateur players who had been meeting in hired rooms. Now they had a hall built for them, named after Saint Cecilia, patron saint of music. It dates from 1763. Much later, in 1959, Edinburgh's university bought it, and today it is a music museum."
       },
       "localizedStory" : {
-        "de" : "Schottlands ältester eigens gebauter Konzertsaal hatte einst gar keine Fenster. Das Licht fiel durch eine ovale Kuppel von oben auf die Musik.",
-        "en" : "Scotland's oldest purpose-built concert hall once had no windows at all. Its light fell from an oval dome, straight down onto the music."
+        "de" : "Schottlands ältester eigens gebauter Konzertsaal bekam einen Musikraum ohne Fenster. Das Licht fiel durch eine ovale Kuppel von oben auf die Musik.",
+        "en" : "Scotland's oldest purpose-built concert hall was built with a windowless music room. Light fell from an oval dome, straight onto the music."
       },
       "name" : "St Cecilia's Hall",
       "pos" : [
         55.949016,
         -3.186261
       ],
-      "story" : "Scotland's oldest purpose-built concert hall once had no windows at all. Its light fell from an oval dome, straight down onto the music."
+      "story" : "Scotland's oldest purpose-built concert hall was built with a windowless music room. Light fell from an oval dome, straight onto the music."
     },
     {
-      "extendedStory" : "George Boyd, a clothier, laid his stones so he could visit Edinburgh's New Town. Others added rock and plank, and his path grew into this hill. Brig is Scots for bridge. On top, William Henry Playfair built a gallery with two lives. Look for its twin porticoes, north and south. Once, Royal Scottish Academy pictures hung in its east half, while a national collection filled its west.",
+      "extendedStory" : "So the tale goes, George Boyd, a clothier, laid his stones to visit Edinburgh's New Town. It is said others added rock and plank, and his path grew into this hill. Brig is Scots for bridge. On top, William Henry Playfair built a gallery with two lives. Look for its twin porticoes, north and south. Once, Royal Scottish Academy pictures hung in its east half, while a national collection filled its west. In 1912 the Academy moved out to a building to the north.",
       "icon" : "choice",
       "id" : "f-national-gallery",
       "kind" : "museum",
       "localizedExtendedStory" : {
-        "de" : "George Boyd, ein Tuchhändler, legte seine Steine, um die New Town zu besuchen. Andere brachten Steine und Bretter dazu, und aus dem Pfad wurde dieser Hügel. Brig ist das schottische Wort für Brücke. Obenauf baute William Henry Playfair eine Galerie mit zwei Leben. Schau dir die zwei Säulenhallen im Norden und Süden an. In der Osthälfte zeigte die Royal Scottish Academy ihre Bilder, im Westen hing die Sammlung der Nation.",
-        "en" : "George Boyd, a clothier, laid his stones so he could visit Edinburgh's New Town. Others added rock and plank, and his path grew into this hill. Brig is Scots for bridge. On top, William Henry Playfair built a gallery with two lives. Look for its twin porticoes, north and south. Once, Royal Scottish Academy pictures hung in its east half, while a national collection filled its west."
+        "de" : "Man erzählt, George Boyd, ein Tuchhändler, legte seine Steine, um die New Town zu besuchen. Es heißt, andere brachten Steine und Bretter dazu, und aus dem Pfad wurde dieser Hügel. Brig ist das schottische Wort für Brücke. Obenauf baute William Henry Playfair eine Galerie mit zwei Leben. Schau dir die zwei Säulenhallen im Norden und Süden an. In der Osthälfte zeigte die Royal Scottish Academy ihre Bilder, im Westen hing die Sammlung der Nation. 1912 zog die Akademie aus, in ein Haus im Norden.",
+        "en" : "So the tale goes, George Boyd, a clothier, laid his stones to visit Edinburgh's New Town. It is said others added rock and plank, and his path grew into this hill. Brig is Scots for bridge. On top, William Henry Playfair built a gallery with two lives. Look for its twin porticoes, north and south. Once, Royal Scottish Academy pictures hung in its east half, while a national collection filled its west. In 1912 the Academy moved out to a building to the north."
       },
       "localizedStory" : {
         "de" : "Der Sage nach begann der Mound unter dieser Galerie als Trittsteine über einen Sumpf. Man nannte ihn Geordie Boyds Mud Brig, die Schlammbrücke.",
-        "en" : "The story goes that the Mound under this gallery began as stepping stones over a marsh, nicknamed Geordie Boyd's Mud Brig."
+        "en" : "The story goes that the Mound here began as stepping stones over a marsh, a path called Geordie Boyd's Mud Brig."
       },
       "name" : "National Gallery",
       "pos" : [
         55.951205,
         -3.195798
       ],
-      "story" : "The story goes that the Mound under this gallery began as stepping stones over a marsh, nicknamed Geordie Boyd's Mud Brig."
+      "story" : "The story goes that the Mound here began as stepping stones over a marsh, a path called Geordie Boyd's Mud Brig."
     },
     {
-      "extendedStory" : "Behind him runs a long metal frieze. A pipe band leads, and miners, shepherds with a sheep dog, fishermen with nets, clerks and even children follow on. Tait MacKenzie sculpted every figure. Your soldier gazes up towards Edinburgh Castle. It was a gift to Scotland from men and women of Scottish blood living in America.",
+      "extendedStory" : "Behind him runs a long metal frieze. Pipers lead, and miners, shepherds with a sheep dog, fishermen with nets, clerks and even children follow on. Tait MacKenzie was its sculptor. Your soldier looks toward Edinburgh Castle. Its name is The Call 1914. It remembers everyone from Scotland who served in the war that began that year.",
       "icon" : "everyday",
       "id" : "f-scottish-american-war-memorial",
       "kind" : "memorial_art",
       "localizedExtendedStory" : {
-        "de" : "Hinter ihm zieht sich ein langes Relief entlang. Eine Dudelsackkapelle geht voran, und Bergleute, Schäfer mit Hütehund, Fischer mit Netzen, Schreiber und sogar Kinder folgen. Geschaffen hat das alles der Bildhauer Tait MacKenzie. Der Soldat blickt hinauf zum Edinburgh Castle. Das Denkmal ist ein Geschenk an Schottland von Männern und Frauen schottischer Herkunft in den Vereinigten Staaten.",
-        "en" : "Behind him runs a long metal frieze. A pipe band leads, and miners, shepherds with a sheep dog, fishermen with nets, clerks and even children follow on. Tait MacKenzie sculpted every figure. Your soldier gazes up towards Edinburgh Castle. It was a gift to Scotland from men and women of Scottish blood living in America."
+        "de" : "Hinter ihm zieht sich ein langes Relief entlang. Eine Dudelsackkapelle geht voran, und Bergleute, Schäfer mit Hütehund, Fischer mit Netzen, Schreiber und sogar Kinder folgen. Der Bildhauer war Tait MacKenzie. Der Soldat sitzt mit Blick zum Edinburgh Castle. Sein Name ist The Call 1914. Es ehrt die Schotten, die in dem Krieg dienten, der in jenem Jahr begann.",
+        "en" : "Behind him runs a long metal frieze. Pipers lead, and miners, shepherds with a sheep dog, fishermen with nets, clerks and even children follow on. Tait MacKenzie was its sculptor. Your soldier looks toward Edinburgh Castle. Its name is The Call 1914. It remembers everyone from Scotland who served in the war that began that year."
       },
       "localizedStory" : {
-        "de" : "Dieser Soldat im Kilt sieht aus, als wolle er gleich aufstehen. Gegossen wurde er weit weg, in Brooklyn in New York.",
-        "en" : "This kilted soldier looks as if he is about to stand up. He was cast far away, in Brooklyn, New York."
+        "de" : "Dieser Soldat im Kilt sieht aus, als wolle er gleich aufstehen. Schotten in Amerika ließen ihn in Brooklyn gießen, als Geschenk an Schottland.",
+        "en" : "This kilted soldier looks about to stand up. Scottish Americans had him cast in Brooklyn, New York, as their gift to Scotland."
       },
       "name" : "Scottish American War Memorial",
       "pos" : [
         55.951048,
         -3.201038
       ],
-      "story" : "This kilted soldier looks as if he is about to stand up. He was cast far away, in Brooklyn, New York."
+      "story" : "This kilted soldier looks about to stand up. Scottish Americans had him cast in Brooklyn, New York, as their gift to Scotland."
     }
   ],
-  "generatedAt" : "2026-09-25T06:49:00Z",
+  "generatedAt" : "2026-10-02T09:43:51Z",
   "icon" : {
     "paths" : [
       "M8 92L14 82L22 86L30 76L40 82L50 74L60 82L70 77L79 85L86 80L92 92ZM20.00 56.00L80.00 56.00L80.00 84.00L20.00 84.00ZM20.00 51.00L26.67 51.00L26.67 56.00L20.00 56.00ZM33.33 51.00L40.00 51.00L40.00 56.00L33.33 56.00ZM46.67 51.00L53.33 51.00L53.33 56.00L46.67 56.00ZM60.00 51.00L66.67 51.00L66.67 56.00L60.00 56.00ZM73.33 51.00L80.00 51.00L80.00 56.00L73.33 56.00ZM17.00 42.00L33.00 42.00L33.00 84.00L17.00 84.00ZM17.00 37.00L20.20 37.00L20.20 42.00L17.00 42.00ZM23.40 37.00L26.60 37.00L26.60 42.00L23.40 42.00ZM29.80 37.00L33.00 37.00L33.00 42.00L29.80 42.00ZM67.00 42.00L83.00 42.00L83.00 84.00L67.00 84.00ZM67.00 37.00L70.20 37.00L70.20 42.00L67.00 42.00ZM73.40 37.00L76.60 37.00L76.60 42.00L73.40 42.00ZM79.80 37.00L83.00 37.00L83.00 42.00L79.80 42.00ZM40.00 30.00L60.00 30.00L60.00 84.00L40.00 84.00ZM40.00 24.00L44.00 24.00L44.00 30.00L40.00 30.00ZM48.00 24.00L52.00 24.00L52.00 30.00L48.00 30.00ZM56.00 24.00L60.00 24.00L60.00 30.00L56.00 30.00ZM49.2 30L49.2 18L50.8 18L50.8 30ZM50.8 19L62 22L50.8 25ZM44 84L44 66C44 60,56 60,56 66L56 84Z"
@@ -23710,7 +23710,7 @@
     "en" : "Edinburgh"
   },
   "name" : "Edinburgh",
-  "packVersion" : 28,
+  "packVersion" : 32,
   "schemaVersion" : 1,
   "source" : "OpenStreetMap via Overpass API",
   "stats" : {

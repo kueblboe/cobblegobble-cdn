@@ -240,12 +240,12 @@
   ],
   "changes" : {
     "addedStreets" : [
-      "Hanengang"
+
     ],
     "adjustedStreets" : [
 
     ],
-    "fromVersion" : 15,
+    "fromVersion" : 18,
     "removedStreets" : [
 
     ]
@@ -21265,33 +21265,33 @@
   ],
   "fruits" : [
     {
-      "extendedStory" : "Matheus de Layens carried the church on from 1425, in Gothic style, with pointed arches and tall windows. A later master, Joost Metsys, drew a west front that Leuven never managed to raise. His wooden model of it survives, kept inside among the church's treasures. Go and look at what the city wanted and could not have.",
+      "extendedStory" : "People from Leuven are nicknamed Pietermannen, after this church's patron, Saint Peter. Matheus de Layens was one of its Gothic master builders. The master builder Joost Metsys planned the towers, one of them 525 feet high. His design was not properly worked out either, and less than half of the towers was ever built. Inside, his scale model shows the towers Leuven meant to have.",
       "icon" : "choice",
       "id" : "f-sint-pieterskerk",
       "kind" : "church",
       "localizedExtendedStory" : {
-        "de" : "Matheus de Layens führte die Kirche ab 1425 weiter, gotisch, mit Spitzbögen und hohen Fenstern. Ein späterer Meister, Joost Metsys, entwarf eine Westfront, die Leuven nie hochbekam. Sein hölzernes Modell davon gibt es noch, drinnen bei den Schätzen der Kirche. Dort siehst du, was die Stadt wollte und nicht bekam.",
-        "en" : "Matheus de Layens carried the church on from 1425, in Gothic style, with pointed arches and tall windows. A later master, Joost Metsys, drew a west front that Leuven never managed to raise. His wooden model of it survives, kept inside among the church's treasures. Go and look at what the city wanted and could not have."
+        "de" : "Die Leuvener tragen den Spitznamen Pietermannen, nach dem Patron dieser Kirche, dem Apostel Petrus. Matheus de Layens war einer ihrer gotischen Baumeister. Der Baumeister Joost Metsys plante die Türme, den mittleren 525 Fuß hoch. Auch sein Entwurf war nicht ausgereift, und nicht einmal die Hälfte der Türme wurde gebaut. Drinnen zeigt sein Modell die Türme, die Leuven haben wollte.",
+        "en" : "People from Leuven are nicknamed Pietermannen, after this church's patron, Saint Peter. Matheus de Layens was one of its Gothic master builders. The master builder Joost Metsys planned the towers, one of them 525 feet high. His design was not properly worked out either, and less than half of the towers was ever built. Inside, his scale model shows the towers Leuven meant to have."
       },
       "localizedStory" : {
-        "de" : "Der Spitzname der Leuvener lautet Pietermannen, nach dem Patron dieser Kirche, dem Apostel Petrus. Die Westfront blieb ein Versprechen.",
-        "en" : "People from Leuven are nicknamed Pietermannen, after this church's patron, Saint Peter. The west front never got what it was promised."
+        "de" : "Auf diese Kirche sollten drei Riesentürme. Der Boden war zu unsicher, um sie zu tragen, also wurde der Bau gestoppt.",
+        "en" : "Three giant towers were meant to rise on this church. The ground was too unstable to hold them, so the work stopped."
       },
       "name" : "Sint-Pieterskerk",
       "pos" : [
         50.879737,
         4.700726
       ],
-      "story" : "People from Leuven are nicknamed Pietermannen, after this church's patron, Saint Peter. The west front never got what it was promised."
+      "story" : "Three giant towers were meant to rise on this church. The ground was too unstable to hold them, so the work stopped."
     },
     {
-      "extendedStory" : "Sulpitius van Vorst began the house in 1439 and it took thirty years to open. For close to four centuries after that, every little shelf on the front stood bare. Hugo came through while they were still like that. The earliest statues to go up were so badly received that the carving nearly stopped. His praise kept it going, and masons added to the front for decades.",
+      "extendedStory" : "Sulpitius van Vorst began the house, and it took thirty years to open. For close to four centuries after that, every little shelf on the front stood bare. Then statues began to go up, and the early ones were badly received. Hugo urged the city on, and masons kept adding to the front for decades. Today 149 statues stand on the walls and 87 on the towers.",
       "icon" : "hero",
       "id" : "f-stadhuis-van-leuven",
       "kind" : "civic",
       "localizedExtendedStory" : {
-        "de" : "Sulpitius van Vorst begann das Haus 1439, und dreißig Jahre später konnte es öffnen. Danach blieb fast vier Jahrhunderte lang jedes kleine Sims an der Fassade leer. Hugo kam vorbei, als es noch so aussah. Die frühesten Standbilder, die hinaufkamen, gefielen so wenig, dass die Steinmetzarbeit fast aufhörte. Sein Lob hielt sie am Laufen, und noch jahrzehntelang wuchs die Fassade weiter.",
-        "en" : "Sulpitius van Vorst began the house in 1439 and it took thirty years to open. For close to four centuries after that, every little shelf on the front stood bare. Hugo came through while they were still like that. The earliest statues to go up were so badly received that the carving nearly stopped. His praise kept it going, and masons added to the front for decades."
+        "de" : "Sulpitius van Vorst begann das Haus, und dreißig Jahre später konnte es öffnen. Danach blieb fast vier Jahrhunderte lang jedes kleine Sims an der Fassade leer. Dann kamen Standbilder hinauf, und die frühen gefielen wenig. Hugo drängte die Stadt weiterzumachen, und noch jahrzehntelang wuchs die Fassade. Heute stehen 149 Standbilder an den Wänden und 87 an den Türmen.",
+        "en" : "Sulpitius van Vorst began the house, and it took thirty years to open. For close to four centuries after that, every little shelf on the front stood bare. Then statues began to go up, and the early ones were badly received. Hugo urged the city on, and masons kept adding to the front for decades. Today 149 statues stand on the walls and 87 on the towers."
       },
       "localizedStory" : {
         "de" : "Victor Hugo nannte dieses Haus ein versteinertes Feuerwerk. Tritt auf dem Platz ein Stück zurück, dann verstehst du ihn.",
@@ -21305,53 +21305,53 @@
       "story" : "Victor Hugo called this a firework turned to stone. Stand back on the square and you can see what he was getting at."
     },
     {
-      "extendedStory" : "Look along the top of the front and you find a balustrade with nothing written on it. Stone letters were cut for it, a Latin line naming who destroyed the old library and who paid for this one. The university dropped it, afraid of souring things with German scholars, and the front has stayed blank ever since. The letters themselves survived, polished and bolted down in the library's Torenhof. They sit there in the right order, spelling a sentence the building never got to say.",
+      "extendedStory" : "Look along the top of the front and you find a balustrade with nothing written on it. Stone letters were cut for it, a Latin line: destroyed by German fury, restored by American gift. The old library had burned in 1914, in a fire set by German soldiers. The university dropped the line, afraid of souring things with German scholars, and the front has stayed blank ever since. The letters survive, polished and set out in order in the library's Torenhof.",
       "icon" : "choice",
       "id" : "f-universiteitsbibliotheek",
       "kind" : "civic",
       "localizedExtendedStory" : {
-        "de" : "Schau oben an der Fassade entlang: Auf der Brüstung steht nichts. Steinerne Buchstaben waren dafür gehauen, eine lateinische Zeile darüber, wer die alte Bibliothek zerstörte und wer die neue bezahlte. Die Universität ließ sie weg, aus Sorge um das Verhältnis zu deutschen Gelehrten, und seither bleibt die Brüstung leer. Die Buchstaben gibt es noch, poliert und festgeschraubt im Torenhof der Bibliothek. Dort stehen sie in der richtigen Reihenfolge, ein Satz, den das Haus nie sagen durfte.",
-        "en" : "Look along the top of the front and you find a balustrade with nothing written on it. Stone letters were cut for it, a Latin line naming who destroyed the old library and who paid for this one. The university dropped it, afraid of souring things with German scholars, and the front has stayed blank ever since. The letters themselves survived, polished and bolted down in the library's Torenhof. They sit there in the right order, spelling a sentence the building never got to say."
+        "de" : "Schau oben an der Fassade entlang: Auf der Brüstung steht nichts. Steinerne Buchstaben waren dafür gehauen, eine lateinische Zeile: durch deutsche Wut zerstört, durch amerikanische Gabe wiederhergestellt. Die alte Bibliothek war 1914 abgebrannt, in einem Feuer, das deutsche Soldaten gelegt hatten. Die Universität ließ die Zeile weg, aus Sorge um das Verhältnis zu deutschen Gelehrten, und seither bleibt die Brüstung leer. Die Buchstaben gibt es noch, poliert und in der richtigen Reihenfolge im Torenhof der Bibliothek.",
+        "en" : "Look along the top of the front and you find a balustrade with nothing written on it. Stone letters were cut for it, a Latin line: destroyed by German fury, restored by American gift. The old library had burned in 1914, in a fire set by German soldiers. The university dropped the line, afraid of souring things with German scholars, and the front has stayed blank ever since. The letters survive, polished and set out in order in the library's Torenhof."
       },
       "localizedStory" : {
-        "de" : "Die Uhr dort oben hat keine Ziffern. Vergoldete Sterne zeigen die Stunden, für jeden amerikanischen Staat von 1928 einen.",
-        "en" : "The clock up there has no numbers. Gilded stars mark the hours, one for each American state in 1928, the year the tower opened."
+        "de" : "Diese Uhr hat keine Ziffern. Vergoldete Sterne zeigen die Stunden, einer pro US-Staat, denn amerikanische Gaben bauten die Bibliothek nach einem Brand neu.",
+        "en" : "This clock has no numbers. Gilded stars mark the hours, one for each American state, because American gifts rebuilt this library after a fire."
       },
       "name" : "Universiteitsbibliotheek",
       "pos" : [
         50.878103,
         4.707362
       ],
-      "story" : "The clock up there has no numbers. Gilded stars mark the hours, one for each American state in 1928, the year the tower opened."
+      "story" : "This clock has no numbers. Gilded stars mark the hours, one for each American state, because American gifts rebuilt this library after a fire."
     },
     {
-      "extendedStory" : "Joos Metsijs drew it for the Sint-Pieterskerk, and it counts among the Flemish masterpieces held here. A museum has stood on this spot since 1920, when it went by a much longer name. Stéphane Beel gave it a new building, and it opened again as M, a single letter for a whole museum. The drawing has outlived the plan, the money and the builders.",
+      "extendedStory" : "Joos Metsijs drew it, and it counts among the Flemish masterpieces held here. The plan shows what the builders could never anchor in the ground. The museum opened in 1920 as the Stedelijk Museum Vander Kelen-Mertens. Stéphane Beel gave it a new building, and in 2009 it opened again as M, a single letter for a whole museum.",
       "icon" : "choice",
       "id" : "f-m-museum",
       "kind" : "museum",
       "localizedExtendedStory" : {
-        "de" : "Joos Metsijs zeichnete ihn für die Sint-Pieterskerk, und er zählt zu den flämischen Meisterwerken hier im Haus. Seit 1920 steht an dieser Stelle ein Museum, damals unter einem viel längeren Namen. Stéphane Beel baute ihm ein neues Haus, und es öffnete wieder als M, ein Buchstabe für ein ganzes Museum. Die Zeichnung hat den Plan, das Geld und die Bauleute überlebt.",
-        "en" : "Joos Metsijs drew it for the Sint-Pieterskerk, and it counts among the Flemish masterpieces held here. A museum has stood on this spot since 1920, when it went by a much longer name. Stéphane Beel gave it a new building, and it opened again as M, a single letter for a whole museum. The drawing has outlived the plan, the money and the builders."
+        "de" : "Joos Metsijs hat ihn gezeichnet, und er zählt zu den flämischen Meisterwerken hier im Haus. Der Plan zeigt, was die Bauleute nie im Boden verankern konnten. Das Museum öffnete 1920 als Stedelijk Museum Vander Kelen-Mertens. Stéphane Beel baute ihm ein neues Haus, und 2009 öffnete es wieder als M, ein Buchstabe für ein ganzes Museum.",
+        "en" : "Joos Metsijs drew it, and it counts among the Flemish masterpieces held here. The plan shows what the builders could never anchor in the ground. The museum opened in 1920 as the Stedelijk Museum Vander Kelen-Mertens. Stéphane Beel gave it a new building, and in 2009 it opened again as M, a single letter for a whole museum."
       },
       "localizedStory" : {
-        "de" : "Das Museum bewahrt einen Pergamentplan für drei Kirchtürme, die nie gebaut wurden. Die Kirche selbst liegt ein paar Schritte entfernt.",
-        "en" : "The museum keeps a parchment plan for three church towers that were never built. The church itself is a short walk away."
+        "de" : "Das Museum bewahrt einen Pergamentplan für die Türme der Sint-Pieterskerk. Weil der Boden zu unsicher war, wurden sie nie gebaut.",
+        "en" : "The museum keeps a parchment plan for the towers of Sint-Pieterskerk. Shaky ground meant they were never built."
       },
       "name" : "M-Museum",
       "pos" : [
         50.878314,
         4.704172
       ],
-      "story" : "The museum keeps a parchment plan for three church towers that were never built. The church itself is a short walk away."
+      "story" : "The museum keeps a parchment plan for the towers of Sint-Pieterskerk. Shaky ground meant they were never built."
     },
     {
-      "extendedStory" : "There is a plainer reason. Jan van Ruysbroeck used no slate and no timber up there, just pale limestone, so nails were never needed. Leuven liked that so much it counted the tower among the city's seven wonders, as the tower without nails. While you are here, look at the gables over the pointed windows of the cloister wing. They are carved with abbots' staffs and mice, for Saint Gertrude.",
+      "extendedStory" : "There is a plainer reason. Jan van Ruysbroeck used no slate and no timber up there, just pale limestone, so nails were never needed. Leuven counted the tower among the city's seven wonders, as the tower without nails. While you are here, look at the gables over the pointed windows of the cloister wing. They are carved with abbots' staffs and mice for Saint Gertrude, an abbess people called on against mice.",
       "icon" : "everyday",
       "id" : "f-sint-geertruiabdij",
       "kind" : "church",
       "localizedExtendedStory" : {
-        "de" : "Es gibt eine schlichtere Erklärung. Jan van Ruysbroeck verwendete dort oben weder Schiefer noch Holz, nur hellen Kalksandstein, da brauchte es keine Nägel. Leuven gefiel das so gut, dass der Turm zu den sieben Wundern der Stadt zählte, als Turm ohne Nägel. Schau auch auf die Giebel über den Spitzbogenfenstern des Klosterflügels. Dort sind Abtsstäbe und Mäuse eingehauen, für die heilige Gertrud.",
-        "en" : "There is a plainer reason. Jan van Ruysbroeck used no slate and no timber up there, just pale limestone, so nails were never needed. Leuven liked that so much it counted the tower among the city's seven wonders, as the tower without nails. While you are here, look at the gables over the pointed windows of the cloister wing. They are carved with abbots' staffs and mice, for Saint Gertrude."
+        "de" : "Es gibt eine schlichtere Erklärung. Jan van Ruysbroeck verwendete dort oben weder Schiefer noch Holz, nur hellen Kalkstein, da brauchte es keine Nägel. Leuven zählte den Turm zu den sieben Wundern der Stadt, als Turm ohne Nägel. Schau auch auf die Giebel über den Spitzbogenfenstern des Klosterflügels. Dort sind Abtsstäbe und Mäuse eingehauen, für die heilige Gertrud, eine Äbtissin, die man gegen Mäuse anrief.",
+        "en" : "There is a plainer reason. Jan van Ruysbroeck used no slate and no timber up there, just pale limestone, so nails were never needed. Leuven counted the tower among the city's seven wonders, as the tower without nails. While you are here, look at the gables over the pointed windows of the cloister wing. They are carved with abbots' staffs and mice for Saint Gertrude, an abbess people called on against mice."
       },
       "localizedStory" : {
         "de" : "Der Sage nach haben die kabotermannekens, kleine Koboldmänner, diesen Turmhelm gebaut. Er kam ganz ohne Nagel aus.",
@@ -21365,24 +21365,24 @@
       "story" : "The story goes that the kabotermannekens, little goblin men, built this spire. It went up without a single nail."
     },
     {
-      "extendedStory" : "Beguines were women who lived together in a religious community without becoming nuns. Their slabs here were cut between 1396 and 1753, so you cross three and a half centuries in a few steps. One of their parish priests was a man from Utrecht named Adriaan Florensz Boeyens. He went on to advise the young Emperor Charles the Fifth, and later became Pope Adrian the Sixth.",
+      "extendedStory" : "Their slabs here were cut between 1396 and 1753, so you cross three and a half centuries in a few steps. One of the parish priests here was a man from Utrecht named Adriaan Florensz Boeyens. He went on to advise the young Emperor Charles the Fifth. Later still he became Pope Adrian the Sixth.",
       "icon" : "everyday",
       "id" : "f-sint-jan-de-doperkerk",
       "kind" : "church",
       "localizedExtendedStory" : {
-        "de" : "Beginen waren Frauen, die fromm zusammenlebten, ohne Nonnen zu werden. Ihre Platten hier entstanden zwischen 1396 und 1753, man überquert also dreieinhalb Jahrhunderte in wenigen Schritten. Einer ihrer Pfarrer war ein Mann aus Utrecht namens Adriaan Florensz Boeyens. Er beriet später den jungen Kaiser Karl den Fünften und wurde am Ende Papst Hadrian der Sechste.",
-        "en" : "Beguines were women who lived together in a religious community without becoming nuns. Their slabs here were cut between 1396 and 1753, so you cross three and a half centuries in a few steps. One of their parish priests was a man from Utrecht named Adriaan Florensz Boeyens. He went on to advise the young Emperor Charles the Fifth, and later became Pope Adrian the Sixth."
+        "de" : "Ihre Platten hier entstanden zwischen 1396 und 1753, man überquert also dreieinhalb Jahrhunderte in wenigen Schritten. Einer der Pfarrer hier war ein Mann aus Utrecht namens Adriaan Florensz Boeyens. Er beriet später den jungen Kaiser Karl den Fünften. Und am Ende wurde er Papst Hadrian der Sechste.",
+        "en" : "Their slabs here were cut between 1396 and 1753, so you cross three and a half centuries in a few steps. One of the parish priests here was a man from Utrecht named Adriaan Florensz Boeyens. He went on to advise the young Emperor Charles the Fifth. Later still he became Pope Adrian the Sixth."
       },
       "localizedStory" : {
-        "de" : "Wer durch den Mittelgang geht, überquert rund neunzig Grabplatten. Sie gehören den Beginen, die hier zum Gebet kamen.",
-        "en" : "Walk up the aisle and you cross about ninety grave slabs. They belong to the beguines who worshipped here."
+        "de" : "Wer durch den Mittelgang geht, überquert rund neunzig Grabplatten von Beginen, Frauen, die fromm zusammenlebten, ohne Nonnen zu werden.",
+        "en" : "Walk up the aisle and you cross about ninety grave slabs of beguines: women who lived together in faith without becoming nuns."
       },
       "name" : "Sint-Jan de Doperkerk",
       "pos" : [
         50.871414,
         4.697091
       ],
-      "story" : "Walk up the aisle and you cross about ninety grave slabs. They belong to the beguines who worshipped here."
+      "story" : "Walk up the aisle and you cross about ninety grave slabs of beguines: women who lived together in faith without becoming nuns."
     },
     {
       "extendedStory" : "Historians doubt it. They say the gate may be older than the wall, but not that old. What you can still walk to is a stretch of the wall itself, seventy metres of it, tucked into the Handbooghof. That courtyard was the archery guild's practice ground. The city once rented the old towers and the wall niches to neighbours as storage sheds. Look for the spiral stair cut into the thickness of the southern tower.",
@@ -21405,13 +21405,13 @@
       "story" : "One gate in this stone ring was the Wolves' Gate. Legend says the wolves came from a Norse cult on an island in the river."
     },
     {
-      "extendedStory" : "So the square sits on the old rim of Leuven, where the town stopped and the fields began. It was laid out in the 1840s as one design, every front matching its neighbour. A committee for civic beauty read every building plan that came in. The house at number 8 was told its gable had to take its cue from the cafe next door.",
+      "extendedStory" : "It was laid out in the 1840s as one design, every front matching its neighbour. A committee for civic beauty read every building plan that came in. The house at number 8 was told its gable had to take its cue from the nearby Cafe Van de Weyer. The square itself was once named after Sylvain Van de Weyer, one of the makers of Belgian independence.",
       "icon" : "choice",
       "id" : "f-martelarenplein",
       "kind" : "square",
       "localizedExtendedStory" : {
-        "de" : "Der Platz liegt also am alten Rand von Leuven, dort wo die Stadt aufhörte und die Felder anfingen. Angelegt wurde er in den 1840er Jahren als ein geschlossener Entwurf, jede Fassade passend zur nächsten. Ein Ausschuss für Stadtschönheit las jeden Bauantrag, der hereinkam. Haus Nummer 8 musste seinen Giebel dem Café nebenan abschauen.",
-        "en" : "So the square sits on the old rim of Leuven, where the town stopped and the fields began. It was laid out in the 1840s as one design, every front matching its neighbour. A committee for civic beauty read every building plan that came in. The house at number 8 was told its gable had to take its cue from the cafe next door."
+        "de" : "Angelegt wurde er in den 1840er Jahren als ein geschlossener Entwurf, jede Fassade passend zur nächsten. Ein Ausschuss für Stadtschönheit las jeden Bauantrag, der hereinkam. Haus Nummer 8 musste seinen Giebel am nahen Café Van de Weyer ausrichten. Der Platz selbst hieß einmal nach Sylvain Van de Weyer, einem der Gründer der belgischen Unabhängigkeit.",
+        "en" : "It was laid out in the 1840s as one design, every front matching its neighbour. A committee for civic beauty read every building plan that came in. The house at number 8 was told its gable had to take its cue from the nearby Cafe Van de Weyer. The square itself was once named after Sylvain Van de Weyer, one of the makers of Belgian independence."
       },
       "localizedStory" : {
         "de" : "Gräbt man unter diesem Bahnhofsplatz, stößt man auf die alte Stadtmauer. Genau das geschah, als der Platz 2001 aufgerissen wurde.",
@@ -21425,33 +21425,33 @@
       "story" : "Dig under this station square and you hit the old city wall. That is what happened when the square was taken up in 2001."
     },
     {
-      "extendedStory" : "It had older names still. In the thirteenth century people called it the Ledige Plaats, the low lying place. It sat below the street to the east. Cattle were sold here, then poultry, and the chapel on the square went up long before either name was dropped. Inside that chapel, small thank you plaques crowd around a statue of Saint Joseph. Pilgrims still come.",
+      "extendedStory" : "He took the name Damien here in Leuven, when he joined his order. The square had older names still. In the thirteenth century it was the Ledige Plaats, the low lying place, as it sat below the street to the east. Before the chickens, cattle were sold here. In the chapel, small thank you plaques crowd around a statue of Saint Joseph, and pilgrims still come.",
       "icon" : "everyday",
       "id" : "f-pater-damiaanplein",
       "kind" : "square",
       "localizedExtendedStory" : {
-        "de" : "Ältere Namen hatte er auch. Im dreizehnten Jahrhundert nannte man ihn Ledige Plaats, den tief gelegenen Platz, weil er tiefer lag als die Straße im Osten. Hier wurde Vieh verkauft, später Geflügel, und die Kapelle am Platz stand schon lange davor. In der Kapelle drängen sich kleine Danktäfelchen um eine Josefsfigur. Pilger kommen immer noch.",
-        "en" : "It had older names still. In the thirteenth century people called it the Ledige Plaats, the low lying place. It sat below the street to the east. Cattle were sold here, then poultry, and the chapel on the square went up long before either name was dropped. Inside that chapel, small thank you plaques crowd around a statue of Saint Joseph. Pilgrims still come."
+        "de" : "Den Namen Damian bekam er hier in Leuven, als er in seinen Orden eintrat. Der Platz hatte auch ältere Namen. Im dreizehnten Jahrhundert nannte man ihn Ledige Plaats, den tief gelegenen Platz, weil er tiefer lag als die Straße im Osten. Vor den Hühnern wurde hier Vieh verkauft. In der Kapelle drängen sich kleine Danktäfelchen um eine Josefsfigur, und Pilger kommen immer noch.",
+        "en" : "He took the name Damien here in Leuven, when he joined his order. The square had older names still. In the thirteenth century it was the Ledige Plaats, the low lying place, as it sat below the street to the east. Before the chickens, cattle were sold here. In the chapel, small thank you plaques crowd around a statue of Saint Joseph, and pilgrims still come."
       },
       "localizedStory" : {
-        "de" : "Bevor der Platz Pater Damian ehrte, wurden hier Hühner verkauft. Er hieß damals Kiekenmarkt, der Hühnermarkt.",
-        "en" : "Before it honoured Father Damien, this square sold chickens. Its name then was the Kiekenmarkt, the chicken market."
+        "de" : "Der Platz ehrt Pater Damian, der auf Hawaii Leprakranke pflegte und hier beigesetzt ist. Früher wurden hier als Kiekenmarkt Hühner verkauft.",
+        "en" : "This square honours Father Damien, who nursed leprosy patients in Hawaii and rests here. It once sold chickens, as the Kiekenmarkt."
       },
       "name" : "Pater Damiaanplein",
       "pos" : [
         50.876142,
         4.697353
       ],
-      "story" : "Before it honoured Father Damien, this square sold chickens. Its name then was the Kiekenmarkt, the chicken market."
+      "story" : "This square honours Father Damien, who nursed leprosy patients in Hawaii and rests here. It once sold chickens, as the Kiekenmarkt."
     },
     {
-      "extendedStory" : "Ief Spincemaille was Leuven's city artist when he made it. The soil came from so deep down that no human hand had ever reached it. More than a hundred volunteers packed it in, layer by layer. There is a room inside and the roof is open, so from in there you look straight up at the sky. Give it enough weather and it will settle back into the ground it came from.",
+      "extendedStory" : "Ief Spincemaille was Leuven's city artist when he made it. More than a hundred volunteers packed the earth in, layer by layer. There is a room inside and the roof is open, so from in there you look straight up at the sky. Its name, Hemeltoren, means sky tower. It was unveiled in 2014, and it stands five metres thirty tall.",
       "icon" : "everyday",
       "id" : "f-hemeltoren-de-eerste-verstoring",
       "kind" : "gate_tower",
       "localizedExtendedStory" : {
-        "de" : "Ief Spincemaille war Stadtkünstler von Leuven, als er ihn baute. Die Erde kam aus so großer Tiefe, dass sie nie eine Menschenhand berührt hatte. Über hundert Freiwillige stampften sie Schicht für Schicht fest. Innen ist ein Raum, und das Dach steht offen, von dort schaut man senkrecht in den Himmel. Genug Wetter, und der Turm sackt wieder in den Boden zurück, aus dem er kam.",
-        "en" : "Ief Spincemaille was Leuven's city artist when he made it. The soil came from so deep down that no human hand had ever reached it. More than a hundred volunteers packed it in, layer by layer. There is a room inside and the roof is open, so from in there you look straight up at the sky. Give it enough weather and it will settle back into the ground it came from."
+        "de" : "Ief Spincemaille war Stadtkünstler von Leuven, als er ihn baute. Über hundert Freiwillige stampften die Erde Schicht für Schicht fest. Innen ist ein Raum, und das Dach steht offen, von dort schaut man senkrecht in den Himmel. Sein Name Hemeltoren bedeutet Himmelsturm. Enthüllt wurde er 2014, und er ist fünf Meter dreißig hoch.",
+        "en" : "Ief Spincemaille was Leuven's city artist when he made it. More than a hundred volunteers packed the earth in, layer by layer. There is a room inside and the roof is open, so from in there you look straight up at the sky. Its name, Hemeltoren, means sky tower. It was unveiled in 2014, and it stands five metres thirty tall."
       },
       "localizedStory" : {
         "de" : "Vierzig Tonnen Erde, die nie eine Hand berührt hatte, zu einem Turm gestampft. Regen und Wind holen ihn langsam wieder herunter.",
@@ -21465,7 +21465,7 @@
       "story" : "Forty tonnes of earth that no hand had ever touched, pounded into a tower. Rain and wind will slowly take it back down."
     }
   ],
-  "generatedAt" : "2026-09-29T20:23:17Z",
+  "generatedAt" : "2026-10-01T14:01:24Z",
   "icon" : {
     "paths" : [
       "M 29.00 90.00 L 71.00 90.00 L 71.00 46.00 L 29.00 46.00 Z M 27.00 48.00 L 73.00 48.00 L 57.00 16.00 L 43.00 16.00 Z M 21.00 90.00 L 28.00 90.00 L 28.00 34.00 L 21.00 34.00 Z M 20.00 36.00 L 29.00 36.00 L 24.50 2.00 Z M 72.00 90.00 L 79.00 90.00 L 79.00 34.00 L 72.00 34.00 Z M 71.00 36.00 L 80.00 36.00 L 75.50 2.00 Z M 48.70 20.00 L 51.30 20.00 L 51.30 6.00 L 48.70 6.00 Z M 34.00 52.00 L 38.00 52.00 L 38.00 61.00 L 34.00 61.00 Z M 42.00 52.00 L 46.00 52.00 L 46.00 61.00 L 42.00 61.00 Z M 54.00 52.00 L 58.00 52.00 L 58.00 61.00 L 54.00 61.00 Z M 62.00 52.00 L 66.00 52.00 L 66.00 61.00 L 62.00 61.00 Z M 34.00 65.00 L 38.00 65.00 L 38.00 74.00 L 34.00 74.00 Z M 42.00 65.00 L 46.00 65.00 L 46.00 74.00 L 42.00 74.00 Z M 54.00 65.00 L 58.00 65.00 L 58.00 74.00 L 54.00 74.00 Z M 62.00 65.00 L 66.00 65.00 L 66.00 74.00 L 62.00 74.00 Z M 34.00 78.00 L 38.00 78.00 L 38.00 87.00 L 34.00 87.00 Z M 42.00 78.00 L 46.00 78.00 L 46.00 87.00 L 42.00 87.00 Z M 54.00 78.00 L 58.00 78.00 L 58.00 87.00 L 54.00 87.00 Z M 62.00 78.00 L 66.00 78.00 L 66.00 87.00 L 62.00 87.00 Z"
@@ -21479,7 +21479,7 @@
     "nl" : "Leuven"
   },
   "name" : "Leuven",
-  "packVersion" : 16,
+  "packVersion" : 19,
   "schemaVersion" : 1,
   "source" : "OpenStreetMap via Overpass API",
   "stats" : {

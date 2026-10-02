@@ -137,13 +137,9 @@
     "adjustedStreets" : [
 
     ],
-    "fromVersion" : 15,
+    "fromVersion" : 18,
     "removedStreets" : [
-      "Dziedziniec Arkadowy",
-      "Dziedziniec Batorego",
-      "Plac Świętej Marii Magdaleny",
-      "Zaułek Książąt Czartoryskich",
-      "Zaułek Niewiernego Tomasza"
+
     ]
   },
   "cityId" : "krakow",
@@ -9639,13 +9635,13 @@
   ],
   "fruits" : [
     {
-      "extendedStory" : "Walk out to the eastern end and look up at the gables. Józef Dietl and Mikołaj Zyblikiewicz ran this city, and Walery Gadomski cut their faces into the stone. The older heads, the ones strung along the top, are a different set: Santi Gucci designed those. All of it came after the fire of 1555, which gutted the hall. Look for the two who look like men, not monsters.",
+      "extendedStory" : "Walk out to the eastern end and look up at the gables. Józef Dietl and Mikołaj Zyblikiewicz ran this city, and Walery Gadomski cut their faces into the stone. In 1867 Dietl set out the plan to renew this hall, and Matejko helped save it. The heads strung along the top are a different set: Santi Gucci designed those. A fire had gutted the hall in 1555. Look for the two who look like men, not monsters.",
       "icon" : "everyday",
       "id" : "f-sukiennice",
       "kind" : "attraction",
       "localizedExtendedStory" : {
-        "de" : "Geh zum östlichen Giebel und schau hinauf. Józef Dietl und Mikołaj Zyblikiewicz führten diese Stadt, und Walery Gadomski schlug ihre Gesichter in den Stein. Die älteren Fratzen ganz oben sind eine andere Reihe: Sie gehen auf Santi Gucci zurück. Alles das kam nach dem Brand von 1555, der den Bau ausräumte. Such die zwei, die wie Menschen aussehen und nicht wie Ungeheuer.",
-        "en" : "Walk out to the eastern end and look up at the gables. Józef Dietl and Mikołaj Zyblikiewicz ran this city, and Walery Gadomski cut their faces into the stone. The older heads, the ones strung along the top, are a different set: Santi Gucci designed those. All of it came after the fire of 1555, which gutted the hall. Look for the two who look like men, not monsters."
+        "de" : "Geh zum östlichen Giebel und schau hinauf. Józef Dietl und Mikołaj Zyblikiewicz führten diese Stadt, und Walery Gadomski schlug ihre Gesichter in den Stein. 1867 legte Dietl den Plan zur Erneuerung der Halle vor, und Matejko half, sie zu retten. Die Fratzen ganz oben sind eine andere Reihe: Sie gehen auf Santi Gucci zurück. Ein Brand hatte den Bau 1555 ausgeräumt. Such die zwei, die wie Menschen aussehen und nicht wie Ungeheuer.",
+        "en" : "Walk out to the eastern end and look up at the gables. Józef Dietl and Mikołaj Zyblikiewicz ran this city, and Walery Gadomski cut their faces into the stone. In 1867 Dietl set out the plan to renew this hall, and Matejko helped save it. The heads strung along the top are a different set: Santi Gucci designed those. A fire had gutted the hall in 1555. Look for the two who look like men, not monsters."
       },
       "localizedStory" : {
         "de" : "Zwei der Steinfratzen oben am Dachrand sind echte Krakauer Stadtpräsidenten, von Jan Matejko als Karikatur entworfen.",
@@ -9659,33 +9655,33 @@
       "story" : "Two of the stone faces along the roofline are real mayors of Kraków, drawn as caricatures by the painter Jan Matejko."
     },
     {
-      "extendedStory" : "A trumpeter climbs the tower and sounds that call every hour, day and night, once to each side of the world. Then it ends where it ends. Down in the nave, the carved wings of Wit Stwosz's altarpiece swing open at ten to twelve, Monday to Saturday. Stand under it and look up. Then the wings close again in the evening.",
+      "extendedStory" : "It is said the raiders were Tatars, in the year 1241, and that he warned the city in time. Today a trumpeter climbs the tower and sounds that call every hour, day and night, once to each side of the world. Down in the nave, the carved wings of Wit Stwosz's altarpiece swing open at ten to twelve, Monday to Saturday. They close again in the evening.",
       "icon" : "choice",
       "id" : "f-bazylika-wniebowziecia-najswietszej-maryi-panny",
       "kind" : "church",
       "localizedExtendedStory" : {
-        "de" : "Stündlich steigt ein Trompeter hinauf und bläst das Signal, Tag und Nacht, einmal zu jeder Seite der Welt. Dann endet es, wo es endet, und niemand spielt es zu Ende. Unten im Kirchenschiff geht der geschnitzte Altar von Wit Stwosz werktags zehn vor zwölf auf, und am Abend schließt er wieder. Tritt darunter und schau nach oben. Wer dann dasteht, sieht die Flügel langsam aufgehen.",
-        "en" : "A trumpeter climbs the tower and sounds that call every hour, day and night, once to each side of the world. Then it ends where it ends. Down in the nave, the carved wings of Wit Stwosz's altarpiece swing open at ten to twelve, Monday to Saturday. Stand under it and look up. Then the wings close again in the evening."
+        "de" : "Es heißt, die Angreifer waren Tataren, im Jahr 1241, und er warnte die Stadt noch rechtzeitig. Heute steigt stündlich ein Trompeter hinauf und bläst das Signal, Tag und Nacht, einmal zu jeder Seite der Welt. Unten im Kirchenschiff geht der geschnitzte Altar von Wit Stwosz werktags zehn vor zwölf auf, und am Abend schließt er wieder.",
+        "en" : "It is said the raiders were Tatars, in the year 1241, and that he warned the city in time. Today a trumpeter climbs the tower and sounds that call every hour, day and night, once to each side of the world. Down in the nave, the carved wings of Wit Stwosz's altarpiece swing open at ten to twelve, Monday to Saturday. They close again in the evening."
       },
       "localizedStory" : {
-        "de" : "Der Sage nach kam der Trompeter dort oben nie zu Ende, und darum reißt die Melodie bis heute mitten ab.",
-        "en" : "The story goes that the trumpeter up there never got to finish, and so the tune still breaks off in the middle."
+        "de" : "Der Sage nach blies ein Türmer Alarm gegen Angreifer, als ihn ein Pfeil traf. Darum endet das Signal bis heute mittendrin.",
+        "en" : "The story goes a watchman was sounding the alarm against raiders when an arrow stopped him. So the call still breaks off midway."
       },
       "name" : "Bazylika Wniebowzięcia Najświętszej Maryi Panny",
       "pos" : [
         50.061589,
         19.9396
       ],
-      "story" : "The story goes that the trumpeter up there never got to finish, and so the tune still breaks off in the middle."
+      "story" : "The story goes a watchman was sounding the alarm against raiders when an arrow stopped him. So the call still breaks off midway."
     },
     {
-      "extendedStory" : "In January 1817 he won the senate of the Free City over, and this stretch of the Old Town wall was kept. Bad winds would blow in from Kleparz, he warned, carrying stench and rubbish and tugging at women's skirts. It worked. Seven gates let people into Kraków once, and this was the main one. The road the kings took to Wawel started under this arch, and it still does.",
+      "extendedStory" : "In January 1817 he won the senate of the Free City over, and this stretch of the Old Town wall was kept. Bad winds would blow in from Kleparz, he warned, carrying stench and rubbish and tugging at women's skirts. It worked. Seven gates let people into Kraków once, and this was the main one. The road the kings took to Wawel started under this arch.",
       "icon" : "everyday",
       "id" : "f-brama-florianska",
       "kind" : "gate_tower",
       "localizedExtendedStory" : {
-        "de" : "Im Januar 1817 überzeugte er den Senat der Freien Stadt Krakau, und dieses Mauerstück blieb stehen. Von Kleparz her, so warnte er, würden schlechte Winde Gestank und Unrat hereintragen und den Frauen die Röcke lüpfen. Es wirkte, und das Tor steht bis heute. Sieben Tore führten einst nach Krakau hinein, und dies war das Haupttor. Unter diesem Bogen begann der Königsweg zum Wawel, und er beginnt hier immer noch.",
-        "en" : "In January 1817 he won the senate of the Free City over, and this stretch of the Old Town wall was kept. Bad winds would blow in from Kleparz, he warned, carrying stench and rubbish and tugging at women's skirts. It worked. Seven gates let people into Kraków once, and this was the main one. The road the kings took to Wawel started under this arch, and it still does."
+        "de" : "Im Januar 1817 überzeugte er den Senat der Freien Stadt Krakau, und dieses Mauerstück blieb stehen. Von Kleparz her, so warnte er, würden schlechte Winde Gestank und Unrat hereintragen und den Frauen die Röcke lüpfen. Es wirkte, und das Tor steht bis heute. Sieben Tore führten einst nach Krakau hinein, und dies war das Haupttor. Unter diesem Bogen begann der Königsweg zum Wawel.",
+        "en" : "In January 1817 he won the senate of the Free City over, and this stretch of the Old Town wall was kept. Bad winds would blow in from Kleparz, he warned, carrying stench and rubbish and tugging at women's skirts. It worked. Seven gates let people into Kraków once, and this was the main one. The road the kings took to Wawel started under this arch."
       },
       "localizedStory" : {
         "de" : "Dieses Tor steht noch, weil ein Mann dafür stritt: Feliks Radwański warnte den Senat vor dem Wind.",
@@ -9699,113 +9695,113 @@
       "story" : "This gate is still here because one man argued for it: Feliks Radwański, who warned the city about the wind."
     },
     {
-      "extendedStory" : "Lightning struck the tower in 1680, and the repair that followed left the lean behind. It was never corrected, and the tilt has stayed. Look at the pair of stone lions in front of the door. They are not the tower's own. They were brought here from a run-down palace at Pławowice, and their white stone has lost its colour.",
+      "extendedStory" : "The lightning came in 1680, and the tower has leaned ever since the repair. Look at the stone lions in front of the door. They are not the tower's own. They were brought here during a renovation in the 1960s, from a run-down palace at Pławowice. Their white stone has lost its colour since.",
       "icon" : "everyday",
       "id" : "f-wieza-ratuszowa",
       "kind" : "gate_tower",
       "localizedExtendedStory" : {
-        "de" : "Die Neigung stammt von der Ausbesserung nach einem Blitzschlag im Jahr 1680. Gerade gerückt wurde der Turm nie, und so steht er bis heute schief. Sieh dir das Löwenpaar vor der Tür an. Es gehört gar nicht zum Turm. Die Figuren kamen bei einem Umbau aus einem verfallenen Schloss in Pławowice hierher, und ihr weißer Stein hat die Farbe verloren.",
-        "en" : "Lightning struck the tower in 1680, and the repair that followed left the lean behind. It was never corrected, and the tilt has stayed. Look at the pair of stone lions in front of the door. They are not the tower's own. They were brought here from a run-down palace at Pławowice, and their white stone has lost its colour."
+        "de" : "Der Blitz schlug 1680 ein, und seit der Ausbesserung steht der Turm schief. Sieh dir die Steinlöwen vor der Tür an. Sie gehören gar nicht zum Turm. Die Figuren kamen bei einem Umbau in den 1960er Jahren aus einem verfallenen Schloss in Pławowice hierher. Ihr weißer Stein hat seither die Farbe verloren.",
+        "en" : "The lightning came in 1680, and the tower has leaned ever since the repair. Look at the stone lions in front of the door. They are not the tower's own. They were brought here during a renovation in the 1960s, from a run-down palace at Pławowice. Their white stone has lost its colour since."
       },
       "localizedStory" : {
-        "de" : "Krakau nennt ihn seinen schiefen Turm. Er steht 55 Zentimeter aus dem Lot, und gerade gerückt hat ihn nie jemand.",
-        "en" : "Kraków calls this its crooked tower. It stands 55 centimetres off the upright, and no one has ever pulled it back."
+        "de" : "Krakau nennt ihn seinen schiefen Turm. Er steht 55 Zentimeter aus dem Lot, eine Folge der Ausbesserung nach einem Blitzschlag.",
+        "en" : "Kraków calls this its crooked tower. It stands 55 centimetres off the upright, a lean left by repairs after lightning struck."
       },
       "name" : "Wieża Ratuszowa",
       "pos" : [
         50.061514,
         19.936472
       ],
-      "story" : "Kraków calls this its crooked tower. It stands 55 centimetres off the upright, and no one has ever pulled it back."
+      "story" : "Kraków calls this its crooked tower. It stands 55 centimetres off the upright, a lean left by repairs after lightning struck."
     },
     {
-      "extendedStory" : "Dowsers put the stone in the ruins of an old church of Saint Gereon, whose walls lie under that wing. The castle itself has argued the tale down, partly because the wall is wearing away where believers lean on it. Inside, on the walls, hang the tapestries Sigismund Augustus ordered in Brussels. 136 of them have survived. Nobody else ever ordered so many.",
+      "extendedStory" : "Dowsers put the stone in the ruins of an old church of Saint Gereon, whose remains lie under that wing. The castle itself has argued the tale down, partly because the wall is wearing away where believers lean on it. Inside, on the walls, hang the tapestries Sigismund Augustus ordered in Brussels. 136 of them have survived. No other ruler ever ordered so many.",
       "icon" : "hero",
       "id" : "f-zamek-krolewski-na-wawelu",
       "kind" : "attraction",
       "localizedExtendedStory" : {
         "de" : "Wünschelrutengänger verorten ihn in den Resten der alten Gereonskirche, die unter dem Westflügel des Schlosses liegen. Die Schlossleitung selbst hat der Sage widersprochen, auch weil die Wand dort leidet, wo sich die Gläubigen anlehnen. Drinnen hängen die Teppiche, die König Sigismund August in Brüssel bestellte. 136 Stücke sind bis heute erhalten. So viele Teppiche hat sonst kein Herrscher je in Auftrag gegeben.",
-        "en" : "Dowsers put the stone in the ruins of an old church of Saint Gereon, whose walls lie under that wing. The castle itself has argued the tale down, partly because the wall is wearing away where believers lean on it. Inside, on the walls, hang the tapestries Sigismund Augustus ordered in Brussels. 136 of them have survived. Nobody else ever ordered so many."
+        "en" : "Dowsers put the stone in the ruins of an old church of Saint Gereon, whose remains lie under that wing. The castle itself has argued the tale down, partly because the wall is wearing away where believers lean on it. Inside, on the walls, hang the tapestries Sigismund Augustus ordered in Brussels. 136 of them have survived. No other ruler ever ordered so many."
       },
       "localizedStory" : {
-        "de" : "Der Sage nach liegt unter dem Westflügel ein Stein voller Kraft, und Menschen drücken sich dafür an die Mauer.",
-        "en" : "Some say a stone of strange energy lies hidden under the west wing, and people come here to press against the wall."
+        "de" : "Der Sage nach liegt unter dem Westflügel ein Stein voller Kraft. Menschen drücken sich an die Mauer, in der Hoffnung, dass er sie heilt.",
+        "en" : "Some say a stone of strange energy lies hidden under the west wing. People press against the wall here, hoping it will heal them."
       },
       "name" : "Zamek Królewski na Wawelu",
       "pos" : [
         50.054512,
         19.936393
       ],
-      "story" : "Some say a stone of strange energy lies hidden under the west wing, and people come here to press against the wall."
+      "story" : "Some say a stone of strange energy lies hidden under the west wing. People press against the wall here, hoping it will heal them."
     },
     {
-      "extendedStory" : "So far the iron has held. What hangs up there is not a dragon at all: a rhinoceros skull, half a whale's jaw and a piece of mammoth. One of them runs over a metre long. Look up as you pass, and then look at the door below. A church has stood here since the year 1020, and this one carries the name of Saint Stanislaus.",
+      "extendedStory" : "So far the chains have held. What hangs up there is not a dragon at all. It is part of a rhinoceros skull, and half the lower jaws of a whale and a mammoth. One of them runs over a metre long. Look up as you pass, and then look at the door below. This church goes back to the year 1020, and it carries the name of Saint Stanislaus.",
       "icon" : "choice",
       "id" : "f-bazylika-archikatedralna-swietych-stanisława-i-wacława",
       "kind" : "church",
       "localizedExtendedStory" : {
-        "de" : "Bisher hält das Eisen. Was da oben hängt, ist kein Drache: ein Stück Nashornschädel, ein halber Walkiefer und ein Mammutknochen, so das Ergebnis der Untersuchung. Eines der drei Stücke misst über einen Meter. Schau hinauf, wenn du vorbeigehst, und schau dir danach die Tür darunter genau an. Seit dem Jahr 1020 steht hier eine Kirche, und diese trägt den Namen des heiligen Stanislaus.",
-        "en" : "So far the iron has held. What hangs up there is not a dragon at all: a rhinoceros skull, half a whale's jaw and a piece of mammoth. One of them runs over a metre long. Look up as you pass, and then look at the door below. A church has stood here since the year 1020, and this one carries the name of Saint Stanislaus."
+        "de" : "Bisher halten die Ketten. Was da oben hängt, ist kein Drache: ein Stück Nashornschädel und je ein halber Unterkiefer von Wal und Mammut. Eines der drei Stücke misst über einen Meter. Schau hinauf, wenn du vorbeigehst, und schau dir danach die Tür darunter genau an. Diese Kirche reicht bis ins Jahr 1020 zurück und trägt den Namen des heiligen Stanislaus.",
+        "en" : "So far the chains have held. What hangs up there is not a dragon at all. It is part of a rhinoceros skull, and half the lower jaws of a whale and a mammoth. One of them runs over a metre long. Look up as you pass, and then look at the door below. This church goes back to the year 1020, and it carries the name of Saint Stanislaus."
       },
       "localizedStory" : {
-        "de" : "Der Sage nach endet die Geschichte Krakaus, wenn die Ketten reißen und herunterfällt, was über der Westtür hängt.",
-        "en" : "The story goes that when the chains give way and what hangs at the west door comes down, Kraków's history ends."
+        "de" : "Der Sage nach endet Krakaus Geschichte, wenn die Ketten reißen und die Drachenreste an der Westtür herabfallen.",
+        "en" : "The story goes that if the chains give way and the dragon relics hanging at the west door fall, Kraków's history ends."
       },
       "name" : "Bazylika archikatedralna Świętych Stanisława i Wacława",
       "pos" : [
         50.054589,
         19.935058
       ],
-      "story" : "The story goes that when the chains give way and what hangs at the west door comes down, Kraków's history ends."
+      "story" : "The story goes that if the chains give way and the dragon relics hanging at the west door fall, Kraków's history ends."
     },
     {
-      "extendedStory" : "The birds settled on Saint Mary's church and pecked little stones out of its walls. The stones turned to gold as they fell. The duke rode off with that gold and never came home, or so the tale has it. Look up from the cobbles while you cross. Three streets lead out of each side of this square, laid out under Magdeburg law when the market was new.",
+      "extendedStory" : "The story goes that Duke Henryk Probus wanted to be crowned king, but had no money. It is said the sorceress made his knights into pigeons to find him gold. They pecked little stones from Saint Mary's church, and the stones fell as gold coins. So the tale goes, he set off for Rome with it, lost it on the way, and never came back.",
       "icon" : "choice",
       "id" : "f-rynek-głowny",
       "kind" : "square",
       "localizedExtendedStory" : {
-        "de" : "Die Vögel setzten sich auf die Marienkirche und pickten Steinchen aus ihren Mauern. Im Fallen wurden die Steine zu Gold. Der Herzog zog mit dem Gold davon und kam nie zurück, so will es die Sage. Schau dich um, während du hier stehst. Aus jeder Seite dieses Platzes führen drei Gassen hinaus, angelegt nach Magdeburger Recht, als der Markt neu war.",
-        "en" : "The birds settled on Saint Mary's church and pecked little stones out of its walls. The stones turned to gold as they fell. The duke rode off with that gold and never came home, or so the tale has it. Look up from the cobbles while you cross. Three streets lead out of each side of this square, laid out under Magdeburg law when the market was new."
+        "de" : "Der Sage nach wollte Herzog Heinrich Probus König werden, hatte aber kein Geld. Man erzählt, die Zauberin verwandelte seine Ritter in Tauben, um ihm Gold zu beschaffen. Sie pickten Steinchen aus der Marienkirche, und die fielen als Goldmünzen herab. So heißt es, er brach mit dem Gold nach Rom auf, verlor es unterwegs und kam nie zurück.",
+        "en" : "The story goes that Duke Henryk Probus wanted to be crowned king, but had no money. It is said the sorceress made his knights into pigeons to find him gold. They pecked little stones from Saint Mary's church, and the stones fell as gold coins. So the tale goes, he set off for Rome with it, lost it on the way, and never came back."
       },
       "localizedStory" : {
-        "de" : "Man sagt, die Tauben hier seien keine gewöhnlichen Vögel. Eine Zauberin verwandelte die Ritter eines Herzogs in sie, und sie warten bis heute.",
-        "en" : "People say the pigeons here are no ordinary birds: a sorceress turned a duke's knights into them, and they are waiting still."
+        "de" : "Man sagt, die Tauben hier seien die Ritter eines Herzogs, von einer Zauberin verwandelt. Sie warten bis heute darauf, dass er heimkehrt.",
+        "en" : "People say the pigeons here are a duke's knights, turned into birds by a sorceress. They are still waiting for him to come home."
       },
       "name" : "Rynek Główny",
       "pos" : [
         50.061519,
         19.937349
       ],
-      "story" : "People say the pigeons here are no ordinary birds: a sorceress turned a duke's knights into them, and they are waiting still."
+      "story" : "People say the pigeons here are a duke's knights, turned into birds by a sorceress. They are still waiting for him to come home."
     },
     {
-      "extendedStory" : "It went up in 1498, set out beyond the wall so that anyone coming at the gate had to get past it. Walk up close and lay a hand flat on the brick. It runs three metres thick in places, and three storeys of loopholes ring it. Above them, lookout turrets watch the road in. Anyone who wanted the city had to solve this thing before the gate.",
+      "extendedStory" : "King Jan Olbracht had it built in 1498, mostly of brick. Its walls run three metres thick, three storeys of loopholes ring it, and lookout turrets rise above. A drawbridge over a moat led in, and a walled passage once ran straight to the Florian Gate. Early in the nineteenth century the city tried to pull it down, but it was saved.",
       "icon" : "everyday",
       "id" : "f-barbakan",
       "kind" : "gate_tower",
       "localizedExtendedStory" : {
-        "de" : "Errichtet wurde er 1498, weit vor die Stadtmauer geschoben, damit jeder Angreifer zuerst an ihm vorbei musste. Geh nah heran und leg die Hand flach auf den Backstein. Bis zu drei Meter dick sind die Mauern, drei Reihen von Schießscharten laufen rundum. Darüber wachen die Ausguckstürmchen. Wer die Stadt haben wollte, musste dieses Bollwerk lösen, bevor er überhaupt an das Tor kam.",
-        "en" : "It went up in 1498, set out beyond the wall so that anyone coming at the gate had to get past it. Walk up close and lay a hand flat on the brick. It runs three metres thick in places, and three storeys of loopholes ring it. Above them, lookout turrets watch the road in. Anyone who wanted the city had to solve this thing before the gate."
+        "de" : "König Jan Olbracht ließ ihn 1498 bauen, vor allem aus Backstein. Bis zu drei Meter dick sind die Mauern, drei Reihen von Schießscharten laufen rundum, darüber wachen Ausguckstürmchen. Hinein ging es über eine Zugbrücke über den Graben, und ein Gang führte einst direkt zum Florianstor. Anfang des 19. Jahrhunderts wollte man ihn abreißen, doch er wurde gerettet.",
+        "en" : "King Jan Olbracht had it built in 1498, mostly of brick. Its walls run three metres thick, three storeys of loopholes ring it, and lookout turrets rise above. A drawbridge over a moat led in, and a walled passage once ran straight to the Florian Gate. Early in the nineteenth century the city tried to pull it down, but it was saved."
       },
       "localizedStory" : {
-        "de" : "Barbakane sagt hier kaum jemand. Der Spitzname des runden Backsteinklotzes lautet Rondel.",
-        "en" : "Hardly anyone says barbican. Round, brick and squat, it is known as the Rondel."
+        "de" : "Barbakane sagt hier kaum jemand, sein Spitzname lautet Rondel. Er sollte das städtische Zeughaus schützen und wurde nie erobert.",
+        "en" : "Hardly anyone says barbican. It is known as the Rondel, and it guarded the city's arsenal without ever being taken."
       },
       "name" : "Barbakan",
       "pos" : [
         50.065276,
         19.94154
       ],
-      "story" : "Hardly anyone says barbican. Round, brick and squat, it is known as the Rondel."
+      "story" : "Hardly anyone says barbican. It is known as the Rondel, and it guarded the city's arsenal without ever being taken."
     },
     {
-      "extendedStory" : "Wait in the arcaded courtyard until eleven, and a small procession files past on the wall above you. A beadle leads, then Queen Jadwiga, King Władysław Jagiełło and three more, to an old academic song. The king bought this house from a Kraków alderman and handed it to his university. It is the oldest university building in Poland. Look up when the music starts.",
+      "extendedStory" : "Wait in the arcaded courtyard until eleven, and a small procession files past on the wall above you. A beadle leads, then Queen Jadwiga, King Władysław Jagiełło and three more, to an academic song. The tale picks a fitting house: the king bought it from a Kraków alderman and gave it to the university. It is the oldest university building in Poland. Look up when the music starts.",
       "icon" : "everyday",
       "id" : "f-collegium-maius",
       "kind" : "attraction",
       "localizedExtendedStory" : {
-        "de" : "Warte im Arkadenhof bis elf Uhr, dann tritt dort oben ein geschnitzter Zug hervor. Vorneweg der Pedell, danach Königin Jadwiga, König Władysław Jagiełło und drei weitere, zu einem alten Studentenlied. Der König hatte dieses Haus einem Krakauer Ratsherrn abgekauft und es der Universität geschenkt. Es ist das älteste Universitätsgebäude Polens. Schau hoch, sobald die Musik einsetzt, und zähl die Figuren mit.",
-        "en" : "Wait in the arcaded courtyard until eleven, and a small procession files past on the wall above you. A beadle leads, then Queen Jadwiga, King Władysław Jagiełło and three more, to an old academic song. The king bought this house from a Kraków alderman and handed it to his university. It is the oldest university building in Poland. Look up when the music starts."
+        "de" : "Warte im Arkadenhof bis elf Uhr, dann tritt dort oben ein geschnitzter Zug hervor. Vorneweg der Pedell, danach Königin Jadwiga, König Władysław Jagiełło und drei weitere, zu einem Studentenlied. Die Sage wählt ein passendes Haus: Der König kaufte es einem Krakauer Ratsherrn ab und schenkte es der Universität. Es ist das älteste Universitätsgebäude Polens. Schau hoch, sobald die Musik einsetzt, und zähl die Figuren mit.",
+        "en" : "Wait in the arcaded courtyard until eleven, and a small procession files past on the wall above you. A beadle leads, then Queen Jadwiga, King Władysław Jagiełło and three more, to an academic song. The tale picks a fitting house: the king bought it from a Kraków alderman and gave it to the university. It is the oldest university building in Poland. Look up when the music starts."
       },
       "localizedStory" : {
         "de" : "Der Sage nach holten sich Doktor Faustus und der Alchemist Twardowski ihre Zauberkunst in diesen Mauern.",
@@ -9819,7 +9815,7 @@
       "story" : "The story goes that Doctor Faustus and the alchemist Twardowski picked up their magic inside these walls."
     }
   ],
-  "generatedAt" : "2026-09-25T19:22:06Z",
+  "generatedAt" : "2026-10-02T12:24:49Z",
   "icon" : {
     "paths" : [
       "M 28.00 70.00 L 66.00 70.00 L 66.00 90.00 L 28.00 90.00 Z M 12.00 26.00 L 38.00 26.00 L 38.00 90.00 L 12.00 90.00 Z M 12.00 26.00 L 38.00 26.00 L 25.00 8.00 Z M 25.00 3.00 C 27.21 3.00 29.00 4.79 29.00 7.00 C 29.00 9.21 27.21 11.00 25.00 11.00 C 22.79 11.00 21.00 9.21 21.00 7.00 C 21.00 4.79 22.79 3.00 25.00 3.00 Z M 23.50 2.00 L 26.50 2.00 L 26.50 8.00 L 23.50 8.00 Z M 20.00 46.00 L 20.00 62.00 L 30.00 62.00 L 30.00 46.00 Z M 21.00 74.00 L 21.00 84.00 L 29.00 84.00 L 29.00 74.00 Z M 58.00 44.00 L 84.00 44.00 L 84.00 90.00 L 58.00 90.00 Z M 58.00 44.00 C 58.00 34.76 63.85 30.00 71.00 30.00 C 78.15 30.00 84.00 34.76 84.00 44.00 L 58.00 44.00 Z M 71.00 24.00 C 72.66 24.00 74.00 25.34 74.00 27.00 C 74.00 28.66 72.66 30.00 71.00 30.00 C 69.34 30.00 68.00 28.66 68.00 27.00 C 68.00 25.34 69.34 24.00 71.00 24.00 Z M 64.00 58.00 L 64.00 74.00 L 74.00 74.00 L 74.00 58.00 Z"
@@ -9832,7 +9828,7 @@
     "en" : "Kraków"
   },
   "name" : "Kraków",
-  "packVersion" : 16,
+  "packVersion" : 19,
   "schemaVersion" : 1,
   "source" : "OpenStreetMap via Overpass API",
   "stats" : {

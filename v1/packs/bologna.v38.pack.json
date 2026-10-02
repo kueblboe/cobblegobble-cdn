@@ -400,19 +400,14 @@
   ],
   "changes" : {
     "addedStreets" : [
-      "Quadriportico di Santa Maria dei Servi"
+
     ],
     "adjustedStreets" : [
-      "Galleria del Pincio",
-      "Via dell'Indipendenza"
+
     ],
-    "fromVersion" : 35,
+    "fromVersion" : 37,
     "removedStreets" : [
-      "Piazza Vittorio Puntoni",
-      "Piazzetta Achille Ardigò",
-      "Piazzetta Marco Biagi",
-      "Piazzetta San Nicolò",
-      "Piazzetta dei servi di Maria"
+
     ]
   },
   "cityId" : "bologna",
@@ -21289,23 +21284,23 @@
       },
       "localizedStory" : {
         "de" : "Man sagt, das Gewölbe unter dem Palast am Platz sei ein Telefon ohne Kabel. Flüstere in eine Ecke, und jemand hört dich in einer anderen.",
-        "en" : "The vault under the palace on this square is known as a wireless phone. Talk into one corner and a friend hears you from another."
+        "en" : "The vault under the palace on this square is known as a wireless phone. Talk into one corner and someone in another can hear you."
       },
       "name" : "Piazza Maggiore",
       "pos" : [
         44.493672,
         11.343085
       ],
-      "story" : "The vault under the palace on this square is known as a wireless phone. Talk into one corner and a friend hears you from another."
+      "story" : "The vault under the palace on this square is known as a wireless phone. Talk into one corner and someone in another can hear you."
     },
     {
-      "extendedStory" : "These stalls have a history of moving house. The treccole, Bologna's old food stalls, once stood out on Piazza Maggiore, and this hall became their home for good. Arturo Carpi drew it in 1910 with the engineer Luigi Mellucci. It reopened in 1949, and its stalls are open to you today. Stand where the arms of the cross meet and look down each one in turn.",
+      "extendedStory" : "These stalls moved here. The treccole, Bologna's old food stalls, once stood on Piazza Maggiore, and this hall became their home for good. Arturo Carpi drew it in 1910 with the engineer Luigi Mellucci. It reopened in 1949, and its stalls are open to you today. Stand where the arms of the cross meet and look down each one in turn.",
       "icon" : "everyday",
       "id" : "f-mercato-delle-erbe",
       "kind" : "market",
       "localizedExtendedStory" : {
-        "de" : "Diese Stände haben einen weiten Weg hinter sich. Die Treccole, Bolognas alte Lebensmittelstände, standen früher draußen auf der Piazza Maggiore. In dieser Halle fanden sie endlich ein festes Zuhause. Arturo Carpi entwarf die Halle 1910 mit dem Ingenieur Luigi Mellucci, wieder eröffnet wurde sie 1949. Stell dich dorthin, wo sich die Arme des Kreuzes treffen, und schau in jeden hinein.",
-        "en" : "These stalls have a history of moving house. The treccole, Bologna's old food stalls, once stood out on Piazza Maggiore, and this hall became their home for good. Arturo Carpi drew it in 1910 with the engineer Luigi Mellucci. It reopened in 1949, and its stalls are open to you today. Stand where the arms of the cross meet and look down each one in turn."
+        "de" : "Diese Stände sind hierher umgezogen. Die Treccole, Bolognas alte Lebensmittelstände, standen früher auf der Piazza Maggiore. In dieser Halle fanden sie ein festes Zuhause. Arturo Carpi entwarf die Halle 1910 mit dem Ingenieur Luigi Mellucci, wieder eröffnet wurde sie 1949. Stell dich dorthin, wo sich die Arme des Kreuzes treffen, und schau in jeden hinein.",
+        "en" : "These stalls moved here. The treccole, Bologna's old food stalls, once stood on Piazza Maggiore, and this hall became their home for good. Arturo Carpi drew it in 1910 with the engineer Luigi Mellucci. It reopened in 1949, and its stalls are open to you today. Stand where the arms of the cross meet and look down each one in turn."
       },
       "localizedStory" : {
         "de" : "Drinnen liegt der Markt im Grundriss eines griechischen Kreuzes, überdacht von Eisen und Glas.",
@@ -21339,24 +21334,24 @@
       "story" : "Giuseppe Mezzofanti worked for this library and mastered about fifty languages. He never once left Italy."
     },
     {
-      "extendedStory" : "Inside hangs a painted panel by Cimabue, a Maestà from about 1285. Maestà is Italian for majesty. Outside, the covered walkway along the church is credited to Antonio di Vincenzo. Andrea da Faenza made the building bigger in 1383, in the pointed Gothic style of his day. Walk under that covered way, then step inside and look for the old painted panel.",
+      "extendedStory" : "Inside hangs a painted panel by Cimabue, a Maestà from about 1285. Maestà is Italian for majesty. Outside, the covered walkway along the church is credited to Antonio di Vincenzo. Andrea da Faenza made the building bigger in 1383, in the Gothic style. Walk under that covered way, then step inside and look for the old painted panel.",
       "icon" : "choice",
       "id" : "f-santa-maria-dei-servi",
       "kind" : "church",
       "localizedExtendedStory" : {
         "de" : "Drinnen hängt eine bemalte Tafel von Cimabue, eine Maestà von etwa 1285. Maestà ist Italienisch für Majestät. Draußen zieht sich ein überdachter Gang an der Kirche entlang, er wird Antonio di Vincenzo zugeschrieben. Andrea da Faenza vergrößerte den gotischen Bau im Jahr 1383. Geh erst unter diesem Gang entlang, dann tritt ein und such die alte bemalte Tafel von Cimabue.",
-        "en" : "Inside hangs a painted panel by Cimabue, a Maestà from about 1285. Maestà is Italian for majesty. Outside, the covered walkway along the church is credited to Antonio di Vincenzo. Andrea da Faenza made the building bigger in 1383, in the pointed Gothic style of his day. Walk under that covered way, then step inside and look for the old painted panel."
+        "en" : "Inside hangs a painted panel by Cimabue, a Maestà from about 1285. Maestà is Italian for majesty. Outside, the covered walkway along the church is credited to Antonio di Vincenzo. Andrea da Faenza made the building bigger in 1383, in the Gothic style. Walk under that covered way, then step inside and look for the old painted panel."
       },
       "localizedStory" : {
-        "de" : "Einst hatte diese Kirche vier Orgeln. Heute ist nur noch eine übrig, und die ist viel jünger als die Kirche um sie herum.",
-        "en" : "Once this church had four organs. Today just one is left, and it is much younger than the church around it."
+        "de" : "Im 17. Jahrhundert spielten in dieser Kirche vier Orgeln, mitten in Bolognas Musikleben. Bis heute finden hier oft Konzerte statt.",
+        "en" : "In the seventeenth century four organs played in this church, at the heart of Bologna's music. Concerts are often held here today."
       },
       "name" : "Santa Maria dei Servi",
       "pos" : [
         44.49163,
         11.352607
       ],
-      "story" : "Once this church had four organs. Today just one is left, and it is much younger than the church around it."
+      "story" : "In the seventeenth century four organs played in this church, at the heart of Bologna's music. Concerts are often held here today."
     },
     {
       "extendedStory" : "Workers, cigar-makers, laundresses and porters filled the benches. They sat more equally than people did in the old box theatres. Carlo Aspari drew the building, and Pietro Bonini had it built. For its 1995 reopening it got a wooden floor in pieces that a hydraulic machine raises. Lifted up, the stalls meet the stage, and the stage grows to 25 metres long.",
@@ -21379,24 +21374,24 @@
       "story" : "Arena of the Sun: plays here ran by daylight, on a stage with no roof, open to the sky."
     },
     {
-      "extendedStory" : "A copy of Bartolomeo Cesi's portrait of him hangs on the stairs, at the mezzanine landing. The original was lost to a fire. In the entrance hall at number 28, a plaque marks that Tsar Nicholas I of Russia once passed through here, in 1845. Out in the courtyard, Roman stone tablets are set into the wall. They record baths that the emperor Augustus founded in Bononia, Roman Bologna.",
+      "extendedStory" : "Bologna and Florence kept his fame alive for centuries. He was a Carthusian monk and a cardinal, and he served the pope as envoy to France and England. A copy of Bartolomeo Cesi's portrait of him hangs on the stairs, at the mezzanine landing. The original was lost to a fire. Out in the courtyard, Roman stone tablets are set into the wall. They record baths that the emperor Augustus founded in Roman Bologna.",
       "icon" : "everyday",
       "id" : "f-palazzo-albergati",
       "kind" : "palace",
       "localizedExtendedStory" : {
-        "de" : "Eine Kopie seines Porträts von Bartolomeo Cesi hängt am Zwischenpodest der Treppe. Das Original ging in einem Feuer verloren. In der Eingangshalle bei Nummer 28 erinnert eine Tafel an Zar Nikolaus von Russland, der 1845 hier durchkam. Im Hof sind römische Steintafeln in die Mauer eingelassen. Sie erzählen von Thermen, die Kaiser Augustus im römischen Bononia stiftete, dem Bologna der Römerzeit.",
-        "en" : "A copy of Bartolomeo Cesi's portrait of him hangs on the stairs, at the mezzanine landing. The original was lost to a fire. In the entrance hall at number 28, a plaque marks that Tsar Nicholas I of Russia once passed through here, in 1845. Out in the courtyard, Roman stone tablets are set into the wall. They record baths that the emperor Augustus founded in Bononia, Roman Bologna."
+        "de" : "Bologna und Florenz hielten seinen Ruhm jahrhundertelang lebendig. Er war Kartäusermönch und Kardinal und reiste als Gesandter des Papstes nach Frankreich und England. Eine Kopie seines Porträts von Bartolomeo Cesi hängt am Zwischenpodest der Treppe, das Original ging in einem Feuer verloren. Im Hof sind römische Steintafeln in die Mauer eingelassen. Sie erzählen von Thermen, die Kaiser Augustus im römischen Bologna stiftete.",
+        "en" : "Bologna and Florence kept his fame alive for centuries. He was a Carthusian monk and a cardinal, and he served the pope as envoy to France and England. A copy of Bartolomeo Cesi's portrait of him hangs on the stairs, at the mezzanine landing. The original was lost to a fire. Out in the courtyard, Roman stone tablets are set into the wall. They record baths that the emperor Augustus founded in Roman Bologna."
       },
       "localizedStory" : {
-        "de" : "Man sagt, der selige Niccolò Albergati habe wundersame Tugenden gehabt. Bologna und Florenz hielten seinen Ruhm jahrhundertelang lebendig.",
-        "en" : "People say the Blessed Niccolò Albergati had miraculous virtues. Bologna and Florence kept his fame alive for centuries."
+        "de" : "Man sagt, der selige Niccolò Albergati, Bischof von Bologna, habe wundersame Tugenden gehabt. Ein Schüler von ihm wurde Papst und nahm seinen Namen an.",
+        "en" : "People say the Blessed Niccolò Albergati, Bologna's bishop, had miraculous virtues. A pupil of his became pope and took his name."
       },
       "name" : "Palazzo Albergati",
       "pos" : [
         44.489814,
         11.334476
       ],
-      "story" : "People say the Blessed Niccolò Albergati had miraculous virtues. Bologna and Florence kept his fame alive for centuries."
+      "story" : "People say the Blessed Niccolò Albergati, Bologna's bishop, had miraculous virtues. A pupil of his became pope and took his name."
     },
     {
       "extendedStory" : "A shop once put it in real danger. In the 19th century a shop moved into its base and made the door bigger. Cutting that opening thinned the walls so much that the tower's stability was at risk. It survived, and today it is one of about 20 family towers still standing in the centre. The Azzoguidi, the family behind its name, turn up in the city's chronicles in the Middle Ages.",
@@ -21439,27 +21434,27 @@
       "story" : "In 1805 Napoleon was offered the keys to the city outside this gate. He turned them down: they were already in good hands."
     },
     {
-      "extendedStory" : "Picture that wall running right round the city. It stood 8 metres high, and 16 gates like this one cut through it. Besides them there were just two small back doors, called posterns, for slipping in and out. The city began the ring in the Middle Ages. Today this gate tower still stands on Via Portanova, and you can walk right under it.",
+      "extendedStory" : "Recent studies show the ring is older than people long thought, which makes the old name fit again. Picture that wall running round the city, 8 metres high. Every gate in it was topped by a tower like this one. Just two small back doors, called posterns, let people slip in and out. This gate tower still stands on Via Portanova.",
       "icon" : "everyday",
       "id" : "f-torresotto-di-porta-nuova",
       "kind" : "gate_tower",
       "localizedExtendedStory" : {
-        "de" : "Stell dir die Mauer vor, wie sie rund um die Stadt lief. Sie war ganze 8 Meter hoch, und 16 Tore wie dieses führten hindurch. Dazu kamen nur zwei kleine Nebenpforten zum Hinein- und Hinausschlüpfen. Begonnen hat die Stadt den Ring im Mittelalter. Dieser Torturm steht noch heute an der Via Portanova, und du gehst direkt unter ihm hindurch.",
-        "en" : "Picture that wall running right round the city. It stood 8 metres high, and 16 gates like this one cut through it. Besides them there were just two small back doors, called posterns, for slipping in and out. The city began the ring in the Middle Ages. Today this gate tower still stands on Via Portanova, and you can walk right under it."
+        "de" : "Neuere Studien zeigen, dass der Ring älter ist als lange gedacht, und so passt der alte Name wieder. Stell dir die Mauer vor, wie sie rund um die Stadt lief, 8 Meter hoch. Jedes Tor darin trug einen Turm wie diesen. Dazu kamen nur zwei kleine Nebenpforten zum Hinein- und Hinausschlüpfen. Dieser Torturm steht noch heute an der Via Portanova.",
+        "en" : "Recent studies show the ring is older than people long thought, which makes the old name fit again. Picture that wall running round the city, 8 metres high. Every gate in it was topped by a tower like this one. Just two small back doors, called posterns, let people slip in and out. This gate tower still stands on Via Portanova."
       },
       "localizedStory" : {
-        "de" : "Durch dieses Torhaus ging es einst durch Bolognas zweiten Mauerring. Die Stadt nennt ihn bis heute den Ring der Tausend.",
-        "en" : "This gate tower once let people through Bologna's second ring of walls. The city still calls it the ring of the thousand."
+        "de" : "Dieses Torhaus stand in Bolognas zweitem Mauerring. Sein alter Name, Ring der Tausend, verrät, wie alt der Ring ist.",
+        "en" : "This gate tower stood in Bologna's second ring of walls. Its old name, the ring of the thousand, hints at how old the ring is."
       },
       "name" : "Torresotto di Porta Nuova",
       "pos" : [
         44.494328,
         11.336788
       ],
-      "story" : "This gate tower once let people through Bologna's second ring of walls. The city still calls it the ring of the thousand."
+      "story" : "This gate tower stood in Bologna's second ring of walls. Its old name, the ring of the thousand, hints at how old the ring is."
     }
   ],
-  "generatedAt" : "2026-09-25T19:21:53Z",
+  "generatedAt" : "2026-10-02T12:33:14Z",
   "icon" : {
     "paths" : [
       "M34 84 L34 12 L39 12 L39 17 L43 17 L43 12 L48 12 L48 84 Z M56 84 L66 38 L66 33 L71 33 L71 38 L75 38 L75 33 L80 33 L80 38 L70 84 Z M28 84 L78 84 L78 90 L28 90 Z"
@@ -21473,7 +21468,7 @@
     "it" : "Bologna"
   },
   "name" : "Bologna",
-  "packVersion" : 36,
+  "packVersion" : 38,
   "schemaVersion" : 1,
   "source" : "OpenStreetMap via Overpass API",
   "stats" : {

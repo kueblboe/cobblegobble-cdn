@@ -209,9 +209,9 @@
     "adjustedStreets" : [
 
     ],
-    "fromVersion" : 15,
+    "fromVersion" : 19,
     "removedStreets" : [
-      "Achtersikkel"
+
     ]
   },
   "cityId" : "ghent",
@@ -9149,33 +9149,33 @@
   ],
   "fruits" : [
     {
-      "extendedStory" : "Count Philip of Alsace put this castle up. Its outer ring is an ellipse carrying twenty four half circle towers that stand open at the back. The stone is Tournai limestone, set in a herringbone pattern in places, so look low at the masonry. Later it made coins, held the courts of Flanders, and ended as a cotton mill with families living inside. The students who locked themselves in were just the latest tenants.",
+      "extendedStory" : "One of their banners mocked the police's new caps, which the students thought looked like a postman's. The police got in at last on the fire brigade's ladders. Count Philip of Alsace put the castle up. Its outer ring is an ellipse carrying twenty four half circle towers that stand open at the back. Later it made coins, held the courts of Flanders, and later still became a cotton mill with families living inside.",
       "icon" : "hero",
       "id" : "f-gravensteen",
       "kind" : "fortress",
       "localizedExtendedStory" : {
-        "de" : "Graf Philipp von Elsass ließ die Burg errichten. Ihre Ringmauer bildet eine Ellipse mit vierundzwanzig halbrunden Türmen, die nach hinten offen stehen. Der Stein ist Tournai-Kalkstein, an mehreren Stellen im Fischgrätmuster verlegt, also schau unten an die Mauer. Später wurden hier Münzen geschlagen, Recht gesprochen, und zuletzt zog eine Baumwollspinnerei mit Arbeiterfamilien ein. Die eingeschlossenen Studenten waren nur die jüngsten Bewohner.",
-        "en" : "Count Philip of Alsace put this castle up. Its outer ring is an ellipse carrying twenty four half circle towers that stand open at the back. The stone is Tournai limestone, set in a herringbone pattern in places, so look low at the masonry. Later it made coins, held the courts of Flanders, and ended as a cotton mill with families living inside. The students who locked themselves in were just the latest tenants."
+        "de" : "Auf einem ihrer Transparente verspotteten sie die neuen Mützen der Polizei, die ihnen wie Briefträgermützen vorkamen. Hinein kam die Polizei erst über die Leitern der Feuerwehr. Graf Philipp von Elsass ließ die Burg errichten. Ihre Ringmauer bildet eine Ellipse mit vierundzwanzig halbrunden Türmen, die nach hinten offen stehen. Später wurden hier Münzen geschlagen und Recht gesprochen, und später zog eine Baumwollspinnerei mit Arbeiterfamilien ein.",
+        "en" : "One of their banners mocked the police's new caps, which the students thought looked like a postman's. The police got in at last on the fire brigade's ladders. Count Philip of Alsace put the castle up. Its outer ring is an ellipse carrying twenty four half circle towers that stand open at the back. Later it made coins, held the courts of Flanders, and later still became a cotton mill with families living inside."
       },
       "localizedStory" : {
-        "de" : "Man erzählt, Studenten hätten sich einst in dieser Burg eingeschlossen. Tausend von ihnen kommen jedes Jahr wieder und machen es noch einmal.",
-        "en" : "The story goes that students once shut themselves inside this castle. A thousand of them still come back every year to do it again."
+        "de" : "Studenten besetzten diese Burg einst aus Jux und bewarfen die Polizei mit Obst. Man erzählt, jedes Jahr kommen tausend wieder und machen es noch einmal.",
+        "en" : "Students once seized this castle as a prank and pelted police with fruit. People say a thousand return every year to do it again."
       },
       "name" : "Gravensteen",
       "pos" : [
         51.057243,
         3.721139
       ],
-      "story" : "The story goes that students once shut themselves inside this castle. A thousand of them still come back every year to do it again."
+      "story" : "Students once seized this castle as a prank and pelted police with fruit. People say a thousand return every year to do it again."
     },
     {
-      "extendedStory" : "What fills the gap today is a copy, painted to stand in for what went missing. The case has never been closed, and new ideas about the hiding place keep arriving. Every search so far has come back empty. Go down instead into the vaults below the church. An earlier one had four aisles, and the two middle ones are still standing.",
+      "extendedStory" : "What stands in the gap today is a copy. The case has never been closed, and new ideas about the hiding place keep arriving. Go down instead into the vaults below the church. An earlier vault down there had four aisles, and its two middle ones are still standing. The church above them carries the name of Saint Bavo.",
       "icon" : "choice",
       "id" : "f-sint-baafskathedraal",
       "kind" : "church",
       "localizedExtendedStory" : {
-        "de" : "In der Lücke steckt heute eine Kopie, die eigens als Ersatz für das Verschwundene gemalt wurde. Der Fall ist nie geschlossen worden, und man erzählt sich immer neue Vermutungen zum Versteck. Gefunden hat bisher keiner etwas, weder damals noch später. Steig stattdessen hinunter in die Gewölbe unter der Kirche. Ein früherer Bau hatte dort vier Schiffe, zwei davon stehen noch.",
-        "en" : "What fills the gap today is a copy, painted to stand in for what went missing. The case has never been closed, and new ideas about the hiding place keep arriving. Every search so far has come back empty. Go down instead into the vaults below the church. An earlier one had four aisles, and the two middle ones are still standing."
+        "de" : "In der Lücke steckt heute eine Kopie. Der Fall ist nie geschlossen worden, und man erzählt sich immer neue Vermutungen zum Versteck. Steig stattdessen hinunter in die Gewölbe unter der Kirche. Ein früheres Gewölbe dort hatte vier Schiffe, und die beiden mittleren stehen noch. Die Kirche darüber trägt den Namen des heiligen Bavo.",
+        "en" : "What stands in the gap today is a copy. The case has never been closed, and new ideas about the hiding place keep arriving. Go down instead into the vaults below the church. An earlier vault down there had four aisles, and its two middle ones are still standing. The church above them carries the name of Saint Bavo."
       },
       "localizedStory" : {
         "de" : "Wohin die Gerechten Richter verschwunden sind, weiß bis heute keiner. Das Bild fehlt seither im Altar, und aufgetaucht ist es nie.",
@@ -9189,33 +9189,33 @@
       "story" : "No one knows where the Just Judges went. That piece of the altarpiece vanished from here and has never turned up."
     },
     {
-      "extendedStory" : "Close to, the dragon is metalwork, not a monster. It is built from 130 pieces of copper, held together by 1,298 rivets. Gold leaf lies crosswise across every bit of it, so it catches the light. The one turning there now was made by a Ghent metal firm, so the city keeps replacing its own dragon. The tower beneath it belonged to the townspeople, not to a lord or a bishop.",
+      "extendedStory" : "The story goes that it began in Constantinople, where the dragon flew up and sent the guards running. So the tale goes, the men of Bruges sailed home with it and left the men of Ghent behind. It is said Ghent took its revenge, seized the dragon from Bruges and floated it home along the Lieve canal. A dragon made in Ghent has watched over the city since 1377. Today's is the third, built from 130 copper pieces by a Ghent metal firm.",
       "icon" : "choice",
       "id" : "f-belfort",
       "kind" : "gate_tower",
       "localizedExtendedStory" : {
-        "de" : "Aus der Nähe ist der Drache Metallarbeit und kein Untier. Er besteht aus 130 Kupferstücken, die 1.298 Nieten zusammenhalten. Blattgold liegt kreuzweise darüber, deshalb fängt er jedes bisschen Licht. Der Drache, der sich heute dreht, kam aus einer Genter Metallwerkstatt, die Stadt ersetzt ihren Drachen also selbst. Der Turm unter ihm gehörte den Bürgern, nicht einem Herrn und nicht einem Bischof.",
-        "en" : "Close to, the dragon is metalwork, not a monster. It is built from 130 pieces of copper, held together by 1,298 rivets. Gold leaf lies crosswise across every bit of it, so it catches the light. The one turning there now was made by a Ghent metal firm, so the city keeps replacing its own dragon. The tower beneath it belonged to the townspeople, not to a lord or a bishop."
+        "de" : "Der Sage nach begann alles in Konstantinopel, wo der Drache aufflog und die Wachen in die Flucht schlug. Man erzählt, die Männer aus Brügge segelten mit ihm heim und ließen die Genter einfach zurück. Es heißt, Gent habe später Rache genommen, Brügge den Drachen abgenommen und ihn auf dem Kanal Lieve im Triumph heimgebracht. Ein Drache aus Genter Werkstatt wacht seit 1377 über die Stadt. Der heutige ist schon der dritte, aus 130 Kupferstücken, gebaut von einer Genter Metallfirma.",
+        "en" : "The story goes that it began in Constantinople, where the dragon flew up and sent the guards running. So the tale goes, the men of Bruges sailed home with it and left the men of Ghent behind. It is said Ghent took its revenge, seized the dragon from Bruges and floated it home along the Lieve canal. A dragon made in Ghent has watched over the city since 1377. Today's is the third, built from 130 copper pieces by a Ghent metal firm."
       },
       "localizedStory" : {
-        "de" : "Der Sage nach kam der goldene Drache auf dem Turm aus Konstantinopel. Brügge trug ihn heim, und Gent bekam ihn erst später.",
-        "en" : "The story goes that the golden dragon up there came from Constantinople. Bruges carried it home, and Ghent got it later."
+        "de" : "Der Sage nach erbeutete Gent den goldenen Drachen dort oben im Krieg gegen Brügge. In Wahrheit ließ Gent ihn selbst anfertigen.",
+        "en" : "The story goes that Ghent won the golden dragon up there from Bruges as a war prize. In truth, Ghent had it made at home."
       },
       "name" : "Belfort",
       "pos" : [
         51.053661,
         3.724791
       ],
-      "story" : "The story goes that the golden dragon up there came from Constantinople. Bruges carried it home, and Ghent got it later."
+      "story" : "The story goes that Ghent won the golden dragon up there from Bruges as a war prize. In truth, Ghent had it made at home."
     },
     {
-      "extendedStory" : "The tower watchmen sat up there too, keeping an eye over the roofs of the whole city. Not until 1442 did they cross to the newer belfry, so this tower had the job for centuries. The bell that hung here was called a banklok, from the old word for an official announcement. When it rang, Ghent stopped what it was doing and listened.",
+      "extendedStory" : "That bell was called the banklok, from an old word for an official announcement. A count gave Ghent the right to it, the sign that the city could hold its own courts. The city's charters of rights were once kept in this tower too. Watchmen were posted up here until 1442, when they moved across to the newer belfry.",
       "icon" : "choice",
       "id" : "f-sint-niklaaskerk",
       "kind" : "church",
       "localizedExtendedStory" : {
-        "de" : "Auch die Türmer saßen dort oben und hielten Ausschau über die Dächer der ganzen Stadt, weit hinaus. Erst 1442 wechselten sie hinüber zum neueren Belfried, davor hing der ganze Dienst an diesem Turm. Die Glocke hier hieß banklok, nach dem alten Wort für eine amtliche Bekanntmachung. Wenn sie läutete, hielt die Stadt inne und hörte zu, ob nun Markt war oder Werktag.",
-        "en" : "The tower watchmen sat up there too, keeping an eye over the roofs of the whole city. Not until 1442 did they cross to the newer belfry, so this tower had the job for centuries. The bell that hung here was called a banklok, from the old word for an official announcement. When it rang, Ghent stopped what it was doing and listened."
+        "de" : "Diese Glocke hieß banklok, nach einem alten Wort für eine amtliche Bekanntmachung. Ein Graf gab Gent das Recht auf sie, als Zeichen, dass die Stadt selbst Recht sprechen durfte. Auch die Urkunden mit den Rechten der Stadt lagen einst in diesem Turm. Türmer hielten hier oben Wache bis 1442, dann zogen sie hinüber in den neueren Belfried.",
+        "en" : "That bell was called the banklok, from an old word for an official announcement. A count gave Ghent the right to it, the sign that the city could hold its own courts. The city's charters of rights were once kept in this tower too. Watchmen were posted up here until 1442, when they moved across to the newer belfry."
       },
       "localizedStory" : {
         "de" : "Bevor Gent einen Belfried hatte, war dieser Kirchturm einer. Die Glocke der Stadt hing hier drin und läutete ihre Bekanntmachungen aus.",
@@ -9229,33 +9229,33 @@
       "story" : "Before Ghent had a belfry, this church tower was one. The city's own bell hung in here and rang out its announcements."
     },
     {
-      "extendedStory" : "Various things got in the way, and just a small part of the drawing was ever built. The drawings themselves survive, which is how anyone knows what was meant. Inside there are 51 rooms, one of them the chapel where Ghent folk still marry. In another, a labyrinth of black and white stone lies in the floor. Clays Triest had it laid in the room where the aldermen gave judgement, copying the pattern at Saint Omer.",
+      "extendedStory" : "Ghent felt the emperor's high taxes were spent on his wars abroad, so the city rose against him. The next year he marched in, and the rebels gave in without a fight. He fined the city and stripped it of its old freedoms, and the grand front was never finished. Inside, among 51 rooms, is a chapel where Ghent couples still marry. Another room has a labyrinth of blue black and white stone in its floor, laid after the pattern at Saint Omer.",
       "icon" : "everyday",
       "id" : "f-stadhuis-gent",
       "kind" : "civic",
       "localizedExtendedStory" : {
-        "de" : "Allerlei kam dazwischen, und gebaut wurde am Ende nur ein kleiner Teil des Entwurfs. Die Zeichnungen sind erhalten, deshalb weiß man überhaupt, was gemeint war. Drinnen liegen 51 Räume, einer davon die Kapelle, in der Genter bis heute heiraten. In einem anderen liegt ein Labyrinth aus schwarzem und weißem Stein im Boden. Clays Triest ließ es dort verlegen, wo die Schöffen Recht sprachen, nach dem Vorbild von Saint Omer.",
-        "en" : "Various things got in the way, and just a small part of the drawing was ever built. The drawings themselves survive, which is how anyone knows what was meant. Inside there are 51 rooms, one of them the chapel where Ghent folk still marry. In another, a labyrinth of black and white stone lies in the floor. Clays Triest had it laid in the room where the aldermen gave judgement, copying the pattern at Saint Omer."
+        "de" : "Gent fand, die hohen Steuern des Kaisers flossen in seine Kriege in der Ferne, also erhob sich die Stadt gegen ihn. Im Jahr darauf zog er ein, und die Aufständischen gaben ohne Kampf auf. Er strafte die Stadt mit einer Buße und nahm ihr die alten Freiheiten, und die große Fassade wurde nie vollendet. Drinnen liegt unter 51 Räumen eine Kapelle, in der Genter bis heute heiraten. In einem anderen Raum liegt ein Labyrinth aus blauschwarzem und weißem Stein im Boden, nach dem Muster von Saint Omer.",
+        "en" : "Ghent felt the emperor's high taxes were spent on his wars abroad, so the city rose against him. The next year he marched in, and the rebels gave in without a fight. He fined the city and stripped it of its old freedoms, and the grand front was never finished. Inside, among 51 rooms, is a chapel where Ghent couples still marry. Another room has a labyrinth of blue black and white stone in its floor, laid after the pattern at Saint Omer."
       },
       "localizedStory" : {
-        "de" : "Die Fassade war viel größer geplant. Ihre leeren Nischen sollten die Grafen von Flandern aufnehmen, und blieben doch für immer leer.",
-        "en" : "Somebody drew this front far larger than it ever got built. Its empty niches were meant to hold the counts of Flanders."
+        "de" : "Die Fassade war viel größer geplant, mit Nischen für Flanderns Grafen. Dann trotzte Gent Kaiser Karl wegen seiner Steuern, und der Bau stockte.",
+        "en" : "This front was drawn far larger, with niches for the counts of Flanders. Then Ghent defied Charles the Fifth over taxes, and work stopped."
       },
       "name" : "Stadhuis Gent",
       "pos" : [
         51.054703,
         3.72511
       ],
-      "story" : "Somebody drew this front far larger than it ever got built. Its empty niches were meant to hold the counts of Flanders."
+      "story" : "This front was drawn far larger, with niches for the counts of Flanders. Then Ghent defied Charles the Fifth over taxes, and work stopped."
     },
     {
-      "extendedStory" : "It is painted red again now, and the paint is there to keep the rust off. For all that, it has never been fired. It was dragged here from Oudenaarde to help defend the city, and turned out to be no use at all. It was forged rather than cast, out of iron bands welded into a barrel and a chamber. Look on the back of the chamber for the cross of Burgundy, with a flint and a firesteel in the corners.",
+      "extendedStory" : "It has never been fired. It was brought here from Oudenaarde to help hold off the Spanish, and turned out to be no use at all. It wears its old red again now, painted on to keep the rust off. It was forged rather than cast, out of iron bands welded into a barrel and a chamber. Look on the back of the chamber for the cross of Burgundy, with a flint and a firesteel in the corners.",
       "icon" : "choice",
       "id" : "f-dulle-griet",
       "kind" : "attraction",
       "localizedExtendedStory" : {
-        "de" : "Heute ist es wieder rot gestrichen, und die Farbe hält den Rost ab. Abgefeuert worden ist es trotzdem nie. Man schleppte es aus Oudenaarde herbei, um die Stadt zu schützen, und dann taugte es zu gar nichts. Geschmiedet ist es, nicht gegossen: Eisenbänder, zusammengeschweißt zu Rohr und Kammer. Schau hinten an der Kammer nach dem Kreuz von Burgund, mit Feuerstein und Feuerstahl in den Ecken.",
-        "en" : "It is painted red again now, and the paint is there to keep the rust off. For all that, it has never been fired. It was dragged here from Oudenaarde to help defend the city, and turned out to be no use at all. It was forged rather than cast, out of iron bands welded into a barrel and a chamber. Look on the back of the chamber for the cross of Burgundy, with a flint and a firesteel in the corners."
+        "de" : "Abgefeuert wurde es nie. Man brachte es aus Oudenaarde her, um die Spanier abzuwehren, und dann taugte es zu gar nichts. Heute trägt es wieder sein altes Rot, damit es nicht weiter rostet. Geschmiedet ist es, nicht gegossen: Eisenbänder, zusammengeschweißt zu Rohr und Kammer. Schau hinten an der Kammer nach dem Kreuz von Burgund, mit Feuerstein und Feuerstahl in den Ecken.",
+        "en" : "It has never been fired. It was brought here from Oudenaarde to help hold off the Spanish, and turned out to be no use at all. It wears its old red again now, painted on to keep the rust off. It was forged rather than cast, out of iron bands welded into a barrel and a chamber. Look on the back of the chamber for the cross of Burgundy, with a flint and a firesteel in the corners."
       },
       "localizedStory" : {
         "de" : "Der Sage nach hieß dieses große Geschütz früher der große rote Teufel, nach der Farbe, die es einst trug.",
@@ -9269,73 +9269,73 @@
       "story" : "The story goes that this great gun got the name big red devil, from the colour it once wore."
     },
     {
-      "extendedStory" : "The new wing has a front nobody else has. Its bricks were made in Ghent for this building, and 63 per cent of each one is the city's own pressed waste. There are 80,000 of them in that wall. The collection itself began with a group of people who simply liked good design and banded together. It has grown ever since, and the old house and the new wing hold it between them.",
+      "extendedStory" : "Look at the new wing's front. Its bricks were made in Ghent for this building, and 63 per cent of each one is the city's own pressed waste. The collection began with a group of people who loved design and art and banded together. The city later bought this house, the Hotel de Coninck, and the collection moved in. Today it holds nearly 22,000 objects.",
       "icon" : "everyday",
       "id" : "f-design-museum-gent",
       "kind" : "museum",
       "localizedExtendedStory" : {
-        "de" : "Der neue Flügel hat eine Fassade, wie sie sonst niemand hat. Die Ziegel wurden in Gent eigens dafür gebrannt, und 63 Prozent von jedem sind gepresster Abfall aus der Stadt. 80.000 Stück stecken in dieser Wand. Die Sammlung fing mit Leuten an, die einfach gutes Gestalten mochten und sich zusammentaten. Seither wächst sie weiter, und das Vorderhaus und der neue Flügel teilen sie sich.",
-        "en" : "The new wing has a front nobody else has. Its bricks were made in Ghent for this building, and 63 per cent of each one is the city's own pressed waste. There are 80,000 of them in that wall. The collection itself began with a group of people who simply liked good design and banded together. It has grown ever since, and the old house and the new wing hold it between them."
+        "de" : "Schau auf die Fassade des Anbaus. Ihre Ziegel wurden eigens dafür in Gent gebrannt, und 63 Prozent von jedem sind gepresster Abfall aus der Stadt. Die Sammlung fing mit Leuten an, die Gestaltung und Kunst liebten und sich zusammentaten. Später kaufte die Stadt dieses Haus, das Hotel de Coninck, und die Sammlung zog ein. Heute umfasst sie fast 22.000 Stücke.",
+        "en" : "Look at the new wing's front. Its bricks were made in Ghent for this building, and 63 per cent of each one is the city's own pressed waste. The collection began with a group of people who loved design and art and banded together. The city later bought this house, the Hotel de Coninck, and the collection moved in. Today it holds nearly 22,000 objects."
       },
       "localizedStory" : {
-        "de" : "Unter diesem Museum liegen Keller und Küche einer Herberge namens De Gulden Appel, der Goldene Apfel, die hier vorher stand.",
-        "en" : "Under this museum lie the cellars and kitchen of an old inn called the Golden Apple, which was here before it."
+        "de" : "Unter diesem Museum liegen Keller und Küche einer bekannten Herberge namens De Gulden Appel, der Goldene Apfel, die hier vorher stand.",
+        "en" : "Under this museum lie the cellars and kitchen of a well-known inn called the Golden Apple, which was here before it."
       },
       "name" : "Design Museum Gent",
       "pos" : [
         51.055536,
         3.719834
       ],
-      "story" : "Under this museum lie the cellars and kitchen of an old inn called the Golden Apple, which was here before it."
+      "story" : "Under this museum lie the cellars and kitchen of a well-known inn called the Golden Apple, which was here before it."
     },
     {
-      "extendedStory" : "He seems to have liked the name. Charters survive in which he signs himself Geeraard of Ghent, knight, called the Devil. The house outlasted him by a long way and kept changing jobs. At different times it held a weapons store, a school, a seminary, an orphanage and a fire station, among other things. Today it keeps the State Archives, which is to say it is full of paper.",
+      "extendedStory" : "He seems to have liked the name. Charters survive in which he signs himself Geeraard of Ghent, knight, called the Devil. Over the centuries the house kept changing jobs. At different times it held a weapons store, a school, a seminary, an orphanage and a fire station, among other things. After a long restoration it became the State Archives.",
       "icon" : "everyday",
       "id" : "f-geeraard-de-duivelsteen",
       "kind" : "fortress",
       "localizedExtendedStory" : {
-        "de" : "Der Beiname hat ihm offenbar gefallen. Es sind Urkunden erhalten, die er selbst als Geeraard von Gent, Ritter, genannt der Teufel, unterschrieben hat. Das Haus überlebte ihn um Jahrhunderte und wechselte dabei immer wieder den Beruf. Es war unter anderem Waffenlager, Schule, Priesterseminar, Waisenhaus und Feuerwache. Heute liegt das Staatsarchiv darin, es ist also von unten bis oben mit Papier gefüllt.",
-        "en" : "He seems to have liked the name. Charters survive in which he signs himself Geeraard of Ghent, knight, called the Devil. The house outlasted him by a long way and kept changing jobs. At different times it held a weapons store, a school, a seminary, an orphanage and a fire station, among other things. Today it keeps the State Archives, which is to say it is full of paper."
+        "de" : "Der Beiname hat ihm offenbar gefallen. Es sind Urkunden erhalten, die er selbst als Geeraard von Gent, Ritter, genannt der Teufel, unterschrieben hat. Über die Jahrhunderte wechselte das Haus immer wieder den Beruf. Es war unter anderem Waffenlager, Schule, Priesterseminar, Waisenhaus und Feuerwache. Nach einer langen Restaurierung zog das Staatsarchiv ein.",
+        "en" : "He seems to have liked the name. Charters survive in which he signs himself Geeraard of Ghent, knight, called the Devil. Over the centuries the house kept changing jobs. At different times it held a weapons store, a school, a seminary, an orphanage and a fire station, among other things. After a long restoration it became the State Archives."
       },
       "localizedStory" : {
-        "de" : "Man erzählt, der Ritter hier sei mit rabenschwarzem Haar zur Welt gekommen, und genau davon habe er seinen Beinamen der Teufel bekommen.",
-        "en" : "People say the knight here was born with hair black as a raven. That is how he got the name the Devil."
+        "de" : "Man erzählt, der Ritter hier kam mit rabenschwarzem Haar und dunkler Haut zur Welt. Es heißt, vor allem davon habe er den Beinamen der Teufel.",
+        "en" : "People say the knight here was born with raven-black hair and dark skin. It is said that is mostly why he was called the Devil."
       },
       "name" : "Geeraard de Duivelsteen",
       "pos" : [
         51.051916,
         3.728319
       ],
-      "story" : "People say the knight here was born with hair black as a raven. That is how he got the name the Devil."
+      "story" : "People say the knight here was born with raven-black hair and dark skin. It is said that is mostly why he was called the Devil."
     },
     {
-      "extendedStory" : "Louis the Eighteenth of France sat out his exile in this house. They say he lodged on the ground floor. Through the open windows people could stand in the street and watch him at table. When he finally went home he thanked his host with a porcelain dessert service, now kept in the city museum. The street front and the garden front were built in different styles a few years apart.",
+      "extendedStory" : "He was Louis the Eighteenth of France, sitting out his exile in this house. He was so heavy, with such painful gout, that he could not manage the stairs, so he lodged on the ground floor. It is said that people could stand and watch him eat through the open windows. In the writer Guido Lauwaert's telling, a footman stood by to dab away the sweat. As thanks he left his host a porcelain dessert service, now in the city museum.",
       "icon" : "everyday",
       "id" : "f-hotel-d-hane-steenhuyse",
       "kind" : "fortress",
       "localizedExtendedStory" : {
-        "de" : "Der Gast war Ludwig der Achtzehnte von Frankreich, der hier sein Exil aussaß. Er wohnte, so erzählt man, im Erdgeschoss. Durch die offenen Fenster konnten die Genter auf der Straße stehen und ihm beim Essen zusehen. Als er heimfuhr, dankte er seinem Gastgeber mit einem Dessertservice aus Porzellan, das heute im Stadtmuseum liegt. Straßenfassade und Gartenfassade stammen aus verschiedenen Stilen, wenige Jahre auseinander.",
-        "en" : "Louis the Eighteenth of France sat out his exile in this house. They say he lodged on the ground floor. Through the open windows people could stand in the street and watch him at table. When he finally went home he thanked his host with a porcelain dessert service, now kept in the city museum. The street front and the garden front were built in different styles a few years apart."
+        "de" : "Er war Ludwig der Achtzehnte von Frankreich und saß in diesem Haus sein Exil aus. Er war so schwer und litt so sehr an Gicht, dass er keine Treppen schaffte, also wohnte er im Erdgeschoss. Man erzählt, die Leute konnten durch die offenen Fenster zusehen, wie er aß. Wie der Schriftsteller Guido Lauwaert erzählt, tupfte ihm ein Diener dabei den Schweiß ab. Zum Dank hinterließ er seinem Gastgeber ein Dessertservice aus Porzellan, das heute im Stadtmuseum liegt.",
+        "en" : "He was Louis the Eighteenth of France, sitting out his exile in this house. He was so heavy, with such painful gout, that he could not manage the stairs, so he lodged on the ground floor. It is said that people could stand and watch him eat through the open windows. In the writer Guido Lauwaert's telling, a footman stood by to dab away the sweat. As thanks he left his host a porcelain dessert service, now in the city museum."
       },
       "localizedStory" : {
-        "de" : "Man erzählt, Gent habe aus der Zahl des geflüchteten Königs einen Witz gemacht. Aus Louis dix huit wurde Lowie die zwiet.",
-        "en" : "The story goes that Ghent made a joke of the exiled king's number. Louis dix huit came out as Lowie die zwiet."
+        "de" : "Der Sage nach schwitzte der König, der hier wohnte, fürchterlich. Man erzählt, Gent machte aus Louis dix huit deshalb Lowie die zwiet: Louis, der schwitzt.",
+        "en" : "The story goes that the French king lodging here sweated buckets. It is said Ghent turned Louis dix huit into Lowie die zwiet: sweaty Louis."
       },
       "name" : "Hotel d'Hane-Steenhuyse",
       "pos" : [
         51.051603,
         3.721753
       ],
-      "story" : "The story goes that Ghent made a joke of the exiled king's number. Louis dix huit came out as Lowie die zwiet."
+      "story" : "The story goes that the French king lodging here sweated buckets. It is said Ghent turned Louis dix huit into Lowie die zwiet: sweaty Louis."
     },
     {
-      "extendedStory" : "The academy that works here says there is no other room like it in Ghent. The building is worth a look from far off too. From the top corner of the Lange Munt a straight view more than six hundred metres long opens onto it. David 't Kindt built it where an old stone house of the Damman family had stood. The academy for the Dutch language moved in and has kept it ever since.",
+      "extendedStory" : "The academy that works here says there is no other room like it in Ghent. The building is worth a look from far off too. From one corner of the Lange Munt a straight view more than six hundred metres long opens onto it. David 't Kindt built it where Jan Damman, lord of Oombergen, once had his stone house. The academy for the Dutch language moved in in 1892.",
       "icon" : "everyday",
       "id" : "f-koninklijke-academie-voor-nederlandse-taal-en-letterkunde",
       "kind" : "fortress",
       "localizedExtendedStory" : {
-        "de" : "Die Akademie, die hier sitzt, sagt, ein solches Zimmer gebe es in Gent kein zweites. Auch von weitem lohnt der Blick auf das Haus. Von der Nordecke der Lange Munt öffnet sich eine gerade Sicht von mehr als sechshundert Metern darauf. David 't Kindt baute das Haus dort, wo vorher ein altes Steinhaus der Familie Damman stand. Die Akademie für die niederländische Sprache zog ein und blieb.",
-        "en" : "The academy that works here says there is no other room like it in Ghent. The building is worth a look from far off too. From the top corner of the Lange Munt a straight view more than six hundred metres long opens onto it. David 't Kindt built it where an old stone house of the Damman family had stood. The academy for the Dutch language moved in and has kept it ever since."
+        "de" : "Die Akademie, die hier sitzt, sagt, ein solches Zimmer gebe es in Gent kein zweites. Auch von weitem lohnt der Blick auf das Haus. Von der Nordecke der Lange Munt öffnet sich eine gerade Sicht von mehr als sechshundert Metern darauf. David 't Kindt baute das Haus dort, wo einst Jan Damman, Herr von Oombergen, sein Steinhaus hatte. Die Akademie für die niederländische Sprache zog 1892 ein.",
+        "en" : "The academy that works here says there is no other room like it in Ghent. The building is worth a look from far off too. From one corner of the Lange Munt a straight view more than six hundred metres long opens onto it. David 't Kindt built it where Jan Damman, lord of Oombergen, once had his stone house. The academy for the Dutch language moved in in 1892."
       },
       "localizedStory" : {
         "de" : "Eine steile schmale Treppe führt hier hinauf zu einem Kuppelzimmer unter dem Dach, mit Aussicht in alle Himmelsrichtungen.",
@@ -9349,7 +9349,7 @@
       "story" : "A steep little stair climbs to a dome room under the roof. From there the view runs to every point of the compass."
     }
   ],
-  "generatedAt" : "2026-09-25T19:22:16Z",
+  "generatedAt" : "2026-10-01T14:00:15Z",
   "icon" : {
     "paths" : [
       "M 32.00 40.00 L 68.00 40.00 L 68.00 90.00 L 32.00 90.00 Z M 29.00 87.00 L 71.00 87.00 L 71.00 91.00 L 29.00 91.00 Z M 28.00 38.00 L 72.00 38.00 L 72.00 42.00 L 28.00 42.00 Z M 28.00 30.00 L 35.00 30.00 L 35.00 40.00 L 28.00 40.00 Z M 28.00 30.00 L 35.00 30.00 L 31.50 26.00 Z M 65.00 30.00 L 72.00 30.00 L 72.00 40.00 L 65.00 40.00 Z M 65.00 30.00 L 72.00 30.00 L 68.50 26.00 Z M 38.00 30.00 L 62.00 30.00 L 50.00 6.00 Z M 35.00 28.00 L 65.00 28.00 L 65.00 32.00 L 35.00 32.00 Z M 47.00 3.00 L 53.00 3.00 L 53.00 8.00 L 47.00 8.00 Z M 46.00 8.00 L 54.00 8.00 L 50.00 3.00 Z M 44.00 48.00 L 44.00 62.00 L 56.00 62.00 L 56.00 48.00 Z"
@@ -9362,7 +9362,7 @@
     "en" : "Ghent"
   },
   "name" : "Ghent",
-  "packVersion" : 16,
+  "packVersion" : 20,
   "schemaVersion" : 1,
   "source" : "OpenStreetMap via Overpass API",
   "stats" : {

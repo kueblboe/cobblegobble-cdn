@@ -147,12 +147,11 @@
 
     ],
     "adjustedStreets" : [
-      "Mönchgasse"
+
     ],
-    "fromVersion" : 16,
+    "fromVersion" : 19,
     "removedStreets" : [
-      "Bleichinsel",
-      "Richard-Hauser-Platz"
+
     ]
   },
   "cityId" : "heidelberg",
@@ -13541,44 +13540,44 @@
   ],
   "fruits" : [
     {
-      "extendedStory" : "Once, that ring was the gate's knocker. People said whoever could bite right through it would be given the castle and all it held. The story goes that a witch tried, but her teeth broke on the hard metal, and she left in a rage. The crack is still called the Witch's Bite. Deeper inside waits another marvel: a giant barrel Elector Carl Theodor had built to hold 220,000 litres.",
+      "extendedStory" : "Once, that ring was the gate's knocker. The story goes that she left in a rage, and the crack is still called the Witch's Bite. Inside the castle stands another marvel: a giant barrel Elector Carl Theodor had built to hold 220,000 litres. Perkeo, whose real name was Clemens Pankert, was brought here in 1718 as court steward.",
       "icon" : "hero",
       "id" : "f-heidelberger-schloss",
       "kind" : "fortress",
       "localizedExtendedStory" : {
-        "de" : "Der Eisenring war einst der Klopfer am Tor. Man erzählte sich, wer ihn mit den Zähnen durchbeißt, bekommt das Schloss samt Inhalt. Der Sage nach versuchte es eine Hexe, doch ihre Zähne zerbrachen am harten Metall, und wütend zog sie ab. Den Riss nennt man bis heute den Hexenbiss. Tiefer im Schloss wartet ein anderes Wunder: ein riesiges Fass, das Kurfürst Carl Theodor für 220.000 Liter bauen ließ.",
-        "en" : "Once, that ring was the gate's knocker. People said whoever could bite right through it would be given the castle and all it held. The story goes that a witch tried, but her teeth broke on the hard metal, and she left in a rage. The crack is still called the Witch's Bite. Deeper inside waits another marvel: a giant barrel Elector Carl Theodor had built to hold 220,000 litres."
+        "de" : "Der Ring war einst der Klopfer am Tor. Der Sage nach zog sie wütend ab, und den Riss nennt man bis heute den Hexenbiss. Im Schloss steht ein anderes Wunder: ein riesiges Fass, das Kurfürst Carl Theodor für 220.000 Liter bauen ließ. Als Hofmeister wurde 1718 Perkeo hergebracht, der eigentlich Clemens Pankert hieß.",
+        "en" : "Once, that ring was the gate's knocker. The story goes that she left in a rage, and the crack is still called the Witch's Bite. Inside the castle stands another marvel: a giant barrel Elector Carl Theodor had built to hold 220,000 litres. Perkeo, whose real name was Clemens Pankert, was brought here in 1718 as court steward."
       },
       "localizedStory" : {
-        "de" : "Am Torturm hängt ein Eisenring mit Riss. Der Sage nach wollte eine Hexe ihn durchbeißen, um das Schloss zu gewinnen, und zerbrach sich die Zähne.",
-        "en" : "Look for the cracked iron ring on the gate. The story goes a witch bit it to win the castle, and broke her teeth."
+        "de" : "Es hieß, wer diesen Torring durchbeißt, gewinnt dieses Schloss. Der Sage nach versuchte es eine Hexe, doch ihr brachen dabei Zähne ab.",
+        "en" : "People said whoever bit through this cracked gate ring would win the castle. The story goes a witch tried, and broke her teeth."
       },
       "name" : "Heidelberger Schloss",
       "pos" : [
         49.410557,
         8.715317
       ],
-      "story" : "Look for the cracked iron ring on the gate. The story goes a witch bit it to win the castle, and broke her teeth."
+      "story" : "People said whoever bit through this cracked gate ring would win the castle. The story goes a witch tried, and broke her teeth."
     },
     {
-      "extendedStory" : "Each desk held 25 to 30 books. They grew into the Bibliotheca Palatina, Heidelberg's famous library, and went into crates for the journey. The church has other surprises. For over two centuries a wall cut it in two, the nave for the Protestants and the choir for the Catholics. Outside, look for the little shops tucked between its buttresses, the stone props that hold up its walls.",
+      "extendedStory" : "Each desk held 25 to 30 books, and they grew into the Bibliotheca Palatina. When a Catholic army took the Palatinate, the Pope wanted the books, which Catholics saw as a nest of heresy. The church has other surprises. For over two centuries a wall cut it in two, the nave for the Protestants and the choir for the Catholics. Outside, look for the little shops tucked between its buttresses, the stone props that hold up its walls.",
       "icon" : "choice",
       "id" : "f-heiliggeistkirche",
       "kind" : "church",
       "localizedExtendedStory" : {
-        "de" : "Jedes Pult fasste 25 bis 30 Bücher. Aus ihnen wuchs die Bibliotheca Palatina, Heidelbergs berühmte Bibliothek, und für die Reise kamen sie in Kisten. Die Kirche hat noch mehr Überraschungen. Über zwei Jahrhunderte lang teilte eine Mauer sie in zwei Teile, das Langhaus für die Protestanten, den Chor für die Katholiken. Draußen stecken kleine Läden in den Lücken zwischen den Strebepfeilern, den steinernen Stützen der Mauern.",
-        "en" : "Each desk held 25 to 30 books. They grew into the Bibliotheca Palatina, Heidelberg's famous library, and went into crates for the journey. The church has other surprises. For over two centuries a wall cut it in two, the nave for the Protestants and the choir for the Catholics. Outside, look for the little shops tucked between its buttresses, the stone props that hold up its walls."
+        "de" : "Jedes Pult fasste 25 bis 30 Bücher, und aus ihnen wuchs die Bibliotheca Palatina. Als ein katholisches Heer die Kurpfalz eroberte, wünschte sich der Papst die Bücher, für Katholiken ein Hort der Ketzerei. Die Kirche hat noch mehr Überraschungen. Über zwei Jahrhunderte lang teilte eine Mauer sie in zwei Teile, das Langhaus für die Protestanten, den Chor für die Katholiken. Draußen stecken kleine Läden in den Lücken zwischen den Strebepfeilern, den steinernen Stützen der Mauern.",
+        "en" : "Each desk held 25 to 30 books, and they grew into the Bibliotheca Palatina. When a Catholic army took the Palatinate, the Pope wanted the books, which Catholics saw as a nest of heresy. The church has other surprises. For over two centuries a wall cut it in two, the nave for the Protestants and the choir for the Catholics. Outside, look for the little shops tucked between its buttresses, the stone props that hold up its walls."
       },
       "localizedStory" : {
-        "de" : "Oben auf der Nordempore dieser Kirche waren einst Bücher an fünf Pulten angekettet. Später ließ man sie an Seilen herab, auf dem Weg nach Rom.",
-        "en" : "Up on this church's north gallery, books were once chained to five reading desks. Later they were lowered on ropes, bound for Rome."
+        "de" : "Auf dieser Empore standen einst Bücher an fünf Pulten angekettet. Dann ließ man sie an Seilen herab, als Kriegsbeute für den Papst.",
+        "en" : "Books once stood chained to five desks up on this gallery. Then they went down on ropes, a war prize for the Pope."
       },
       "name" : "Heiliggeistkirche",
       "pos" : [
         49.412088,
         8.709206
       ],
-      "story" : "Up on this church's north gallery, books were once chained to five reading desks. Later they were lowered on ropes, bound for Rome."
+      "story" : "Books once stood chained to five desks up on this gallery. Then they went down on ropes, a war prize for the Pope."
     },
     {
       "extendedStory" : "People say his mirror brings wealth, and touching the mice beside him foretells many children. He holds that mirror up as a joke about looking at yourself. The bridge he sits on rests on nine stone arches. Before it, seven wooden or part-wooden bridges stood here, and the ice carried several of them away. Elector Charles Theodore had this one built, and it carries his name.",
@@ -13621,24 +13620,24 @@
       "story" : "Find the fountain sculpture by the artist couple Matschinsky-Denninghoff. Its nickname is the Spaghettisäule, the spaghetti column."
     },
     {
-      "extendedStory" : "Apart from 29 Greek and 16 Latin codices, every manuscript in a language other than German is still in Rome. So is every printed book. This library has its own star instead. Its famous treasure is the Codex Manesse, parchment leaves carrying songs by a hundred and forty poets. Josef Durm designed the house on the Plöck that keeps it.",
+      "extendedStory" : "To Catholics it was a nest of heresy, meaning wrong belief, because it held so much Protestant writing. Much of it never came back. Apart from 29 Greek and 16 Latin codices, every manuscript not in German is still in Rome. So is every printed book. Its famous treasure is the Codex Manesse, songs by a hundred and forty poets. Josef Durm designed the house on the Plöck that keeps it.",
       "icon" : "choice",
       "id" : "f-universitatsbibliothek",
       "kind" : "civic",
       "localizedExtendedStory" : {
-        "de" : "Bis auf 29 griechische und 16 lateinische Codices liegt jede Handschrift, die nicht deutsch ist, noch heute in Rom. Dazu sämtliche Drucke. Diese Bibliothek hat dafür ihren eigenen Star. Ihr berühmter Schatz ist der Codex Manesse, Pergamentblätter mit Liedern von hundertvierzig Dichtern. Josef Durm entwarf das Haus an der Plöck, das ihn bewahrt.",
-        "en" : "Apart from 29 Greek and 16 Latin codices, every manuscript in a language other than German is still in Rome. So is every printed book. This library has its own star instead. Its famous treasure is the Codex Manesse, parchment leaves carrying songs by a hundred and forty poets. Josef Durm designed the house on the Plöck that keeps it."
+        "de" : "Für Katholiken war sie ein Nest der Ketzerei, also des falschen Glaubens, weil sie so viele protestantische Schriften enthielt. Vieles kam nie zurück. Bis auf 29 griechische und 16 lateinische Codices liegt jede Handschrift, die nicht deutsch ist, noch in Rom, dazu sämtliche Drucke. Ihr berühmter Schatz ist der Codex Manesse, mit Liedern von hundertvierzig Dichtern. Josef Durm entwarf das Haus an der Plöck, das ihn bewahrt.",
+        "en" : "To Catholics it was a nest of heresy, meaning wrong belief, because it held so much Protestant writing. Much of it never came back. Apart from 29 Greek and 16 Latin codices, every manuscript not in German is still in Rome. So is every printed book. Its famous treasure is the Codex Manesse, songs by a hundred and forty poets. Josef Durm designed the house on the Plöck that keeps it."
       },
       "localizedStory" : {
-        "de" : "Heidelbergs berühmte alte Bibliothek zog auf Maultieren über die Alpen nach Rom. Vieles davon liegt bis heute in den Tresoren des Vatikans.",
-        "en" : "Heidelberg's famous old library went over the Alps to Rome on mules. Much of it still sits in the Vatican's vaults."
+        "de" : "Ein katholisches Heer nahm 1622 die Kurpfalz ein, und der Papst wollte seine Bücherschätze. Mit Maultieren ging die Sammlung über die Alpen nach Rom.",
+        "en" : "A Catholic army took Heidelberg's land in 1622, and the Pope claimed its famous library. It crossed the Alps to Rome on mules."
       },
       "name" : "Universitätsbibliothek",
       "pos" : [
         49.40993,
         8.705567
       ],
-      "story" : "Heidelberg's famous old library went over the Alps to Rome on mules. Much of it still sits in the Vatican's vaults."
+      "story" : "A Catholic army took Heidelberg's land in 1622, and the Pope claimed its famous library. It crossed the Alps to Rome on mules."
     },
     {
       "extendedStory" : "Why would a statue talk back like that? She was a piece of Counter-Reformation propaganda, the Catholic push to win back Protestant towns. For Heidelberg's Reformed townsfolk, setting her up was a provocation. Long before her, the Heilig-Geist-Spital stood on this spot. Then the city council had it pulled down for a milk and vegetable market. Look down, and the outline of its vanished chapel is marked in the paving.",
@@ -13661,13 +13660,13 @@
       "story" : "Read the Madonna's pedestal. In Latin and German, it asks you to honour not the stone but the mother and child it stands for."
     },
     {
-      "extendedStory" : "Face the wall straight on and it looks plain. Step to one side and the picture appears. Ebert was born here in Heidelberg in 1871. As a young man he learned the saddler's trade, making things from leather. Later he was president of the German republic, from 1919 until his death. A craftsman's apprentice came to lead the country, and this square carries his name.",
+      "extendedStory" : "Face the wall straight on and it looks plain. Step to one side and the picture appears. Ebert was born here in Heidelberg in 1871. As a teenager he learned the saddler's trade, making things from leather. Later he was president of the German republic, from 1919 until his death. A craftsman's apprentice came to lead the country, and this square carries his name.",
       "icon" : "everyday",
       "id" : "f-friedrich-ebert-platz",
       "kind" : "square",
       "localizedExtendedStory" : {
-        "de" : "Von vorn wirkt die Wand leer. Tritt zur Seite, und das Bild erscheint. Ebert wurde 1871 hier in Heidelberg geboren. Als junger Mann lernte er das Handwerk des Sattlers, der Dinge aus Leder fertigt. Später war er Reichspräsident der deutschen Republik, von 1919 bis zu seinem Tod. Ein Handwerkslehrling wurde Staatsoberhaupt, und dieser Platz trägt seinen Namen.",
-        "en" : "Face the wall straight on and it looks plain. Step to one side and the picture appears. Ebert was born here in Heidelberg in 1871. As a young man he learned the saddler's trade, making things from leather. Later he was president of the German republic, from 1919 until his death. A craftsman's apprentice came to lead the country, and this square carries his name."
+        "de" : "Von vorn wirkt die Wand leer. Tritt zur Seite, und das Bild erscheint. Ebert wurde 1871 hier in Heidelberg geboren. Als Jugendlicher lernte er das Handwerk des Sattlers, der Dinge aus Leder fertigt. Später war er Reichspräsident der deutschen Republik, von 1919 bis zu seinem Tod. Ein Handwerkslehrling wurde Staatsoberhaupt, und dieser Platz trägt seinen Namen.",
+        "en" : "Face the wall straight on and it looks plain. Step to one side and the picture appears. Ebert was born here in Heidelberg in 1871. As a teenager he learned the saddler's trade, making things from leather. Later he was president of the German republic, from 1919 until his death. A craftsman's apprentice came to lead the country, and this square carries his name."
       },
       "localizedStory" : {
         "de" : "Schau dir das Fahrstuhlgebäude des Parkhauses von der Seite an. Licht und Schatten zeigen dort ein Relief von Friedrich Ebert.",
@@ -13681,13 +13680,13 @@
       "story" : "Look at the car park's lift building from the side. A play of light and shadow shows a relief of Friedrich Ebert."
     },
     {
-      "extendedStory" : "Karl Ludwig gave the church more than a name. He had it built for the town's Lutheran congregation, and backing them was an important mark of tolerance. It went up in 1661. Its motto reads like a quiet promise to the people who prayed here, that they would be looked after. Karl Hermann Behaghel is named as its architect.",
+      "extendedStory" : "Karl Ludwig was a convinced Calvinist, yet he had this church built for the town's Lutherans, a different Protestant church. He saw tolerance as the way for people to live well together. The Reformed congregation met in the Heiliggeistkirche, the Lutherans here. Theodor Reber drew its plans, and it was finished in 1661.",
       "icon" : "everyday",
       "id" : "f-providenzkirche",
       "kind" : "church",
       "localizedExtendedStory" : {
-        "de" : "Karl Ludwig gab der Kirche mehr als nur einen Namen. Er ließ sie für die lutherische Gemeinde der Stadt bauen und setzte damit ein wichtiges Zeichen der Toleranz. 1661 entstand sie. Ihr Leitspruch klingt wie ein stilles Versprechen an die Menschen, die hier beteten: Für sie wird gesorgt. Als Architekt wird Hermann Behaghel genannt.",
-        "en" : "Karl Ludwig gave the church more than a name. He had it built for the town's Lutheran congregation, and backing them was an important mark of tolerance. It went up in 1661. Its motto reads like a quiet promise to the people who prayed here, that they would be looked after. Karl Hermann Behaghel is named as its architect."
+        "de" : "Karl Ludwig war überzeugter Calvinist und ließ diese Kirche doch für die Lutheraner der Stadt bauen, eine andere evangelische Kirche. Er hielt Toleranz für den Weg, wie Menschen gut zusammenleben. Die Reformierten versammelten sich in der Heiliggeistkirche, die Lutheraner hier. Theodor Reber zeichnete die Pläne, und 1661 war sie fertig.",
+        "en" : "Karl Ludwig was a convinced Calvinist, yet he had this church built for the town's Lutherans, a different Protestant church. He saw tolerance as the way for people to live well together. The Reformed congregation met in the Heiliggeistkirche, the Lutherans here. Theodor Reber drew its plans, and it was finished in 1661."
       },
       "localizedStory" : {
         "de" : "Diese Kirche trägt den Leitspruch von Kurfürst Karl Ludwig im Namen: Dominus providebit, der Herr wird sorgen.",
@@ -13701,7 +13700,7 @@
       "story" : "This church is named for Elector Karl Ludwig's motto: Dominus providebit, the Lord will provide."
     }
   ],
-  "generatedAt" : "2026-09-25T19:22:01Z",
+  "generatedAt" : "2026-10-02T09:53:47Z",
   "icon" : {
     "paths" : [
       "M 38.2 174.7 L 46.0 168.7 L 51.8 168.9 L 57.6 173.7 L 78.1 181.5 L 135.4 160.6 L 139.0 157.0 L 138.7 152.4 L 130.8 141.8 L 130.2 136.5 L 125.5 133.6 L 120.4 125.9 L 119.2 120.1 L 115.0 117.9 L 110.9 107.2 L 105.6 105.1 L 94.8 108.7 L 85.2 103.0 L 82.2 96.7 L 85.6 86.1 L 84.7 82.1 L 78.7 79.2 L 73.1 81.9 L 72.5 80.8 L 71.3 71.0 L 80.4 61.5 L 82.1 52.5 L 86.0 47.1 L 91.8 45.4 L 103.4 48.6 L 115.9 42.8 L 124.6 47.1 L 127.2 52.0 L 125.1 60.3 L 126.1 82.2 L 148.7 106.3 L 152.9 108.2 L 154.2 112.0 L 164.6 123.1 L 169.5 125.0 L 174.7 120.8 L 174.3 107.2 L 170.7 104.3 L 159.1 102.4 L 157.8 98.5 L 140.1 75.6 L 138.9 71.2 L 140.3 67.9 L 146.4 66.0 L 156.0 67.0 L 150.4 69.6 L 149.5 75.6 L 163.8 97.5 L 170.7 99.1 L 174.9 94.6 L 176.5 78.9 L 175.4 68.4 L 196.2 67.7 L 200.8 63.3 L 200.6 49.5 L 186.0 25.0 L 205.0 36.0 L 203.0 44.1 L 205.2 48.7 L 214.5 50.0 L 218.8 48.2 L 220.5 44.0 L 215.0 36.0 L 229.0 22.0 L 243.0 36.0 L 237.5 44.0 L 239.2 48.2 L 242.9 50.0 L 252.8 48.7 L 255.0 44.1 L 253.0 36.0 L 272.0 25.0 L 257.0 51.1 L 257.1 59.9 L 259.0 63.5 L 263.3 65.0 L 272.0 63.3 L 270.6 78.3 L 264.9 88.8 L 267.0 103.0 L 263.2 108.7 L 264.7 112.5 L 269.0 116.0 L 270.0 127.0 L 266.9 129.1 L 265.6 132.9 L 271.0 140.0 L 271.0 151.0 L 267.1 155.3 L 270.0 162.0 L 269.0 172.9 L 265.9 176.9 L 267.0 182.1 L 261.5 198.2 L 304.8 244.5 L 314.5 249.1 L 325.2 248.5 L 333.2 243.9 L 338.3 237.9 L 341.3 229.6 L 340.9 222.7 L 288.9 115.6 L 286.6 104.5 L 288.1 92.6 L 297.1 77.1 L 304.7 71.2 L 314.2 67.5 L 325.9 66.0 L 384.0 66.0 L 380.0 73.8 L 376.2 77.1 L 373.1 89.3 L 369.2 92.6 L 369.0 97.2 L 365.0 105.0 L 312.1 105.2 L 302.9 109.2 L 298.0 116.1 L 298.2 121.3 L 301.3 125.2 L 306.4 125.5 L 310.0 122.0 L 314.1 130.2 L 314.3 135.5 L 318.2 138.4 L 322.3 146.7 L 322.6 152.0 L 326.4 154.9 L 330.6 163.1 L 330.6 168.0 L 334.7 171.3 L 338.7 179.4 L 338.8 184.5 L 342.9 187.8 L 346.9 195.9 L 341.0 206.4 L 346.2 219.4 L 347.4 227.8 L 343.3 241.6 L 333.4 251.4 L 321.2 255.5 L 305.3 252.7 L 300.2 254.9 L 295.4 295.1 L 299.6 299.2 L 360.0 315.0 L 355.0 323.0 L 349.7 325.6 L 349.0 331.0 L 344.1 338.9 L 338.7 341.6 L 338.0 347.0 L 333.1 354.9 L 328.0 357.2 L 325.9 364.8 L 317.2 374.7 L 318.3 380.2 L 333.1 391.2 L 338.0 401.0 L 309.0 422.9 L 270.4 441.5 L 243.4 449.1 L 220.8 452.3 L 196.9 452.8 L 166.6 449.1 L 139.7 441.6 L 116.0 431.4 L 92.1 417.2 L 72.0 401.0 L 78.1 388.8 L 75.3 373.5 L 71.4 363.7 L 76.0 352.4 L 81.8 350.0 L 122.3 349.3 L 159.4 312.3 L 159.3 306.5 L 150.0 293.5 L 151.5 285.7 L 150.0 281.9 L 151.5 270.3 L 150.0 266.0 L 151.5 253.7 L 150.0 241.0 L 212.0 241.0 L 216.4 238.4 L 217.3 233.9 L 215.3 230.4 L 208.3 226.1 L 184.0 226.0 L 176.4 215.9 L 172.0 214.0 L 166.1 207.1 L 164.4 202.8 L 150.5 192.4 L 145.7 194.3 L 144.0 199.0 L 134.7 200.7 L 129.7 199.2 L 125.2 202.3 L 116.0 204.0 L 110.8 202.6 L 104.8 206.0 L 94.0 205.8 L 91.1 209.3 L 90.1 220.6 L 79.8 227.9 L 73.3 227.2 L 66.2 220.5 L 62.4 219.4 L 56.6 223.8 L 57.0 230.0 L 50.7 229.7 L 45.3 226.3 L 40.8 214.8 L 30.7 206.3 L 30.1 200.0 L 38.3 189.0 Z M 143.8 366.1 L 141.4 372.3 L 144.2 376.2 L 160.6 383.6 L 178.1 365.2 L 186.5 360.5 L 196.9 357.6 L 217.1 358.4 L 238.7 369.2 L 249.5 364.1 L 288.5 363.7 L 292.1 360.6 L 300.1 341.8 L 298.2 338.1 L 294.4 336.6 L 285.8 338.2 L 279.1 336.0 L 275.0 338.0 L 266.1 338.0 L 260.7 335.3 L 256.0 338.0 L 247.0 338.0 L 242.3 336.0 L 238.0 338.0 L 228.0 338.0 L 247.1 277.1 L 245.8 272.1 L 240.5 269.9 L 203.4 282.9 L 190.6 320.7 L 198.0 336.0 L 186.7 340.8 L 177.1 349.9 L 171.9 350.3 L 168.9 354.1 L 162.0 359.0 L 157.5 359.8 L 155.0 363.0 Z"
@@ -13714,7 +13713,7 @@
     "en" : "Heidelberg"
   },
   "name" : "Heidelberg",
-  "packVersion" : 17,
+  "packVersion" : 20,
   "schemaVersion" : 1,
   "source" : "OpenStreetMap via Overpass API",
   "stats" : {
