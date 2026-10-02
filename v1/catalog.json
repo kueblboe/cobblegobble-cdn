@@ -5748,6 +5748,13 @@
       ],
       "cityId" : "munich",
       "country" : "DE",
+      "familyStops" : [
+        "Frauenkirche",
+        "Marienplatz",
+        "Viktualienmarkt",
+        "Isartor",
+        "Alter Hof"
+      ],
       "hasPage" : true,
       "iapProductId" : "cobblegobble.city.munich",
       "icon" : {
