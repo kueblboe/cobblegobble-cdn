@@ -162,7 +162,7 @@
         "en" : "Amsterdam"
       },
       "name" : "Amsterdam",
-      "packVersion" : 17,
+      "packVersion" : 20,
       "stats" : {
         "estHours" : 9.1,
         "nodeCount" : 1561,
@@ -812,7 +812,7 @@
         "en" : "Berlin"
       },
       "name" : "Berlin",
-      "packVersion" : 31,
+      "packVersion" : 35,
       "stats" : {
         "estHours" : 11.3,
         "nodeCount" : 2029,
@@ -1353,7 +1353,7 @@
         "it" : "Bologna"
       },
       "name" : "Bologna",
-      "packVersion" : 38,
+      "packVersion" : 39,
       "stats" : {
         "estHours" : 11,
         "nodeCount" : 1814,
@@ -4404,7 +4404,7 @@
         "en" : "Landshut"
       },
       "name" : "Landshut",
-      "packVersion" : 19,
+      "packVersion" : 23,
       "stats" : {
         "estHours" : 4.7,
         "nodeCount" : 813,
@@ -6371,15 +6371,15 @@
         "en" : "Passau"
       },
       "name" : "Passau",
-      "packVersion" : 60,
+      "packVersion" : 61,
       "stats" : {
-        "estHours" : 5.3,
-        "nodeCount" : 913,
+        "estHours" : 5.2,
+        "nodeCount" : 896,
         "routeFactor" : 1.27,
-        "routeKm" : 18.6,
+        "routeKm" : 18.3,
         "stepsStreetCount" : 13,
-        "streetCount" : 82,
-        "totalKm" : 14.73
+        "streetCount" : 81,
+        "totalKm" : 14.42
       },
       "status" : "published"
     },
@@ -7451,44 +7451,60 @@
           13.0382
         ],
         [
-          47.7952,
-          13.043
+          47.79849,
+          13.03973
         ],
         [
-          47.7941,
-          13.0481
+          47.79538,
+          13.04424
         ],
         [
-          47.7957,
-          13.0515
+          47.79527,
+          13.04453
         ],
         [
-          47.796,
-          13.0534
+          47.79507,
+          13.04525
         ],
         [
-          47.797,
-          13.0534
+          47.7951,
+          13.04631
+        ],
+        [
+          47.79569,
+          13.04668
+        ],
+        [
+          47.79627,
+          13.05178
+        ],
+        [
+          47.79638,
+          13.05184
+        ],
+        [
+          47.79683,
+          13.05132
         ],
         [
           47.7972,
           13.0529
         ],
         [
-          47.7976,
-          13.0529
+          47.79721,
+          13.05344
         ],
         [
-          47.798,
-          13.0535
+          47.79768,
+          13.05372
         ],
         [
-          47.7989,
-          13.0543
+          47.79859,
+          13.05455
         ],
         [
-          47.7997,
-          13.0535
+          47.7999,
+          13.05342
         ],
         [
           47.8002,
@@ -7499,8 +7515,20 @@
           13.0529
         ],
         [
-          47.8022,
-          13.0488
+          47.80152,
+          13.05077
+        ],
+        [
+          47.80197,
+          13.04708
+        ],
+        [
+          47.80218,
+          13.04692
+        ],
+        [
+          47.80277,
+          13.04748
         ],
         [
           47.8032,
@@ -7515,20 +7543,20 @@
           13.0476
         ],
         [
-          47.8046,
-          13.044
+          47.80449,
+          13.04387
         ],
         [
-          47.8082,
-          13.0416
+          47.80627,
+          13.04267
         ],
         [
-          47.8072,
-          13.0377
+          47.80532,
+          13.03861
         ],
         [
-          47.8058,
-          13.036
+          47.80534,
+          13.03629
         ],
         [
           47.8057,
@@ -7552,8 +7580,8 @@
         ]
       ],
       "center" : [
-        47.800712,
-        13.045462
+        47.800182,
+        13.045479
       ],
       "cityId" : "salzburg",
       "country" : "AT",
@@ -7570,15 +7598,15 @@
         "en" : "Salzburg"
       },
       "name" : "Salzburg",
-      "packVersion" : 37,
+      "packVersion" : 48,
       "stats" : {
-        "estHours" : 9.3,
-        "nodeCount" : 1582,
-        "routeFactor" : 1.32,
-        "routeKm" : 32.6,
-        "stepsStreetCount" : 11,
-        "streetCount" : 112,
-        "totalKm" : 24.74
+        "estHours" : 7.7,
+        "nodeCount" : 1421,
+        "routeFactor" : 1.25,
+        "routeKm" : 27.1,
+        "stepsStreetCount" : 10,
+        "streetCount" : 98,
+        "totalKm" : 21.76
       },
       "status" : "published"
     },
@@ -10182,7 +10210,7 @@
         "en" : "Wasserburg am Inn"
       },
       "name" : "Wasserburg am Inn",
-      "packVersion" : 13,
+      "packVersion" : 14,
       "stats" : {
         "estHours" : 4.2,
         "nodeCount" : 704,

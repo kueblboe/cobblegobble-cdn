@@ -405,7 +405,7 @@
     "adjustedStreets" : [
 
     ],
-    "fromVersion" : 37,
+    "fromVersion" : 38,
     "removedStreets" : [
 
     ]
@@ -21374,13 +21374,13 @@
       "story" : "Arena of the Sun: plays here ran by daylight, on a stage with no roof, open to the sky."
     },
     {
-      "extendedStory" : "Bologna and Florence kept his fame alive for centuries. He was a Carthusian monk and a cardinal, and he served the pope as envoy to France and England. A copy of Bartolomeo Cesi's portrait of him hangs on the stairs, at the mezzanine landing. The original was lost to a fire. Out in the courtyard, Roman stone tablets are set into the wall. They record baths that the emperor Augustus founded in Roman Bologna.",
+      "extendedStory" : "He was born an Albergati in Bologna, the family name this palace carries. Bologna and Florence kept his fame alive for centuries. He was a Carthusian monk and a cardinal, and he served the pope as envoy to France and England. A copy of Bartolomeo Cesi's portrait of him hangs on the stairs, at the mezzanine landing. The original was lost to a fire. Out in the courtyard, Roman stone tablets are set into the wall. They record baths that the emperor Augustus founded in Roman Bologna.",
       "icon" : "everyday",
       "id" : "f-palazzo-albergati",
       "kind" : "palace",
       "localizedExtendedStory" : {
-        "de" : "Bologna und Florenz hielten seinen Ruhm jahrhundertelang lebendig. Er war Kartäusermönch und Kardinal und reiste als Gesandter des Papstes nach Frankreich und England. Eine Kopie seines Porträts von Bartolomeo Cesi hängt am Zwischenpodest der Treppe, das Original ging in einem Feuer verloren. Im Hof sind römische Steintafeln in die Mauer eingelassen. Sie erzählen von Thermen, die Kaiser Augustus im römischen Bologna stiftete.",
-        "en" : "Bologna and Florence kept his fame alive for centuries. He was a Carthusian monk and a cardinal, and he served the pope as envoy to France and England. A copy of Bartolomeo Cesi's portrait of him hangs on the stairs, at the mezzanine landing. The original was lost to a fire. Out in the courtyard, Roman stone tablets are set into the wall. They record baths that the emperor Augustus founded in Roman Bologna."
+        "de" : "Er kam als Albergati in Bologna zur Welt, und diesen Familiennamen trägt der Palast. Bologna und Florenz hielten seinen Ruhm jahrhundertelang lebendig. Er war Kartäusermönch und Kardinal und reiste als Gesandter des Papstes nach Frankreich und England. Eine Kopie seines Porträts von Bartolomeo Cesi hängt am Zwischenpodest der Treppe, das Original ging in einem Feuer verloren. Im Hof sind römische Steintafeln in die Mauer eingelassen. Sie erzählen von Thermen, die Kaiser Augustus im römischen Bologna stiftete.",
+        "en" : "He was born an Albergati in Bologna, the family name this palace carries. Bologna and Florence kept his fame alive for centuries. He was a Carthusian monk and a cardinal, and he served the pope as envoy to France and England. A copy of Bartolomeo Cesi's portrait of him hangs on the stairs, at the mezzanine landing. The original was lost to a fire. Out in the courtyard, Roman stone tablets are set into the wall. They record baths that the emperor Augustus founded in Roman Bologna."
       },
       "localizedStory" : {
         "de" : "Man sagt, der selige Niccolò Albergati, Bischof von Bologna, habe wundersame Tugenden gehabt. Ein Schüler von ihm wurde Papst und nahm seinen Namen an.",
@@ -21434,27 +21434,27 @@
       "story" : "In 1805 Napoleon was offered the keys to the city outside this gate. He turned them down: they were already in good hands."
     },
     {
-      "extendedStory" : "Recent studies show the ring is older than people long thought, which makes the old name fit again. Picture that wall running round the city, 8 metres high. Every gate in it was topped by a tower like this one. Just two small back doors, called posterns, let people slip in and out. This gate tower still stands on Via Portanova.",
+      "extendedStory" : "It was the city's second ring of walls, and by 1116 Bologna had already lived inside it for decades. Others long dated it later, but recent studies back the early date. Picture that wall, 8 metres high, every gate topped by a tower like this one. Just two small back doors, called posterns, let people slip in and out.",
       "icon" : "everyday",
       "id" : "f-torresotto-di-porta-nuova",
       "kind" : "gate_tower",
       "localizedExtendedStory" : {
-        "de" : "Neuere Studien zeigen, dass der Ring älter ist als lange gedacht, und so passt der alte Name wieder. Stell dir die Mauer vor, wie sie rund um die Stadt lief, 8 Meter hoch. Jedes Tor darin trug einen Turm wie diesen. Dazu kamen nur zwei kleine Nebenpforten zum Hinein- und Hinausschlüpfen. Dieser Torturm steht noch heute an der Via Portanova.",
-        "en" : "Recent studies show the ring is older than people long thought, which makes the old name fit again. Picture that wall running round the city, 8 metres high. Every gate in it was topped by a tower like this one. Just two small back doors, called posterns, let people slip in and out. This gate tower still stands on Via Portanova."
+        "de" : "Es war der zweite Mauerring der Stadt, und 1116 lebte Bologna schon seit Jahrzehnten darin. Andere datierten ihn lange später, doch neuere Studien stützen das frühe Datum. Stell dir die Mauer vor, 8 Meter hoch, jedes Tor mit einem Turm wie diesem. Dazu kamen nur zwei kleine Nebenpforten zum Hinein- und Hinausschlüpfen.",
+        "en" : "It was the city's second ring of walls, and by 1116 Bologna had already lived inside it for decades. Others long dated it later, but recent studies back the early date. Picture that wall, 8 metres high, every gate topped by a tower like this one. Just two small back doors, called posterns, let people slip in and out."
       },
       "localizedStory" : {
-        "de" : "Dieses Torhaus stand in Bolognas zweitem Mauerring. Sein alter Name, Ring der Tausend, verrät, wie alt der Ring ist.",
-        "en" : "This gate tower stood in Bologna's second ring of walls. Its old name, the ring of the thousand, hints at how old the ring is."
+        "de" : "Dieses Torhaus stand in Bolognas Ring der Tausend. Manche Quellen sagen, der Ring entstand um das Jahr 1000.",
+        "en" : "This gate tower stood in Bologna's ring of the thousand. Some sources say the ring was built around the year 1000."
       },
       "name" : "Torresotto di Porta Nuova",
       "pos" : [
         44.494328,
         11.336788
       ],
-      "story" : "This gate tower stood in Bologna's second ring of walls. Its old name, the ring of the thousand, hints at how old the ring is."
+      "story" : "This gate tower stood in Bologna's ring of the thousand. Some sources say the ring was built around the year 1000."
     }
   ],
-  "generatedAt" : "2026-10-02T12:33:14Z",
+  "generatedAt" : "2026-10-02T12:59:12Z",
   "icon" : {
     "paths" : [
       "M34 84 L34 12 L39 12 L39 17 L43 17 L43 12 L48 12 L48 84 Z M56 84 L66 38 L66 33 L71 33 L71 38 L75 38 L75 33 L80 33 L80 38 L70 84 Z M28 84 L78 84 L78 90 L28 90 Z"
@@ -21468,7 +21468,7 @@
     "it" : "Bologna"
   },
   "name" : "Bologna",
-  "packVersion" : 38,
+  "packVersion" : 39,
   "schemaVersion" : 1,
   "source" : "OpenStreetMap via Overpass API",
   "stats" : {

@@ -185,9 +185,9 @@
     "adjustedStreets" : [
 
     ],
-    "fromVersion" : 18,
+    "fromVersion" : 22,
     "removedStreets" : [
-      "Ainmillerhof"
+
     ]
   },
   "cityId" : "landshut",
@@ -5092,13 +5092,13 @@
   ],
   "fruits" : [
     {
-      "extendedStory" : "Walk up the Narrentreppe, the fools' stair, and life-size figures from the Commedia dell'arte look back at you. That was a comic play with masked characters everyone knew. No court anywhere else painted its courtly pastime this big, which makes the stair the only record of its kind. The dukes had held this hill since 1204, and the Renaissance later gave their fortress the face it wears now.",
+      "extendedStory" : "Walk up the Narrentreppe, the fools' stair, and life-size figures from the Commedia dell'arte look back at you. That was a comic play with fixed masked characters. The stair is the earliest and only big painted record of this courtly pastime. The castle itself goes back to 1204, and it was rebuilt in the Renaissance style.",
       "icon" : "choice",
       "id" : "f-burg-trausnitz",
       "kind" : "fortress",
       "localizedExtendedStory" : {
-        "de" : "Auf der Narrentreppe schauen dich lebensgroße Figuren der Commedia dell'arte an. Das war ein Theater mit festen Masken und Rollen. Kein anderer Hof hat seinen Zeitvertreib je so groß an die Wand malen lassen. Die Treppe ist damit das einzige Bildzeugnis dieser Art. Die Herzöge sitzen seit 1204 auf diesem Hügel, und die Renaissance gab der Burg später ihr heutiges Gesicht.",
-        "en" : "Walk up the Narrentreppe, the fools' stair, and life-size figures from the Commedia dell'arte look back at you. That was a comic play with masked characters everyone knew. No court anywhere else painted its courtly pastime this big, which makes the stair the only record of its kind. The dukes had held this hill since 1204, and the Renaissance later gave their fortress the face it wears now."
+        "de" : "Auf der Narrentreppe schauen dich lebensgroße Figuren der Commedia dell'arte an. Das war ein Theater mit festen Masken und Rollen. Die Treppe ist das früheste und einzige große Bildzeugnis dieses höfischen Zeitvertreibs. Die Burg selbst reicht bis 1204 zurück und wurde im Stil der Renaissance umgebaut.",
+        "en" : "Walk up the Narrentreppe, the fools' stair, and life-size figures from the Commedia dell'arte look back at you. That was a comic play with fixed masked characters. The stair is the earliest and only big painted record of this courtly pastime. The castle itself goes back to 1204, and it was rebuilt in the Renaissance style."
       },
       "localizedStory" : {
         "de" : "Der Name der Burg klingt wie eine Warnung. Man sagt, „Trausnitz“ komme von „trau sie nit“: wage es nicht, sie anzugreifen.",
@@ -5112,13 +5112,13 @@
       "story" : "People read the castle's name as a warning. They say Trausnitz is short for trau sie nit: don't you dare attack her."
     },
     {
-      "extendedStory" : "Wooden tread wheels hauled the bricks up while the tower rose. People walked inside them on shouted commands, the way a hamster works its wheel. They are still up there, one level with the roof ridge and another near the very top. Master builders came and went over the years, and the church is brick from the ground to the tip. The last stone went on around 1500.",
+      "extendedStory" : "Tread wheels hauled the building material up while the tower rose. People walked inside them on precise commands, the way a hamster works its wheel. They are still up there, one level with the roof ridge and another near the very top. Master builders came and went over the years, and the church is brick from the ground to the tip. The last stone went on around 1500.",
       "icon" : "hero",
       "id" : "f-basilika-sankt-martin",
       "kind" : "church",
       "localizedExtendedStory" : {
-        "de" : "Treträder aus Holz zogen die Ziegel nach oben, solange der Turm wuchs. Menschen liefen darin auf Kommando, wie ein Hamster in seinem Rad. Beide Räder hängen noch dort, eines auf Höhe des Dachfirsts, eines fast unter der Spitze. Baumeister lösten einander über die Jahrzehnte ab, und gebaut ist alles aus Backstein. Erst um 1500 war der Turm oben fertig, Stein für Stein.",
-        "en" : "Wooden tread wheels hauled the bricks up while the tower rose. People walked inside them on shouted commands, the way a hamster works its wheel. They are still up there, one level with the roof ridge and another near the very top. Master builders came and went over the years, and the church is brick from the ground to the tip. The last stone went on around 1500."
+        "de" : "Treträder zogen das Baumaterial nach oben, solange der Turm wuchs. Menschen liefen darin auf Kommando, wie ein Hamster in seinem Rad. Beide Räder hängen noch dort, eines auf Höhe des Dachfirsts, eines im obersten Geschoss. Baumeister lösten einander über die Jahrzehnte ab, und gebaut ist alles aus Backstein. Erst um 1500 war der Turm oben fertig.",
+        "en" : "Tread wheels hauled the building material up while the tower rose. People walked inside them on precise commands, the way a hamster works its wheel. They are still up there, one level with the roof ridge and another near the very top. Master builders came and went over the years, and the church is brick from the ground to the tip. The last stone went on around 1500."
       },
       "localizedStory" : {
         "de" : "Der Legende nach wurde der Turm aus einem Grund so hoch gebaut: von oben schaust du dem Herzog drüben in die Suppenschüssel.",
@@ -5132,44 +5132,44 @@
       "story" : "Legend says the tower grew this tall for one reason. From up there you could look into the duke's soup bowl across the valley."
     },
     {
-      "extendedStory" : "That model, the Palazzo del Te, stands in Mantua, and the copy went up here in a Gothic town. Straight walls, even windows, a calm face on the street: nothing of the sort stood on this side of the Alps. Landshut had the Italian manner before the rest of the north did. Duke Louis got his Italy without leaving the Ländgasse.",
+      "extendedStory" : "It is generally reckoned the earliest High Renaissance building north of the Alps to follow an Italian model. Renaissance builders went back to the calm, even forms of ancient Rome. Duke Louis brought that look to Landshut. Stand in the Ländgasse and look at the building with that in mind, and picture Mantua.",
       "icon" : "choice",
       "id" : "f-stadtresidenz",
       "kind" : "palace",
       "localizedExtendedStory" : {
-        "de" : "Das Vorbild, der Palazzo del Te, steht in Mantua, und die Kopie davon wuchs hier in einer gotischen Stadt aus Backstein. Gerade Wände, gleichmäßige Fenster, ein ruhiges Gesicht zur Gasse: so etwas hatte hier noch keiner gesehen. Landshut bekam die italienische Bauweise früher als die anderen Städte hier oben im Norden. Herzog Ludwig holte sich Italien vor die eigene Haustür, ohne dafür zu verreisen.",
-        "en" : "That model, the Palazzo del Te, stands in Mantua, and the copy went up here in a Gothic town. Straight walls, even windows, a calm face on the street: nothing of the sort stood on this side of the Alps. Landshut had the Italian manner before the rest of the north did. Duke Louis got his Italy without leaving the Ländgasse."
+        "de" : "Die Stadtresidenz gilt gemeinhin als das früheste Werk der Hochrenaissance hier im Norden, das sich auf italienische Vorbilder bezieht. Die Baumeister der Renaissance nahmen sich die ruhigen, gleichmäßigen Formen des alten Rom zum Vorbild. Herzog Ludwig holte diesen Stil nach Landshut. Stell dich in die Ländgasse und schau dir den Bau mit diesem Wissen an.",
+        "en" : "It is generally reckoned the earliest High Renaissance building north of the Alps to follow an Italian model. Renaissance builders went back to the calm, even forms of ancient Rome. Duke Louis brought that look to Landshut. Stand in the Ländgasse and look at the building with that in mind, and picture Mantua."
       },
       "localizedStory" : {
-        "de" : "Herzog Ludwig ließ diesen Palast nach italienischem Vorbild zeichnen, dem Palazzo del Te in Mantua. 1536 rückten die Maurer an.",
-        "en" : "Duke Louis had this palace drawn from an Italian model, the Palazzo del Te in Mantua. Masons went to work in 1536."
+        "de" : "Herzog Ludwig ließ diesen Palast nach italienischem Vorbild bauen, dem Palazzo del Te in Mantua. 1536 begannen die Arbeiten.",
+        "en" : "Duke Louis had this palace built on an Italian model, the Palazzo del Te in Mantua. Work began in 1536."
       },
       "name" : "Stadtresidenz",
       "pos" : [
         48.536292,
         12.150553
       ],
-      "story" : "Duke Louis had this palace drawn from an Italian model, the Palazzo del Te in Mantua. Masons went to work in 1536."
+      "story" : "Duke Louis had this palace built on an Italian model, the Palazzo del Te in Mantua. Work began in 1536."
     },
     {
-      "extendedStory" : "From the street you can count three houses standing as one. The city bought the middle one as its town hall in 1380. The corner house on the Grasgasse followed, and a patrician family's home after that. Long before the painters came, a duke's wedding turned part of the building into a ballroom. The bride and groom danced here, and that is the day now circling the hall on its walls.",
+      "extendedStory" : "From the street you can count three houses standing as one. The city bought the middle one as its town hall in 1380. The corner house on the Grasgasse followed, and a patrician family's home after that. A duke's wedding once turned part of the building into a ballroom, and the bride and groom danced here. The paintings round the hall show that wedding's procession. A club formed for it, and a year later the bridal procession took to the streets.",
       "icon" : "choice",
       "id" : "f-rathaus-landshut",
       "kind" : "civic",
       "localizedExtendedStory" : {
-        "de" : "Von der Gasse aus zählst du drei Häuser, die zusammen eines sind. Den Mittelbau kaufte die Stadt 1380 als Rathaus. Dann kam das Eckhaus zur Grasgasse dazu, später das Haus einer Patrizierfamilie. Lange vor den Malern wurde ein Teil des Baus für eine Herzogshochzeit zum Tanzsaal. Das Brautpaar tanzte hier, und genau dieser Tag zieht heute als Bild rund um den Saal.",
-        "en" : "From the street you can count three houses standing as one. The city bought the middle one as its town hall in 1380. The corner house on the Grasgasse followed, and a patrician family's home after that. Long before the painters came, a duke's wedding turned part of the building into a ballroom. The bride and groom danced here, and that is the day now circling the hall on its walls."
+        "de" : "Von der Gasse aus zählst du drei Häuser, die zusammen eines sind. Den Mittelbau kaufte die Stadt 1380 als Rathaus. Dann kam das Eckhaus zur Grasgasse dazu, später das Haus einer Patrizierfamilie. Für eine Herzogshochzeit wurde ein Teil des Baus einst zum Tanzsaal, und das Brautpaar tanzte hier. Die Bilder rund um den Saal zeigen den Festzug dieser Hochzeit. Dafür gründete sich ein Verein, und ein Jahr später zog der Brautzug schon durch die Straßen.",
+        "en" : "From the street you can count three houses standing as one. The city bought the middle one as its town hall in 1380. The corner house on the Grasgasse followed, and a patrician family's home after that. A duke's wedding once turned part of the building into a ballroom, and the bride and groom danced here. The paintings round the hall show that wedding's procession. A club formed for it, and a year later the bridal procession took to the streets."
       },
       "localizedStory" : {
-        "de" : "Maler legten den Festzug einer Hochzeit rund um den Prunksaal. Kaum waren sie fertig, beschloss die Stadt, den Zug in echt aufzuführen.",
-        "en" : "Painters covered the great hall with a wedding procession. Soon after they finished, the town decided to stage the whole parade for real."
+        "de" : "Maler legten den Festzug einer Hochzeit rund um den Prunksaal. Den Bürgern gefiel das so, dass sie beschlossen, den Zug in echt aufzuführen.",
+        "en" : "Painters covered the great hall with a wedding procession. The townsfolk liked it so much they decided to stage the whole parade for real."
       },
       "name" : "Rathaus Landshut",
       "pos" : [
         48.536289,
         12.152183
       ],
-      "story" : "Painters covered the great hall with a wedding procession. Soon after they finished, the town decided to stage the whole parade for real."
+      "story" : "Painters covered the great hall with a wedding procession. The townsfolk liked it so much they decided to stage the whole parade for real."
     },
     {
       "extendedStory" : "The name comes from the Länden, the raftsmen's landing spots on the Isar bank outside the walls. Town gates were usually plain towers, but this one had a walled forecourt in front of it for extra defence. What you walk under is that forecourt's outer gate, two towers joined by a piece of wall-walk. At its foot a bronze model of the Old Town lets blind visitors read the rows of houses by hand.",
@@ -5192,33 +5192,33 @@
       "story" : "Landshut's arms carry three helmets. The story goes that King Ludwig the Bavarian granted them to thank the town for its knightly courage."
     },
     {
-      "extendedStory" : "The garden you crossed goes back to 1204, when Duke Ludwig der Kelheimer founded a town he called Landeshuta. In 1837 it was opened to the people of Landshut as a public park. The platform leans against the wall of Burg Trausnitz, and that height is what opens the view. Roofs and church towers of the Old Town lie below you, with the Isar valley running wide behind.",
+      "extendedStory" : "The garden you crossed goes back to 1204, when Duke Ludwig der Kelheimer founded the town of Landeshuta. In 1837 it was opened to the people of Landshut as a public park. The platform leans against the wall of Burg Trausnitz, and that height is what opens the view. Roofs and church towers of the Old Town lie below you, with the Isar valley running wide behind.",
       "icon" : "everyday",
       "id" : "f-schanzl",
       "kind" : "viewpoint",
       "localizedExtendedStory" : {
         "de" : "Der Garten, den du gerade überquert hast, reicht bis ins Jahr 1204 zurück. Damals gründete Herzog Ludwig der Kelheimer die Stadt Landeshuta. 1837 öffnete man ihn für die Bevölkerung Landshuts als öffentlichen Park. Die Plattform lehnt an der Mauer der Burg Trausnitz, und diese Höhe macht den Blick. Dächer und Kirchtürme der Altstadt liegen unter dir, dahinter zieht sich das weite Isartal.",
-        "en" : "The garden you crossed goes back to 1204, when Duke Ludwig der Kelheimer founded a town he called Landeshuta. In 1837 it was opened to the people of Landshut as a public park. The platform leans against the wall of Burg Trausnitz, and that height is what opens the view. Roofs and church towers of the Old Town lie below you, with the Isar valley running wide behind."
+        "en" : "The garden you crossed goes back to 1204, when Duke Ludwig der Kelheimer founded the town of Landeshuta. In 1837 it was opened to the people of Landshut as a public park. The platform leans against the wall of Burg Trausnitz, and that height is what opens the view. Roofs and church towers of the Old Town lie below you, with the Isar valley running wide behind."
       },
       "localizedStory" : {
-        "de" : "Die gestufte Steinrampe, die du hochgestiegen bist, trägt einen Spitznamen: Ochsenklavier. Ihre Steinreihen sehen aus wie eine Klaviatur.",
-        "en" : "The stepped ramp you just walked up has a nickname. Locals call it the Ochsenklavier, the ox piano: its rows of slabs look like keys."
+        "de" : "Die gestufte Rampe zur Burg trägt den Spitznamen Ochsenklavier. So heißen Trittsteine, über die Vieh durch Bäche lief.",
+        "en" : "This stepped ramp up to the castle has a nickname, the Ochsenklavier or ox piano. The name means stepping stones that cattle crossed streams on."
       },
       "name" : "Schanzl",
       "pos" : [
         48.532466,
         12.154177
       ],
-      "story" : "The stepped ramp you just walked up has a nickname. Locals call it the Ochsenklavier, the ox piano: its rows of slabs look like keys."
+      "story" : "This stepped ramp up to the castle has a nickname, the Ochsenklavier or ox piano. The name means stepping stones that cattle crossed streams on."
     },
     {
-      "extendedStory" : "Hans von Burghausen laid this out in 1407, and he is the same man behind the great brick church across town. Its name comes from the Holy Spirit, and the lane beside it took the name too. A house like this one fed and bedded the sick and the poor who came off the road. Six centuries later the vault is still standing, and so is the name.",
+      "extendedStory" : "Look for a second face up there: a vault corbel thought to be a self-portrait of the builder, Hans von Burghausen. He drew the plans in 1407, and St Martin's was begun under him at about the same time. After he died, Hans Stethaimer took over. A keystone records that the vault was closed in 1461, and the work was done.",
       "icon" : "everyday",
       "id" : "f-heilig-geist",
       "kind" : "civic",
       "localizedExtendedStory" : {
-        "de" : "Hans von Burghausen legte den Bau 1407 an, derselbe Mann, der drüben an der großen Backsteinkirche arbeitete. Den Namen gab der Heilige Geist, und die Gasse daneben trägt ihn bis heute weiter. Ein Haus wie dieses nahm Kranke und Arme auf, die von der Straße hereinkamen. Die Kirche war der Teil davon, in den man hineingehen und sich setzen konnte. Sechshundert Jahre später steht das Gewölbe immer noch.",
-        "en" : "Hans von Burghausen laid this out in 1407, and he is the same man behind the great brick church across town. Its name comes from the Holy Spirit, and the lane beside it took the name too. A house like this one fed and bedded the sick and the poor who came off the road. Six centuries later the vault is still standing, and so is the name."
+        "de" : "Such dort oben ein zweites Gesicht: eine Gewölbekonsole, die als Selbstbildnis des Baumeisters Hans von Burghausen gilt. Er zeichnete 1407 die Pläne, und unter ihm begann etwa zur gleichen Zeit auch die Martinskirche. Nach seinem Tod übernahm Hans Stethaimer. Ein Schlussstein hält fest, dass 1461 das Gewölbe geschlossen und der Bau fertig war.",
+        "en" : "Look for a second face up there: a vault corbel thought to be a self-portrait of the builder, Hans von Burghausen. He drew the plans in 1407, and St Martin's was begun under him at about the same time. After he died, Hans Stethaimer took over. A keystone records that the vault was closed in 1461, and the work was done."
       },
       "localizedStory" : {
         "de" : "Vom Schlussstein im Sakristeigewölbe schaut ein steinernes Teufelsgesicht auf dich herab. Die Sakristei ist der Raum, in dem der Pfarrer seine Gewänder aufbewahrt.",
@@ -5241,18 +5241,18 @@
         "en" : "Elector Ferdinand Maria fetched the sisters from Messkirch in 1668 to teach the town's girls. He laid the foundation stone of convent and church himself, and the court joiner drew the plans. You can tell the image by the bowed head and a single star painted on her shoulder. Pilgrims have been walking here since 1699, and the school the sisters started is still teaching."
       },
       "localizedStory" : {
-        "de" : "Ein Gnadenbild hier trägt den Namen „Mutter mit dem geneigten Haupt“. Der Legende nach neigte sie ihr Haupt einmal zum Dank, und der Name blieb.",
-        "en" : "They say the Virgin once bowed her head in thanks. That is how this church's image got its name: the Mother with the Bowed Head."
+        "de" : "Der Legende nach neigte Maria ihr Haupt, um einem Ordensmann zu danken, der ihr Bild gerettet hatte. Daher heißt es Mutter mit dem geneigten Haupt.",
+        "en" : "They say the Virgin bowed her head to thank a friar who saved her painting. So it is called the Mother with the Bowed Head."
       },
       "name" : "Ursulinenkirche",
       "pos" : [
         48.538231,
         12.154876
       ],
-      "story" : "They say the Virgin once bowed her head in thanks. That is how this church's image got its name: the Mother with the Bowed Head."
+      "story" : "They say the Virgin bowed her head to thank a friar who saved her painting. So it is called the Mother with the Bowed Head."
     }
   ],
-  "generatedAt" : "2026-09-25T19:22:04Z",
+  "generatedAt" : "2026-10-02T18:32:51Z",
   "icon" : {
     "paths" : [
       "M48.1 39.3 L48.1 37.1 L38.1 37.3 L34.3 37.9 L30.8 38.7 L27.3 39.9 L24.1 41.4 L19 39.3 L13.6 37.9 L7.4 37.2 L0.1 37.1 L0.1 35.9 L6.1 36 L11.3 36.4 L18 37.8 L24.1 40.1 L29.2 38 L34.6 36.6 L40.5 36 L48 35.9 L38.3 28.1 L42.5 15.9 L38.4 11.3 L34 7.2 L29.3 3.4 L24.1 0 L19.1 3.2 L14.1 7.1 L9.6 11.3 L5.5 15.9 L9.8 28.1 L0 35.9 L0 39.3 L7.4 39.6 L13.5 40.5 L18.9 42.1 L24 44.4 L28.8 42.2 L34.1 40.6 L39.3 39.8 Z M100 39.3 L100 37.1 L89.9 37.4 L86 37.9 L82.5 38.7 L79.2 39.9 L76 41.4 L70.9 39.3 L65.5 37.9 L59.3 37.2 L52.1 37.1 L52 35.9 L58 36 L63.2 36.4 L69.9 37.8 L76 40.1 L81.1 38 L86.5 36.6 L92.4 36 L99.9 35.9 L90.2 28.1 L94.4 15.9 L90.3 11.3 L85.9 7.2 L81.2 3.4 L76 0 L71 3.2 L66 7.1 L61.6 11.3 L57.4 15.9 L61.7 28.1 L51.9 35.9 L51.9 39.3 L59.3 39.6 L65.4 40.5 L70.8 42.1 L76 44.4 L80.7 42.2 L85.9 40.6 L92.2 39.6 Z M74 89.5 L74 87.3 L63.9 87.6 L60.1 88.1 L56.6 88.9 L53.3 90.1 L50 91.6 L44.9 89.5 L39.5 88.1 L33.4 87.4 L26.1 87.3 L26.1 86.1 L32.1 86.2 L37.2 86.6 L44 87.9 L50 90.3 L55.2 88.2 L60.6 86.8 L66.5 86.2 L74 86.1 L64.2 78.3 L68.5 66.1 L64.3 61.5 L59.9 57.4 L55.2 53.6 L50 50.2 L45 53.4 L40.1 57.3 L35.6 61.5 L31.5 66.1 L35.7 78.3 L26 86.1 L26 89.5 L33.3 89.8 L39.4 90.7 L44.8 92.3 L50 94.6 L54.8 92.4 L59.9 90.8 L66.3 89.8 Z"
@@ -5265,7 +5265,7 @@
     "en" : "Landshut"
   },
   "name" : "Landshut",
-  "packVersion" : 19,
+  "packVersion" : 23,
   "schemaVersion" : 1,
   "source" : "OpenStreetMap via Overpass API",
   "stats" : {

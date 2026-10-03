@@ -151,15 +151,11 @@
 
     ],
     "adjustedStreets" : [
-      "Sint Luciënsteeg"
+
     ],
-    "fromVersion" : 16,
+    "fromVersion" : 19,
     "removedStreets" : [
-      "Nesplein",
-      "Postzegelmarkt",
-      "Rokin-plein",
-      "Torensluis",
-      "Walenpleintje"
+
     ]
   },
   "cityId" : "amsterdam",
@@ -10548,167 +10544,167 @@
   ],
   "fruits" : [
     {
-      "extendedStory" : "Look up inside and the wooden ceiling is a chart of who sat where. Each panel carries the badge of the guild whose chapel stood right under it. A little ship marks the bargemen, Saint Eloy the smiths. The Reformation painted the whole lot over, and it stayed hidden until restorers scraped it back in 1951. The chapels are gone, but their signs are still up there.",
+      "extendedStory" : "Look up inside and the wooden ceiling is a map of the chapels below. Each panel carries the badge of the guild whose chapel stood right under it. A little ship marks the bargemen, Saint Eloy the smiths. The Reformation painted the whole lot over, and it stayed hidden until a restoration found it again in 1951. The chapels are gone, but their signs are still up there.",
       "icon" : "choice",
       "id" : "f-oude-kerk",
       "kind" : "museum",
       "localizedExtendedStory" : {
-        "de" : "Schau drinnen nach oben: die hölzerne Decke ist ein Plan davon, wer wo saß. Jede Tafel trägt das Zeichen der Zunft, deren Kapelle genau darunter stand. Ein Schiffchen steht für die Schiffer, der heilige Eligius für die Schmiede. Die Reformation übermalte alles, und erst Restauratoren holten es 1951 wieder hervor. Die Kapellen sind längst verschwunden, ihre Zeichen hängen aber noch da oben.",
-        "en" : "Look up inside and the wooden ceiling is a chart of who sat where. Each panel carries the badge of the guild whose chapel stood right under it. A little ship marks the bargemen, Saint Eloy the smiths. The Reformation painted the whole lot over, and it stayed hidden until restorers scraped it back in 1951. The chapels are gone, but their signs are still up there."
+        "de" : "Schau drinnen nach oben: die hölzerne Decke ist ein Plan der Kapellen darunter. Jede Tafel trägt das Zeichen der Zunft, deren Kapelle genau darunter stand. Ein Schiffchen steht für die Schiffer, der heilige Eligius für die Schmiede. Die Reformation übermalte alles, und erst Restauratoren holten es 1951 wieder hervor. Die Kapellen sind längst verschwunden, ihre Zeichen hängen aber noch da oben.",
+        "en" : "Look up inside and the wooden ceiling is a map of the chapels below. Each panel carries the badge of the guild whose chapel stood right under it. A little ship marks the bargemen, Saint Eloy the smiths. The Reformation painted the whole lot over, and it stayed hidden until a restoration found it again in 1951. The chapels are gone, but their signs are still up there."
       },
       "localizedStory" : {
-        "de" : "Eine Glocke hier läutete jeden Abend alle nach Hause. Ihr Spitzname: Gaunerglocke, als hätte sie bloß den Gaunern gegolten.",
-        "en" : "One bell here rang every evening to send everyone home. It was known as the rogues' bell, as if it rang for them alone."
+        "de" : "Eine Glocke hier läutete jeden Abend alle nach Hause. Ihr Spitzname: Gaunerglocke.",
+        "en" : "One bell here rang every evening to send everyone home. Its nickname was the rogues' bell."
       },
       "name" : "Oude Kerk",
       "pos" : [
         52.374585,
         4.898082
       ],
-      "story" : "One bell here rang every evening to send everyone home. It was known as the rogues' bell, as if it rang for them alone."
+      "story" : "One bell here rang every evening to send everyone home. Its nickname was the rogues' bell."
     },
     {
-      "extendedStory" : "Money ran out before the great tower got anywhere. The half built stump sat by the church for years, doing nothing, until it was finally pulled down in 1783. Its base is still in place, swallowed into the wall at the western end. Run your eye along that side and you can see where a tower was meant to go, and never went.",
+      "extendedStory" : "It is a ceremony of law, not of faith, even though it takes place in a church. Money ran out before the great tower got anywhere. The half built stump was finally pulled down in 1783. Its base is still in place, swallowed into the wall at the western end. Run your eye along that side and you can see where a tower was meant to go, and never went.",
       "icon" : "choice",
       "id" : "f-nieuwe-kerk",
       "kind" : "museum",
       "localizedExtendedStory" : {
-        "de" : "Das Geld ging aus, bevor der große Turm über seinen Ansatz hinauskam. Der halbfertige Stumpf stand jahrelang nutzlos neben der Kirche, bis man ihn 1783 abtrug. Sein Sockel steckt bis heute in der Mauer am westlichen Ende des Baus. Geh an dieser Seite entlang, dann erkennst du genau, wo der Turm hinsollte und nie hinkam. Amsterdam blieb also eine große Kirche ohne Turm.",
-        "en" : "Money ran out before the great tower got anywhere. The half built stump sat by the church for years, doing nothing, until it was finally pulled down in 1783. Its base is still in place, swallowed into the wall at the western end. Run your eye along that side and you can see where a tower was meant to go, and never went."
+        "de" : "Es ist ein Akt des Rechts, nicht des Glaubens, auch wenn er in einer Kirche stattfindet. Das Geld ging aus, bevor der große Turm über seinen Ansatz hinauskam. Den halbfertigen Stumpf trug man 1783 ab. Sein Sockel steckt bis heute in der Mauer am westlichen Ende des Baus. Geh an dieser Seite entlang, dann erkennst du genau, wo der Turm hinsollte und nie hinkam.",
+        "en" : "It is a ceremony of law, not of faith, even though it takes place in a church. Money ran out before the great tower got anywhere. The half built stump was finally pulled down in 1783. Its base is still in place, swallowed into the wall at the western end. Run your eye along that side and you can see where a tower was meant to go, and never went."
       },
       "localizedStory" : {
-        "de" : "Jeder niederländische Monarch tritt hier drinnen sein Amt an. Die Krone liegt dabei angeblich unberührt auf einem Tisch daneben, die ganze Zeremonie lang.",
-        "en" : "Every Dutch monarch takes office in here. The crown is said to stay on its table beside them, untouched, through the whole ceremony."
+        "de" : "Jeder niederländische Monarch tritt hier sein Amt an, wird aber nie gekrönt. Die Krone liegt dabei bloß auf einem Tisch daneben, unberührt.",
+        "en" : "Every Dutch monarch takes office in here, but is never crowned. The crown just lies on a table beside them, untouched."
       },
       "name" : "Nieuwe Kerk",
       "pos" : [
         52.373706,
         4.891624
       ],
-      "story" : "Every Dutch monarch takes office in here. The crown is said to stay on its table beside them, untouched, through the whole ceremony."
+      "story" : "Every Dutch monarch takes office in here, but is never crowned. The crown just lies on a table beside them, untouched."
     },
     {
-      "extendedStory" : "Whole tree trunks hold this place up, shipped down from Norway and driven deep into the wet ground. Schoolchildren once learned their number by heart, and here it is: 13,659. Not one of those trunks has been seen since. In 1945 the building was found sagging, so workers drove in a few more. Stand back, look at the weight above you, and think about the forest underneath it.",
+      "extendedStory" : "Wooden piles from Norway hold it up, 13,659 of them, a number schoolchildren once learned by heart. In 1945 the building was found sagging, so more piles went in. The whole city stands on wooden piles too, which is why the rhyme worries about it tipping. Stand back, look at the weight above you, and think about the forest underneath it.",
       "icon" : "hero",
       "id" : "f-koninklijk-paleis",
       "kind" : "fortress",
       "localizedExtendedStory" : {
-        "de" : "Ganze Baumstämme tragen dieses Haus, aus Norwegen herangeschafft und tief in den nassen Grund gerammt. Ihre Zahl lernten Schulkinder früher auswendig, weil sie sich wie eine Jahreszahl liest: 13.659. Keiner dieser Stämme ist seither je wieder ans Licht gekommen. Seit 1945 stecken ein paar mehr darin, denn das schwere Haus hatte sich gesenkt. Bleib kurz stehen, schau dir das Gewicht über dir an und denk an den Wald darunter.",
-        "en" : "Whole tree trunks hold this place up, shipped down from Norway and driven deep into the wet ground. Schoolchildren once learned their number by heart, and here it is: 13,659. Not one of those trunks has been seen since. In 1945 the building was found sagging, so workers drove in a few more. Stand back, look at the weight above you, and think about the forest underneath it."
+        "de" : "Holzpfähle aus Norwegen tragen dieses Haus, 13.659 Stück, eine Zahl, die Schulkinder früher auswendig lernten. 1945 merkte man, dass sich der Bau gesenkt hatte, und rammte weitere Pfähle ein. Die ganze Stadt steht auf Holzpfählen, darum sorgt sich der Reim, sie könnte umkippen. Bleib kurz stehen, schau dir das Gewicht über dir an und denk an den Wald darunter.",
+        "en" : "Wooden piles from Norway hold it up, 13,659 of them, a number schoolchildren once learned by heart. In 1945 the building was found sagging, so more piles went in. The whole city stands on wooden piles too, which is why the rhyme worries about it tipping. Stand back, look at the weight above you, and think about the forest underneath it."
       },
       "localizedStory" : {
-        "de" : "Kinder lernen hier noch einen Reim über das, was den Palast trägt. Darin wird gefragt, so heißt es, wer zahlt, wenn Amsterdam eines Tages umkippt.",
-        "en" : "Children here still recite a rhyme about what holds this palace up. It asks, they say, who would pay if Amsterdam ever tipped over."
+        "de" : "Bis heute kennen die Amsterdamer einen alten Reim über das, was den Palast trägt. Er fragt, so heißt es, wer zahlt, wenn Amsterdam umkippt.",
+        "en" : "Amsterdammers still recite an old rhyme about what holds this palace up. It asks, they say, who would pay if Amsterdam ever tipped over."
       },
       "name" : "Koninklijk Paleis",
       "pos" : [
         52.373128,
         4.890917
       ],
-      "story" : "Children here still recite a rhyme about what holds this palace up. It asks, they say, who would pay if Amsterdam ever tipped over."
+      "story" : "Amsterdammers still recite an old rhyme about what holds this palace up. It asks, they say, who would pay if Amsterdam ever tipped over."
     },
     {
-      "extendedStory" : "Her grave is still down by the wall, and every 2 May flowers appear on it. Look across the court from the chapel door and you are looking at another door. That one belongs to the church the community had to hand over when the city changed faith. They kept their houses, though, because each woman owned hers outright, and that is how the place survived.",
+      "extendedStory" : "Her grave is still there by the gutter, and every 2 May flowers appear on it. Look across the court from the chapel door and you are looking at another door. That one belongs to the church the community had to hand over when it turned Protestant. They kept their houses, though, because each woman owned hers outright, and that is how the place survived.",
       "icon" : "everyday",
       "id" : "f-begijnhofkapel",
       "kind" : "church",
       "localizedExtendedStory" : {
-        "de" : "Ihr Grab liegt bis heute an der Außenmauer, und jedes Jahr am zweiten Mai liegen dort Blumen. Vom Eingang der Kapelle aus blickst du über den Hof genau auf eine andere Tür. Sie gehört der Kirche, die die Gemeinschaft abgeben musste, als die Stadt den Glauben wechselte. Ihre Häuser behielten die Frauen, denn jede besaß ihres selbst. Genau deshalb gibt es diesen Hof überhaupt noch.",
-        "en" : "Her grave is still down by the wall, and every 2 May flowers appear on it. Look across the court from the chapel door and you are looking at another door. That one belongs to the church the community had to hand over when the city changed faith. They kept their houses, though, because each woman owned hers outright, and that is how the place survived."
+        "de" : "Ihr Grab liegt bis heute dort an der Rinne, und jedes Jahr am zweiten Mai liegen dort Blumen. Vom Eingang der Kapelle aus blickst du über den Hof genau auf eine andere Tür. Sie gehört der Kirche, die die Gemeinschaft abgeben musste, als sie protestantisch wurde. Ihre Häuser behielten die Frauen, denn jede besaß ihres selbst. Genau deshalb gibt es diesen Hof überhaupt noch.",
+        "en" : "Her grave is still there by the gutter, and every 2 May flowers appear on it. Look across the court from the chapel door and you are looking at another door. That one belongs to the church the community had to hand over when it turned Protestant. They kept their houses, though, because each woman owned hers outright, and that is how the place survived."
       },
       "localizedStory" : {
-        "de" : "Die Frauen, die hier lebten, legten kein Gelübde ab. Eine wollte kein Grab in ihrer Kirche: Der Sage nach bat sie um die Regenrinne draußen.",
-        "en" : "The women who lived here took no vows. One refused a grave inside her church: the story goes she asked for the gutter outside."
+        "de" : "Man erzählt, eine Frau von hier wollte kein Grab in ihrer Kirche, als die protestantisch wurde. Der Sage nach bat sie um die Regenrinne.",
+        "en" : "It is said a woman here refused a grave in her church once it turned Protestant. The story goes she asked for the gutter instead."
       },
       "name" : "Begijnhofkapel",
       "pos" : [
         52.369296,
         4.889605
       ],
-      "story" : "The women who lived here took no vows. One refused a grave inside her church: the story goes she asked for the gutter outside."
+      "story" : "It is said a woman here refused a grave in her church once it turned Protestant. The story goes she asked for the gutter instead."
     },
     {
-      "extendedStory" : "Pictures came late to this house. For centuries it took in parentless children of the town. A man called each week to collect money for them, and he wore a cloak of their split colours, red and black. You could spot him coming down a lane. Since 1976 paintings have hung in these rooms, and old courtyards look much as those children knew them.",
+      "extendedStory" : "Once this house was the Burgerweeshuis, home to Amsterdam's orphans. A collector went round each week raising money for them, dressed in a cloak of those same split colours. Founded in 1926 elsewhere, today's city collection moved in here in 1976, filling the orphans' old home room by room.",
       "icon" : "choice",
       "id" : "f-amsterdam-museum",
       "kind" : "museum",
       "localizedExtendedStory" : {
-        "de" : "Jahrhundertelang war dieses Haus das Bürgerwaisenhaus, hier wuchsen die Waisenkinder der Stadt auf. Der Mann, der jede Woche für sie Geld einsammelte, trug einen Mantel in denselben geteilten Farben, rot und schwarz. Du hättest ihn schon von Weitem in der Gasse an seinem Mantel erkannt. Seit 1976 sitzt das Museum hier und hat die stillen Höfe so gelassen, wie die Kinder sie kannten.",
-        "en" : "Pictures came late to this house. For centuries it took in parentless children of the town. A man called each week to collect money for them, and he wore a cloak of their split colours, red and black. You could spot him coming down a lane. Since 1976 paintings have hung in these rooms, and old courtyards look much as those children knew them."
+        "de" : "Hier stand das Bürgerwaisenhaus, das Burgerweeshuis, in dem die Waisenkinder der Stadt lebten. Jede Woche ging ein Mann herum und sammelte Geld für sie, und sein Mantel trug dieselben geteilten Farben. Das Museum selbst wurde 1926 gegründet und zog 1976 in dieses Haus, so wurde das alte Waisenhaus zum Museum der Stadt.",
+        "en" : "Once this house was the Burgerweeshuis, home to Amsterdam's orphans. A collector went round each week raising money for them, dressed in a cloak of those same split colours. Founded in 1926 elsewhere, today's city collection moved in here in 1976, filling the orphans' old home room by room."
       },
       "localizedStory" : {
-        "de" : "Die Kinder, die hier lebten, trugen einen Mantel, halb rot, halb schwarz. Niemand weiß, warum, das Stadtwappen ist bloß die übliche Vermutung.",
-        "en" : "Children who lived here wore a coat half red, half black. Nobody knows why, though the city's own shield is the usual guess."
+        "de" : "Die Kinder, die hier lebten, trugen Kleidung, halb rot, halb schwarz. Niemand weiß, warum, das Stadtwappen ist bloß die übliche Vermutung.",
+        "en" : "Children who lived here wore clothes half red, half black. Nobody knows why, though the city's own shield is the usual guess."
       },
       "name" : "Amsterdam Museum",
       "pos" : [
         52.370431,
         4.890429
       ],
-      "story" : "Children who lived here wore a coat half red, half black. Nobody knows why, though the city's own shield is the usual guess."
+      "story" : "Children who lived here wore clothes half red, half black. Nobody knows why, though the city's own shield is the usual guess."
     },
     {
-      "extendedStory" : "The city had turned Protestant, and Catholic worship was pushed off the street. So it went upstairs. Everyone knew, the magistrates included, and nobody moved against it, as long as nothing showed outside. From the canal it still looks like any other house. Up there the wooden benches take 150 people, in a room you would never guess at from below.",
+      "extendedStory" : "Everyone knew it was here, the Protestant magistrates included. Nobody moved against it, as long as it stayed out of public view. It fills the joined attics of the three houses. The stair up starts in a side alley, and up there it seats as many as 150 people. The church is named after Saint Nicholas.",
       "icon" : "everyday",
       "id" : "f-ons-lieve-heer-op-solder",
       "kind" : "museum",
       "localizedExtendedStory" : {
-        "de" : "Die Stadt war protestantisch geworden, und katholische Messen durften auf der Straße nicht stattfinden. Also zogen sie nach oben. Jeder wusste davon, die Obrigkeit eingeschlossen, und keiner schritt ein, solange nach draußen nichts davon zu sehen war. Von der Gracht aus wirkt das Haus wie jedes andere auch. Droben fassen die Bänke 150 Menschen, in einem Raum, den du von unten nie vermuten würdest.",
-        "en" : "The city had turned Protestant, and Catholic worship was pushed off the street. So it went upstairs. Everyone knew, the magistrates included, and nobody moved against it, as long as nothing showed outside. From the canal it still looks like any other house. Up there the wooden benches take 150 people, in a room you would never guess at from below."
+        "de" : "Jeder wusste davon, die protestantische Obrigkeit eingeschlossen, und keiner schritt ein, solange nach außen nichts sichtbar wurde. Die Kirche füllt die verbundenen Dachböden der drei Häuser. Die Treppe hinauf beginnt in einer Seitengasse, und oben finden bis zu 150 Menschen Platz. Die Kirche trägt den Namen des heiligen Nikolaus.",
+        "en" : "Everyone knew it was here, the Protestant magistrates included. Nobody moved against it, as long as it stayed out of public view. It fills the joined attics of the three houses. The stair up starts in a side alley, and up there it seats as many as 150 people. The church is named after Saint Nicholas."
       },
       "localizedStory" : {
-        "de" : "Unter dem Dach von drei zusammengelegten Grachtenhäusern steckt eine ganze Kirche. Die Treppe hinauf beginnt in einer schmalen Gasse.",
-        "en" : "Up under the roof of three canal houses, knocked together, sits a whole church. The stair to it starts in a narrow alley."
+        "de" : "Unter dem Dach von drei Grachtenhäusern steckt eine ganze Kirche, versteckt, weil Katholiken unsichtbar beten mussten.",
+        "en" : "Up under the roof of three canal houses sits a whole church, hidden there when Catholics had to worship unseen."
       },
       "name" : "Ons' Lieve Heer op Solder",
       "pos" : [
         52.375173,
         4.899366
       ],
-      "story" : "Up under the roof of three canal houses, knocked together, sits a whole church. The stair to it starts in a narrow alley."
+      "story" : "Up under the roof of three canal houses sits a whole church, hidden there when Catholics had to worship unseen."
     },
     {
-      "extendedStory" : "Upstairs each guild had its own front door, its emblem cut in stone above it. The pastry makers, the painters, the cobblers, the surgeons. Count the doors as you walk round. Down below, the building started life as a town gate, and the city simply grew past it. By 1612 there was nothing left to guard, so the gate was put to work weighing goods instead.",
+      "extendedStory" : "Upstairs each guild had its own front door, its emblem set above it. The pastry makers, the painters, the cobblers, the surgeons. Count the doors as you walk round. Down below, the building started life as a town gate, and the city simply grew past it. In 1612 the gate lost its job, so it was put to work weighing goods instead.",
       "icon" : "everyday",
       "id" : "f-nieuwmarkt",
       "kind" : "market",
       "localizedExtendedStory" : {
-        "de" : "Oben hatte jede Zunft ihre eigene Haustür, das Zeichen darüber sauber in Stein gehauen: die Zuckerbäcker, die Maler, die Schuster, die Wundärzte. Zähl die Türen, wenn du einmal außen um das Haus herumgehst. Unten begann das Gebäude als Stadttor, doch die Stadt wuchs im Lauf der Jahre einfach daran vorbei. 1612 gab es nichts mehr zu bewachen, und aus dem wehrhaften Tor wurde eine Waage für Waren.",
-        "en" : "Upstairs each guild had its own front door, its emblem cut in stone above it. The pastry makers, the painters, the cobblers, the surgeons. Count the doors as you walk round. Down below, the building started life as a town gate, and the city simply grew past it. By 1612 there was nothing left to guard, so the gate was put to work weighing goods instead."
+        "de" : "Oben hatte jede Zunft ihre eigene Haustür, das Zeichen darüber: die Zuckerbäcker, die Maler, die Schuster, die Wundärzte. Zähl die Türen, wenn du einmal außen um das Haus herumgehst. Unten begann das Gebäude als Stadttor, doch die Stadt wuchs daran vorbei. 1612 verlor das Tor seine Aufgabe und wurde zur Waage für Waren.",
+        "en" : "Upstairs each guild had its own front door, its emblem set above it. The pastry makers, the painters, the cobblers, the surgeons. Count the doors as you walk round. Down below, the building started life as a town gate, and the city simply grew past it. In 1612 the gate lost its job, so it was put to work weighing goods instead."
       },
       "localizedStory" : {
-        "de" : "Ein Stein am Eckturm nennt den Tag, an dem dieses Tor begonnen wurde. Niemand weiß, ob er stimmt. Das Tor könnte älter sein.",
-        "en" : "A stone on the corner tower names the day this gate was begun. Nobody knows if it tells the truth: the gate may be older."
+        "de" : "Ein Stein neben dem Eckturm der Waag nennt den Baubeginn des Tors. Niemand weiß, ob er stimmt: Das Tor könnte älter sein.",
+        "en" : "Beside a Waag corner tower, a stone names the day this gate was begun. Nobody knows if it is right: the gate may be older."
       },
       "name" : "Nieuwmarkt",
       "pos" : [
         52.372553,
         4.90009
       ],
-      "story" : "A stone on the corner tower names the day this gate was begun. Nobody knows if it tells the truth: the gate may be older."
+      "story" : "Beside a Waag corner tower, a stone names the day this gate was begun. Nobody knows if it is right: the gate may be older."
     },
     {
-      "extendedStory" : "Look at where the old brick stops and the lighter top begins. Below that line is what a fire left of a medieval city gate in 1618. Above it sits an eight sided lantern with a spire, drawn up fresh by Hendrick de Keyser. Ages apart, the halves were simply welded together and have stood that way since. The seam is worth a look, once you know it is there.",
+      "extendedStory" : "Look up and picture two ages stacked on each other. A fire in 1618 left the tower's medieval base and nothing more. The eight-sided top with its spire came straight after, a fresh Renaissance design by Hendrick de Keyser. So the bottom and the top are two centuries apart, welded into one tower that has stood that way ever since.",
       "icon" : "everyday",
       "id" : "f-munttoren",
       "kind" : "attraction",
       "localizedExtendedStory" : {
-        "de" : "Schau, wo der alte Backstein aufhört und der hellere Aufbau anfängt. Darunter steckt das, was ein Brand 1618 von einem mittelalterlichen Stadttor übrig ließ. Darüber sitzt eine achteckige Laterne mit Spitze, frisch entworfen von Hendrick de Keyser. Oben und unten trennen Jahrhunderte, und doch stehen sie seit damals zusammengeschweißt da. Die Nahtstelle lohnt einen Blick, wenn man erst einmal von ihr weiß.",
-        "en" : "Look at where the old brick stops and the lighter top begins. Below that line is what a fire left of a medieval city gate in 1618. Above it sits an eight sided lantern with a spire, drawn up fresh by Hendrick de Keyser. Ages apart, the halves were simply welded together and have stood that way since. The seam is worth a look, once you know it is there."
+        "de" : "Schau hinauf und stell dir zwei Zeitalter übereinander vor. Nur der mittelalterliche Sockel des Turms überstand 1618 einen Brand. Der achteckige Aufbau mit Spitze kam gleich danach, frisch entworfen im Stil der Renaissance von Hendrick de Keyser. Unten und oben trennen also zwei Jahrhunderte, zusammengeschweißt zu einem Turm, der seither so dasteht.",
+        "en" : "Look up and picture two ages stacked on each other. A fire in 1618 left the tower's medieval base and nothing more. The eight-sided top with its spire came straight after, a fresh Renaissance design by Hendrick de Keyser. So the bottom and the top are two centuries apart, welded into one tower that has stood that way ever since."
       },
       "localizedStory" : {
         "de" : "Sein Spitzname reicht völlig: De Munt. Sag das einem Taxifahrer am Flughafen, und er setzt dich genau hier ab.",
-        "en" : "Locals call it plain De Munt. Say that to a taxi driver out at Schiphol and he drops you right here."
+        "en" : "Locals call this tower plain De Munt. Say that to a taxi driver out at Schiphol and you are taken right here."
       },
       "name" : "Munttoren",
       "pos" : [
         52.367059,
         4.893221
       ],
-      "story" : "Locals call it plain De Munt. Say that to a taxi driver out at Schiphol and he drops you right here."
+      "story" : "Locals call this tower plain De Munt. Say that to a taxi driver out at Schiphol and you are taken right here."
     }
   ],
-  "generatedAt" : "2026-09-25T19:22:13Z",
+  "generatedAt" : "2026-10-02T13:10:17Z",
   "icon" : {
     "paths" : [
       "M34.53 14.47L40.47 8.53L65.47 33.53L59.53 39.47ZM65.47 14.47L59.53 8.53L34.53 33.53L40.47 39.47ZM34.53 40.47L40.47 34.53L65.47 59.53L59.53 65.47ZM65.47 40.47L59.53 34.53L34.53 59.53L40.47 65.47ZM34.53 66.47L40.47 60.53L65.47 85.53L59.53 91.47ZM65.47 66.47L59.53 60.53L34.53 85.53L40.47 91.47Z"
@@ -10721,7 +10717,7 @@
     "en" : "Amsterdam"
   },
   "name" : "Amsterdam",
-  "packVersion" : 17,
+  "packVersion" : 20,
   "schemaVersion" : 1,
   "source" : "OpenStreetMap via Overpass API",
   "stats" : {
