@@ -7585,6 +7585,13 @@
       ],
       "cityId" : "salzburg",
       "country" : "AT",
+      "familyStops" : [
+        "Schloss Mirabell",
+        "Mozartsteg",
+        "Kajetanerplatz",
+        "Salzburger Dom",
+        "Mozarts Geburtshaus"
+      ],
       "hasPage" : true,
       "iapProductId" : "cobblegobble.city.salzburg",
       "icon" : {
