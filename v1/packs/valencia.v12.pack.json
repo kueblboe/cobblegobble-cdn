@@ -171,14 +171,11 @@
 
     ],
     "adjustedStreets" : [
-      "Carrer de Nàquera",
-      "Carrer de la Tapineria"
+
     ],
-    "fromVersion" : 9,
+    "fromVersion" : 11,
     "removedStreets" : [
-      "Plaça de Cisneros",
-      "Plaça de Margarita Valldaura",
-      "Plaça de Sant Llorenç"
+
     ]
   },
   "cityId" : "valencia",
@@ -5166,13 +5163,13 @@
   ],
   "fruits" : [
     {
-      "extendedStory" : "Legend has it that the Holy Chalice kept here may be the cup Jesus used at the Last Supper. Above the altar, angels hid for centuries. Two painters had signed on to paint them in the vault. Later, a Baroque dome built about 80 centimetres below covered them up. In June 2004, restorers looked through a small hole and saw an angel playing a musical instrument.",
+      "extendedStory" : "Legend has it that the Holy Chalice kept here may be the cup Jesus used at the Last Supper. After a fire burned the old paintings above the altar, Bishop Rodrigo de Borja brought painters from Italy to paint angels there. Later, an archbishop wanted the silver altarpiece to shine more, so he had the chapel redone in Baroque style. Its new dome, about 80 centimetres lower, hid the angels. In June 2004, restorers saw one playing music through a small hole. All were still in good shape, and they were uncovered.",
       "icon" : "choice",
       "id" : "f-catedral-de-valencia",
       "kind" : "church",
       "localizedExtendedStory" : {
-        "de" : "Der Legende nach könnte der Heilige Kelch, der hier aufbewahrt wird, der Becher sein, den Jesus beim Letzten Abendmahl benutzte. Über dem Altar versteckten sich jahrhundertelang Engel. Zwei Maler hatten sich verpflichtet, sie ins Gewölbe zu malen. Später verdeckte sie eine Barockkuppel, gebaut rund 80 Zentimeter darunter. Im Juni 2004 blickten Restauratoren durch ein kleines Loch und sahen einen Engel, der ein Instrument spielte.",
-        "en" : "Legend has it that the Holy Chalice kept here may be the cup Jesus used at the Last Supper. Above the altar, angels hid for centuries. Two painters had signed on to paint them in the vault. Later, a Baroque dome built about 80 centimetres below covered them up. In June 2004, restorers looked through a small hole and saw an angel playing a musical instrument."
+        "de" : "Der Legende nach könnte der Heilige Kelch, der hier aufbewahrt wird, der Becher sein, den Jesus beim Letzten Abendmahl benutzte. Ein Brand zerstörte die alten Bilder über dem Altar. Danach holte Bischof Rodrigo de Borja Maler aus Italien, die dort Engel malten. Später wollte ein Erzbischof den silbernen Altaraufsatz stärker glänzen lassen und ließ die Kapelle barock umbauen. Die neue Kuppel, rund 80 Zentimeter tiefer, verdeckte die Engel. Im Juni 2004 sahen Restauratoren durch ein kleines Loch einen davon musizieren. Alle waren gut erhalten und wurden freigelegt.",
+        "en" : "Legend has it that the Holy Chalice kept here may be the cup Jesus used at the Last Supper. After a fire burned the old paintings above the altar, Bishop Rodrigo de Borja brought painters from Italy to paint angels there. Later, an archbishop wanted the silver altarpiece to shine more, so he had the chapel redone in Baroque style. Its new dome, about 80 centimetres lower, hid the angels. In June 2004, restorers saw one playing music through a small hole. All were still in good shape, and they were uncovered."
       },
       "localizedStory" : {
         "de" : "Jeden Donnerstagmittag tagen acht Bauern in schwarzen Kitteln am Apostelportal. Sie schlichten Streit um Bewässerungswasser, bei jedem Wetter.",
@@ -5186,33 +5183,33 @@
       "story" : "Every Thursday at noon, eight farmers in black smocks meet at the Door of the Apostles. They settle quarrels over irrigation water, rain or shine."
     },
     {
-      "extendedStory" : "The story goes that three pilgrims came to the Hospital of the Innocents. They were shut in a small chapel to carve an image of the Virgin. By the fourth day they had vanished, leaving just the statue. People said the angels had made it. Every March, during the Fallas, a team climbs a huge copy of her set up in the square outside. They fix the flowers that thousands of festival members bring, until her cloak is a tapestry of colour.",
+      "extendedStory" : "The story goes that three pilgrims came to a hospital and were shut in a chapel to carve her. It is said that by the fourth day they had vanished, leaving just the statue. People said angels had made it. Every March, during the Fallas, thousands of festival members bring her flowers. A team climbs a huge copy of her on the Plaça de la Mare de Déu. They fix the flowers in place until her cloak is a tapestry of colour.",
       "icon" : "everyday",
       "id" : "f-basilica-de-la-mare-de-deu-dels-desemparats",
       "kind" : "church",
       "localizedExtendedStory" : {
-        "de" : "Der Sage nach kamen drei Pilger ins Hospital der Unschuldigen. Man schloss sie in eine kleine Kapelle, damit sie ein Bild der Jungfrau schnitzten. Am vierten Tag waren sie verschwunden, nur die Figur war noch da. Die Leute sagten, Engel hätten sie gemacht. Jedes Jahr im März, zu den Fallas, klettert ein Team auf eine riesige Nachbildung der Jungfrau auf dem Platz davor. Es steckt die Blumen fest, die Tausende Festmitglieder bringen, bis ihr Mantel ein bunter Blumenteppich ist.",
-        "en" : "The story goes that three pilgrims came to the Hospital of the Innocents. They were shut in a small chapel to carve an image of the Virgin. By the fourth day they had vanished, leaving just the statue. People said the angels had made it. Every March, during the Fallas, a team climbs a huge copy of her set up in the square outside. They fix the flowers that thousands of festival members bring, until her cloak is a tapestry of colour."
+        "de" : "Der Sage nach kamen drei Pilger in ein Hospital und wurden in eine Kapelle gesperrt, um sie zu schnitzen. Man erzählt, am vierten Tag seien sie verschwunden, nur die Figur sei geblieben. Die Leute sagten, Engel hätten sie gemacht. Jedes Jahr im März, zu den Fallas, bringen ihr Tausende Festmitglieder Blumen. Ein Team klettert auf eine riesige Nachbildung der Jungfrau auf der Plaça de la Mare de Déu. Es steckt die Blumen fest, bis ihr Mantel ein bunter Blumenteppich ist.",
+        "en" : "The story goes that three pilgrims came to a hospital and were shut in a chapel to carve her. It is said that by the fourth day they had vanished, leaving just the statue. People said angels had made it. Every March, during the Fallas, thousands of festival members bring her flowers. A team climbs a huge copy of her on the Plaça de la Mare de Déu. They fix the flowers in place until her cloak is a tapestry of colour."
       },
       "localizedStory" : {
-        "de" : "Ihr Spitzname ist la Geperudeta, die kleine Bucklige: So nennen die Valencianer liebevoll die leicht gebeugte Marienfigur hier drinnen.",
-        "en" : "Valencians' nickname for the Virgin inside is la Geperudeta, the little hunchback, because her statue stands slightly stooped."
+        "de" : "Die Valencianer nennen diese Madonna liebevoll la Geperudeta, die kleine Bucklige. Sie neigt sich, weil sie zuerst liegend entstand, den Kopf auf einem Kissen.",
+        "en" : "Valencians fondly call this Virgin la Geperudeta, the little hunchback. Her statue leans because it was first made lying down, its head on a pillow."
       },
       "name" : "Basílica de la Mare de Déu dels Desemparats",
       "pos" : [
         39.476254,
         -0.374809
       ],
-      "story" : "Valencians' nickname for the Virgin inside is la Geperudeta, the little hunchback, because her statue stands slightly stooped."
+      "story" : "Valencians fondly call this Virgin la Geperudeta, the little hunchback. Her statue leans because it was first made lying down, its head on a pillow."
     },
     {
-      "extendedStory" : "The square tower has three floors. A chapel sits at the bottom, and the two floors above were a prison for merchants who had gone bankrupt. Next door, the Consolat del Mar was the seat of the first maritime trade court in Spain. Pere Compte began the work in 1483, and the Hall of Columns went up first. In 1996 the silk exchange became a UNESCO World Heritage Site.",
+      "extendedStory" : "The square tower has three floors. A chapel sits at the bottom, and the two floors above were a prison for merchants who had gone bankrupt. Next door, the Consolat del Mar was home to Spain's first court for trade by sea. Pere Compte began the work in 1483 and built the Hall of Columns before the rest. In 1996 the silk exchange became a UNESCO World Heritage Site.",
       "icon" : "hero",
       "id" : "f-llotja-de-la-seda",
       "kind" : "attraction",
       "localizedExtendedStory" : {
-        "de" : "Der quadratische Turm hat drei Stockwerke. Unten liegt eine Kapelle, und die zwei Etagen darüber waren ein Gefängnis für Kaufleute, die bankrott gegangen waren. Nebenan saß im Consolat del Mar das erste Seehandelsgericht Spaniens. Pere Compte begann 1483 mit dem Bau, und die Säulenhalle entstand zuerst. Seit 1996 ist die Seidenbörse UNESCO-Welterbe.",
-        "en" : "The square tower has three floors. A chapel sits at the bottom, and the two floors above were a prison for merchants who had gone bankrupt. Next door, the Consolat del Mar was the seat of the first maritime trade court in Spain. Pere Compte began the work in 1483, and the Hall of Columns went up first. In 1996 the silk exchange became a UNESCO World Heritage Site."
+        "de" : "Der quadratische Turm hat drei Stockwerke. Unten liegt eine Kapelle, und die zwei Etagen darüber waren ein Gefängnis für Kaufleute, die bankrott gegangen waren. Nebenan war das Consolat del Mar Spaniens erstes Gericht für den Handel über See. Pere Compte begann 1483 mit dem Bau und errichtete die Säulenhalle vor allem anderen. Seit 1996 ist die Seidenbörse UNESCO-Welterbe.",
+        "en" : "The square tower has three floors. A chapel sits at the bottom, and the two floors above were a prison for merchants who had gone bankrupt. Next door, the Consolat del Mar was home to Spain's first court for trade by sea. Pere Compte began the work in 1483 and built the Hall of Columns before the rest. In 1996 the silk exchange became a UNESCO World Heritage Site."
       },
       "localizedStory" : {
         "de" : "Tritt in die Säulenhalle: Acht Steinsäulen winden sich wie Spiralen nach oben, über dem Boden, auf dem Kaufleute ihre Geschäfte abschlossen.",
@@ -5226,64 +5223,64 @@
       "story" : "Step into the Hall of Columns: eight stone columns twist up like spirals over the floor where merchants struck their deals."
     },
     {
-      "extendedStory" : "A second tale lives in the basement. At closing time, when the noise died down, roaring sounds came up from below. Nobody dared look, so the story goes that a crocodile lived down there. Some even claimed to have seen it. Up top, the parrot shares the roof with a fish weathervane. The central dome beneath them is iron, glass and ceramic, 30 metres high, over a hall designed for 959 stalls.",
+      "extendedStory" : "So the tale goes, a roar came up from the basement at closing time, once the noise died down. It is said nobody dared look, so people decided a crocodile lived there, and some even claimed to have seen it. Up on the roofs, the parrot shares the sky with a fish weathervane. The central dome is iron, glass and ceramic, and rises 30 metres over a hall designed for 959 stalls.",
       "icon" : "everyday",
       "id" : "f-mercat-central",
       "kind" : "market",
       "localizedExtendedStory" : {
-        "de" : "Eine zweite Geschichte wohnt im Keller. Wenn nach Marktschluss der Lärm verklang, drang von unten ein Brüllen herauf. Niemand traute sich nachzusehen. Also erzählt man, dort unten lebe ein Krokodil. Manche wollen es sogar gesehen haben. Oben teilt sich der Papagei das Dach mit einem Fisch als Wetterfahne. Die Mittelkuppel darunter ist aus Eisen, Glas und Keramik, 30 Meter hoch, über einer Halle für 959 Marktstände.",
-        "en" : "A second tale lives in the basement. At closing time, when the noise died down, roaring sounds came up from below. Nobody dared look, so the story goes that a crocodile lived down there. Some even claimed to have seen it. Up top, the parrot shares the roof with a fish weathervane. The central dome beneath them is iron, glass and ceramic, 30 metres high, over a hall designed for 959 stalls."
+        "de" : "So erzählt man: Wenn nach Marktschluss der Lärm verklang, drang aus dem Keller ein Brüllen herauf. Man sagt, niemand traute sich nachzusehen, also glaubten die Leute, dort wohne ein Krokodil, und manche behaupteten sogar, es gesehen zu haben. Oben auf den Dächern teilt sich der Papagei den Wind mit einem Fisch als Wetterfahne. Die Mittelkuppel aus Eisen, Glas und Keramik ragt 30 Meter hoch, über einer Halle für 959 Marktstände.",
+        "en" : "So the tale goes, a roar came up from the basement at closing time, once the noise died down. It is said nobody dared look, so people decided a crocodile lived there, and some even claimed to have seen it. Up on the roofs, the parrot shares the sky with a fish weathervane. The central dome is iron, glass and ceramic, and rises 30 metres over a hall designed for 959 stalls."
       },
       "localizedStory" : {
-        "de" : "Schau hoch zur Kuppel. Die Papageien-Wetterfahne heißt Cotorra del Mercat. Der Sage nach plauderte sie mit einem Spatz über alles, was in der Stadt geschah.",
-        "en" : "Look up. The parrot weathervane is the Cotorra del Mercat, and legend says she chatted with a sparrow about everything in the city."
+        "de" : "Schau hoch zur Papageien-Wetterfahne, der Cotorra del Mercat. Der Sage nach tratschte sie mit dem Wetterfahnen-Spatz der Nachbarkirche über die ganze Stadt.",
+        "en" : "Look up at the parrot vane, the Cotorra del Mercat. Legend says she gossiped about the city with the sparrow vane on the neighbouring church."
       },
       "name" : "Mercat Central",
       "pos" : [
         39.473296,
         -0.378724
       ],
-      "story" : "Look up. The parrot weathervane is the Cotorra del Mercat, and legend says she chatted with a sparrow about everything in the city."
+      "story" : "Look up at the parrot vane, the Cotorra del Mercat. Legend says she gossiped about the city with the sparrow vane on the neighbouring church."
     },
     {
-      "extendedStory" : "Every last Sunday of February, the Fallera Mayor of València calls everyone to the Fallas festival from these towers. That ceremony is the Crida. The towers take their name from the serranos, travellers who came in here on the main road from Aragon. During the Spanish Civil War, lorries brought treasures from Madrid's Prado Museum here to keep them safe. Among them were paintings by Goya, Velázquez and Titian.",
+      "extendedStory" : "Kings and ambassadors came in here too, and so did merchants. Walk round the back and the towers stand open, with Gothic rooms under pointed arches and ribbed vaults. Every last Sunday of February, everyone is called to the Fallas festival from these towers. That call is the Crida. During the Spanish Civil War, lorries brought treasures from Madrid's Prado Museum here to keep them safe. Among them were paintings by Goya, Velázquez and Titian.",
       "icon" : "choice",
       "id" : "f-torres-dels-serrans",
       "kind" : "gate_tower",
       "localizedExtendedStory" : {
-        "de" : "An jedem letzten Sonntag im Februar ruft die Fallera Mayor von València von diesen Türmen alle zum Fallas-Fest. Diese Zeremonie heißt Crida. Ihren Namen haben die Türme von den Serranos, Reisenden, die auf der Hauptstraße aus Aragón hier hereinkamen. Im Spanischen Bürgerkrieg brachten Lastwagen Schätze aus dem Prado in Madrid hierher, um sie in Sicherheit zu bringen. Darunter waren Gemälde von Goya, Velázquez und Tizian.",
-        "en" : "Every last Sunday of February, the Fallera Mayor of València calls everyone to the Fallas festival from these towers. That ceremony is the Crida. The towers take their name from the serranos, travellers who came in here on the main road from Aragon. During the Spanish Civil War, lorries brought treasures from Madrid's Prado Museum here to keep them safe. Among them were paintings by Goya, Velázquez and Titian."
+        "de" : "Auch Könige und Gesandte zogen hier ein, ebenso Kaufleute. Geh hinten herum: Dort stehen die Türme offen, mit gotischen Räumen unter Spitzbögen und Rippengewölben. An jedem letzten Sonntag im Februar wird von diesen Türmen aus die Stadt zum Fallas-Fest gerufen. Dieser Ruf heißt Crida. Im Spanischen Bürgerkrieg brachten Lastwagen Schätze aus dem Prado in Madrid hierher, um sie in Sicherheit zu bringen. Darunter waren Gemälde von Goya, Velázquez und Tizian.",
+        "en" : "Kings and ambassadors came in here too, and so did merchants. Walk round the back and the towers stand open, with Gothic rooms under pointed arches and ribbed vaults. Every last Sunday of February, everyone is called to the Fallas festival from these towers. That call is the Crida. During the Spanish Civil War, lorries brought treasures from Madrid's Prado Museum here to keep them safe. Among them were paintings by Goya, Velázquez and Titian."
       },
       "localizedStory" : {
-        "de" : "Von außen sehen sie aus wie zwei Türme, in die niemand hineinkommt. Geh nach hinten herum: Dort stehen sie offen, mit gotischen Räumen unter Spitzbögen.",
-        "en" : "From outside, these look like two towers nobody could get into. Walk round the back: they stand open, with Gothic rooms under pointed arches."
+        "de" : "Durch dieses Tor führte der Hauptweg aus Aragón in die Stadt. Die Reisenden auf diesem Weg, die Serranos, gaben den Türmen ihren Namen.",
+        "en" : "This was the main way into the city from Aragon. The travellers who came through this gate, the serranos, gave the towers their name."
       },
       "name" : "Torres dels Serrans",
       "pos" : [
         39.479273,
         -0.376003
       ],
-      "story" : "From outside, these look like two towers nobody could get into. Walk round the back: they stand open, with Gothic rooms under pointed arches."
+      "story" : "This was the main way into the city from Aragon. The travellers who came through this gate, the serranos, gave the towers their name."
     },
     {
-      "extendedStory" : "The Dukes of Gandia, part of the Borja family, lived here from 1485. Their family gave the world Calixtus III and Alexander VI, the two Spanish popes, both from Valencia. After the Borjas, other noble families owned the palace, and it was even a silk factory. Look for the Gothic parts: the entrance portal and the gallery of windows on the top floor. Inside, coffered ceilings survive, and the courtyard has Renaissance columns between round arches.",
+      "extendedStory" : "The Dukes of Gandia, part of the Borja family, lived here from 1485. The family's popes were Calixtus III and Alexander VI, both from Valencia. After the Borjas, other noble families owned the palace, and it was even a silk factory before the parliament moved in. Look for the Gothic parts: the entrance portal and the gallery of windows on the top floor. Inside, coffered ceilings survive, and the courtyard has Renaissance columns between round arches.",
       "icon" : "choice",
       "id" : "f-corts-valencianes",
       "kind" : "other",
       "localizedExtendedStory" : {
-        "de" : "Die Herzöge von Gandia, ein Zweig der Familie Borja, wohnten hier ab 1485. Aus ihrer Familie kamen Calixtus III. und Alexander VI., die beiden spanischen Päpste, beide aus Valencia. Nach den Borja gehörte der Palast anderen Adelsfamilien, und er war sogar eine Seidenfabrik. Achte auf die gotischen Teile: das Eingangsportal und die Fensterreihe im obersten Stock. Drinnen sind Kassettendecken erhalten, und im Innenhof stehen Renaissance-Säulen zwischen Rundbögen.",
-        "en" : "The Dukes of Gandia, part of the Borja family, lived here from 1485. Their family gave the world Calixtus III and Alexander VI, the two Spanish popes, both from Valencia. After the Borjas, other noble families owned the palace, and it was even a silk factory. Look for the Gothic parts: the entrance portal and the gallery of windows on the top floor. Inside, coffered ceilings survive, and the courtyard has Renaissance columns between round arches."
+        "de" : "Die Herzöge von Gandia, ein Zweig der Familie Borja, wohnten hier ab 1485. Die Päpste der Familie waren Calixtus III. und Alexander VI., beide aus Valencia. Nach den Borja gehörte der Palast anderen Adelsfamilien, und er war sogar eine Seidenfabrik, bevor das Parlament einzog. Achte auf die gotischen Teile: das Eingangsportal und die Fensterreihe im obersten Stock. Drinnen sind Kassettendecken erhalten, und im Innenhof stehen Renaissance-Säulen zwischen Rundbögen.",
+        "en" : "The Dukes of Gandia, part of the Borja family, lived here from 1485. The family's popes were Calixtus III and Alexander VI, both from Valencia. After the Borjas, other noble families owned the palace, and it was even a silk factory before the parliament moved in. Look for the Gothic parts: the entrance portal and the gallery of windows on the top floor. Inside, coffered ceilings survive, and the courtyard has Renaissance columns between round arches."
       },
       "localizedStory" : {
-        "de" : "Das Regionalparlament von Valencia macht seine Gesetze in einem gotischen Palast, der einst den Borja gehörte, einer Familie, die zwei Päpste hervorbrachte.",
-        "en" : "The Valencian region's parliament makes its laws inside a Gothic palace. It once belonged to the Borjas, a family that gave the world two popes."
+        "de" : "Das Regionalparlament von Valencia macht seine Gesetze in einem Palast, der einst den Borja gehörte, einer Familie, die zwei Päpste hervorbrachte.",
+        "en" : "The Valencian region's parliament makes its laws in this palace. It once belonged to the Borjas, a family that gave the world two popes."
       },
       "name" : "Corts Valencianes",
       "pos" : [
         39.477636,
         -0.374424
       ],
-      "story" : "The Valencian region's parliament makes its laws inside a Gothic palace. It once belonged to the Borjas, a family that gave the world two popes."
+      "story" : "The Valencian region's parliament makes its laws in this palace. It once belonged to the Borjas, a family that gave the world two popes."
     },
     {
       "extendedStory" : "The Ministry of Culture says the two waters are the rivers Júcar and Magro. Around 1740 the third Marquis had his plain family house redone by the engraver and painter Hipólito Rovira. The sculptor Ignacio Vergara carved Rovira's design for the doorway. The same pair made the family's gala coach, the Carriage of the Nymphs, and it still stands inside. Since 1954 the palace has held the National Ceramics Museum.",
@@ -5306,27 +5303,27 @@
       "story" : "Two carved alabaster men on the doorway pour water from jars. It is a nod to the family's title, Dos Aguas: two waters."
     },
     {
-      "extendedStory" : "Gianluigi Colalucci, who led the restoration of the Sistine Chapel in Rome, called this vault the Valencian Sistine Chapel. Its frescoes cover 2,000 square metres of vaults, ribs and columns. The parish has a story too. The story goes that a miracle saved a newborn baby's life, so the church gave Saint Peter of Verona an altar. He became its second patron, beside Saint Nicholas.",
+      "extendedStory" : "Gianluigi Colalucci, who led the restoration of the Sistine Chapel in Rome, called this vault the Valencian Sistine Chapel. Its frescoes cover 2,000 square metres of vaults, ribs and columns. The parish tells that after a miracle saved a newborn baby, it gave Saint Peter of Verona an altar. It is said he later became its second patron, beside Saint Nicholas.",
       "icon" : "everyday",
       "id" : "f-esglesia-de-sant-nicolau",
       "kind" : "church",
       "localizedExtendedStory" : {
-        "de" : "Gianluigi Colalucci, der die Restaurierung der Sixtinischen Kapelle in Rom leitete, nannte dieses Gewölbe die Sixtinische Kapelle Valencias. Die Fresken bedecken 2.000 Quadratmeter Gewölbe, Rippen und Säulen. Auch die Pfarrei hat eine Geschichte. Der Überlieferung nach rettete ein Wunder einem Neugeborenen das Leben. Deshalb weihte die Kirche dem heiligen Petrus von Verona einen Altar. Er wurde neben dem heiligen Nikolaus ihr zweiter Patron.",
-        "en" : "Gianluigi Colalucci, who led the restoration of the Sistine Chapel in Rome, called this vault the Valencian Sistine Chapel. Its frescoes cover 2,000 square metres of vaults, ribs and columns. The parish has a story too. The story goes that a miracle saved a newborn baby's life, so the church gave Saint Peter of Verona an altar. He became its second patron, beside Saint Nicholas."
+        "de" : "Gianluigi Colalucci, der die Restaurierung der Sixtinischen Kapelle in Rom leitete, nannte dieses Gewölbe die Sixtinische Kapelle Valencias. Die Fresken bedecken 2.000 Quadratmeter Gewölbe, Rippen und Säulen. Die Pfarrei erzählt, nach einem Wunder, das einem Neugeborenen das Leben rettete, habe sie dem heiligen Petrus von Verona einen Altar geweiht. Später, so heißt es, wurde er neben dem heiligen Nikolaus ihr zweiter Patron.",
+        "en" : "Gianluigi Colalucci, who led the restoration of the Sistine Chapel in Rome, called this vault the Valencian Sistine Chapel. Its frescoes cover 2,000 square metres of vaults, ribs and columns. The parish tells that after a miracle saved a newborn baby, it gave Saint Peter of Verona an altar. It is said he later became its second patron, beside Saint Nicholas."
       },
       "localizedStory" : {
-        "de" : "Such die Stirnwand: Dort sind beide Maler porträtiert. Antonio Palomino entwarf diese Fresken, gemalt hat sie aber sein Schüler Dionís Vidal.",
-        "en" : "Find the end wall: portraits of both painters are up there. Antonio Palomino designed these frescoes, but his pupil Dionís Vidal painted them."
+        "de" : "Such die Stirnwand: Dort sind beide Männer hinter diesen Fresken porträtiert. Antonio Palomino entwarf sie, sein Schüler Dionís Vidal malte sie.",
+        "en" : "Find the end wall: both men behind these frescoes are portrayed there. Antonio Palomino designed them, and his pupil Dionís Vidal painted them."
       },
       "name" : "Església de Sant Nicolau",
       "pos" : [
         39.476169,
         -0.379062
       ],
-      "story" : "Find the end wall: portraits of both painters are up there. Antonio Palomino designed these frescoes, but his pupil Dionís Vidal painted them."
+      "story" : "Find the end wall: both men behind these frescoes are portrayed there. Antonio Palomino designed them, and his pupil Dionís Vidal painted them."
     }
   ],
-  "generatedAt" : "2026-09-25T20:08:21Z",
+  "generatedAt" : "2026-10-04T17:24:18Z",
   "icon" : {
     "paths" : [
       "M 50.0 28.0 L 52.6 27.0 L 56.0 15.5 L 58.6 28.0 C 60.6 30.5 61.6 33.0 61.8 36.0 C 67.0 30.0 73.0 20.0 78.0 11.0 C 84.0 15.0 91.0 20.0 98.0 27.0 C 93.5 31.5 91.0 37.0 90.0 44.0 C 86.0 40.0 81.0 40.5 78.0 47.5 C 74.0 44.5 69.0 46.5 66.5 54.5 C 63.5 51.5 60.5 52.0 58.8 55.5 C 58.0 61.5 56.0 67.0 53.5 71.5 L 50.0 67.5 L 46.5 71.5 C 44.0 67.0 42.0 61.5 41.2 55.5 C 39.5 52.0 36.5 51.5 33.5 54.5 C 31.0 46.5 26.0 44.5 22.0 47.5 C 19.0 40.5 14.0 40.0 10.0 44.0 C 9.0 37.0 6.5 31.5 2.0 27.0 C 9.0 20.0 16.0 15.0 22.0 11.0 C 27.0 20.0 33.0 30.0 38.2 36.0 C 38.4 33.0 39.4 30.5 41.4 28.0 L 44.0 15.5 L 47.4 27.0 Z"
@@ -5339,7 +5336,7 @@
     "en" : "Valencia"
   },
   "name" : "Valencia",
-  "packVersion" : 10,
+  "packVersion" : 12,
   "schemaVersion" : 1,
   "source" : "OpenStreetMap via Overpass API",
   "stats" : {

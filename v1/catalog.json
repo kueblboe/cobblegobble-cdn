@@ -6659,7 +6659,7 @@
         "streetCount" : 23,
         "totalKm" : 6.28
       },
-      "status" : "awaiting-approval"
+      "status" : "published"
     },
     {
       "boundaryPreview" : [
@@ -9537,7 +9537,7 @@
       ],
       "cityId" : "valencia",
       "country" : "ES",
-      "hasPage" : false,
+      "hasPage" : true,
       "iapProductId" : "cobblegobble.city.valencia",
       "icon" : {
         "paths" : [
@@ -9550,7 +9550,7 @@
         "en" : "Valencia"
       },
       "name" : "Valencia",
-      "packVersion" : 10,
+      "packVersion" : 12,
       "stats" : {
         "estHours" : 6,
         "nodeCount" : 1159,
@@ -9560,7 +9560,7 @@
         "streetCount" : 192,
         "totalKm" : 16.84
       },
-      "status" : "pending-stories"
+      "status" : "published"
     },
     {
       "boundaryPreview" : [
