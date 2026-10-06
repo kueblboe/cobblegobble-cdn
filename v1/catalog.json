@@ -4083,7 +4083,7 @@
       ],
       "cityId" : "hamburg",
       "country" : "DE",
-      "hasPage" : false,
+      "hasPage" : true,
       "iapProductId" : "cobblegobble.city.hamburg",
       "icon" : {
         "paths" : [
@@ -4106,7 +4106,7 @@
         "streetCount" : 103,
         "totalKm" : 19.3
       },
-      "status" : "pending-stories"
+      "status" : "awaiting-approval"
     },
     {
       "boundaryPreview" : [
