@@ -72,60 +72,14 @@
   ],
   "changes" : {
     "addedStreets" : [
-      "Schweizertor"
+
     ],
     "adjustedStreets" : [
-      "Augustinerstraße",
-      "Augustinertrakt",
-      "Ballhausplatz",
-      "Biberstraße",
-      "Bruno-Kreisky-Gasse",
-      "Bräunerstraße",
-      "Dominikanerbastei",
-      "Dr.-Ignaz-Seipel-Platz",
-      "Franz-Josefs-Kai",
-      "Freyung",
-      "Herrengasse",
-      "Hofburg",
-      "Hohe Brücke",
-      "Hoher Markt",
-      "Josefsplatz",
-      "Laurenzerberg",
-      "Lichtensteg",
-      "Lugeck",
-      "Michaelertrakt",
-      "Morzinplatz",
-      "Passauer Platz",
-      "Postgasse",
-      "Reitschulgasse",
-      "Rotenturmstraße",
-      "Schellinggasse",
-      "Schmeckender-Wurm-Hof",
-      "Schottenstift",
-      "Stephansplatz",
-      "Wollzeile"
+
     ],
-    "fromVersion" : 27,
+    "fromVersion" : 32,
     "removedStreets" : [
-      "Alte Walfischgasse",
-      "Burgtor",
-      "Drachengasse",
-      "Franz-Josefs-Kai",
-      "Georg-Coch-Platz",
-      "Grashofgasse",
-      "Heiligenkreuzerhof",
-      "Heldenplatz",
-      "In der Burg",
-      "Josef-Meinrad-Platz",
-      "Michaelertor",
-      "Neubadgasse",
-      "Palais Hardegg",
-      "Palais Harrach",
-      "Schweizerhof",
-      "Steyrerhof",
-      "Theodor-Herzl-Platz",
-      "Wolfengasse",
-      "Zwettlhof"
+
     ]
   },
   "cityId" : "vienna",
@@ -24831,24 +24785,24 @@
       "story" : "Munich's magazine had a bulldog baring its teeth. People say the Vienna one, Bulli, grumbled and barked but bit nobody."
     },
     {
-      "extendedStory" : "A little house once stood beside it, and through that house you could walk down into the catacombs. The house was taken away, and nothing above ground says the rooms are still down there. Pietro Nobile drew the building for an emperor who wanted a piece of ancient Greece in his park. What it was built to hold was a marble Theseus wrestling a centaur. The marble has gone, and the building keeps the name.",
-      "icon" : "everyday",
-      "id" : "f-theseustempel",
-      "kind" : "museum",
+      "extendedStory" : "The smooth plaster upstairs got Loos into so much trouble with the authorities that building stopped for a while. It was finished after he grudgingly agreed to hang copper flower boxes. People say their shape recalls the archduke's hat, a nod to the palace across the square. The emperor, the story goes, never again used his palace gate onto this square. He is said to have had the windows facing it nailed shut, so he would not see the ugly house.",
+      "icon" : "choice",
+      "id" : "f-looshaus",
+      "kind" : "attraction",
       "localizedExtendedStory" : {
-        "de" : "Neben dem Tempel stand einmal ein Häuschen, durch das man in die Katakomben hinunterstieg. Das Häuschen ist abgetragen, und oben deutet nichts mehr auf die Räume darunter hin. Pietro Nobile entwarf den Bau für einen Kaiser, der ein Stück Griechenland in seinem Park wollte. Drinnen sollte ein Theseus aus Marmor stehen, der mit einem Kentauren ringt. Der Marmor ist fort, der Name blieb.",
-        "en" : "A little house once stood beside it, and through that house you could walk down into the catacombs. The house was taken away, and nothing above ground says the rooms are still down there. Pietro Nobile drew the building for an emperor who wanted a piece of ancient Greece in his park. What it was built to hold was a marble Theseus wrestling a centaur. The marble has gone, and the building keeps the name."
+        "de" : "Der glatte Putz oben brachte Loos so viel Ärger mit den Behörden, dass der Bau eine Zeit lang stillstand. Fertig wurde er erst, als Loos widerwillig kupferne Blumenkästen anbringen ließ. Man erzählt, ihre Form erinnere an den Erzherzogshut, als Gruß an die Hofburg gegenüber. Der Kaiser soll danach nie wieder die Ausfahrt der Hofburg an diesem Platz benutzt haben. Es heißt sogar, er habe die Fenster zum Platz vernageln lassen, damit er das scheußliche Haus nicht mehr sehen musste.",
+        "en" : "The smooth plaster upstairs got Loos into so much trouble with the authorities that building stopped for a while. It was finished after he grudgingly agreed to hang copper flower boxes. People say their shape recalls the archduke's hat, a nod to the palace across the square. The emperor, the story goes, never again used his palace gate onto this square. He is said to have had the windows facing it nailed shut, so he would not see the ugly house."
       },
       "localizedStory" : {
-        "de" : "Ein schlichter Kanaldeckel neben dem Tempel ist alles, was von den Räumen darunter geblieben ist.",
-        "en" : "A plain drain cover beside the temple is all that is left of the rooms dug out underneath."
+        "de" : "Schau zu den Fenstern hinauf. Man erzählt, Kaiser Franz Joseph habe es das Haus ohne Augenbrauen genannt, weil keines eine Umrahmung hat.",
+        "en" : "Look up at the windows. The story goes that Emperor Franz Joseph called this the house without eyebrows, because none has a frame."
       },
-      "name" : "Theseustempel",
+      "name" : "Looshaus",
       "pos" : [
-        48.208411,
-        16.361688
+        48.208463,
+        16.366688
       ],
-      "story" : "A plain drain cover beside the temple is all that is left of the rooms dug out underneath."
+      "story" : "Look up at the windows. The story goes that Emperor Franz Joseph called this the house without eyebrows, because none has a frame."
     },
     {
       "extendedStory" : "Look along the palace front and you will find where it stops running straight. Long before anyone joked about that, an emperor tried something far odder. He began a wooden passage on stilts, meant to carry him six hundred metres above the lanes to the cathedral. It was never finished, and his successor had the thing taken down. The Nose is still there.",
@@ -24952,7 +24906,7 @@
     },
     {
       "extendedStory" : "Vienna went ahead and held the celebration anyway, on the strength of a date nobody could check. The building you see is low and plain, and it wears its age quietly. Step inside and look at the middle window behind the altar. Its painted glass is the oldest in the city. Those colours have been catching the light there since the end of the thirteenth century.",
-      "icon" : "choice",
+      "icon" : "everyday",
       "id" : "f-ruprechtskirche",
       "kind" : "church",
       "localizedExtendedStory" : {
@@ -24971,27 +24925,27 @@
       "story" : "Nobody can prove when this little church began. The story goes it started so long ago that Vienna held its thousandth birthday."
     },
     {
-      "extendedStory" : "One hundred and seventeen lamps sit up there, in red, green and white. Green tells you what the weather will do, red what the temperature will do. Lamps climbing down mean it is turning worse. Flashing red is a warning of a storm, flashing white of snow or ice. You can read it from the street, long before you reach the door.",
+      "extendedStory" : "Up there sit 117 lamps, in red, green and white. The green ones tell you the weather and the red ones the temperature. When the lamps climb down, it is turning worse. Flashing red warns of a storm, and flashing white of snow or ice. The tower under it is an office block, drawn by Erich Boltenstern in the style of the years after the war.",
       "icon" : "everyday",
       "id" : "f-ringturm",
       "kind" : "other",
       "localizedExtendedStory" : {
-        "de" : "Hundertsiebzehn Scheinwerfer stehen dort oben, in Rot, Grün und Weiß. Grün sagt dir, was das Wetter macht, Rot, was die Temperatur macht. Klettern die Lichter nach unten, wird die Lage schlechter. Rotes Blinken warnt vor Sturm und Gewitter, weißes vor Schnee oder Glatteis. Das alles kannst du von der Gasse aus lesen, lange bevor du die Tür erreichst.",
-        "en" : "One hundred and seventeen lamps sit up there, in red, green and white. Green tells you what the weather will do, red what the temperature will do. Lamps climbing down mean it is turning worse. Flashing red is a warning of a storm, flashing white of snow or ice. You can read it from the street, long before you reach the door."
+        "de" : "Dort oben sitzen 117 Scheinwerfer, in Rot, Grün und Weiß. Die grünen zeigen das Wetter, die roten die Temperatur. Klettern die Lichter nach unten, wird es schlechter. Rotes Blinken warnt vor Sturm und Gewitter, weißes vor Schnee oder Glatteis. Der Turm darunter ist ein Bürohaus, geplant von Erich Boltenstern im Stil der Jahre nach dem Krieg.",
+        "en" : "Up there sit 117 lamps, in red, green and white. The green ones tell you the weather and the red ones the temperature. When the lamps climb down, it is turning worse. Flashing red warns of a storm, and flashing white of snow or ice. The tower under it is an office block, drawn by Erich Boltenstern in the style of the years after the war."
       },
       "localizedStory" : {
-        "de" : "Der Mast auf diesem Turm sagt dir das Wetter von morgen. Klettern die grünen Lichter hinauf, wird es besser.",
-        "en" : "The mast on top of this tower tells you tomorrow's weather. Green lamps climbing up mean it is turning better."
+        "de" : "Der Mast auf dem Dach dieses Turms sagt dir mit bunten Lichtern das Wetter von morgen. Klettern die grünen hinauf, wird es besser.",
+        "en" : "The mast on this tower's roof tells you tomorrow's weather in coloured lamps. Green ones climbing up mean it is turning better."
       },
       "name" : "Ringturm",
       "pos" : [
         48.217059,
         16.370295
       ],
-      "story" : "The mast on top of this tower tells you tomorrow's weather. Green lamps climbing up mean it is turning better."
+      "story" : "The mast on this tower's roof tells you tomorrow's weather in coloured lamps. Green ones climbing up mean it is turning better."
     }
   ],
-  "generatedAt" : "2026-10-07T12:58:08Z",
+  "generatedAt" : "2026-10-07T17:46:37Z",
   "icon" : {
     "paths" : [
       "m34 10 l32 0 l0 24 l24 0 l0 32 l-24 0 l0 24 l-32 0 l0 -24 l-24 0 l0 -32 l24 0 z"
@@ -25004,7 +24958,7 @@
     "en" : "Vienna"
   },
   "name" : "Vienna",
-  "packVersion" : 28,
+  "packVersion" : 33,
   "schemaVersion" : 1,
   "source" : "OpenStreetMap via Overpass API",
   "stats" : {

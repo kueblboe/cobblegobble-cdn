@@ -4106,7 +4106,7 @@
         "streetCount" : 103,
         "totalKm" : 19.3
       },
-      "status" : "awaiting-approval"
+      "status" : "published"
     },
     {
       "boundaryPreview" : [
@@ -5981,6 +5981,145 @@
         "Isartor",
         "Alter Hof"
       ],
+      "familyWalk" : {
+        "places" : [
+          {
+            "kind" : "toilets",
+            "pos" : [
+              48.1371273,
+              11.5719515
+            ]
+          },
+          {
+            "kind" : "ice_cream",
+            "name" : "Karamela",
+            "pos" : [
+              48.1358997,
+              11.5777028
+            ]
+          },
+          {
+            "kind" : "toilets",
+            "pos" : [
+              48.1375573,
+              11.575759
+            ]
+          },
+          {
+            "kind" : "ice_cream",
+            "name" : "Venchi",
+            "pos" : [
+              48.1367741,
+              11.5763905
+            ]
+          },
+          {
+            "kind" : "drinking_water",
+            "pos" : [
+              48.1362861,
+              11.5736694
+            ]
+          },
+          {
+            "kind" : "ice_cream",
+            "name" : "Gelateria Garda",
+            "pos" : [
+              48.1371948,
+              11.5793022
+            ]
+          },
+          {
+            "kind" : "ice_cream",
+            "name" : "Caffe Gelato",
+            "pos" : [
+              48.1359402,
+              11.5742864
+            ]
+          },
+          {
+            "kind" : "toilets",
+            "pos" : [
+              48.1354648,
+              11.5764742
+            ]
+          },
+          {
+            "kind" : "ice_cream",
+            "name" : "Candoli",
+            "pos" : [
+              48.1366783,
+              11.5775136
+            ]
+          },
+          {
+            "kind" : "ice_cream",
+            "name" : "Die Eismeisterei",
+            "pos" : [
+              48.1358596,
+              11.5777207
+            ]
+          },
+          {
+            "kind" : "ice_cream",
+            "name" : "Gelato e Caffe",
+            "pos" : [
+              48.1339604,
+              11.5823847
+            ]
+          },
+          {
+            "kind" : "ice_cream",
+            "name" : "Conditorei und Café Kreutzkamm",
+            "pos" : [
+              48.1395715,
+              11.5753066
+            ]
+          },
+          {
+            "kind" : "ice_cream",
+            "name" : "Der verrückte Eismacher",
+            "pos" : [
+              48.1347898,
+              11.5769225
+            ]
+          },
+          {
+            "changingTable" : true,
+            "kind" : "toilets",
+            "pos" : [
+              48.1369025,
+              11.5762332
+            ]
+          },
+          {
+            "kind" : "toilets",
+            "pos" : [
+              48.1346025,
+              11.577065
+            ]
+          },
+          {
+            "changingTable" : true,
+            "kind" : "toilets",
+            "pos" : [
+              48.1349113,
+              11.5820498
+            ]
+          },
+          {
+            "kind" : "playground",
+            "name" : "Spielplatz Hochbrückenstraße",
+            "pos" : [
+              48.1366947,
+              11.581102
+            ]
+          }
+        ],
+        "start" : [
+          48.138558,
+          11.572769
+        ]
+      },
       "hasPage" : true,
       "iapProductId" : "cobblegobble.city.munich",
       "icon" : {
@@ -6257,6 +6396,198 @@
         "Schöner Brunnen",
         "Frauenkirche"
       ],
+      "familyWalk" : {
+        "places" : [
+          {
+            "kind" : "ice_cream",
+            "name" : "buonissimo",
+            "pos" : [
+              49.4511175,
+              11.0720141
+            ]
+          },
+          {
+            "kind" : "drinking_water",
+            "pos" : [
+              49.4511311,
+              11.0737642
+            ]
+          },
+          {
+            "kind" : "toilets",
+            "pos" : [
+              49.4517715,
+              11.0739742
+            ]
+          },
+          {
+            "kind" : "ice_cream",
+            "name" : "Piero Gelato",
+            "pos" : [
+              49.4502438,
+              11.0732356
+            ]
+          },
+          {
+            "kind" : "ice_cream",
+            "name" : "Die kleine Eismanufaktur",
+            "pos" : [
+              49.455114,
+              11.0722174
+            ]
+          },
+          {
+            "changingTable" : true,
+            "kind" : "toilets",
+            "pos" : [
+              49.4502984,
+              11.070594
+            ]
+          },
+          {
+            "changingTable" : true,
+            "kind" : "toilets",
+            "pos" : [
+              49.4503913,
+              11.073221
+            ]
+          },
+          {
+            "kind" : "toilets",
+            "pos" : [
+              49.4521249,
+              11.070409
+            ]
+          },
+          {
+            "kind" : "ice_cream",
+            "name" : "Ice cream bar",
+            "pos" : [
+              49.4537729,
+              11.0754293
+            ]
+          },
+          {
+            "kind" : "drinking_water",
+            "pos" : [
+              49.450692,
+              11.0712325
+            ]
+          },
+          {
+            "kind" : "drinking_water",
+            "pos" : [
+              49.45028,
+              11.0721012
+            ]
+          },
+          {
+            "kind" : "toilets",
+            "pos" : [
+              49.4545766,
+              11.0771127
+            ]
+          },
+          {
+            "kind" : "ice_cream",
+            "name" : "Le Misch",
+            "pos" : [
+              49.4530528,
+              11.0774835
+            ]
+          },
+          {
+            "kind" : "ice_cream",
+            "name" : "Vini e Panini da Giorgio",
+            "pos" : [
+              49.4524373,
+              11.077619
+            ]
+          },
+          {
+            "kind" : "ice_cream",
+            "name" : "Piazza Gelato",
+            "pos" : [
+              49.4533425,
+              11.0781307
+            ]
+          },
+          {
+            "changingTable" : true,
+            "kind" : "toilets",
+            "pos" : [
+              49.4510627,
+              11.076781
+            ]
+          },
+          {
+            "kind" : "ice_cream",
+            "name" : "buonissimo",
+            "pos" : [
+              49.4536693,
+              11.0779204
+            ]
+          },
+          {
+            "kind" : "ice_cream",
+            "name" : "Eiscafé Sirena",
+            "pos" : [
+              49.4520513,
+              11.0775162
+            ]
+          },
+          {
+            "kind" : "ice_cream",
+            "name" : "Bassanese el Geato Bon",
+            "pos" : [
+              49.453459,
+              11.0778445
+            ]
+          },
+          {
+            "kind" : "drinking_water",
+            "name" : "Yoshimi-Hashimoto-Brunnen",
+            "pos" : [
+              49.4535599,
+              11.0769077
+            ]
+          },
+          {
+            "kind" : "ice_cream",
+            "name" : "Gelatissimo Soldan",
+            "pos" : [
+              49.4526531,
+              11.0776806
+            ]
+          },
+          {
+            "kind" : "toilets",
+            "pos" : [
+              49.4514564,
+              11.0774534
+            ]
+          },
+          {
+            "kind" : "toilets",
+            "pos" : [
+              49.4552015,
+              11.0772401
+            ]
+          },
+          {
+            "changingTable" : true,
+            "kind" : "toilets",
+            "pos" : [
+              49.451332,
+              11.0769492
+            ]
+          }
+        ],
+        "start" : [
+          49.450365,
+          11.07078
+        ]
+      },
       "hasPage" : true,
       "iapProductId" : "cobblegobble.city.nuremberg",
       "icon" : {
@@ -6634,6 +6965,101 @@
         "Dreiflüsseeck",
         "Prinzregent-Luitpold-Brücke"
       ],
+      "familyWalk" : {
+        "places" : [
+          {
+            "kind" : "toilets",
+            "pos" : [
+              48.574025,
+              13.4647465
+            ]
+          },
+          {
+            "kind" : "playground",
+            "pos" : [
+              48.5751602,
+              13.4658748
+            ]
+          },
+          {
+            "kind" : "drinking_water",
+            "pos" : [
+              48.5743571,
+              13.4641441
+            ]
+          },
+          {
+            "kind" : "toilets",
+            "name" : "öffentliche Toilette",
+            "pos" : [
+              48.5754103,
+              13.4680039
+            ]
+          },
+          {
+            "kind" : "ice_cream",
+            "name" : "Eis Ladn",
+            "pos" : [
+              48.5742256,
+              13.4678851
+            ]
+          },
+          {
+            "kind" : "toilets",
+            "pos" : [
+              48.574737,
+              13.4709574
+            ]
+          },
+          {
+            "kind" : "drinking_water",
+            "pos" : [
+              48.575002,
+              13.4709103
+            ]
+          },
+          {
+            "changingTable" : true,
+            "kind" : "toilets",
+            "pos" : [
+              48.5734503,
+              13.4747395
+            ]
+          },
+          {
+            "kind" : "playground",
+            "pos" : [
+              48.5735574,
+              13.4659773
+            ]
+          },
+          {
+            "kind" : "playground",
+            "pos" : [
+              48.5732158,
+              13.4642477
+            ]
+          },
+          {
+            "kind" : "toilets",
+            "pos" : [
+              48.5733226,
+              13.4637216
+            ]
+          },
+          {
+            "kind" : "playground",
+            "pos" : [
+              48.5737209,
+              13.4754348
+            ]
+          }
+        ],
+        "start" : [
+          48.574184,
+          13.464689
+        ]
+      },
       "hasPage" : true,
       "iapProductId" : "cobblegobble.city.passau",
       "icon" : {
@@ -7505,6 +7931,98 @@
         "Jesuitenplatz",
         "Altes Rathaus"
       ],
+      "familyWalk" : {
+        "places" : [
+          {
+            "kind" : "drinking_water",
+            "pos" : [
+              49.0172316,
+              12.0976714
+            ]
+          },
+          {
+            "kind" : "playground",
+            "pos" : [
+              49.0173491,
+              12.0975023
+            ]
+          },
+          {
+            "kind" : "toilets",
+            "pos" : [
+              49.0179282,
+              12.0969554
+            ]
+          },
+          {
+            "kind" : "ice_cream",
+            "name" : "Eis am Dom",
+            "pos" : [
+              49.0199752,
+              12.0970428
+            ]
+          },
+          {
+            "changingTable" : true,
+            "kind" : "toilets",
+            "pos" : [
+              49.0195147,
+              12.0942842
+            ]
+          },
+          {
+            "kind" : "toilets",
+            "pos" : [
+              49.0179588,
+              12.0968778
+            ]
+          },
+          {
+            "kind" : "ice_cream",
+            "name" : "Crema Gelato",
+            "pos" : [
+              49.0201666,
+              12.0956735
+            ]
+          },
+          {
+            "kind" : "ice_cream",
+            "name" : "Stella Eis Café Crêpes",
+            "pos" : [
+              49.0212103,
+              12.0968483
+            ]
+          },
+          {
+            "kind" : "ice_cream",
+            "name" : "Gelato cremoso",
+            "pos" : [
+              49.0192251,
+              12.09716
+            ]
+          },
+          {
+            "kind" : "ice_cream",
+            "name" : "Center Italia",
+            "pos" : [
+              49.0181416,
+              12.0968407
+            ]
+          },
+          {
+            "kind" : "playground",
+            "name" : "Weingasse Spielplatz",
+            "pos" : [
+              49.0209262,
+              12.0931296
+            ]
+          }
+        ],
+        "start" : [
+          49.02258,
+          12.097233
+        ]
+      },
       "hasPage" : true,
       "iapProductId" : "cobblegobble.city.regensburg",
       "icon" : {
@@ -8126,6 +8644,263 @@
         "Salzburger Dom",
         "Mozarts Geburtshaus"
       ],
+      "familyWalk" : {
+        "places" : [
+          {
+            "kind" : "playground",
+            "name" : "Zauberflötenspielplatz",
+            "pos" : [
+              47.8047903,
+              13.0412278
+            ]
+          },
+          {
+            "kind" : "drinking_water",
+            "pos" : [
+              47.8049033,
+              13.0412717
+            ]
+          },
+          {
+            "changingTable" : true,
+            "kind" : "toilets",
+            "pos" : [
+              47.7975952,
+              13.0457151
+            ]
+          },
+          {
+            "kind" : "drinking_water",
+            "name" : "Festungsgasse-Brunnen",
+            "pos" : [
+              47.7965247,
+              13.0462276
+            ]
+          },
+          {
+            "kind" : "drinking_water",
+            "pos" : [
+              47.7963388,
+              13.045989
+            ]
+          },
+          {
+            "kind" : "ice_cream",
+            "name" : "Hoefinger Eis",
+            "pos" : [
+              47.7974262,
+              13.0458639
+            ]
+          },
+          {
+            "kind" : "toilets",
+            "pos" : [
+              47.7964002,
+              13.0462615
+            ]
+          },
+          {
+            "kind" : "drinking_water",
+            "name" : "Entenbrunnen",
+            "pos" : [
+              47.7964088,
+              13.0533558
+            ]
+          },
+          {
+            "kind" : "ice_cream",
+            "name" : "Icezeit",
+            "pos" : [
+              47.7978238,
+              13.0491044
+            ]
+          },
+          {
+            "kind" : "drinking_water",
+            "name" : "Brunnen Kaigasse",
+            "pos" : [
+              47.7983048,
+              13.0483383
+            ]
+          },
+          {
+            "kind" : "toilets",
+            "pos" : [
+              47.797396,
+              13.0520967
+            ]
+          },
+          {
+            "kind" : "drinking_water",
+            "pos" : [
+              47.796652,
+              13.0519556
+            ]
+          },
+          {
+            "kind" : "ice_cream",
+            "name" : "Gelateria La Romana",
+            "pos" : [
+              47.8021389,
+              13.0453096
+            ]
+          },
+          {
+            "kind" : "ice_cream",
+            "name" : "San Marco",
+            "pos" : [
+              47.8032841,
+              13.0442477
+            ]
+          },
+          {
+            "changingTable" : true,
+            "kind" : "toilets",
+            "pos" : [
+              47.8045069,
+              13.0432373
+            ]
+          },
+          {
+            "changingTable" : true,
+            "kind" : "toilets",
+            "name" : "Öffentliches WC",
+            "pos" : [
+              47.8010552,
+              13.0424194
+            ]
+          },
+          {
+            "changingTable" : true,
+            "kind" : "toilets",
+            "name" : "öffentliches WC",
+            "pos" : [
+              47.7990454,
+              13.043388
+            ]
+          },
+          {
+            "kind" : "ice_cream",
+            "name" : "Café Getreidegasse",
+            "pos" : [
+              47.7999317,
+              13.0418015
+            ]
+          },
+          {
+            "kind" : "ice_cream",
+            "name" : "Icezeit",
+            "pos" : [
+              47.8006225,
+              13.0430397
+            ]
+          },
+          {
+            "kind" : "drinking_water",
+            "name" : "Marktbrunnen Universitätsplatz",
+            "pos" : [
+              47.7995343,
+              13.0428364
+            ]
+          },
+          {
+            "kind" : "drinking_water",
+            "name" : "Löwenkopf-Brunnen",
+            "pos" : [
+              47.8009547,
+              13.0425051
+            ]
+          },
+          {
+            "kind" : "ice_cream",
+            "name" : "Timeless",
+            "pos" : [
+              47.8026947,
+              13.0456479
+            ]
+          },
+          {
+            "kind" : "ice_cream",
+            "name" : "Fabis Frozen Bioyogurt",
+            "pos" : [
+              47.7996327,
+              13.0435121
+            ]
+          },
+          {
+            "kind" : "ice_cream",
+            "name" : "Eiswerk",
+            "pos" : [
+              47.7996645,
+              13.043222
+            ]
+          },
+          {
+            "kind" : "drinking_water",
+            "pos" : [
+              47.8001823,
+              13.0436057
+            ]
+          },
+          {
+            "kind" : "drinking_water",
+            "pos" : [
+              47.8007834,
+              13.0423222
+            ]
+          },
+          {
+            "kind" : "drinking_water",
+            "pos" : [
+              47.8025188,
+              13.0457481
+            ]
+          },
+          {
+            "kind" : "ice_cream",
+            "name" : "Eisl Eis",
+            "pos" : [
+              47.8002465,
+              13.0425288
+            ]
+          },
+          {
+            "kind" : "drinking_water",
+            "name" : "Brunnen Waagplatz",
+            "pos" : [
+              47.7992217,
+              13.0467727
+            ]
+          },
+          {
+            "kind" : "drinking_water",
+            "pos" : [
+              47.8044522,
+              13.0427637
+            ]
+          },
+          {
+            "kind" : "drinking_water",
+            "name" : "Marktfrau-Brunnen",
+            "pos" : [
+              47.8062182,
+              13.0434344
+            ]
+          },
+          {
+            "changingTable" : true,
+            "kind" : "toilets",
+            "pos" : [
+              47.8055682,
+              13.040786
+            ]
+          }
+        ],
+        "start" : [
+          47.805636,
+          13.042377
+        ]
+      },
       "hasPage" : true,
       "iapProductId" : "cobblegobble.city.salzburg",
       "icon" : {
@@ -10422,7 +11197,7 @@
         "en" : "Vienna"
       },
       "name" : "Vienna",
-      "packVersion" : 28,
+      "packVersion" : 33,
       "stats" : {
         "estHours" : 13.9,
         "nodeCount" : 2508,
