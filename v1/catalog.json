@@ -8471,7 +8471,7 @@
       ],
       "cityId" : "rothenburg",
       "country" : "DE",
-      "hasPage" : false,
+      "hasPage" : true,
       "iapProductId" : "cobblegobble.city.rothenburg",
       "icon" : {
         "paths" : [
@@ -8494,7 +8494,7 @@
         "streetCount" : 74,
         "totalKm" : 12.52
       },
-      "status" : "pending-stories"
+      "status" : "awaiting-approval"
     },
     {
       "boundaryPreview" : [
@@ -11184,6 +11184,247 @@
       ],
       "cityId" : "vienna",
       "country" : "AT",
+      "familyStops" : [
+        "Stephansdom",
+        "Spanische Hofreitschule",
+        "Hofburg",
+        "Freyung"
+      ],
+      "familyWalk" : {
+        "places" : [
+          {
+            "kind" : "ice_cream",
+            "name" : "Danilo Fusco",
+            "pos" : [
+              48.2098769,
+              16.3680559
+            ]
+          },
+          {
+            "kind" : "drinking_water",
+            "pos" : [
+              48.2081334,
+              16.3707496
+            ]
+          },
+          {
+            "kind" : "drinking_water",
+            "pos" : [
+              48.2105664,
+              16.3678287
+            ]
+          },
+          {
+            "kind" : "toilets",
+            "name" : "Öffentliche Bedürfnisanstalt am Graben",
+            "pos" : [
+              48.2090655,
+              16.3691848
+            ]
+          },
+          {
+            "kind" : "toilets",
+            "name" : "Öffentliche Bedürfnisanstalt am Graben",
+            "pos" : [
+              48.2091507,
+              16.3690618
+            ]
+          },
+          {
+            "kind" : "toilets",
+            "pos" : [
+              48.2103417,
+              16.3675828
+            ]
+          },
+          {
+            "kind" : "ice_cream",
+            "name" : "La Gelateria Italiana",
+            "pos" : [
+              48.2086843,
+              16.3704731
+            ]
+          },
+          {
+            "changingTable" : true,
+            "kind" : "toilets",
+            "pos" : [
+              48.2079785,
+              16.3651154
+            ]
+          },
+          {
+            "kind" : "toilets",
+            "pos" : [
+              48.2103857,
+              16.3676421
+            ]
+          },
+          {
+            "kind" : "drinking_water",
+            "pos" : [
+              48.2092278,
+              16.3695515
+            ]
+          },
+          {
+            "kind" : "drinking_water",
+            "pos" : [
+              48.2094387,
+              16.3705127
+            ]
+          },
+          {
+            "kind" : "ice_cream",
+            "name" : "Veganista",
+            "pos" : [
+              48.2103157,
+              16.3708447
+            ]
+          },
+          {
+            "kind" : "ice_cream",
+            "name" : "Tuchlauben",
+            "pos" : [
+              48.2084503,
+              16.3704903
+            ]
+          },
+          {
+            "kind" : "ice_cream",
+            "name" : "Vanillas",
+            "pos" : [
+              48.2115316,
+              16.3650504
+            ]
+          },
+          {
+            "kind" : "ice_cream",
+            "name" : "Zanoni & Zanoni",
+            "pos" : [
+              48.2085007,
+              16.3662835
+            ]
+          },
+          {
+            "kind" : "drinking_water",
+            "pos" : [
+              48.2081106,
+              16.3664713
+            ]
+          },
+          {
+            "kind" : "toilets",
+            "name" : "Toilette",
+            "pos" : [
+              48.2071076,
+              16.3674392
+            ]
+          },
+          {
+            "kind" : "toilets",
+            "name" : "Toilette",
+            "pos" : [
+              48.2070922,
+              16.3674178
+            ]
+          },
+          {
+            "kind" : "ice_cream",
+            "name" : "Mo's Delicous",
+            "pos" : [
+              48.2102135,
+              16.3679406
+            ]
+          },
+          {
+            "kind" : "drinking_water",
+            "pos" : [
+              48.2082163,
+              16.365734
+            ]
+          },
+          {
+            "kind" : "drinking_water",
+            "pos" : [
+              48.2081585,
+              16.3670458
+            ]
+          },
+          {
+            "kind" : "ice_cream",
+            "name" : "Gelato Carlo",
+            "pos" : [
+              48.2060783,
+              16.3692123
+            ]
+          },
+          {
+            "kind" : "ice_cream",
+            "name" : "Eissalon Tuchlauben",
+            "pos" : [
+              48.2106007,
+              16.3709044
+            ]
+          },
+          {
+            "kind" : "ice_cream",
+            "name" : "Tuchlauben Ice Cream Frozen Joghurt",
+            "pos" : [
+              48.2086931,
+              16.3720442
+            ]
+          },
+          {
+            "kind" : "drinking_water",
+            "pos" : [
+              48.207114,
+              16.3718811
+            ]
+          },
+          {
+            "kind" : "drinking_water",
+            "pos" : [
+              48.2081242,
+              16.3727128
+            ]
+          },
+          {
+            "kind" : "drinking_water",
+            "pos" : [
+              48.208933,
+              16.3732187
+            ]
+          },
+          {
+            "kind" : "drinking_water",
+            "pos" : [
+              48.2097055,
+              16.3736069
+            ]
+          },
+          {
+            "changingTable" : true,
+            "kind" : "toilets",
+            "pos" : [
+              48.2091854,
+              16.3645968
+            ]
+          },
+          {
+            "changingTable" : true,
+            "kind" : "toilets",
+            "pos" : [
+              48.2084832,
+              16.3721599
+            ]
+          }
+        ],
+        "start" : [
+          48.20881,
+          16.372451
+        ]
+      },
       "hasPage" : true,
       "iapProductId" : "cobblegobble.city.vienna",
       "icon" : {
