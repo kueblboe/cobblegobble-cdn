@@ -139,11 +139,9 @@
 
     ],
     "adjustedStreets" : [
-      "Alte Promenade",
-      "Gansbergsteg",
-      "Mönchsrother Straße"
+
     ],
-    "fromVersion" : 7,
+    "fromVersion" : 10,
     "removedStreets" : [
 
     ]
@@ -2533,94 +2531,180 @@
   ],
   "fruits" : [
     {
+      "extendedStory" : "The story goes that this pious farmer built a small chapel. He gave it, with his farm, to Carmelite monks passing through, so the tale goes. In the legend, the monks built their monastery here, and Dinkelsbühl slowly grew up around it. That is why, they say, the monks honoured the farmer as the founder of both. The church is named after Paul the Apostle.",
       "icon" : "choice",
       "id" : "f-st-paul",
       "kind" : "church",
+      "localizedExtendedStory" : {
+        "de" : "Man erzählt, der fromme Bauer habe eine kleine Kapelle gebaut. Der Sage nach schenkte er sie mit seinem Hof an Karmelitermönche, die durchs Land zogen. Die Mönche bauten hier, so die Geschichte, ihr Kloster, und nach und nach wuchs Dinkelsbühl darum herum. Deshalb, so heißt es, feierten sie den Dinkelbauern als Gründer von Kloster und Stadt. Die Kirche trägt den Namen des Apostels Paulus.",
+        "en" : "The story goes that this pious farmer built a small chapel. He gave it, with his farm, to Carmelite monks passing through, so the tale goes. In the legend, the monks built their monastery here, and Dinkelsbühl slowly grew up around it. That is why, they say, the monks honoured the farmer as the founder of both. The church is named after Paul the Apostle."
+      },
+      "localizedStory" : {
+        "de" : "Der Legende nach stand genau hier der Hof des Dinkelbauern, des sagenhaften Stadtgründers. Dinkel ist ein altes Getreide, verwandt mit dem Weizen.",
+        "en" : "Legend says the spelt farmer who founded Dinkelsbühl had his farm right here. Dinkel is the German word for spelt, an old kind of wheat."
+      },
       "name" : "St. Paul",
       "pos" : [
         49.068713,
         10.320448
-      ]
+      ],
+      "story" : "Legend says the spelt farmer who founded Dinkelsbühl had his farm right here. Dinkel is the German word for spelt, an old kind of wheat."
     },
     {
+      "extendedStory" : "A town guide tells the story behind them. The craftsmen and the rich patricians often disagreed about how the town should grow, the tale goes. So a clever guild master had the pretzels carved, it is said, with the coopers' hammer and compass beside them. They say the patricians in the Old Town Hall were to see daily that the guilds had paid for it too. The west tower is more than two hundred years older than the hall church around it.",
       "icon" : "hero",
       "id" : "f-munster-st-georg",
       "kind" : "church",
+      "localizedExtendedStory" : {
+        "de" : "Ein Gästeführer erzählt, wie es dazu kam. Handwerker und reiche Patrizier waren sich oft uneins, wie sich die Stadt entwickeln soll, so die Geschichte. Darum ließ ein schlauer Zunftmeister die Brezen einmeißeln, erzählt man, dazu Hammer und Zirkel der Böttcher. Die Patrizier im Alten Rathaus sollten, so heißt es, jeden Tag sehen, dass auch die Zünfte die Kirche mitbezahlt hatten. Der Westturm ist übrigens mehr als zweihundert Jahre älter als die Hallenkirche um ihn herum.",
+        "en" : "A town guide tells the story behind them. The craftsmen and the rich patricians often disagreed about how the town should grow, the tale goes. So a clever guild master had the pretzels carved, it is said, with the coopers' hammer and compass beside them. They say the patricians in the Old Town Hall were to see daily that the guilds had paid for it too. The west tower is more than two hundred years older than the hall church around it."
+      },
+      "localizedStory" : {
+        "de" : "Such das Brezenfenster an der Südseite des Chors. Die Bäckerzunft hat es gestiftet, und an den steinernen Brezen sieht man sogar Daumenabdrücke im Teig.",
+        "en" : "Look for the pretzel window on the choir's south side. The bakers' guild gave it, and the stone pretzels even show thumbprints in the dough."
+      },
       "name" : "Münster St. Georg",
       "pos" : [
         49.069443,
         10.319884
-      ]
+      ],
+      "story" : "Look for the pretzel window on the choir's south side. The bakers' guild gave it, and the stone pretzels even show thumbprints in the dough."
     },
     {
+      "extendedStory" : "At Christmas the water-rescue group swims down the Wörnitz with burning torches, from the river baths to this mill. It is known as the Christmas torch swim. With its moat and arrow slits, the mill once guarded the town's south-east corner. The museum keeps a rare complete set of every View-Master viewer made since 1939. Its founder, the photo designer Gerhard Otto Stief, had loved 3D since he was young.",
       "icon" : "choice",
       "id" : "f-museum-3-dimension",
       "kind" : "museum",
+      "localizedExtendedStory" : {
+        "de" : "An Weihnachten schwimmt die Wasserwacht mit brennenden Fackeln die Wörnitz hinunter, vom Strandbad bis zu dieser Mühle. Weihnachts-Fackelschwimmen heißt es. Mit Wassergraben und Schießscharten sicherte die Mühle einst die Stadt im Südosten. Das Museum zeigt eine seltene, vollständige Sammlung aller View-Master-Betrachter seit 1939. Gegründet hat es der Fotodesigner Gerhard Otto Stief, der sich seit seiner Jugend für 3D begeisterte.",
+        "en" : "At Christmas the water-rescue group swims down the Wörnitz with burning torches, from the river baths to this mill. It is known as the Christmas torch swim. With its moat and arrow slits, the mill once guarded the town's south-east corner. The museum keeps a rare complete set of every View-Master viewer made since 1939. Its founder, the photo designer Gerhard Otto Stief, had loved 3D since he was young."
+      },
+      "localizedStory" : {
+        "de" : "Die alte Stadtmühle sieht aus wie eine Wasserburg. Drinnen zeigt ein Museum, wie Menschen seit dem Mittelalter versuchen, Bilder räumlich wirken zu lassen.",
+        "en" : "This old mill looks like a moated castle. Inside, a museum shows how people since the Middle Ages have tried to make things look 3D."
+      },
       "name" : "Museum 3. Dimension",
       "pos" : [
         49.065802,
         10.32456
-      ]
+      ],
+      "story" : "This old mill looks like a moated castle. Inside, a museum shows how people since the Middle Ages have tried to make things look 3D."
     },
     {
+      "extendedStory" : "Karl Alexander of Lorraine, the Order's Grand Master, is the man behind those arms. The sculptor Leonhard Meyer carved them. The Order's house once stood next to the hospital and moved here when the town grew. In the baroque age it was rebuilt to look like a palace. Since the Order was dissolved in 1806, it has housed state offices. Its hidden gem is a rococo chapel on the top floor of the north wing.",
       "icon" : "choice",
       "id" : "f-deutschordensschloss",
       "kind" : "fortress",
+      "localizedExtendedStory" : {
+        "de" : "Karl Alexander von Lothringen, der Hochmeister des Ordens, steckt hinter dem Wappen. Gefertigt hat es der Bildhauer Leonhard Meyer. Der Hof des Ordens stand zuerst neben dem Spital und zog hierher, als die Stadt wuchs. Im Barock wurde er neu gebaut und bekam das Aussehen eines Schlosses. Seit der Orden 1806 aufgelöst wurde, sitzen hier staatliche Behörden. Ein Kleinod versteckt sich ganz oben im Nordflügel. Dort liegt eine Rokokokapelle.",
+        "en" : "Karl Alexander of Lorraine, the Order's Grand Master, is the man behind those arms. The sculptor Leonhard Meyer carved them. The Order's house once stood next to the hospital and moved here when the town grew. In the baroque age it was rebuilt to look like a palace. Since the Order was dissolved in 1806, it has housed state offices. Its hidden gem is a rococo chapel on the top floor of the north wing."
+      },
+      "localizedStory" : {
+        "de" : "Schau hoch zum prächtigen Wappen am Giebel. Hier war der Hof des Deutschen Ordens, und heute arbeitet drinnen das Finanzamt.",
+        "en" : "Look up at the grand coat of arms on the gable. This was the Teutonic Order's house, and today the tax office works inside."
+      },
       "name" : "Deutschordensschloss",
       "pos" : [
         49.067111,
         10.318627
-      ]
+      ],
+      "story" : "Look up at the grand coat of arms on the gable. This was the Teutonic Order's house, and today the tax office works inside."
     },
     {
+      "extendedStory" : "Its nickname is the Schuldturm, the debtors' tower. In many towns, a Faulturm was where 'lazy payers' were locked up, people who could not or would not pay their debts. A town archivist counts Dinkelsbühl among the towns that had one. The fairy-tale room inside was set up in 2011 by a storyteller, with the town's help. Outside, look for the roofed staircase that climbs the round tower.",
       "icon" : "everyday",
       "id" : "f-faulturm",
       "kind" : "gate_tower",
+      "localizedExtendedStory" : {
+        "de" : "Man sagt auch Schuldturm zu ihm. Andernorts war ein Faulturm oft ein Schuldturm, in den säumige Zahler eingesperrt wurden. Das waren Leute, die ihre Schulden nicht zahlen konnten oder wollten. Ein Stadtarchivar zählt Dinkelsbühl zu den Städten, die so einen Turm hatten. Das Märchenstübchen wurde 2011 von einer Märchenerzählerin mit Hilfe der Stadt eingerichtet. Achte draußen auf die überdachte Treppe am runden Turm.",
+        "en" : "Its nickname is the Schuldturm, the debtors' tower. In many towns, a Faulturm was where 'lazy payers' were locked up, people who could not or would not pay their debts. A town archivist counts Dinkelsbühl among the towns that had one. The fairy-tale room inside was set up in 2011 by a storyteller, with the town's help. Outside, look for the roofed staircase that climbs the round tower."
+      },
+      "localizedStory" : {
+        "de" : "Dieser alte Wachturm ist auch der Märchenturm. Drinnen werden Märchen erzählt, für kleine und große Zuhörer ab fünf Jahren.",
+        "en" : "This old watchtower is also the Fairy-Tale Tower. Inside, fairy tales are told to listeners big and small, from the age of five."
+      },
       "name" : "Faulturm",
       "pos" : [
         49.072119,
         10.316494
-      ]
+      ],
+      "story" : "This old watchtower is also the Fairy-Tale Tower. Inside, fairy tales are told to listeners big and small, from the age of five."
     },
     {
+      "extendedStory" : "It began by chance. In spring 1888, painter friends from Munich came upon Dinkelsbühl on a bicycle tour through Franconia. The very next summer a whole group of landscape painters arrived and took rooms at the Weißes Ross. The inn started a guest book straight away, and their stay is in it. A painting of the inn still hangs in its parlour, titled At the Piglet Market.",
       "icon" : "everyday",
       "id" : "f-schweinemarkt",
       "kind" : "square",
+      "localizedExtendedStory" : {
+        "de" : "Angefangen hat es mit einem Zufall. Im Frühling 1888 stießen Malerfreunde aus München bei einer Radtour durch Franken auf Dinkelsbühl. Schon im nächsten Sommer kam eine ganze Gruppe von Landschaftsmalern und nahm Quartier im Weißen Ross. Das Gästebuch, gleich angelegt, hält ihren Besuch fest. In der Gaststube hängt noch ein Bild des Hauses mit dem Titel „Am Ferkelmarkt“.",
+        "en" : "It began by chance. In spring 1888, painter friends from Munich came upon Dinkelsbühl on a bicycle tour through Franconia. The very next summer a whole group of landscape painters arrived and took rooms at the Weißes Ross. The inn started a guest book straight away, and their stay is in it. A painting of the inn still hangs in its parlour, titled At the Piglet Market."
+      },
+      "localizedStory" : {
+        "de" : "Hier war der Schweinemarkt. Man erzählt, Maler wohnten im Gasthaus Weißes Ross und bezahlten Kost und Logis mit ihren Bildern.",
+        "en" : "This was the pig market. The story goes that painters stayed at the Weißes Ross inn here and paid for room and board with pictures."
+      },
       "name" : "Schweinemarkt",
       "pos" : [
         49.069581,
         10.316488
-      ]
+      ],
+      "story" : "This was the pig market. The story goes that painters stayed at the Weißes Ross inn here and paid for room and board with pictures."
     },
     {
+      "extendedStory" : "The story goes that in the twelve dark nights around midwinter, a ghostly rider called the Thomasreiter roams the Kapuzinerweg. That narrow lane runs along the town wall from this gate. They say he trots it on a three-legged old nag and likes it there best of all. The gate itself fell down some time after the siege. Then the Italian builder Antonio Don built it anew.",
       "icon" : "everyday",
       "id" : "f-segringer-tor",
       "kind" : "gate_tower",
+      "localizedExtendedStory" : {
+        "de" : "Der Sage nach treibt sich in den zwölf Raunächten um die Wintermitte ein Geisterreiter auf dem Kapuzinerweg herum, der Thomasreiter. Diese enge Gasse führt vom Tor an der Stadtmauer entlang. Man erzählt, er trabe dort auf einem dreibeinigen alten Gaul und sei am liebsten hier. Das Tor selbst stürzte erst einige Zeit nach der Belagerung ein. Dann baute es der italienische Baumeister Antonio Don neu.",
+        "en" : "The story goes that in the twelve dark nights around midwinter, a ghostly rider called the Thomasreiter roams the Kapuzinerweg. That narrow lane runs along the town wall from this gate. They say he trots it on a three-legged old nag and likes it there best of all. The gate itself fell down some time after the siege. Then the Italian builder Antonio Don built it anew."
+      },
+      "localizedStory" : {
+        "de" : "Schau hoch zur Zwiebelkuppel. Sie unterscheidet dieses Tor von den anderen. Nach Schäden bei einer Belagerung durch die Schweden wurde es im Barockstil neu gebaut.",
+        "en" : "Look up at the onion dome. It sets this gate apart from the town's others, rebuilt in baroque style after a Swedish siege damaged it."
+      },
       "name" : "Segringer Tor",
       "pos" : [
         49.068591,
         10.313917
-      ]
+      ],
+      "story" : "Look up at the onion dome. It sets this gate apart from the town's others, rebuilt in baroque style after a Swedish siege damaged it."
     },
     {
+      "extendedStory" : "For Bäuerlin the tower was a home and a guard room at the same time. A tanner turns animal hides into leather. Standing by the Wörnitz river, the tower is the landmark of Dinkelsbühl. Its slim stone body goes back to about 1400. The top third, with the jutting half-timbered storey and the steep roof, was added in the 16th century.",
       "icon" : "everyday",
       "id" : "f-bauerlinsturm",
       "kind" : "gate_tower",
+      "localizedExtendedStory" : {
+        "de" : "Für Bäuerlin war der Turm Wohnung und Wachstube zugleich. Ein Gerber macht aus Tierhäuten Leder. Am Ufer der Wörnitz ist der Turm das Wahrzeichen von Dinkelsbühl. Sein schlanker Steinbau reicht bis um 1400 zurück. Das obere Drittel mit dem vorkragenden Fachwerkgeschoss und dem steilen Dach kam erst im 16. Jahrhundert dazu.",
+        "en" : "For Bäuerlin the tower was a home and a guard room at the same time. A tanner turns animal hides into leather. Standing by the Wörnitz river, the tower is the landmark of Dinkelsbühl. Its slim stone body goes back to about 1400. The top third, with the jutting half-timbered storey and the steep roof, was added in the 16th century."
+      },
+      "localizedStory" : {
+        "de" : "Schau hoch zum Fachwerkgeschoss. Dort oben wohnte einst Hans Bäuerlin, Turmwächter und Gerber. Nach ihm heißt der Turm bis heute.",
+        "en" : "Look up at the half-timbered top. Hans Bäuerlin, a watchman who was also a tanner, once lived up there. The tower still carries his name."
+      },
       "name" : "Bäuerlinsturm",
       "pos" : [
         49.066883,
         10.323854
-      ]
+      ],
+      "story" : "Look up at the half-timbered top. Hans Bäuerlin, a watchman who was also a tanner, once lived up there. The tower still carries his name."
     }
   ],
-  "generatedAt" : "2026-10-14T08:59:59Z",
+  "generatedAt" : "2026-10-14T13:23:20Z",
+  "icon" : {
+    "paths" : [
+      "M82.4 4.5l-1.1 2.0l-1.3 1.7l-1.5 1.3l-1.1 0.3l-0.2 -0.9l0.3 -1.2l1.4 -3.2l2.0 -2.4l1.1 -0.8l0.9 -0.3l0.2 0.4l0.0 0.9zM72.5 8.0l0.3 -1.8l0.7 -1.7l1.0 -1.4l0.8 1.0l0.3 1.2l0.0 4.0l-0.6 2.2l-2.2 2.8zM68.7 16.3l-0.3 -1.8l0.3 -1.8l0.7 -1.6l0.8 0.7l0.6 1.0l0.7 3.4l0.0 2.1l-1.5 2.8zM65.7 24.2l-0.3 -1.8l0.2 -1.8l0.6 -1.7l0.9 0.6l0.6 1.1l0.8 3.4l0.1 2.0l-1.3 2.9zM65.6 29.2l0.7 3.6l-0.9 3.1l-2.5 -5.9l-0.2 -2.0l0.5 -2.0l1.4 1.1zM63.8 36.5l0.6 3.1l-0.8 3.1l-2.7 -5.7l-0.3 -2.1l0.4 -2.0l1.4 1.0zM62.5 45.6l0.3 1.8l-0.8 3.1l-2.8 -5.7l-0.3 -2.1l0.4 -2.0l0.9 0.5l0.8 1.0zM74.1 16.1l2.2 -2.4l2.2 -1.4l1.7 -0.2l-0.7 2.1l-1.7 2.0l-4.5 2.8zM71.4 22.9l2.4 -2.6l2.0 -1.2l1.8 -0.2l-0.8 2.1l-1.7 2.0l-4.5 2.8zM69.0 29.7l1.8 -2.3l2.3 -1.7l1.8 -0.3l-0.6 2.2l-1.4 1.9l-4.5 3.1zM66.8 36.9l1.2 -1.8l1.8 -2.0l1.5 -1.0l1.3 -0.2l-0.4 2.0l-1.2 2.0l-1.7 1.6l-1.3 0.6l-1.5 1.2zM68.7 39.2l1.1 -0.4l0.9 -0.1l-0.3 1.5l-0.6 1.4l-1.5 1.9l-3.8 3.2l0.5 -3.3l1.7 -2.4zM68.0 45.8l1.5 -0.3l-0.3 1.5l-0.6 1.4l-1.5 1.9l-3.8 3.2l0.6 -3.5l2.0 -2.6zM5.9 9.4l-0.4 0.4l-1.1 -0.5l-2.4 -2.5l-1.7 -3.5l-0.3 -1.4l0.2 -0.9l0.8 0.2l1.0 0.7l2.0 2.3l1.5 2.9zM10.0 5.2l0.5 2.0l-0.2 7.1l-2.2 -2.8l-0.6 -2.5l-0.1 -2.4l0.2 -1.8l0.7 -1.4l0.3 -0.3zM13.8 11.1l0.5 1.1l0.4 2.6l-1.6 6.3l-1.4 -2.8l-0.1 -1.5l0.6 -3.5l0.5 -1.2zM16.9 18.9l0.7 1.9l0.0 2.1l-1.8 6.0l-1.3 -2.9l0.1 -2.0l0.8 -3.4l0.7 -1.1zM20.4 28.2l-0.2 1.8l-2.4 5.9l-1.0 -3.1l0.4 -2.3l1.4 -3.4l1.2 -1.0l0.2 -0.1zM22.5 35.4l-0.3 1.8l-2.7 5.5l-0.8 -3.1l0.6 -2.8l0.8 -2.0l0.9 -1.2l1.1 -0.7zM24.2 42.2l-0.1 1.6l-0.4 1.5l-2.6 5.2l-0.8 -3.1l0.8 -3.1l0.9 -1.9l1.1 -1.3l0.7 -0.4zM3.1 12.0l0.9 0.1l1.1 0.4l2.7 2.2l1.3 1.5l0.7 2.8l-3.4 -2.0l-1.6 -1.3l-1.4 -1.9l-0.5 -1.5zM8.0 19.4l2.7 2.2l1.1 1.4l0.7 2.8l-1.4 -1.1l-2.2 -1.1l-1.6 -1.3l-1.4 -2.2l-0.3 -1.2zM8.4 25.3l0.9 0.1l1.1 0.5l2.6 2.3l1.2 1.7l0.6 2.7l-1.6 -1.3l-1.5 -0.6l-1.8 -1.6l-1.2 -2.0l-0.4 -1.5zM12.0 32.2l1.9 1.4l1.9 2.3l0.5 0.8l0.3 2.6l-1.2 -1.1l-1.9 -1.0l-2.0 -2.1l-0.7 -1.4l-0.3 -1.8zM14.4 39.2l2.0 1.8l1.8 2.4l0.5 3.3l-3.9 -3.2l-1.5 -1.9l-0.6 -1.4l-0.2 -1.5l0.8 0.1zM16.0 46.3l1.8 1.7l1.6 2.2l0.5 3.3l-4.8 -4.2l-1.0 -1.8l-0.4 -2.0l1.0 0.1zM40.6 7.0l-0.3 -2.0l0.1 -2.3l0.5 -1.9l0.7 -0.8l0.9 1.5l0.4 2.7l-0.3 2.8l-0.9 1.8l-0.2 0.0zM36.8 49.1l-1.0 -1.6l-0.4 -1.5l-0.1 -1.7l1.7 0.7l1.6 1.5l1.2 1.9l0.1 -2.5l-2.6 -2.7l-1.1 -1.5l-0.8 -2.0l-0.1 -2.0l1.7 0.6l2.3 2.6l1.2 2.2l0.1 2.5l1.9 0.0l0.2 -2.5l1.2 -2.2l2.2 -2.6l1.7 -0.6l-0.1 2.0l-0.8 2.0l-1.1 1.5l-2.6 2.7l0.1 2.5l1.3 -1.9l1.5 -1.5l1.7 -0.7l-0.1 1.9l-0.7 1.9l-1.2 1.7l-2.5 2.6l0.0 11.3l-1.7 -0.6l-1.8 0.6l0.0 -11.3zM11.9 88.8l-5.1 -5.3l3.4 -4.8l5.3 -4.9l4.3 -3.0l2.7 -1.0l3.7 1.5l4.0 2.8l1.1 0.1l6.5 -6.2l3.8 -2.7l3.8 2.7l6.6 6.2l0.9 -0.1l3.6 -2.5l3.4 -1.6l1.0 -0.1l1.9 0.7l3.9 2.5l3.9 3.2l2.9 3.1l2.8 4.1l-3.0 3.4l-3.5 3.1l-4.1 3.1l-4.0 2.5l-3.2 1.5l-3.4 1.2l-4.3 0.9l-4.7 0.6l-5.1 0.2l-4.8 -0.3l-4.9 -0.7l-4.6 -1.1l-3.5 -1.4l-3.7 -2.0l-3.7 -2.5zM38.6 33.3l1.8 3.0l0.2 1.1l0.1 2.8l-4.5 -5.1l-0.8 -2.0l-0.1 -2.0l1.7 0.6zM38.8 27.0l1.7 2.9l0.2 3.7l-4.5 -5.2l-0.8 -1.9l-0.1 -2.0l1.7 0.6zM39.7 21.7l0.9 2.1l0.1 3.2l-4.5 -5.2l-0.8 -1.9l-0.1 -2.0l1.7 0.6l1.6 1.6zM39.8 15.3l0.8 2.1l0.1 3.0l-4.5 -5.2l-0.8 -1.9l-0.1 -2.0l1.7 0.6l1.6 1.6zM39.8 8.7l0.8 1.7l0.1 3.4l-4.5 -5.2l-0.8 -1.9l-0.1 -2.0l1.0 0.2l1.2 0.8zM42.5 40.2l0.0 -2.9l0.7 -1.9l1.3 -2.0l1.6 -1.7l1.7 -0.6l-0.1 2.0l-0.7 1.7l-1.2 1.8zM42.5 33.6l0.0 -2.9l0.8 -2.1l1.3 -1.9l1.5 -1.6l1.7 -0.6l-0.1 2.0l-0.8 1.9l-1.1 1.6zM42.5 27.0l0.0 -2.9l0.8 -2.1l1.3 -1.9l1.5 -1.6l1.7 -0.6l-0.1 2.0l-0.8 1.9l-1.1 1.5zM42.5 20.4l0.0 -3.0l0.8 -2.1l1.3 -1.8l1.5 -1.6l1.7 -0.6l-0.1 2.0l-0.8 1.9l-1.1 1.5zM42.5 13.8l0.0 -3.4l0.9 -1.9l2.4 -3.0l1.0 -0.6l1.0 -0.2l-0.1 2.0l-0.8 1.9zM21.7 57.1l0.2 -6.4l0.5 -1.7l0.9 -1.2l1.4 -1.1l1.0 -0.4l1.2 0.1l0.2 0.3l-0.2 3.3l-1.8 4.9l-1.3 6.1l-0.3 2.4l0.0 4.4l-1.4 -0.1l-1.8 0.5l0.0 -6.2l-3.6 -4.0l-1.1 -1.7l-0.9 -2.5l0.1 -2.5l1.7 -0.1l1.6 0.9l1.8 1.9zM56.2 46.4l1.6 0.0l0.9 0.4l1.3 1.2l0.9 1.2l0.4 3.0l0.1 4.9l1.5 -2.7l1.9 -2.2l1.9 -1.0l1.2 -0.1l0.5 0.3l0.0 2.4l-0.8 2.5l-1.2 1.7l-3.6 4.0l0.0 6.2l-1.8 -0.5l-1.4 0.1l0.0 -4.4l-0.3 -2.4l-1.3 -6.1l-1.7 -4.9l-0.3 -3.3z"
+    ],
+    "viewBox" : "0 0 83.1 100.0"
+  },
   "license" : "ODbL 1.0 — https://opendatacommons.org/licenses/odbl/1-0/",
   "localizedNames" : {
     "de" : "Dinkelsbühl",
     "en" : "Dinkelsbühl"
   },
   "name" : "Dinkelsbühl",
-  "packVersion" : 8,
+  "packVersion" : 11,
   "schemaVersion" : 1,
   "source" : "OpenStreetMap via Overpass API",
   "stats" : {
