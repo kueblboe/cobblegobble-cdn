@@ -8046,6 +8046,129 @@
       ],
       "cityId" : "prague",
       "country" : "CZ",
+      "familyStops" : [
+        "Staroměstský orloj",
+        "Staroměstská mostecká věž",
+        "Karlův most",
+        "Krannerova kašna"
+      ],
+      "familyWalk" : {
+        "places" : [
+          {
+            "kind" : "toilets",
+            "pos" : [
+              50.0856897,
+              14.413975
+            ]
+          },
+          {
+            "kind" : "toilets",
+            "pos" : [
+              50.0822925,
+              14.4129064
+            ]
+          },
+          {
+            "kind" : "ice_cream",
+            "name" : "Crème de la Crème",
+            "pos" : [
+              50.0857057,
+              14.4182972
+            ]
+          },
+          {
+            "kind" : "drinking_water",
+            "pos" : [
+              50.0847372,
+              14.4188373
+            ]
+          },
+          {
+            "kind" : "toilets",
+            "pos" : [
+              50.0837676,
+              14.4202496
+            ]
+          },
+          {
+            "kind" : "toilets",
+            "pos" : [
+              50.0859571,
+              14.4141483
+            ]
+          },
+          {
+            "kind" : "toilets",
+            "pos" : [
+              50.0874113,
+              14.4171502
+            ]
+          },
+          {
+            "kind" : "toilets",
+            "pos" : [
+              50.0864422,
+              14.4140641
+            ]
+          },
+          {
+            "kind" : "ice_cream",
+            "name" : "Pietro Gelato",
+            "pos" : [
+              50.0859499,
+              14.4148462
+            ]
+          },
+          {
+            "kind" : "toilets",
+            "pos" : [
+              50.0876368,
+              14.4222164
+            ]
+          },
+          {
+            "kind" : "toilets",
+            "pos" : [
+              50.086952,
+              14.4203372
+            ]
+          },
+          {
+            "kind" : "toilets",
+            "pos" : [
+              50.0872307,
+              14.4196609
+            ]
+          },
+          {
+            "kind" : "ice_cream",
+            "name" : "Trdelník",
+            "pos" : [
+              50.0861935,
+              14.4190373
+            ]
+          },
+          {
+            "kind" : "ice_cream",
+            "name" : "Coffee to go",
+            "pos" : [
+              50.0868743,
+              14.421569
+            ]
+          },
+          {
+            "kind" : "playground",
+            "pos" : [
+              50.0842154,
+              14.4162574
+            ]
+          }
+        ],
+        "start" : [
+          50.08684,
+          14.42056
+        ]
+      },
       "hasPage" : true,
       "iapProductId" : "cobblegobble.city.prague",
       "icon" : {
