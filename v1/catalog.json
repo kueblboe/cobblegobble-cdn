@@ -2006,6 +2006,88 @@
       ],
       "cityId" : "buxtehude",
       "country" : "DE",
+      "familyStops" : [
+        "St. Petri-Kirche",
+        "Marschtorzwinger",
+        "Hase-und-Igel-Brunnen",
+        "Fleetenkieker"
+      ],
+      "familyWalk" : {
+        "places" : [
+          {
+            "kind" : "ice_cream",
+            "name" : "Eiscafè Gelateria La Luna",
+            "pos" : [
+              53.4771419,
+              9.6992254
+            ]
+          },
+          {
+            "kind" : "ice_cream",
+            "name" : "Venezia",
+            "pos" : [
+              53.475612,
+              9.697815
+            ]
+          },
+          {
+            "kind" : "ice_cream",
+            "name" : "Sole Mio",
+            "pos" : [
+              53.477523,
+              9.6984546
+            ]
+          },
+          {
+            "kind" : "playground",
+            "pos" : [
+              53.4787994,
+              9.6992897
+            ]
+          },
+          {
+            "kind" : "drinking_water",
+            "pos" : [
+              53.4756649,
+              9.6983091
+            ]
+          },
+          {
+            "kind" : "ice_cream",
+            "name" : "Bella Vita Eiscafè",
+            "pos" : [
+              53.4774148,
+              9.7019131
+            ]
+          },
+          {
+            "kind" : "ice_cream",
+            "name" : "Süße Sünde",
+            "pos" : [
+              53.4766018,
+              9.6995913
+            ]
+          },
+          {
+            "kind" : "drinking_water",
+            "pos" : [
+              53.4763481,
+              9.7029602
+            ]
+          },
+          {
+            "kind" : "toilets",
+            "pos" : [
+              53.4763329,
+              9.7029246
+            ]
+          }
+        ],
+        "start" : [
+          53.477156,
+          9.700323
+        ]
+      },
       "hasPage" : true,
       "iapProductId" : "cobblegobble.city.buxtehude",
       "icon" : {
@@ -2631,6 +2713,109 @@
       ],
       "cityId" : "dinkelsbuhl",
       "country" : "DE",
+      "familyStops" : [
+        "Münster St. Georg",
+        "Faulturm",
+        "Schweinemarkt",
+        "Segringer Tor"
+      ],
+      "familyWalk" : {
+        "places" : [
+          {
+            "kind" : "toilets",
+            "pos" : [
+              49.0687095,
+              10.3139086
+            ]
+          },
+          {
+            "kind" : "toilets",
+            "pos" : [
+              49.0673368,
+              10.313898
+            ]
+          },
+          {
+            "kind" : "ice_cream",
+            "name" : "Eiscafe Pra",
+            "pos" : [
+              49.069138,
+              10.3198049
+            ]
+          },
+          {
+            "kind" : "drinking_water",
+            "pos" : [
+              49.069448,
+              10.3164691
+            ]
+          },
+          {
+            "changingTable" : true,
+            "kind" : "toilets",
+            "pos" : [
+              49.0690706,
+              10.321041
+            ]
+          },
+          {
+            "kind" : "ice_cream",
+            "name" : "Crema Gelato",
+            "pos" : [
+              49.0692209,
+              10.3169949
+            ]
+          },
+          {
+            "kind" : "toilets",
+            "pos" : [
+              49.0694256,
+              10.3165966
+            ]
+          },
+          {
+            "kind" : "drinking_water",
+            "name" : "Drinking water",
+            "pos" : [
+              49.0692173,
+              10.3195942
+            ]
+          },
+          {
+            "kind" : "toilets",
+            "pos" : [
+              49.0708438,
+              10.3190275
+            ]
+          },
+          {
+            "kind" : "toilets",
+            "pos" : [
+              49.0728445,
+              10.3173669
+            ]
+          },
+          {
+            "kind" : "toilets",
+            "pos" : [
+              49.070782,
+              10.3197277
+            ]
+          },
+          {
+            "kind" : "playground",
+            "name" : "Spielplatz Bleiche",
+            "pos" : [
+              49.0712854,
+              10.3200614
+            ]
+          }
+        ],
+        "start" : [
+          49.069558,
+          10.319692
+        ]
+      },
       "hasPage" : true,
       "iapProductId" : "cobblegobble.city.dinkelsbuhl",
       "icon" : {
@@ -8906,6 +9091,104 @@
       ],
       "cityId" : "rothenburg",
       "country" : "DE",
+      "familyStops" : [
+        "St. Jakob",
+        "Brunnen am Plönlein",
+        "Rathausturm",
+        "Rödertor"
+      ],
+      "familyWalk" : {
+        "places" : [
+          {
+            "changingTable" : true,
+            "kind" : "toilets",
+            "pos" : [
+              49.3774274,
+              10.1783113
+            ]
+          },
+          {
+            "kind" : "ice_cream",
+            "name" : "Eiscafé D'Isep",
+            "pos" : [
+              49.3770697,
+              10.1806128
+            ]
+          },
+          {
+            "kind" : "ice_cream",
+            "name" : "Eis-Cafe Dolomiti",
+            "pos" : [
+              49.3775534,
+              10.1792567
+            ]
+          },
+          {
+            "kind" : "ice_cream",
+            "name" : "Eiscafé Dolce Vita",
+            "pos" : [
+              49.3758554,
+              10.1797139
+            ]
+          },
+          {
+            "kind" : "drinking_water",
+            "pos" : [
+              49.375208,
+              10.1799245
+            ]
+          },
+          {
+            "kind" : "ice_cream",
+            "name" : "Jürgens Waffel Imbiss",
+            "pos" : [
+              49.374956,
+              10.1800509
+            ]
+          },
+          {
+            "kind" : "ice_cream",
+            "name" : "Italienisches Eiscafé Mauro",
+            "pos" : [
+              49.3753663,
+              10.1796923
+            ]
+          },
+          {
+            "kind" : "drinking_water",
+            "pos" : [
+              49.3774377,
+              10.1785152
+            ]
+          },
+          {
+            "kind" : "playground",
+            "name" : "Am Galgentor",
+            "pos" : [
+              49.3777352,
+              10.1845815
+            ]
+          },
+          {
+            "kind" : "playground",
+            "pos" : [
+              49.3737376,
+              10.1812299
+            ]
+          },
+          {
+            "kind" : "toilets",
+            "pos" : [
+              49.3764691,
+              10.1843765
+            ]
+          }
+        ],
+        "start" : [
+          49.377803,
+          10.177316
+        ]
+      },
       "hasPage" : true,
       "iapProductId" : "cobblegobble.city.rothenburg",
       "icon" : {
