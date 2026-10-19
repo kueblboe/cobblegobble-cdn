@@ -157,18 +157,11 @@
       "familyWalk" : {
         "places" : [
           {
-            "kind" : "drinking_water",
+            "kind" : "ice_cream",
+            "name" : "IJssalon Tofani",
             "pos" : [
-              52.3663476,
-              4.8915822
-            ]
-          },
-          {
-            "kind" : "drinking_water",
-            "name" : "Kraanwaterpunt",
-            "pos" : [
-              52.3688245,
-              4.8888488
+              52.3718562,
+              4.8990709
             ]
           },
           {
@@ -184,87 +177,6 @@
             "pos" : [
               52.367853,
               4.8910911
-            ]
-          },
-          {
-            "kind" : "drinking_water",
-            "pos" : [
-              52.3673236,
-              4.8932853
-            ]
-          },
-          {
-            "kind" : "drinking_water",
-            "pos" : [
-              52.3689133,
-              4.8898212
-            ]
-          },
-          {
-            "kind" : "drinking_water",
-            "pos" : [
-              52.3704001,
-              4.8897995
-            ]
-          },
-          {
-            "kind" : "ice_cream",
-            "name" : "Dolce & Gelato",
-            "pos" : [
-              52.3668811,
-              4.8940202
-            ]
-          },
-          {
-            "kind" : "drinking_water",
-            "pos" : [
-              52.3689427,
-              4.8946698
-            ]
-          },
-          {
-            "kind" : "toilets",
-            "pos" : [
-              52.3686797,
-              4.8896831
-            ]
-          },
-          {
-            "kind" : "ice_cream",
-            "name" : "Dolce & Gelato",
-            "pos" : [
-              52.3669737,
-              4.8941277
-            ]
-          },
-          {
-            "kind" : "toilets",
-            "pos" : [
-              52.3672781,
-              4.8900956
-            ]
-          },
-          {
-            "kind" : "toilets",
-            "pos" : [
-              52.3673254,
-              4.8916608
-            ]
-          },
-          {
-            "kind" : "ice_cream",
-            "name" : "Rituals Café",
-            "pos" : [
-              52.3689763,
-              4.8906048
-            ]
-          },
-          {
-            "kind" : "ice_cream",
-            "name" : "IJssalon Tofani",
-            "pos" : [
-              52.3718562,
-              4.8990709
             ]
           },
           {
@@ -286,6 +198,42 @@
           },
           {
             "kind" : "drinking_water",
+            "name" : "Kraanwaterpunt",
+            "pos" : [
+              52.3688245,
+              4.8888488
+            ]
+          },
+          {
+            "kind" : "drinking_water",
+            "pos" : [
+              52.3663476,
+              4.8915822
+            ]
+          },
+          {
+            "kind" : "drinking_water",
+            "pos" : [
+              52.3673236,
+              4.8932853
+            ]
+          },
+          {
+            "kind" : "drinking_water",
+            "pos" : [
+              52.3689133,
+              4.8898212
+            ]
+          },
+          {
+            "kind" : "toilets",
+            "pos" : [
+              52.3732175,
+              4.9005903
+            ]
+          },
+          {
+            "kind" : "drinking_water",
             "pos" : [
               52.3722456,
               4.9007548
@@ -299,10 +247,32 @@
             ]
           },
           {
+            "kind" : "drinking_water",
+            "pos" : [
+              52.3704001,
+              4.8897995
+            ]
+          },
+          {
             "kind" : "playground",
             "pos" : [
               52.3713947,
               4.9012173
+            ]
+          },
+          {
+            "kind" : "ice_cream",
+            "name" : "Dolce & Gelato",
+            "pos" : [
+              52.3668811,
+              4.8940202
+            ]
+          },
+          {
+            "kind" : "drinking_water",
+            "pos" : [
+              52.3689427,
+              4.8946698
             ]
           },
           {
@@ -336,8 +306,8 @@
           {
             "kind" : "toilets",
             "pos" : [
-              52.3732175,
-              4.9005903
+              52.3686797,
+              4.8896831
             ]
           },
           {
@@ -345,6 +315,36 @@
             "pos" : [
               52.3731725,
               4.8985958
+            ]
+          },
+          {
+            "kind" : "ice_cream",
+            "name" : "Dolce & Gelato",
+            "pos" : [
+              52.3669737,
+              4.8941277
+            ]
+          },
+          {
+            "kind" : "toilets",
+            "pos" : [
+              52.3672781,
+              4.8900956
+            ]
+          },
+          {
+            "kind" : "toilets",
+            "pos" : [
+              52.3673254,
+              4.8916608
+            ]
+          },
+          {
+            "kind" : "ice_cream",
+            "name" : "Rituals Café",
+            "pos" : [
+              52.3689763,
+              4.8906048
             ]
           },
           {
@@ -603,42 +603,6 @@
       "familyWalk" : {
         "places" : [
           {
-            "kind" : "drinking_water",
-            "name" : "Brunnen in der Trautmannsmauer",
-            "pos" : [
-              49.8913413,
-              10.883685
-            ]
-          },
-          {
-            "kind" : "toilets",
-            "pos" : [
-              49.8908725,
-              10.8819965
-            ]
-          },
-          {
-            "kind" : "toilets",
-            "pos" : [
-              49.8911423,
-              10.8820197
-            ]
-          },
-          {
-            "kind" : "toilets",
-            "pos" : [
-              49.8902584,
-              10.8820337
-            ]
-          },
-          {
-            "kind" : "toilets",
-            "pos" : [
-              49.8916028,
-              10.8808563
-            ]
-          },
-          {
             "kind" : "toilets",
             "pos" : [
               49.892145,
@@ -663,10 +627,32 @@
           },
           {
             "kind" : "drinking_water",
+            "name" : "Brunnen in der Trautmannsmauer",
+            "pos" : [
+              49.8913413,
+              10.883685
+            ]
+          },
+          {
+            "kind" : "toilets",
+            "pos" : [
+              49.8908725,
+              10.8819965
+            ]
+          },
+          {
+            "kind" : "drinking_water",
             "name" : "Humsera",
             "pos" : [
               49.8935165,
               10.8887714
+            ]
+          },
+          {
+            "kind" : "toilets",
+            "pos" : [
+              49.8911423,
+              10.8820197
             ]
           },
           {
@@ -690,6 +676,13 @@
             "pos" : [
               49.8927362,
               10.8864693
+            ]
+          },
+          {
+            "kind" : "toilets",
+            "pos" : [
+              49.8902584,
+              10.8820337
             ]
           },
           {
@@ -737,6 +730,13 @@
             "pos" : [
               49.8937861,
               10.8890385
+            ]
+          },
+          {
+            "kind" : "toilets",
+            "pos" : [
+              49.8916028,
+              10.8808563
             ]
           },
           {
@@ -910,18 +910,19 @@
             ]
           },
           {
+            "changingTable" : true,
+            "kind" : "toilets",
+            "pos" : [
+              51.3818312,
+              -2.3573629
+            ]
+          },
+          {
             "kind" : "ice_cream",
             "name" : "Swoon",
             "pos" : [
               51.3815209,
               -2.3633389
-            ]
-          },
-          {
-            "kind" : "drinking_water",
-            "pos" : [
-              51.380274,
-              -2.3619398
             ]
           },
           {
@@ -933,18 +934,17 @@
             ]
           },
           {
-            "changingTable" : true,
-            "kind" : "toilets",
+            "kind" : "drinking_water",
             "pos" : [
-              51.3818312,
-              -2.3573629
+              51.3811439,
+              -2.3575692
             ]
           },
           {
             "kind" : "drinking_water",
             "pos" : [
-              51.3811439,
-              -2.3575692
+              51.380274,
+              -2.3619398
             ]
           },
           {
@@ -953,38 +953,6 @@
             "pos" : [
               51.3807404,
               -2.3582063
-            ]
-          },
-          {
-            "kind" : "toilets",
-            "name" : "Charlotte Street",
-            "pos" : [
-              51.3835323,
-              -2.3654942
-            ]
-          },
-          {
-            "kind" : "ice_cream",
-            "name" : "Amorino",
-            "pos" : [
-              51.3820595,
-              -2.3603274
-            ]
-          },
-          {
-            "kind" : "toilets",
-            "name" : "Seven Dials",
-            "pos" : [
-              51.3817379,
-              -2.3630711
-            ]
-          },
-          {
-            "kind" : "ice_cream",
-            "name" : "Creams Cafe",
-            "pos" : [
-              51.3809081,
-              -2.3627845
             ]
           },
           {
@@ -1013,10 +981,42 @@
           },
           {
             "kind" : "ice_cream",
+            "name" : "Amorino",
+            "pos" : [
+              51.3820595,
+              -2.3603274
+            ]
+          },
+          {
+            "kind" : "ice_cream",
             "name" : "Salcombe Dairy",
             "pos" : [
               51.3830596,
               -2.3576508
+            ]
+          },
+          {
+            "kind" : "toilets",
+            "name" : "Seven Dials",
+            "pos" : [
+              51.3817379,
+              -2.3630711
+            ]
+          },
+          {
+            "kind" : "ice_cream",
+            "name" : "Creams Cafe",
+            "pos" : [
+              51.3809081,
+              -2.3627845
+            ]
+          },
+          {
+            "kind" : "toilets",
+            "name" : "Charlotte Street",
+            "pos" : [
+              51.3835323,
+              -2.3654942
             ]
           },
           {
@@ -1330,15 +1330,15 @@
           {
             "kind" : "drinking_water",
             "pos" : [
-              52.5162879,
-              13.3760057
+              52.516778,
+              13.3860318
             ]
           },
           {
             "kind" : "drinking_water",
             "pos" : [
-              52.516778,
-              13.3860318
+              52.5162879,
+              13.3760057
             ]
           }
         ],
@@ -1634,29 +1634,6 @@
             ]
           },
           {
-            "kind" : "ice_cream",
-            "name" : "Angelo",
-            "pos" : [
-              46.9493795,
-              7.4432081
-            ]
-          },
-          {
-            "changingTable" : true,
-            "kind" : "toilets",
-            "pos" : [
-              46.9479278,
-              7.4439503
-            ]
-          },
-          {
-            "kind" : "toilets",
-            "pos" : [
-              46.9475022,
-              7.4417875
-            ]
-          },
-          {
             "kind" : "toilets",
             "pos" : [
               46.946984,
@@ -1668,6 +1645,21 @@
             "pos" : [
               46.947999,
               7.447785
+            ]
+          },
+          {
+            "kind" : "ice_cream",
+            "name" : "Angelo",
+            "pos" : [
+              46.9493795,
+              7.4432081
+            ]
+          },
+          {
+            "kind" : "playground",
+            "pos" : [
+              46.9467952,
+              7.452174
             ]
           },
           {
@@ -1702,6 +1694,13 @@
           {
             "kind" : "toilets",
             "pos" : [
+              46.9480963,
+              7.4515648
+            ]
+          },
+          {
+            "kind" : "toilets",
+            "pos" : [
               46.9475397,
               7.4487034
             ]
@@ -1719,6 +1718,21 @@
             "pos" : [
               46.9482349,
               7.4472057
+            ]
+          },
+          {
+            "changingTable" : true,
+            "kind" : "toilets",
+            "pos" : [
+              46.9479278,
+              7.4439503
+            ]
+          },
+          {
+            "kind" : "toilets",
+            "pos" : [
+              46.9475022,
+              7.4417875
             ]
           },
           {
@@ -1742,20 +1756,6 @@
             "pos" : [
               46.9478095,
               7.4503001
-            ]
-          },
-          {
-            "kind" : "playground",
-            "pos" : [
-              46.9467952,
-              7.452174
-            ]
-          },
-          {
-            "kind" : "toilets",
-            "pos" : [
-              46.9480963,
-              7.4515648
             ]
           },
           {
@@ -2050,6 +2050,22 @@
       "familyWalk" : {
         "places" : [
           {
+            "kind" : "ice_cream",
+            "name" : "Gelateria Gianni",
+            "pos" : [
+              44.495847,
+              11.340161
+            ]
+          },
+          {
+            "kind" : "ice_cream",
+            "name" : "Gelateria Gianni",
+            "pos" : [
+              44.4945499,
+              11.346975
+            ]
+          },
+          {
             "kind" : "toilets",
             "pos" : [
               44.4937741,
@@ -2062,72 +2078,6 @@
             "pos" : [
               44.4928361,
               11.3420011
-            ]
-          },
-          {
-            "kind" : "drinking_water",
-            "pos" : [
-              44.4941997,
-              11.3427094
-            ]
-          },
-          {
-            "kind" : "drinking_water",
-            "pos" : [
-              44.4949232,
-              11.3417965
-            ]
-          },
-          {
-            "kind" : "ice_cream",
-            "name" : "Officina gelato gusto italiano",
-            "pos" : [
-              44.4944776,
-              11.3441453
-            ]
-          },
-          {
-            "kind" : "toilets",
-            "pos" : [
-              44.4944856,
-              11.3421322
-            ]
-          },
-          {
-            "kind" : "toilets",
-            "pos" : [
-              44.492083,
-              11.3438311
-            ]
-          },
-          {
-            "kind" : "drinking_water",
-            "pos" : [
-              44.4941003,
-              11.3420272
-            ]
-          },
-          {
-            "kind" : "drinking_water",
-            "pos" : [
-              44.492102,
-              11.3435993
-            ]
-          },
-          {
-            "kind" : "ice_cream",
-            "name" : "Dolce Boom Boom",
-            "pos" : [
-              44.4952741,
-              11.3428679
-            ]
-          },
-          {
-            "kind" : "ice_cream",
-            "name" : "Gelateria Gianni",
-            "pos" : [
-              44.4945499,
-              11.346975
             ]
           },
           {
@@ -2154,6 +2104,28 @@
             ]
           },
           {
+            "kind" : "drinking_water",
+            "pos" : [
+              44.4941997,
+              11.3427094
+            ]
+          },
+          {
+            "kind" : "drinking_water",
+            "pos" : [
+              44.4949232,
+              11.3417965
+            ]
+          },
+          {
+            "kind" : "ice_cream",
+            "name" : "Officina gelato gusto italiano",
+            "pos" : [
+              44.4944776,
+              11.3441453
+            ]
+          },
+          {
             "kind" : "ice_cream",
             "name" : "Cremeria la Vecchia Stalla",
             "pos" : [
@@ -2162,10 +2134,47 @@
             ]
           },
           {
+            "kind" : "toilets",
+            "pos" : [
+              44.4944856,
+              11.3421322
+            ]
+          },
+          {
+            "kind" : "toilets",
+            "pos" : [
+              44.492083,
+              11.3438311
+            ]
+          },
+          {
+            "kind" : "ice_cream",
+            "name" : "Venchi",
+            "pos" : [
+              44.4961818,
+              11.342805
+            ]
+          },
+          {
+            "kind" : "ice_cream",
+            "name" : "Pasticceria Caridi",
+            "pos" : [
+              44.4964109,
+              11.3423753
+            ]
+          },
+          {
             "kind" : "drinking_water",
             "pos" : [
               44.4940607,
               11.3469129
+            ]
+          },
+          {
+            "kind" : "drinking_water",
+            "pos" : [
+              44.4941003,
+              11.3420272
             ]
           },
           {
@@ -2186,8 +2195,23 @@
           {
             "kind" : "drinking_water",
             "pos" : [
+              44.492102,
+              11.3435993
+            ]
+          },
+          {
+            "kind" : "drinking_water",
+            "pos" : [
               44.4941651,
               11.3466587
+            ]
+          },
+          {
+            "kind" : "ice_cream",
+            "name" : "Dolce Boom Boom",
+            "pos" : [
+              44.4952741,
+              11.3428679
             ]
           },
           {
@@ -2195,30 +2219,6 @@
             "pos" : [
               44.494142,
               11.346714
-            ]
-          },
-          {
-            "kind" : "ice_cream",
-            "name" : "Gelateria Gianni",
-            "pos" : [
-              44.495847,
-              11.340161
-            ]
-          },
-          {
-            "kind" : "ice_cream",
-            "name" : "Venchi",
-            "pos" : [
-              44.4961818,
-              11.342805
-            ]
-          },
-          {
-            "kind" : "ice_cream",
-            "name" : "Pasticceria Caridi",
-            "pos" : [
-              44.4964109,
-              11.3423753
             ]
           }
         ],
@@ -2499,6 +2499,14 @@
       "familyWalk" : {
         "places" : [
           {
+            "changingTable" : true,
+            "kind" : "toilets",
+            "pos" : [
+              51.2079251,
+              3.2252917
+            ]
+          },
+          {
             "kind" : "toilets",
             "pos" : [
               51.2043683,
@@ -2513,10 +2521,11 @@
             ]
           },
           {
-            "kind" : "drinking_water",
+            "kind" : "ice_cream",
+            "name" : "Chez Albert",
             "pos" : [
-              51.2043261,
-              3.2243704
+              51.20325,
+              3.2249034
             ]
           },
           {
@@ -2528,32 +2537,10 @@
             ]
           },
           {
-            "kind" : "drinking_water",
+            "kind" : "toilets",
             "pos" : [
-              51.2067593,
-              3.2224005
-            ]
-          },
-          {
-            "kind" : "drinking_water",
-            "pos" : [
-              51.2084714,
-              3.2228989
-            ]
-          },
-          {
-            "kind" : "drinking_water",
-            "pos" : [
-              51.2085346,
-              3.2242477
-            ]
-          },
-          {
-            "kind" : "ice_cream",
-            "name" : "Chez Albert",
-            "pos" : [
-              51.20325,
-              3.2249034
+              51.2085469,
+              3.2275543
             ]
           },
           {
@@ -2580,25 +2567,24 @@
             ]
           },
           {
-            "changingTable" : true,
-            "kind" : "toilets",
+            "kind" : "drinking_water",
             "pos" : [
-              51.2079251,
-              3.2252917
-            ]
-          },
-          {
-            "kind" : "toilets",
-            "pos" : [
-              51.2085469,
-              3.2275543
+              51.2086872,
+              3.2266583
             ]
           },
           {
             "kind" : "drinking_water",
             "pos" : [
-              51.2086872,
-              3.2266583
+              51.2043261,
+              3.2243704
+            ]
+          },
+          {
+            "kind" : "drinking_water",
+            "pos" : [
+              51.2067593,
+              3.2224005
             ]
           },
           {
@@ -2609,11 +2595,25 @@
             ]
           },
           {
+            "kind" : "drinking_water",
+            "pos" : [
+              51.2084714,
+              3.2228989
+            ]
+          },
+          {
             "kind" : "toilets",
             "name" : "Restroom",
             "pos" : [
               51.2087882,
               3.2275539
+            ]
+          },
+          {
+            "kind" : "drinking_water",
+            "pos" : [
+              51.2085346,
+              3.2242477
             ]
           },
           {
@@ -2891,25 +2891,34 @@
       "familyWalk" : {
         "places" : [
           {
+            "kind" : "toilets",
+            "pos" : [
+              47.4860932,
+              19.0594866
+            ]
+          },
+          {
+            "kind" : "ice_cream",
+            "name" : "Levendula Kézműves Fagylaltozó",
+            "pos" : [
+              47.4877933,
+              19.058592
+            ]
+          },
+          {
+            "kind" : "ice_cream",
+            "name" : "Gelato",
+            "pos" : [
+              47.4914827,
+              19.0556094
+            ]
+          },
+          {
             "kind" : "drinking_water",
             "name" : "Attila, Juventus, Hungária",
             "pos" : [
               47.4896675,
               19.0464078
-            ]
-          },
-          {
-            "kind" : "toilets",
-            "pos" : [
-              47.4896508,
-              19.0464032
-            ]
-          },
-          {
-            "kind" : "drinking_water",
-            "pos" : [
-              47.4844652,
-              19.0506082
             ]
           },
           {
@@ -2936,33 +2945,18 @@
             ]
           },
           {
-            "kind" : "ice_cream",
-            "name" : "Giandó",
-            "pos" : [
-              47.490077,
-              19.0554425
-            ]
-          },
-          {
-            "kind" : "drinking_water",
-            "pos" : [
-              47.4885079,
-              19.0568127
-            ]
-          },
-          {
             "kind" : "toilets",
             "pos" : [
-              47.4860932,
-              19.0594866
+              47.4896508,
+              19.0464032
             ]
           },
           {
             "kind" : "ice_cream",
-            "name" : "Levendula Kézműves Fagylaltozó",
+            "name" : "Molnár's Kürtőskalács",
             "pos" : [
-              47.4877933,
-              19.058592
+              47.4927458,
+              19.0529762
             ]
           },
           {
@@ -2994,6 +2988,14 @@
             ]
           },
           {
+            "kind" : "ice_cream",
+            "name" : "Giandó",
+            "pos" : [
+              47.490077,
+              19.0554425
+            ]
+          },
+          {
             "kind" : "drinking_water",
             "pos" : [
               47.4886496,
@@ -3008,26 +3010,10 @@
             ]
           },
           {
-            "kind" : "toilets",
+            "kind" : "drinking_water",
             "pos" : [
-              47.4884949,
-              19.0591744
-            ]
-          },
-          {
-            "kind" : "ice_cream",
-            "name" : "Gelato",
-            "pos" : [
-              47.4914827,
-              19.0556094
-            ]
-          },
-          {
-            "kind" : "ice_cream",
-            "name" : "Molnár's Kürtőskalács",
-            "pos" : [
-              47.4927458,
-              19.0529762
+              47.4844652,
+              19.0506082
             ]
           },
           {
@@ -3038,10 +3024,24 @@
             ]
           },
           {
+            "kind" : "toilets",
+            "pos" : [
+              47.4884949,
+              19.0591744
+            ]
+          },
+          {
             "kind" : "ice_cream",
             "pos" : [
               47.4931525,
               19.0544316
+            ]
+          },
+          {
+            "kind" : "drinking_water",
+            "pos" : [
+              47.4885079,
+              19.0568127
             ]
           },
           {
@@ -3055,15 +3055,15 @@
           {
             "kind" : "playground",
             "pos" : [
-              47.4872376,
-              19.056807
+              47.4865827,
+              19.059928
             ]
           },
           {
             "kind" : "playground",
             "pos" : [
-              47.4865827,
-              19.059928
+              47.4872376,
+              19.056807
             ]
           }
         ],
@@ -3255,20 +3255,6 @@
             ]
           },
           {
-            "kind" : "playground",
-            "pos" : [
-              53.4787994,
-              9.6992897
-            ]
-          },
-          {
-            "kind" : "drinking_water",
-            "pos" : [
-              53.4756649,
-              9.6983091
-            ]
-          },
-          {
             "kind" : "ice_cream",
             "name" : "Bella Vita Eiscafè",
             "pos" : [
@@ -3277,11 +3263,25 @@
             ]
           },
           {
+            "kind" : "playground",
+            "pos" : [
+              53.4787994,
+              9.6992897
+            ]
+          },
+          {
             "kind" : "ice_cream",
             "name" : "Süße Sünde",
             "pos" : [
               53.4766018,
               9.6995913
+            ]
+          },
+          {
+            "kind" : "drinking_water",
+            "pos" : [
+              53.4756649,
+              9.6983091
             ]
           },
           {
@@ -3723,10 +3723,33 @@
       "familyWalk" : {
         "places" : [
           {
+            "kind" : "playground",
+            "pos" : [
+              48.0755654,
+              7.3607572
+            ]
+          },
+          {
+            "changingTable" : true,
+            "kind" : "toilets",
+            "pos" : [
+              48.0755853,
+              7.3611248
+            ]
+          },
+          {
             "kind" : "toilets",
             "pos" : [
               48.074678,
               7.3591485
+            ]
+          },
+          {
+            "changingTable" : true,
+            "kind" : "toilets",
+            "pos" : [
+              48.0772054,
+              7.3611694
             ]
           },
           {
@@ -3756,6 +3779,13 @@
           {
             "kind" : "drinking_water",
             "pos" : [
+              48.0757756,
+              7.3610479
+            ]
+          },
+          {
+            "kind" : "drinking_water",
+            "pos" : [
               48.0770525,
               7.3578611
             ]
@@ -3769,56 +3799,19 @@
             ]
           },
           {
-            "kind" : "ice_cream",
-            "name" : "Glaces du Lac",
-            "pos" : [
-              48.0785074,
-              7.3595879
-            ]
-          },
-          {
-            "kind" : "drinking_water",
-            "pos" : [
-              48.0773455,
-              7.358919
-            ]
-          },
-          {
-            "kind" : "playground",
-            "pos" : [
-              48.0755654,
-              7.3607572
-            ]
-          },
-          {
-            "changingTable" : true,
-            "kind" : "toilets",
-            "pos" : [
-              48.0755853,
-              7.3611248
-            ]
-          },
-          {
-            "changingTable" : true,
-            "kind" : "toilets",
-            "pos" : [
-              48.0772054,
-              7.3611694
-            ]
-          },
-          {
-            "kind" : "drinking_water",
-            "pos" : [
-              48.0757756,
-              7.3610479
-            ]
-          },
-          {
             "kind" : "drinking_water",
             "name" : "Fontaine d'eau",
             "pos" : [
               48.0757247,
               7.3597472
+            ]
+          },
+          {
+            "kind" : "ice_cream",
+            "name" : "Glaces du Lac",
+            "pos" : [
+              48.0785074,
+              7.3595879
             ]
           },
           {
@@ -3835,6 +3828,13 @@
             "pos" : [
               48.0769513,
               7.3600859
+            ]
+          },
+          {
+            "kind" : "drinking_water",
+            "pos" : [
+              48.0773455,
+              7.358919
             ]
           },
           {
@@ -4082,39 +4082,10 @@
         "places" : [
           {
             "kind" : "toilets",
+            "name" : "Nyhavn",
             "pos" : [
-              55.6792745,
-              12.573607
-            ]
-          },
-          {
-            "kind" : "ice_cream",
-            "name" : "Rajissimo",
-            "pos" : [
-              55.6782018,
-              12.5730465
-            ]
-          },
-          {
-            "kind" : "ice_cream",
-            "name" : "The waffle house",
-            "pos" : [
-              55.6785282,
-              12.575836
-            ]
-          },
-          {
-            "kind" : "drinking_water",
-            "pos" : [
-              55.6814345,
-              12.5756764
-            ]
-          },
-          {
-            "kind" : "drinking_water",
-            "pos" : [
-              55.6814858,
-              12.5755481
+              55.6806529,
+              12.5878585
             ]
           },
           {
@@ -4122,6 +4093,20 @@
             "pos" : [
               55.679001,
               12.5818189
+            ]
+          },
+          {
+            "kind" : "toilets",
+            "pos" : [
+              55.680465,
+              12.5877162
+            ]
+          },
+          {
+            "kind" : "toilets",
+            "pos" : [
+              55.6792745,
+              12.573607
             ]
           },
           {
@@ -4140,6 +4125,22 @@
             ]
           },
           {
+            "kind" : "ice_cream",
+            "name" : "Rajissimo",
+            "pos" : [
+              55.6802934,
+              12.5846075
+            ]
+          },
+          {
+            "kind" : "ice_cream",
+            "name" : "Rajissimo",
+            "pos" : [
+              55.6782018,
+              12.5730465
+            ]
+          },
+          {
             "changingTable" : true,
             "kind" : "toilets",
             "pos" : [
@@ -4155,33 +4156,18 @@
             ]
           },
           {
-            "kind" : "toilets",
-            "name" : "Nyhavn",
-            "pos" : [
-              55.6806529,
-              12.5878585
-            ]
-          },
-          {
-            "kind" : "toilets",
-            "pos" : [
-              55.680465,
-              12.5877162
-            ]
-          },
-          {
-            "kind" : "ice_cream",
-            "name" : "Rajissimo",
-            "pos" : [
-              55.6802934,
-              12.5846075
-            ]
-          },
-          {
             "kind" : "drinking_water",
             "pos" : [
               55.6804467,
               12.5876712
+            ]
+          },
+          {
+            "kind" : "ice_cream",
+            "name" : "The waffle house",
+            "pos" : [
+              55.6785282,
+              12.575836
             ]
           },
           {
@@ -4193,11 +4179,17 @@
             ]
           },
           {
-            "changingTable" : true,
-            "kind" : "toilets",
+            "kind" : "drinking_water",
             "pos" : [
-              55.6799934,
-              12.5754179
+              55.6814345,
+              12.5756764
+            ]
+          },
+          {
+            "kind" : "drinking_water",
+            "pos" : [
+              55.6814858,
+              12.5755481
             ]
           },
           {
@@ -4214,6 +4206,14 @@
             "pos" : [
               55.6787293,
               12.582103
+            ]
+          },
+          {
+            "changingTable" : true,
+            "kind" : "toilets",
+            "pos" : [
+              55.6799934,
+              12.5754179
             ]
           }
         ],
@@ -4395,8 +4395,30 @@
           {
             "kind" : "toilets",
             "pos" : [
+              49.0708438,
+              10.3190275
+            ]
+          },
+          {
+            "kind" : "toilets",
+            "pos" : [
               49.0687095,
               10.3139086
+            ]
+          },
+          {
+            "kind" : "toilets",
+            "pos" : [
+              49.0728445,
+              10.3173669
+            ]
+          },
+          {
+            "kind" : "ice_cream",
+            "name" : "Eiscafe Pra",
+            "pos" : [
+              49.069138,
+              10.3198049
             ]
           },
           {
@@ -4407,11 +4429,10 @@
             ]
           },
           {
-            "kind" : "ice_cream",
-            "name" : "Eiscafe Pra",
+            "kind" : "toilets",
             "pos" : [
-              49.069138,
-              10.3198049
+              49.070782,
+              10.3197277
             ]
           },
           {
@@ -4450,27 +4471,6 @@
             "pos" : [
               49.0692173,
               10.3195942
-            ]
-          },
-          {
-            "kind" : "toilets",
-            "pos" : [
-              49.0708438,
-              10.3190275
-            ]
-          },
-          {
-            "kind" : "toilets",
-            "pos" : [
-              49.0728445,
-              10.3173669
-            ]
-          },
-          {
-            "kind" : "toilets",
-            "pos" : [
-              49.070782,
-              10.3197277
             ]
           },
           {
@@ -4771,13 +4771,6 @@
           {
             "kind" : "toilets",
             "pos" : [
-              53.350255,
-              -6.2608805
-            ]
-          },
-          {
-            "kind" : "toilets",
-            "pos" : [
               53.3498216,
               -6.2516916
             ]
@@ -4785,16 +4778,15 @@
           {
             "kind" : "toilets",
             "pos" : [
-              53.3499132,
-              -6.2520325
+              53.350255,
+              -6.2608805
             ]
           },
           {
-            "kind" : "ice_cream",
-            "name" : "Gino's",
+            "kind" : "toilets",
             "pos" : [
-              53.3496589,
-              -6.2618482
+              53.3499132,
+              -6.2520325
             ]
           },
           {
@@ -4809,6 +4801,14 @@
             "pos" : [
               53.3537731,
               -6.257307
+            ]
+          },
+          {
+            "kind" : "ice_cream",
+            "name" : "Gino's",
+            "pos" : [
+              53.3496589,
+              -6.2618482
             ]
           },
           {
@@ -5095,20 +5095,6 @@
           {
             "kind" : "drinking_water",
             "pos" : [
-              42.6402194,
-              18.1073973
-            ]
-          },
-          {
-            "kind" : "drinking_water",
-            "pos" : [
-              42.6403732,
-              18.107523
-            ]
-          },
-          {
-            "kind" : "drinking_water",
-            "pos" : [
               42.6401277,
               18.1098796
             ]
@@ -5116,91 +5102,15 @@
           {
             "kind" : "toilets",
             "pos" : [
-              42.6393976,
-              18.1118117
-            ]
-          },
-          {
-            "kind" : "ice_cream",
-            "pos" : [
-              42.6399668,
-              18.1115022
-            ]
-          },
-          {
-            "kind" : "ice_cream",
-            "name" : "Pepinos artesanal gelato",
-            "pos" : [
-              42.640678,
-              18.1089653
-            ]
-          },
-          {
-            "kind" : "ice_cream",
-            "name" : "aroma",
-            "pos" : [
-              42.6409818,
-              18.1081727
-            ]
-          },
-          {
-            "kind" : "ice_cream",
-            "name" : "Bocca Piena",
-            "pos" : [
-              42.6404952,
-              18.1095293
-            ]
-          },
-          {
-            "kind" : "drinking_water",
-            "pos" : [
-              42.6418089,
-              18.1057642
-            ]
-          },
-          {
-            "kind" : "drinking_water",
-            "name" : "Velika Onofrijeva česma",
-            "pos" : [
-              42.641552,
-              18.1073022
-            ]
-          },
-          {
-            "kind" : "ice_cream",
-            "name" : "Dubravka",
-            "pos" : [
-              42.6417508,
-              18.1063983
-            ]
-          },
-          {
-            "kind" : "playground",
-            "pos" : [
-              42.6419869,
-              18.1068944
-            ]
-          },
-          {
-            "kind" : "playground",
-            "pos" : [
-              42.6421548,
-              18.1071688
-            ]
-          },
-          {
-            "changingTable" : true,
-            "kind" : "toilets",
-            "pos" : [
-              42.6413919,
-              18.1068962
-            ]
-          },
-          {
-            "kind" : "toilets",
-            "pos" : [
               42.641193,
               18.1109114
+            ]
+          },
+          {
+            "kind" : "toilets",
+            "pos" : [
+              42.6393976,
+              18.1118117
             ]
           },
           {
@@ -5222,8 +5132,30 @@
           {
             "kind" : "drinking_water",
             "pos" : [
+              42.6402194,
+              18.1073973
+            ]
+          },
+          {
+            "kind" : "drinking_water",
+            "pos" : [
               42.6425961,
               18.109063
+            ]
+          },
+          {
+            "kind" : "drinking_water",
+            "pos" : [
+              42.6418089,
+              18.1057642
+            ]
+          },
+          {
+            "kind" : "drinking_water",
+            "name" : "Velika Onofrijeva česma",
+            "pos" : [
+              42.641552,
+              18.1073022
             ]
           },
           {
@@ -5236,8 +5168,23 @@
           {
             "kind" : "drinking_water",
             "pos" : [
+              42.6403732,
+              18.107523
+            ]
+          },
+          {
+            "kind" : "drinking_water",
+            "pos" : [
               42.6410511,
               18.11119
+            ]
+          },
+          {
+            "kind" : "ice_cream",
+            "name" : "Dubravka",
+            "pos" : [
+              42.6417508,
+              18.1063983
             ]
           },
           {
@@ -5246,6 +5193,20 @@
             "pos" : [
               42.6416256,
               18.1088138
+            ]
+          },
+          {
+            "kind" : "playground",
+            "pos" : [
+              42.6419869,
+              18.1068944
+            ]
+          },
+          {
+            "kind" : "ice_cream",
+            "pos" : [
+              42.6399668,
+              18.1115022
             ]
           },
           {
@@ -5258,10 +5219,49 @@
           },
           {
             "kind" : "ice_cream",
+            "name" : "Pepinos artesanal gelato",
+            "pos" : [
+              42.640678,
+              18.1089653
+            ]
+          },
+          {
+            "kind" : "playground",
+            "pos" : [
+              42.6421548,
+              18.1071688
+            ]
+          },
+          {
+            "kind" : "ice_cream",
             "name" : "Poklisar",
             "pos" : [
               42.6410387,
               18.1109217
+            ]
+          },
+          {
+            "kind" : "ice_cream",
+            "name" : "aroma",
+            "pos" : [
+              42.6409818,
+              18.1081727
+            ]
+          },
+          {
+            "changingTable" : true,
+            "kind" : "toilets",
+            "pos" : [
+              42.6413919,
+              18.1068962
+            ]
+          },
+          {
+            "kind" : "ice_cream",
+            "name" : "Bocca Piena",
+            "pos" : [
+              42.6404952,
+              18.1095293
             ]
           },
           {
@@ -5607,6 +5607,14 @@
             ]
           },
           {
+            "kind" : "ice_cream",
+            "name" : "Scott's In The Park",
+            "pos" : [
+              55.9520649,
+              -3.1950534
+            ]
+          },
+          {
             "kind" : "toilets",
             "pos" : [
               55.9511039,
@@ -5616,8 +5624,30 @@
           {
             "kind" : "toilets",
             "pos" : [
+              55.9518656,
+              -3.196336
+            ]
+          },
+          {
+            "kind" : "toilets",
+            "pos" : [
+              55.9525646,
+              -3.1904581
+            ]
+          },
+          {
+            "kind" : "toilets",
+            "pos" : [
               55.9488358,
               -3.1950724
+            ]
+          },
+          {
+            "kind" : "drinking_water",
+            "name" : "Top Up Tap",
+            "pos" : [
+              55.9499333,
+              -3.1898788
             ]
           },
           {
@@ -5637,48 +5667,18 @@
           },
           {
             "kind" : "ice_cream",
-            "name" : "Gladstone's Land",
-            "pos" : [
-              55.949417,
-              -3.1936874
-            ]
-          },
-          {
-            "kind" : "drinking_water",
-            "name" : "Top Up Tap",
-            "pos" : [
-              55.9499333,
-              -3.1898788
-            ]
-          },
-          {
-            "kind" : "ice_cream",
-            "name" : "Scott's In The Park",
-            "pos" : [
-              55.9520649,
-              -3.1950534
-            ]
-          },
-          {
-            "kind" : "toilets",
-            "pos" : [
-              55.9518656,
-              -3.196336
-            ]
-          },
-          {
-            "kind" : "toilets",
-            "pos" : [
-              55.9525646,
-              -3.1904581
-            ]
-          },
-          {
-            "kind" : "ice_cream",
             "name" : "The Cheery Churro",
             "pos" : [
               55.9525862,
               -3.1907529
+            ]
+          },
+          {
+            "kind" : "ice_cream",
+            "name" : "Gladstone's Land",
+            "pos" : [
+              55.949417,
+              -3.1936874
             ]
           },
           {
@@ -5965,61 +5965,6 @@
         "places" : [
           {
             "kind" : "ice_cream",
-            "name" : "Edoardo",
-            "pos" : [
-              43.7672295,
-              11.2524938
-            ]
-          },
-          {
-            "kind" : "drinking_water",
-            "pos" : [
-              43.7655623,
-              11.2574492
-            ]
-          },
-          {
-            "kind" : "ice_cream",
-            "name" : "Cantina del Gelato",
-            "pos" : [
-              43.7666568,
-              11.2546988
-            ]
-          },
-          {
-            "kind" : "ice_cream",
-            "name" : "Gelateria Artigianale La Strega Nocciola",
-            "pos" : [
-              43.7671719,
-              11.2533748
-            ]
-          },
-          {
-            "kind" : "ice_cream",
-            "name" : "Gelateria dei neri",
-            "pos" : [
-              43.7677782,
-              11.2590598
-            ]
-          },
-          {
-            "kind" : "ice_cream",
-            "name" : "Gelateria Morè",
-            "pos" : [
-              43.7681368,
-              11.2544501
-            ]
-          },
-          {
-            "kind" : "ice_cream",
-            "name" : "Cantina del Gelato Il Gelato Artigianale",
-            "pos" : [
-              43.7666197,
-              11.2547529
-            ]
-          },
-          {
-            "kind" : "ice_cream",
             "name" : "Gelateria Vivaldi",
             "pos" : [
               43.7649276,
@@ -6027,34 +5972,17 @@
             ]
           },
           {
-            "kind" : "ice_cream",
-            "name" : "Gelateria La Carraia in Santa Croce",
+            "kind" : "drinking_water",
             "pos" : [
-              43.7682255,
-              11.2599644
-            ]
-          },
-          {
-            "kind" : "ice_cream",
-            "name" : "Gelatissimi",
-            "pos" : [
-              43.7680853,
-              11.2648228
+              43.7689794,
+              11.2606644
             ]
           },
           {
             "kind" : "drinking_water",
             "pos" : [
-              43.7675373,
-              11.2634653
-            ]
-          },
-          {
-            "kind" : "ice_cream",
-            "name" : "Ice & Bakery Gelateria Artigianale",
-            "pos" : [
-              43.7675097,
-              11.2611923
+              43.7655623,
+              11.2574492
             ]
           },
           {
@@ -6073,6 +6001,45 @@
             ]
           },
           {
+            "kind" : "ice_cream",
+            "name" : "Gelateria La Carraia in Santa Croce",
+            "pos" : [
+              43.7682255,
+              11.2599644
+            ]
+          },
+          {
+            "kind" : "ice_cream",
+            "name" : "Cantina del Gelato",
+            "pos" : [
+              43.7666568,
+              11.2546988
+            ]
+          },
+          {
+            "kind" : "ice_cream",
+            "name" : "Gelatissimi",
+            "pos" : [
+              43.7680853,
+              11.2648228
+            ]
+          },
+          {
+            "kind" : "ice_cream",
+            "name" : "Gelateria Artigianale La Strega Nocciola",
+            "pos" : [
+              43.7671719,
+              11.2533748
+            ]
+          },
+          {
+            "kind" : "toilets",
+            "pos" : [
+              43.7682398,
+              11.2614052
+            ]
+          },
+          {
             "changingTable" : true,
             "kind" : "toilets",
             "pos" : [
@@ -6088,10 +6055,33 @@
             ]
           },
           {
+            "kind" : "ice_cream",
+            "name" : "Gelateria dei neri",
+            "pos" : [
+              43.7677782,
+              11.2590598
+            ]
+          },
+          {
+            "kind" : "drinking_water",
+            "pos" : [
+              43.7675373,
+              11.2634653
+            ]
+          },
+          {
             "kind" : "drinking_water",
             "pos" : [
               43.7699101,
               11.2540857
+            ]
+          },
+          {
+            "kind" : "ice_cream",
+            "name" : "Ice & Bakery Gelateria Artigianale",
+            "pos" : [
+              43.7675097,
+              11.2611923
             ]
           },
           {
@@ -6118,10 +6108,25 @@
           },
           {
             "kind" : "ice_cream",
+            "name" : "Vivoli Gelato",
+            "pos" : [
+              43.769939,
+              11.2601058
+            ]
+          },
+          {
+            "kind" : "ice_cream",
             "name" : "Il Toscanaccio",
             "pos" : [
               43.7702068,
               11.257534
+            ]
+          },
+          {
+            "kind" : "toilets",
+            "pos" : [
+              43.7684032,
+              11.2621914
             ]
           },
           {
@@ -6141,11 +6146,26 @@
             ]
           },
           {
+            "kind" : "playground",
+            "pos" : [
+              43.7690952,
+              11.2643322
+            ]
+          },
+          {
             "kind" : "ice_cream",
             "name" : "Gelateria",
             "pos" : [
               43.7693511,
               11.2540409
+            ]
+          },
+          {
+            "kind" : "ice_cream",
+            "name" : "Gelateria Royale",
+            "pos" : [
+              43.7688893,
+              11.2627647
             ]
           },
           {
@@ -6171,50 +6191,6 @@
             ]
           },
           {
-            "kind" : "drinking_water",
-            "pos" : [
-              43.7689794,
-              11.2606644
-            ]
-          },
-          {
-            "kind" : "toilets",
-            "pos" : [
-              43.7682398,
-              11.2614052
-            ]
-          },
-          {
-            "kind" : "ice_cream",
-            "name" : "Vivoli Gelato",
-            "pos" : [
-              43.769939,
-              11.2601058
-            ]
-          },
-          {
-            "kind" : "toilets",
-            "pos" : [
-              43.7684032,
-              11.2621914
-            ]
-          },
-          {
-            "kind" : "playground",
-            "pos" : [
-              43.7690952,
-              11.2643322
-            ]
-          },
-          {
-            "kind" : "ice_cream",
-            "name" : "Gelateria Royale",
-            "pos" : [
-              43.7688893,
-              11.2627647
-            ]
-          },
-          {
             "kind" : "ice_cream",
             "name" : "Gelateria Aurea",
             "pos" : [
@@ -6224,10 +6200,34 @@
           },
           {
             "kind" : "ice_cream",
+            "name" : "Edoardo",
+            "pos" : [
+              43.7672295,
+              11.2524938
+            ]
+          },
+          {
+            "kind" : "ice_cream",
+            "name" : "Gelateria Morè",
+            "pos" : [
+              43.7681368,
+              11.2544501
+            ]
+          },
+          {
+            "kind" : "ice_cream",
             "name" : "Vivoli Affogato Bar",
             "pos" : [
               43.7700297,
               11.2602037
+            ]
+          },
+          {
+            "kind" : "ice_cream",
+            "name" : "Cantina del Gelato Il Gelato Artigianale",
+            "pos" : [
+              43.7666197,
+              11.2547529
             ]
           }
         ],
@@ -6576,23 +6576,6 @@
       "familyWalk" : {
         "places" : [
           {
-            "kind" : "ice_cream",
-            "name" : "Australian",
-            "pos" : [
-              51.0530815,
-              3.7223323
-            ]
-          },
-          {
-            "changingTable" : true,
-            "kind" : "toilets",
-            "name" : "Openbaar sanitair Sint Michielsbrug",
-            "pos" : [
-              51.0539191,
-              3.7211249
-            ]
-          },
-          {
             "changingTable" : true,
             "kind" : "toilets",
             "name" : "Publiek Sanitair E. Braunplein",
@@ -6603,10 +6586,27 @@
           },
           {
             "kind" : "ice_cream",
+            "name" : "Australian",
+            "pos" : [
+              51.0530815,
+              3.7223323
+            ]
+          },
+          {
+            "kind" : "ice_cream",
             "name" : "Moochie Frozen Yoghurts",
             "pos" : [
               51.0543022,
               3.7227985
+            ]
+          },
+          {
+            "changingTable" : true,
+            "kind" : "toilets",
+            "name" : "Openbaar sanitair Sint Michielsbrug",
+            "pos" : [
+              51.0539191,
+              3.7211249
             ]
           },
           {
@@ -6810,8 +6810,30 @@
           {
             "kind" : "drinking_water",
             "pos" : [
+              41.9887536,
+              2.8243761
+            ]
+          },
+          {
+            "kind" : "drinking_water",
+            "pos" : [
               41.9816107,
               2.8237458
+            ]
+          },
+          {
+            "kind" : "drinking_water",
+            "pos" : [
+              41.9867564,
+              2.8245433
+            ]
+          },
+          {
+            "kind" : "drinking_water",
+            "name" : "Font del Carrer de les Ballesteries",
+            "pos" : [
+              41.9858378,
+              2.8249338
             ]
           },
           {
@@ -6832,10 +6854,26 @@
           },
           {
             "kind" : "ice_cream",
+            "name" : "La lletera",
+            "pos" : [
+              41.9882225,
+              2.8242084
+            ]
+          },
+          {
+            "kind" : "ice_cream",
             "name" : "Rocambolesc",
             "pos" : [
               41.9847922,
               2.8235311
+            ]
+          },
+          {
+            "kind" : "drinking_water",
+            "name" : "Mare de Déu de la Pera",
+            "pos" : [
+              41.9868837,
+              2.8258267
             ]
           },
           {
@@ -6855,6 +6893,58 @@
             ]
           },
           {
+            "kind" : "toilets",
+            "pos" : [
+              41.9878006,
+              2.8225832
+            ]
+          },
+          {
+            "kind" : "drinking_water",
+            "name" : "Font del pou de la Cadena",
+            "pos" : [
+              41.9849994,
+              2.8246669
+            ]
+          },
+          {
+            "kind" : "ice_cream",
+            "name" : "Madonna",
+            "pos" : [
+              41.9852976,
+              2.8250384
+            ]
+          },
+          {
+            "kind" : "ice_cream",
+            "name" : "D'aqui Girona",
+            "pos" : [
+              41.9862691,
+              2.8246811
+            ]
+          },
+          {
+            "kind" : "drinking_water",
+            "pos" : [
+              41.9860091,
+              2.8234087
+            ]
+          },
+          {
+            "kind" : "toilets",
+            "pos" : [
+              41.9860732,
+              2.8234921
+            ]
+          },
+          {
+            "kind" : "toilets",
+            "pos" : [
+              41.9860672,
+              2.8234664
+            ]
+          },
+          {
             "kind" : "ice_cream",
             "name" : "Gelati Dino",
             "pos" : [
@@ -6867,6 +6957,20 @@
             "pos" : [
               41.9815572,
               2.8228986
+            ]
+          },
+          {
+            "kind" : "toilets",
+            "pos" : [
+              41.988414,
+              2.8260779
+            ]
+          },
+          {
+            "kind" : "drinking_water",
+            "pos" : [
+              41.9845908,
+              2.8258156
             ]
           },
           {
@@ -6911,113 +7015,9 @@
           },
           {
             "kind" : "drinking_water",
-            "name" : "Font del pou de la Cadena",
-            "pos" : [
-              41.9849994,
-              2.8246669
-            ]
-          },
-          {
-            "kind" : "ice_cream",
-            "name" : "Madonna",
-            "pos" : [
-              41.9852976,
-              2.8250384
-            ]
-          },
-          {
-            "kind" : "drinking_water",
-            "pos" : [
-              41.9845908,
-              2.8258156
-            ]
-          },
-          {
-            "kind" : "drinking_water",
-            "pos" : [
-              41.9887536,
-              2.8243761
-            ]
-          },
-          {
-            "kind" : "drinking_water",
-            "pos" : [
-              41.9867564,
-              2.8245433
-            ]
-          },
-          {
-            "kind" : "ice_cream",
-            "name" : "La lletera",
-            "pos" : [
-              41.9882225,
-              2.8242084
-            ]
-          },
-          {
-            "kind" : "toilets",
-            "pos" : [
-              41.9878006,
-              2.8225832
-            ]
-          },
-          {
-            "kind" : "drinking_water",
-            "pos" : [
-              41.9860091,
-              2.8234087
-            ]
-          },
-          {
-            "kind" : "toilets",
-            "pos" : [
-              41.9860732,
-              2.8234921
-            ]
-          },
-          {
-            "kind" : "toilets",
-            "pos" : [
-              41.9860672,
-              2.8234664
-            ]
-          },
-          {
-            "kind" : "drinking_water",
             "pos" : [
               41.9872532,
               2.8243747
-            ]
-          },
-          {
-            "kind" : "drinking_water",
-            "name" : "Font del Carrer de les Ballesteries",
-            "pos" : [
-              41.9858378,
-              2.8249338
-            ]
-          },
-          {
-            "kind" : "drinking_water",
-            "name" : "Mare de Déu de la Pera",
-            "pos" : [
-              41.9868837,
-              2.8258267
-            ]
-          },
-          {
-            "kind" : "ice_cream",
-            "name" : "D'aqui Girona",
-            "pos" : [
-              41.9862691,
-              2.8246811
-            ]
-          },
-          {
-            "kind" : "toilets",
-            "pos" : [
-              41.988414,
-              2.8260779
             ]
           },
           {
@@ -7025,6 +7025,13 @@
             "pos" : [
               41.9815045,
               2.8234028
+            ]
+          },
+          {
+            "kind" : "playground",
+            "pos" : [
+              41.9887832,
+              2.8249816
             ]
           },
           {
@@ -7039,13 +7046,6 @@
             "pos" : [
               41.9831894,
               2.8218544
-            ]
-          },
-          {
-            "kind" : "playground",
-            "pos" : [
-              41.9887832,
-              2.8249816
             ]
           }
         ],
@@ -7289,6 +7289,22 @@
       "familyWalk" : {
         "places" : [
           {
+            "kind" : "ice_cream",
+            "name" : "Lieblings",
+            "pos" : [
+              53.5494464,
+              10.0027453
+            ]
+          },
+          {
+            "kind" : "ice_cream",
+            "name" : "Alissa Eis",
+            "pos" : [
+              53.550193,
+              10.001963
+            ]
+          },
+          {
             "kind" : "playground",
             "pos" : [
               53.5471691,
@@ -7309,22 +7325,6 @@
             "pos" : [
               53.5500105,
               9.9977639
-            ]
-          },
-          {
-            "kind" : "ice_cream",
-            "name" : "Lieblings",
-            "pos" : [
-              53.5494464,
-              10.0027453
-            ]
-          },
-          {
-            "kind" : "ice_cream",
-            "name" : "Alissa Eis",
-            "pos" : [
-              53.550193,
-              10.001963
             ]
           },
           {
@@ -7353,7 +7353,7 @@
         "en" : "Hamburg"
       },
       "name" : "Hamburg",
-      "packVersion" : 9,
+      "packVersion" : 10,
       "stats" : {
         "estHours" : 6.8,
         "nodeCount" : 1250,
@@ -7519,27 +7519,6 @@
       "familyWalk" : {
         "places" : [
           {
-            "kind" : "toilets",
-            "pos" : [
-              49.410474,
-              8.7059723
-            ]
-          },
-          {
-            "kind" : "toilets",
-            "pos" : [
-              49.4097083,
-              8.7058015
-            ]
-          },
-          {
-            "kind" : "toilets",
-            "pos" : [
-              49.4101954,
-              8.7082043
-            ]
-          },
-          {
             "kind" : "ice_cream",
             "name" : "Eisdiele Roma",
             "pos" : [
@@ -7553,6 +7532,13 @@
             "pos" : [
               49.4117769,
               8.7069117
+            ]
+          },
+          {
+            "kind" : "toilets",
+            "pos" : [
+              49.410474,
+              8.7059723
             ]
           },
           {
@@ -7580,6 +7566,13 @@
           {
             "kind" : "toilets",
             "pos" : [
+              49.4097083,
+              8.7058015
+            ]
+          },
+          {
+            "kind" : "toilets",
+            "pos" : [
               49.4112677,
               8.7117884
             ]
@@ -7587,24 +7580,15 @@
           {
             "kind" : "toilets",
             "pos" : [
+              49.4101954,
+              8.7082043
+            ]
+          },
+          {
+            "kind" : "toilets",
+            "pos" : [
               49.4123568,
               8.7130008
-            ]
-          },
-          {
-            "kind" : "playground",
-            "name" : "Schulhof Theodor-Heuss-Schule",
-            "pos" : [
-              49.4098253,
-              8.7049364
-            ]
-          },
-          {
-            "kind" : "playground",
-            "name" : "Theaterstraße",
-            "pos" : [
-              49.4100291,
-              8.7037857
             ]
           },
           {
@@ -7621,6 +7605,22 @@
             "pos" : [
               49.4096357,
               8.7101488
+            ]
+          },
+          {
+            "kind" : "playground",
+            "name" : "Schulhof Theodor-Heuss-Schule",
+            "pos" : [
+              49.4098253,
+              8.7049364
+            ]
+          },
+          {
+            "kind" : "playground",
+            "name" : "Theaterstraße",
+            "pos" : [
+              49.4100291,
+              8.7037857
             ]
           },
           {
@@ -7802,20 +7802,6 @@
       "familyWalk" : {
         "places" : [
           {
-            "kind" : "ice_cream",
-            "pos" : [
-              50.0538341,
-              19.9359799
-            ]
-          },
-          {
-            "kind" : "drinking_water",
-            "pos" : [
-              50.0538856,
-              19.9343606
-            ]
-          },
-          {
             "kind" : "toilets",
             "pos" : [
               50.0540318,
@@ -7838,6 +7824,28 @@
             ]
           },
           {
+            "changingTable" : true,
+            "kind" : "toilets",
+            "pos" : [
+              50.0621865,
+              19.9375179
+            ]
+          },
+          {
+            "kind" : "drinking_water",
+            "pos" : [
+              50.0613186,
+              19.93673
+            ]
+          },
+          {
+            "kind" : "ice_cream",
+            "pos" : [
+              50.0538341,
+              19.9359799
+            ]
+          },
+          {
             "kind" : "ice_cream",
             "name" : "Muultum",
             "pos" : [
@@ -7850,6 +7858,14 @@
             "pos" : [
               50.0538805,
               19.9360741
+            ]
+          },
+          {
+            "kind" : "ice_cream",
+            "name" : "Ice Cream",
+            "pos" : [
+              50.0598204,
+              19.9378386
             ]
           },
           {
@@ -7869,26 +7885,10 @@
             ]
           },
           {
-            "changingTable" : true,
-            "kind" : "toilets",
-            "pos" : [
-              50.0621865,
-              19.9375179
-            ]
-          },
-          {
             "kind" : "drinking_water",
             "pos" : [
-              50.0613186,
-              19.93673
-            ]
-          },
-          {
-            "kind" : "ice_cream",
-            "name" : "Ice Cream",
-            "pos" : [
-              50.0598204,
-              19.9378386
+              50.0538856,
+              19.9343606
             ]
           },
           {
@@ -8121,21 +8121,6 @@
         "places" : [
           {
             "kind" : "ice_cream",
-            "name" : "Eiscafé Dolomiti",
-            "pos" : [
-              48.5343008,
-              12.1503521
-            ]
-          },
-          {
-            "kind" : "drinking_water",
-            "pos" : [
-              48.5355518,
-              12.1489488
-            ]
-          },
-          {
-            "kind" : "ice_cream",
             "name" : "Eiscafe Riviera",
             "pos" : [
               48.537686,
@@ -8148,6 +8133,14 @@
             "pos" : [
               48.535911,
               12.1511324
+            ]
+          },
+          {
+            "kind" : "ice_cream",
+            "name" : "Eiscafé Dolomiti",
+            "pos" : [
+              48.5343008,
+              12.1503521
             ]
           },
           {
@@ -8178,6 +8171,13 @@
             "pos" : [
               48.5350254,
               12.1506744
+            ]
+          },
+          {
+            "kind" : "drinking_water",
+            "pos" : [
+              48.5355518,
+              12.1489488
             ]
           },
           {
@@ -8468,10 +8468,11 @@
       "familyWalk" : {
         "places" : [
           {
+            "changingTable" : true,
             "kind" : "toilets",
             "pos" : [
-              50.8778638,
-              4.700525
+              50.8791248,
+              4.7025282
             ]
           },
           {
@@ -8479,6 +8480,30 @@
             "pos" : [
               50.8805285,
               4.6986178
+            ]
+          },
+          {
+            "kind" : "ice_cream",
+            "name" : "moochi",
+            "pos" : [
+              50.880204,
+              4.7001633
+            ]
+          },
+          {
+            "kind" : "ice_cream",
+            "name" : "Pinocchio",
+            "pos" : [
+              50.8796088,
+              4.7019086
+            ]
+          },
+          {
+            "kind" : "ice_cream",
+            "name" : "Pinguino",
+            "pos" : [
+              50.87896,
+              4.700107
             ]
           },
           {
@@ -8526,6 +8551,13 @@
           {
             "kind" : "toilets",
             "pos" : [
+              50.8778638,
+              4.700525
+            ]
+          },
+          {
+            "kind" : "toilets",
+            "pos" : [
               50.8800649,
               4.6933567
             ]
@@ -8549,38 +8581,6 @@
             "pos" : [
               50.8815676,
               4.6981905
-            ]
-          },
-          {
-            "changingTable" : true,
-            "kind" : "toilets",
-            "pos" : [
-              50.8791248,
-              4.7025282
-            ]
-          },
-          {
-            "kind" : "ice_cream",
-            "name" : "moochi",
-            "pos" : [
-              50.880204,
-              4.7001633
-            ]
-          },
-          {
-            "kind" : "ice_cream",
-            "name" : "Pinocchio",
-            "pos" : [
-              50.8796088,
-              4.7019086
-            ]
-          },
-          {
-            "kind" : "ice_cream",
-            "name" : "Pinguino",
-            "pos" : [
-              50.87896,
-              4.700107
             ]
           },
           {
@@ -8870,26 +8870,11 @@
       "familyWalk" : {
         "places" : [
           {
-            "kind" : "drinking_water",
-            "pos" : [
-              38.708508,
-              -9.1369294
-            ]
-          },
-          {
             "kind" : "ice_cream",
             "name" : "Nosolo Italia",
             "pos" : [
               38.7079633,
               -9.1354229
-            ]
-          },
-          {
-            "kind" : "toilets",
-            "name" : "Renova",
-            "pos" : [
-              38.7075755,
-              -9.1352232
             ]
           },
           {
@@ -8902,54 +8887,10 @@
           },
           {
             "kind" : "toilets",
-            "name" : "WC Público Automatizado",
+            "name" : "Renova",
             "pos" : [
-              38.7145257,
-              -9.1392385
-            ]
-          },
-          {
-            "kind" : "ice_cream",
-            "name" : "Il Gelatone",
-            "pos" : [
-              38.710967,
-              -9.1374595
-            ]
-          },
-          {
-            "kind" : "ice_cream",
-            "pos" : [
-              38.7149952,
-              -9.1375901
-            ]
-          },
-          {
-            "kind" : "drinking_water",
-            "pos" : [
-              38.7133384,
-              -9.1386766
-            ]
-          },
-          {
-            "kind" : "ice_cream",
-            "name" : "Gelateria La Romana",
-            "pos" : [
-              38.7104583,
-              -9.1370559
-            ]
-          },
-          {
-            "kind" : "drinking_water",
-            "pos" : [
-              38.7148015,
-              -9.1403441
-            ]
-          },
-          {
-            "kind" : "toilets",
-            "pos" : [
-              38.7107997,
-              -9.1392385
+              38.7075755,
+              -9.1352232
             ]
           },
           {
@@ -8983,6 +8924,29 @@
             ]
           },
           {
+            "kind" : "toilets",
+            "name" : "WC Público Automatizado",
+            "pos" : [
+              38.7145257,
+              -9.1392385
+            ]
+          },
+          {
+            "kind" : "ice_cream",
+            "name" : "Il Gelatone",
+            "pos" : [
+              38.710967,
+              -9.1374595
+            ]
+          },
+          {
+            "kind" : "ice_cream",
+            "pos" : [
+              38.7149952,
+              -9.1375901
+            ]
+          },
+          {
             "kind" : "ice_cream",
             "name" : "Gelato Therapy - La Fabrica Della Felicitá",
             "pos" : [
@@ -9002,6 +8966,13 @@
             "pos" : [
               38.709884,
               -9.1340553
+            ]
+          },
+          {
+            "kind" : "drinking_water",
+            "pos" : [
+              38.708508,
+              -9.1369294
             ]
           },
           {
@@ -9028,6 +8999,13 @@
             ]
           },
           {
+            "kind" : "drinking_water",
+            "pos" : [
+              38.7133384,
+              -9.1386766
+            ]
+          },
+          {
             "kind" : "toilets",
             "pos" : [
               38.7099463,
@@ -9035,10 +9013,25 @@
             ]
           },
           {
+            "kind" : "ice_cream",
+            "name" : "Gelateria La Romana",
+            "pos" : [
+              38.7104583,
+              -9.1370559
+            ]
+          },
+          {
             "kind" : "toilets",
             "pos" : [
               38.7121641,
               -9.1348503
+            ]
+          },
+          {
+            "kind" : "drinking_water",
+            "pos" : [
+              38.7148015,
+              -9.1403441
             ]
           },
           {
@@ -9054,6 +9047,13 @@
             "pos" : [
               38.7109134,
               -9.1350909
+            ]
+          },
+          {
+            "kind" : "toilets",
+            "pos" : [
+              38.7107997,
+              -9.1392385
             ]
           },
           {
@@ -9311,94 +9311,6 @@
       "familyWalk" : {
         "places" : [
           {
-            "kind" : "drinking_water",
-            "name" : "Pitnik Gorji trg 2",
-            "pos" : [
-              46.0466831,
-              14.5068595
-            ]
-          },
-          {
-            "changingTable" : true,
-            "kind" : "toilets",
-            "pos" : [
-              46.0475349,
-              14.5055503
-            ]
-          },
-          {
-            "kind" : "drinking_water",
-            "name" : "Pitnik Stari trg ob lokalu Romeo",
-            "pos" : [
-              46.0479647,
-              14.5061349
-            ]
-          },
-          {
-            "kind" : "drinking_water",
-            "name" : "Fontana Gornji trg",
-            "pos" : [
-              46.0461156,
-              14.508653
-            ]
-          },
-          {
-            "kind" : "ice_cream",
-            "name" : "Lučkarnica",
-            "pos" : [
-              46.0466044,
-              14.5051227
-            ]
-          },
-          {
-            "kind" : "ice_cream",
-            "name" : "Softerija na Bregu",
-            "pos" : [
-              46.0467061,
-              14.5051572
-            ]
-          },
-          {
-            "kind" : "ice_cream",
-            "name" : "Slaščičarna pri vodnjaku",
-            "pos" : [
-              46.0469684,
-              14.5064469
-            ]
-          },
-          {
-            "kind" : "ice_cream",
-            "name" : "Gelateria Romantika",
-            "pos" : [
-              46.0473678,
-              14.5064064
-            ]
-          },
-          {
-            "changingTable" : true,
-            "kind" : "toilets",
-            "pos" : [
-              46.0488064,
-              14.5081242
-            ]
-          },
-          {
-            "kind" : "ice_cream",
-            "name" : "DIMATTEO Gelateria",
-            "pos" : [
-              46.0484663,
-              14.5062513
-            ]
-          },
-          {
-            "kind" : "ice_cream",
-            "name" : "Gelateria Romantika",
-            "pos" : [
-              46.0474686,
-              14.5063962
-            ]
-          },
-          {
             "kind" : "toilets",
             "pos" : [
               46.051098,
@@ -9418,6 +9330,14 @@
             "pos" : [
               46.0502081,
               14.506856
+            ]
+          },
+          {
+            "kind" : "drinking_water",
+            "name" : "Pitnik Gorji trg 2",
+            "pos" : [
+              46.0466831,
+              14.5068595
             ]
           },
           {
@@ -9467,11 +9387,59 @@
             ]
           },
           {
+            "changingTable" : true,
+            "kind" : "toilets",
+            "pos" : [
+              46.0475349,
+              14.5055503
+            ]
+          },
+          {
+            "kind" : "drinking_water",
+            "name" : "Pitnik Stari trg ob lokalu Romeo",
+            "pos" : [
+              46.0479647,
+              14.5061349
+            ]
+          },
+          {
             "kind" : "ice_cream",
             "name" : "Vigò",
             "pos" : [
               46.050493,
               14.5068672
+            ]
+          },
+          {
+            "kind" : "drinking_water",
+            "name" : "Fontana Gornji trg",
+            "pos" : [
+              46.0461156,
+              14.508653
+            ]
+          },
+          {
+            "kind" : "ice_cream",
+            "name" : "Lučkarnica",
+            "pos" : [
+              46.0466044,
+              14.5051227
+            ]
+          },
+          {
+            "kind" : "ice_cream",
+            "name" : "Softerija na Bregu",
+            "pos" : [
+              46.0467061,
+              14.5051572
+            ]
+          },
+          {
+            "kind" : "ice_cream",
+            "name" : "Slaščičarna pri vodnjaku",
+            "pos" : [
+              46.0469684,
+              14.5064469
             ]
           },
           {
@@ -9488,6 +9456,14 @@
             "pos" : [
               46.0543665,
               14.5061577
+            ]
+          },
+          {
+            "kind" : "ice_cream",
+            "name" : "Gelateria Romantika",
+            "pos" : [
+              46.0473678,
+              14.5064064
             ]
           },
           {
@@ -9515,11 +9491,35 @@
             ]
           },
           {
+            "changingTable" : true,
+            "kind" : "toilets",
+            "pos" : [
+              46.0488064,
+              14.5081242
+            ]
+          },
+          {
             "kind" : "drinking_water",
             "name" : "Pitnik Hribarjevo nabrežje",
             "pos" : [
               46.0510319,
               14.5057861
+            ]
+          },
+          {
+            "kind" : "ice_cream",
+            "name" : "DIMATTEO Gelateria",
+            "pos" : [
+              46.0484663,
+              14.5062513
+            ]
+          },
+          {
+            "kind" : "ice_cream",
+            "name" : "Gelateria Romantika",
+            "pos" : [
+              46.0474686,
+              14.5063962
             ]
           },
           {
@@ -9539,15 +9539,15 @@
           {
             "kind" : "playground",
             "pos" : [
-              46.0473688,
-              14.5082101
+              46.0524884,
+              14.5082036
             ]
           },
           {
             "kind" : "playground",
             "pos" : [
-              46.0524884,
-              14.5082036
+              46.0473688,
+              14.5082101
             ]
           }
         ],
@@ -9707,6 +9707,28 @@
       "familyWalk" : {
         "places" : [
           {
+            "kind" : "drinking_water",
+            "pos" : [
+              43.8451951,
+              10.5058849
+            ]
+          },
+          {
+            "kind" : "ice_cream",
+            "pos" : [
+              43.8452712,
+              10.5056736
+            ]
+          },
+          {
+            "kind" : "ice_cream",
+            "name" : "Gelateria Veneta",
+            "pos" : [
+              43.8458267,
+              10.5059829
+            ]
+          },
+          {
             "kind" : "ice_cream",
             "name" : "Gelatarium",
             "pos" : [
@@ -9730,10 +9752,41 @@
             ]
           },
           {
+            "kind" : "drinking_water",
+            "pos" : [
+              43.8412897,
+              10.5055472
+            ]
+          },
+          {
+            "kind" : "ice_cream",
+            "name" : "Gelateria Anfiteatro",
+            "pos" : [
+              43.8455633,
+              10.5063388
+            ]
+          },
+          {
+            "kind" : "ice_cream",
+            "name" : "Momo Gelati",
+            "pos" : [
+              43.8451266,
+              10.5087394
+            ]
+          },
+          {
             "kind" : "toilets",
             "pos" : [
               43.8405487,
               10.5054131
+            ]
+          },
+          {
+            "kind" : "ice_cream",
+            "name" : "La Crema Matta",
+            "pos" : [
+              43.8462832,
+              10.5069221
             ]
           },
           {
@@ -9764,59 +9817,6 @@
             "pos" : [
               43.8415629,
               10.5015596
-            ]
-          },
-          {
-            "kind" : "drinking_water",
-            "pos" : [
-              43.8451951,
-              10.5058849
-            ]
-          },
-          {
-            "kind" : "ice_cream",
-            "pos" : [
-              43.8452712,
-              10.5056736
-            ]
-          },
-          {
-            "kind" : "ice_cream",
-            "name" : "Gelateria Veneta",
-            "pos" : [
-              43.8458267,
-              10.5059829
-            ]
-          },
-          {
-            "kind" : "drinking_water",
-            "pos" : [
-              43.8412897,
-              10.5055472
-            ]
-          },
-          {
-            "kind" : "ice_cream",
-            "name" : "Gelateria Anfiteatro",
-            "pos" : [
-              43.8455633,
-              10.5063388
-            ]
-          },
-          {
-            "kind" : "ice_cream",
-            "name" : "Momo Gelati",
-            "pos" : [
-              43.8451266,
-              10.5087394
-            ]
-          },
-          {
-            "kind" : "ice_cream",
-            "name" : "La Crema Matta",
-            "pos" : [
-              43.8462832,
-              10.5069221
             ]
           }
         ],
@@ -10108,6 +10108,50 @@
             ]
           },
           {
+            "kind" : "toilets",
+            "name" : "Sanitaire Public du Quai Saint-Antoine",
+            "pos" : [
+              45.7620722,
+              4.831406
+            ]
+          },
+          {
+            "kind" : "drinking_water",
+            "pos" : [
+              45.762094,
+              4.8314103
+            ]
+          },
+          {
+            "kind" : "toilets",
+            "name" : "Sanitaire Public de la Place Gabriel Rambaud",
+            "pos" : [
+              45.7680133,
+              4.8295891
+            ]
+          },
+          {
+            "kind" : "drinking_water",
+            "pos" : [
+              45.7648831,
+              4.8341673
+            ]
+          },
+          {
+            "kind" : "drinking_water",
+            "pos" : [
+              45.7665912,
+              4.8323858
+            ]
+          },
+          {
+            "kind" : "drinking_water",
+            "pos" : [
+              45.7680105,
+              4.8317525
+            ]
+          },
+          {
             "kind" : "drinking_water",
             "pos" : [
               45.7670693,
@@ -10131,10 +10175,26 @@
             ]
           },
           {
+            "kind" : "toilets",
+            "name" : "Sanitaire Public du Quai de la Pêcherie",
+            "pos" : [
+              45.7651786,
+              4.8314164
+            ]
+          },
+          {
             "kind" : "drinking_water",
             "pos" : [
               45.7623811,
               4.8282746
+            ]
+          },
+          {
+            "kind" : "ice_cream",
+            "name" : "Régal Glace",
+            "pos" : [
+              45.7626721,
+              4.8328104
             ]
           },
           {
@@ -10151,6 +10211,22 @@
             "pos" : [
               45.7633725,
               4.8281155
+            ]
+          },
+          {
+            "kind" : "ice_cream",
+            "name" : "Fresco",
+            "pos" : [
+              45.762212,
+              4.8320489
+            ]
+          },
+          {
+            "kind" : "ice_cream",
+            "name" : "Glacier Mirage",
+            "pos" : [
+              45.7678115,
+              4.8335808
             ]
           },
           {
@@ -10184,6 +10260,14 @@
             ]
           },
           {
+            "kind" : "ice_cream",
+            "name" : "Unico",
+            "pos" : [
+              45.7672497,
+              4.8307824
+            ]
+          },
+          {
             "kind" : "drinking_water",
             "pos" : [
               45.7643349,
@@ -10199,85 +10283,17 @@
           },
           {
             "kind" : "toilets",
-            "pos" : [
-              45.763333,
-              4.8291608
-            ]
-          },
-          {
-            "kind" : "drinking_water",
-            "pos" : [
-              45.7656072,
-              4.8290513
-            ]
-          },
-          {
-            "kind" : "drinking_water",
-            "name" : "Fontaine à eau",
-            "pos" : [
-              45.7664647,
-              4.8275608
-            ]
-          },
-          {
-            "kind" : "toilets",
-            "name" : "Sanitaire Public du Quai Saint-Antoine",
-            "pos" : [
-              45.7620722,
-              4.831406
-            ]
-          },
-          {
-            "kind" : "drinking_water",
-            "pos" : [
-              45.762094,
-              4.8314103
-            ]
-          },
-          {
-            "kind" : "drinking_water",
-            "pos" : [
-              45.7648831,
-              4.8341673
-            ]
-          },
-          {
-            "kind" : "drinking_water",
-            "pos" : [
-              45.7665912,
-              4.8323858
-            ]
-          },
-          {
-            "kind" : "toilets",
-            "name" : "Sanitaire Public du Quai de la Pêcherie",
-            "pos" : [
-              45.7651786,
-              4.8314164
-            ]
-          },
-          {
-            "kind" : "ice_cream",
-            "name" : "Régal Glace",
-            "pos" : [
-              45.7626721,
-              4.8328104
-            ]
-          },
-          {
-            "kind" : "ice_cream",
-            "name" : "Fresco",
-            "pos" : [
-              45.762212,
-              4.8320489
-            ]
-          },
-          {
-            "kind" : "toilets",
             "name" : "Parking LPA Saint Antoine",
             "pos" : [
               45.7644648,
               4.831671
+            ]
+          },
+          {
+            "kind" : "toilets",
+            "pos" : [
+              45.763333,
+              4.8291608
             ]
           },
           {
@@ -10286,6 +10302,13 @@
             "pos" : [
               45.7632113,
               4.8323819
+            ]
+          },
+          {
+            "kind" : "drinking_water",
+            "pos" : [
+              45.7656072,
+              4.8290513
             ]
           },
           {
@@ -10303,41 +10326,18 @@
             ]
           },
           {
+            "kind" : "drinking_water",
+            "name" : "Fontaine à eau",
+            "pos" : [
+              45.7664647,
+              4.8275608
+            ]
+          },
+          {
             "kind" : "toilets",
             "pos" : [
               45.7670026,
               4.8337248
-            ]
-          },
-          {
-            "kind" : "toilets",
-            "name" : "Sanitaire Public de la Place Gabriel Rambaud",
-            "pos" : [
-              45.7680133,
-              4.8295891
-            ]
-          },
-          {
-            "kind" : "drinking_water",
-            "pos" : [
-              45.7680105,
-              4.8317525
-            ]
-          },
-          {
-            "kind" : "ice_cream",
-            "name" : "Glacier Mirage",
-            "pos" : [
-              45.7678115,
-              4.8335808
-            ]
-          },
-          {
-            "kind" : "ice_cream",
-            "name" : "Unico",
-            "pos" : [
-              45.7672497,
-              4.8307824
             ]
           },
           {
@@ -10576,13 +10576,6 @@
       "familyWalk" : {
         "places" : [
           {
-            "kind" : "toilets",
-            "pos" : [
-              48.1371273,
-              11.5719515
-            ]
-          },
-          {
             "kind" : "ice_cream",
             "name" : "Karamela",
             "pos" : [
@@ -10599,10 +10592,26 @@
           },
           {
             "kind" : "ice_cream",
+            "name" : "Gelato e Caffe",
+            "pos" : [
+              48.1339604,
+              11.5823847
+            ]
+          },
+          {
+            "kind" : "ice_cream",
             "name" : "Venchi",
             "pos" : [
               48.1367741,
               11.5763905
+            ]
+          },
+          {
+            "kind" : "ice_cream",
+            "name" : "Conditorei und Café Kreutzkamm",
+            "pos" : [
+              48.1395715,
+              11.5753066
             ]
           },
           {
@@ -10644,27 +10653,18 @@
             ]
           },
           {
+            "kind" : "toilets",
+            "pos" : [
+              48.1371273,
+              11.5719515
+            ]
+          },
+          {
             "kind" : "ice_cream",
             "name" : "Die Eismeisterei",
             "pos" : [
               48.1358596,
               11.5777207
-            ]
-          },
-          {
-            "kind" : "ice_cream",
-            "name" : "Gelato e Caffe",
-            "pos" : [
-              48.1339604,
-              11.5823847
-            ]
-          },
-          {
-            "kind" : "ice_cream",
-            "name" : "Conditorei und Café Kreutzkamm",
-            "pos" : [
-              48.1395715,
-              11.5753066
             ]
           },
           {
@@ -10679,23 +10679,16 @@
             "changingTable" : true,
             "kind" : "toilets",
             "pos" : [
-              48.1369025,
-              11.5762332
-            ]
-          },
-          {
-            "kind" : "toilets",
-            "pos" : [
-              48.1346025,
-              11.577065
+              48.1349113,
+              11.5820498
             ]
           },
           {
             "changingTable" : true,
             "kind" : "toilets",
             "pos" : [
-              48.1349113,
-              11.5820498
+              48.1369025,
+              11.5762332
             ]
           },
           {
@@ -10704,6 +10697,13 @@
             "pos" : [
               48.1366947,
               11.581102
+            ]
+          },
+          {
+            "kind" : "toilets",
+            "pos" : [
+              48.1346025,
+              11.577065
             ]
           }
         ],
@@ -10991,89 +10991,6 @@
       "familyWalk" : {
         "places" : [
           {
-            "kind" : "ice_cream",
-            "name" : "buonissimo",
-            "pos" : [
-              49.4511175,
-              11.0720141
-            ]
-          },
-          {
-            "kind" : "drinking_water",
-            "pos" : [
-              49.4511311,
-              11.0737642
-            ]
-          },
-          {
-            "kind" : "toilets",
-            "pos" : [
-              49.4517715,
-              11.0739742
-            ]
-          },
-          {
-            "kind" : "ice_cream",
-            "name" : "Piero Gelato",
-            "pos" : [
-              49.4502438,
-              11.0732356
-            ]
-          },
-          {
-            "kind" : "ice_cream",
-            "name" : "Die kleine Eismanufaktur",
-            "pos" : [
-              49.455114,
-              11.0722174
-            ]
-          },
-          {
-            "changingTable" : true,
-            "kind" : "toilets",
-            "pos" : [
-              49.4502984,
-              11.070594
-            ]
-          },
-          {
-            "changingTable" : true,
-            "kind" : "toilets",
-            "pos" : [
-              49.4503913,
-              11.073221
-            ]
-          },
-          {
-            "kind" : "toilets",
-            "pos" : [
-              49.4521249,
-              11.070409
-            ]
-          },
-          {
-            "kind" : "ice_cream",
-            "name" : "Ice cream bar",
-            "pos" : [
-              49.4537729,
-              11.0754293
-            ]
-          },
-          {
-            "kind" : "drinking_water",
-            "pos" : [
-              49.450692,
-              11.0712325
-            ]
-          },
-          {
-            "kind" : "drinking_water",
-            "pos" : [
-              49.45028,
-              11.0721012
-            ]
-          },
-          {
             "kind" : "toilets",
             "pos" : [
               49.4545766,
@@ -11098,10 +11015,25 @@
           },
           {
             "kind" : "ice_cream",
+            "name" : "buonissimo",
+            "pos" : [
+              49.4511175,
+              11.0720141
+            ]
+          },
+          {
+            "kind" : "ice_cream",
             "name" : "Piazza Gelato",
             "pos" : [
               49.4533425,
               11.0781307
+            ]
+          },
+          {
+            "kind" : "drinking_water",
+            "pos" : [
+              49.4511311,
+              11.0737642
             ]
           },
           {
@@ -11121,11 +11053,26 @@
             ]
           },
           {
+            "kind" : "toilets",
+            "pos" : [
+              49.4517715,
+              11.0739742
+            ]
+          },
+          {
             "kind" : "ice_cream",
             "name" : "Eiscafé Sirena",
             "pos" : [
               49.4520513,
               11.0775162
+            ]
+          },
+          {
+            "kind" : "ice_cream",
+            "name" : "Piero Gelato",
+            "pos" : [
+              49.4502438,
+              11.0732356
             ]
           },
           {
@@ -11146,10 +11093,34 @@
           },
           {
             "kind" : "ice_cream",
+            "name" : "Die kleine Eismanufaktur",
+            "pos" : [
+              49.455114,
+              11.0722174
+            ]
+          },
+          {
+            "kind" : "ice_cream",
             "name" : "Gelatissimo Soldan",
             "pos" : [
               49.4526531,
               11.0776806
+            ]
+          },
+          {
+            "changingTable" : true,
+            "kind" : "toilets",
+            "pos" : [
+              49.4502984,
+              11.070594
+            ]
+          },
+          {
+            "changingTable" : true,
+            "kind" : "toilets",
+            "pos" : [
+              49.4503913,
+              11.073221
             ]
           },
           {
@@ -11162,8 +11133,37 @@
           {
             "kind" : "toilets",
             "pos" : [
+              49.4521249,
+              11.070409
+            ]
+          },
+          {
+            "kind" : "ice_cream",
+            "name" : "Ice cream bar",
+            "pos" : [
+              49.4537729,
+              11.0754293
+            ]
+          },
+          {
+            "kind" : "toilets",
+            "pos" : [
               49.4552015,
               11.0772401
+            ]
+          },
+          {
+            "kind" : "drinking_water",
+            "pos" : [
+              49.450692,
+              11.0712325
+            ]
+          },
+          {
+            "kind" : "drinking_water",
+            "pos" : [
+              49.45028,
+              11.0721012
             ]
           },
           {
@@ -11359,22 +11359,15 @@
           {
             "kind" : "toilets",
             "pos" : [
+              48.8568075,
+              2.3541182
+            ]
+          },
+          {
+            "kind" : "toilets",
+            "pos" : [
               48.8538122,
               2.3492387
-            ]
-          },
-          {
-            "kind" : "drinking_water",
-            "pos" : [
-              48.8522494,
-              2.3479459
-            ]
-          },
-          {
-            "kind" : "drinking_water",
-            "pos" : [
-              48.8524189,
-              2.3477281
             ]
           },
           {
@@ -11421,10 +11414,24 @@
             ]
           },
           {
+            "kind" : "drinking_water",
+            "pos" : [
+              48.8549796,
+              2.3528163
+            ]
+          },
+          {
             "kind" : "toilets",
             "pos" : [
               48.8540191,
               2.3493938
+            ]
+          },
+          {
+            "kind" : "drinking_water",
+            "pos" : [
+              48.8522494,
+              2.3479459
             ]
           },
           {
@@ -11433,41 +11440,6 @@
             "pos" : [
               48.8540941,
               2.3497377
-            ]
-          },
-          {
-            "kind" : "drinking_water",
-            "pos" : [
-              48.8580249,
-              2.34831
-            ]
-          },
-          {
-            "kind" : "toilets",
-            "pos" : [
-              48.8559073,
-              2.3526963
-            ]
-          },
-          {
-            "kind" : "toilets",
-            "pos" : [
-              48.8590026,
-              2.3481546
-            ]
-          },
-          {
-            "kind" : "toilets",
-            "pos" : [
-              48.8568075,
-              2.3541182
-            ]
-          },
-          {
-            "kind" : "drinking_water",
-            "pos" : [
-              48.8549796,
-              2.3528163
             ]
           },
           {
@@ -11488,8 +11460,29 @@
           {
             "kind" : "drinking_water",
             "pos" : [
+              48.8580249,
+              2.34831
+            ]
+          },
+          {
+            "kind" : "drinking_water",
+            "pos" : [
               48.8573545,
               2.3549541
+            ]
+          },
+          {
+            "kind" : "toilets",
+            "pos" : [
+              48.8559073,
+              2.3526963
+            ]
+          },
+          {
+            "kind" : "drinking_water",
+            "pos" : [
+              48.8524189,
+              2.3477281
             ]
           },
           {
@@ -11497,6 +11490,13 @@
             "pos" : [
               48.8544982,
               2.3537768
+            ]
+          },
+          {
+            "kind" : "toilets",
+            "pos" : [
+              48.8590026,
+              2.3481546
             ]
           },
           {
@@ -11556,7 +11556,12 @@
         "streetCount" : 143,
         "totalKm" : 29.03
       },
-      "status" : "published"
+      "status" : "published",
+      "tiles" : {
+        "name" : "paris.465bde00eefc.pmtiles",
+        "sha256" : "465bde00eefc95c794d3f2bddc49688f81ca198324778d728ba6c1cfac8b3c1b",
+        "size" : 6417096
+      }
     },
     {
       "boundaryPreview" : [
@@ -11765,18 +11770,26 @@
             ]
           },
           {
-            "kind" : "drinking_water",
-            "pos" : [
-              48.5743571,
-              13.4641441
-            ]
-          },
-          {
             "kind" : "toilets",
             "name" : "öffentliche Toilette",
             "pos" : [
               48.5754103,
               13.4680039
+            ]
+          },
+          {
+            "changingTable" : true,
+            "kind" : "toilets",
+            "pos" : [
+              48.5734503,
+              13.4747395
+            ]
+          },
+          {
+            "kind" : "drinking_water",
+            "pos" : [
+              48.5743571,
+              13.4641441
             ]
           },
           {
@@ -11802,14 +11815,6 @@
             ]
           },
           {
-            "changingTable" : true,
-            "kind" : "toilets",
-            "pos" : [
-              48.5734503,
-              13.4747395
-            ]
-          },
-          {
             "kind" : "playground",
             "pos" : [
               48.5735574,
@@ -11824,17 +11829,17 @@
             ]
           },
           {
-            "kind" : "toilets",
-            "pos" : [
-              48.5733226,
-              13.4637216
-            ]
-          },
-          {
             "kind" : "playground",
             "pos" : [
               48.5737209,
               13.4754348
+            ]
+          },
+          {
+            "kind" : "toilets",
+            "pos" : [
+              48.5733226,
+              13.4637216
             ]
           }
         ],
@@ -11866,7 +11871,12 @@
         "streetCount" : 81,
         "totalKm" : 14.42
       },
-      "status" : "published"
+      "status" : "published",
+      "tiles" : {
+        "name" : "passau.b34e473b9ebd.pmtiles",
+        "sha256" : "b34e473b9ebdff29dd6adaa0379b80f6af03cde12fc5b5852605a1e5212b1b23",
+        "size" : 2545699
+      }
     },
     {
       "boundaryPreview" : [
@@ -12086,66 +12096,24 @@
       "familyWalk" : {
         "places" : [
           {
-            "kind" : "toilets",
-            "name" : "vlídné WC",
+            "kind" : "drinking_water",
             "pos" : [
-              49.7439708,
-              13.3754608
+              49.7469955,
+              13.3799809
             ]
           },
           {
             "kind" : "drinking_water",
             "pos" : [
-              49.7450038,
-              13.3801967
+              49.7461606,
+              13.3802111
             ]
           },
           {
-            "kind" : "toilets",
-            "name" : "vlídné WC",
+            "kind" : "drinking_water",
             "pos" : [
-              49.7450178,
-              13.3774564
-            ]
-          },
-          {
-            "kind" : "toilets",
-            "name" : "vlídné WC",
-            "pos" : [
-              49.7439861,
-              13.3775768
-            ]
-          },
-          {
-            "kind" : "toilets",
-            "name" : "vlídné WC",
-            "pos" : [
-              49.7440553,
-              13.3780827
-            ]
-          },
-          {
-            "kind" : "toilets",
-            "name" : "vlídné WC",
-            "pos" : [
-              49.7435496,
-              13.3788404
-            ]
-          },
-          {
-            "kind" : "ice_cream",
-            "name" : "Campione gelato",
-            "pos" : [
-              49.7435373,
-              13.3771107
-            ]
-          },
-          {
-            "kind" : "toilets",
-            "name" : "vlídné WC",
-            "pos" : [
-              49.7444953,
-              13.3767316
+              49.7461443,
+              13.3798198
             ]
           },
           {
@@ -12154,6 +12122,13 @@
             "pos" : [
               49.7454401,
               13.3743174
+            ]
+          },
+          {
+            "kind" : "drinking_water",
+            "pos" : [
+              49.7450038,
+              13.3801967
             ]
           },
           {
@@ -12224,8 +12199,80 @@
             "kind" : "toilets",
             "name" : "vlídné WC",
             "pos" : [
+              49.7454741,
+              13.3769427
+            ]
+          },
+          {
+            "kind" : "toilets",
+            "name" : "vlídné WC",
+            "pos" : [
+              49.7464021,
+              13.3767425
+            ]
+          },
+          {
+            "kind" : "toilets",
+            "name" : "vlídné WC",
+            "pos" : [
               49.7452706,
               13.3749822
+            ]
+          },
+          {
+            "kind" : "toilets",
+            "name" : "vlídné WC",
+            "pos" : [
+              49.7450178,
+              13.3774564
+            ]
+          },
+          {
+            "kind" : "toilets",
+            "name" : "vlídné WC",
+            "pos" : [
+              49.745123,
+              13.3763396
+            ]
+          },
+          {
+            "kind" : "toilets",
+            "name" : "vlídné WC",
+            "pos" : [
+              49.7439708,
+              13.3754608
+            ]
+          },
+          {
+            "kind" : "toilets",
+            "name" : "vlídné WC",
+            "pos" : [
+              49.7439861,
+              13.3775768
+            ]
+          },
+          {
+            "kind" : "toilets",
+            "name" : "vlídné WC",
+            "pos" : [
+              49.7440553,
+              13.3780827
+            ]
+          },
+          {
+            "kind" : "toilets",
+            "name" : "vlídné WC",
+            "pos" : [
+              49.7435496,
+              13.3788404
+            ]
+          },
+          {
+            "kind" : "ice_cream",
+            "name" : "Campione gelato",
+            "pos" : [
+              49.7435373,
+              13.3771107
             ]
           },
           {
@@ -12264,6 +12311,14 @@
             "kind" : "toilets",
             "name" : "vlídné WC",
             "pos" : [
+              49.7444953,
+              13.3767316
+            ]
+          },
+          {
+            "kind" : "toilets",
+            "name" : "vlídné WC",
+            "pos" : [
               49.7471482,
               13.3754144
             ]
@@ -12274,51 +12329,6 @@
             "pos" : [
               49.746552,
               13.374441
-            ]
-          },
-          {
-            "kind" : "drinking_water",
-            "pos" : [
-              49.7469955,
-              13.3799809
-            ]
-          },
-          {
-            "kind" : "drinking_water",
-            "pos" : [
-              49.7461606,
-              13.3802111
-            ]
-          },
-          {
-            "kind" : "drinking_water",
-            "pos" : [
-              49.7461443,
-              13.3798198
-            ]
-          },
-          {
-            "kind" : "toilets",
-            "name" : "vlídné WC",
-            "pos" : [
-              49.7454741,
-              13.3769427
-            ]
-          },
-          {
-            "kind" : "toilets",
-            "name" : "vlídné WC",
-            "pos" : [
-              49.7464021,
-              13.3767425
-            ]
-          },
-          {
-            "kind" : "toilets",
-            "name" : "vlídné WC",
-            "pos" : [
-              49.745123,
-              13.3763396
             ]
           },
           {
@@ -12584,6 +12594,37 @@
       "familyWalk" : {
         "places" : [
           {
+            "kind" : "ice_cream",
+            "name" : "Amorino",
+            "pos" : [
+              41.1481351,
+              -8.6063092
+            ]
+          },
+          {
+            "kind" : "toilets",
+            "pos" : [
+              41.1457239,
+              -8.6101808
+            ]
+          },
+          {
+            "kind" : "ice_cream",
+            "name" : "Cremosi",
+            "pos" : [
+              41.1448385,
+              -8.6111902
+            ]
+          },
+          {
+            "kind" : "ice_cream",
+            "name" : "Gelateria Mamma Maria",
+            "pos" : [
+              41.1459572,
+              -8.6072108
+            ]
+          },
+          {
             "kind" : "drinking_water",
             "pos" : [
               41.1453329,
@@ -12599,10 +12640,26 @@
             ]
           },
           {
+            "kind" : "ice_cream",
+            "name" : "Amorino",
+            "pos" : [
+              41.1469033,
+              -8.6150035
+            ]
+          },
+          {
             "kind" : "drinking_water",
             "pos" : [
               41.1458377,
               -8.6164382
+            ]
+          },
+          {
+            "kind" : "ice_cream",
+            "name" : "Weeel Frozen Yogurt",
+            "pos" : [
+              41.1456972,
+              -8.6101265
             ]
           },
           {
@@ -12635,77 +12692,6 @@
             "pos" : [
               41.1463404,
               -8.6144028
-            ]
-          },
-          {
-            "kind" : "ice_cream",
-            "name" : "Amorino",
-            "pos" : [
-              41.1455288,
-              -8.6147555
-            ]
-          },
-          {
-            "kind" : "ice_cream",
-            "name" : "Amorino",
-            "pos" : [
-              41.1454684,
-              -8.6149546
-            ]
-          },
-          {
-            "kind" : "toilets",
-            "pos" : [
-              41.1457239,
-              -8.6101808
-            ]
-          },
-          {
-            "kind" : "ice_cream",
-            "name" : "Cremosi",
-            "pos" : [
-              41.1448385,
-              -8.6111902
-            ]
-          },
-          {
-            "kind" : "ice_cream",
-            "name" : "Gelateria Mamma Maria",
-            "pos" : [
-              41.1459572,
-              -8.6072108
-            ]
-          },
-          {
-            "kind" : "ice_cream",
-            "name" : "Weeel Frozen Yogurt",
-            "pos" : [
-              41.1456972,
-              -8.6101265
-            ]
-          },
-          {
-            "kind" : "ice_cream",
-            "name" : "Cremosi",
-            "pos" : [
-              41.144858,
-              -8.6111715
-            ]
-          },
-          {
-            "kind" : "ice_cream",
-            "name" : "Amorino",
-            "pos" : [
-              41.1469033,
-              -8.6150035
-            ]
-          },
-          {
-            "kind" : "ice_cream",
-            "name" : "Amorino",
-            "pos" : [
-              41.1481351,
-              -8.6063092
             ]
           },
           {
@@ -12760,6 +12746,14 @@
           },
           {
             "kind" : "ice_cream",
+            "name" : "Cremosi",
+            "pos" : [
+              41.144858,
+              -8.6111715
+            ]
+          },
+          {
+            "kind" : "ice_cream",
             "name" : "Olá",
             "pos" : [
               41.1490169,
@@ -12776,6 +12770,14 @@
           },
           {
             "kind" : "ice_cream",
+            "name" : "Amorino",
+            "pos" : [
+              41.1455288,
+              -8.6147555
+            ]
+          },
+          {
+            "kind" : "ice_cream",
             "name" : "Niva",
             "pos" : [
               41.1488091,
@@ -12787,6 +12789,14 @@
             "pos" : [
               41.1492776,
               -8.6069201
+            ]
+          },
+          {
+            "kind" : "ice_cream",
+            "name" : "Amorino",
+            "pos" : [
+              41.1454684,
+              -8.6149546
             ]
           },
           {
@@ -13018,20 +13028,6 @@
       "familyWalk" : {
         "places" : [
           {
-            "kind" : "toilets",
-            "pos" : [
-              50.0856897,
-              14.413975
-            ]
-          },
-          {
-            "kind" : "toilets",
-            "pos" : [
-              50.0822925,
-              14.4129064
-            ]
-          },
-          {
             "kind" : "ice_cream",
             "name" : "Crème de la Crème",
             "pos" : [
@@ -13049,15 +13045,22 @@
           {
             "kind" : "toilets",
             "pos" : [
-              50.0837676,
-              14.4202496
+              50.0859571,
+              14.4141483
             ]
           },
           {
             "kind" : "toilets",
             "pos" : [
-              50.0859571,
-              14.4141483
+              50.0876368,
+              14.4222164
+            ]
+          },
+          {
+            "kind" : "toilets",
+            "pos" : [
+              50.0837676,
+              14.4202496
             ]
           },
           {
@@ -13070,8 +13073,37 @@
           {
             "kind" : "toilets",
             "pos" : [
+              50.086952,
+              14.4203372
+            ]
+          },
+          {
+            "kind" : "toilets",
+            "pos" : [
+              50.0856897,
+              14.413975
+            ]
+          },
+          {
+            "kind" : "toilets",
+            "pos" : [
+              50.0872307,
+              14.4196609
+            ]
+          },
+          {
+            "kind" : "toilets",
+            "pos" : [
               50.0864422,
               14.4140641
+            ]
+          },
+          {
+            "kind" : "ice_cream",
+            "name" : "Trdelník",
+            "pos" : [
+              50.0861935,
+              14.4190373
             ]
           },
           {
@@ -13085,30 +13117,8 @@
           {
             "kind" : "toilets",
             "pos" : [
-              50.0876368,
-              14.4222164
-            ]
-          },
-          {
-            "kind" : "toilets",
-            "pos" : [
-              50.086952,
-              14.4203372
-            ]
-          },
-          {
-            "kind" : "toilets",
-            "pos" : [
-              50.0872307,
-              14.4196609
-            ]
-          },
-          {
-            "kind" : "ice_cream",
-            "name" : "Trdelník",
-            "pos" : [
-              50.0861935,
-              14.4190373
+              50.0822925,
+              14.4129064
             ]
           },
           {
@@ -13332,20 +13342,6 @@
       "familyWalk" : {
         "places" : [
           {
-            "kind" : "drinking_water",
-            "pos" : [
-              49.0172316,
-              12.0976714
-            ]
-          },
-          {
-            "kind" : "playground",
-            "pos" : [
-              49.0173491,
-              12.0975023
-            ]
-          },
-          {
             "kind" : "toilets",
             "pos" : [
               49.0179282,
@@ -13376,6 +13372,13 @@
             ]
           },
           {
+            "kind" : "drinking_water",
+            "pos" : [
+              49.0172316,
+              12.0976714
+            ]
+          },
+          {
             "kind" : "ice_cream",
             "name" : "Crema Gelato",
             "pos" : [
@@ -13389,6 +13392,13 @@
             "pos" : [
               49.0212103,
               12.0968483
+            ]
+          },
+          {
+            "kind" : "playground",
+            "pos" : [
+              49.0173491,
+              12.0975023
             ]
           },
           {
@@ -13628,6 +13638,14 @@
             ]
           },
           {
+            "kind" : "playground",
+            "name" : "Labirints",
+            "pos" : [
+              56.9491741,
+              24.1055028
+            ]
+          },
+          {
             "kind" : "drinking_water",
             "pos" : [
               56.9474921,
@@ -13639,14 +13657,6 @@
             "pos" : [
               56.9469185,
               24.1065751
-            ]
-          },
-          {
-            "kind" : "playground",
-            "name" : "Labirints",
-            "pos" : [
-              56.9491741,
-              24.1055028
             ]
           },
           {
@@ -13930,6 +13940,14 @@
       "familyWalk" : {
         "places" : [
           {
+            "kind" : "playground",
+            "name" : "Am Galgentor",
+            "pos" : [
+              49.3777352,
+              10.1845815
+            ]
+          },
+          {
             "changingTable" : true,
             "kind" : "toilets",
             "pos" : [
@@ -13992,11 +14010,10 @@
             ]
           },
           {
-            "kind" : "playground",
-            "name" : "Am Galgentor",
+            "kind" : "toilets",
             "pos" : [
-              49.3777352,
-              10.1845815
+              49.3764691,
+              10.1843765
             ]
           },
           {
@@ -14004,13 +14021,6 @@
             "pos" : [
               49.3737376,
               10.1812299
-            ]
-          },
-          {
-            "kind" : "toilets",
-            "pos" : [
-              49.3764691,
-              10.1843765
             ]
           }
         ],
@@ -14195,97 +14205,6 @@
       "familyWalk" : {
         "places" : [
           {
-            "kind" : "playground",
-            "name" : "Zauberflötenspielplatz",
-            "pos" : [
-              47.8047903,
-              13.0412278
-            ]
-          },
-          {
-            "kind" : "drinking_water",
-            "pos" : [
-              47.8049033,
-              13.0412717
-            ]
-          },
-          {
-            "changingTable" : true,
-            "kind" : "toilets",
-            "pos" : [
-              47.7975952,
-              13.0457151
-            ]
-          },
-          {
-            "kind" : "drinking_water",
-            "name" : "Festungsgasse-Brunnen",
-            "pos" : [
-              47.7965247,
-              13.0462276
-            ]
-          },
-          {
-            "kind" : "drinking_water",
-            "pos" : [
-              47.7963388,
-              13.045989
-            ]
-          },
-          {
-            "kind" : "ice_cream",
-            "name" : "Hoefinger Eis",
-            "pos" : [
-              47.7974262,
-              13.0458639
-            ]
-          },
-          {
-            "kind" : "toilets",
-            "pos" : [
-              47.7964002,
-              13.0462615
-            ]
-          },
-          {
-            "kind" : "drinking_water",
-            "name" : "Entenbrunnen",
-            "pos" : [
-              47.7964088,
-              13.0533558
-            ]
-          },
-          {
-            "kind" : "ice_cream",
-            "name" : "Icezeit",
-            "pos" : [
-              47.7978238,
-              13.0491044
-            ]
-          },
-          {
-            "kind" : "drinking_water",
-            "name" : "Brunnen Kaigasse",
-            "pos" : [
-              47.7983048,
-              13.0483383
-            ]
-          },
-          {
-            "kind" : "toilets",
-            "pos" : [
-              47.797396,
-              13.0520967
-            ]
-          },
-          {
-            "kind" : "drinking_water",
-            "pos" : [
-              47.796652,
-              13.0519556
-            ]
-          },
-          {
             "kind" : "ice_cream",
             "name" : "Gelateria La Romana",
             "pos" : [
@@ -14321,10 +14240,34 @@
           {
             "changingTable" : true,
             "kind" : "toilets",
+            "pos" : [
+              47.7975952,
+              13.0457151
+            ]
+          },
+          {
+            "kind" : "playground",
+            "name" : "Zauberflötenspielplatz",
+            "pos" : [
+              47.8047903,
+              13.0412278
+            ]
+          },
+          {
+            "changingTable" : true,
+            "kind" : "toilets",
             "name" : "öffentliches WC",
             "pos" : [
               47.7990454,
               13.043388
+            ]
+          },
+          {
+            "kind" : "drinking_water",
+            "name" : "Marktfrau-Brunnen",
+            "pos" : [
+              47.8062182,
+              13.0434344
             ]
           },
           {
@@ -14353,10 +14296,42 @@
           },
           {
             "kind" : "drinking_water",
+            "name" : "Entenbrunnen",
+            "pos" : [
+              47.7964088,
+              13.0533558
+            ]
+          },
+          {
+            "kind" : "ice_cream",
+            "name" : "Icezeit",
+            "pos" : [
+              47.7978238,
+              13.0491044
+            ]
+          },
+          {
+            "kind" : "drinking_water",
+            "name" : "Festungsgasse-Brunnen",
+            "pos" : [
+              47.7965247,
+              13.0462276
+            ]
+          },
+          {
+            "kind" : "drinking_water",
             "name" : "Löwenkopf-Brunnen",
             "pos" : [
               47.8009547,
               13.0425051
+            ]
+          },
+          {
+            "kind" : "drinking_water",
+            "name" : "Brunnen Kaigasse",
+            "pos" : [
+              47.7983048,
+              13.0483383
             ]
           },
           {
@@ -14373,6 +14348,20 @@
             "pos" : [
               47.7996327,
               13.0435121
+            ]
+          },
+          {
+            "kind" : "toilets",
+            "pos" : [
+              47.797396,
+              13.0520967
+            ]
+          },
+          {
+            "kind" : "drinking_water",
+            "pos" : [
+              47.7963388,
+              13.045989
             ]
           },
           {
@@ -14400,6 +14389,13 @@
           {
             "kind" : "drinking_water",
             "pos" : [
+              47.796652,
+              13.0519556
+            ]
+          },
+          {
+            "kind" : "drinking_water",
+            "pos" : [
               47.8025188,
               13.0457481
             ]
@@ -14413,6 +14409,14 @@
             ]
           },
           {
+            "kind" : "ice_cream",
+            "name" : "Hoefinger Eis",
+            "pos" : [
+              47.7974262,
+              13.0458639
+            ]
+          },
+          {
             "kind" : "drinking_water",
             "name" : "Brunnen Waagplatz",
             "pos" : [
@@ -14423,16 +14427,22 @@
           {
             "kind" : "drinking_water",
             "pos" : [
+              47.8049033,
+              13.0412717
+            ]
+          },
+          {
+            "kind" : "drinking_water",
+            "pos" : [
               47.8044522,
               13.0427637
             ]
           },
           {
-            "kind" : "drinking_water",
-            "name" : "Marktfrau-Brunnen",
+            "kind" : "toilets",
             "pos" : [
-              47.8062182,
-              13.0434344
+              47.7964002,
+              13.0462615
             ]
           },
           {
@@ -14632,14 +14642,6 @@
             ]
           },
           {
-            "changingTable" : true,
-            "kind" : "toilets",
-            "pos" : [
-              42.880046,
-              -8.5459236
-            ]
-          },
-          {
             "kind" : "drinking_water",
             "name" : "Fonte de San Miguel",
             "pos" : [
@@ -14653,6 +14655,14 @@
             "pos" : [
               42.88127,
               -8.5430117
+            ]
+          },
+          {
+            "changingTable" : true,
+            "kind" : "toilets",
+            "pos" : [
+              42.880046,
+              -8.5459236
             ]
           },
           {
@@ -14947,6 +14957,13 @@
             ]
           },
           {
+            "kind" : "drinking_water",
+            "pos" : [
+              37.3883996,
+              -5.9960526
+            ]
+          },
+          {
             "kind" : "ice_cream",
             "name" : "Helados Rayas",
             "pos" : [
@@ -14956,10 +14973,34 @@
           },
           {
             "kind" : "ice_cream",
+            "name" : "La Abuela",
+            "pos" : [
+              37.3864476,
+              -5.9942461
+            ]
+          },
+          {
+            "kind" : "ice_cream",
             "name" : "Heladeria La Fiorentina",
             "pos" : [
               37.3886335,
               -5.998293
+            ]
+          },
+          {
+            "kind" : "ice_cream",
+            "name" : "Jechura Heladería",
+            "pos" : [
+              37.3858661,
+              -5.9941442
+            ]
+          },
+          {
+            "kind" : "ice_cream",
+            "name" : "Häagen-Dazs",
+            "pos" : [
+              37.3877266,
+              -5.9944294
             ]
           },
           {
@@ -14983,37 +15024,6 @@
             "pos" : [
               37.3877914,
               -6.0000274
-            ]
-          },
-          {
-            "kind" : "drinking_water",
-            "pos" : [
-              37.3883996,
-              -5.9960526
-            ]
-          },
-          {
-            "kind" : "ice_cream",
-            "name" : "La Abuela",
-            "pos" : [
-              37.3864476,
-              -5.9942461
-            ]
-          },
-          {
-            "kind" : "ice_cream",
-            "name" : "Jechura Heladería",
-            "pos" : [
-              37.3858661,
-              -5.9941442
-            ]
-          },
-          {
-            "kind" : "ice_cream",
-            "name" : "Häagen-Dazs",
-            "pos" : [
-              37.3877266,
-              -5.9944294
             ]
           },
           {
@@ -15320,58 +15330,6 @@
           {
             "kind" : "drinking_water",
             "pos" : [
-              43.3197774,
-              11.3291259
-            ]
-          },
-          {
-            "kind" : "ice_cream",
-            "name" : "Bar Gelateria La Costarella",
-            "pos" : [
-              43.3185551,
-              11.3306696
-            ]
-          },
-          {
-            "kind" : "ice_cream",
-            "name" : "Venchi Cioccolato e Gelato",
-            "pos" : [
-              43.3188798,
-              11.3307994
-            ]
-          },
-          {
-            "kind" : "drinking_water",
-            "pos" : [
-              43.319293,
-              11.3303387
-            ]
-          },
-          {
-            "kind" : "toilets",
-            "name" : "Bagni Beccheria",
-            "pos" : [
-              43.3186436,
-              11.3304293
-            ]
-          },
-          {
-            "kind" : "toilets",
-            "pos" : [
-              43.3170019,
-              11.3304786
-            ]
-          },
-          {
-            "kind" : "drinking_water",
-            "pos" : [
-              43.3185976,
-              11.330461
-            ]
-          },
-          {
-            "kind" : "drinking_water",
-            "pos" : [
               43.3186227,
               11.331387
             ]
@@ -15381,6 +15339,13 @@
             "pos" : [
               43.3187011,
               11.3315219
+            ]
+          },
+          {
+            "kind" : "drinking_water",
+            "pos" : [
+              43.3197774,
+              11.3291259
             ]
           },
           {
@@ -15401,10 +15366,40 @@
           },
           {
             "kind" : "ice_cream",
+            "name" : "Bar Gelateria La Costarella",
+            "pos" : [
+              43.3185551,
+              11.3306696
+            ]
+          },
+          {
+            "kind" : "ice_cream",
+            "name" : "Venchi Cioccolato e Gelato",
+            "pos" : [
+              43.3188798,
+              11.3307994
+            ]
+          },
+          {
+            "kind" : "ice_cream",
             "name" : "Gelateria Kopacabana",
             "pos" : [
               43.3216177,
               11.3322009
+            ]
+          },
+          {
+            "kind" : "drinking_water",
+            "pos" : [
+              43.319293,
+              11.3303387
+            ]
+          },
+          {
+            "kind" : "drinking_water",
+            "pos" : [
+              43.3231561,
+              11.3307162
             ]
           },
           {
@@ -15416,16 +15411,31 @@
           },
           {
             "kind" : "toilets",
+            "name" : "Bagni Beccheria",
+            "pos" : [
+              43.3186436,
+              11.3304293
+            ]
+          },
+          {
+            "kind" : "toilets",
             "pos" : [
               43.3177122,
               11.3313031
             ]
           },
           {
+            "kind" : "toilets",
+            "pos" : [
+              43.3170019,
+              11.3304786
+            ]
+          },
+          {
             "kind" : "drinking_water",
             "pos" : [
-              43.3231561,
-              11.3307162
+              43.3185976,
+              11.330461
             ]
           },
           {
@@ -16030,11 +16040,11 @@
       "familyWalk" : {
         "places" : [
           {
-            "kind" : "ice_cream",
-            "name" : "Sänkdalens Glass",
+            "kind" : "toilets",
+            "name" : "Toalett Slottskajen - Stallbron - Mynttorget",
             "pos" : [
-              59.3250149,
-              18.0680664
+              59.3270502,
+              18.0692242
             ]
           },
           {
@@ -16094,19 +16104,11 @@
             ]
           },
           {
-            "kind" : "toilets",
-            "name" : "Pissoar Källargränd 4, Gamla stan",
+            "kind" : "ice_cream",
+            "name" : "Sänkdalens Glass",
             "pos" : [
-              59.3255652,
-              18.0710698
-            ]
-          },
-          {
-            "kind" : "toilets",
-            "name" : "Toalett Slottskajen - Stallbron - Mynttorget",
-            "pos" : [
-              59.3270502,
-              18.0692242
+              59.3250149,
+              18.0680664
             ]
           },
           {
@@ -16114,6 +16116,14 @@
             "pos" : [
               59.3270422,
               18.0692363
+            ]
+          },
+          {
+            "kind" : "toilets",
+            "name" : "Pissoar Källargränd 4, Gamla stan",
+            "pos" : [
+              59.3255652,
+              18.0710698
             ]
           },
           {
@@ -16570,13 +16580,6 @@
       "familyWalk" : {
         "places" : [
           {
-            "kind" : "toilets",
-            "pos" : [
-              59.4353618,
-              24.7398072
-            ]
-          },
-          {
             "kind" : "ice_cream",
             "name" : "Baskin-Robbins",
             "pos" : [
@@ -16585,18 +16588,18 @@
             ]
           },
           {
+            "kind" : "toilets",
+            "pos" : [
+              59.4353618,
+              24.7398072
+            ]
+          },
+          {
             "kind" : "ice_cream",
             "name" : "Cortile",
             "pos" : [
               59.4363828,
               24.7416253
-            ]
-          },
-          {
-            "kind" : "drinking_water",
-            "pos" : [
-              59.4357044,
-              24.7407835
             ]
           },
           {
@@ -16615,18 +16618,25 @@
             ]
           },
           {
+            "kind" : "toilets",
+            "pos" : [
+              59.4415394,
+              24.7482269
+            ]
+          },
+          {
+            "kind" : "drinking_water",
+            "pos" : [
+              59.4357044,
+              24.7407835
+            ]
+          },
+          {
             "kind" : "ice_cream",
             "name" : "Schöller",
             "pos" : [
               59.4379482,
               24.7452244
-            ]
-          },
-          {
-            "kind" : "toilets",
-            "pos" : [
-              59.4415394,
-              24.7482269
             ]
           }
         ],
@@ -16852,6 +16862,14 @@
             ]
           },
           {
+            "kind" : "ice_cream",
+            "name" : "Heladeria",
+            "pos" : [
+              39.8591796,
+              -4.02146
+            ]
+          },
+          {
             "kind" : "drinking_water",
             "pos" : [
               39.8580291,
@@ -16863,14 +16881,6 @@
             "pos" : [
               39.8587623,
               -4.0251042
-            ]
-          },
-          {
-            "kind" : "ice_cream",
-            "name" : "Heladeria",
-            "pos" : [
-              39.8591796,
-              -4.02146
             ]
           },
           {
@@ -17085,27 +17095,6 @@
       "familyWalk" : {
         "places" : [
           {
-            "kind" : "drinking_water",
-            "pos" : [
-              49.0043255,
-              14.7623368
-            ]
-          },
-          {
-            "kind" : "ice_cream",
-            "pos" : [
-              49.0035817,
-              14.7620854
-            ]
-          },
-          {
-            "kind" : "drinking_water",
-            "pos" : [
-              49.0036019,
-              14.7696494
-            ]
-          },
-          {
             "kind" : "toilets",
             "pos" : [
               49.0048286,
@@ -17120,10 +17109,17 @@
             ]
           },
           {
-            "kind" : "playground",
+            "kind" : "drinking_water",
             "pos" : [
-              49.0051295,
-              14.7671003
+              49.0036019,
+              14.7696494
+            ]
+          },
+          {
+            "kind" : "drinking_water",
+            "pos" : [
+              49.0043255,
+              14.7623368
             ]
           },
           {
@@ -17132,6 +17128,20 @@
             "pos" : [
               49.00425,
               14.7723743
+            ]
+          },
+          {
+            "kind" : "playground",
+            "pos" : [
+              49.0051295,
+              14.7671003
+            ]
+          },
+          {
+            "kind" : "ice_cream",
+            "pos" : [
+              49.0035817,
+              14.7620854
             ]
           },
           {
@@ -17351,13 +17361,6 @@
       "familyWalk" : {
         "places" : [
           {
-            "kind" : "drinking_water",
-            "pos" : [
-              39.4776134,
-              -0.3802522
-            ]
-          },
-          {
             "kind" : "ice_cream",
             "name" : "Llinares",
             "pos" : [
@@ -17373,6 +17376,27 @@
             ]
           },
           {
+            "kind" : "drinking_water",
+            "pos" : [
+              39.4769416,
+              -0.3763093
+            ]
+          },
+          {
+            "kind" : "playground",
+            "pos" : [
+              39.4781876,
+              -0.3791106
+            ]
+          },
+          {
+            "kind" : "drinking_water",
+            "pos" : [
+              39.4776134,
+              -0.3802522
+            ]
+          },
+          {
             "kind" : "ice_cream",
             "name" : "Llaollao",
             "pos" : [
@@ -17385,6 +17409,13 @@
             "pos" : [
               39.4734095,
               -0.3758433
+            ]
+          },
+          {
+            "kind" : "drinking_water",
+            "pos" : [
+              39.4792592,
+              -0.3782863
             ]
           },
           {
@@ -17413,8 +17444,23 @@
           {
             "kind" : "drinking_water",
             "pos" : [
+              39.4762554,
+              -0.3797985
+            ]
+          },
+          {
+            "kind" : "drinking_water",
+            "pos" : [
               39.474571,
               -0.3791222
+            ]
+          },
+          {
+            "kind" : "ice_cream",
+            "name" : "Nevartes",
+            "pos" : [
+              39.4789348,
+              -0.3762979
             ]
           },
           {
@@ -17432,6 +17478,13 @@
             ]
           },
           {
+            "kind" : "drinking_water",
+            "pos" : [
+              39.4780513,
+              -0.3797814
+            ]
+          },
+          {
             "kind" : "ice_cream",
             "name" : "Gelateria Amuri",
             "pos" : [
@@ -17444,80 +17497,6 @@
             "pos" : [
               39.4746277,
               -0.3792779
-            ]
-          },
-          {
-            "kind" : "ice_cream",
-            "name" : "Gelatetia La Romana",
-            "pos" : [
-              39.4730783,
-              -0.3762812
-            ]
-          },
-          {
-            "kind" : "ice_cream",
-            "name" : "La Glaceria del Mercat",
-            "pos" : [
-              39.4732209,
-              -0.3778855
-            ]
-          },
-          {
-            "kind" : "drinking_water",
-            "pos" : [
-              39.4724024,
-              -0.3786307
-            ]
-          },
-          {
-            "kind" : "ice_cream",
-            "name" : "Sabores da Amazonia",
-            "pos" : [
-              39.4734663,
-              -0.3762533
-            ]
-          },
-          {
-            "kind" : "drinking_water",
-            "pos" : [
-              39.4769416,
-              -0.3763093
-            ]
-          },
-          {
-            "kind" : "playground",
-            "pos" : [
-              39.4781876,
-              -0.3791106
-            ]
-          },
-          {
-            "kind" : "drinking_water",
-            "pos" : [
-              39.4792592,
-              -0.3782863
-            ]
-          },
-          {
-            "kind" : "drinking_water",
-            "pos" : [
-              39.4762554,
-              -0.3797985
-            ]
-          },
-          {
-            "kind" : "ice_cream",
-            "name" : "Nevartes",
-            "pos" : [
-              39.4789348,
-              -0.3762979
-            ]
-          },
-          {
-            "kind" : "drinking_water",
-            "pos" : [
-              39.4780513,
-              -0.3797814
             ]
           },
           {
@@ -17558,10 +17537,48 @@
           },
           {
             "kind" : "ice_cream",
+            "name" : "Gelatetia La Romana",
+            "pos" : [
+              39.4730783,
+              -0.3762812
+            ]
+          },
+          {
+            "kind" : "ice_cream",
+            "name" : "La Glaceria del Mercat",
+            "pos" : [
+              39.4732209,
+              -0.3778855
+            ]
+          },
+          {
+            "kind" : "drinking_water",
+            "pos" : [
+              39.4724024,
+              -0.3786307
+            ]
+          },
+          {
+            "kind" : "ice_cream",
             "name" : "La Pistaccheria",
             "pos" : [
               39.4768004,
               -0.3783484
+            ]
+          },
+          {
+            "kind" : "ice_cream",
+            "name" : "Sabores da Amazonia",
+            "pos" : [
+              39.4734663,
+              -0.3762533
+            ]
+          },
+          {
+            "kind" : "playground",
+            "pos" : [
+              39.4800062,
+              -0.3747039
             ]
           },
           {
@@ -17576,13 +17593,6 @@
             "pos" : [
               39.4723862,
               -0.3785799
-            ]
-          },
-          {
-            "kind" : "playground",
-            "pos" : [
-              39.4800062,
-              -0.3747039
             ]
           },
           {
@@ -17747,41 +17757,11 @@
       "familyWalk" : {
         "places" : [
           {
-            "kind" : "toilets",
-            "pos" : [
-              45.4328134,
-              12.3375015
-            ]
-          },
-          {
             "kind" : "ice_cream",
             "name" : "Gelateria Paolin",
             "pos" : [
               45.4337051,
               12.3305198
-            ]
-          },
-          {
-            "kind" : "drinking_water",
-            "pos" : [
-              45.4336609,
-              12.329115
-            ]
-          },
-          {
-            "kind" : "ice_cream",
-            "name" : "Gelateria Igloo",
-            "pos" : [
-              45.4347299,
-              12.3328067
-            ]
-          },
-          {
-            "kind" : "ice_cream",
-            "name" : "Gelateria al campanile",
-            "pos" : [
-              45.4329427,
-              12.3317636
             ]
           },
           {
@@ -17809,6 +17789,29 @@
           {
             "kind" : "drinking_water",
             "pos" : [
+              45.4336609,
+              12.329115
+            ]
+          },
+          {
+            "changingTable" : true,
+            "kind" : "toilets",
+            "pos" : [
+              45.4352047,
+              12.3410855
+            ]
+          },
+          {
+            "kind" : "ice_cream",
+            "name" : "Gelateria Igloo",
+            "pos" : [
+              45.4347299,
+              12.3328067
+            ]
+          },
+          {
+            "kind" : "drinking_water",
+            "pos" : [
               45.4330947,
               12.3385522
             ]
@@ -17819,6 +17822,21 @@
             "pos" : [
               45.435225,
               12.3368743
+            ]
+          },
+          {
+            "kind" : "ice_cream",
+            "name" : "Gelateria al campanile",
+            "pos" : [
+              45.4329427,
+              12.3317636
+            ]
+          },
+          {
+            "kind" : "toilets",
+            "pos" : [
+              45.4328134,
+              12.3375015
             ]
           },
           {
@@ -17835,14 +17853,6 @@
             "pos" : [
               45.4350862,
               12.3370557
-            ]
-          },
-          {
-            "changingTable" : true,
-            "kind" : "toilets",
-            "pos" : [
-              45.4352047,
-              12.3410855
             ]
           },
           {
@@ -18025,11 +18035,27 @@
       "familyWalk" : {
         "places" : [
           {
+            "changingTable" : true,
+            "kind" : "toilets",
+            "pos" : [
+              45.4427325,
+              10.9981321
+            ]
+          },
+          {
             "kind" : "drinking_water",
             "name" : "Fontana delle Due Campane",
             "pos" : [
               45.4406914,
               10.9948495
+            ]
+          },
+          {
+            "kind" : "drinking_water",
+            "name" : "Fontana della Berlina",
+            "pos" : [
+              45.4429927,
+              10.9972854
             ]
           },
           {
@@ -18050,69 +18076,6 @@
           },
           {
             "kind" : "ice_cream",
-            "name" : "Gelateria Patagonia",
-            "pos" : [
-              45.4405584,
-              10.9948584
-            ]
-          },
-          {
-            "kind" : "ice_cream",
-            "name" : "Gelateria Pellicciai",
-            "pos" : [
-              45.4422225,
-              10.9959968
-            ]
-          },
-          {
-            "kind" : "ice_cream",
-            "name" : "Tugò",
-            "pos" : [
-              45.4402544,
-              10.9934027
-            ]
-          },
-          {
-            "kind" : "ice_cream",
-            "name" : "Grom",
-            "pos" : [
-              45.4399689,
-              10.9941597
-            ]
-          },
-          {
-            "kind" : "drinking_water",
-            "pos" : [
-              45.4407162,
-              10.9948517
-            ]
-          },
-          {
-            "kind" : "ice_cream",
-            "name" : "Gelatist",
-            "pos" : [
-              45.4404956,
-              10.9945882
-            ]
-          },
-          {
-            "changingTable" : true,
-            "kind" : "toilets",
-            "pos" : [
-              45.4427325,
-              10.9981321
-            ]
-          },
-          {
-            "kind" : "drinking_water",
-            "name" : "Fontana della Berlina",
-            "pos" : [
-              45.4429927,
-              10.9972854
-            ]
-          },
-          {
-            "kind" : "ice_cream",
             "name" : "Gelateria Mazzini",
             "pos" : [
               45.4419424,
@@ -18125,6 +18088,14 @@
             "pos" : [
               45.4404892,
               10.9996893
+            ]
+          },
+          {
+            "kind" : "ice_cream",
+            "name" : "Gelateria Patagonia",
+            "pos" : [
+              45.4405584,
+              10.9948584
             ]
           },
           {
@@ -18153,10 +18124,34 @@
           },
           {
             "kind" : "ice_cream",
+            "name" : "Gelateria Pellicciai",
+            "pos" : [
+              45.4422225,
+              10.9959968
+            ]
+          },
+          {
+            "kind" : "ice_cream",
             "name" : "Ballini",
             "pos" : [
               45.4443406,
               10.9983118
+            ]
+          },
+          {
+            "kind" : "ice_cream",
+            "name" : "Tugò",
+            "pos" : [
+              45.4402544,
+              10.9934027
+            ]
+          },
+          {
+            "kind" : "ice_cream",
+            "name" : "Grom",
+            "pos" : [
+              45.4399689,
+              10.9941597
             ]
           },
           {
@@ -18177,8 +18172,23 @@
           {
             "kind" : "drinking_water",
             "pos" : [
+              45.4407162,
+              10.9948517
+            ]
+          },
+          {
+            "kind" : "drinking_water",
+            "pos" : [
               45.4427658,
               10.9998131
+            ]
+          },
+          {
+            "kind" : "ice_cream",
+            "name" : "Gelatist",
+            "pos" : [
+              45.4404956,
+              10.9945882
             ]
           },
           {
@@ -18325,6 +18335,14 @@
             ]
           },
           {
+            "kind" : "ice_cream",
+            "name" : "Eissalon Tuchlauben",
+            "pos" : [
+              48.2106007,
+              16.3709044
+            ]
+          },
+          {
             "kind" : "drinking_water",
             "pos" : [
               48.2081334,
@@ -18378,10 +18396,25 @@
             ]
           },
           {
+            "kind" : "ice_cream",
+            "name" : "Tuchlauben Ice Cream Frozen Joghurt",
+            "pos" : [
+              48.2086931,
+              16.3720442
+            ]
+          },
+          {
             "kind" : "toilets",
             "pos" : [
               48.2103857,
               16.3676421
+            ]
+          },
+          {
+            "kind" : "drinking_water",
+            "pos" : [
+              48.207114,
+              16.3718811
             ]
           },
           {
@@ -18407,11 +18440,32 @@
             ]
           },
           {
+            "kind" : "drinking_water",
+            "pos" : [
+              48.2081242,
+              16.3727128
+            ]
+          },
+          {
             "kind" : "ice_cream",
             "name" : "Tuchlauben",
             "pos" : [
               48.2084503,
               16.3704903
+            ]
+          },
+          {
+            "kind" : "drinking_water",
+            "pos" : [
+              48.208933,
+              16.3732187
+            ]
+          },
+          {
+            "kind" : "drinking_water",
+            "pos" : [
+              48.2097055,
+              16.3736069
             ]
           },
           {
@@ -18484,47 +18538,11 @@
             ]
           },
           {
-            "kind" : "ice_cream",
-            "name" : "Eissalon Tuchlauben",
+            "changingTable" : true,
+            "kind" : "toilets",
             "pos" : [
-              48.2106007,
-              16.3709044
-            ]
-          },
-          {
-            "kind" : "ice_cream",
-            "name" : "Tuchlauben Ice Cream Frozen Joghurt",
-            "pos" : [
-              48.2086931,
-              16.3720442
-            ]
-          },
-          {
-            "kind" : "drinking_water",
-            "pos" : [
-              48.207114,
-              16.3718811
-            ]
-          },
-          {
-            "kind" : "drinking_water",
-            "pos" : [
-              48.2081242,
-              16.3727128
-            ]
-          },
-          {
-            "kind" : "drinking_water",
-            "pos" : [
-              48.208933,
-              16.3732187
-            ]
-          },
-          {
-            "kind" : "drinking_water",
-            "pos" : [
-              48.2097055,
-              16.3736069
+              48.2084832,
+              16.3721599
             ]
           },
           {
@@ -18533,14 +18551,6 @@
             "pos" : [
               48.2091854,
               16.3645968
-            ]
-          },
-          {
-            "changingTable" : true,
-            "kind" : "toilets",
-            "pos" : [
-              48.2084832,
-              16.3721599
             ]
           }
         ],
@@ -18809,6 +18819,13 @@
           {
             "kind" : "drinking_water",
             "pos" : [
+              54.6854598,
+              25.2914554
+            ]
+          },
+          {
+            "kind" : "drinking_water",
+            "pos" : [
               54.6815865,
               25.2865348
             ]
@@ -18823,8 +18840,8 @@
           {
             "kind" : "drinking_water",
             "pos" : [
-              54.6854598,
-              25.2914554
+              54.6867127,
+              25.2877393
             ]
           },
           {
@@ -18832,13 +18849,6 @@
             "pos" : [
               54.6834671,
               25.2931185
-            ]
-          },
-          {
-            "kind" : "drinking_water",
-            "pos" : [
-              54.6867127,
-              25.2877393
             ]
           },
           {
@@ -18972,25 +18982,18 @@
             ]
           },
           {
+            "kind" : "drinking_water",
+            "pos" : [
+              48.0624965,
+              12.2324057
+            ]
+          },
+          {
             "kind" : "ice_cream",
             "name" : "Eiscafe Venezia",
             "pos" : [
               48.0606678,
               12.2332033
-            ]
-          },
-          {
-            "kind" : "drinking_water",
-            "pos" : [
-              48.0601767,
-              12.2323368
-            ]
-          },
-          {
-            "kind" : "drinking_water",
-            "pos" : [
-              48.0624965,
-              12.2324057
             ]
           },
           {
@@ -19034,6 +19037,13 @@
             "pos" : [
               48.0625537,
               12.2316137
+            ]
+          },
+          {
+            "kind" : "drinking_water",
+            "pos" : [
+              48.0601767,
+              12.2323368
             ]
           }
         ],
@@ -19241,14 +19251,6 @@
       "familyWalk" : {
         "places" : [
           {
-            "kind" : "ice_cream",
-            "name" : "Amorino",
-            "pos" : [
-              53.9588896,
-              -1.0808272
-            ]
-          },
-          {
             "kind" : "toilets",
             "name" : "Silver Street Toilets",
             "pos" : [
@@ -19258,42 +19260,26 @@
           },
           {
             "kind" : "ice_cream",
-            "name" : "Luxury Ice Cream Company",
-            "pos" : [
-              53.9603324,
-              -1.0825666
-            ]
-          },
-          {
-            "kind" : "ice_cream",
-            "name" : "Loopy Scoops",
-            "pos" : [
-              53.9598718,
-              -1.0814536
-            ]
-          },
-          {
-            "kind" : "ice_cream",
-            "name" : "Ciao",
-            "pos" : [
-              53.960975,
-              -1.0865572
-            ]
-          },
-          {
-            "changingTable" : true,
-            "kind" : "toilets",
-            "pos" : [
-              53.9613421,
-              -1.0862814
-            ]
-          },
-          {
-            "kind" : "ice_cream",
             "name" : "Roberto",
             "pos" : [
               53.9625462,
               -1.07854
+            ]
+          },
+          {
+            "kind" : "ice_cream",
+            "name" : "Amorino",
+            "pos" : [
+              53.9588896,
+              -1.0808272
+            ]
+          },
+          {
+            "kind" : "ice_cream",
+            "name" : "Luxury Ice Cream Company",
+            "pos" : [
+              53.9603324,
+              -1.0825666
             ]
           },
           {
@@ -19313,10 +19299,34 @@
             ]
           },
           {
+            "kind" : "ice_cream",
+            "name" : "Loopy Scoops",
+            "pos" : [
+              53.9598718,
+              -1.0814536
+            ]
+          },
+          {
             "kind" : "drinking_water",
             "pos" : [
               53.9614039,
               -1.0809239
+            ]
+          },
+          {
+            "kind" : "ice_cream",
+            "name" : "Ciao",
+            "pos" : [
+              53.960975,
+              -1.0865572
+            ]
+          },
+          {
+            "changingTable" : true,
+            "kind" : "toilets",
+            "pos" : [
+              53.9613421,
+              -1.0862814
             ]
           }
         ],
@@ -19516,36 +19526,6 @@
             ]
           },
           {
-            "changingTable" : true,
-            "kind" : "toilets",
-            "name" : "Paradeplatz",
-            "pos" : [
-              47.3697194,
-              8.5389774
-            ]
-          },
-          {
-            "kind" : "drinking_water",
-            "pos" : [
-              47.3691872,
-              8.5393058
-            ]
-          },
-          {
-            "kind" : "drinking_water",
-            "pos" : [
-              47.3697316,
-              8.5392084
-            ]
-          },
-          {
-            "kind" : "drinking_water",
-            "pos" : [
-              47.3685194,
-              8.5393103
-            ]
-          },
-          {
             "kind" : "drinking_water",
             "name" : "Brunnen mit \"wasserspeiendem Schwan\"",
             "pos" : [
@@ -19554,10 +19534,27 @@
             ]
           },
           {
+            "kind" : "playground",
+            "name" : "Urania",
+            "pos" : [
+              47.3735149,
+              8.5412107
+            ]
+          },
+          {
             "kind" : "drinking_water",
             "pos" : [
               47.3679048,
               8.545038
+            ]
+          },
+          {
+            "changingTable" : true,
+            "kind" : "toilets",
+            "name" : "Paradeplatz",
+            "pos" : [
+              47.3697194,
+              8.5389774
             ]
           },
           {
@@ -19666,10 +19663,33 @@
           },
           {
             "kind" : "drinking_water",
+            "pos" : [
+              47.3691872,
+              8.5393058
+            ]
+          },
+          {
+            "kind" : "drinking_water",
             "name" : "Brunnen im Helmhaus",
             "pos" : [
               47.3698895,
               8.543068
+            ]
+          },
+          {
+            "kind" : "playground",
+            "name" : "Lindenhof",
+            "pos" : [
+              47.3730566,
+              8.5403534
+            ]
+          },
+          {
+            "kind" : "drinking_water",
+            "name" : "Notwasserbrunnen",
+            "pos" : [
+              47.3730336,
+              8.5402668
             ]
           },
           {
@@ -19678,6 +19698,15 @@
             "pos" : [
               47.3667953,
               8.545076
+            ]
+          },
+          {
+            "changingTable" : true,
+            "kind" : "toilets",
+            "name" : "Urania",
+            "pos" : [
+              47.3735062,
+              8.5409101
             ]
           },
           {
@@ -19704,11 +19733,34 @@
             ]
           },
           {
+            "kind" : "drinking_water",
+            "pos" : [
+              47.373228,
+              8.5417102
+            ]
+          },
+          {
             "kind" : "toilets",
             "name" : "Bellevue",
             "pos" : [
               47.366805,
               8.5450097
+            ]
+          },
+          {
+            "kind" : "toilets",
+            "name" : "Urania",
+            "pos" : [
+              47.3735059,
+              8.5408734
+            ]
+          },
+          {
+            "kind" : "drinking_water",
+            "name" : "Findling mit Brunnen",
+            "pos" : [
+              47.3738983,
+              8.5406139
             ]
           },
           {
@@ -19725,6 +19777,13 @@
             "pos" : [
               47.3701868,
               8.5434285
+            ]
+          },
+          {
+            "kind" : "drinking_water",
+            "pos" : [
+              47.3697316,
+              8.5392084
             ]
           },
           {
@@ -19751,6 +19810,13 @@
           {
             "kind" : "drinking_water",
             "pos" : [
+              47.3733363,
+              8.5389855
+            ]
+          },
+          {
+            "kind" : "drinking_water",
+            "pos" : [
               47.3716569,
               8.5395591
             ]
@@ -19770,74 +19836,18 @@
             ]
           },
           {
+            "kind" : "drinking_water",
+            "pos" : [
+              47.3685194,
+              8.5393103
+            ]
+          },
+          {
             "kind" : "ice_cream",
             "name" : "Gelateria ORO",
             "pos" : [
               47.370764,
               8.5444608
-            ]
-          },
-          {
-            "kind" : "drinking_water",
-            "pos" : [
-              47.3733363,
-              8.5389855
-            ]
-          },
-          {
-            "kind" : "playground",
-            "name" : "Urania",
-            "pos" : [
-              47.3735149,
-              8.5412107
-            ]
-          },
-          {
-            "kind" : "playground",
-            "name" : "Lindenhof",
-            "pos" : [
-              47.3730566,
-              8.5403534
-            ]
-          },
-          {
-            "kind" : "drinking_water",
-            "name" : "Notwasserbrunnen",
-            "pos" : [
-              47.3730336,
-              8.5402668
-            ]
-          },
-          {
-            "changingTable" : true,
-            "kind" : "toilets",
-            "name" : "Urania",
-            "pos" : [
-              47.3735062,
-              8.5409101
-            ]
-          },
-          {
-            "kind" : "drinking_water",
-            "pos" : [
-              47.373228,
-              8.5417102
-            ]
-          },
-          {
-            "kind" : "toilets",
-            "name" : "Urania",
-            "pos" : [
-              47.3735059,
-              8.5408734
-            ]
-          },
-          {
-            "kind" : "drinking_water",
-            "name" : "Findling mit Brunnen",
-            "pos" : [
-              47.3738983,
-              8.5406139
             ]
           },
           {
