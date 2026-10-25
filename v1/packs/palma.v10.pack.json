@@ -121,9 +121,9 @@
     "adjustedStreets" : [
 
     ],
-    "fromVersion" : 7,
+    "fromVersion" : 9,
     "removedStreets" : [
-
+      "Rambla dels Ducs de Palma de Mallorca"
     ]
   },
   "cityId" : "palma",
@@ -226,44 +226,6 @@
       [
         39.569599,
         2.647942
-      ]
-    ],
-    [
-      [
-        39.574764,
-        2.648123
-      ],
-      [
-        39.574643,
-        2.64825
-      ],
-      [
-        39.574168,
-        2.648744
-      ],
-      [
-        39.573706,
-        2.649224
-      ],
-      [
-        39.573675,
-        2.649257
-      ],
-      [
-        39.573606,
-        2.649328
-      ],
-      [
-        39.573522,
-        2.649417
-      ],
-      [
-        39.57293,
-        2.65004
-      ],
-      [
-        39.572452,
-        2.650545
       ]
     ],
     [
@@ -1428,6 +1390,146 @@
     ],
     [
       [
+        39.572538,
+        2.650733
+      ],
+      [
+        39.572557,
+        2.650714
+      ],
+      [
+        39.572892,
+        2.650381
+      ],
+      [
+        39.573037,
+        2.650244
+      ],
+      [
+        39.573084,
+        2.650199
+      ],
+      [
+        39.573288,
+        2.649979
+      ],
+      [
+        39.573503,
+        2.649746
+      ]
+    ],
+    [
+      [
+        39.572411,
+        2.650589
+      ],
+      [
+        39.572406,
+        2.650601
+      ],
+      [
+        39.572404,
+        2.650609
+      ],
+      [
+        39.572402,
+        2.65062
+      ],
+      [
+        39.5724,
+        2.650631
+      ],
+      [
+        39.5724,
+        2.65064
+      ],
+      [
+        39.5724,
+        2.650652
+      ],
+      [
+        39.572401,
+        2.650664
+      ],
+      [
+        39.572402,
+        2.650672
+      ],
+      [
+        39.572405,
+        2.650682
+      ],
+      [
+        39.572408,
+        2.650691
+      ],
+      [
+        39.572412,
+        2.650701
+      ],
+      [
+        39.572415,
+        2.650708
+      ],
+      [
+        39.57242,
+        2.650716
+      ],
+      [
+        39.572424,
+        2.650721
+      ],
+      [
+        39.572429,
+        2.650728
+      ],
+      [
+        39.572434,
+        2.650734
+      ],
+      [
+        39.572449,
+        2.650745
+      ],
+      [
+        39.572457,
+        2.650749
+      ],
+      [
+        39.572465,
+        2.650752
+      ],
+      [
+        39.572474,
+        2.650755
+      ],
+      [
+        39.57248,
+        2.650755
+      ],
+      [
+        39.572489,
+        2.650756
+      ],
+      [
+        39.572497,
+        2.650755
+      ],
+      [
+        39.572508,
+        2.650752
+      ],
+      [
+        39.572519,
+        2.650747
+      ],
+      [
+        39.572538,
+        2.650733
+      ]
+    ],
+    [
+      [
         39.566446,
         2.650489
       ],
@@ -1644,6 +1746,32 @@
       [
         39.572728,
         2.655283
+      ]
+    ],
+    [
+      [
+        39.573784,
+        2.649455
+      ],
+      [
+        39.573841,
+        2.649399
+      ],
+      [
+        39.574285,
+        2.648945
+      ],
+      [
+        39.574309,
+        2.648921
+      ],
+      [
+        39.574836,
+        2.648371
+      ],
+      [
+        39.5749,
+        2.648291
       ]
     ],
     [
@@ -3390,6 +3518,20 @@
       [
         39.574168,
         2.648744
+      ]
+    ],
+    [
+      [
+        39.573503,
+        2.649746
+      ],
+      [
+        39.573604,
+        2.649639
+      ],
+      [
+        39.573784,
+        2.649455
       ]
     ],
     [
@@ -7620,16 +7762,6 @@
     ],
     [
       [
-        39.572452,
-        2.650545
-      ],
-      [
-        39.572411,
-        2.650589
-      ]
-    ],
-    [
-      [
         39.569708,
         2.641912
       ],
@@ -7677,7 +7809,6 @@
     false,
     true,
     false,
-    false,
     true,
     false,
     false,
@@ -7738,46 +7869,6 @@
     false,
     false,
     false,
-    true,
-    false,
-    false,
-    false,
-    false,
-    false,
-    true,
-    false,
-    false,
-    false,
-    false,
-    false,
-    true,
-    true,
-    true,
-    true,
-    false,
-    false,
-    true,
-    true,
-    true,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    true,
-    false,
-    false,
-    false,
-    true,
-    false,
-    true,
-    true,
-    false,
-    true,
-    false,
-    false,
     false,
     false,
     true,
@@ -7789,60 +7880,19 @@
     false,
     true,
     false,
-    true,
-    false,
-    true,
-    true,
-    true,
-    true,
-    true,
-    true,
-    true,
-    false,
     false,
     false,
     false,
     false,
     true,
+    true,
+    true,
+    true,
     false,
     false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
+    true,
+    true,
+    true,
     false,
     false,
     false,
@@ -7851,13 +7901,14 @@
     false,
     false,
     true,
-    true,
-    false,
-    false,
     false,
     false,
     false,
     true,
+    false,
+    true,
+    true,
+    false,
     true,
     false,
     false,
@@ -7870,107 +7921,19 @@
     false,
     false,
     false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    true,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    true,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
     true,
     false,
     true,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    true,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
     false,
     true,
     true,
     true,
     true,
+    true,
+    true,
+    true,
+    false,
+    false,
     false,
     false,
     false,
@@ -8013,8 +7976,179 @@
     false,
     false,
     false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    true,
     true,
     false,
+    false,
+    false,
+    false,
+    false,
+    true,
+    true,
+    false,
+    false,
+    false,
+    false,
+    true,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    true,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    true,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    true,
+    false,
+    true,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    true,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    true,
+    true,
+    true,
+    true,
+    false,
+    false,
+    false,
+    true,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    true,
     false,
     false,
     false,
@@ -8076,7 +8210,7 @@
         "en" : "He was sailing to conquer the island, the tale goes. Twice a year, on 2 February and 11 November, the morning sun shines through the great rose window. Its image lands on the wall right below the other rose window, and the two make a magic eight. Antoni Gaudí worked here too. Under the choir stalls he built a hollow space, so that singing would carry through the whole cathedral without microphones. It was found again about a hundred years later, during repairs."
       },
       "localizedStory" : {
-        "de" : "Der Sage nach löst diese Kathedrale ein Gelübde ein. Im Sturm, heißt es, versprach König Jaume der Jungfrau einen Tempel, käme er heil an Land.",
+        "de" : "Der Sage nach löst diese Kathedrale ein Gelübde ein. Im Sturm versprach König Jaume I. der Jungfrau einen Tempel, käme er heil an Land.",
         "en" : "Legend says this cathedral keeps a vow. In a storm, they say, King Jaume I promised the Virgin a temple if he landed safely."
       },
       "name" : "La Seu",
@@ -8107,24 +8241,24 @@
       "story" : "The angel on the palace tower turns with every wind. Locals say a person who keeps changing their mind is like the palace angel."
     },
     {
-      "extendedStory" : "Four carved female figures, the caryatids, preside over the hall and give it its name. Here members' daughters once made their debut in society. The building began in 1848 as a members' club, on the ground of a demolished convent. For a few years its hall even served as a public theatre, the Coliseo, with seats for nine hundred. For its opening session in 1983, the parliament had to meet in the Llotja. The club building had not been bought yet.",
+      "extendedStory" : "There are four of them, presiding over the hall under three huge chandeliers. Here members' daughters once made their debut in society. The building began in 1848 as a members' club, on the ground of a demolished convent. For a few years its hall even served as a public theatre, the Coliseo, with seats for nine hundred. For its opening session in 1983, the parliament had to meet in another building, the Llotja. The club building had not been bought yet.",
       "icon" : "choice",
       "id" : "f-parlament-de-les-illes-balears",
       "kind" : "other",
       "localizedExtendedStory" : {
-        "de" : "Vier gemeißelte Frauenfiguren, die Karyatiden, wachen über den Saal und geben ihm seinen Namen. Hier gaben einst die Töchter der Mitglieder ihr Debüt in der Gesellschaft. Das Gebäude entstand ab 1848 als Mitgliederclub, auf dem Grund eines abgerissenen Klosters. Einige Jahre lang war sein Saal sogar ein öffentliches Theater, das Coliseo, mit neunhundert Plätzen. Zur Eröffnungssitzung 1983 musste das Parlament in die Llotja ausweichen, denn der Club war noch nicht gekauft.",
-        "en" : "Four carved female figures, the caryatids, preside over the hall and give it its name. Here members' daughters once made their debut in society. The building began in 1848 as a members' club, on the ground of a demolished convent. For a few years its hall even served as a public theatre, the Coliseo, with seats for nine hundred. For its opening session in 1983, the parliament had to meet in the Llotja. The club building had not been bought yet."
+        "de" : "Es sind vier, und sie wachen unter drei riesigen Kronleuchtern über den Saal. Hier gaben einst die Töchter der Mitglieder ihr Debüt in der Gesellschaft. Das Gebäude entstand ab 1848 als Mitgliederclub, auf dem Grund eines abgerissenen Klosters. Einige Jahre lang war sein Saal sogar ein öffentliches Theater, das Coliseo, mit neunhundert Plätzen. Zur Eröffnungssitzung 1983 musste das Parlament in ein anderes Gebäude ausweichen, die Llotja, denn der Club war noch nicht gekauft.",
+        "en" : "There are four of them, presiding over the hall under three huge chandeliers. Here members' daughters once made their debut in society. The building began in 1848 as a members' club, on the ground of a demolished convent. For a few years its hall even served as a public theatre, the Coliseo, with seats for nine hundred. For its opening session in 1983, the parliament had to meet in another building, the Llotja. The club building had not been bought yet."
       },
       "localizedStory" : {
-        "de" : "Das Parlament der Inseln tagt in einem alten Ballsaal. Im Saal der Karyatiden feierte Mallorcas feine Gesellschaft einst Galabälle, unter drei riesigen Kronleuchtern.",
-        "en" : "The Balearic parliament debates in an old ballroom. Mallorca's high society once held gala balls in this Hall of the Caryatids, under three huge chandeliers."
+        "de" : "Das Parlament der Inseln tagt in einem alten Ballsaal, dem Saal der Karyatiden, benannt nach gemeißelten Frauenfiguren. Mallorcas feine Gesellschaft feierte hier Galabälle.",
+        "en" : "The Balearic parliament debates in an old ballroom, the Hall of the Caryatids, named for its carved female figures. High society held gala balls here."
       },
       "name" : "Parlament de les Illes Balears",
       "pos" : [
         39.568909,
         2.648091
       ],
-      "story" : "The Balearic parliament debates in an old ballroom. Mallorca's high society once held gala balls in this Hall of the Caryatids, under three huge chandeliers."
+      "story" : "The Balearic parliament debates in an old ballroom, the Hall of the Caryatids, named for its carved female figures. High society held gala balls here."
     },
     {
       "extendedStory" : "It is said to open a week before every other Christmas market in Palma. The square fills the ground of an old convent, with arcades running all the way round. A rare film from 1951 shows the city's food market here, its stalls lined up in rows in the middle. In the 1970s the whole square was dug out from end to end, to fit a four-storey car park underneath.",
@@ -8147,24 +8281,24 @@
       "story" : "Each Christmas the Santa Llúcia market fills this square. Mallorcans come for the little handmade clay figures of their nativity scenes."
     },
     {
-      "extendedStory" : "The fishmongers' open counters run one into the next for almost 80 metres. The market's name goes back to nuns known as the Monges de l'Olivar, after their earlier home near Esporles. Their convent was pulled down, and its ground became the square this market stands on. Some stalls are family affairs: one butcher's grandparents already had a stall at the old market on Plaça Major.",
+      "extendedStory" : "The fishmongers' open counters run one into the next for almost 80 metres. The market's name goes back to nuns known as the Monges de l'Olivar, after their earlier home near Esporles. Their convent in town was pulled down, and its ground became the square this market stands on. Some stalls are family affairs: one butcher's grandparents already had a stall at the old market on Plaça Major.",
       "icon" : "everyday",
       "id" : "f-mercat-de-l-olivar",
       "kind" : "market",
       "localizedExtendedStory" : {
         "de" : "Die offenen Fischtheken gehen fast 80 Meter lang ineinander über. Der Name stammt von Nonnen, die Monges de l'Olivar hießen, nach ihrem früheren Kloster bei Esporles. Ihr Kloster in der Stadt wurde abgerissen, und auf seinem Grund entstand der Platz, auf dem der Markt steht. Manche Stände sind Familiensache: Die Großeltern eines Metzgers hatten schon einen Stand auf dem alten Markt an der Plaça Major.",
-        "en" : "The fishmongers' open counters run one into the next for almost 80 metres. The market's name goes back to nuns known as the Monges de l'Olivar, after their earlier home near Esporles. Their convent was pulled down, and its ground became the square this market stands on. Some stalls are family affairs: one butcher's grandparents already had a stall at the old market on Plaça Major."
+        "en" : "The fishmongers' open counters run one into the next for almost 80 metres. The market's name goes back to nuns known as the Monges de l'Olivar, after their earlier home near Esporles. Their convent in town was pulled down, and its ground became the square this market stands on. Some stalls are family affairs: one butcher's grandparents already had a stall at the old market on Plaça Major."
       },
       "localizedStory" : {
         "de" : "Kauf hier Fisch an einem Stand. Eine der Bars im Markt, heißt es, bereitet ihn dir zu, direkt von der Theke auf den Tisch.",
-        "en" : "Buy fish at a stall here. One of the market's bars will cook it for you, straight from the counter to the table."
+        "en" : "Buy fish at a stall here. One of the market's bars, they say, will cook it for you, straight from the counter to the table."
       },
       "name" : "Mercat de l'Olivar",
       "pos" : [
         39.574137,
         2.65367
       ],
-      "story" : "Buy fish at a stall here. One of the market's bars will cook it for you, straight from the counter to the table."
+      "story" : "Buy fish at a stall here. One of the market's bars, they say, will cook it for you, straight from the counter to the table."
     },
     {
       "extendedStory" : "Its roots reach so far that they have turned up in digs under La Rambla. The garden was once Palma's botanic garden, growing medicinal herbs for the pharmacy of the hospital next door. The house itself was a charity home. Rules printed in the 1940s show that it took in orphans and people who could not look after themselves. Everyone got up at seven, or half past seven in winter, and went to Mass. Then came the shoe, carpentry or printing workshops, or school.",
@@ -8216,15 +8350,15 @@
         "en" : "It was Jesus, the story goes, who had that door walled up, so that nobody would leave through it. The devil stormed off in a rage, they say, raising a gale as he went. Above the doorway, look for Mary standing on a crescent moon. Under her feet the devil is carved as an animal-like creature. The church was built for the Jesuits, on the site of the old Jewish synagogue."
       },
       "localizedStory" : {
-        "de" : "Der Sage nach lauerte der Teufel hier auf jeden, der die Seitentür nahm. Sie wurde zugemauert, also schwor er, heißt es, ewigen Wind.",
-        "en" : "Legend says the devil waited here for whoever left by the side door. It was walled up, so he swore, they say, endless wind here."
+        "de" : "Der Sage nach war dem Teufel versprochen, wer die Seitentür nahm, und er lauerte hier. Sie wurde zugemauert, also schwor er, heißt es, ewigen Wind.",
+        "en" : "Legend says the devil was promised anyone using the side door, and waited here. It was walled up, so he swore endless wind here."
       },
       "name" : "Monti-sion",
       "pos" : [
         39.567139,
         2.652639
       ],
-      "story" : "Legend says the devil waited here for whoever left by the side door. It was walled up, so he swore, they say, endless wind here."
+      "story" : "Legend says the devil was promised anyone using the side door, and waited here. It was walled up, so he swore endless wind here."
     },
     {
       "extendedStory" : "The town hall clock is called En Figuera, after the bell-founder Pere Joan de Figuera. On New Year's Eve, thousands fill the square to count its last twelve strokes of the year together. A folk tale has Master Nadal stroll across this square and fall through a hole into a tunnel. He walks on and on, the tale goes, until he reaches a city under the ground. The gnarled olive tree here is reckoned to be 500 to 600 years old.",
@@ -8247,7 +8381,7 @@
       "story" : "Find the lazy man's bench on the town hall. Locals say idlers sunned here instead of working, every excuse starting 'if it weren't for'."
     }
   ],
-  "generatedAt" : "2026-10-20T14:35:29Z",
+  "generatedAt" : "2026-10-25T12:52:44Z",
   "icon" : {
     "paths" : [
       "M51.8 7.1 L52.1 7.5 52.9 6.8 53.8 6.2 54.9 5.8 56.0 5.7 56.7 4.8 57.1 4.9 57.4 5.3 56.7 6.1 57.1 7.7 58.9 7.1 60.7 7.0 62.0 7.1 62.9 7.4 63.8 7.8 64.6 8.3 66.6 8.2 66.9 8.6 66.6 9.0 64.7 9.1 63.0 10.8 61.8 12.0 63.6 12.4 64.9 12.9 66.5 13.7 68.1 14.8 69.6 16.1 70.6 17.2 71.5 18.4 72.3 19.8 75.5 22.2 75.6 22.8 75.0 22.8 71.9 20.5 64.6 19.3 60.7 18.4 61.5 19.6 62.4 21.3 63.2 23.5 63.9 25.9 65.7 28.8 65.6 29.3 65.0 29.2 63.2 26.4 59.0 23.5 56.3 21.3 54.7 19.6 53.5 17.8 52.7 23.7 52.3 27.9 52.0 32.1 51.8 38.5 51.8 42.7 52.1 49.1 52.3 53.0 53.0 53.0 53.0 58.0 59.0 58.0 59.0 53.0 65.0 53.0 65.0 35.0 69.4 35.0 69.4 41.0 73.8 41.0 73.8 35.0 78.2 35.0 78.2 41.0 82.6 41.0 82.6 35.0 87.0 35.0 87.0 86.0 56.0 86.0 56.0 70.0 55.8 68.4 55.4 67.3 55.0 66.7 54.5 66.0 53.7 65.2 53.0 64.8 51.9 64.3 50.8 64.1 50.0 64.0 49.2 64.1 48.1 64.3 47.3 64.6 46.3 65.2 45.5 66.0 45.0 66.7 44.6 67.3 44.2 68.4 44.0 70.0 44.0 86.0 13.0 86.0 13.0 35.0 17.4 35.0 17.4 41.0 21.8 41.0 21.8 35.0 26.2 35.0 26.2 41.0 30.6 41.0 30.6 35.0 35.0 35.0 35.0 53.0 41.0 53.0 41.0 58.0 47.0 58.0 47.0 54.7 46.8 47.1 46.9 42.7 47.0 38.3 47.3 34.0 47.7 29.6 48.3 25.3 49.1 19.8 47.7 21.3 46.1 22.7 44.1 24.2 40.8 26.4 39.0 29.2 38.4 29.3 38.3 28.8 40.1 25.9 40.8 23.5 41.6 21.3 42.5 19.6 43.3 18.4 39.4 19.3 32.1 20.5 29.0 22.8 28.4 22.8 28.5 22.2 31.7 19.8 32.5 18.4 33.4 17.2 34.4 16.1 35.9 14.8 37.5 13.7 39.1 12.9 40.4 12.4 42.2 12.0 41.0 10.8 39.3 9.1 37.4 9.0 37.1 8.6 37.4 8.2 39.4 8.3 40.2 7.8 41.1 7.4 42.0 7.1 43.3 7.0 45.1 7.1 46.0 7.4 47.1 7.8 47.7 6.0 47.1 5.1 47.4 4.7 47.8 4.6 48.4 5.6 49.3 5.7 50.2 6.0 51.0 6.4 Z M25.8 52.0 L25.7 51.3 25.3 50.7 24.7 50.3 24.0 50.2 23.3 50.3 22.9 50.6 22.3 51.3 22.2 52.0 22.0 52.0 22.0 61.0 26.0 61.0 26.0 52.0 Z M77.7 51.3 L77.3 50.7 76.7 50.3 76.0 50.2 75.3 50.3 74.9 50.6 74.3 51.3 74.2 52.0 74.0 52.0 74.0 61.0 78.0 61.0 78.0 52.0 77.8 52.0 Z M6.0 95.2 L6.0 91.0 8.2 91.9 10.0 92.3 11.8 92.6 13.2 92.6 14.5 92.4 16.0 92.0 21.8 89.9 23.2 89.5 24.5 89.4 26.0 89.5 27.5 89.7 29.2 90.3 34.2 92.1 35.8 92.5 37.2 92.6 38.8 92.5 40.2 92.2 41.8 91.8 46.8 89.9 48.2 89.6 49.8 89.4 51.2 89.5 52.8 89.8 54.5 90.3 59.2 92.1 60.8 92.4 62.2 92.6 63.8 92.5 65.2 92.3 67.0 91.7 71.8 89.9 73.2 89.6 74.8 89.4 76.2 89.5 78.0 89.8 79.5 90.3 84.2 92.0 85.8 92.4 87.0 92.6 88.5 92.6 90.0 92.3 91.8 91.9 94.0 91.0 94.0 95.2 90.8 96.4 89.5 96.6 88.2 96.8 86.8 96.8 85.0 96.4 83.2 95.9 78.5 94.1 76.8 93.7 75.2 93.6 73.8 93.7 72.2 94.0 70.8 94.5 66.0 96.2 64.2 96.7 62.8 96.8 61.2 96.7 59.8 96.4 58.2 96.0 53.2 94.1 51.8 93.8 50.2 93.6 48.8 93.7 47.2 94.0 45.5 94.5 40.8 96.3 39.2 96.6 37.8 96.8 36.2 96.7 34.8 96.5 33.0 95.9 28.2 94.1 26.8 93.8 25.2 93.6 23.8 93.7 22.0 94.0 20.5 94.5 15.8 96.2 14.2 96.6 13.0 96.8 11.5 96.8 10.0 96.5 8.2 96.1 Z"
@@ -8260,17 +8394,17 @@
     "en" : "Palma"
   },
   "name" : "Palma",
-  "packVersion" : 8,
+  "packVersion" : 10,
   "schemaVersion" : 1,
   "source" : "OpenStreetMap via Overpass API",
   "stats" : {
-    "estHours" : 12.9,
-    "nodeCount" : 2231,
+    "estHours" : 12.8,
+    "nodeCount" : 2229,
     "routeFactor" : 1.25,
-    "routeKm" : 45,
+    "routeKm" : 44.9,
     "stepsStreetCount" : 22,
-    "streetCount" : 320,
-    "totalKm" : 36.06
+    "streetCount" : 319,
+    "totalKm" : 36.03
   },
   "streets" : [
     {
@@ -24581,151 +24715,129 @@
     },
     {
       "id" : "s-la-rambla",
-      "lengthM" : 335.9,
+      "lengthM" : 336.4,
       "name" : "La Rambla",
       "nodes" : [
         [
-          39.572538,
-          2.650733
+          39.574764,
+          2.648123
         ],
         [
-          39.572681,
-          2.650591
+          39.574624,
+          2.648269
         ],
         [
-          39.572824,
-          2.650449
+          39.574484,
+          2.648415
         ],
         [
-          39.572968,
-          2.650309
+          39.574343,
+          2.648561
         ],
         [
-          39.573112,
-          2.650169
+          39.574203,
+          2.648707
         ],
         [
-          39.57325,
-          2.65002
+          39.574063,
+          2.648853
         ],
         [
-          39.573388,
-          2.64987
+          39.573922,
+          2.648999
         ],
         [
-          39.573503,
-          2.649746
+          39.573782,
+          2.649145
         ],
         [
-          39.573784,
-          2.649455
+          39.573642,
+          2.649291
         ],
         [
-          39.573926,
-          2.649313
+          39.573502,
+          2.649438
         ],
         [
-          39.574067,
-          2.649168
+          39.573362,
+          2.649585
         ],
         [
-          39.574208,
-          2.649024
+          39.573223,
+          2.649732
         ],
         [
-          39.574349,
-          2.648879
+          39.573083,
+          2.649879
         ],
         [
-          39.574489,
-          2.648732
+          39.572943,
+          2.650026
         ],
         [
-          39.574629,
-          2.648586
+          39.572804,
+          2.650173
         ],
         [
-          39.574769,
-          2.64844
+          39.572664,
+          2.650321
         ],
         [
-          39.5749,
-          2.648291
+          39.572525,
+          2.650468
         ],
         [
-          39.573643,
-          2.649599
+          39.572452,
+          2.650545
         ]
       ],
       "polylines" : [
         [
           [
-            39.572538,
-            2.650733
+            39.574764,
+            2.648123
           ],
           [
-            39.572557,
-            2.650714
+            39.574643,
+            2.64825
           ],
           [
-            39.572892,
-            2.650381
+            39.574168,
+            2.648744
           ],
           [
-            39.573037,
-            2.650244
+            39.573706,
+            2.649224
           ],
           [
-            39.573084,
-            2.650199
+            39.573675,
+            2.649257
           ],
           [
-            39.573288,
-            2.649979
+            39.573606,
+            2.649328
           ],
           [
-            39.573503,
-            2.649746
+            39.573522,
+            2.649417
+          ],
+          [
+            39.57293,
+            2.65004
+          ],
+          [
+            39.572452,
+            2.650545
           ]
         ],
         [
           [
-            39.573784,
-            2.649455
+            39.572452,
+            2.650545
           ],
           [
-            39.573841,
-            2.649399
-          ],
-          [
-            39.574285,
-            2.648945
-          ],
-          [
-            39.574309,
-            2.648921
-          ],
-          [
-            39.574836,
-            2.648371
-          ],
-          [
-            39.5749,
-            2.648291
-          ]
-        ],
-        [
-          [
-            39.573503,
-            2.649746
-          ],
-          [
-            39.573604,
-            2.649639
-          ],
-          [
-            39.573784,
-            2.649455
+            39.572411,
+            2.650589
           ]
         ]
       ]
@@ -27985,133 +28097,6 @@
           [
             39.575412,
             2.648862
-          ]
-        ]
-      ]
-    },
-    {
-      "id" : "s-rambla-dels-ducs-de-palma-de-mallorca",
-      "lengthM" : 26.2,
-      "name" : "Rambla dels Ducs de Palma de Mallorca",
-      "nodes" : [
-        [
-          39.572411,
-          2.650589
-        ],
-        [
-          39.572486,
-          2.650756
-        ]
-      ],
-      "polylines" : [
-        [
-          [
-            39.572411,
-            2.650589
-          ],
-          [
-            39.572406,
-            2.650601
-          ],
-          [
-            39.572404,
-            2.650609
-          ],
-          [
-            39.572402,
-            2.65062
-          ],
-          [
-            39.5724,
-            2.650631
-          ],
-          [
-            39.5724,
-            2.65064
-          ],
-          [
-            39.5724,
-            2.650652
-          ],
-          [
-            39.572401,
-            2.650664
-          ],
-          [
-            39.572402,
-            2.650672
-          ],
-          [
-            39.572405,
-            2.650682
-          ],
-          [
-            39.572408,
-            2.650691
-          ],
-          [
-            39.572412,
-            2.650701
-          ],
-          [
-            39.572415,
-            2.650708
-          ],
-          [
-            39.57242,
-            2.650716
-          ],
-          [
-            39.572424,
-            2.650721
-          ],
-          [
-            39.572429,
-            2.650728
-          ],
-          [
-            39.572434,
-            2.650734
-          ],
-          [
-            39.572449,
-            2.650745
-          ],
-          [
-            39.572457,
-            2.650749
-          ],
-          [
-            39.572465,
-            2.650752
-          ],
-          [
-            39.572474,
-            2.650755
-          ],
-          [
-            39.57248,
-            2.650755
-          ],
-          [
-            39.572489,
-            2.650756
-          ],
-          [
-            39.572497,
-            2.650755
-          ],
-          [
-            39.572508,
-            2.650752
-          ],
-          [
-            39.572519,
-            2.650747
-          ],
-          [
-            39.572538,
-            2.650733
           ]
         ]
       ]

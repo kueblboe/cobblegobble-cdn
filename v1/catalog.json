@@ -748,8 +748,8 @@
           }
         ],
         "start" : [
-          49.890889,
-          10.882503
+          49.890752,
+          10.88201
         ]
       },
       "hasPage" : true,
@@ -765,15 +765,15 @@
         "en" : "Bamberg"
       },
       "name" : "Bamberg",
-      "packVersion" : 29,
+      "packVersion" : 30,
       "stats" : {
-        "estHours" : 8,
-        "nodeCount" : 1688,
-        "routeFactor" : 1.25,
-        "routeKm" : 28,
+        "estHours" : 7.9,
+        "nodeCount" : 1670,
+        "routeFactor" : 1.24,
+        "routeKm" : 27.6,
         "stepsStreetCount" : 5,
         "streetCount" : 124,
-        "totalKm" : 22.46
+        "totalKm" : 22.3
       },
       "status" : "published"
     },
@@ -1784,15 +1784,15 @@
         "en" : "Bern"
       },
       "name" : "Bern",
-      "packVersion" : 17,
+      "packVersion" : 18,
       "stats" : {
         "estHours" : 6,
-        "nodeCount" : 1124,
+        "nodeCount" : 1109,
         "routeFactor" : 1.26,
-        "routeKm" : 21.2,
+        "routeKm" : 21.1,
         "stepsStreetCount" : 10,
         "streetCount" : 94,
-        "totalKm" : 17.13
+        "totalKm" : 17.09
       },
       "status" : "published"
     },
@@ -3085,15 +3085,15 @@
         "en" : "Budapest"
       },
       "name" : "Budapest",
-      "packVersion" : 21,
+      "packVersion" : 22,
       "stats" : {
-        "estHours" : 15.9,
-        "nodeCount" : 2726,
+        "estHours" : 15.8,
+        "nodeCount" : 2701,
         "routeFactor" : 1.25,
-        "routeKm" : 55.6,
+        "routeKm" : 55.3,
         "stepsStreetCount" : 18,
         "streetCount" : 176,
-        "totalKm" : 44.48
+        "totalKm" : 44.24
       },
       "status" : "published"
     },
@@ -4515,6 +4515,250 @@
     {
       "boundaryPreview" : [
         [
+          51.04626,
+          13.73333
+        ],
+        [
+          51.04636,
+          13.7338
+        ],
+        [
+          51.04647,
+          13.73401
+        ],
+        [
+          51.04661,
+          13.73486
+        ],
+        [
+          51.04684,
+          13.73665
+        ],
+        [
+          51.04679,
+          13.73674
+        ],
+        [
+          51.04688,
+          13.73703
+        ],
+        [
+          51.04698,
+          13.73786
+        ],
+        [
+          51.04693,
+          13.73984
+        ],
+        [
+          51.04682,
+          13.74041
+        ],
+        [
+          51.04641,
+          13.741
+        ],
+        [
+          51.04694,
+          13.74264
+        ],
+        [
+          51.04737,
+          13.74318
+        ],
+        [
+          51.04772,
+          13.74308
+        ],
+        [
+          51.04772,
+          13.74344
+        ],
+        [
+          51.04904,
+          13.74458
+        ],
+        [
+          51.04912,
+          13.7446
+        ],
+        [
+          51.04929,
+          13.74426
+        ],
+        [
+          51.04924,
+          13.74475
+        ],
+        [
+          51.05027,
+          13.74547
+        ],
+        [
+          51.05129,
+          13.74637
+        ],
+        [
+          51.05149,
+          13.74667
+        ],
+        [
+          51.05182,
+          13.7469
+        ],
+        [
+          51.05187,
+          13.74667
+        ],
+        [
+          51.05284,
+          13.74703
+        ],
+        [
+          51.05349,
+          13.74714
+        ],
+        [
+          51.05453,
+          13.74674
+        ],
+        [
+          51.05443,
+          13.74601
+        ],
+        [
+          51.05436,
+          13.74434
+        ],
+        [
+          51.05444,
+          13.74239
+        ],
+        [
+          51.05464,
+          13.74074
+        ],
+        [
+          51.05505,
+          13.7391
+        ],
+        [
+          51.05447,
+          13.73865
+        ],
+        [
+          51.0541,
+          13.73849
+        ],
+        [
+          51.0548,
+          13.7367
+        ],
+        [
+          51.05475,
+          13.73618
+        ],
+        [
+          51.05593,
+          13.73483
+        ],
+        [
+          51.05447,
+          13.73115
+        ],
+        [
+          51.05426,
+          13.73075
+        ],
+        [
+          51.05202,
+          13.73279
+        ],
+        [
+          51.0519,
+          13.73243
+        ],
+        [
+          51.05196,
+          13.73225
+        ],
+        [
+          51.05181,
+          13.73208
+        ],
+        [
+          51.05173,
+          13.73177
+        ],
+        [
+          51.05165,
+          13.73175
+        ],
+        [
+          51.05152,
+          13.7311
+        ],
+        [
+          51.05141,
+          13.73148
+        ],
+        [
+          51.05126,
+          13.73131
+        ],
+        [
+          51.05103,
+          13.73206
+        ],
+        [
+          51.05093,
+          13.73219
+        ],
+        [
+          51.05033,
+          13.73216
+        ],
+        [
+          51.04719,
+          13.73346
+        ],
+        [
+          51.04696,
+          13.73342
+        ],
+        [
+          51.04684,
+          13.73328
+        ]
+      ],
+      "center" : [
+        51.050464,
+        13.738215
+      ],
+      "cityId" : "dresden",
+      "country" : "DE",
+      "hasPage" : false,
+      "iapProductId" : "cobblegobble.city.dresden",
+      "localizedNames" : {
+        "de" : "Dresden",
+        "en" : "Dresden"
+      },
+      "name" : "Dresden",
+      "packVersion" : 2,
+      "stats" : {
+        "estHours" : 6,
+        "nodeCount" : 1062,
+        "routeFactor" : 1.32,
+        "routeKm" : 21,
+        "stepsStreetCount" : 6,
+        "streetCount" : 68,
+        "totalKm" : 16.05
+      },
+      "status" : "pending-stories"
+    },
+    {
+      "boundaryPreview" : [
+        [
           53.3406,
           -6.2702
         ],
@@ -5714,15 +5958,15 @@
         "en" : "Edinburgh"
       },
       "name" : "Edinburgh",
-      "packVersion" : 32,
+      "packVersion" : 33,
       "stats" : {
-        "estHours" : 9,
-        "nodeCount" : 1694,
-        "routeFactor" : 1.34,
-        "routeKm" : 31.6,
+        "estHours" : 8.9,
+        "nodeCount" : 1669,
+        "routeFactor" : 1.32,
+        "routeKm" : 31,
         "stepsStreetCount" : 42,
         "streetCount" : 170,
-        "totalKm" : 23.78
+        "totalKm" : 23.76
       },
       "status" : "published"
     },
@@ -11900,15 +12144,15 @@
         "en" : "Palma"
       },
       "name" : "Palma",
-      "packVersion" : 9,
+      "packVersion" : 10,
       "stats" : {
-        "estHours" : 12.9,
-        "nodeCount" : 2231,
+        "estHours" : 12.8,
+        "nodeCount" : 2229,
         "routeFactor" : 1.25,
-        "routeKm" : 45,
+        "routeKm" : 44.9,
         "stepsStreetCount" : 22,
-        "streetCount" : 320,
-        "totalKm" : 36.06
+        "streetCount" : 319,
+        "totalKm" : 36.03
       },
       "status" : "published"
     },
