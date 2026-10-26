@@ -383,7 +383,17 @@
         "streetCount" : 156,
         "totalKm" : 25.54
       },
-      "status" : "published"
+      "status" : "published",
+      "walkStops" : [
+        "Koninklijk Paleis",
+        "Nieuwe Kerk",
+        "Oude Kerk",
+        "Ons' Lieve Heer op Solder",
+        "Nieuwmarkt",
+        "Munttoren",
+        "Begijnhofkapel",
+        "Amsterdam Museum"
+      ]
     },
     {
       "boundaryPreview" : [
@@ -775,7 +785,17 @@
         "streetCount" : 124,
         "totalKm" : 22.3
       },
-      "status" : "published"
+      "status" : "published",
+      "walkStops" : [
+        "Bamberger Dom",
+        "Alte Hofhaltung",
+        "Ausblick auf Klein Venedig",
+        "Schlenkerla",
+        "Gabelmann",
+        "E.T.A.-Hoffmann-Theater",
+        "Altes Rathaus",
+        "Villa Concordia"
+      ]
     },
     {
       "boundaryPreview" : [
@@ -1055,7 +1075,17 @@
         "streetCount" : 110,
         "totalKm" : 13.03
       },
-      "status" : "published"
+      "status" : "published",
+      "walkStops" : [
+        "The Roman Baths",
+        "Saint John the Evangelist RC",
+        "Pulteney Bridge",
+        "Bath Abbey",
+        "The Pump Room",
+        "The Assembly Rooms",
+        "Queen Square",
+        "Bath Farmers Market"
+      ]
     },
     {
       "boundaryPreview" : [
@@ -1370,7 +1400,17 @@
         "streetCount" : 107,
         "totalKm" : 31.15
       },
-      "status" : "published"
+      "status" : "published",
+      "walkStops" : [
+        "Brandenburger Tor",
+        "Akademie der Künste",
+        "Gendarmenmarkt",
+        "Hausvogteiplatz",
+        "Berliner Dom",
+        "Pergamonmuseum",
+        "Neue Wache",
+        "Staatsbibliothek zu Berlin"
+      ]
     },
     {
       "boundaryPreview" : [
@@ -1794,7 +1834,17 @@
         "streetCount" : 94,
         "totalKm" : 17.09
       },
-      "status" : "published"
+      "status" : "published",
+      "walkStops" : [
+        "Bundeshaus – Parlamentsgebäude",
+        "Einsteinhaus",
+        "Münster",
+        "Nydeggbrücke",
+        "Bärengraben",
+        "Rathaus",
+        "Zytglogge",
+        "Käfigturm"
+      ]
     },
     {
       "boundaryPreview" : [
@@ -2251,7 +2301,17 @@
         "streetCount" : 168,
         "totalKm" : 29.89
       },
-      "status" : "published"
+      "status" : "published",
+      "walkStops" : [
+        "Asinelli",
+        "Santa Maria dei Servi",
+        "Biblioteca Universitaria",
+        "Teatro Arena del Sole",
+        "Mercato delle Erbe",
+        "Torresotto di Porta Nuova",
+        "Piazza Maggiore",
+        "Torre degli Azzoguidi"
+      ]
     },
     {
       "boundaryPreview" : [
@@ -2652,7 +2712,17 @@
         "streetCount" : 129,
         "totalKm" : 17.87
       },
-      "status" : "published"
+      "status" : "published",
+      "walkStops" : [
+        "Basiliek van het Heilig Bloed",
+        "Stadhuis Brugge",
+        "Belfort",
+        "Sint-Salvatorskathedraal",
+        "Gruuthusemuseum",
+        "Onze-Lieve-Vrouwekerk",
+        "Ankerplein",
+        "Begijnhof Ten Wijngaerde"
+      ]
     },
     {
       "boundaryPreview" : [
@@ -3339,7 +3409,16 @@
         "streetCount" : 176,
         "totalKm" : 44.24
       },
-      "status" : "published"
+      "status" : "published",
+      "walkStops" : [
+        "Budavári Palota",
+        "Citadella",
+        "Magyarok Nagyasszonya Sziklatemplom",
+        "Központi Vásárcsarnok",
+        "Károlyi-palota",
+        "Pesti Vigadó",
+        "Széchenyi lánchíd"
+      ]
     },
     {
       "boundaryPreview" : [
@@ -3571,7 +3650,15 @@
         "streetCount" : 31,
         "totalKm" : 4.25
       },
-      "status" : "published"
+      "status" : "published",
+      "walkStops" : [
+        "St. Petri-Kirche",
+        "Marschtorzwinger",
+        "Fleetenkieker",
+        "Flethmühle Buxtehude",
+        "Hase-und-Igel-Brunnen",
+        "Rathaus Buxtehude"
+      ]
     },
     {
       "boundaryPreview" : [
@@ -3851,7 +3938,17 @@
         "streetCount" : 35,
         "totalKm" : 6.64
       },
-      "status" : "published"
+      "status" : "published",
+      "walkStops" : [
+        "hrad a zámek Český Krumlov",
+        "Pivovar Eggenberg",
+        "Lazebnický most",
+        "Městský pivovar",
+        "most Dr. E. Beneše",
+        "svatý Vít",
+        "Regionální muzeum v Českém Krumlově",
+        "Plášťový most"
+      ]
     },
     {
       "boundaryPreview" : [
@@ -4117,7 +4214,17 @@
         "streetCount" : 108,
         "totalKm" : 17.46
       },
-      "status" : "published"
+      "status" : "published",
+      "walkStops" : [
+        "Musée Unterlinden",
+        "Hôtel de Ville de Colmar",
+        "Collégiale Saint-Martin",
+        "Musée Bartholdi",
+        "Maison Pfister",
+        "Ancienne douane (Koïfhus)",
+        "Église des Dominicains",
+        "Maison des Têtes"
+      ]
     },
     {
       "boundaryPreview" : [
@@ -4386,7 +4493,17 @@
         "streetCount" : 124,
         "totalKm" : 23.44
       },
-      "status" : "awaiting-approval"
+      "status" : "awaiting-approval",
+      "walkStops" : [
+        "Kölner Dom",
+        "Hohenzollernbrücke",
+        "Groß Sankt Martin",
+        "Historisches Rathaus",
+        "Dufthaus 4711",
+        "Neumarkt",
+        "Hahnentorburg",
+        "Helenenturm"
+      ]
     },
     {
       "boundaryPreview" : [
@@ -4758,7 +4875,17 @@
         "streetCount" : 122,
         "totalKm" : 24.27
       },
-      "status" : "published"
+      "status" : "published",
+      "walkStops" : [
+        "Christiansborg Slot",
+        "Helligåndskirken",
+        "Rundetårn",
+        "Vor Frue Kirke",
+        "Rådhuspladsen",
+        "Københavns Rådhus",
+        "Nationalmuseet",
+        "Thorvaldsens Museum"
+      ]
     },
     {
       "boundaryPreview" : [
@@ -5023,7 +5150,17 @@
         "streetCount" : 70,
         "totalKm" : 12.61
       },
-      "status" : "published"
+      "status" : "published",
+      "walkStops" : [
+        "Münster St. Georg",
+        "St. Paul",
+        "Bäuerlinsturm",
+        "Museum 3. Dimension",
+        "Deutschordensschloss",
+        "Segringer Tor",
+        "Schweinemarkt",
+        "Faulturm"
+      ]
     },
     {
       "boundaryPreview" : [
@@ -5618,7 +5755,17 @@
         "streetCount" : 185,
         "totalKm" : 33.53
       },
-      "status" : "published"
+      "status" : "published",
+      "walkStops" : [
+        "Dublin Castle",
+        "Butt Bridge",
+        "General Post Office",
+        "Saint Mary's Cathedral",
+        "Hugh Lane Gallery",
+        "Wolfe Tone Square",
+        "Ha'penny Bridge",
+        "George's Street Arcade"
+      ]
     },
     {
       "boundaryPreview" : [
@@ -6072,7 +6219,17 @@
         "streetCount" : 82,
         "totalKm" : 8.2
       },
-      "status" : "published"
+      "status" : "published",
+      "walkStops" : [
+        "Knežev dvor",
+        "Revelin",
+        "Minčeta",
+        "Sv. Franjo",
+        "Bokar",
+        "Crkva sv. Blagovještenja",
+        "Crkva sv. Ignacija",
+        "Sv. Ivan"
+      ]
     },
     {
       "boundaryPreview" : [
@@ -6481,7 +6638,17 @@
         "streetCount" : 170,
         "totalKm" : 23.76
       },
-      "status" : "published"
+      "status" : "published",
+      "walkStops" : [
+        "St Giles' Cathedral",
+        "Scott Monument",
+        "National Gallery",
+        "Camera Obscura & World of Illusions",
+        "Central Library",
+        "Greyfriars Kirk",
+        "National Museum of Scotland",
+        "St Cecilia's Hall"
+      ]
     },
     {
       "boundaryPreview" : [
@@ -7016,7 +7183,17 @@
         "streetCount" : 235,
         "totalKm" : 31.7
       },
-      "status" : "published"
+      "status" : "published",
+      "walkStops" : [
+        "Ponte Vecchio",
+        "Belvedere sull'Arno",
+        "Palazzo Pitti",
+        "Piazza Santa Maria Novella",
+        "Galleria dell'Accademia",
+        "Campanile di Giotto",
+        "Basilica di Santa Croce",
+        "Piazza della Signoria"
+      ]
     },
     {
       "boundaryPreview" : [
@@ -7407,7 +7584,17 @@
         "streetCount" : 199,
         "totalKm" : 26.95
       },
-      "status" : "published"
+      "status" : "published",
+      "walkStops" : [
+        "Gravensteen",
+        "Dulle Griet",
+        "Koninklijke Academie voor Nederlandse Taal- en Letterkunde",
+        "Stadhuis Gent",
+        "Sint-Baafskathedraal",
+        "Belfort",
+        "Sint-Niklaaskerk",
+        "Design Museum Gent"
+      ]
     },
     {
       "boundaryPreview" : [
@@ -7839,7 +8026,17 @@
         "streetCount" : 91,
         "totalKm" : 9.95
       },
-      "status" : "published"
+      "status" : "published",
+      "walkStops" : [
+        "Catedral de Girona",
+        "Basilica de Sant Feliu",
+        "Església de Sant Pere de Galligants",
+        "Banys Àrabs",
+        "Torre de Sant Domenec",
+        "Pont de Pedra",
+        "Pont de les Peixateries Velles",
+        "Museu d'Història dels Jueus"
+      ]
     },
     {
       "boundaryPreview" : [
@@ -8125,7 +8322,17 @@
         "streetCount" : 103,
         "totalKm" : 19.3
       },
-      "status" : "published"
+      "status" : "published",
+      "walkStops" : [
+        "Kirchenruine St. Nikolai",
+        "Hauptkirche St. Katharinen",
+        "Chilehaus",
+        "Evangelisch-lutherische Hauptkirche St. Jacobi",
+        "Hammaburg-Platz",
+        "Hauptkirche St. Petri",
+        "Rathaus",
+        "Laeiszhof"
+      ]
     },
     {
       "boundaryPreview" : [
@@ -8421,7 +8628,17 @@
         "streetCount" : 85,
         "totalKm" : 17.6
       },
-      "status" : "published"
+      "status" : "published",
+      "walkStops" : [
+        "Heidelberger Schloss",
+        "Universitätsbibliothek",
+        "Friedrich-Ebert-Platz",
+        "Bismarckplatz",
+        "Providenzkirche",
+        "Heiliggeistkirche",
+        "Alte Brücke",
+        "Kornmarkt"
+      ]
     },
     {
       "boundaryPreview" : [
@@ -8690,7 +8907,17 @@
         "streetCount" : 43,
         "totalKm" : 14.08
       },
-      "status" : "published"
+      "status" : "published",
+      "walkStops" : [
+        "Zamek Królewski na Wawelu",
+        "Bazylika Wniebowzięcia Najświętszej Maryi Panny",
+        "Brama Floriańska",
+        "Barbakan",
+        "Sukiennice",
+        "Wieża Ratuszowa",
+        "Rynek Główny",
+        "Bazylika archikatedralna Świętych Stanisława i Wacława"
+      ]
     },
     {
       "boundaryPreview" : [
@@ -8978,7 +9205,17 @@
         "streetCount" : 71,
         "totalKm" : 12.72
       },
-      "status" : "published"
+      "status" : "published",
+      "walkStops" : [
+        "Basilika Sankt Martin",
+        "Burg Trausnitz",
+        "Schanzl",
+        "Ursulinenkirche",
+        "Heilig Geist",
+        "Rathaus Landshut",
+        "Stadtresidenz",
+        "Ländtor"
+      ]
     },
     {
       "boundaryPreview" : [
@@ -9396,7 +9633,17 @@
         "streetCount" : 97,
         "totalKm" : 18.68
       },
-      "status" : "published"
+      "status" : "published",
+      "walkStops" : [
+        "Stadhuis van Leuven",
+        "Sint-Pieterskerk",
+        "Eerste stadsomwalling van Leuven",
+        "Hemeltoren De Eerste Verstoring",
+        "Sint-Geertruiabdij",
+        "Martelarenplein",
+        "Universiteitsbibliotheek",
+        "M-Museum"
+      ]
     },
     {
       "boundaryPreview" : [
@@ -9861,7 +10108,17 @@
         "streetCount" : 269,
         "totalKm" : 34.77
       },
-      "status" : "published"
+      "status" : "published",
+      "walkStops" : [
+        "Castelo de São Jorge",
+        "Igreja de São Domingos",
+        "Praça Dom Pedro IV",
+        "Elevador de Santa Justa",
+        "Praça do Comércio",
+        "Igreja da Conceição Velha",
+        "Sé de Lisboa",
+        "Miradouro de Santa Luzia"
+      ]
     },
     {
       "boundaryPreview" : [
@@ -10341,7 +10598,17 @@
         "streetCount" : 106,
         "totalKm" : 21.3
       },
-      "status" : "published"
+      "status" : "published",
+      "walkStops" : [
+        "Ljubljanski grad",
+        "Cerkev sv. Jakoba",
+        "Robbov vodnjak",
+        "Narodna in univerzitetna knjižnica",
+        "Prešernov trg",
+        "Konjički",
+        "Žitni most",
+        "Vodnikov trg"
+      ]
     },
     {
       "boundaryPreview" : [
@@ -10697,7 +10964,17 @@
         "streetCount" : 93,
         "totalKm" : 18.94
       },
-      "status" : "published"
+      "status" : "published",
+      "walkStops" : [
+        "Holstentor",
+        "Niederegger",
+        "St.-Marien-Kirche",
+        "Heiligen-Geist-Hospital",
+        "Johannis-der-Täufer-Brunnen",
+        "Museumsquartier Sankt Annen",
+        "Dom",
+        "Malerwinkel"
+      ]
     },
     {
       "boundaryPreview" : [
@@ -10966,7 +11243,17 @@
         "streetCount" : 217,
         "totalKm" : 30.37
       },
-      "status" : "published"
+      "status" : "published",
+      "walkStops" : [
+        "Cattedrale di San Martino",
+        "Piazza Napoleone",
+        "San Michele in Foro",
+        "Basilica di San Frediano",
+        "Piazza Anfiteatro",
+        "Torre Guinigi",
+        "Chiesa di San Francesco",
+        "Porta Elisa"
+      ]
     },
     {
       "boundaryPreview" : [
@@ -11501,7 +11788,17 @@
         "streetCount" : 234,
         "totalKm" : 35.62
       },
-      "status" : "published"
+      "status" : "published",
+      "walkStops" : [
+        "Cathédrale Saint-Jean",
+        "Église Saint-Georges",
+        "Place Bellecour",
+        "Place des Célestins",
+        "Église Saint-Nizier",
+        "Place Louis Pradel",
+        "Fontaine Bartholdi",
+        "Pont de la Feuillée"
+      ]
     },
     {
       "boundaryPreview" : [
@@ -11853,7 +12150,17 @@
         "streetCount" : 132,
         "totalKm" : 24.93
       },
-      "status" : "published"
+      "status" : "published",
+      "walkStops" : [
+        "Marienplatz",
+        "Viktualienmarkt",
+        "Isartor",
+        "Alter Hof",
+        "Theatinerkirche St. Kajetan",
+        "Frauenkirche",
+        "little ART - Münchner Künstlerhaus",
+        "Sendlinger Tor"
+      ]
     },
     {
       "boundaryPreview" : [
@@ -12321,7 +12628,17 @@
         "streetCount" : 217,
         "totalKm" : 37.05
       },
-      "status" : "published"
+      "status" : "published",
+      "walkStops" : [
+        "Weißer Turm",
+        "Maxbrücke",
+        "Albrecht-Dürer-Haus",
+        "Kaiserburg",
+        "St. Sebald",
+        "Schöner Brunnen",
+        "Frauenkirche",
+        "St. Lorenz"
+      ]
     },
     {
       "boundaryPreview" : [
@@ -12667,7 +12984,17 @@
         "streetCount" : 319,
         "totalKm" : 36.03
       },
-      "status" : "published"
+      "status" : "published",
+      "walkStops" : [
+        "La Seu",
+        "Palau de l'Almudaina",
+        "Parlament de les Illes Balears",
+        "Es Baluard",
+        "La Misericòrdia",
+        "Mercat de l'Olivar",
+        "Plaça Major",
+        "Plaça de Cort"
+      ]
     },
     {
       "boundaryPreview" : [
@@ -13025,7 +13352,17 @@
         "name" : "paris.465bde00eefc.pmtiles",
         "sha256" : "465bde00eefc95c794d3f2bddc49688f81ca198324778d728ba6c1cfac8b3c1b",
         "size" : 6417096
-      }
+      },
+      "walkStops" : [
+        "Hôtel de ville",
+        "Église Saint-Paul-Saint-Louis",
+        "Hôtel de Sully",
+        "Place des Vosges",
+        "Maison de Victor Hugo",
+        "Enceinte de Philippe-Auguste",
+        "Église Saint-Louis-en-l'Île",
+        "Mémorial de la Shoah"
+      ]
     },
     {
       "boundaryPreview" : [
@@ -13340,7 +13677,17 @@
         "name" : "passau.b34e473b9ebd.pmtiles",
         "sha256" : "b34e473b9ebdff29dd6adaa0379b80f6af03cde12fc5b5852605a1e5212b1b23",
         "size" : 2545699
-      }
+      },
+      "walkStops" : [
+        "Dom St. Stephan",
+        "Pfarrkirche Sankt Paul",
+        "Altes Rathaus",
+        "Prinzregent-Luitpold-Brücke",
+        "Veste Oberhaus",
+        "Wassertörlschanze",
+        "Dreiflüsseeck",
+        "Alte Residenz"
+      ]
     },
     {
       "boundaryPreview" : [
@@ -13839,7 +14186,17 @@
         "streetCount" : 23,
         "totalKm" : 6.28
       },
-      "status" : "published"
+      "status" : "published",
+      "walkStops" : [
+        "svatý Bartoloměj",
+        "Knihovna města Plzně",
+        "Měšťanská beseda",
+        "Františkánský klášter",
+        "Gerlachovský dům",
+        "Pivovarské muzeum v Plzni",
+        "hradební zeď",
+        "Krajský soud v Plzni"
+      ]
     },
     {
       "boundaryPreview" : [
@@ -14300,7 +14657,17 @@
         "streetCount" : 160,
         "totalKm" : 23.01
       },
-      "status" : "published"
+      "status" : "published",
+      "walkStops" : [
+        "Torre dos Clérigos",
+        "Chafariz da Rua das Taipas",
+        "Muralhas Fernandinas do Porto",
+        "Miradouro da Muralha Fernandina",
+        "Paço Episcopal do Porto",
+        "Praça da Batalha",
+        "Mercado do Bolhão",
+        "Câmara Municipal do Porto"
+      ]
     },
     {
       "boundaryPreview" : [
@@ -14630,7 +14997,17 @@
         "streetCount" : 109,
         "totalKm" : 22.15
       },
-      "status" : "published"
+      "status" : "published",
+      "walkStops" : [
+        "Staroměstský orloj",
+        "Prašná brána",
+        "Anežský klášter",
+        "Španělská synagoga",
+        "náměstí Jana Palacha",
+        "Staroměstská mostecká věž",
+        "Karlův most",
+        "Krannerova kašna"
+      ]
     },
     {
       "boundaryPreview" : [
@@ -14918,7 +15295,17 @@
         "streetCount" : 196,
         "totalKm" : 29.91
       },
-      "status" : "published"
+      "status" : "published",
+      "walkStops" : [
+        "Dom Sankt Peter",
+        "Schloss St. Emmeram",
+        "Dreieinigkeitskirche",
+        "Altes Rathaus",
+        "Steinerne Brücke",
+        "Historische Wurstkuchl",
+        "Porta praetoria",
+        "Ostentor"
+      ]
     },
     {
       "boundaryPreview" : [
@@ -15160,7 +15547,17 @@
         "streetCount" : 67,
         "totalKm" : 11.65
       },
-      "status" : "published"
+      "status" : "published",
+      "walkStops" : [
+        "Melngalvju nams",
+        "Rīgas Doms",
+        "Trīs brāļi",
+        "Rīgas Pils",
+        "Zviedru vārti",
+        "Pulvertornis",
+        "Kaķu nams",
+        "Svētā Pētera baznīca"
+      ]
     },
     {
       "boundaryPreview" : [
@@ -15516,7 +15913,17 @@
         "streetCount" : 74,
         "totalKm" : 12.52
       },
-      "status" : "published"
+      "status" : "published",
+      "walkStops" : [
+        "St. Jakob",
+        "Franziskanerkirche",
+        "Rathausturm",
+        "Mittelalterliches Kriminalmuseum",
+        "Brunnen am Plönlein",
+        "Stöberleinsturm",
+        "Rödertor",
+        "St.-Wolfgangs-Kirche"
+      ]
     },
     {
       "boundaryPreview" : [
@@ -15946,7 +16353,17 @@
         "streetCount" : 98,
         "totalKm" : 21.76
       },
-      "status" : "published"
+      "status" : "published",
+      "walkStops" : [
+        "Schloss Mirabell",
+        "Hettwerbastei",
+        "Mozartsteg",
+        "Kajetanerplatz",
+        "Salzburger Dom",
+        "Haus für Mozart",
+        "Mozarts Geburtshaus",
+        "Makartplatz"
+      ]
     },
     {
       "boundaryPreview" : [
@@ -16166,7 +16583,17 @@
         "streetCount" : 135,
         "totalKm" : 19.66
       },
-      "status" : "published"
+      "status" : "published",
+      "walkStops" : [
+        "Catedral de Santiago de Compostela",
+        "Colexio de Fonseca",
+        "Praza do Obradoiro",
+        "Parador Hostal dos Reis Católicos",
+        "Mosteiro e Igrexa de San Martiño Piñario e Seminario Maior",
+        "Mercado de Abastos de Santiago",
+        "Praza da Universidade",
+        "Praza da Quintana de Mortos"
+      ]
     },
     {
       "boundaryPreview" : [
@@ -16589,7 +17016,17 @@
         "streetCount" : 200,
         "totalKm" : 26.44
       },
-      "status" : "published"
+      "status" : "published",
+      "walkStops" : [
+        "Catedral de Sevilla",
+        "Iglesia de San Isidoro",
+        "Plaza de la Encarnación",
+        "Sala San Hermenegildo",
+        "Plaza Nueva",
+        "Mercado del Arenal",
+        "Puente de Isabel II",
+        "Torre del Oro"
+      ]
     },
     {
       "boundaryPreview" : [
@@ -16938,7 +17375,17 @@
         "streetCount" : 223,
         "totalKm" : 32.35
       },
-      "status" : "published"
+      "status" : "published",
+      "walkStops" : [
+        "Cattedrale di Santa Maria Assunta",
+        "Torre del Mangia",
+        "Porta Romana",
+        "Piazza Santo Spirito",
+        "Piazza San Francesco",
+        "Piazza Giacomo Matteotti",
+        "Mura di Siena",
+        "Mercato delle Merci"
+      ]
     },
     {
       "boundaryPreview" : [
@@ -17301,7 +17748,15 @@
         "streetCount" : 72,
         "totalKm" : 6.82
       },
-      "status" : "published"
+      "status" : "published",
+      "walkStops" : [
+        "katedrala svetog Duje",
+        "Pazar",
+        "Zlatna vrata",
+        "Ribarnica",
+        "Crkva i samostan Sv. Frane",
+        "Palača Milesi"
+      ]
     },
     {
       "boundaryPreview" : [
@@ -17626,7 +18081,17 @@
         "streetCount" : 101,
         "totalKm" : 14.77
       },
-      "status" : "published"
+      "status" : "published",
+      "walkStops" : [
+        "Stockholms slott",
+        "Riksdagshuset",
+        "Riddarhuset",
+        "Riddarholmskyrkan",
+        "Storkyrkan",
+        "Tyska kyrkan",
+        "Tessinska palatset",
+        "Nobelprismuseet"
+      ]
     },
     {
       "boundaryPreview" : [
@@ -18129,7 +18594,17 @@
         "streetCount" : 157,
         "totalKm" : 22.89
       },
-      "status" : "published"
+      "status" : "published",
+      "walkStops" : [
+        "Cathédrale Notre-Dame",
+        "Palais Rohan",
+        "Ancienne douane",
+        "Église protestante Saint-Thomas",
+        "Ponts Couverts",
+        "Tour du Bourreau",
+        "Église Saint-Pierre-le-Vieux",
+        "Aubette 1928"
+      ]
     },
     {
       "boundaryPreview" : [
@@ -18365,7 +18840,17 @@
         "streetCount" : 66,
         "totalKm" : 11.33
       },
-      "status" : "published"
+      "status" : "published",
+      "walkStops" : [
+        "Oleviste kirik",
+        "Kohtuotsa vaateplatvorm",
+        "Aleksander Nevski katedraal",
+        "Pikk Hermann",
+        "Kiek in de Kök",
+        "Assauwe torn",
+        "Raekoda",
+        "Poisid delfiiniga"
+      ]
     },
     {
       "boundaryPreview" : [
@@ -18624,7 +19109,17 @@
         "streetCount" : 318,
         "totalKm" : 32.04
       },
-      "status" : "published"
+      "status" : "published",
+      "walkStops" : [
+        "Catedral de Santa María",
+        "Alcázar de Toledo",
+        "Plaza de Zocodover",
+        "Mezquita del Cristo de la Luz",
+        "Monasterio de San Juan de los Reyes",
+        "Sinagoga de Santa María la Blanca",
+        "Sinagoga del Tránsito",
+        "Iglesia de Santo Tomé"
+      ]
     },
     {
       "boundaryPreview" : [
@@ -18878,7 +19373,17 @@
         "streetCount" : 31,
         "totalKm" : 6.72
       },
-      "status" : "published"
+      "status" : "published",
+      "walkStops" : [
+        "zámek Třeboň",
+        "Žižkovo náměstí",
+        "Novohradská brána",
+        "Masarykovo náměstí",
+        "Hradecká brána",
+        "svatý Jiljí a Panna Marie Královna",
+        "Husova kaple",
+        "Palackého náměstí"
+      ]
     },
     {
       "boundaryPreview" : [
@@ -19335,7 +19840,17 @@
         "streetCount" : 192,
         "totalKm" : 16.84
       },
-      "status" : "published"
+      "status" : "published",
+      "walkStops" : [
+        "Llotja de la Seda",
+        "Mercat Central",
+        "Palau del Marqués de Dosaigües",
+        "Basílica de la Mare de Déu dels Desemparats",
+        "Catedral de València",
+        "Corts Valencianes",
+        "Torres dels Serrans",
+        "Església de Sant Nicolau"
+      ]
     },
     {
       "boundaryPreview" : [
@@ -19596,7 +20111,17 @@
         "streetCount" : 217,
         "totalKm" : 15.85
       },
-      "status" : "published"
+      "status" : "published",
+      "walkStops" : [
+        "Basilica di San Marco",
+        "Palazzo Ducale",
+        "Ponte di Rialto",
+        "Ca' Farsetti",
+        "Campo Santo Stefano",
+        "Teatro La Fenice",
+        "Museo Correr",
+        "Campanile di San Marco"
+      ]
     },
     {
       "boundaryPreview" : [
@@ -19940,7 +20465,17 @@
         "streetCount" : 236,
         "totalKm" : 26.6
       },
-      "status" : "published"
+      "status" : "published",
+      "walkStops" : [
+        "Arena di Verona",
+        "Chiesa di San Fermo Maggiore",
+        "Porta Leoni",
+        "Casa di Giulietta",
+        "Piazza delle Erbe",
+        "Arche Scaligere",
+        "Chiesa di Sant'Anastasia",
+        "Porta Borsari"
+      ]
     },
     {
       "boundaryPreview" : [
@@ -20279,7 +20814,17 @@
         "streetCount" : 219,
         "totalKm" : 39.87
       },
-      "status" : "published"
+      "status" : "published",
+      "walkStops" : [
+        "Stephansdom",
+        "Ruprechtskirche",
+        "Hohe Brücke",
+        "Freyung",
+        "Looshaus",
+        "Spanische Hofreitschule",
+        "Hofburg",
+        "Albertina"
+      ]
     },
     {
       "boundaryPreview" : [
@@ -20593,7 +21138,17 @@
         "streetCount" : 57,
         "totalKm" : 13.98
       },
-      "status" : "published"
+      "status" : "published",
+      "walkStops" : [
+        "Vilniaus universitetas",
+        "Vilniaus Rotušė",
+        "Šv. Kazimiero bažnyčia",
+        "Aušros Vartai",
+        "Šv. Mikalojaus bažnyčia",
+        "Lietuvos Respublikos prezidentūra",
+        "Vilniaus Šv. Stanislovo ir Šv. Vladislovo arkikatedra bazilika",
+        "Šv. Onos bažnyčia"
+      ]
     },
     {
       "boundaryPreview" : [
@@ -20772,7 +21327,17 @@
         "streetCount" : 61,
         "totalKm" : 11.67
       },
-      "status" : "published"
+      "status" : "published",
+      "walkStops" : [
+        "Wasserburg",
+        "St. Jakob",
+        "Mauthaus",
+        "Brucktor",
+        "Rathaus",
+        "Frauenkirche",
+        "Hungerturm",
+        "Pulverturm"
+      ]
     },
     {
       "boundaryPreview" : [
@@ -21055,7 +21620,17 @@
         "streetCount" : 194,
         "totalKm" : 26.69
       },
-      "status" : "published"
+      "status" : "published",
+      "walkStops" : [
+        "York Minster",
+        "Monk Bar",
+        "Kings Square",
+        "Jorvik Viking Centre",
+        "York Castle Museum",
+        "Clifford's Tower",
+        "Micklegate Bar",
+        "St Mary's Abbey"
+      ]
     },
     {
       "boundaryPreview" : [
@@ -21608,7 +22183,17 @@
         "streetCount" : 112,
         "totalKm" : 15.82
       },
-      "status" : "published"
+      "status" : "published",
+      "walkStops" : [
+        "Grossmünster",
+        "Wasserkirche",
+        "Bürkliplatz",
+        "Fraumünster",
+        "St. Peter",
+        "Lindenhof",
+        "Rathaus",
+        "Cabaret Voltaire"
+      ]
     }
   ],
   "schemaVersion" : 1
