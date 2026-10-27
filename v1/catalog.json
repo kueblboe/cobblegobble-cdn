@@ -384,6 +384,11 @@
         "totalKm" : 25.54
       },
       "status" : "published",
+      "tiles" : {
+        "name" : "amsterdam.8b3b0768aef6.pmtiles",
+        "sha256" : "8b3b0768aef655b11401bb632255ad379429c29c4860e4f479259f5d9465f0e9",
+        "size" : 5573051
+      },
       "walkStops" : [
         "Koninklijk Paleis",
         "Nieuwe Kerk",
@@ -786,6 +791,11 @@
         "totalKm" : 22.3
       },
       "status" : "published",
+      "tiles" : {
+        "name" : "bamberg.6f62df22cde4.pmtiles",
+        "sha256" : "6f62df22cde49eb99921db58e45612b3980d5835cba6bd996ad5c09bb8134650",
+        "size" : 3545694
+      },
       "walkStops" : [
         "Bamberger Dom",
         "Alte Hofhaltung",
@@ -1076,6 +1086,11 @@
         "totalKm" : 13.03
       },
       "status" : "published",
+      "tiles" : {
+        "name" : "bath.b79370cc8b1a.pmtiles",
+        "sha256" : "b79370cc8b1a53927bfbd5f43326805c85ff9574c188c5022e90eee1b7923e95",
+        "size" : 2172851
+      },
       "walkStops" : [
         "The Roman Baths",
         "Saint John the Evangelist RC",
@@ -1401,6 +1416,11 @@
         "totalKm" : 31.15
       },
       "status" : "published",
+      "tiles" : {
+        "name" : "berlin.316c12f5ec15.pmtiles",
+        "sha256" : "316c12f5ec15d69353a960ecf2cfe5880abb49c62a281af0416aaa2344310d9f",
+        "size" : 5093454
+      },
       "walkStops" : [
         "Brandenburger Tor",
         "Akademie der Künste",
@@ -1835,6 +1855,11 @@
         "totalKm" : 17.09
       },
       "status" : "published",
+      "tiles" : {
+        "name" : "bern.ca1142a02dae.pmtiles",
+        "sha256" : "ca1142a02daedb219c0329634687ad7e4d9eab41fef292f7999b8aa0ad974f21",
+        "size" : 4098204
+      },
       "walkStops" : [
         "Bundeshaus – Parlamentsgebäude",
         "Einsteinhaus",
@@ -2302,6 +2327,11 @@
         "totalKm" : 29.89
       },
       "status" : "published",
+      "tiles" : {
+        "name" : "bologna.fd91ed7ec780.pmtiles",
+        "sha256" : "fd91ed7ec7807faef61b0fc23625c11df3eb8eb4d3fca1defd2e8461623ee3d6",
+        "size" : 4482786
+      },
       "walkStops" : [
         "Asinelli",
         "Santa Maria dei Servi",
@@ -2713,6 +2743,11 @@
         "totalKm" : 17.87
       },
       "status" : "published",
+      "tiles" : {
+        "name" : "bruges.401c536a1d1d.pmtiles",
+        "sha256" : "401c536a1d1dbc58d6d5544564404d410c79316800bc70a92166805e30c126e4",
+        "size" : 3788438
+      },
       "walkStops" : [
         "Basiliek van het Heilig Bloed",
         "Stadhuis Brugge",
@@ -3410,6 +3445,11 @@
         "totalKm" : 44.24
       },
       "status" : "published",
+      "tiles" : {
+        "name" : "budapest.9c46dbe85cce.pmtiles",
+        "sha256" : "9c46dbe85cce67a7067b943bfba2742c4913eb56e217cfdd8aacb040ab8500c7",
+        "size" : 4781087
+      },
       "walkStops" : [
         "Budavári Palota",
         "Citadella",
@@ -3651,6 +3691,11 @@
         "totalKm" : 4.25
       },
       "status" : "published",
+      "tiles" : {
+        "name" : "buxtehude.2f7935142a4d.pmtiles",
+        "sha256" : "2f7935142a4dfe2a3e881dd897b168b9a7c16ada8069cbe788e03fa851500601",
+        "size" : 1860323
+      },
       "walkStops" : [
         "St. Petri-Kirche",
         "Marschtorzwinger",
@@ -3939,6 +3984,11 @@
         "totalKm" : 6.64
       },
       "status" : "published",
+      "tiles" : {
+        "name" : "ceskykrumlov.c18335e5b9b3.pmtiles",
+        "sha256" : "c18335e5b9b3ad3bac9e04b9a5cb5df77ef2b0d10cfc1b2a1d1b5d9f5e9ae921",
+        "size" : 2859588
+      },
       "walkStops" : [
         "hrad a zámek Český Krumlov",
         "Pivovar Eggenberg",
@@ -4215,6 +4265,11 @@
         "totalKm" : 17.46
       },
       "status" : "published",
+      "tiles" : {
+        "name" : "colmar.81e748ed685e.pmtiles",
+        "sha256" : "81e748ed685e238898fb8f37bd29d958fa980bfe94ffc248f5e756e46e1ba9df",
+        "size" : 2628908
+      },
       "walkStops" : [
         "Musée Unterlinden",
         "Hôtel de Ville de Colmar",
@@ -4493,7 +4548,7 @@
         "streetCount" : 124,
         "totalKm" : 23.44
       },
-      "status" : "awaiting-approval",
+      "status" : "published",
       "walkStops" : [
         "Kölner Dom",
         "Hohenzollernbrücke",
@@ -4876,6 +4931,11 @@
         "totalKm" : 24.27
       },
       "status" : "published",
+      "tiles" : {
+        "name" : "copenhagen.4a8e45c7e28c.pmtiles",
+        "sha256" : "4a8e45c7e28c00f43c5da89f3e7937a65500ec9a4cfcc711f915668134a7d261",
+        "size" : 3738385
+      },
       "walkStops" : [
         "Christiansborg Slot",
         "Helligåndskirken",
@@ -5151,6 +5211,11 @@
         "totalKm" : 12.61
       },
       "status" : "published",
+      "tiles" : {
+        "name" : "dinkelsbuhl.418c56399540.pmtiles",
+        "sha256" : "418c563995405dc8c08464c85bbd577580bee9b0d7463dbf5b20231296c6a8d1",
+        "size" : 1849438
+      },
       "walkStops" : [
         "Münster St. Georg",
         "St. Paul",
@@ -5756,6 +5821,11 @@
         "totalKm" : 33.53
       },
       "status" : "published",
+      "tiles" : {
+        "name" : "dublin.a0db57f72f84.pmtiles",
+        "sha256" : "a0db57f72f84b3c7475ca44c3e71c11f8f62a004e8298814628835202e387d3d",
+        "size" : 4173653
+      },
       "walkStops" : [
         "Dublin Castle",
         "Butt Bridge",
@@ -6220,6 +6290,11 @@
         "totalKm" : 8.2
       },
       "status" : "published",
+      "tiles" : {
+        "name" : "dubrovnik.55a9c8c600d2.pmtiles",
+        "sha256" : "55a9c8c600d2d9f3688f6175966bec58540f57f47f571c8536999812663f3969",
+        "size" : 1533038
+      },
       "walkStops" : [
         "Knežev dvor",
         "Revelin",
@@ -6639,6 +6714,11 @@
         "totalKm" : 23.76
       },
       "status" : "published",
+      "tiles" : {
+        "name" : "edinburgh.60a024c66047.pmtiles",
+        "sha256" : "60a024c660478cb2ac049c75f9324e1a0c8aaa3136eb824d577cbd6acef52870",
+        "size" : 5045098
+      },
       "walkStops" : [
         "St Giles' Cathedral",
         "Scott Monument",
@@ -7184,6 +7264,11 @@
         "totalKm" : 31.7
       },
       "status" : "published",
+      "tiles" : {
+        "name" : "florence.23d4a401fe84.pmtiles",
+        "sha256" : "23d4a401fe844882550b7e246e2b735df3088e247ef8022a464fe4dc887c780e",
+        "size" : 4770404
+      },
       "walkStops" : [
         "Ponte Vecchio",
         "Belvedere sull'Arno",
@@ -7585,6 +7670,11 @@
         "totalKm" : 26.95
       },
       "status" : "published",
+      "tiles" : {
+        "name" : "ghent.70700f2b4b64.pmtiles",
+        "sha256" : "70700f2b4b6467f62bec38d0066b16628cf58d26bf1de3c0dd2686468e40282e",
+        "size" : 4490126
+      },
       "walkStops" : [
         "Gravensteen",
         "Dulle Griet",
@@ -8027,6 +8117,11 @@
         "totalKm" : 9.95
       },
       "status" : "published",
+      "tiles" : {
+        "name" : "girona.8ffb9aee06e7.pmtiles",
+        "sha256" : "8ffb9aee06e707158952183ae4768ffeec1f32272386f92e33be99b63848fc6b",
+        "size" : 3027045
+      },
       "walkStops" : [
         "Catedral de Girona",
         "Basilica de Sant Feliu",
@@ -8323,6 +8418,11 @@
         "totalKm" : 19.3
       },
       "status" : "published",
+      "tiles" : {
+        "name" : "hamburg.30a193b1b753.pmtiles",
+        "sha256" : "30a193b1b753f88e43bb4a6fd6a72c4b6a357aaa49861c00c74f5911fab889c3",
+        "size" : 4239297
+      },
       "walkStops" : [
         "Kirchenruine St. Nikolai",
         "Hauptkirche St. Katharinen",
@@ -8629,6 +8729,11 @@
         "totalKm" : 17.6
       },
       "status" : "published",
+      "tiles" : {
+        "name" : "heidelberg.2852f45f4ebb.pmtiles",
+        "sha256" : "2852f45f4ebbf40a26211eb0fdaabdc2a517cc47a801dcffa3812fee2ed2b468",
+        "size" : 2827618
+      },
       "walkStops" : [
         "Heidelberger Schloss",
         "Universitätsbibliothek",
@@ -8908,6 +9013,11 @@
         "totalKm" : 14.08
       },
       "status" : "published",
+      "tiles" : {
+        "name" : "krakow.10abf061f04c.pmtiles",
+        "sha256" : "10abf061f04c785fe0351492d295b62a18d9e77c3c0d2d5c610a0fff1bbe951c",
+        "size" : 4767834
+      },
       "walkStops" : [
         "Zamek Królewski na Wawelu",
         "Bazylika Wniebowzięcia Najświętszej Maryi Panny",
@@ -9206,6 +9316,11 @@
         "totalKm" : 12.72
       },
       "status" : "published",
+      "tiles" : {
+        "name" : "landshut.6859ea98eb1f.pmtiles",
+        "sha256" : "6859ea98eb1f7b76b37d70b8b4de3de2f1ac50564e5f833142e7ff7c8f1285c0",
+        "size" : 2525072
+      },
       "walkStops" : [
         "Basilika Sankt Martin",
         "Burg Trausnitz",
@@ -9634,6 +9749,11 @@
         "totalKm" : 18.68
       },
       "status" : "published",
+      "tiles" : {
+        "name" : "leuven.732834f027c8.pmtiles",
+        "sha256" : "732834f027c89b1eba588ecf716f92b709291c43e98a01102f16b8afb757596c",
+        "size" : 4072948
+      },
       "walkStops" : [
         "Stadhuis van Leuven",
         "Sint-Pieterskerk",
@@ -10109,6 +10229,11 @@
         "totalKm" : 34.77
       },
       "status" : "published",
+      "tiles" : {
+        "name" : "lisbon.6899c36e05d5.pmtiles",
+        "sha256" : "6899c36e05d5e328324e9f2ff1b1f2634bcdefcdbe2b4e5372c0d7b7334971a8",
+        "size" : 2916919
+      },
       "walkStops" : [
         "Castelo de São Jorge",
         "Igreja de São Domingos",
@@ -10599,6 +10724,11 @@
         "totalKm" : 21.3
       },
       "status" : "published",
+      "tiles" : {
+        "name" : "ljubljana.403d41d8d79a.pmtiles",
+        "sha256" : "403d41d8d79a3309781321f93f55460282cd3f90ac25bcaccc6f96fcb3078447",
+        "size" : 4147952
+      },
       "walkStops" : [
         "Ljubljanski grad",
         "Cerkev sv. Jakoba",
@@ -10965,6 +11095,11 @@
         "totalKm" : 18.94
       },
       "status" : "published",
+      "tiles" : {
+        "name" : "lubeck.7d6ca8c508f7.pmtiles",
+        "sha256" : "7d6ca8c508f7b4b7534ba3daad50a1c939720039a8616537dbb4f30e3692007a",
+        "size" : 3296794
+      },
       "walkStops" : [
         "Holstentor",
         "Niederegger",
@@ -11244,6 +11379,11 @@
         "totalKm" : 30.37
       },
       "status" : "published",
+      "tiles" : {
+        "name" : "lucca.d98437d74554.pmtiles",
+        "sha256" : "d98437d7455432158423d63fe88e8b5d35088566a4c20ac70bf70a5cda375f34",
+        "size" : 2450081
+      },
       "walkStops" : [
         "Cattedrale di San Martino",
         "Piazza Napoleone",
@@ -11789,6 +11929,11 @@
         "totalKm" : 35.62
       },
       "status" : "published",
+      "tiles" : {
+        "name" : "lyon.938e95c855d9.pmtiles",
+        "sha256" : "938e95c855d942cea7db111626800f78b5870475caafba53f7e6f289710c8ea1",
+        "size" : 4702943
+      },
       "walkStops" : [
         "Cathédrale Saint-Jean",
         "Église Saint-Georges",
@@ -12151,6 +12296,11 @@
         "totalKm" : 24.93
       },
       "status" : "published",
+      "tiles" : {
+        "name" : "munich.6fe038548bf4.pmtiles",
+        "sha256" : "6fe038548bf46622a249b61ad5d7378b2cea64a05f5f9f65c362b289152e76d9",
+        "size" : 4110126
+      },
       "walkStops" : [
         "Marienplatz",
         "Viktualienmarkt",
@@ -12629,6 +12779,11 @@
         "totalKm" : 37.05
       },
       "status" : "published",
+      "tiles" : {
+        "name" : "nuremberg.44bfd918b514.pmtiles",
+        "sha256" : "44bfd918b514d359e492d03c46b13172ca824ae3194b63e93d466b6007ab5e71",
+        "size" : 4344556
+      },
       "walkStops" : [
         "Weißer Turm",
         "Maxbrücke",
@@ -12985,6 +13140,11 @@
         "totalKm" : 36.03
       },
       "status" : "published",
+      "tiles" : {
+        "name" : "palma.e082c7f62d37.pmtiles",
+        "sha256" : "e082c7f62d3781661e4f0b21429850043c94eb4de74b47ed3bf5f671a6d75395",
+        "size" : 2272306
+      },
       "walkStops" : [
         "La Seu",
         "Palau de l'Almudaina",
@@ -14187,6 +14347,11 @@
         "totalKm" : 6.28
       },
       "status" : "published",
+      "tiles" : {
+        "name" : "pilsen.4e0f2ce84478.pmtiles",
+        "sha256" : "4e0f2ce844789ecb000edbc74ff273c426d94e2d8eb252947e91fa34f00bf7a1",
+        "size" : 2717980
+      },
       "walkStops" : [
         "svatý Bartoloměj",
         "Knihovna města Plzně",
@@ -14658,6 +14823,11 @@
         "totalKm" : 23.01
       },
       "status" : "published",
+      "tiles" : {
+        "name" : "porto.a401189c9c54.pmtiles",
+        "sha256" : "a401189c9c544ee465625092cc2ed2807c8a2a04818b3c7e9273caedbade4f8b",
+        "size" : 3082573
+      },
       "walkStops" : [
         "Torre dos Clérigos",
         "Chafariz da Rua das Taipas",
@@ -14998,6 +15168,11 @@
         "totalKm" : 22.15
       },
       "status" : "published",
+      "tiles" : {
+        "name" : "prague.f233093c3f88.pmtiles",
+        "sha256" : "f233093c3f884a95c8ff740dfcdfde07661214abb30eb8f6ee32b8d0e8c29ab7",
+        "size" : 4878746
+      },
       "walkStops" : [
         "Staroměstský orloj",
         "Prašná brána",
@@ -15296,6 +15471,11 @@
         "totalKm" : 29.91
       },
       "status" : "published",
+      "tiles" : {
+        "name" : "regensburg.095d4ddcf464.pmtiles",
+        "sha256" : "095d4ddcf464b0d6979a1f2010e24f6ddab4572298750ea89b11268d881b63a5",
+        "size" : 3187525
+      },
       "walkStops" : [
         "Dom Sankt Peter",
         "Schloss St. Emmeram",
@@ -15548,6 +15728,11 @@
         "totalKm" : 11.65
       },
       "status" : "published",
+      "tiles" : {
+        "name" : "riga.e56e02fe5be3.pmtiles",
+        "sha256" : "e56e02fe5be308d6f4c53775d9d77e5fefdeaf06772b1c4aee47990e64352857",
+        "size" : 3014272
+      },
       "walkStops" : [
         "Melngalvju nams",
         "Rīgas Doms",
@@ -15914,6 +16099,11 @@
         "totalKm" : 12.52
       },
       "status" : "published",
+      "tiles" : {
+        "name" : "rothenburg.c64940140c37.pmtiles",
+        "sha256" : "c64940140c37a0c3a9fcc08d18ce331a3c029e04c47e667973873cdaf8c8d4ba",
+        "size" : 2738986
+      },
       "walkStops" : [
         "St. Jakob",
         "Franziskanerkirche",
@@ -16354,6 +16544,11 @@
         "totalKm" : 21.76
       },
       "status" : "published",
+      "tiles" : {
+        "name" : "salzburg.ee2b50f597ea.pmtiles",
+        "sha256" : "ee2b50f597ea478523d83a917581d9948cce39aac3baee4aef24c1711a1f4f0c",
+        "size" : 3884659
+      },
       "walkStops" : [
         "Schloss Mirabell",
         "Hettwerbastei",
@@ -16584,6 +16779,11 @@
         "totalKm" : 19.66
       },
       "status" : "published",
+      "tiles" : {
+        "name" : "santiago.808dd8a69554.pmtiles",
+        "sha256" : "808dd8a695548b0ae332cf7289fc85fb5f145bd76c93f69c5b66bbd95c19fbb5",
+        "size" : 2132875
+      },
       "walkStops" : [
         "Catedral de Santiago de Compostela",
         "Colexio de Fonseca",
@@ -17017,6 +17217,11 @@
         "totalKm" : 26.44
       },
       "status" : "published",
+      "tiles" : {
+        "name" : "seville.ce09d531ce33.pmtiles",
+        "sha256" : "ce09d531ce336766c8951a2fef8d3d86e5d58831b9b134941d686c920d96257a",
+        "size" : 2188018
+      },
       "walkStops" : [
         "Catedral de Sevilla",
         "Iglesia de San Isidoro",
@@ -17376,6 +17581,11 @@
         "totalKm" : 32.35
       },
       "status" : "published",
+      "tiles" : {
+        "name" : "siena.e0f91931bb61.pmtiles",
+        "sha256" : "e0f91931bb61eea27272fd8061bf0fe91f5138e5170877fe6ec76c756c34075b",
+        "size" : 3138538
+      },
       "walkStops" : [
         "Cattedrale di Santa Maria Assunta",
         "Torre del Mangia",
@@ -17749,6 +17959,11 @@
         "totalKm" : 6.82
       },
       "status" : "published",
+      "tiles" : {
+        "name" : "split.7c67aa1ed141.pmtiles",
+        "sha256" : "7c67aa1ed141a107185d2cf5a2ab233849877d78e010d672dc169ac18e49a96c",
+        "size" : 2154097
+      },
       "walkStops" : [
         "katedrala svetog Duje",
         "Pazar",
@@ -18082,6 +18297,11 @@
         "totalKm" : 14.77
       },
       "status" : "published",
+      "tiles" : {
+        "name" : "stockholm.91dcdbcedd70.pmtiles",
+        "sha256" : "91dcdbcedd70b2ef4e300b2f56dcb0ec9e8d1be0236fa4e829158ff9df8486a1",
+        "size" : 2954684
+      },
       "walkStops" : [
         "Stockholms slott",
         "Riksdagshuset",
@@ -18595,6 +18815,11 @@
         "totalKm" : 22.89
       },
       "status" : "published",
+      "tiles" : {
+        "name" : "strasbourg.8c6f5b93e836.pmtiles",
+        "sha256" : "8c6f5b93e836f85c0017d80a047bf0016bd7de84348830754c0495b08ca9ced8",
+        "size" : 4778904
+      },
       "walkStops" : [
         "Cathédrale Notre-Dame",
         "Palais Rohan",
@@ -18841,6 +19066,11 @@
         "totalKm" : 11.33
       },
       "status" : "published",
+      "tiles" : {
+        "name" : "tallinn.c7aed09be009.pmtiles",
+        "sha256" : "c7aed09be009590bca3e545c64cc63dd2450f17b9cbcf2c24aed15aa09ff174d",
+        "size" : 3239059
+      },
       "walkStops" : [
         "Oleviste kirik",
         "Kohtuotsa vaateplatvorm",
@@ -19110,6 +19340,11 @@
         "totalKm" : 32.04
       },
       "status" : "published",
+      "tiles" : {
+        "name" : "toledo.6319e930eecf.pmtiles",
+        "sha256" : "6319e930eecf40722265b122aa9b30c30576b7baa859e23521ac8185d24ae6ab",
+        "size" : 1702034
+      },
       "walkStops" : [
         "Catedral de Santa María",
         "Alcázar de Toledo",
@@ -19374,6 +19609,11 @@
         "totalKm" : 6.72
       },
       "status" : "published",
+      "tiles" : {
+        "name" : "trebon.7099d189e85e.pmtiles",
+        "sha256" : "7099d189e85ec95faecc4f88121d2f333675110b48523810f4eb318a6e8ba37e",
+        "size" : 2382758
+      },
       "walkStops" : [
         "zámek Třeboň",
         "Žižkovo náměstí",
@@ -19841,6 +20081,11 @@
         "totalKm" : 16.84
       },
       "status" : "published",
+      "tiles" : {
+        "name" : "valencia.f295bc31d927.pmtiles",
+        "sha256" : "f295bc31d927bf9e6238d92402e81ef9698fe8289c5cfab29a0c1daf6b175dfc",
+        "size" : 4700144
+      },
       "walkStops" : [
         "Llotja de la Seda",
         "Mercat Central",
@@ -20112,6 +20357,11 @@
         "totalKm" : 15.85
       },
       "status" : "published",
+      "tiles" : {
+        "name" : "venice.0838a6275b23.pmtiles",
+        "sha256" : "0838a6275b230427f109eaffda10c57f1567a14043c9edefc1a0af6dea7d470d",
+        "size" : 2775418
+      },
       "walkStops" : [
         "Basilica di San Marco",
         "Palazzo Ducale",
@@ -20466,6 +20716,11 @@
         "totalKm" : 26.6
       },
       "status" : "published",
+      "tiles" : {
+        "name" : "verona.c1b094a72b48.pmtiles",
+        "sha256" : "c1b094a72b480a3d871350da97b04aed5c8f91e26fc8970be2da21dcdda83ea7",
+        "size" : 3399474
+      },
       "walkStops" : [
         "Arena di Verona",
         "Chiesa di San Fermo Maggiore",
@@ -20815,6 +21070,11 @@
         "totalKm" : 39.87
       },
       "status" : "published",
+      "tiles" : {
+        "name" : "vienna.ae28dd107956.pmtiles",
+        "sha256" : "ae28dd107956597c9fcfd89c378c5d11fef035cf74c4d901e2da2787c85ea374",
+        "size" : 7230021
+      },
       "walkStops" : [
         "Stephansdom",
         "Ruprechtskirche",
@@ -21139,6 +21399,11 @@
         "totalKm" : 13.98
       },
       "status" : "published",
+      "tiles" : {
+        "name" : "vilnius.07f407cd091b.pmtiles",
+        "sha256" : "07f407cd091bc35d704a7b972a032fdfd51709c18f2527ee0afad50cb3c49080",
+        "size" : 4521178
+      },
       "walkStops" : [
         "Vilniaus universitetas",
         "Vilniaus Rotušė",
@@ -21328,6 +21593,11 @@
         "totalKm" : 11.67
       },
       "status" : "published",
+      "tiles" : {
+        "name" : "wasserburg.9bc1726addb3.pmtiles",
+        "sha256" : "9bc1726addb3e48a5f63b384ee96c33d5da9ab193cdf4c648e823c8b7448f87c",
+        "size" : 2002191
+      },
       "walkStops" : [
         "Wasserburg",
         "St. Jakob",
@@ -21621,6 +21891,11 @@
         "totalKm" : 26.69
       },
       "status" : "published",
+      "tiles" : {
+        "name" : "york.687b69ad9b62.pmtiles",
+        "sha256" : "687b69ad9b6293916ca0ef18906f6f4eb5721ea494186cb03503def5c6194ccf",
+        "size" : 2674723
+      },
       "walkStops" : [
         "York Minster",
         "Monk Bar",
@@ -22184,6 +22459,11 @@
         "totalKm" : 15.82
       },
       "status" : "published",
+      "tiles" : {
+        "name" : "zurich.f5ab6608ecb9.pmtiles",
+        "sha256" : "f5ab6608ecb958aa889b3861c5ec50a3f6ccb6da59ec4501406778b837dcb5d7",
+        "size" : 4441680
+      },
       "walkStops" : [
         "Grossmünster",
         "Wasserkirche",
