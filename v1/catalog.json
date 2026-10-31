@@ -2316,15 +2316,15 @@
         "it" : "Bologna"
       },
       "name" : "Bologna",
-      "packVersion" : 39,
+      "packVersion" : 40,
       "stats" : {
-        "estHours" : 11,
-        "nodeCount" : 1814,
-        "routeFactor" : 1.3,
-        "routeKm" : 38.7,
-        "stepsStreetCount" : 1,
-        "streetCount" : 168,
-        "totalKm" : 29.89
+        "estHours" : 10.8,
+        "nodeCount" : 1803,
+        "routeFactor" : 1.28,
+        "routeKm" : 37.9,
+        "stepsStreetCount" : 0,
+        "streetCount" : 167,
+        "totalKm" : 29.88
       },
       "status" : "published",
       "tiles" : {
@@ -3417,8 +3417,8 @@
           }
         ],
         "start" : [
-          47.486697,
-          19.058849
+          47.486339,
+          19.058653
         ]
       },
       "hasPage" : true,
@@ -3434,15 +3434,15 @@
         "en" : "Budapest"
       },
       "name" : "Budapest",
-      "packVersion" : 22,
+      "packVersion" : 23,
       "stats" : {
-        "estHours" : 15.8,
-        "nodeCount" : 2701,
-        "routeFactor" : 1.25,
-        "routeKm" : 55.3,
+        "estHours" : 15.6,
+        "nodeCount" : 2669,
+        "routeFactor" : 1.26,
+        "routeKm" : 54.8,
         "stepsStreetCount" : 18,
-        "streetCount" : 176,
-        "totalKm" : 44.24
+        "streetCount" : 175,
+        "totalKm" : 43.57
       },
       "status" : "published",
       "tiles" : {
@@ -8718,15 +8718,15 @@
         "en" : "Heidelberg"
       },
       "name" : "Heidelberg",
-      "packVersion" : 20,
+      "packVersion" : 21,
       "stats" : {
-        "estHours" : 6.4,
-        "nodeCount" : 1119,
+        "estHours" : 6.3,
+        "nodeCount" : 1082,
         "routeFactor" : 1.28,
-        "routeKm" : 22.3,
+        "routeKm" : 21.9,
         "stepsStreetCount" : 8,
-        "streetCount" : 85,
-        "totalKm" : 17.6
+        "streetCount" : 84,
+        "totalKm" : 17.28
       },
       "status" : "published",
       "tiles" : {
@@ -10218,15 +10218,15 @@
         "en" : "Lisbon"
       },
       "name" : "Lisbon",
-      "packVersion" : 20,
+      "packVersion" : 21,
       "stats" : {
-        "estHours" : 12.3,
-        "nodeCount" : 2291,
+        "estHours" : 11.9,
+        "nodeCount" : 2178,
         "routeFactor" : 1.26,
-        "routeKm" : 43.1,
-        "stepsStreetCount" : 77,
-        "streetCount" : 269,
-        "totalKm" : 34.77
+        "routeKm" : 41.6,
+        "stepsStreetCount" : 74,
+        "streetCount" : 266,
+        "totalKm" : 33.37
       },
       "status" : "published",
       "tiles" : {
@@ -14096,13 +14096,6 @@
             ]
           },
           {
-            "kind" : "drinking_water",
-            "pos" : [
-              49.7450038,
-              13.3801967
-            ]
-          },
-          {
             "kind" : "toilets",
             "name" : "vlídné WC",
             "pos" : [
@@ -14336,15 +14329,15 @@
         "en" : "Pilsen"
       },
       "name" : "Pilsen",
-      "packVersion" : 14,
+      "packVersion" : 15,
       "stats" : {
-        "estHours" : 2.2,
-        "nodeCount" : 379,
-        "routeFactor" : 1.26,
-        "routeKm" : 7.8,
+        "estHours" : 2.1,
+        "nodeCount" : 375,
+        "routeFactor" : 1.2,
+        "routeKm" : 7.4,
         "stepsStreetCount" : 1,
-        "streetCount" : 23,
-        "totalKm" : 6.28
+        "streetCount" : 22,
+        "totalKm" : 6.24
       },
       "status" : "published",
       "tiles" : {
@@ -20721,15 +20714,15 @@
         "en" : "Verona"
       },
       "name" : "Verona",
-      "packVersion" : 17,
+      "packVersion" : 18,
       "stats" : {
-        "estHours" : 9.5,
-        "nodeCount" : 1754,
+        "estHours" : 9.3,
+        "nodeCount" : 1721,
         "routeFactor" : 1.25,
-        "routeKm" : 33.2,
-        "stepsStreetCount" : 7,
-        "streetCount" : 236,
-        "totalKm" : 26.6
+        "routeKm" : 32.7,
+        "stepsStreetCount" : 6,
+        "streetCount" : 235,
+        "totalKm" : 26.26
       },
       "status" : "published",
       "tiles" : {
@@ -21404,15 +21397,15 @@
         "lt" : "Vilnius"
       },
       "name" : "Vilnius",
-      "packVersion" : 11,
+      "packVersion" : 12,
       "stats" : {
-        "estHours" : 5.1,
-        "nodeCount" : 846,
-        "routeFactor" : 1.29,
-        "routeKm" : 17.9,
+        "estHours" : 5,
+        "nodeCount" : 831,
+        "routeFactor" : 1.28,
+        "routeKm" : 17.5,
         "stepsStreetCount" : 0,
-        "streetCount" : 57,
-        "totalKm" : 13.98
+        "streetCount" : 56,
+        "totalKm" : 13.74
       },
       "status" : "published",
       "tiles" : {
@@ -21422,12 +21415,12 @@
       },
       "walkStops" : [
         "Vilniaus universitetas",
+        "Lietuvos Respublikos prezidentūra",
+        "Šv. Mikalojaus bažnyčia",
         "Vilniaus Rotušė",
         "Šv. Kazimiero bažnyčia",
         "Aušros Vartai",
-        "Šv. Mikalojaus bažnyčia",
-        "Lietuvos Respublikos prezidentūra",
-        "Vilniaus Šv. Stanislovo ir Šv. Vladislovo arkikatedra bazilika",
+        "Vilniaus gynybinės sienos Bastėja",
         "Šv. Onos bažnyčia"
       ]
     },
@@ -21896,15 +21889,15 @@
         "en" : "York"
       },
       "name" : "York",
-      "packVersion" : 16,
+      "packVersion" : 17,
       "stats" : {
-        "estHours" : 9.7,
-        "nodeCount" : 1778,
+        "estHours" : 9.5,
+        "nodeCount" : 1741,
         "routeFactor" : 1.28,
-        "routeKm" : 33.8,
-        "stepsStreetCount" : 7,
-        "streetCount" : 194,
-        "totalKm" : 26.69
+        "routeKm" : 33.3,
+        "stepsStreetCount" : 6,
+        "streetCount" : 193,
+        "totalKm" : 26.22
       },
       "status" : "published",
       "tiles" : {
@@ -21916,10 +21909,10 @@
         "York Minster",
         "Monk Bar",
         "Kings Square",
-        "Jorvik Viking Centre",
+        "Walmgate Bar",
         "York Castle Museum",
+        "Jorvik Viking Centre",
         "Clifford's Tower",
-        "Micklegate Bar",
         "St Mary's Abbey"
       ]
     },
