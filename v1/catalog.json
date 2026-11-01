@@ -3434,15 +3434,15 @@
         "en" : "Budapest"
       },
       "name" : "Budapest",
-      "packVersion" : 23,
+      "packVersion" : 24,
       "stats" : {
         "estHours" : 15.6,
-        "nodeCount" : 2669,
+        "nodeCount" : 2655,
         "routeFactor" : 1.26,
-        "routeKm" : 54.8,
-        "stepsStreetCount" : 18,
-        "streetCount" : 175,
-        "totalKm" : 43.57
+        "routeKm" : 54.6,
+        "stepsStreetCount" : 17,
+        "streetCount" : 174,
+        "totalKm" : 43.41
       },
       "status" : "published",
       "tiles" : {

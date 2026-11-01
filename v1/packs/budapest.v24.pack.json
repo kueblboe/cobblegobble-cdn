@@ -371,23 +371,13 @@
 
     ],
     "adjustedStreets" : [
-      "Belgrád rakpart",
-      "Budavári Palota",
-      "Contra-Aquincum",
-      "Fővám tér",
-      "Habsburg lépcső",
-      "Lépcsőpavilon",
-      "Március 15. tér",
-      "Palota út",
-      "Petőfi tér",
-      "Piarista utca",
-      "Sikló utca",
-      "Szabadság híd",
-      "Széchenyi lánchíd"
+      "Citadella",
+      "Citadella sétány",
+      "Szentháromság tér"
     ],
-    "fromVersion" : 21,
+    "fromVersion" : 23,
     "removedStreets" : [
-
+      "Halászbástya"
     ]
   },
   "cityId" : "budapest",
@@ -15572,12 +15562,36 @@
     ],
     [
       [
+        47.48727,
+        19.058139
+      ],
+      [
+        47.487207,
+        19.058249
+      ]
+    ],
+    [
+      [
         47.487338,
         19.05871
       ],
       [
         47.487297,
         19.058636
+      ]
+    ],
+    [
+      [
+        47.486207,
+        19.059425
+      ],
+      [
+        47.486112,
+        19.059252
+      ],
+      [
+        47.486042,
+        19.059124
       ]
     ],
     [
@@ -15610,6 +15624,20 @@
     ],
     [
       [
+        47.486697,
+        19.058849
+      ],
+      [
+        47.486605,
+        19.058687
+      ],
+      [
+        47.486531,
+        19.058557
+      ]
+    ],
+    [
+      [
         47.487051,
         19.059033
       ],
@@ -15620,12 +15648,100 @@
     ],
     [
       [
+        47.487207,
+        19.058249
+      ],
+      [
+        47.487139,
+        19.058332
+      ],
+      [
+        47.487086,
+        19.058394
+      ],
+      [
+        47.486852,
+        19.058668
+      ],
+      [
+        47.486697,
+        19.058849
+      ],
+      [
+        47.4865,
+        19.059081
+      ],
+      [
+        47.486322,
+        19.05929
+      ],
+      [
+        47.486207,
+        19.059425
+      ],
+      [
+        47.486169,
+        19.059469
+      ],
+      [
+        47.48611,
+        19.059748
+      ]
+    ],
+    [
+      [
+        47.487297,
+        19.058636
+      ],
+      [
+        47.487233,
+        19.058513
+      ],
+      [
+        47.487139,
+        19.058332
+      ]
+    ],
+    [
+      [
+        47.487014,
+        19.058967
+      ],
+      [
+        47.486944,
+        19.058838
+      ],
+      [
+        47.486852,
+        19.058668
+      ],
+      [
+        47.486765,
+        19.058504
+      ],
+      [
+        47.486693,
+        19.05837
+      ]
+    ],
+    [
+      [
         47.486693,
         19.05837
       ],
       [
         47.486649,
         19.05829
+      ]
+    ],
+    [
+      [
+        47.486531,
+        19.058557
+      ],
+      [
+        47.48649,
+        19.058477
       ]
     ],
     [
@@ -15646,6 +15762,70 @@
       [
         47.486157,
         19.058868
+      ]
+    ],
+    [
+      [
+        47.486042,
+        19.059124
+      ],
+      [
+        47.486002,
+        19.059051
+      ]
+    ],
+    [
+      [
+        47.48611,
+        19.059748
+      ],
+      [
+        47.486104,
+        19.059834
+      ]
+    ],
+    [
+      [
+        47.486451,
+        19.059621
+      ],
+      [
+        47.486392,
+        19.059471
+      ],
+      [
+        47.486322,
+        19.05929
+      ],
+      [
+        47.486247,
+        19.059097
+      ],
+      [
+        47.48619,
+        19.05895
+      ]
+    ],
+    [
+      [
+        47.486619,
+        19.059432
+      ],
+      [
+        47.486564,
+        19.059274
+      ],
+      [
+        47.4865,
+        19.059081
+      ],
+      [
+        47.486434,
+        19.058883
+      ],
+      [
+        47.486384,
+        19.058736
       ]
     ],
     [
@@ -19308,6 +19488,98 @@
     ],
     [
       [
+        47.487119,
+        19.058089
+      ],
+      [
+        47.486985,
+        19.058252
+      ],
+      [
+        47.486765,
+        19.058504
+      ],
+      [
+        47.486605,
+        19.058687
+      ],
+      [
+        47.486434,
+        19.058883
+      ],
+      [
+        47.486247,
+        19.059097
+      ],
+      [
+        47.486112,
+        19.059252
+      ]
+    ],
+    [
+      [
+        47.48727,
+        19.058139
+      ],
+      [
+        47.487386,
+        19.058359
+      ],
+      [
+        47.487482,
+        19.058547
+      ]
+    ],
+    [
+      [
+        47.48731,
+        19.058436
+      ],
+      [
+        47.487233,
+        19.058513
+      ],
+      [
+        47.487196,
+        19.05855
+      ],
+      [
+        47.486944,
+        19.058838
+      ],
+      [
+        47.486564,
+        19.059274
+      ],
+      [
+        47.486392,
+        19.059471
+      ],
+      [
+        47.486316,
+        19.059558
+      ],
+      [
+        47.486207,
+        19.059425
+      ]
+    ],
+    [
+      [
+        47.486985,
+        19.058252
+      ],
+      [
+        47.487086,
+        19.058394
+      ],
+      [
+        47.487196,
+        19.05855
+      ]
+    ],
+    [
+      [
         47.486965,
         19.056804
       ],
@@ -19806,6 +20078,32 @@
       [
         47.495835,
         19.039046
+      ]
+    ],
+    [
+      [
+        47.487029,
+        19.05777
+      ],
+      [
+        47.487051,
+        19.057818
+      ],
+      [
+        47.487113,
+        19.057855
+      ],
+      [
+        47.487192,
+        19.057999
+      ],
+      [
+        47.487221,
+        19.058051
+      ],
+      [
+        47.48727,
+        19.058139
       ]
     ],
     [
@@ -21838,6 +22136,16 @@
       [
         47.487119,
         19.058089
+      ]
+    ],
+    [
+      [
+        47.487386,
+        19.058359
+      ],
+      [
+        47.48731,
+        19.058436
       ]
     ],
     [
@@ -24884,6 +25192,46 @@
     ],
     [
       [
+        47.486771,
+        19.04565
+      ],
+      [
+        47.486702,
+        19.045632
+      ]
+    ],
+    [
+      [
+        47.486889,
+        19.045682
+      ],
+      [
+        47.486771,
+        19.04565
+      ]
+    ],
+    [
+      [
+        47.487285,
+        19.045696
+      ],
+      [
+        47.48715,
+        19.04571
+      ]
+    ],
+    [
+      [
+        47.487379,
+        19.045675
+      ],
+      [
+        47.487285,
+        19.045696
+      ]
+    ],
+    [
+      [
         47.486671,
         19.045215
       ],
@@ -25066,6 +25414,16 @@
       [
         47.49345,
         19.056034
+      ]
+    ],
+    [
+      [
+        47.502088,
+        19.034819
+      ],
+      [
+        47.502086,
+        19.034759
       ]
     ],
     [
@@ -25460,6 +25818,20 @@
     ],
     [
       [
+        47.48715,
+        19.04571
+      ],
+      [
+        47.487012,
+        19.045695
+      ],
+      [
+        47.486889,
+        19.045682
+      ]
+    ],
+    [
+      [
         47.498163,
         19.040091
       ],
@@ -25562,6 +25934,46 @@
       [
         47.497451,
         19.051982
+      ]
+    ],
+    [
+      [
+        47.502036,
+        19.034825
+      ],
+      [
+        47.502088,
+        19.034819
+      ]
+    ],
+    [
+      [
+        47.501677,
+        19.03502
+      ],
+      [
+        47.501687,
+        19.035019
+      ],
+      [
+        47.501784,
+        19.035239
+      ],
+      [
+        47.501825,
+        19.035246
+      ],
+      [
+        47.502024,
+        19.035045
+      ],
+      [
+        47.50205,
+        19.034951
+      ],
+      [
+        47.502036,
+        19.034825
       ]
     ],
     [
@@ -26118,86 +26530,6 @@
       [
         47.491429,
         19.058117
-      ]
-    ],
-    [
-      [
-        47.487297,
-        19.058636
-      ],
-      [
-        47.487233,
-        19.058513
-      ],
-      [
-        47.487139,
-        19.058332
-      ]
-    ],
-    [
-      [
-        47.487014,
-        19.058967
-      ],
-      [
-        47.486944,
-        19.058838
-      ],
-      [
-        47.486852,
-        19.058668
-      ],
-      [
-        47.486765,
-        19.058504
-      ],
-      [
-        47.486693,
-        19.05837
-      ]
-    ],
-    [
-      [
-        47.486451,
-        19.059621
-      ],
-      [
-        47.486392,
-        19.059471
-      ],
-      [
-        47.486322,
-        19.05929
-      ],
-      [
-        47.486247,
-        19.059097
-      ],
-      [
-        47.48619,
-        19.05895
-      ]
-    ],
-    [
-      [
-        47.486619,
-        19.059432
-      ],
-      [
-        47.486564,
-        19.059274
-      ],
-      [
-        47.4865,
-        19.059081
-      ],
-      [
-        47.486434,
-        19.058883
-      ],
-      [
-        47.486384,
-        19.058736
       ]
     ],
     [
@@ -28406,20 +28738,6 @@
     ],
     [
       [
-        47.487079,
-        19.057712
-      ],
-      [
-        47.487072,
-        19.057773
-      ],
-      [
-        47.487051,
-        19.057818
-      ]
-    ],
-    [
-      [
         47.49113,
         19.051568
       ],
@@ -29562,6 +29880,18 @@
     false,
     false,
     false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    true,
     true,
     true,
     true,
@@ -29575,7 +29905,6 @@
     true,
     true,
     true,
-    true,
     false,
     false,
     false,
@@ -29588,142 +29917,6 @@
     false,
     false,
     true,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    true,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    true,
-    false,
-    false,
-    false,
-    false,
-    false,
-    true,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    true,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    true,
-    true,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
     false,
     false,
     false,
@@ -29753,31 +29946,13 @@
     false,
     false,
     false,
+    true,
     false,
     false,
     false,
     false,
     false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
+    true,
     false,
     false,
     false,
@@ -29795,239 +29970,8 @@
     false,
     false,
     false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
     true,
     true,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    true,
-    true,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    true,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    true,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
     false,
     false,
     false,
@@ -30177,49 +30121,7 @@
     false,
     false,
     false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
     true,
-    false,
-    false,
-    true,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
     false,
     false,
     false,
@@ -30300,6 +30202,442 @@
     true,
     true,
     false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    true,
+    true,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    true,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    true,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    true,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    true,
+    false,
+    false,
+    true,
+    false,
+    false,
+    true,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    true,
+    true,
     false,
     false,
     false,
@@ -30444,8 +30782,8 @@
       },
       "name" : "Központi Vásárcsarnok",
       "pos" : [
-        47.486598,
-        19.058866
+        47.48647,
+        19.058669
       ],
       "story" : "People say Gustave Eiffel designed this hall. He didn't. The man behind it was a Hungarian architect, Samu Pecz."
     },
@@ -30570,7 +30908,7 @@
       "story" : "Legend says the palace grounds were once King Matthias's game park, kept green for his hunting."
     }
   ],
-  "generatedAt" : "2026-10-25T12:52:46Z",
+  "generatedAt" : "2026-11-01T07:08:33Z",
   "icon" : {
     "paths" : [
       "M8.00,62.00 L92.00,62.00 L92.00,70.00 L8.00,70.00 Z M18.00,12.00 L34.00,12.00 L34.00,82.00 L18.00,82.00 Z M17.00,12 L26.00,4 L35.00,12 Z M22.00,22.00 L22.00,40.00 L30.00,40.00 L30.00,22.00 Z M22.00,48.00 L22.00,60.00 L30.00,60.00 L30.00,48.00 Z M66.00,12.00 L82.00,12.00 L82.00,82.00 L66.00,82.00 Z M65.00,12 L74.00,4 L83.00,12 Z M70.00,22.00 L70.00,40.00 L78.00,40.00 L78.00,22.00 Z M70.00,48.00 L70.00,60.00 L78.00,60.00 L78.00,48.00 Z M23.59,6.67 L24.76,10.88 L26.01,14.88 L27.33,18.60 L28.71,22.07 L30.16,25.27 L31.66,28.22 L33.22,30.90 L34.84,33.33 L36.52,35.50 L38.26,37.41 L40.06,39.06 L41.93,40.44 L43.87,41.54 L45.87,42.34 L47.92,42.83 L50.00,43.00 L52.08,42.83 L54.13,42.34 L56.13,41.54 L58.07,40.44 L59.94,39.06 L61.74,37.41 L63.48,35.50 L65.16,33.33 L66.78,30.90 L68.34,28.22 L69.84,25.27 L71.29,22.07 L72.67,18.60 L73.99,14.88 L75.24,10.88 L76.41,6.67 L71.59,5.33 L70.44,9.47 L69.24,13.30 L67.99,16.85 L66.68,20.12 L65.33,23.11 L63.95,25.83 L62.53,28.26 L61.09,30.42 L59.64,32.29 L58.19,33.89 L56.75,35.20 L55.34,36.25 L53.95,37.04 L52.60,37.58 L51.29,37.90 L50.00,38.00 L48.71,37.90 L47.40,37.58 L46.05,37.04 L44.66,36.25 L43.25,35.20 L41.81,33.89 L40.36,32.29 L38.91,30.42 L37.47,28.26 L36.05,25.83 L34.67,23.11 L33.32,20.12 L32.01,16.85 L30.76,13.30 L29.56,9.47 L28.41,5.33 Z M28.50,17.72 L31.50,17.72 L31.50,62.00 L28.50,62.00 Z M38.50,35.65 L41.50,35.65 L41.50,62.00 L38.50,62.00 Z M48.50,40.50 L51.50,40.50 L51.50,62.00 L48.50,62.00 Z M58.50,35.65 L61.50,35.65 L61.50,62.00 L58.50,62.00 Z M68.50,17.72 L71.50,17.72 L71.50,62.00 L68.50,62.00 Z "
@@ -30583,17 +30921,17 @@
     "en" : "Budapest"
   },
   "name" : "Budapest",
-  "packVersion" : 22,
+  "packVersion" : 24,
   "schemaVersion" : 1,
   "source" : "OpenStreetMap via Overpass API",
   "stats" : {
-    "estHours" : 15.8,
-    "nodeCount" : 2701,
-    "routeFactor" : 1.25,
-    "routeKm" : 55.3,
-    "stepsStreetCount" : 18,
-    "streetCount" : 176,
-    "totalKm" : 44.24
+    "estHours" : 15.6,
+    "nodeCount" : 2655,
+    "routeFactor" : 1.26,
+    "routeKm" : 54.6,
+    "stepsStreetCount" : 17,
+    "streetCount" : 174,
+    "totalKm" : 43.41
   },
   "streets" : [
     {
@@ -33027,7 +33365,7 @@
     {
       "hasSteps" : true,
       "id" : "s-citadella",
-      "lengthM" : 607.8,
+      "lengthM" : 578.7,
       "name" : "Citadella",
       "nodes" : [
         [
@@ -33169,18 +33507,6 @@
         [
           47.487012,
           19.045695
-        ],
-        [
-          47.48715,
-          19.04571
-        ],
-        [
-          47.48697,
-          19.045691
-        ],
-        [
-          47.486889,
-          19.045682
         ],
         [
           47.486786,
@@ -33416,20 +33742,6 @@
           [
             47.487012,
             19.045717
-          ]
-        ],
-        [
-          [
-            47.48715,
-            19.04571
-          ],
-          [
-            47.487012,
-            19.045695
-          ],
-          [
-            47.486889,
-            19.045682
           ]
         ],
         [
@@ -33672,7 +33984,7 @@
     },
     {
       "id" : "s-citadella-setany",
-      "lengthM" : 841.2,
+      "lengthM" : 794.4,
       "name" : "Citadella sétány",
       "nodes" : [
         [
@@ -33850,26 +34162,6 @@
         [
           47.487133,
           19.047459
-        ],
-        [
-          47.486771,
-          19.04565
-        ],
-        [
-          47.486889,
-          19.045682
-        ],
-        [
-          47.487285,
-          19.045696
-        ],
-        [
-          47.48715,
-          19.04571
-        ],
-        [
-          47.487379,
-          19.045675
         ]
       ],
       "polylines" : [
@@ -34185,46 +34477,6 @@
           [
             47.487397,
             19.044065
-          ]
-        ],
-        [
-          [
-            47.486771,
-            19.04565
-          ],
-          [
-            47.486702,
-            19.045632
-          ]
-        ],
-        [
-          [
-            47.486889,
-            19.045682
-          ],
-          [
-            47.486771,
-            19.04565
-          ]
-        ],
-        [
-          [
-            47.487285,
-            19.045696
-          ],
-          [
-            47.48715,
-            19.04571
-          ]
-        ],
-        [
-          [
-            47.487379,
-            19.045675
-          ],
-          [
-            47.487285,
-            19.045696
           ]
         ]
       ]
@@ -34950,7 +35202,7 @@
     },
     {
       "id" : "s-csarnok-ter",
-      "lengthM" : 139.9,
+      "lengthM" : 133.4,
       "name" : "Csarnok tér",
       "nodes" : [
         [
@@ -34992,10 +35244,6 @@
         [
           47.485772,
           19.059792
-        ],
-        [
-          47.48611,
-          19.059748
         ]
       ],
       "polylines" : [
@@ -35079,16 +35327,6 @@
           [
             47.485853,
             19.059805
-          ]
-        ],
-        [
-          [
-            47.48611,
-            19.059748
-          ],
-          [
-            47.486104,
-            19.059834
           ]
         ]
       ]
@@ -38352,7 +38590,7 @@
     },
     {
       "id" : "s-fovam-ter-m",
-      "lengthM" : 121.3,
+      "lengthM" : 71.3,
       "name" : "Fővám tér M",
       "nodes" : [
         [
@@ -38374,22 +38612,6 @@
         [
           47.486912,
           19.057205
-        ],
-        [
-          47.48727,
-          19.058139
-        ],
-        [
-          47.487207,
-          19.058249
-        ],
-        [
-          47.487029,
-          19.05777
-        ],
-        [
-          47.48716,
-          19.05794
         ]
       ],
       "polylines" : [
@@ -38401,42 +38623,6 @@
           [
             47.486912,
             19.057205
-          ]
-        ],
-        [
-          [
-            47.48727,
-            19.058139
-          ],
-          [
-            47.487207,
-            19.058249
-          ]
-        ],
-        [
-          [
-            47.487029,
-            19.05777
-          ],
-          [
-            47.487051,
-            19.057818
-          ],
-          [
-            47.487113,
-            19.057855
-          ],
-          [
-            47.487192,
-            19.057999
-          ],
-          [
-            47.487221,
-            19.058051
-          ],
-          [
-            47.48727,
-            19.058139
           ]
         ]
       ]
@@ -38975,80 +39161,6 @@
           [
             47.50002,
             19.034129
-          ]
-        ]
-      ]
-    },
-    {
-      "hasSteps" : true,
-      "id" : "s-halaszbastya",
-      "layered" : [
-        false,
-        true
-      ],
-      "lengthM" : 75.3,
-      "name" : "Halászbástya",
-      "nodes" : [
-        [
-          47.502036,
-          19.034825
-        ],
-        [
-          47.501677,
-          19.03502
-        ],
-        [
-          47.50178,
-          19.035229
-        ],
-        [
-          47.501933,
-          19.035137
-        ],
-        [
-          47.50205,
-          19.03495
-        ]
-      ],
-      "polylines" : [
-        [
-          [
-            47.502036,
-            19.034825
-          ],
-          [
-            47.502088,
-            19.034819
-          ]
-        ],
-        [
-          [
-            47.501677,
-            19.03502
-          ],
-          [
-            47.501687,
-            19.035019
-          ],
-          [
-            47.501784,
-            19.035239
-          ],
-          [
-            47.501825,
-            19.035246
-          ],
-          [
-            47.502024,
-            19.035045
-          ],
-          [
-            47.50205,
-            19.034951
-          ],
-          [
-            47.502036,
-            19.034825
           ]
         ]
       ]
@@ -42062,243 +42174,6 @@
           [
             47.493049,
             19.054204
-          ]
-        ]
-      ]
-    },
-    {
-      "id" : "s-kozponti-vasarcsarnok",
-      "lengthM" : 556.5,
-      "name" : "Központi Vásárcsarnok",
-      "nodes" : [
-        [
-          47.486207,
-          19.059425
-        ],
-        [
-          47.486093,
-          19.059218
-        ],
-        [
-          47.486042,
-          19.059124
-        ],
-        [
-          47.486697,
-          19.058849
-        ],
-        [
-          47.486582,
-          19.058646
-        ],
-        [
-          47.486531,
-          19.058557
-        ],
-        [
-          47.487207,
-          19.058249
-        ],
-        [
-          47.487067,
-          19.058416
-        ],
-        [
-          47.486135,
-          19.059629
-        ],
-        [
-          47.48611,
-          19.059748
-        ],
-        [
-          47.487119,
-          19.058089
-        ],
-        [
-          47.48698,
-          19.058258
-        ],
-        [
-          47.486269,
-          19.059072
-        ],
-        [
-          47.486127,
-          19.059235
-        ],
-        [
-          47.48731,
-          19.058436
-        ],
-        [
-          47.487163,
-          19.058588
-        ],
-        [
-          47.486309,
-          19.059549
-        ],
-        [
-          47.486985,
-          19.058252
-        ],
-        [
-          47.487115,
-          19.058436
-        ],
-        [
-          47.487196,
-          19.05855
-        ]
-      ],
-      "polylines" : [
-        [
-          [
-            47.486207,
-            19.059425
-          ],
-          [
-            47.486112,
-            19.059252
-          ],
-          [
-            47.486042,
-            19.059124
-          ]
-        ],
-        [
-          [
-            47.486697,
-            19.058849
-          ],
-          [
-            47.486605,
-            19.058687
-          ],
-          [
-            47.486531,
-            19.058557
-          ]
-        ],
-        [
-          [
-            47.487207,
-            19.058249
-          ],
-          [
-            47.487139,
-            19.058332
-          ],
-          [
-            47.487086,
-            19.058394
-          ],
-          [
-            47.486852,
-            19.058668
-          ],
-          [
-            47.486697,
-            19.058849
-          ],
-          [
-            47.4865,
-            19.059081
-          ],
-          [
-            47.486322,
-            19.05929
-          ],
-          [
-            47.486207,
-            19.059425
-          ],
-          [
-            47.486169,
-            19.059469
-          ],
-          [
-            47.48611,
-            19.059748
-          ]
-        ],
-        [
-          [
-            47.487119,
-            19.058089
-          ],
-          [
-            47.486985,
-            19.058252
-          ],
-          [
-            47.486765,
-            19.058504
-          ],
-          [
-            47.486605,
-            19.058687
-          ],
-          [
-            47.486434,
-            19.058883
-          ],
-          [
-            47.486247,
-            19.059097
-          ],
-          [
-            47.486112,
-            19.059252
-          ]
-        ],
-        [
-          [
-            47.48731,
-            19.058436
-          ],
-          [
-            47.487233,
-            19.058513
-          ],
-          [
-            47.487196,
-            19.05855
-          ],
-          [
-            47.486944,
-            19.058838
-          ],
-          [
-            47.486564,
-            19.059274
-          ],
-          [
-            47.486392,
-            19.059471
-          ],
-          [
-            47.486316,
-            19.059558
-          ],
-          [
-            47.486207,
-            19.059425
-          ]
-        ],
-        [
-          [
-            47.486985,
-            19.058252
-          ],
-          [
-            47.487086,
-            19.058394
-          ],
-          [
-            47.487196,
-            19.05855
           ]
         ]
       ]
@@ -46493,7 +46368,7 @@
     },
     {
       "id" : "s-pipa-utca",
-      "lengthM" : 179.8,
+      "lengthM" : 130.9,
       "name" : "Pipa utca",
       "nodes" : [
         [
@@ -46527,26 +46402,6 @@
         [
           47.487523,
           19.058501
-        ],
-        [
-          47.48727,
-          19.058139
-        ],
-        [
-          47.487381,
-          19.058349
-        ],
-        [
-          47.487482,
-          19.058547
-        ],
-        [
-          47.487386,
-          19.058359
-        ],
-        [
-          47.48731,
-          19.058436
         ]
       ],
       "polylines" : [
@@ -46578,30 +46433,6 @@
           [
             47.487523,
             19.058501
-          ]
-        ],
-        [
-          [
-            47.48727,
-            19.058139
-          ],
-          [
-            47.487386,
-            19.058359
-          ],
-          [
-            47.487482,
-            19.058547
-          ]
-        ],
-        [
-          [
-            47.487386,
-            19.058359
-          ],
-          [
-            47.48731,
-            19.058436
           ]
         ]
       ]
@@ -49688,7 +49519,7 @@
     },
     {
       "id" : "s-szentharomsag-ter",
-      "lengthM" : 487,
+      "lengthM" : 482.5,
       "name" : "Szentháromság tér",
       "nodes" : [
         [
@@ -49810,10 +49641,6 @@
         [
           47.501559,
           19.033839
-        ],
-        [
-          47.502088,
-          19.034819
         ],
         [
           47.502293,
@@ -50001,16 +49828,6 @@
           [
             47.501559,
             19.033839
-          ]
-        ],
-        [
-          [
-            47.502088,
-            19.034819
-          ],
-          [
-            47.502086,
-            19.034759
           ]
         ],
         [
@@ -52024,48 +51841,48 @@
     },
     {
       "id" : "s-sohaz-utca",
-      "lengthM" : 226.6,
+      "lengthM" : 220.6,
       "name" : "Sóház utca",
       "nodes" : [
         [
-          47.487051,
-          19.057818
+          47.487079,
+          19.057712
         ],
         [
-          47.48691,
-          19.057983
+          47.486972,
+          19.057911
         ],
         [
-          47.486769,
-          19.058149
+          47.486831,
+          19.058076
         ],
         [
-          47.486628,
-          19.058314
+          47.48669,
+          19.058242
         ],
         [
-          47.486488,
-          19.058479
+          47.486549,
+          19.058407
         ],
         [
-          47.486346,
-          19.058644
+          47.486408,
+          19.058572
         ],
         [
-          47.486206,
-          19.05881
+          47.486267,
+          19.058738
         ],
         [
-          47.486065,
-          19.058976
+          47.486127,
+          19.058904
         ],
         [
-          47.485922,
-          19.059138
+          47.485985,
+          19.059069
         ],
         [
-          47.48578,
-          19.059301
+          47.485841,
+          19.059227
         ],
         [
           47.485753,
@@ -52074,18 +51891,18 @@
         [
           47.485609,
           19.059521
-        ],
-        [
-          47.486042,
-          19.059124
-        ],
-        [
-          47.486531,
-          19.058557
         ]
       ],
       "polylines" : [
         [
+          [
+            47.487079,
+            19.057712
+          ],
+          [
+            47.487072,
+            19.057773
+          ],
           [
             47.487051,
             19.057818
@@ -52139,26 +51956,6 @@
           [
             47.485564,
             19.05957
-          ]
-        ],
-        [
-          [
-            47.486042,
-            19.059124
-          ],
-          [
-            47.486002,
-            19.059051
-          ]
-        ],
-        [
-          [
-            47.486531,
-            19.058557
-          ],
-          [
-            47.48649,
-            19.058477
           ]
         ]
       ]
